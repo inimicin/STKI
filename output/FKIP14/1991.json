@@ -1,0 +1,73 @@
+[
+    {
+      "publisher": "Association des Professeurs de Franscais En Indonesie",
+      "publication": "Cadence",
+      "divisions": [
+        "FKIP14"
+      ],
+      "dir": "disk0\/00\/01\/09\/81",
+      "issn": "0215-8612",
+      "full_text_status": "public",
+      "status_changed": "2019-04-09 06:54:29",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "PL"
+      ],
+      "date": "1991-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10981",
+      "creators": [
+        {
+          "id": "kahfie.nazaruddin@fkip.unila.ac.id",
+          "name": {
+            "given": "Kahfie",
+            "family": "Nazaruddin",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Bila Yoni Menggugat Lingga: Kritik Feminis di Indonesia",
+      "refereed": "TRUE",
+      "datestamp": "2019-04-09 06:54:29",
+      "eprintid": 10981,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "32-43",
+      "userid": 346,
+      "number": 5,
+      "lastmod": "2019-04-09 06:54:29",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23980",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 10981,
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "rev_number": 2,
+            "main": "cadence 20-Mar-2019 15-33-52(1) (1)",
+            "docid": 23980,
+            "files": [
+                {
+                  "mtime": "2019-03-22 02:27:54",
+                  "hash_type": "MD5",
+                  "filename": "cadence 20-Mar-2019 15-33-52(1) (1)",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/100676",
+                  "objectid": 23980,
+                  "filesize": 9457797,
+                  "hash": "cd33846c1fcaebaa0f2f6b7ece32fa9d",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 100676
+                }
+            ],
+            "format": "text"
+          }
+      ]
+    }
+]
+

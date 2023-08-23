@@ -1,0 +1,345 @@
+[
+    {
+      "subjects": [
+        "T1",
+        "TA",
+        "TC",
+        "TD"
+      ],
+      "date_type": "published",
+      "abstract": "Indonesia is a country that has large rain water availability. However, the implementation of rainwater harvesting in urban areas has not become a popular activity in Indonesia. Instead of the ignorance of the public about the importance of rainwater harvesting as an alternative source of freshwater, information and knowledge about the construction of the installation of rainwater harvesting systems is still very limited. This paper aims to analyze supporting capacity of rainwater harvesting for domestic needs in Bandar Lampung city, Indonesia. This paper also aims to introduce a real experience in rainwater harvesting at household scale in the city. Rainwater harvesting simulation is applied to a family with a roof area of 70 m2 with number of family members 5 persons and maximum storage capacity 1.2 m3. Daily rainfall data used in the simulation is obtained from Bandar Lampung Raingauge Station with period of data from 1992 to 1996. The simulation shows that supporting capacity of rainwater harvesting in the area of study is about 53% and 42% for wet year and dry year, respectively. Experience also shows that knowledge about the operation and maintenance of rainwater harvesting facility is important in the application of rainwater harvesting at household scale.",
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22690",
+      "publisher": "Water Resources Engineering Dept., Brawijaya University",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/02\/26\/90",
+      "status_changed": "2020-06-20 19:22:34",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "id_number": "ISSN: 2460-0849",
+      "eprint_status": "archive",
+      "eprintid": 22690,
+      "datestamp": "2020-06-20 19:22:34",
+      "metadata_visibility": "show",
+      "userid": 874,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 36171,
+            "main": "ICWRDEP 2015 - SIMILARITY.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "a71be786560f259c0a3841519eb91949",
+                  "datasetid": "document",
+                  "fileid": 208133,
+                  "mtime": "2020-06-20 16:45:20",
+                  "hash_type": "MD5",
+                  "filename": "ICWRDEP 2015 - SIMILARITY.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/208133",
+                  "objectid": 36171,
+                  "filesize": 382317
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36171",
+            "pos": 1,
+            "eprintid": 22690,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2020-06-20 19:22:34",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Gatot Eko",
+            "honourific": null,
+            "lineage": null,
+            "family": "Susilo"
+          },
+          "id": "gatot89@yahoo.ca"
+        }
+      ],
+      "title": "Experience in Rainwater Harvesting Application at\r\nHousehold Scale in Bandar Lampung, Indonesia",
+      "place_of_pub": "Malang Indonesia"
+    },
+    {
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18450",
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2020-03-12 04:36:30",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "dir": "disk0\/00\/01\/84\/50",
+      "publisher": "Universiti Teknologi Malaysia Press",
+      "divisions": [
+        "FT2"
+      ],
+      "userid": 874,
+      "lastmod": "2020-03-12 04:36:30",
+      "documents": [
+          {
+            "format": "text",
+            "main": "J2-JURTEK.pdf",
+            "files": [
+                {
+                  "hash": "ac2c757191d7e8fba2c4b5a12aca2634",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 155159,
+                  "filename": "J2-JURTEK.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155159",
+                  "objectid": 31607,
+                  "filesize": 2062994,
+                  "mtime": "2020-03-08 11:01:12",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 31607,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 18450,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31607"
+          }
+      ],
+      "datestamp": "2020-03-12 04:36:30",
+      "eprint_status": "archive",
+      "eprintid": 18450,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Susilo",
+            "honourific": null,
+            "given": "Gatot Eko"
+          },
+          "id": "gatot89@yahoo.ca"
+        }
+      ],
+      "type": "other",
+      "title": "REPOSITORY REVIEWER: Jurnal Teknologi Vol. 77(23) tahun 2015"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18464",
+      "date": 2015,
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "status_changed": "2020-03-12 04:47:56",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Water Resources Engineering Dept., Brawijaya University",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/01\/84\/64",
+      "userid": 874,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31623",
+            "eprintid": 18464,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 155274,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "d8fc0aa7a6cedd1accbee004e696a653",
+                  "hash_type": "MD5",
+                  "mtime": "2020-03-08 17:28:02",
+                  "filesize": 1703039,
+                  "objectid": 31623,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155274",
+                  "filename": "P3-ICWRDEP.pdf"
+                }
+            ],
+            "main": "P3-ICWRDEP.pdf",
+            "docid": 31623
+          }
+      ],
+      "lastmod": "2020-03-12 04:47:56",
+      "eprintid": 18464,
+      "eprint_status": "archive",
+      "datestamp": "2020-03-12 04:47:56",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Gatot Eko",
+            "lineage": null,
+            "family": "Susilo",
+            "honourific": null
+          },
+          "id": "gatot89@yahoo.ca"
+        }
+      ],
+      "type": "other",
+      "title": "REPOSITORY REVIEWER: PROSIDING ICWRDEP 2015"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "id": "gatot89@yahoo.ca",
+          "name": {
+            "family": "Susilo",
+            "lineage": null,
+            "honourific": null,
+            "given": "Gatot Eko"
+          }
+        }
+      ],
+      "title": "Repository Reviewer: Hydrological Sciences Journal, Vol. 58(3) tahun 2013",
+      "datestamp": "2020-03-12 04:36:00",
+      "eprint_status": "archive",
+      "eprintid": 18449,
+      "metadata_visibility": "show",
+      "userid": 874,
+      "lastmod": "2020-03-12 04:36:00",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31606",
+            "pos": 1,
+            "eprintid": 18449,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "ba932700b4b9c7589e334d2aff490399",
+                  "mime_type": "application\/pdf",
+                  "fileid": 155148,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155148",
+                  "filename": "J1-JHS.pdf",
+                  "objectid": 31606,
+                  "filesize": 2088981,
+                  "mtime": "2020-03-08 10:51:17",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "J1-JHS.pdf",
+            "docid": 31606
+          }
+      ],
+      "divisions": [
+        "FT2"
+      ],
+      "publisher": "TAYLOR & FRANCIS GROUP",
+      "dir": "disk0\/00\/01\/84\/49",
+      "full_text_status": "public",
+      "status_changed": "2020-03-12 04:36:00",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18449",
+      "date": 2015
+    },
+    {
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49187",
+      "volume": 19,
+      "publication": "Rekayasa, Jurnal Sipil dan Perencanaan",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0_bak\/00\/04\/91\/87",
+      "rev_number": 7,
+      "succeeds": 688,
+      "status_changed": "2023-03-24 01:31:28",
+      "metadata_visibility": "show",
+      "lastmod": "2023-03-24 01:31:28",
+      "title": "PEMODELAN PERIODIK DAN STOKASTIK CURAH HUJAN HARIAN\r\nDARI WILAYAH PRINGSEWU",
+      "creators": [
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Zakaria",
+            "given": "Ahmad"
+          }
+        }
+      ],
+      "type": "article",
+      "date": "2015-12",
+      "abstract": "This research are intended to study the periodic and stochastic modeling of daily rainfalls. The\r\nstudy was carried out using data of daily rainfall with a length of 16 years (1991 – 2006) from\r\nPodorejo, Fajar Esuk, and Panutan rainfall stations. The rainfall series used is assumed to be free\r\nof trend. In this research data series were converted into series of rainfall sepektrum using FFT\r\n(Fast Fourier Transform). Periodicity of daily rainfall data is presented using 253 periodic com-\r\nponent. Stochastic rainfall series of rainfall data is assumed as the difference (error) between the\r\nrainfall data with periodic rainfall model using data length of 512 days. Based on the data series,\r\nstochastic component were calculated using the approach of the autoregressive model. Stochastic\r\nmodels presented here are by using an autoregressive model of third order.\r\nThe results of this research is the value of the correlation coefficient of the three stations. For this\r\nstudy, the average correlation coefficient (R) between data and periodic model is about 0,9770,\r\nbetween data and stochastic model is 0,9979, and between the data and the periodic stochastic\r\nmodel is 0,99991. From these results, it can be concluded that periodic stochastic model of the\r\nrainfall from Pringsewu area that processing model using 253 components, presented a very sig-\r\nnificant approach.",
+      "publisher": "Jurusan Teknik Sipil Fakultas Teknik Universitas Lampung",
+      "keywords": "Periodic, stochastic, rainfall, Pringsewu area",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "0852-7733",
+      "pagerange": "153-166",
+      "eprintid": 49187,
+      "referencetext": "Bhakar, S.R. Singh, Raj Vir, Chhajed, Neeraj, and Bansal, Anil Kumar, 2006, Stochastic\r\nmodeling of monthly rainfall at kota region, ARPN Journal of Engineering and\r\nApplied Sciences, Vol.1 (3): 36-44.\r\nCooley, James W. Tukey, John W., 1965, An Algorithm for the machine calculation of\r\nComplex Fourier Series. Mathematics of Computation. pp. 199-215.\r\nHarto, Sri, 1993, Analisis Hidrologi, P.T Gramedia Pustaka Utama, Jakarta.\r\nKottegoda, N.T., 1980, Stochastic Water Resources Technology. The Macmillan Press\r\nLtd., London. p. 384.\r\nRizalihadi, M. 2002, The generation of synthetic sequences of monthly rainfall using\r\nautoregressive model, Jurnal Teknik Sipil Universitas Syah Kuala, Vol. 1 (2) : 64-\r\n68.\r\nTriatmodjo, Bambang, 2008, Hidrologi Terapan, Beta Offset, Yogyakarta.\r\nZakaria, A. 1998, Preliminary study of tidal prediction using Least Squares Method,\r\nThesis (Master), Bandung Institute of Technology, Bandung, Indonesia.\r\nZakaria, A. 2003, Numerical Modelling of Wave Propagation Using Higher Order Finite\r\nDifference Formulas, Thesis (Doktor), Curtin University of Technology, 247 hlm.\r\nZakaria, A. 2008, The generation of synthetic sequences of monthly cumulative rainfall\r\nusing FFT and least squares method, Prosiding Seminar Hasil Penelitian &\r\nPengabdian kepada masyarakat Universitas Lampung, Vol. 1: 1-15.",
+      "eprint_status": "archive",
+      "datestamp": "2023-03-24 01:31:28",
+      "documents": [
+          {
+            "docid": 188662,
+            "main": "j.rekayasa 19(3) - pemodelan periodik stokastik data hujan pringsewu  - 2015.pdf",
+            "files": [
+                {
+                  "fileid": 534405,
+                  "datasetid": "document",
+                  "hash": "c0c5c8530ef1d4ef5e228146113b73e7",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-23 07:15:02",
+                  "objectid": 188662,
+                  "filesize": 2136631,
+                  "filename": "j.rekayasa 19(3) - pemodelan periodik stokastik data hujan pringsewu  - 2015.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534405"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 7,
+            "eprintid": 49187,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188662",
+            "pos": 7,
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/ft-sipil.unila.ac.id\/ejournals\/index.php\/jrekayasa",
+      "number": 3,
+      "userid": 491,
+      "refereed": "TRUE"
+    }
+]
+

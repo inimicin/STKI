@@ -1,0 +1,2592 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Asmiati",
+            "lineage": null,
+            "given": "Asmiati"
+          },
+          "id": "asmiati308@yahoo.com"
+        }
+      ],
+      "title": "Dimensi partisi n Graf amalgamasi bintang yang dihubungkan suatu lintasan",
+      "refereed": "TRUE",
+      "datestamp": "2017-04-06 01:40:58",
+      "eprintid": 1510,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "93-95",
+      "userid": 821,
+      "number": 3,
+      "lastmod": "2017-04-06 01:41:04",
+      "official_url": "http:\/\/ejournal.undip.ac.id",
+      "documents": [
+          {
+            "eprintid": 1510,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1382",
+            "format": "text",
+            "main": "Dimensi partisi nGraf amalgamasi bintang yang dihubungkan suatu lintasan.pdf",
+            "docid": 1382,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10286",
+                  "filename": "Dimensi partisi nGraf amalgamasi bintang yang dihubungkan suatu lintasan.pdf",
+                  "objectid": 1382,
+                  "filesize": 172436,
+                  "mtime": "2017-04-06 00:22:47",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "4dd8da4e23653ce7415d1246fe1123c3",
+                  "fileid": 10286,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Fakultas Sains dan Matematika, Universitas Diponegoro",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Jurnal Matematika",
+      "dir": "disk0\/00\/00\/15\/10",
+      "issn": "1410-8518",
+      "full_text_status": "public",
+      "status_changed": "2017-04-06 01:41:04",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "volume": 19,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1510",
+      "date": 2016
+    },
+    {
+      "event_location": "FMIPA Universitas Lampung",
+      "pres_type": "speech",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Asmiati",
+            "family": "Asmiati",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "asmiati308@yahoo.com"
+        }
+      ],
+      "title": "Graf Amalgamasi Pohon Berbilangan Kromatik Lokasi Tiga",
+      "event_dates": "26-27 Oktober 2016",
+      "refereed": "TRUE",
+      "userid": 821,
+      "official_url": "http:\/\/smiap.unila.ac.id",
+      "lastmod": "2017-05-29 05:39:06",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1634",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1771,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 1634,
+            "main": "04. SMIAPIV_ProsidingMatInfo_SC.pdf",
+            "files": [
+                {
+                  "filesize": 12767956,
+                  "objectid": 1634,
+                  "filename": "04. SMIAPIV_ProsidingMatInfo_SC.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12239",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 01:01:33",
+                  "datasetid": "document",
+                  "fileid": 12239,
+                  "hash": "821e513a8f00d153ac4205e7d29b8557",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "datestamp": "2017-05-29 05:39:02",
+      "eprint_status": "archive",
+      "eprintid": 1771,
+      "metadata_visibility": "show",
+      "pagerange": "113-118",
+      "full_text_status": "public",
+      "status_changed": "2017-05-29 05:39:06",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/00\/17\/71",
+      "event_type": "conference",
+      "abstract": "Bilangan kromatik lokasi graf merupakan pengembangan dari konsep dimensi partisi graf dan pewarnaan graf. Belum adanya teorema untuk menentukan bilangan kromatik lokasi untuk sebarang graf menjadikan permasalahan ini menjadi menarik, terutama pada graf pohon. Karakterisasi graf pohon untuk beberapa bilangan kromatik lokasi tertentu sudah diperoleh. Pada paper ini akan didiskusikan beberapa graf amalgamasi pohon berbilangan kromatik lokasi tiga.",
+      "date": "2016-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1771",
+      "event_title": "Seminar Nasional Sains Matematika Informatika dan Aplikasinya IV.",
+      "subjects": [
+        "QA"
+      ]
+    },
+    {
+      "title": "Graf dan Aplikasinya pada Jarak Terpendek",
+      "refereed": "TRUE",
+      "isbn": "978-602-60178-2-6",
+      "type": "book",
+      "creators": [
+        {
+          "id": "asmiati308@yahoo.com",
+          "name": {
+            "given": "Asmiati",
+            "lineage": null,
+            "family": "Asmiati",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2017-04-26 03:23:08",
+      "eprintid": 1549,
+      "editors": [
+        {
+          "name": {
+            "given": "Imu",
+            "family": "Graha",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "lastmod": "2017-04-26 03:23:14",
+      "userid": 821,
+      "publisher": "Graha Ilmu",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/00\/15\/49",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "full_text_status": "none",
+      "status_changed": "2017-04-26 03:23:14",
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1549"
+    },
+    {
+      "title": "On the locating-chromatic numbers of non-homogeneous caterpillars and firecracker graphs",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Asmiati",
+            "lineage": null,
+            "family": "Asmiati",
+            "honourific": null
+          },
+          "id": "asmiati308@yahoo.com"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "1305-1316",
+      "datestamp": "2016-11-01 04:13:12",
+      "eprint_status": "archive",
+      "id_number": "10.17654\/MS100081305",
+      "eprintid": 1026,
+      "official_url": "http:\/\/pphmj.com\/journals\/fjms.htm",
+      "lastmod": "2016-11-01 04:13:12",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 916,
+            "main": "Non homogeneous caterpillars and firecrackers.pdf",
+            "files": [
+                {
+                  "fileid": 6613,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "a3ed9c4975c4be8c3fa1c12dbb7bbbb8",
+                  "filesize": 154523,
+                  "objectid": 916,
+                  "filename": "Non homogeneous caterpillars and firecrackers.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6613",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-01 03:42:48"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/916",
+            "pos": 1,
+            "eprintid": 1026,
+            "placement": 1
+          }
+      ],
+      "userid": 821,
+      "number": 8,
+      "publisher": "Pushpa Publishing House",
+      "publication": "On the locating-chromatic numbers of non-homogeneous caterpillars and firecracker graphs",
+      "dir": "disk0\/00\/00\/10\/26",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "issn": "0972-0871",
+      "status_changed": "2016-11-01 04:13:12",
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "date": "2016-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1026",
+      "abstract": "We determine the locating-chromatic numbers of non-homogeneous caterpillars and firecracker graphs.",
+      "volume": 100
+    },
+    {
+      "status_changed": "2017-04-06 01:40:42",
+      "full_text_status": "public",
+      "issn": "2355-8202",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Indonesian Mathematical Society Aceh-North Sumatera",
+      "publication": "Bulletin of Mathematics",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/00\/15\/08",
+      "volume": 8,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1508",
+      "date": 2016,
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Asmiati",
+            "honourific": null,
+            "lineage": null,
+            "family": "Asmiati"
+          },
+          "id": "asmiati308@yahoo.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "The locating-chromatic number for certain of trees",
+      "number": 2,
+      "userid": 821,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Locating-chromatic number for certain of trees.pdf",
+            "docid": 1380,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "afe7ed2661ef99440a8daf661fd003e2",
+                  "fileid": 10274,
+                  "datasetid": "document",
+                  "mtime": "2017-04-05 07:31:33",
+                  "hash_type": "MD5",
+                  "filename": "Locating-chromatic number for certain of trees.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10274",
+                  "objectid": 1380,
+                  "filesize": 204389
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1380",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1508
+          }
+      ],
+      "lastmod": "2017-04-06 01:40:42",
+      "official_url": "http:\/\/jurnal.bull-math.org\/index.php\/bullmath\/issue\/current\/show\/Toc",
+      "eprint_status": "archive",
+      "eprintid": 1508,
+      "datestamp": "2017-04-06 01:40:38",
+      "pagerange": "125-131",
+      "metadata_visibility": "show"
+    },
+    {
+      "creators": [
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurniasari",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dian"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Neural Network Fuzzy Learning Vector Quantization (FLVQ) to Identify Probability Distributions",
+      "userid": 752,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 18668,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31841",
+            "security": "public",
+            "main": "IS13% - A05 - Neural_Network_Fuzzy_Learning_Vector_Quantization_.pdf",
+            "docid": 31841,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/156810",
+                  "filename": "IS13% - A05 - Neural_Network_Fuzzy_Learning_Vector_Quantization_.pdf",
+                  "filesize": 1308283,
+                  "objectid": 31841,
+                  "mtime": "2020-03-13 04:20:46",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "3be253509f979b71a96f11359ba91cd3",
+                  "datasetid": "document",
+                  "fileid": 156810
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2020-03-13 08:46:39",
+      "eprintid": 18668,
+      "eprint_status": "archive",
+      "datestamp": "2020-03-13 08:46:39",
+      "metadata_visibility": "show",
+      "status_changed": "2020-03-13 08:46:39",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "International Journal of Computer Science and Network Security (IJCSNS)",
+      "dir": "disk0\/00\/01\/86\/68",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peereveview Karya Ilmiah: Jurnal Ilmiah Internasional",
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18668",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published"
+    },
+    {
+      "publisher": "Sanata Dharma University Press",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Prosiding Seminar Nasional Aljabar, Penerapan, dan Pembelajarannya",
+      "dir": "disk0\/00\/00\/63\/98",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/repository.usd.ac.id\/8634\/1\/3035_Prosiding-KPA-USD-2106+complete.pdf"
+        }
+      ],
+      "status_changed": "2018-04-26 04:01:11",
+      "full_text_status": "public",
+      "issn": "978-602-6369-47-5",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "Pada makalah ini akan dibahas syarat perlu dan cukup\r\nMDPTS sebagai modul Noether dan modul T-Noether.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6398",
+      "date": "2016-09-16",
+      "creators": [
+        {
+          "id": "faisol_mathunila@yahoo.co.id",
+          "name": {
+            "given": "Ahmad",
+            "honourific": null,
+            "family": "Faisol",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Surodjo",
+            "lineage": null,
+            "honourific": null,
+            "given": "Budi"
+          },
+          "id": "surodjo_b@ugm.ac.id"
+        },
+        {
+          "id": "s_wahyuni@ugm.ac.id",
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "family": "Wahyuni",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Modul Deret Pangkat Tergeneralisasi Skew T-Noether",
+      "eprint_status": "archive",
+      "eprintid": 6398,
+      "datestamp": "2018-04-26 04:01:11",
+      "pagerange": "95-100",
+      "metadata_visibility": "show",
+      "userid": 300,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19327",
+            "eprintid": 6398,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "main": "3035_Prosiding-KPA-USD-2106%2Bcomplete.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59361",
+                  "filename": "3035_Prosiding-KPA-USD-2106%2Bcomplete.pdf",
+                  "objectid": 19327,
+                  "filesize": 12229492,
+                  "mtime": "2018-01-29 02:32:50",
+                  "hash_type": "MD5",
+                  "hash": "3e96ac0396d2a18ac267dda490777a4e",
+                  "mime_type": "application\/pdf",
+                  "fileid": 59361,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 19327
+          }
+      ],
+      "official_url": "https:\/\/repository.usd.ac.id\/8634\/1\/3035_Prosiding-KPA-USD-2106+complete.pdf",
+      "lastmod": "2018-04-26 04:01:11"
+    },
+    {
+      "number": 7,
+      "userid": 263,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1171",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1296,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "90341fbb1ce668a7d48af3b405446198",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 8687,
+                  "mtime": "2016-12-07 03:19:11",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8687",
+                  "filename": "Electronic version.pdf",
+                  "filesize": 142217,
+                  "objectid": 1171
+                }
+            ],
+            "main": "Electronic version.pdf",
+            "docid": 1171,
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/dx.doi.org\/10.17654\/MS100071055",
+      "lastmod": "2016-12-07 03:41:45",
+      "eprintid": 1296,
+      "eprint_status": "archive",
+      "datestamp": "2016-12-07 03:41:45",
+      "pagerange": "1055-1065",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Fitriani",
+            "honourific": null,
+            "lineage": null,
+            "family": "Fitriani"
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        },
+        {
+          "id": "surodjo_b@ugm.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Surodjo",
+            "honourific": null,
+            "given": "Budi"
+          }
+        },
+        {
+          "id": "ind_wijayanti@ugm.ac.id",
+          "name": {
+            "given": "Indah",
+            "lineage": null,
+            "family": "Emilia Wijayanti",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "ON SUB-EXACT SEQUENCES",
+      "volume": 100,
+      "abstract": "We introduce and study the notion of a sub-exact sequence.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1296",
+      "date": "2016-09",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "status_changed": "2016-12-07 03:41:45",
+      "full_text_status": "public",
+      "issn": "0972-0871",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Far East Journal of Mathematical Sciences (FJMS)",
+      "publisher": "Puspha Publishing House",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/00\/12\/96"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Fitriani",
+            "lineage": null,
+            "family": "Fitriani",
+            "honourific": null
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Surodjo",
+            "lineage": null,
+            "given": "Budi"
+          },
+          "id": "surodjo_b@ugm.ac.id"
+        },
+        {
+          "id": "ind_wijayanti@ugm.ac.id",
+          "name": {
+            "given": "Indah Emilia",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wijayanti"
+          }
+        }
+      ],
+      "title": "Hasil cek similaritas karya ilmiah 'On Sub-Exact Sequences'",
+      "eprint_status": "archive",
+      "eprintid": 45044,
+      "datestamp": "2022-09-21 01:51:17",
+      "metadata_visibility": "show",
+      "userid": 263,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "b2494595148db50d9684526a6764925e",
+                  "fileid": 485552,
+                  "datasetid": "document",
+                  "mtime": "2022-09-20 06:28:32",
+                  "hash_type": "MD5",
+                  "filename": "On Sub Exact Sequences .pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/485552",
+                  "objectid": 166965,
+                  "filesize": 188296
+                }
+            ],
+            "main": "On Sub Exact Sequences .pdf",
+            "docid": 166965,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166965",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45044
+          }
+      ],
+      "lastmod": "2022-09-21 01:51:17",
+      "official_url": "http:\/\/www.pphmj.com\/abstract\/10150.htm",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Puspha Publishing House",
+      "dir": "disk0\/00\/04\/50\/44",
+      "related_url": [
+        {
+          "url": "https:\/\/drive.google.com\/file\/d\/1oc5sbaUvuk0AAeUV9Pb2ePs0-eteu3o0\/view?usp=sharing",
+          "type": "author"
+        }
+      ],
+      "status_changed": "2022-09-21 01:51:17",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "subjects": [
+        "QA"
+      ],
+      "abstract": "We introduce and study the notion of a sub-exact sequence.",
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45044"
+    },
+    {
+      "datestamp": "2023-02-28 03:25:17",
+      "eprintid": 48638,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 263,
+      "lastmod": "2023-02-28 03:25:17",
+      "documents": [
+          {
+            "eprintid": 48638,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187988",
+            "pos": 1,
+            "format": "text",
+            "main": "Bukti Korespondensi_On X-Sub Exact Sequences.pdf",
+            "files": [
+                {
+                  "fileid": 530238,
+                  "datasetid": "document",
+                  "hash": "eba0a04160f525c3db8c738dd5bd227b",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-28 02:51:06",
+                  "filesize": 435413,
+                  "objectid": 187988,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530238",
+                  "filename": "Bukti Korespondensi_On X-Sub Exact Sequences.pdf"
+                }
+            ],
+            "docid": 187988,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "creators": [
+        {
+          "id": "fitriani_mathunila@yahoo.co.id",
+          "name": {
+            "family": "Fitriani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Fitriani"
+          }
+        },
+        {
+          "id": "ind_wijayanti@ugm.ac.id",
+          "name": {
+            "given": "Indah Emilia",
+            "family": "Wijayanti",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "surodjo_b@ugm.ac.id",
+          "name": {
+            "given": "Budi",
+            "family": "Surodjo",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Bukti Korespondensi Artikel On Sub-Exact Sequences",
+      "subjects": [
+        "QA"
+      ],
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48638",
+      "dir": "disk0_bak\/00\/04\/86\/38",
+      "publisher": "Pushpa Publishing House",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-02-28 03:25:17",
+      "ispublished": "unpub",
+      "rev_number": 7
+    },
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "none",
+      "status_changed": "2022-09-20 01:34:54",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Puspha Publishing House",
+      "dir": "disk0\/00\/04\/50\/26",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45026",
+      "date": 2016,
+      "date_type": "published",
+      "subjects": [
+        "Q1"
+      ],
+      "title": "Hasil cek Similaritas Karya Ilmiah \"On Sub Exact Sequence\"",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Fitriani",
+            "family": "Fitriani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        },
+        {
+          "id": "ind_wijayanti@ugm.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wijayanti",
+            "given": "Indah Emilia"
+          }
+        },
+        {
+          "id": "surodjo_b@ugm.ac.id",
+          "name": {
+            "given": "Budi",
+            "family": "Surodjo",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2022-09-20 01:34:54",
+      "official_url": "http:\/\/www.pphmj.com\/abstract\/10150.htm",
+      "userid": 263,
+      "metadata_visibility": "show",
+      "datestamp": "2022-09-20 01:34:54",
+      "eprint_status": "archive",
+      "eprintid": 45026
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2022-10-06 09:41:57",
+      "full_text_status": "public",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/04\/55\/64",
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45564",
+      "abstract": "Hibah Penelitian (Suplemen) Guru Besar",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "title": "Mendapatkan Hibah Penelitian Kompetitif (Sebagai Ketua) minimal Rp. 100 Juta",
+      "type": "other",
+      "creators": [
+        {
+          "id": "netti.herawati@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Herawati",
+            "honourific": null,
+            "given": "Netti"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "eprintid": 45564,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184343",
+            "pos": 1,
+            "format": "text",
+            "main": "2016 - Pengembangan Metode IRLTS.pdf",
+            "docid": 184343,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 505817,
+                  "mime_type": "application\/pdf",
+                  "hash": "f6132f87c4883c2c0bb0f55cbfef490d",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-06 09:04:30",
+                  "filesize": 1186347,
+                  "objectid": 184343,
+                  "filename": "2016 - Pengembangan Metode IRLTS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/505817"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2022-10-06 09:41:57",
+      "userid": 959,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 45564,
+      "datestamp": "2022-10-06 09:41:57"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "family": "Herawati",
+            "lineage": null,
+            "honourific": null,
+            "given": "Netti"
+          },
+          "id": "netti.herawati@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nisa",
+            "honourific": null,
+            "given": "Khoirin"
+          },
+          "id": "khoirin.nisa@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "Kontrak dan Laporan akhir Hibah fundamental",
+      "datestamp": "2022-10-07 01:40:25",
+      "eprint_status": "archive",
+      "eprintid": 45567,
+      "metadata_visibility": "show",
+      "userid": 959,
+      "lastmod": "2022-10-07 01:40:25",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Kontrak dan Laporan Hibah fundamental.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-06 11:38:01",
+                  "objectid": 184345,
+                  "filesize": 2576127,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/505833",
+                  "filename": "Kontrak dan Laporan Hibah fundamental.pdf",
+                  "datasetid": "document",
+                  "fileid": 505833,
+                  "hash": "d761dbaad9c9f1efab5612c53e710233",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 184345,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 45567,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184345",
+            "pos": 1
+          }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Fak. Mipa Universitas Lampung",
+      "dir": "disk0\/00\/04\/55\/67",
+      "full_text_status": "public",
+      "status_changed": "2022-10-07 01:40:25",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "date_type": "completed",
+      "subjects": [
+        "Q1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45567",
+      "date": "2016-11-22"
+    },
+    {
+      "documents": [
+          {
+            "format": "text",
+            "main": "Nisa CCK CMCGS14.pdf",
+            "docid": 19579,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "551d831611029a92d424990579645040",
+                  "datasetid": "document",
+                  "fileid": 61045,
+                  "filename": "Nisa CCK CMCGS14.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61045",
+                  "filesize": 413191,
+                  "objectid": 19579,
+                  "mtime": "2018-03-16 07:07:47",
+                  "hash_type": "MD5"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 6618,
+            "placement": 3,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19579",
+            "pos": 3
+          }
+      ],
+      "pages": 14,
+      "lastmod": "2018-03-27 04:47:37",
+      "userid": 644,
+      "metadata_visibility": "show",
+      "eprintid": 6618,
+      "editors": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Chen",
+            "lineage": null,
+            "given": "K"
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "datestamp": "2018-03-27 04:47:37",
+      "place_of_pub": "Swiss",
+      "refereed": "TRUE",
+      "title": "Generalized Variance Estimations\r\nof Normal-Poisson Models",
+      "creators": [
+        {
+          "id": "celestin.kokonendji@univ-fcomte.fr",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kokonendji",
+            "given": "Célestin C."
+          }
+        },
+        {
+          "name": {
+            "given": "Khoirin",
+            "lineage": null,
+            "family": "Nisa",
+            "honourific": null
+          },
+          "id": "khoirin.nisa@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "book",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6618",
+      "date": 2016,
+      "volume": 14,
+      "abstract": "This chapter presents three estimations of generalized variance (i.e., determinant of covariance matrix) of normal-Poisson models: maximum likelihood (ML) estimator, uniformly minimum variance unbiased (UMVU) estimator, and Bayesian estimator. First, the definition and some properties of normal-Poisson models are established. Then ML, UMVU, and Bayesian estimators for generalized variance are derived. Finally, a simulation study is carried out to assess the\r\nperformance of the estimators based on their mean square error (MSE).",
+      "subjects": [
+        "HA",
+        "QA"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "succeeds": 1946,
+      "status_changed": "2018-03-27 04:47:37",
+      "full_text_status": "public",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Springer",
+      "dir": "disk0\/00\/00\/66\/18"
+    },
+    {
+      "publisher": "Journal e-DuMath",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/01\/91\/83",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2020-04-15 04:02:01",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19183",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Nasional",
+      "title": "Karakteristik Fungsi Distribusi Four-Parameter Generalized-t",
+      "creators": [
+        {
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniasari"
+          },
+          "id": "dksari13@gmail.com"
+        }
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "datestamp": "2020-04-15 04:02:01",
+      "eprint_status": "archive",
+      "eprintid": 19183,
+      "lastmod": "2020-04-15 04:02:01",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "67d8adc638a60786081baefcd486ffe6",
+                  "mime_type": "application\/pdf",
+                  "fileid": 160782,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160782",
+                  "filename": "13. Karakteristik Fungsi Distribusi Four-Parameter Generalized-t.pdf",
+                  "objectid": 32420,
+                  "filesize": 512247,
+                  "mtime": "2020-04-15 03:13:46",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "13. Karakteristik Fungsi Distribusi Four-Parameter Generalized-t.pdf",
+            "docid": 32420,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 19183,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32420",
+            "security": "public"
+          }
+      ],
+      "userid": 752
+    },
+    {
+      "publisher": "International Journal of Computer Science and Network Security (IJCSNS)",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/01\/91\/75",
+      "status_changed": "2020-04-15 02:49:58",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19175",
+      "date": 2016,
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniasari"
+          },
+          "id": "dksari13@gmail.com"
+        }
+      ],
+      "title": "Neural Network Fuzzy Learning Vector Quantization (FLVQ) to Identify Probability Distributions",
+      "eprintid": 19175,
+      "eprint_status": "archive",
+      "datestamp": "2020-04-15 02:49:58",
+      "metadata_visibility": "show",
+      "userid": 752,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 32412,
+            "main": "5. Neural Network Fuzzy Learning Vector Quantization (FLVQ) to Identify Probability Distributions.pdf",
+            "files": [
+                {
+                  "fileid": 160720,
+                  "datasetid": "document",
+                  "hash": "223b3db84ae349621cee2da9b19a9a5c",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-15 02:47:44",
+                  "objectid": 32412,
+                  "filesize": 963753,
+                  "filename": "5. Neural Network Fuzzy Learning Vector Quantization (FLVQ) to Identify Probability Distributions.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160720"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32412",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19175
+          }
+      ],
+      "lastmod": "2020-04-15 02:49:58"
+    },
+    {
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19203",
+      "date": 2016,
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Prosiding dan Makalah yang di Presentasikan",
+      "publisher": "Prosiding Seminar Nasional Sains MIPA dan Aplikasinya",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/01\/92\/03",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2020-04-15 04:42:36",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprintid": 19203,
+      "eprint_status": "archive",
+      "datestamp": "2020-04-15 04:42:36",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32440",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19203,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "32. Penyelesaian Permainan Sudoku Berbasis 9x9 Menggunakan Algoritma Eliminasi dan Tracking Gues Kage Bunshin.pdf",
+            "files": [
+                {
+                  "mtime": "2020-04-15 04:07:39",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160932",
+                  "filename": "32. Penyelesaian Permainan Sudoku Berbasis 9x9 Menggunakan Algoritma Eliminasi dan Tracking Gues Kage Bunshin.pdf",
+                  "filesize": 618154,
+                  "objectid": 32440,
+                  "mime_type": "application\/pdf",
+                  "hash": "97b265678a292664e3ce457a5783bcb7",
+                  "fileid": 160932,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 32440,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2020-04-15 04:42:36",
+      "userid": 752,
+      "title": "Penyelesaian Permainan Sudoku Berbasis 9x9 Menggunakan Algoritma Eliminasi dan Tracking Gues Kage Bunshin",
+      "creators": [
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniasari",
+            "given": "Dian"
+          }
+        }
+      ],
+      "type": "other"
+    },
+    {
+      "title": "Uji Nisbah Kemungkinan dan Statistik t pada Sebaran Generalized Weibull",
+      "creators": [
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "other",
+      "lastmod": "2020-04-15 04:07:47",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 19194,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32430",
+            "security": "public",
+            "docid": 32430,
+            "main": "23. Uji Nisbah Kemungkinan dan Statistik t pada Sebaran Generalized Weibull.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160853",
+                  "filename": "23. Uji Nisbah Kemungkinan dan Statistik t pada Sebaran Generalized Weibull.pdf",
+                  "filesize": 598041,
+                  "objectid": 32430,
+                  "mtime": "2020-04-15 03:36:11",
+                  "hash_type": "MD5",
+                  "hash": "5718f951c7472e031a132435e8dd2eeb",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 160853
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 752,
+      "metadata_visibility": "show",
+      "datestamp": "2020-04-15 04:07:47",
+      "eprint_status": "archive",
+      "eprintid": 19194,
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2020-04-15 04:07:47",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Prosiding Seminar dan Rapat Tahunan Bidang Ilmu MIPA 2016",
+      "dir": "disk0\/00\/01\/91\/94",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19194",
+      "date": 2016,
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Prosiding dan Makalah yang di Presentasikan",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ]
+    },
+    {
+      "abstract": "In this paper, we will discuss the Likelihood Ratio Method (LR) and the Maximum Likelihood Ratio Method (RML) to do the comparison between two distributions. The Likelihood Ratio method is a method that will be applied to make a comparison between same distribution. The Statistical values that is obtained weel be tested to determine the critical region. The Ratio Maximum Likelihood method is a method that will be applied to compare between different distribution. Statistical T values which is obtained will follow the criteria: if T>0 then the distribution will follow the numerator distribution in otherwise the distribution will follow the denominator.\r\n\r\nKeyword: Likelihood Ratio, Maximum Likelihood Ratio.",
+      "date": "2016-05-24",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3479",
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "event_title": "SEMINAR DAN RAPAT TAHUNAN (SEMIRATA) BIDANG ILMU MIPA 2016 BKS PTN BARAT",
+      "full_text_status": "public",
+      "status_changed": "2017-06-12 02:02:55",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/00\/34\/79",
+      "event_type": "conference",
+      "userid": 752,
+      "lastmod": "2017-06-12 02:02:55",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 24118,
+                  "hash": "7cdaf28fd217b3d167fed7b956b85495",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-06 09:19:08",
+                  "filesize": 5796501,
+                  "objectid": 3350,
+                  "filename": "SEMIARATA 2016.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/24118"
+                }
+            ],
+            "main": "SEMIARATA 2016.pdf",
+            "docid": 3350,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 3479,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3350"
+          }
+      ],
+      "datestamp": "2017-06-12 02:02:55",
+      "eprintid": 3479,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "125-128",
+      "event_location": "Universitas Sriwijaya, Palembang",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          },
+          "id": "dksari13@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Saputera",
+            "given": "Rendy Rinaldy"
+          }
+        },
+        {
+          "name": {
+            "given": "Warsono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Warsono"
+          },
+          "id": "klppm@kpa.unila.ac.id"
+        }
+      ],
+      "title": "UJI NISBAH KEMUNGKINAN DAN STATISTIK T PADA SEBARAN GENERALIZED WEIBULL",
+      "event_dates": "22-24 Mei 2015",
+      "refereed": "TRUE"
+    },
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2017-05-30 01:57:26",
+      "issn": "1314-7552",
+      "full_text_status": "public",
+      "publication": "Applied Mathematical Sciences",
+      "publisher": "HIKARI Ltd",
+      "dir": "disk0\/00\/00\/19\/50",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "date": "2016-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1950",
+      "volume": 10,
+      "abstract": "This paper discuss a comparison of the maximum likelihood (ML)\r\nestimator and the uniformly minimum variance unbiased (UMVU) es-\r\ntimator of generalized variance for some normal stable Tweedie models\r\nthrough simulation study. We describe the estimation of some particular\r\ncases of multivariate NST models, i.e. normal gamma, normal Poisson and normal invers-Gaussian. The result shows that UMVU method pro-\r\nduces better estimations than ML method on small samples and they\r\nboth produce similar estimations on large samples.",
+      "subjects": [
+        "HA"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "Empirical Comparison of ML and UMVU Estimators\r\nof the Generalized Variance for some Normal\r\nStable Tweedie Models: a Simulation Study",
+      "type": "article",
+      "creators": [
+        {
+          "id": "khoirin.nisa@fmipa.unila.ac.id",
+          "name": {
+            "given": "Khoirin",
+            "lineage": null,
+            "family": "Nisa",
+            "honourific": null
+          }
+        },
+        {
+          "id": "celestin.kokonendji@univ-fcomte.fr",
+          "name": {
+            "honourific": null,
+            "family": "Kokonendji",
+            "lineage": null,
+            "given": "Célestin C."
+          }
+        },
+        {
+          "id": "asaefuddin@ipb.ac.id",
+          "name": {
+            "family": "Saefuddin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Asep"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wigena",
+            "given": "Aji H."
+          },
+          "id": "ajiwigena@ymail.com"
+        },
+        {
+          "id": "wayan.mangku@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Mangku",
+            "given": "I Wayan"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1817",
+            "eprintid": 1950,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 1817,
+            "main": "nisaAMS61-64-2016.pdf",
+            "files": [
+                {
+                  "objectid": 1817,
+                  "filesize": 369021,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13657",
+                  "filename": "nisaAMS61-64-2016.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-30 01:44:13",
+                  "fileid": 13657,
+                  "datasetid": "document",
+                  "hash": "2bef3936e2e10f59eb00db294183f523",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2017-05-30 01:57:26",
+      "number": 63,
+      "userid": 644,
+      "pagerange": "3107-3118",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 1950,
+      "datestamp": "2017-05-30 01:57:26"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "139-145",
+      "datestamp": "2017-05-31 02:11:21",
+      "eprint_status": "archive",
+      "eprintid": 2106,
+      "lastmod": "2017-05-31 02:11:21",
+      "documents": [
+          {
+            "main": "04. SMIAPIV_Prosiding_Aang  Nuryaman.pdf",
+            "docid": 1979,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "9903a0b141e3dee44e41ec2790ffa084",
+                  "fileid": 14574,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14574",
+                  "filename": "04. SMIAPIV_Prosiding_Aang  Nuryaman.pdf",
+                  "filesize": 684867,
+                  "objectid": 1979,
+                  "mtime": "2017-05-30 07:03:33",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 2106,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1979",
+            "security": "public"
+          }
+      ],
+      "userid": 163,
+      "number": 4,
+      "title": "Simulasi Numerik Model Matematika Dinamika Reaksi Oksidasi dengan Konsentrasi Gas Umpan Periodik",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nuryaman",
+            "honourific": null,
+            "given": "Aang"
+          },
+          "id": "aangnuryaman@gmail.com"
+        }
+      ],
+      "subjects": [
+        "QA75"
+      ],
+      "date": "2016-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2106",
+      "abstract": "Dinamika reaksi oksidasi metana digambarkan dalam bentuk sistem persamaan difusi-konveksi yang di dalamnya mengandung suku tak linier yang terkait dengan laju reaksi dan dilengkapi dengan syarat awal dan syarat batas tertentu. Pada artikel ini akan dikaji dinamika peubah tak bebas temperatur dan konsentrasi pada proses oksidasi gas metana dengan konsentrasi gas umpan berupa fungsi periodik melalui pendekatan numerik. Profil konsentrasi gas umpan di sepanjang reactor akan disimulasikan untuk beberapa perioda berbeda dan  dibandingkan dengan kasus gas umpan konstan. Hasil simulasi menunjukkan adanya pengaruh faktor besarnya laju alir gas umpan terhadap profil periodisitas gas metana di sepanjang reaktor",
+      "volume": 4,
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "publication": "Prosiding Seminar Nasional Sains Matematika Informatika dan Aplikasinya IV",
+      "dir": "disk0\/00\/00\/21\/06",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "issn": "2086 – 2342",
+      "status_changed": "2017-05-31 02:11:21"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "HA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2993",
+      "date": "2016-05-22",
+      "abstract": "Abstraks Teori dan Model Statistika dalam ilmu sosial dan perilaku  umumnya diformulasikan menggunakan konsepkonsep teoritis atau konstruk-konstruk  yang tidak dapat diukur atau diamati secara langsung. Tetapi masih bisa menemukan beberapa indikator atau gejala yang dapat digunakan untuk mempelajari konsep-konsep teoritis. Menurut Jöreskog dan Sörborm (1989), bahwa kondisi di atas menimbulkan dua permasalahan dasar yang berhubungan dengan usaha untuk membuat kesimpulan ilmiah) dalam ilmu sosial danperilaku, yaitu: masalah pengukuran dan hubungan kausal antar peubah. Model Persamaan Struktutural atau dikenal dengan LISREL atau  LInear Structural RELationships untuk data dalam skala tak metriks ( ordinal ) dirancang sebagai alat ukur untuk data bersifat kategori, tetapi data perludi  upgrade  ke dalam skala metrik,  hal tersebut dinamakan suatu koreksi pada pemodelan LISREL yang disebut dengan variabel underlying. Selanjutnya dengan memanfaatkan matriks kovarians, korelasi yang diperoleh dalam bentuk kontinu disebut korelasi polikorik yang merupakan korelasi antara variabel underlying.  \r\n \r\nKata Kunci: Matriks Covarians, SEM.",
+      "publisher": "UNSRI",
+      "publication": "BKS-PTN Wilayah Barat Semirata 2016 Bidang MIPA Semirata 2016 Bidang MIPA Semirata 2016 Bidang MIPA",
+      "dir": "disk0\/00\/00\/29\/93",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "rev_number": 12,
+      "ispublished": "pub",
+      "full_text_status": "restricted",
+      "issn": "978-602-71798-1-3",
+      "status_changed": "2017-06-12 07:33:17",
+      "metadata_visibility": "show",
+      "pagerange": "684-690",
+      "datestamp": "2017-06-12 07:33:17",
+      "eprintid": 2993,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/semirata2016.mipa.unsri.ac.id\/index.php\/download\/prosiding",
+      "lastmod": "2017-06-12 07:33:17",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 3,
+            "content": "published",
+            "main": "M-Sampul.pdf",
+            "docid": 2875,
+            "files": [
+                {
+                  "filesize": 941812,
+                  "objectid": 2875,
+                  "filename": "M-Sampul.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20660",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 03:30:31",
+                  "datasetid": "document",
+                  "fileid": 20660,
+                  "hash": "29d34fc11727b2dedf66ceca40922879",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "date_embargo": "2020-01",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2875",
+            "security": "validuser",
+            "placement": 1,
+            "eprintid": 2993
+          },
+          {
+            "eprintid": 2993,
+            "placement": 2,
+            "security": "validuser",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2876",
+            "pos": 2,
+            "format": "text",
+            "main": "1-MATEMATIKA-1-892.pdf",
+            "files": [
+                {
+                  "fileid": 20662,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "14b29a55f7ba4bb7baae92bbc435c92c",
+                  "objectid": 2876,
+                  "filesize": 69350211,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20662",
+                  "filename": "1-MATEMATIKA-1-892.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 03:30:53"
+                }
+            ],
+            "docid": 2876,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 959,
+      "title": "MODEL PERSAMAAN STRUKTURAL UNTUK ANALISIS DATA ( Studi Kasus Survey Kepuasan Konsumen)",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null,
+            "given": "Eri"
+          }
+        },
+        {
+          "name": {
+            "given": "Netti",
+            "lineage": null,
+            "family": "Herawati",
+            "honourific": null
+          },
+          "id": "netti.herawati@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "contact_email": "netti.herawati@fmipa.unila.ac.id"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2020-02-17 03:48:53",
+      "eprintid": 17941,
+      "eprint_status": "archive",
+      "lastmod": "2020-02-17 03:48:53",
+      "documents": [
+          {
+            "main": "prosiding semirata 2016.pdf",
+            "docid": 31082,
+            "files": [
+                {
+                  "objectid": 31082,
+                  "filesize": 2362545,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/151185",
+                  "filename": "prosiding semirata 2016.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-07 03:50:31",
+                  "fileid": 151185,
+                  "datasetid": "document",
+                  "hash": "1057f4a9e910337ac02cedcd03753c28",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 17941,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31082",
+            "security": "public"
+          }
+      ],
+      "userid": 959,
+      "title": "Model Persamaan structural untuk analisis data (Study kasus survey kepuasan konsumen)",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "family": "Setiawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Eri"
+          },
+          "id": null
+        },
+        {
+          "id": "netti.herawati@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Herawati",
+            "given": "Netti"
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "HA"
+      ],
+      "date": "2016-05-22",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17941",
+      "publisher": "Universitas Seriwijaya",
+      "dir": "disk0\/00\/01\/79\/41",
+      "publication": "Prosiding Semirata 2016 BKS -PTN Barat , Palembang",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "issn": "978-602-71798-1-3",
+      "full_text_status": "public",
+      "status_changed": "2020-02-17 03:48:53"
+    },
+    {
+      "date": "2016-05-22",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2103",
+      "abstract": "In recent years there are many investigations studied fluid flow through microchannels which having circular,triangular, rectangular cross sections and etc. Many of them contain no slip boundary conditions.Here we study influence of slip length on velocity profile but restricted to constant pressure gradient. We found that when slip length increased, velocity also increased.\r\n\r\nKeywords: slip length, constant pressure gradient, velocity profile.",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2017-05-31 02:10:31",
+      "full_text_status": "public",
+      "publication": "Prosiding SEMIRATA Bidang MIPA 2016; BKS PTN Barat Palembang 22- 24 Mei 2016",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/00\/21\/03",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash": "1753439851d89721d6babdaf6ee55219",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 14650,
+                  "mtime": "2017-05-30 07:12:33",
+                  "hash_type": "MD5",
+                  "filename": "Suharsono_Semirata.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14650",
+                  "filesize": 1487823,
+                  "objectid": 1995
+                }
+            ],
+            "main": "Suharsono_Semirata.pdf",
+            "docid": 1995,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1995",
+            "eprintid": 2103,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2017-05-31 02:10:31",
+      "userid": 845,
+      "pagerange": "849-851",
+      "metadata_visibility": "show",
+      "eprintid": 2103,
+      "eprint_status": "archive",
+      "datestamp": "2017-05-31 02:10:31",
+      "refereed": "TRUE",
+      "title": "PENGARUH PERUBAHAN KONSTANTA SLIP PADA KECEPATAN ALIRAN FLUIDA MELALUISALURAN MIKRO BERPENAMPANG PERSEGI UNTUK PRESSURE GRADIENT KONSTANT",
+      "creators": [
+        {
+          "id": "suharsono.1962@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suharsono",
+            "given": "Suharsono"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Muslim",
+            "lineage": null,
+            "family": "Ansori",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Universitas Lampung",
+      "publication": "Internasional Series on Interdisciplinary Research",
+      "dir": "disk0\/00\/00\/16\/33",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2017-05-26 07:29:30",
+      "full_text_status": "public",
+      "issn": "978-602-70050-3-7",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1633",
+      "date": "2016-12",
+      "volume": 1,
+      "abstract": "Given a graph G(V,E) with n vertices and m edges, where every vertex is labeled, there are a lot of possible graphs that can be constructed, either connected graphs or disconnected, simple or not simple. A graph G(V,E) is called as a connected graph if there exists at least one path between every pair of vertices in G, and otherwise, G is disconnected. A graph G is called as a labeled graph if every node\/vertex and or every edge is labeled. In this research, we are concerning about a graph where every vertex is labeled. Parallel edges are two edges or more which have the same end points. In this research we found that the number of disconnected labeled graph without parallel edges for n=5 and m\"≥1\"  can be obtained with the following formula: \r\n N(〖G^'〗_(5,m) )=((m+4)¦4)+{10×((m+3)¦4) }+{45×((m+2)¦4) }+{120×((m+1)¦4)}+{85×(m¦4)}+{30×((m-1)¦4)}+{5×((m-2)¦4)}.   N(〖G^'〗_(5,m) ) is the number of disconnected labeled graph without parallel edges for n=5 and m≥1.\r\n\r\nKeywords—  counting graph, labeled graph, disconnected, parallel edges",
+      "refereed": "TRUE",
+      "title": "Counting The Number of Disconnected Labeled Graphs of Order Five without Paralel Edges",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Wamiliana",
+            "family": "Wamiliana",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Amanto",
+            "family": "Amanto",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Grita Tumpi",
+            "family": "Nagari",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "pagerange": "4-7",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 1633,
+      "datestamp": "2017-05-26 07:29:30",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "objectid": 1497,
+                  "filesize": 306146,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/11302",
+                  "filename": "Counting the number of disconnected labelled graphs.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-19 09:25:57",
+                  "fileid": 11302,
+                  "datasetid": "document",
+                  "hash": "26e8753ff7261f89c37f130079edce6b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Counting the number of disconnected labelled graphs.pdf",
+            "docid": 1497,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1497",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1633
+          }
+      ],
+      "lastmod": "2017-05-26 07:29:30",
+      "official_url": "http:\/\/insist.unila.ac.id\/index.php\/ojs\/index",
+      "number": 1,
+      "userid": 791
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2020-04-15 07:55:22",
+      "publisher": "International Journal of Computer Science and Network Security (IJCSNS)",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/01\/92\/09",
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19209",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Neural Network Fuzzy Learning Vector Quantization (FLVQ) to Identify Probability Distributions",
+      "creators": [
+        {
+          "id": "chacho81@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Warsono",
+            "given": "Warsono"
+          }
+        }
+      ],
+      "type": "other",
+      "lastmod": "2020-04-15 07:55:22",
+      "documents": [
+          {
+            "main": "5. Neurel Network Fuzzy Learning Vector Quantization (FLVQ) to Identify Probablity Distribution.pdf",
+            "files": [
+                {
+                  "filename": "5. Neurel Network Fuzzy Learning Vector Quantization (FLVQ) to Identify Probablity Distribution.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160992",
+                  "filesize": 534560,
+                  "objectid": 32447,
+                  "mtime": "2020-04-15 07:23:19",
+                  "hash_type": "MD5",
+                  "hash": "abba52c7368603b3c1ceb7d9fa6236e7",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 160992
+                }
+            ],
+            "docid": 32447,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 19209,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32447",
+            "security": "public"
+          }
+      ],
+      "userid": 516,
+      "metadata_visibility": "show",
+      "datestamp": "2020-04-15 07:55:22",
+      "eprintid": 19209,
+      "eprint_status": "archive"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Warsono",
+            "given": "Warsono"
+          }
+        }
+      ],
+      "title": "Neural Network Fuzzy Learning Vector Quantization (FLVQ) to Identify Probability Distributions",
+      "eprintid": 19242,
+      "eprint_status": "archive",
+      "datestamp": "2020-04-20 03:12:21",
+      "metadata_visibility": "show",
+      "userid": 516,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash": "b523d9b07e71dee5df96a0795ca2a09f",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 161218,
+                  "mtime": "2020-04-20 03:09:00",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/161218",
+                  "filename": "A05 - IS13% - Neural_Network_Fuzzy_Learning_Vector_Quantization_.pdf",
+                  "filesize": 1308283,
+                  "objectid": 32476
+                }
+            ],
+            "main": "A05 - IS13% - Neural_Network_Fuzzy_Learning_Vector_Quantization_.pdf",
+            "docid": 32476,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32476",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19242
+          }
+      ],
+      "lastmod": "2020-04-20 03:12:21",
+      "publisher": "International Journal of Computer Science and Network Security (IJCSNS)",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/01\/92\/42",
+      "status_changed": "2020-04-20 03:12:21",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional",
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19242"
+    },
+    {
+      "publication": "Jurnal e-DuMath",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/00\/70\/05",
+      "status_changed": "2018-06-04 06:33:36",
+      "issn": "2356-2056",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "volume": 2,
+      "abstract": "This research is about the characteristic function of four-parameter generalized t distribution. Four-parameter generalized t distribution has four parameters which\r\nare µ as a location parameter, σ as a scale parameter, p and q as a shape parameter, and  B as a function of beta. The characteristic function are retrieved from the expectation of e^itx, where i as a imaginary number. Then, the characteristic function of four-parameter generalized t distribution was able to be determined by \r\nusing definition and trigonometric expansions. Based on those two methods this study got the same results and then will be continued proving the fundamental properties of the characteristic function of four-parameter generalized t distribution. Furthermore, it needs graph simulation on a characteristic function of four-\r\nparameter generalized t distribution.  Graph simulation result on the characteristic function of four- parameter generalized t distribution was formed a closed curve (circle) are smooth.",
+      "date": "2016-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7005",
+      "type": "article",
+      "creators": [
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "family": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Warsono"
+          }
+        },
+        {
+          "name": {
+            "given": "Mustofa",
+            "honourific": null,
+            "lineage": null,
+            "family": "Usman"
+          },
+          "id": "usman_alfha@yahoo.com"
+        },
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniasari",
+            "given": "Dian"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "KARAKTERISTIK FUNGSI DISTRIBUSI  FOUR-PARAMETER GENERALIZED-t",
+      "eprint_status": "archive",
+      "eprintid": 7005,
+      "datestamp": "2018-06-04 06:33:36",
+      "pagerange": "38-51",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 752,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19977",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 7005,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "KARAKTERISTIK FUNGSI DISTRIBUSI  FOUR-PARAMETER.pdf",
+            "docid": 19977,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 64098,
+                  "mime_type": "application\/pdf",
+                  "hash": "03b40d2b742dbf3d3c750ce05e61ba02",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-04 06:07:12",
+                  "objectid": 19977,
+                  "filesize": 1433685,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/64098",
+                  "filename": "KARAKTERISTIK FUNGSI DISTRIBUSI  FOUR-PARAMETER.pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2018-06-04 06:33:36"
+    },
+    {
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/00\/40\/39",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2017-10-23 06:40:17",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "date_type": "published",
+      "event_title": "SEMIRATA Bidang MIPA 2016; BKS-PTN Barat",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "The Weibull distribution is an important distribution in survival analysis. Analysis of survival aims to suspect\r\nthe probability of survival, recurrence, death, and other events for a certain time period. The purpose of this\r\nresearch is to estimate the parameters of the Weibull distribution of left censored and to perform simulations\r\nwith different censored intensities. The method used in this study is the maximum likelihood method, and the\r\nsoftware used is R i386 3.2.2. The simulation results showed that the greater the intensity of the sensor then the\r\nestimates of β and λ also increase.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4039",
+      "date": "2016-05",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Widiarti",
+            "honourific": null,
+            "given": "Widiarti"
+          },
+          "id": "widiarti08@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ayu",
+            "lineage": null,
+            "family": "Maidiyanti",
+            "honourific": null
+          }
+        },
+        {
+          "id": "klppm@kpa.unila.ac.id",
+          "name": {
+            "family": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Warsono"
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "title": "SIMULASI INTENSITAS SENSOR DALAM PENDUGAAN PARAMATER\r\nDISTRIBUSI WEIBULL TERSENSOR KIRI",
+      "event_dates": "22-24 Mei 2016",
+      "refereed": "TRUE",
+      "event_location": "Palembang",
+      "datestamp": "2017-10-23 06:40:17",
+      "eprintid": 4039,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "860-864",
+      "userid": 33,
+      "lastmod": "2017-10-23 06:40:17",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Widiarti_860-864.pdf",
+            "files": [
+                {
+                  "mtime": "2017-10-11 03:49:31",
+                  "hash_type": "MD5",
+                  "filename": "Widiarti_860-864.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/28254",
+                  "objectid": 3897,
+                  "filesize": 501379,
+                  "hash": "222f970d33e1489fd63513b3f2a662d4",
+                  "mime_type": "application\/pdf",
+                  "fileid": 28254,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 3897,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3897",
+            "eprintid": 4039,
+            "placement": 1
+          }
+      ]
+    },
+    {
+      "datestamp": "2020-05-08 02:53:56",
+      "eprint_status": "archive",
+      "eprintid": 19514,
+      "metadata_visibility": "show",
+      "userid": 1137,
+      "lastmod": "2020-05-08 02:53:56",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 32746,
+            "main": "3. Dynamics And Bifurcations In A Two- Dimensional Map Derived From A Generalized DD-Sine-Gordon Equation.pdf",
+            "files": [
+                {
+                  "fileid": 163039,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "fa36a3426f9f75c5cb2e59884746d820",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-08 02:50:05",
+                  "filesize": 1430734,
+                  "objectid": 32746,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163039",
+                  "filename": "3. Dynamics And Bifurcations In A Two- Dimensional Map Derived From A Generalized DD-Sine-Gordon Equation.pdf"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32746",
+            "eprintid": 19514,
+            "placement": 1
+          }
+      ],
+      "creators": [
+        {
+          "id": "lazakaria.1969@fmipa.unila.ac.id",
+          "name": {
+            "given": "L",
+            "honourific": null,
+            "family": "Zakaria",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Dynamics And Bifurcations In A Two- Dimensional Map Derived From A Generalized DD-Sine-Gordon Equation",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19514",
+      "date": 2016,
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Far East Journal of Dynamical Systems",
+      "dir": "disk0\/00\/01\/95\/14",
+      "full_text_status": "public",
+      "status_changed": "2020-05-08 02:53:56",
+      "rev_number": 7,
+      "ispublished": "pub"
+    },
+    {
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19520",
+      "date": 2016,
+      "dir": "disk0\/00\/01\/95\/20",
+      "publisher": "Far East Journal of Dynamical Systems",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "status_changed": "2020-05-08 03:56:16",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 19520,
+      "datestamp": "2020-05-08 03:56:16",
+      "metadata_visibility": "show",
+      "userid": 1137,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 19520,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32752",
+            "security": "public",
+            "main": "IS13%_DYNAMICS_AND_BIFURCATIONS_IN_A_TWO_DIMENSIONAL_MAP.pdf",
+            "files": [
+                {
+                  "fileid": 163084,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "4e0e2ded969c265f08e08960e399abaf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-08 03:20:13",
+                  "objectid": 32752,
+                  "filesize": 74160,
+                  "filename": "IS13%_DYNAMICS_AND_BIFURCATIONS_IN_A_TWO_DIMENSIONAL_MAP.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163084"
+                }
+            ],
+            "docid": 32752,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2020-05-08 03:56:16",
+      "creators": [
+        {
+          "id": "lazakaria.1969@fmipa.unila.ac.id",
+          "name": {
+            "given": "L",
+            "honourific": null,
+            "family": "Zakaria",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Dynamics And Bifurcations In A Two- Dimensional Map Derived From A Generalized DD-Sine-Gordon Equation"
+    },
+    {
+      "publisher": "International Series on Interdisciplicary Science and Technology (INSIST)",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/01\/95\/13",
+      "full_text_status": "public",
+      "status_changed": "2020-05-08 02:53:40",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional",
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19513",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Zakaria",
+            "honourific": null,
+            "given": "L"
+          },
+          "id": "lazakaria.1969@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "The Scheme of 10th Order Implicit Runge-Kutta Method to Solve the First Order of Initial Value Problems",
+      "datestamp": "2020-05-08 02:53:40",
+      "eprintid": 19513,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 1137,
+      "lastmod": "2020-05-08 02:53:40",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 32745,
+            "main": "2. The Scheme of 10th Order Implicit Runge-Kutta Method to Solve the First Order of Initial Value Problems.pdf",
+            "files": [
+                {
+                  "fileid": 163032,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "b4b31b8d3b11f4621d6898639845dd50",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-08 02:47:03",
+                  "objectid": 32745,
+                  "filesize": 1444161,
+                  "filename": "2. The Scheme of 10th Order Implicit Runge-Kutta Method to Solve the First Order of Initial Value Problems.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163032"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32745",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19513
+          }
+      ]
+    },
+    {
+      "title": "The Scheme of 10th Order Implicit Runge-Kutta Method to Solve the First Order of Initial Value Problems",
+      "creators": [
+        {
+          "name": {
+            "family": "Zakaria",
+            "lineage": null,
+            "honourific": null,
+            "given": "L"
+          },
+          "id": "lazakaria.1969@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "documents": [
+          {
+            "main": "IS22%_The_Scheme_of_10th_Order_Implicit_Runge_Kutta_Meth.pdf",
+            "files": [
+                {
+                  "filesize": 55418,
+                  "objectid": 32751,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163077",
+                  "filename": "IS22%_The_Scheme_of_10th_Order_Implicit_Runge_Kutta_Meth.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-08 03:18:11",
+                  "fileid": 163077,
+                  "datasetid": "document",
+                  "hash": "964d203597fef65c64a79ef20a85ec5b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 32751,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 19519,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32751",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2020-05-08 03:56:04",
+      "userid": 1137,
+      "metadata_visibility": "show",
+      "eprintid": 19519,
+      "eprint_status": "archive",
+      "datestamp": "2020-05-08 03:56:04",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-05-08 03:56:04",
+      "full_text_status": "public",
+      "publisher": "International Series on Interdisciplicary Science and Technology (INSIST)",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/01\/95\/19",
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19519",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Jurnal Ilmiah Internasional",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Zakaria",
+            "honourific": null,
+            "given": "L."
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Tuwankotta",
+            "given": "J. M."
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "DYNAMICS AND BIFURCATIONS IN A TWO-DIMENSIONAL MAP DERIVED FROM A GENERALIZED \\Delta\\Delta-SINE-GORDON EQUATION",
+      "number": 3,
+      "userid": 1137,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2110,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1987",
+            "security": "staffonly",
+            "main": "Paper_FJDS_LaZakaria_30111010.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 14609,
+                  "mime_type": "application\/pdf",
+                  "hash": "a759052e73f66627dc5a520d2416f63f",
+                  "filesize": 349758,
+                  "objectid": 1987,
+                  "filename": "Paper_FJDS_LaZakaria_30111010.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14609",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-30 07:07:04"
+                }
+            ],
+            "docid": 1987,
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "published"
+          }
+      ],
+      "official_url": "http:\/\/doi.org\/10.17654\/DS028030165",
+      "lastmod": "2017-07-20 08:51:06",
+      "id_number": "doi:10.17654\/DS028030165",
+      "eprintid": 2110,
+      "eprint_status": "archive",
+      "datestamp": "2017-06-02 01:51:07",
+      "pagerange": "165-194",
+      "metadata_visibility": "show",
+      "status_changed": "2017-07-20 08:51:06",
+      "full_text_status": "restricted",
+      "issn": 9721118,
+      "rev_number": 18,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Far East Journal of Dynamical Systems",
+      "dir": "disk0\/00\/00\/21\/10",
+      "volume": 28,
+      "date": "2016-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2110",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published"
+    }
+]
+

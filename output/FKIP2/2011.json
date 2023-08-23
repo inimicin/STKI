@@ -1,0 +1,104 @@
+[
+    {
+      "full_text_status": "public",
+      "issn": "2087-9849",
+      "succeeds": 27122,
+      "status_changed": "2021-04-13 02:18:18",
+      "rev_number": 5,
+      "ispublished": "pub",
+      "publication": "Jurnal Pendidikan Progresif",
+      "publisher": "Fakultas Keeguruan dan Ilmu Pendidikan Universitas Lampung",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/02\/92\/90",
+      "abstract": "This study was carried out to examine the predictive value of the inventory results of Spok Tuah-Arahan Diri (STAD) for the success of students in certain majors of study in SMA. The examination was carried out using the ex post facto research method. The predictive value of STAD results for student success is determined based on the amount of its effective contribution to learning outcomes shown by students in certain study groups. The research findings show that in general the STAD results have a predictive value that is sufficient (large enough) for the estimation of the success of student studies in certain majors in high school, both science, social studies, and language majors. The amount of the effective contribution varies for each group of study majors. The strength of the relationship between the two variables is very significant. Further discussion of the research findings is presented in this article.\r\n\r\nKey words: predictive value, student’s success, departement of study, STAD",
+      "volume": 1,
+      "date": "2011-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29290",
+      "date_type": "published",
+      "subjects": [
+        "LB"
+      ],
+      "creators": [
+        {
+          "id": "syarifuddin.d@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Dahlan",
+            "given": "Syarifuddin"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "PREDICTIVE VALUE OF STAD TO THE STUDENT’S SUCCESS ON SOME STUDY DEPARTEMEN AT THE HIGH SCHOOL",
+      "refereed": "TRUE",
+      "userid": 815,
+      "number": 2,
+      "lastmod": "2021-04-13 02:18:18",
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/cgi\/users\/home?screen=EPrint::Edit&eprintid=27122&stage=core#t",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 259452,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "7b7d43849be8c22b09d38a8472ef6310",
+                  "hash_type": "MD5",
+                  "mtime": "2020-12-18 14:51:11",
+                  "filesize": 306148,
+                  "objectid": 43396,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259452",
+                  "filename": "JURNAL 2011f.pdf"
+                }
+            ],
+            "main": "JURNAL 2011f.pdf",
+            "docid": 43396,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "eprintid": 29290,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43396",
+            "pos": 1
+          },
+          {
+            "placement": 2,
+            "eprintid": 29290,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43397",
+            "security": "public",
+            "docid": 43397,
+            "main": "Artikel JPP11.pdf",
+            "files": [
+                {
+                  "fileid": 259454,
+                  "datasetid": "document",
+                  "hash": "a94391573c9af8710470e0b53fee396e",
+                  "mime_type": "application\/pdf",
+                  "objectid": 43397,
+                  "filesize": 2622836,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259454",
+                  "filename": "Artikel JPP11.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-12 14:42:40"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2021-04-13 02:18:18",
+      "eprint_status": "archive",
+      "eprintid": 29290,
+      "metadata_visibility": "show",
+      "pagerange": "101-206"
+    }
+]
+

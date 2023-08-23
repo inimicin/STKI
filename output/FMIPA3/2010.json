@@ -1,0 +1,587 @@
+[
+    {
+      "event_type": "conference",
+      "dir": "disk0\/00\/02\/38\/79",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "rev_number": 5,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-09-03 07:28:23",
+      "succeeds": 23608,
+      "date_type": "published",
+      "event_title": "Prosiding Seminar Nasional Matematika 2010",
+      "subjects": [
+        "Q1",
+        "QA",
+        "QA75"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23879",
+      "date": "2010-08-07",
+      "abstract": "Research on optimization problems have taken great interest of researchers because of its great impact on engineering and economics. For real world applications, the optimization problems are usually associated with various constraints. Thus it becomes difficult to solve it exactly. Genetic Algorithm (GA) is known as one of powerful heuristic methods for solving various optimization problems. In this several years, we have applied GA on many variants of optimization problems such as Transportation Problem (TP), Traveling Salesman Problem (TSP), Vehicle Routing Problems (VRP), Production Distribution and Inventory Problem (PDI), Supply Chain Management (SCM), Scheduling and so on. We have shown that GA, in general, would give good solution for those problems. Keywords: Genetic Algorithm, Network and Engineering design, Heuristic, Optimization",
+      "title": "Genetic Algorithm Dan Optimasi",
+      "refereed": "TRUE",
+      "event_dates": "7 Aug 2010",
+      "type": "conference_item",
+      "pres_type": "keynote",
+      "creators": [
+        {
+          "name": {
+            "given": "AS",
+            "lineage": null,
+            "family": "Admi Syarif",
+            "honourific": null
+          },
+          "id": "admi_syarif@yahoo.com"
+        }
+      ],
+      "event_location": "Surakarta",
+      "metadata_visibility": "show",
+      "pagerange": "1-15",
+      "datestamp": "2020-09-03 07:28:23",
+      "eprintid": 23879,
+      "eprint_status": "archive",
+      "lastmod": "2020-09-03 07:28:23",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "SN_16_SNM_UNS_2010 - Conference.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 217811,
+                  "hash": "2308de63461585335c9710d602808b68",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-03 07:16:40",
+                  "objectid": 37552,
+                  "filesize": 19683221,
+                  "filename": "SN_16_SNM_UNS_2010 - Conference.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217811"
+                }
+            ],
+            "docid": 37552,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37552",
+            "pos": 1,
+            "eprintid": 23879,
+            "placement": 1
+          }
+      ],
+      "userid": 725
+    },
+    {
+      "userid": 725,
+      "documents": [
+          {
+            "format": "text",
+            "docid": 42896,
+            "main": "23. snmuns10_nilai.pdf",
+            "files": [
+                {
+                  "filesize": 2539493,
+                  "objectid": 42896,
+                  "filename": "23. snmuns10_nilai.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255564",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-31 19:58:42",
+                  "datasetid": "document",
+                  "fileid": 255564,
+                  "hash": "e9a60c25ed1630b15db7a839d00d874c",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 28379,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42896",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2021-04-01 01:47:32",
+      "eprint_status": "archive",
+      "eprintid": 28379,
+      "datestamp": "2021-04-01 01:47:32",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Admi Syarif",
+            "honourific": null,
+            "given": "AS"
+          },
+          "id": "admi_syarif@yahoo.com"
+        }
+      ],
+      "type": "other",
+      "title": "Peer Review: Genetic Algorithm Dan Optimasi",
+      "abstract": "Research on optimization problems have taken great interest of researchers because of its great impact on engineering and economics. For real world applications, the optimization problems are usually associated with various constraints. Thus it becomes difficult to solve it exactly. Genetic Algorithm (GA) is known as one of powerful heuristic methods for solving various optimization problems. In this several years, we have applied GA on many variants of optimization problems such as Transportation Problem (TP), Traveling Salesman Problem (TSP), Vehicle Routing Problems (VRP), Production Distribution and Inventory Problem (PDI), Supply Chain Management (SCM), Scheduling and so on. We have shown that GA, in general, would give good solution for those problems. Keywords: Genetic Algorithm, Network and Engineering design, Heuristic, Optimization",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28379",
+      "date": "2010-08",
+      "subjects": [
+        "T1"
+      ],
+      "status_changed": "2021-04-01 01:47:32",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Jurusan Matematika Fakultas MIPA Universitas Sebelas Maret",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/02\/83\/79"
+    },
+    {
+      "lastmod": "2021-04-01 01:47:27",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 28377,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42894",
+            "pos": 1,
+            "security": "public",
+            "main": "21. apiems10_nilai.pdf",
+            "docid": 42894,
+            "files": [
+                {
+                  "filename": "21. apiems10_nilai.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255558",
+                  "objectid": 42894,
+                  "filesize": 2527894,
+                  "mtime": "2021-03-31 19:57:21",
+                  "hash_type": "MD5",
+                  "hash": "8d93e3715d058dcaa342f85a573a3740",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 255558
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 725,
+      "metadata_visibility": "show",
+      "datestamp": "2021-04-01 01:47:27",
+      "eprint_status": "archive",
+      "eprintid": 28377,
+      "title": "Peer Review: Solving an Extended Logistic Model by Hybrid Genetic Algorithm",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "family": "Admi Syarif",
+            "lineage": null,
+            "honourific": null,
+            "given": "AS"
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "id": "mitsuogen@gmail.com",
+          "name": {
+            "given": "Mitsuo",
+            "honourific": null,
+            "family": "Gen",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setiawan",
+            "given": "Adiguna"
+          },
+          "id": null
+        }
+      ],
+      "date": "2010-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28377",
+      "abstract": "In recent decade, there have been intensive research works on logistics design system because of its great use in public distribution. Huge research efforts have been devoted to studying many variants of logistic problems. The common objective is to determine overall production strategy, inventory strategy and flow of products through some facilities in order to minimize cost or maximize profit. In this paper, we introduce a more realistic logistics model that includes transportation model and multi-depot Vehicle Routing Model. By assuming that the plant capacities and the customer demand are known in advance from past statistical data, we examine how the distribution centers should be designed and how the product should be produced and transported. We propose a genetic algorithm approach which is hybridized with a local search method to solve the problem. We report several numerical experiment results to show the effectiveness of the proposed method.",
+      "subjects": [
+        "T1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2021-04-01 01:47:27",
+      "dir": "disk0\/00\/02\/83\/77",
+      "publisher": "Asia Pacific Industrial Engineering & Management Society",
+      "divisions": [
+        "FMIPA3"
+      ]
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "QA76"
+      ],
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14440",
+      "volume": 2,
+      "publication": "International Journal of engineering and informatics",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/01\/44\/40",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2019-10-15 02:03:12",
+      "metadata_visibility": "show",
+      "datestamp": "2019-10-15 02:03:12",
+      "eprintid": 14440,
+      "eprint_status": "archive",
+      "lastmod": "2019-10-15 02:03:12",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27517",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 14440,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Performance_Evaluation_of_SVM_Based_Information_Ex.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 125189,
+                  "hash": "dabc590ad678d561413b947501b25f1a",
+                  "mime_type": "application\/pdf",
+                  "objectid": 27517,
+                  "filesize": 3011877,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/125189",
+                  "filename": "Performance_Evaluation_of_SVM_Based_Information_Ex.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-10-02 04:07:57"
+                }
+            ],
+            "docid": 27517,
+            "format": "text"
+          }
+      ],
+      "userid": 883,
+      "number": 4,
+      "title": "Similarity chek result of paper : Performance Evaluation of SVM-Based Information Extraction using τ Margin Values",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Kuspriyanto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kuspriyanto"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Santoso",
+            "lineage": null,
+            "honourific": null,
+            "given": "Oerip"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Widyantoro",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dwi Hendratmo"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "sastramiharja",
+            "lineage": null,
+            "given": "husni"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Muludi",
+            "given": "Kurnia"
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "maimunah",
+            "honourific": null,
+            "given": "siti"
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "subjects": [
+        "T1",
+        "TA"
+      ],
+      "event_title": "The 11th Asia Pacific Industrial Engineering and Management Systems Conference",
+      "abstract": "In recent decade, there have been intensive research works on logistics design system because of its great use in public distribution. Huge research efforts have been devoted to studying many variants of logistic problems. The common objective is to determine overall production strategy, inventory strategy and flow of products through some facilities in order to minimize cost or maximize profit. In this paper, we introduce a more realistic logistics model that includes transportation model and multi-depot Vehicle Routing Model. By assuming that the plant capacities and the customer demand are known in advance from past statistical data, we examine how the distribution centers should be designed and how the product should be produced and transported. We propose a genetic algorithm approach which is hybridized with a local search method to solve the problem. We report several numerical experiment results to show the effectiveness of the proposed method.",
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23878",
+      "dir": "disk0\/00\/02\/38\/78",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "event_type": "conference",
+      "full_text_status": "public",
+      "succeeds": 23492,
+      "status_changed": "2020-09-03 07:25:10",
+      "ispublished": "pub",
+      "rev_number": 5,
+      "datestamp": "2020-09-03 07:25:10",
+      "eprint_status": "archive",
+      "eprintid": 23878,
+      "metadata_visibility": "show",
+      "userid": 725,
+      "lastmod": "2020-09-03 07:25:10",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37550",
+            "pos": 1,
+            "eprintid": 23878,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 37550,
+            "main": "SI_14_APIEMS 2010 - Conference.pdf",
+            "files": [
+                {
+                  "mtime": "2020-09-03 07:14:52",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217805",
+                  "filename": "SI_14_APIEMS 2010 - Conference.pdf",
+                  "filesize": 838367,
+                  "objectid": 37550,
+                  "mime_type": "application\/pdf",
+                  "hash": "a41a14b3eca868cc2d05ad5fe85008ed",
+                  "fileid": 217805,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "type": "conference_item",
+      "pres_type": "keynote",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "Admi",
+            "family": "Syarif",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Mitsuo",
+            "family": "Gen",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "mitsuogen@gmail.com"
+        }
+      ],
+      "title": "Solving an Extended Logistic Model by Hybrid Genetic Algorithm",
+      "event_dates": "7-10 Desember 2010",
+      "refereed": "TRUE",
+      "event_location": "Malaka"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Syarif",
+            "honourific": null,
+            "given": "Admi"
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "id": "bambang_setiyadi76@yahoo.co.id",
+          "name": {
+            "given": "Ag. Bambang",
+            "honourific": null,
+            "family": "Setiyadi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ulvan",
+            "lineage": null,
+            "given": "Ardian"
+          },
+          "id": "ardian.ulvan@eng.unila.ac.id"
+        },
+        {
+          "id": "nurweniari@gmail.com",
+          "name": {
+            "given": "Ari",
+            "lineage": null,
+            "family": "Nurweni",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ginting",
+            "lineage": null,
+            "given": "Cipta"
+          },
+          "id": "cipta.ginting@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Fuad",
+            "honourific": null,
+            "given": "Muhammad"
+          }
+        },
+        {
+          "id": "muhammad_sukirlan@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "family": "Sukirlan",
+            "honourific": null,
+            "given": "Muhammad"
+          }
+        },
+        {
+          "id": "mulyantowidodo@gmail.com",
+          "name": {
+            "given": "Mulyanto",
+            "family": "Widodo",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "N E",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rusminto"
+          },
+          "id": "nurlaksana.eko@fkip.unila.ac.id"
+        },
+        {
+          "id": "rosma.hasibuan@fp.unila.ac.id",
+          "name": {
+            "given": "Rosma",
+            "family": "Hasibuan",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "sestiwidodo@gmail.com",
+          "name": {
+            "given": "Soesiladi E.",
+            "honourific": null,
+            "family": "Widodo",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Ujang",
+            "honourific": null,
+            "family": "Suparman",
+            "lineage": null
+          },
+          "id": "ujang.suparman@fkip.unila.ac.id"
+        }
+      ],
+      "type": "book_section",
+      "isbn": 9789798510090,
+      "refereed": "TRUE",
+      "title": "Karya Tulis Ilmiah: Pengertian, Penyusunan, Anatomi, Kebahasaan, dan Presentasi",
+      "eprint_status": "archive",
+      "eprintid": 23660,
+      "datestamp": "2020-08-18 01:20:11",
+      "metadata_visibility": "show",
+      "userid": 725,
+      "pages": 0,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Buku - Karya Tulis Ilmiah.pdf",
+            "docid": 37290,
+            "files": [
+                {
+                  "mtime": "2020-08-17 03:51:28",
+                  "hash_type": "MD5",
+                  "filename": "Buku - Karya Tulis Ilmiah.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/215997",
+                  "filesize": 2721550,
+                  "objectid": 37290,
+                  "mime_type": "application\/pdf",
+                  "hash": "448f84deda06317f0b69920f01ce2bb8",
+                  "fileid": 215997,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37290",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 23660
+          }
+      ],
+      "lastmod": "2020-08-18 01:20:11",
+      "publisher": "Lembaga Penelitian Universitas Lampung, Bandar Lampung",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/02\/36\/60",
+      "status_changed": "2020-08-18 01:20:11",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "subjects": [
+        "AS"
+      ],
+      "book_title": "Karya Tulis Ilmiah: Pengertian, Penyusunan, Anatomi, Kebahasaan, dan Presentasi",
+      "date": "2010-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23660"
+    }
+]
+

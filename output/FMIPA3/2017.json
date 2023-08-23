@@ -1,0 +1,1559 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28320",
+      "publisher": "AURA Publishing",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/02\/83\/20",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "status_changed": "2021-04-01 01:45:24",
+      "metadata_visibility": "show",
+      "datestamp": "2021-04-01 01:45:24",
+      "id_number": "ISBN: 978-602-6739-39-1",
+      "eprint_status": "archive",
+      "eprintid": 28320,
+      "lastmod": "2021-04-01 01:45:24",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42874",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28320,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "3. rampai17_nilai.pdf",
+            "docid": 42874,
+            "files": [
+                {
+                  "mtime": "2021-03-31 19:30:58",
+                  "hash_type": "MD5",
+                  "filename": "3. rampai17_nilai.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255495",
+                  "filesize": 2295194,
+                  "objectid": 42874,
+                  "mime_type": "application\/pdf",
+                  "hash": "dda830bec696c53de4b1460dae1dcc61",
+                  "fileid": 255495,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 725,
+      "title": "Peer Review : BUNGA RAMPAI - Pemikiran Angota Dewan Riset Dewan Riset Daerah (DRD) Provinsi Lampung",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Admi Syarif",
+            "given": "AS"
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Ofyar Z",
+            "honourific": null,
+            "lineage": null,
+            "family": "Tamin"
+          },
+          "id": "Ofyar@trans.si.itb.ac.id"
+        },
+        {
+          "name": {
+            "given": "Citra",
+            "lineage": null,
+            "family": "Persada",
+            "honourific": null
+          },
+          "id": "citra.persada@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hamim",
+            "lineage": null,
+            "family": "Sudarsono",
+            "honourific": null
+          },
+          "id": "hamim.sudarsono@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Erwanto",
+            "lineage": null,
+            "family": "Erwanto",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Udin",
+            "family": "Hasanudin",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "udinha65@gmail.com"
+        },
+        {
+          "id": "bartovenvivit@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Nurdin",
+            "lineage": null,
+            "given": "Bartoven Vivit"
+          }
+        },
+        {
+          "id": "hasyimkan@gmail.com",
+          "name": {
+            "given": "Hasyimkan",
+            "honourific": null,
+            "family": "Hasyimkan",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Andi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Desfiandi"
+          },
+          "id": "desfiandi@hotmail.com"
+        },
+        {
+          "name": {
+            "family": "Nurhasanah",
+            "lineage": null,
+            "honourific": null,
+            "given": "Any"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nisa",
+            "honourific": null,
+            "given": "Khairun"
+          },
+          "id": null
+        },
+        {
+          "id": "yusuf.barusman@ubl.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Barusman",
+            "honourific": null,
+            "given": "M Yusuf S"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Utomo",
+            "given": "Setyo Agung"
+          }
+        },
+        {
+          "id": "s_hikam@yahoo.com",
+          "name": {
+            "family": "Hikam",
+            "lineage": null,
+            "honourific": null,
+            "given": "Saiful"
+          }
+        },
+        {
+          "name": {
+            "given": "Harun",
+            "honourific": null,
+            "lineage": null,
+            "family": "Al Rasyid"
+          },
+          "id": "harun.alrasyid@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Bujang",
+            "lineage": null,
+            "family": "Rahman",
+            "honourific": null
+          },
+          "id": "bujang.rahman@fkip.unila.ac.id"
+        }
+      ],
+      "place_of_pub": "Bandar Lampung"
+    },
+    {
+      "type": "monograph",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "family": "Admi Syarif",
+            "lineage": null,
+            "honourific": null,
+            "given": "AS"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ofyar Z",
+            "honourific": null,
+            "family": "Tamin",
+            "lineage": null
+          }
+        },
+        {
+          "id": "citra.persada@eng.unila.ac.id",
+          "name": {
+            "given": "Citra",
+            "lineage": null,
+            "family": "Persada",
+            "honourific": null
+          }
+        },
+        {
+          "id": "hamim.sudarsono@fp.unila.ac.id",
+          "name": {
+            "given": "Hamim",
+            "family": "Sudarsono",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Erwanto",
+            "family": "Erwanto",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hasanudin",
+            "given": "Udin"
+          },
+          "id": "udinha65@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Bartoven Vivit",
+            "family": "Nurdin",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "bartovenvivit@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hasyimkan",
+            "lineage": null,
+            "given": "Hasyimkan"
+          },
+          "id": "hasyimkan@gmail.com"
+        },
+        {
+          "id": "desfiandi@hotmail.com",
+          "name": {
+            "given": "Andi",
+            "honourific": null,
+            "family": "Desfiandi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nurhasanah",
+            "honourific": null,
+            "given": "Any"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Khairun",
+            "honourific": null,
+            "family": "Nisa",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yusuf",
+            "given": "M"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Barusman",
+            "given": "M Yusuf S"
+          },
+          "id": "yusuf.barusman@ubl.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Utomo",
+            "honourific": null,
+            "given": "Setyo Agung"
+          }
+        },
+        {
+          "id": "s_hikam@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Hikam",
+            "honourific": null,
+            "given": "Saiful"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Al Rasyid",
+            "given": "Harun"
+          },
+          "id": "harun.alrasyid@fp.unila.ac.id"
+        },
+        {
+          "id": "bujang.suropati@gmail.com",
+          "name": {
+            "given": "Bujang",
+            "family": "Rahman",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "BUNGA RAMPAI - Pemikiran Angota Dewan Riset Dewan Riset  Daerah (DRD) Provinsi Lampung",
+      "eprint_status": "archive",
+      "id_number": "978-602-6739-39-1",
+      "eprintid": 24455,
+      "datestamp": "2020-11-02 04:20:07",
+      "metadata_visibility": "show",
+      "userid": 725,
+      "pages": 0,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 38190,
+            "main": "Buku - Bunga Rampai.pdf",
+            "files": [
+                {
+                  "mtime": "2020-11-02 01:19:46",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/222344",
+                  "filename": "Buku - Bunga Rampai.pdf",
+                  "objectid": 38190,
+                  "filesize": 13000280,
+                  "mime_type": "application\/pdf",
+                  "hash": "e2cae1a3c77a727d2fc2c81f029ab3f8",
+                  "fileid": 222344,
+                  "datasetid": "document"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38190",
+            "eprintid": 24455,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2020-11-02 04:20:07",
+      "publisher": "AURA Publishing",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/02\/44\/55",
+      "status_changed": "2020-11-02 04:20:07",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 11,
+      "monograph_type": "other",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "date": "2017-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24455"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37417",
+      "date": 2017,
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publisher": "AURA Publishing",
+      "dir": "disk0\/00\/03\/74\/17",
+      "full_text_status": "public",
+      "status_changed": "2021-12-24 09:27:37",
+      "rev_number": 12,
+      "ispublished": "pub",
+      "datestamp": "2021-12-24 09:27:37",
+      "eprintid": 37417,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 725,
+      "lastmod": "2021-12-24 09:27:37",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "(new)rampai17_nilai.pdf",
+            "files": [
+                {
+                  "filesize": 2291435,
+                  "objectid": 158339,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/427757",
+                  "filename": "(new)rampai17_nilai.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-12-24 07:59:44",
+                  "fileid": 427757,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "4ef126600582b37feec58343b6a8b97b"
+                }
+            ],
+            "docid": 158339,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158339",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 37417
+          }
+      ],
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "given": "AS",
+            "honourific": null,
+            "lineage": null,
+            "family": "Admi Syarif"
+          }
+        },
+        {
+          "id": "Ofyar@trans.si.itb.ac.id",
+          "name": {
+            "given": "Ofyar Z",
+            "honourific": null,
+            "lineage": null,
+            "family": "Tamin"
+          }
+        },
+        {
+          "id": "citra.persada@eng.unila.ac.id",
+          "name": {
+            "given": "Citra",
+            "lineage": null,
+            "family": "Persada",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sudarsono",
+            "given": "Hamim"
+          },
+          "id": "hamim.sudarsono@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Erwanto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Erwanto"
+          },
+          "id": "erwanto61@gmail.com"
+        },
+        {
+          "id": "udinha65@gmail.com",
+          "name": {
+            "given": "Udin",
+            "lineage": null,
+            "family": "Hasanudin",
+            "honourific": null
+          }
+        },
+        {
+          "id": "bartovenvivit@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Nurdin",
+            "honourific": null,
+            "given": "Bartoven Vivit"
+          }
+        },
+        {
+          "name": {
+            "family": "Hasyimkan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hasyimkan"
+          },
+          "id": "hasyimkan@gmail.com"
+        },
+        {
+          "id": "desfiandi@hotmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Desfiandi",
+            "honourific": null,
+            "given": "Andi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Nurhasanah",
+            "honourific": null,
+            "given": "Any"
+          }
+        },
+        {
+          "name": {
+            "given": "Khoirin",
+            "family": "Nisa",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "khoirin.nisa@fmipa.unila.ac.id"
+        },
+        {
+          "id": "yusuf.barusman@ubl.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Barusman",
+            "honourific": null,
+            "given": "M Yusuf S"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Setyo Agung",
+            "lineage": null,
+            "family": "Utomo",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Saiful",
+            "lineage": null,
+            "family": "Hikam",
+            "honourific": null
+          },
+          "id": "s_hikam@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Harun",
+            "family": "Al Rasyid",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "harun.alrasyid@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Bujang",
+            "family": "Rahman",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "bujang.suropati@gmail.com"
+        }
+      ],
+      "type": "other",
+      "title": "Peer Review : BUNGA RAMPAI - Pemikiran Angota Dewan Riset Dewan Riset Daerah (DRD) Provinsi Lampung"
+    },
+    {
+      "publication": "Jurnal Komputasi",
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "dir": "disk0\/00\/01\/62\/03",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "status_changed": "2019-11-14 10:14:32",
+      "issn": "2541-0350",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16203",
+      "date": "2017-04-01",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Aristoteles",
+            "lineage": null,
+            "given": "Aristoteles"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Analisis Pengelompokan Mahasiswa KKN Berdasarkan Kriteria Jenis Kelamin, Fakultas dan Sekolah",
+      "eprint_status": "archive",
+      "eprintid": 16203,
+      "datestamp": "2019-11-14 10:14:32",
+      "pagerange": "1-7",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 215,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "1410-3414-1-PB.pdf",
+            "docid": 29309,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-13 02:28:14",
+                  "filesize": 329618,
+                  "objectid": 29309,
+                  "filename": "1410-3414-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/138638",
+                  "datasetid": "document",
+                  "fileid": 138638,
+                  "mime_type": "application\/pdf",
+                  "hash": "2b094201e3eecee8753325806f48755e"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29309",
+            "pos": 1,
+            "eprintid": 16203,
+            "placement": 1
+          }
+      ],
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/komputasi\/article\/view\/1410\/1219",
+      "lastmod": "2019-11-14 10:14:32"
+    },
+    {
+      "userid": 215,
+      "number": 1,
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/komputasi\/article\/view\/1402\/1220",
+      "lastmod": "2019-11-13 08:51:47",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 16207,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29310",
+            "security": "public",
+            "docid": 29310,
+            "main": "1402-3417-1-PB.pdf",
+            "files": [
+                {
+                  "fileid": 138654,
+                  "datasetid": "document",
+                  "hash": "5acddcb2ce2e91badcf02d19b558b74c",
+                  "mime_type": "application\/pdf",
+                  "objectid": 29310,
+                  "filesize": 596531,
+                  "filename": "1402-3417-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/138654",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-13 02:32:27"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2019-11-13 08:51:47",
+      "eprintid": 16207,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "8-16",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Aristoteles",
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Pengembangan Sistem Pelaporan Kegiatan KKN Berbasis Android",
+      "refereed": "TRUE",
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16207",
+      "date": "2017-04-01",
+      "date_type": "published",
+      "subjects": [
+        "QA76"
+      ],
+      "full_text_status": "public",
+      "issn": "2541-0350",
+      "status_changed": "2019-11-13 08:51:47",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publication": "Jurnal Komputasi",
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/01\/62\/07"
+    },
+    {
+      "title": "Aplikasi Informasi Dokter Spesialis di Bandar Lampung Berbasis Android dengan Menggunakan Teknologi Location Base Service",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Aristoteles",
+            "honourific": null,
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "id": "astria.hijriani@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Hijriani",
+            "lineage": null,
+            "given": "Astria"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "55-63",
+      "datestamp": "2019-11-08 10:28:04",
+      "eprintid": 16020,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/komputasi\/article\/view\/1539\/1307",
+      "lastmod": "2019-11-08 10:28:04",
+      "documents": [
+          {
+            "main": "1539-3777-1-PB.pdf",
+            "docid": 29119,
+            "files": [
+                {
+                  "fileid": 137315,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "896e0361dba1ff7a8acb9d8fec83be61",
+                  "filesize": 497628,
+                  "objectid": 29119,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/137315",
+                  "filename": "1539-3777-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-08 09:54:29"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "placement": 1,
+            "eprintid": 16020,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29119",
+            "security": "public"
+          }
+      ],
+      "userid": 215,
+      "number": 2,
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "publication": "Jurnal Komputasi",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/01\/60\/20",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2541-0350",
+      "status_changed": "2019-11-08 10:28:04",
+      "date_type": "published",
+      "subjects": [
+        "QA76"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16020",
+      "date": "2017-10",
+      "volume": 5
+    },
+    {
+      "refereed": "TRUE",
+      "pagerange": "164-168",
+      "eprintid": 6227,
+      "eprint_status": "archive",
+      "id_number": "10.14569\/issn.2156-5570",
+      "referencetext": "[1] Ralahalu, M. S., Hehanusa, M. L., and Oszaer, L.L, “Respon Tanaman Cabai Besar (Capsicum annum L) Terhadap Pemberian Pupuk Organik Hormon Tanaman Ungul”, Jurnal Ilmu Budaya Tanaman, vol. 2, no. 2, Oktober 2013. \r\n\r\n[2] Badan Pusat Statistik Lampung. 2014. Berita Resmi Statistik Provinsi Lampung.Lampung: Badan Pusat Statistik Provinsi Lampung. \r\n\r\n[3] Muslim, 2015. Sistem Pakar Diagnosa Hama Dan Penyakit Cabai Berbasis Teorema Bayes. Vol. 4, No. 3, Desember 2015 : 797 - 876. \r\n\r\n[4] Pitojo, S., 2003. Benih Cabai. Yogyakarta :Kanisius. \r\n\r\n[5] Duriat, A. S., Gunaeni, N., and Wulandari, A. W. 2007. Penyakit Penting Tanaman Cabai dan Pengendaliannya. Monografi, 1 (31). \r\n\r\n[6] Kusumadewi, Sri. 2003. Artificial Intelligence: Teknik dan Aplikasinya. Edisi 1. Yogyakarta: Graha Ilmu. \r\n\r\n[7] Arhami,M. 2005. Konsep Dasar Sistem Pakar. Yogyakarta: Andi. \r\n\r\n[8] Aristoteles, Wardianto, and Ardye Amando Pratama, “Sistem Pakar Diagnosa Penyakit pada Ikan Budidaya Air Tawar dengan Metode Forward Chaining,” Jurnal Komputasi, vol. 3, no. 2, pp. 92-98, 2015. 168 | P a g e www.ijacsa.thesai.org",
+      "datestamp": "2018-03-21 02:16:27",
+      "documents": [
+          {
+            "placement": 2,
+            "eprintid": 6227,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19164",
+            "formatdesc": "Expert System of Chili Plant Disease Diagnosis using Forward Chaining Method on Android",
+            "security": "public",
+            "files": [
+                {
+                  "hash": "dd8dfbc3f979b20449bcb3d5a301a437",
+                  "mime_type": "application\/pdf",
+                  "fileid": 57111,
+                  "datasetid": "document",
+                  "mtime": "2017-12-13 04:39:26",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/57111",
+                  "filename": "Paper_21-Expert_System_of_Chili_Plant_Disease_Diagnosis.pdf",
+                  "objectid": 19164,
+                  "filesize": 853922
+                }
+            ],
+            "main": "Paper_21-Expert_System_of_Chili_Plant_Disease_Diagnosis.pdf",
+            "docid": 19164,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 3,
+            "content": "published"
+          },
+          {
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 4,
+            "format": "text",
+            "main": "Paper_21-Expert_System_of_Chili_Plant_Disease_Diagnosis.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-12-13 05:00:04",
+                  "objectid": 19166,
+                  "filesize": 853922,
+                  "filename": "Paper_21-Expert_System_of_Chili_Plant_Disease_Diagnosis.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/57121",
+                  "datasetid": "document",
+                  "fileid": 57121,
+                  "hash": "dd8dfbc3f979b20449bcb3d5a301a437",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 19166,
+            "formatdesc": "Expert System of Chili Plant Disease Diagnosis using Forward Chaining Method on Android",
+            "security": "public",
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19166",
+            "eprintid": 6227,
+            "placement": 3
+          }
+      ],
+      "official_url": "https:\/\/thesai.org\/Publications\/IJACSA",
+      "number": 11,
+      "userid": 215,
+      "publisher": "The Science and Information (SAI) Organization",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2156-5570 (online), 2158-107X(Print)",
+      "date": "2017-12-01",
+      "corp_creators": [
+        "Universities Lampung"
+      ],
+      "abstract": "Abstract—This research was conducted to make an expert system that is able to diagnose disease in chili plants based on knowledge that provided directly from the experts. This research uses classical probability calculation method in calculating the percentage of diagnoses and implemented on the Android mobile device. This research consisted of 37 symptoms data, 10 data of chili disease caused by fungi, and 10 rules. This expert system uses forward chaining inference method. Test results shows: (1)Functional testing using the Black Box Equivalence Partitioning (EP) method give the results as expected on the test scenario on each test class. (2) Expert testing by comparing the results of manual and system calculations matches and run well. (3)User acceptance test is done to 53 respondents which is divided into four groups of respondents. The first respondents group that is consisting of experts of chili disease give average score of 85.14% (excellent). The second group that consist of Agriculture Department students give score of 84.13% (excellent). The third respondent group that consist of Computer Science Department students give score of 84.28% (excellent) whereas the last group (chili farmers) give a score of 86% (excellent).\r\n\r\nKeywords—Android; classic probability; expert system; forward chaining; likert scale",
+      "title": "Expert System of Chili Plant Disease Diagnosis using Forward Chaining Method on Android",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Aristoteles",
+            "given": "Aristoteles"
+          },
+          "id": "aristoteles.1981@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Mita Fuljana",
+            "honourific": null,
+            "given": "MF"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "JP",
+            "family": "Joko Prasetyo",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "kmuludi@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurnia Muludi",
+            "given": "KM"
+          }
+        }
+      ],
+      "type": "article",
+      "contact_email": "aristoteles.1981@fmipa.unila.ac.id",
+      "metadata_visibility": "show",
+      "lastmod": "2018-03-21 02:16:27",
+      "dir": "disk0\/00\/00\/62\/27",
+      "publication": "International Journal of Advanced Computer Science and Applications",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "rev_number": 20,
+      "status_changed": "2018-03-21 02:16:27",
+      "subjects": [
+        "QA75"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6227",
+      "volume": 8
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "issn": "1858-4853",
+      "status_changed": "2017-05-31 08:20:34",
+      "related_url": [
+        {
+          "url": "http:\/\/e-journals.unmul.ac.id\/index.php\/JIM\/article\/view\/212\/pdf"
+        }
+      ],
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publisher": "Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Mulawarman",
+      "publication": "Jurnal Informatika Mulawarman",
+      "dir": "disk0\/00\/00\/25\/63",
+      "date": "2017-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2563",
+      "abstract": "Banyaknya pelanggan dan pemakaian air bersih di suatu daerah yang masuk dalam zona pelayanan\r\nPDAM Way Rilau Kota Bandar Lampung diamati sebagai informasi yang dapat digunakan dalam perencanaan\r\nproduksi air bersih di masa mendatang. Hasil prediksi jumlah pelanggan dan jumlah pemakaian air bersih akan\r\nbermanfaat dalam perencanaan produksi air bersih dan peningkatan layanan kepada pelanggan. Prediksi dapat\r\ndilakukan dengan berbagai metode, salah satunya metode regresi linier sederhana. Penelitian ini dilakukan\r\ndengan tujuan untuk membangun sistem informasi geografis yang dapat menyajikan hasil prediksi pemakaian air\r\nbersih kota Bandar Lampung dalam wilayah pelayanan PDAM Way Rilau Kota Bandar Lampung. Data pada\r\npenelitian ini diperoleh dari PDAM Way Rilau Kota Bandar Lampung. Hasil keseluruhan pengujian\r\nmenunjukkan bahwa sistem informasi geografis penyebaran dan prediksi jumlah penduduk telah sesuai baik dari\r\nsegi fungsionalitasnya, maupun dari segi interaksi sistem dengan pengguna.",
+      "volume": 11,
+      "date_type": "published",
+      "subjects": [
+        "QA75"
+      ],
+      "title": "IMPLEMENTASI METODE REGRESI LINIER SEDERHANA PADA\r\nPENYAJIAN HASIL PREDIKSI PEMAKAIAN AIR BERSIH PDAM\r\nWAY RILAU KOTA BANDAR LAMPUNG DENGAN SISTEM\r\nINFORMASI GEOFRAFIS",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "astria.hijriani@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hijriani",
+            "given": "Astria"
+          }
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "lineage": null,
+            "family": "Muludi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Erlina Ain",
+            "honourific": null,
+            "lineage": null,
+            "family": "Andini"
+          },
+          "id": "erlina_ain@yahoo.com"
+        }
+      ],
+      "type": "article",
+      "official_url": "http:\/\/e-journals.unmul.ac.id\/index.php\/JIM\/index",
+      "lastmod": "2017-05-31 08:20:34",
+      "documents": [
+          {
+            "main": "212-518-1-PB.pdf",
+            "docid": 2453,
+            "files": [
+                {
+                  "filename": "212-518-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17732",
+                  "filesize": 424468,
+                  "objectid": 2453,
+                  "mtime": "2017-05-31 08:04:38",
+                  "hash_type": "MD5",
+                  "hash": "60ff02e4668dbd4466b76f4823124236",
+                  "mime_type": "application\/pdf",
+                  "fileid": 17732,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 2563,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2453",
+            "security": "public"
+          }
+      ],
+      "userid": 80,
+      "number": 2,
+      "metadata_visibility": "show",
+      "pagerange": "37-42",
+      "datestamp": "2017-05-31 08:20:34",
+      "eprintid": 2563,
+      "id_number": "http:\/\/e-journals.unmul.ac.id\/index.php\/JIM\/article\/view\/212\/pdf",
+      "eprint_status": "archive"
+    },
+    {
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          }
+        },
+        {
+          "id": "tristiyanto.1981@fmipa.unila.ac.id",
+          "name": {
+            "given": "Tristiyanto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Tristiyanto"
+          }
+        },
+        {
+          "id": "didikunila@gmail.com",
+          "name": {
+            "given": "Didik",
+            "family": "Kurniawan",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "An Enterprise Architecture Planning for Higher Education Using The Open Group Architecture Framework (TOGAF): Case Study University of Lampung",
+      "eprint_status": "archive",
+      "eprintid": 5946,
+      "datestamp": "2018-04-25 03:45:11",
+      "metadata_visibility": "show",
+      "userid": 139,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18862",
+            "pos": 1,
+            "eprintid": 5946,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 435818,
+                  "objectid": 18862,
+                  "filename": "023.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/55167",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-18 01:52:17",
+                  "datasetid": "document",
+                  "fileid": 55167,
+                  "hash": "8641708dad99d44abc69b5d3dd0c0c2b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "023.pdf",
+            "docid": 18862
+          }
+      ],
+      "lastmod": "2018-04-25 03:45:11",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/00\/59\/46",
+      "related_url": [
+        {
+          "url": "http:\/\/icic-aptikom.org\/2018\/?p=17"
+        }
+      ],
+      "funders": [
+        "LPPM, Universitas Lampung"
+      ],
+      "event_type": "conference",
+      "status_changed": "2018-04-25 03:45:11",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 11,
+      "subjects": [
+        "QA75"
+      ],
+      "event_title": "INTERNATIONAL CONFERENCE ON INFORMATICS AND COMPUTING 2017",
+      "date_type": "published",
+      "abstract": "University is an organization that obliged to provide higher education, research, and community service (Tri Dharma), it has autonomy to manage their institutions. In order to realize Tri Dharma, University should made a planning of information technology (IT) infrastructure to support alignment process between organization business strategy and IT strategy. University of Lampung (Unila) as a government university in Lampung Province, already had IT infrastructure and managed by special unit. IT management on Unila nowadays more complicated, disintegrated of IT management has an effect that IT infrastructure was not adaptive to response the quick change of business needs. This research aimed to design an adaptive IT infrastructure based on enterprise architecture framework The Open Group Architecture Framework (TOGAF) Architecture Development Method (ADM) on Unila. The results of this research found that there are 3 core business activities, and 6 supporting activities identified on this campus. We also proposed 12 application to developed, all applications should be modular and integrated with other.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5946",
+      "date": "2017-11"
+    },
+    {
+      "datestamp": "2020-05-18 02:21:34",
+      "eprintid": 19838,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "50-59",
+      "userid": 139,
+      "number": 1,
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/komputasi\/article\/view\/1465",
+      "lastmod": "2020-05-18 02:21:34",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "2017-Perencanaan Arsitektur Aplikasi Universitas Lampung Menggunakan Zachman Framework.pdf",
+            "docid": 33137,
+            "files": [
+                {
+                  "filename": "2017-Perencanaan Arsitektur Aplikasi Universitas Lampung Menggunakan Zachman Framework.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/187835",
+                  "objectid": 33137,
+                  "filesize": 1508811,
+                  "mtime": "2020-05-17 04:05:21",
+                  "hash_type": "MD5",
+                  "hash": "00841cc639022a05deea47d8234b80dc",
+                  "mime_type": "application\/pdf",
+                  "fileid": 187835,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33137",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19838
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Novianti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ully"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Tristiyanto",
+            "honourific": null,
+            "family": "Tristiyanto",
+            "lineage": null
+          },
+          "id": "tristiyanto.1981@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "PERENCANAAN ARSITEKTUR APLIKASI UNIVERSITAS LAMPUNG MENGGUNAKAN ZACHMAN FRAMEWORK",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "In the present era, to support business processes in a university requires the support of ICT in improving the quality of education and services. Analysis of the existing condition of ICT implementation in Unila using Zachman framework shows that the change in the need of application becomes the most dominant thing to be immediately corrected in various fields of work in dispersed work units. Application requirements analysis is obtained by interviewing, obervating, and giving questionnaires to internal and external customers, and conducting document study of strategic plan of Unila. The result of this research is planning of Unila application architecture in accordance with organizational purpose which can give input for management to prepare integrated application in the future.",
+      "volume": 5,
+      "date": "2017-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19838",
+      "publication": "Jurnal Komputasi",
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/01\/98\/38",
+      "full_text_status": "public",
+      "issn": "2541-0350",
+      "status_changed": "2020-05-18 02:21:34",
+      "ispublished": "pub",
+      "rev_number": 9
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "pdaukg@gmail.com",
+          "name": {
+            "given": "Dau",
+            "honourific": null,
+            "lineage": null,
+            "family": "Phan"
+          }
+        },
+        {
+          "name": {
+            "given": "Giang N.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ngoc"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Favorisen R",
+            "family": "Lumbanraja",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Mohammad R",
+            "family": "Faisal",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Bahriddin",
+            "lineage": null,
+            "family": "Abipihi",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Purnama",
+            "lineage": null,
+            "honourific": null,
+            "given": "Bedy"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Mera K",
+            "honourific": null,
+            "family": "Delimiyanti",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Mamoru",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kubo"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Satou",
+            "lineage": null,
+            "given": "Kenji"
+          },
+          "id": null
+        }
+      ],
+      "title": "Combined Use of k-Mer Numerical Features and Position-Specific Categorical Features in Fixed-Length DNA Sequence Classification",
+      "refereed": "TRUE",
+      "userid": 99,
+      "number": 8,
+      "official_url": "https:\/\/www.scirp.org\/journal\/JBiSE\/",
+      "lastmod": "2018-11-16 17:22:08",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "JBiSE_2017082911134611.pdf",
+            "docid": 22986,
+            "files": [
+                {
+                  "hash": "29c93f6a796e33b47d3325e68a4a0e49",
+                  "mime_type": "application\/pdf",
+                  "fileid": 93789,
+                  "datasetid": "document",
+                  "mtime": "2018-11-15 03:41:26",
+                  "hash_type": "MD5",
+                  "filename": "JBiSE_2017082911134611.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/93789",
+                  "filesize": 964891,
+                  "objectid": 22986
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22986",
+            "eprintid": 9971,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2018-11-16 17:22:08",
+      "id_number": "https:\/\/doi.org\/10.4236\/jbise.2017.108030",
+      "eprintid": 9971,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "390-401",
+      "issn": "1937-6871",
+      "full_text_status": "public",
+      "status_changed": "2018-11-16 17:22:08",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "publisher": "Scientific Research",
+      "publication": "Journal of Biomedical Science and Engineering",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/00\/99\/71",
+      "abstract": "To classify DNA sequences, k-mer frequency is widely used since it can convert variable-length sequences into fixed-length and numerical feature vectors. However, in case of fixed-length DNA sequence classification, subsequences starting at a specific position of the given sequence can also be used as categorical features. Through the performance evaluation on six datasets of fixed-length DNA sequences, our algorithm based on the above idea achieved comparable or better performance than other state-of-the art algorithms.",
+      "volume": 10,
+      "date": "2017-08-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9971",
+      "date_type": "published",
+      "subjects": [
+        "QA75"
+      ]
+    },
+    {
+      "number": 2,
+      "userid": 139,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33140",
+            "eprintid": 19840,
+            "placement": 1,
+            "mime_type": "text\/html",
+            "language": "id",
+            "rev_number": 3,
+            "format": "text",
+            "main": "showToc",
+            "docid": 33140,
+            "files": [
+                {
+                  "mime_type": "text\/html",
+                  "hash": "99a7ab6ec99f5752ff1e3da2549beccd",
+                  "datasetid": "document",
+                  "fileid": 187849,
+                  "mtime": "2020-05-17 04:12:22",
+                  "hash_type": "MD5",
+                  "filename": "showToc",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/187849",
+                  "filesize": 27221,
+                  "objectid": 33140
+                }
+            ]
+          }
+      ],
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/komputasi\/issue\/view\/77\/showToc",
+      "lastmod": "2020-05-18 02:22:15",
+      "eprintid": 19840,
+      "eprint_status": "archive",
+      "datestamp": "2020-05-18 02:22:15",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Ulfah",
+            "honourific": null,
+            "lineage": null,
+            "family": "Septiani"
+          }
+        },
+        {
+          "name": {
+            "given": "Tristiyanto",
+            "lineage": null,
+            "family": "Tristiyanto",
+            "honourific": null
+          },
+          "id": "tristiyanto.1981@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Sistem Informasi Penilaian Kinerja Karyawan Berbasis Metode Simple Additive Weighting (SAW) Dan 360 Derajat Pada PLTD\/G Tarahan",
+      "volume": 5,
+      "abstract": "PT. PLN (Persero) or PT. Electricity Company of State is one of company in BUMN (State-owned enterprise) which is in charge in electricity sector in Indonesia state. Assesment employees performance in every company very impotant where can achive goals in organization by every employees example\r\nworking targets. Nowadays PLTD\/G Tarahan need information system of assessment employees that can help in the assessment process with suitable methods but not changed assessment criteria or assessment process have been implied. Assesment employees criteria in this research use 360 degrees and calculating assessment value use Simple Additive Weighting (SAW) method with 3 criteria such as absenteeism, work realization and character (assessment of coworkers). In this system built using Programming Hypertext Prepocesor (PHP) language based web. The research result system used Black Box doing by 2 staff in PTLD\/G Tarahan resolved what user needed. Calculation testing has been done using system and manual can get the same result. Based on questionnaire testing by admin, leader and each member get incoming results at intervals 80% - 100 %\r\nwith very good category.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19840",
+      "date": "2017-10",
+      "subjects": [
+        "QA75"
+      ],
+      "status_changed": "2020-05-18 02:22:15",
+      "full_text_status": "public",
+      "issn": "2541-0350",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "dir": "disk0\/00\/01\/98\/40",
+      "publication": "Jurnal Komputasi",
+      "divisions": [
+        "FMIPA3"
+      ]
+    },
+    {
+      "creators": [
+        {
+          "id": "lilisoltavianisirait@gmail.com",
+          "name": {
+            "given": "Lilis Oktaviani",
+            "lineage": null,
+            "family": "Sirait",
+            "honourific": null
+          }
+        },
+        {
+          "id": "tristiyanto.1981@fmipa.unila.ac.id",
+          "name": {
+            "given": "Tristiyanto",
+            "family": "Tristiyanto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "AUDIT TEKNOLOGI INFORMASI PADA DEALER MOBIL XYZ DI BANDAR LAMPUNG DENGAN MENGGUNAKAN PENDEKATAN COBIT 4.1",
+      "refereed": "TRUE",
+      "userid": 139,
+      "number": 1,
+      "lastmod": "2020-05-18 02:19:47",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/komputasi\/article\/view\/1462",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "2017-Audit Teknologi Informasi Pada Dealer Mobil Xyz Di Bandar Lampung Dengan Menggunakan Pendekatan Cobit 4.1.pdf",
+            "docid": 33136,
+            "files": [
+                {
+                  "hash": "154ea0ab424414fdde78fce9b1a43b94",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 187824,
+                  "mtime": "2020-05-17 03:56:05",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/187824",
+                  "filename": "2017-Audit Teknologi Informasi Pada Dealer Mobil Xyz Di Bandar Lampung Dengan Menggunakan Pendekatan Cobit 4.1.pdf",
+                  "filesize": 155484,
+                  "objectid": 33136
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33136",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19836
+          }
+      ],
+      "datestamp": "2020-05-18 02:19:47",
+      "eprint_status": "archive",
+      "eprintid": 19836,
+      "metadata_visibility": "show",
+      "pagerange": "42-49",
+      "issn": "2541-0350",
+      "full_text_status": "public",
+      "status_changed": "2020-05-18 02:19:47",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "dir": "disk0\/00\/01\/98\/36",
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "publication": "Jurnal Komputasi",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "abstract": "Information technology is growing rapidly and greatly influences to improving the effieciency and effectiveness of business activities in developing the company. In this case, an information technology audit is needed to ensure the existing information technology, that has been already satisfy the common control standards and has the ability to compete in the business world. The purpose of this research is to evaluate the assessment and to make recommendations based on the analysis maturity level of IT in Car Dealer XYZ in Bandar Lampung according to the framework COBIT 4.1. Standard of COBIT 4.1 has parameters that can aid the assessment of an enterprise using a maturity model. This research finds that the result of maturity level of Car Dealer XYZ in Bandar Lampung is 4.02. This shows that Information Technology has been updated well where the procedures and policies have been done effectively, monitored and there are corrective actions are taken.",
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19836",
+      "date": "2017-04",
+      "date_type": "published",
+      "subjects": [
+        "QA75"
+      ]
+    }
+]
+

@@ -1,0 +1,71 @@
+[
+    {
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "Universitas Lampung",
+      "dir": "disk0\/00\/01\/07\/59",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2019-04-09 06:59:40",
+      "book_title": "Kontroversi Pemilihan Gubernur Lampung",
+      "subjects": [
+        "K1"
+      ],
+      "date": "2003-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10759",
+      "title": "Mengapa Money Politics Sulit Dibuktikan",
+      "refereed": "FALSE",
+      "isbn": "979-8287-48-7",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wahyu Sasongko",
+            "given": "Wahyu"
+          }
+        }
+      ],
+      "type": "book_section",
+      "place_of_pub": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "pagerange": "98-110",
+      "datestamp": "2019-04-09 06:59:40",
+      "eprintid": 10759,
+      "eprint_status": "archive",
+      "lastmod": "2019-04-09 06:59:40",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23773",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 10759,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/99261",
+                  "filename": "wahyu sasongko. Pola Money 2019.pdf",
+                  "filesize": 8911127,
+                  "objectid": 23773,
+                  "mtime": "2019-02-14 04:02:37",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "af740330a5fcaf509335b38ed8bbd2f4",
+                  "datasetid": "document",
+                  "fileid": 99261
+                }
+            ],
+            "main": "wahyu sasongko. Pola Money 2019.pdf",
+            "docid": 23773,
+            "format": "text"
+          }
+      ],
+      "userid": 987
+    }
+]
+

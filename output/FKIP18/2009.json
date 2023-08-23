@@ -1,0 +1,74 @@
+[
+    {
+      "event_type": "conference",
+      "divisions": [
+        "FKIP18"
+      ],
+      "dir": "disk0\/00\/00\/12\/61",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "status_changed": "2016-11-24 06:32:00",
+      "full_text_status": "public",
+      "event_title": "Seminar nasional teknologi informasi dan aplikasinya",
+      "subjects": [
+        "AI"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1261",
+      "date": "2009-03-12",
+      "abstract": "pengembangan pendidikan si Indonesia saat ini lebih diarahkan pada peningkatan mutu, agar mampu mengikuti perkembangan ilmu pengetahuan dan teknologi, serta mampu meghadapi persaingan global. begitu pada manajemen perguruan tinggi dituntut untuk lebih aktif dan efesien.",
+      "refereed": "TRUE",
+      "event_dates": "12 maret 2009",
+      "title": "sistem informasi administrasi akademik online suatu studi kasus",
+      "creators": [
+        {
+          "name": {
+            "given": "sumadi",
+            "honourific": null,
+            "lineage": null,
+            "family": null
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "event_location": "malang",
+      "pagerange": "85-90",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 1261,
+      "datestamp": "2016-11-24 06:32:00",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 1139,
+            "main": "Seminar Nasional Teknologi Informasi dan Aplikasinya.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 8452,
+                  "mime_type": "application\/pdf",
+                  "hash": "632b6b0494e88365502cbd3bf1fc688c",
+                  "filesize": 2082873,
+                  "objectid": 1139,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8452",
+                  "filename": "Seminar Nasional Teknologi Informasi dan Aplikasinya.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-24 04:30:53"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1139",
+            "pos": 1,
+            "eprintid": 1261,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2016-11-24 06:32:00",
+      "userid": 10
+    }
+]
+

@@ -1,0 +1,366 @@
+[
+    {
+      "title": "Single enantiomeric �-blockers—The existing technologies",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Agustian",
+            "lineage": null,
+            "given": "Joni"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Harun@Kamaruddin",
+            "lineage": null,
+            "given": "Azlina"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "1587-1604",
+      "datestamp": "2016-10-04 01:12:23",
+      "eprint_status": "archive",
+      "id_number": "http:\/\/dx.doi.org\/10.1016\/j.procbio.2010.06.022",
+      "eprintid": 710,
+      "lastmod": "2016-10-04 01:12:23",
+      "official_url": "http:\/\/www.journals.elsevier.com\/process-biochemistry",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/607",
+            "pos": 1,
+            "eprintid": 710,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "01 Jurnal Internasional Process Biochemistry 2010.pdf",
+            "docid": 607,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 4049,
+                  "mime_type": "application\/pdf",
+                  "hash": "e5ceb906c5e5ae1c3b3d3058710784e3",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-03 09:13:33",
+                  "objectid": 607,
+                  "filesize": 725055,
+                  "filename": "01 Jurnal Internasional Process Biochemistry 2010.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4049"
+                }
+            ]
+          }
+      ],
+      "userid": 390,
+      "number": 10,
+      "related_url": [
+        {
+          "url": "http:\/\/www.sciencedirect.com\/science\/article\/pii\/S1359511310002515",
+          "type": "pub"
+        }
+      ],
+      "publication": "Process Biochemistry",
+      "publisher": "Elsevier B.V.",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/07\/10",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "1359-5113",
+      "full_text_status": "public",
+      "status_changed": "2016-10-04 01:12:23",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/710",
+      "date": "2010-10",
+      "abstract": "A number of �-blocking drugs are available in the world market, only few compounds are found as single\r\nenantiomers. The need to use the single enantiomeric �-blockers affects development of drugs and\r\ntechnology. Many processes have been exploited to replace the existing racemates. Two main routes\r\nare established: (1) asymmetric syntheses and (2) racemic resolutions. The syntheses give medium-high\r\nyields and excellent enantiomeric excess, but the resolutions are limited by 50% yield. Both technologies\r\ninvolve new techniques such as dynamic kinetic resolution (DKR) and membrane-based extraction.\r\nThe synthetic ways utilise various substrates and catalysts. A simultaneous formation is also afforded by\r\nthese processes. They offer oriented alternatives to the single enantiomeric �-blockers. Resolutions of the\r\nracemates appear with many attractive separation methods. Direct or indirect resolutions show excellent\r\ncharacteristics and produce high enantiomeric excess. The existing processes operate continuously at\r\nmild operating temperatures compared to the asymmetric synthesis. In situ separation is also exploited.\r\nDevelopment of the single enantiomeric �-blockers using the DKR based on enzymatic membrane(s) is\r\nencouraged. Integration of acetylation, racemisation and hydrolysis followed by separation of the enantiomers\r\nin the enzymatic membrane reactors could be a better option in resolution and separation of the\r\n�-blocker racemates.",
+      "volume": 45
+    },
+    {
+      "pagerange": "3199-3206",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 2018,
+      "datestamp": "2017-05-30 04:54:09",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1883",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2018,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-30 04:40:37",
+                  "filesize": 744802,
+                  "objectid": 1883,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14024",
+                  "filename": "2010Journal of Applied Sciences.pdf",
+                  "datasetid": "document",
+                  "fileid": 14024,
+                  "hash": "3c0d819611754cc547504892893656fb",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "2010Journal of Applied Sciences.pdf",
+            "docid": 1883,
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/scialert.net\/abstract\/?doi=jas.2010.3199.3206",
+      "lastmod": "2017-05-30 04:54:09",
+      "number": 24,
+      "userid": 397,
+      "refereed": "TRUE",
+      "title": "Post Synthetically Functionalized SBA-15 with Organosulfonic Acid and Sulfated Zirconia for Esterification of Glycerol to Monoglyceride",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Lilis",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hermida"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Abdullah",
+            "lineage": null,
+            "given": "Ahmad Zuhairi"
+          }
+        },
+        {
+          "name": {
+            "family": "Mohammed",
+            "lineage": null,
+            "honourific": null,
+            "given": "Abdur Rahman"
+          }
+        }
+      ],
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2018",
+      "volume": 10,
+      "abstract": "The pore structural properties and catalytic activity of SBA-15 post synthetically functionalized with organo sulfonic acid and with sulfated zirconia are presented. The SBA-15 incorporated with 3-(mercaptopropyl) trimethoxysilane (MPTMS) was prepared by post synthesis-grafting. Mild oxidation was carried out to obtain an acid catalyst (HSO3SBA-15). Whilst SBA-15 immobilized with sulfated zirconia was prepared by reacting SBA-15 with solution of zirconiumoxychloride and urea at 90°C to ZrO2-SBA-15. SZSBA-15 acid catalyst was obtained by sulfation of the ZrO2-SBA-15 with H2SO4 solution at room temperature. The catalysts were characterized by surface area analysis, EDX, SEM, Fourier transform infrared (FTIR) spectroscopy and pulse chemisorptions of NH3, followed by TPD of NH3. The organo sulfonic acid functionalized SBA-15 catalysts (HSO3SBA-15) were found to be more efficient solid acid catalysts for the esterification of glycerol with lauric acid to monolaurin at 160°C for 6 h using molar ratio of fatty acid to glycerol of 1:4. Excellent lauric acid conversion (94%) with high selectivity to monolaurin (70%) can be achieved using organo sulfonic acid functionalized SBA-15 catalyst with preparation condition of 20 h reflux time and MPTMS amount of 1 mL g-1 SBA-15.",
+      "publisher": "Science Alert",
+      "dir": "disk0\/00\/00\/20\/18",
+      "publication": "Journal of Applied Sciences",
+      "divisions": [
+        "FT6"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2017-05-30 04:54:09",
+      "issn": "1812-5662",
+      "full_text_status": "public"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "sugiyanto.1957@eng.unila.ac.id",
+          "name": {
+            "family": "Sugiyanto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sugiyanto"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "tudi Kekuatan sambungan Las Baja AISI 1045 dengan Berbagai Metode Posisi Pengelasan",
+      "number": 1,
+      "userid": 1133,
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-08 11:51:55",
+                  "objectid": 26779,
+                  "filesize": 1055035,
+                  "filename": "9. Scan Review Studi .............................  33-36.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120037",
+                  "datasetid": "document",
+                  "fileid": 120037,
+                  "hash": "1546b042f3a7543673be455db3137fb0",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "9. Scan Review Studi .............................  33-36.pdf",
+            "docid": 26779,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 13769,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26779",
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/repository.unila.ac.id:8180\/dspace\/handle\/12345679\/6644\/browse-title",
+      "lastmod": "2019-08-12 02:44:29",
+      "eprintid": 13769,
+      "eprint_status": "archive",
+      "datestamp": "2019-08-12 02:44:29",
+      "metadata_visibility": "show",
+      "status_changed": "2019-08-12 02:44:29",
+      "issn": "2087-1880",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Mechanical Jurnal Ilmiah Teknik Mesin Fakultas Teknik Universitas Lampung",
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/01\/37\/69",
+      "volume": 1,
+      "abstract": "Hasil penilaian sejawat sebidang atau peer review",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13769",
+      "date": "2010-09",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published"
+    },
+    {
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Herti",
+            "family": "Utami",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "herti.utami@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Budiman",
+            "honourific": null,
+            "given": "Arief"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutijan",
+            "given": "Sutijan"
+          }
+        },
+        {
+          "name": {
+            "family": "Roto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Roto"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Wahyudi Budi",
+            "lineage": null,
+            "family": "Sediawan",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "conference_item",
+      "event_dates": "November 22-23, 2010",
+      "refereed": "TRUE",
+      "title": "Synthesis of α-Terpineol from Turpentine by Hydration in a Batch Reactor",
+      "event_location": "Bangkok, Thailand",
+      "eprintid": 6579,
+      "eprint_status": "archive",
+      "datestamp": "2018-04-25 03:52:33",
+      "metadata_visibility": "show",
+      "userid": 423,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19530",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6579,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 19530,
+            "main": "RSCE 2010 Herti.pdf",
+            "files": [
+                {
+                  "hash": "76fc49eb4b1ba2a005c01acf4a4d8cd7",
+                  "mime_type": "application\/pdf",
+                  "fileid": 60727,
+                  "datasetid": "document",
+                  "filename": "RSCE 2010 Herti.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60727",
+                  "filesize": 124788,
+                  "objectid": 19530,
+                  "mtime": "2018-03-11 02:24:28",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2018-04-25 03:52:33",
+      "dir": "disk0\/00\/00\/65\/79",
+      "divisions": [
+        "FT6"
+      ],
+      "event_type": "conference",
+      "status_changed": "2018-04-25 03:52:33",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "ispublished": "pub",
+      "subjects": [
+        "TP"
+      ],
+      "event_title": "17th ASEAN Regional Symposium on Chemical Engineering",
+      "date_type": "published",
+      "corp_creators": [
+        "Chemical Engineering Department, Gadjah Mada University",
+        "Chemical Engineering Department, Gadjah Mada University",
+        "Chemical Engineering Department, Gadjah Mada University",
+        "Chemistry Department, Gadjah Mada University",
+        "Chemical Engineering Department, Gadjah Mada University"
+      ],
+      "abstract": "Turpentine is natural essential oil obtained by distillation of the raw oleoresin collected from pine trees, in which α-pinene is the main component of most turpentine oils. Turpentine from Indonesia contains 65-85 % α-pinene , 1% camphene, 1-3%  β-pinene, 10-18 % 3-carene and limonene 1-3%. When treated with water in the presence of acid catalyst, α-pinene is hydrated to α-terpineol which can be used as  perfume, repellent of insect, antifungal and disinfectant. This work presents the result of α-terpineol synthesis by hydration of turpentine. The study investigates that the effect of catalyst (sulfuric acid, chloro acetic acid), temperature (60, 70, 80, 90oC), the mol ratio of chloro acetic acid to α-pinene  (0.8\/1; 1.6\/1; 2.4\/1; 3.2\/1; 4\/1),  and stirring rate (264, 546, 954 rpm). It suggested that the best condition for the hydration of turpentine was achieved at temperature of 80oC, reaction time of 240 min, mol ratio of chloro acetic acid catalyst to α-pinene of 2.4\/1  and the stirring rate of 546 rpm. The conversion of  hydration of turpentine to α-terpineol was obtained to be 54.13%.",
+      "date": "2010-11-22",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6579"
+    }
+]
+

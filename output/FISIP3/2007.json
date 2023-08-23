@@ -1,0 +1,102 @@
+[
+    {
+      "status_changed": "2020-03-05 09:14:19",
+      "rev_number": 8,
+      "dir": "disk0\/00\/01\/83\/71",
+      "divisions": [
+        "FISIP3"
+      ],
+      "volume": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18371",
+      "date_type": "published",
+      "subjects": [
+        "JF"
+      ],
+      "creators": [
+        {
+          "id": "hertanto.1960@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Hertanto",
+            "lineage": null,
+            "given": "Hertanto"
+          }
+        }
+      ],
+      "type": "book_section",
+      "title": "DEWAN PERWAKILAN DAERAH (DPD) ANTARA KENYATAAN DAN KEMAUAN",
+      "lastmod": "2020-03-05 09:14:19",
+      "editors": [
+        {
+          "name": {
+            "given": "yuswanto",
+            "family": "Yuswanto",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "HS",
+            "honourific": null,
+            "family": "Tisnanta",
+            "lineage": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/fh.unila.ac.id\/"
+        }
+      ],
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "abstract": "ABSTRAK\r\n\r\nRealitas Dewan Perwakilan Daerah Republik Indonesia yang baru terbentuk sekitar tiga tahun (2004-2007) menumbuhkan anggapan bahwa DPD secara kelembagaan dan terutama fungsinya, belum tersosialisasikan secara penuh seperti lembaga tinggi negara lain yang baru terbentuk sebagai hasil amandemen UUD 1945. Namun keberadaan Dewan Perwakilan Daerah (DPD) dalam parlemen Indonesia telah mampu memberikan stimulasi positif bagi kemajuan demokrasi di Indonesia. Sehingga apapun kondisinya, secara prinsip DPD harus tetap dipertahankan dengan mendorong penguatan kelembagaan, baik secara internal maupun eksternal. Karena itu, guna meningkatkan kapasitas kelembagaan dan personalnya di masa mendatang, pertama, anggota DPD secara bersama perlu lebih menggalakkan sosialisasi tugas pokok dan fungsinya sambil membangun jaringan seluas-luasnya, dengan membangun dan mendirikan sekretariat bersama anggota DPD di tiap-tiap provinsi. Kedua, baik secara personal maupun kolektif, anggota DPD perlu memiliki tim ahli yang kapabel di daerahnya masing-masing untuk menyerap aspirasi dan menganalisis permasalahan daerah secara lebih akurat. Ketiga, melakukan komunikasi politik dan koordinasi secara berkala dengan para anggota DPR sedaerah, DPRD, pemerintah provinsi, kota dan kabupaten, lembaga-lembaga politik dan lembaga-lembaga sosial budaya, serta konstituen di daerahnya. Keempat, membangun empati terhadap persoalan-persoalan masyarakat daerah, misalnya menggalang koalisi antikorupsi, beasiswa pendidikan anak-anak miskin, dan investigasi terhadap potensi konflik komunal.\r\nKata Kunci: DPD RI, Parlemen, Check and Balance, Konstituen",
+      "date": "2007-07",
+      "book_title": "Peran Ideal DPD RI dalam Sistem Ketatanegaraan Indonesia: Suara dari Lampung",
+      "place_of_pub": "Bandar Lampung",
+      "isbn": "978-979-16558-0-4",
+      "refereed": "TRUE",
+      "userid": 813,
+      "number": 1,
+      "official_url": "https:\/\/fh.unila.ac.id\/",
+      "pages": 130,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31517",
+            "pos": 1,
+            "eprintid": 18371,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Peran Ideal DPD RI.pdf",
+            "docid": 31517,
+            "files": [
+                {
+                  "mtime": "2020-03-04 13:49:55",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/154540",
+                  "filename": "Peran Ideal DPD RI.pdf",
+                  "objectid": 31517,
+                  "filesize": 1334501,
+                  "mime_type": "application\/pdf",
+                  "hash": "1dbe546bc8b57fbbaebf25edadf1043d",
+                  "fileid": 154540,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2020-03-05 09:14:19",
+      "eprintid": 18371,
+      "eprint_status": "archive",
+      "pagerange": "40-45"
+    }
+]
+

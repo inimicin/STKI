@@ -1,0 +1,115 @@
+[
+    {
+      "publisher": "Fakultas Kehutanan dan Lingkungan IPB Bogor",
+      "divisions": [
+        "FP11"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/01",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "status_changed": "2023-08-21 02:46:13",
+      "full_text_status": "public",
+      "subjects": [
+        "GE",
+        "SD"
+      ],
+      "date_type": "published",
+      "date": "2023-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52401",
+      "abstract": "9% Overall Similarity",
+      "title": "Turnitine Paper berjudul \"Effects of Characteristics and Perceptions of Collectors of Non-Timber Forest Products to \r\nbe Members of the Partnership Program: A Case Study at Bukit Barisan Selatan National\" \r\nPark, Indonesia",
+      "type": "other",
+      "creators": [
+        {
+          "id": "samsul.bakri@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Bakri",
+            "given": "Samsul"
+          }
+        },
+        {
+          "id": "christine.wulandari@fp.unila.ac.id",
+          "name": {
+            "given": "Christine",
+            "family": "Wulandari",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "nandakurniasari015@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Nanda"
+          }
+        },
+        {
+          "name": {
+            "family": "Safe'i",
+            "lineage": null,
+            "honourific": null,
+            "given": "Rahmat"
+          },
+          "id": "rahmat.safei@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ramdani",
+            "lineage": null,
+            "given": "Dadan"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Anshory",
+            "honourific": null,
+            "given": "Anshory"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 52401,
+      "eprint_status": "archive",
+      "datestamp": "2023-08-21 02:46:13",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253850",
+            "eprintid": 52401,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "NTFP 9%.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "50d87ad8a3019c8c202b778cfcc19b3c",
+                  "datasetid": "document",
+                  "fileid": 621079,
+                  "mtime": "2023-08-20 10:37:53",
+                  "hash_type": "MD5",
+                  "filename": "NTFP 9%.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621079",
+                  "filesize": 1304717,
+                  "objectid": 253850
+                }
+            ],
+            "docid": 253850
+          }
+      ],
+      "lastmod": "2023-08-21 02:46:13",
+      "userid": 753
+    }
+]
+

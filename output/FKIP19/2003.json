@@ -1,0 +1,74 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "fitria",
+            "honourific": null,
+            "given": "akhyar"
+          },
+          "id": "fitriaakhyar546@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Jurnal Bahasa, Sastra dan Budaya (AKSARA)",
+      "eprint_status": "archive",
+      "eprintid": 14092,
+      "datestamp": "2019-09-09 04:08:13",
+      "metadata_visibility": "show",
+      "userid": 617,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 27133,
+            "main": "Buku Aksara .pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "66bfd45f53acc398e8517cca8a582480",
+                  "datasetid": "document",
+                  "fileid": 122559,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122559",
+                  "filename": "Buku Aksara .pdf",
+                  "filesize": 12580234,
+                  "objectid": 27133,
+                  "mtime": "2019-09-09 03:57:07",
+                  "hash_type": "MD5"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27133",
+            "eprintid": 14092,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2019-09-09 04:08:13",
+      "publisher": "FKIP",
+      "dir": "disk0\/00\/01\/40\/92",
+      "publication": "aksara",
+      "divisions": [
+        "FKIP19"
+      ],
+      "status_changed": "2019-09-09 04:08:13",
+      "full_text_status": "public",
+      "issn": "1411-2501",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "L1"
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Jurnal bahasa, sastra dan budaya (AKSARA)",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14092",
+      "date": 2003
+    }
+]
+

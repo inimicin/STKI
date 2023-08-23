@@ -1,0 +1,71 @@
+[
+    {
+      "publisher": "KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI",
+      "dir": "disk0\/00\/02\/43\/75",
+      "divisions": [
+        "FKIP21"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2020-10-26 08:34:03",
+      "rev_number": 9,
+      "ispublished": "unpub",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "corp_creators": [
+        "Faculty of Teacher Training and Education, University of Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24375",
+      "date": "2001-12-17",
+      "creators": [
+        {
+          "name": {
+            "given": "RBR",
+            "family": "Ratu Betta Rudibyani",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Penentuan Kinerja Elektroda Enzim Glikosa Oksidase (GOD) Sebagai Sensor Hidrogen (H2O2) Untuk Penentuan Glukosa Secara Potensiometri.",
+      "datestamp": "2020-10-26 08:34:03",
+      "eprintid": 24375,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 705,
+      "lastmod": "2020-10-26 08:34:03",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 38102,
+            "main": "sertifikat_EC00202017278.pdf",
+            "files": [
+                {
+                  "mtime": "2020-10-26 08:15:49",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221752",
+                  "filename": "sertifikat_EC00202017278.pdf",
+                  "objectid": 38102,
+                  "filesize": 770034,
+                  "hash": "c71d42ca2d8cbebb053d7bb2f1ee9a36",
+                  "mime_type": "application\/pdf",
+                  "fileid": 221752,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38102",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 24375
+          }
+      ]
+    }
+]
+

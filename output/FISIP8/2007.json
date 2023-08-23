@@ -1,0 +1,136 @@
+[
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 50654,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190358",
+            "pos": 1,
+            "security": "public",
+            "main": "kemelut klasik.pdf",
+            "files": [
+                {
+                  "mtime": "2023-04-20 07:08:18",
+                  "hash_type": "MD5",
+                  "filename": "kemelut klasik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545949",
+                  "filesize": 282544,
+                  "objectid": 190358,
+                  "mime_type": "application\/pdf",
+                  "hash": "b567fa04e6d057d7293df517bfe4c758",
+                  "datasetid": "document",
+                  "fileid": 545949
+                }
+            ],
+            "docid": 190358,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2023-04-25 11:19:39",
+      "userid": 1187,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 50654,
+      "datestamp": "2023-04-25 11:19:39",
+      "refereed": "FALSE",
+      "title": "Kemelut Klasik di Lembaga Pemasyarakatan",
+      "creators": [
+        {
+          "name": {
+            "given": "Iwan",
+            "lineage": null,
+            "family": "Sulistyo",
+            "honourific": null
+          },
+          "id": "iwsulistyo@gmail.com"
+        }
+      ],
+      "type": "article",
+      "date": "2007-12-15",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50654",
+      "subjects": [
+        "H1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2023-04-25 11:19:39",
+      "full_text_status": "public",
+      "publisher": "Harian Singgalang",
+      "publication": "Harian Singgalang",
+      "divisions": [
+        "FISIP8"
+      ],
+      "dir": "disk0_bak\/00\/05\/06\/54"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "H1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50653",
+      "date": "2007-06-08",
+      "publisher": "Harian Haluan",
+      "divisions": [
+        "FISIP8"
+      ],
+      "publication": "Kolom Detak Jam Gadang Harian Haluan",
+      "dir": "disk0_bak\/00\/05\/06\/53",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "status_changed": "2023-04-25 11:19:35",
+      "metadata_visibility": "show",
+      "datestamp": "2023-04-25 11:19:35",
+      "eprint_status": "archive",
+      "eprintid": 50653,
+      "lastmod": "2023-04-25 11:19:35",
+      "documents": [
+          {
+            "main": "pembangunann dan kemiskinan.pdf",
+            "docid": 190357,
+            "files": [
+                {
+                  "fileid": 545943,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "1ff24301508c867c00c08ed4aa27ce5f",
+                  "objectid": 190357,
+                  "filesize": 353881,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545943",
+                  "filename": "pembangunann dan kemiskinan.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-20 07:05:17"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 50653,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190357",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "userid": 1187,
+      "title": "Pembangunan dan Kemiskinan",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "name": {
+            "given": "Iwan",
+            "honourific": null,
+            "family": "Sulistyo",
+            "lineage": null
+          },
+          "id": "iwsulistyo@gmail.com"
+        }
+      ],
+      "type": "article"
+    }
+]
+

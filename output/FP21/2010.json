@@ -1,0 +1,101 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sabhan",
+            "given": "Sabhan"
+          },
+          "id": null
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "given": "Eko",
+            "honourific": null,
+            "family": "Efendi",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "M Tri",
+            "lineage": null,
+            "family": "Hartanto",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Purwandani",
+            "given": "Andri"
+          },
+          "id": null
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "pemodelan pola sebaran tumpahan minyak yang berbeda di pelabuhan tanjung priok",
+      "eprint_status": "archive",
+      "eprintid": 1770,
+      "datestamp": "2017-05-29 05:35:02",
+      "pagerange": "77-86",
+      "metadata_visibility": "show",
+      "userid": 274,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1633",
+            "pos": 1,
+            "eprintid": 1770,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 1633,
+            "main": "1_pemodelan pola sebaran tumpahan minyak yang berbeda di pelabuhan tanjung priok.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12237",
+                  "filename": "1_pemodelan pola sebaran tumpahan minyak yang berbeda di pelabuhan tanjung priok.pdf",
+                  "filesize": 2871008,
+                  "objectid": 1633,
+                  "mtime": "2017-05-29 01:00:28",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "c84087f1f5e27256cee8e4db285b68ca",
+                  "fileid": 12237,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2017-05-29 05:38:39",
+      "official_url": "http:\/\/www.ik-ijms.com",
+      "divisions": [
+        "FP21"
+      ],
+      "publisher": "Jurusan Ilmu Kelautan Universitas Diponegoro",
+      "publication": "Indonesian Journal of Marine Science",
+      "dir": "disk0\/00\/00\/17\/70",
+      "status_changed": "2017-05-29 05:38:39",
+      "full_text_status": "public",
+      "issn": "0853-7291",
+      "ispublished": "pub",
+      "rev_number": 14,
+      "subjects": [
+        "GC"
+      ],
+      "date_type": "published",
+      "volume": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1770",
+      "date": "2010-02"
+    }
+]
+

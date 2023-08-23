@@ -1,0 +1,102 @@
+[
+    {
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44857",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2022-09-12 01:13:22",
+      "divisions": [
+        "FP19",
+        "FP22",
+        "FT9",
+        "FT13",
+        "FT14",
+        "FT12",
+        "FT3",
+        "FT2"
+      ],
+      "publisher": "Proceedings of the 6th Food Ingredient Asia Conference",
+      "dir": "disk0\/00\/04\/48\/57",
+      "lastmod": "2022-09-12 01:13:22",
+      "documents": [
+          {
+            "eprintid": 44857,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166764",
+            "pos": 1,
+            "format": "text",
+            "docid": 166764,
+            "main": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW (1).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 484142,
+                  "mime_type": "application\/pdf",
+                  "hash": "a84c843ec947789037ec25e3d50f0a35",
+                  "hash_type": "MD5",
+                  "mtime": "2022-09-09 04:00:00",
+                  "filesize": 377791,
+                  "objectid": 166764,
+                  "filename": "HASIL PENILAIAN SEJAWAT SEBIDANG ATAU PEER REVIEW (1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/484142"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 306,
+      "metadata_visibility": "show",
+      "datestamp": "2022-09-12 01:13:22",
+      "eprintid": 44857,
+      "eprint_status": "archive",
+      "title": "Profile of Sweet Potato Fermentation using Leuconostoc Mesenteroides as a Starter",
+      "creators": [
+        {
+          "id": "neti.yuliana@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Yuliana",
+            "lineage": null,
+            "given": "Neti"
+          }
+        },
+        {
+          "id": "dewikincai@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Sartika",
+            "honourific": null,
+            "given": "Dewi"
+          }
+        },
+        {
+          "id": "sutiknolampung@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutikno",
+            "given": "Sutikno"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Edo",
+            "lineage": null,
+            "family": "Jatmiko",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other"
+    }
+]
+

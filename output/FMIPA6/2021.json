@@ -1,0 +1,784 @@
+[
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2022-06-21 01:19:50",
+      "issn": "2180-4230",
+      "full_text_status": "public",
+      "publisher": "Universiti Sains Malaysia (USM Press)",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "publication": "Journal of Physical Science,",
+      "dir": "disk0\/00\/04\/26\/62",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42662",
+      "date": 2021,
+      "volume": 32,
+      "abstract": "In this research, a control system in the form of a syringe pump has been developed to control the volume and flow rate of a liquid or a solution. The syringe pump is fabricated by controlling the speed and pulse width modulation (PWM) of stepper motors based on the Arduino Uno microcontroller board. The tools used are a stepper motor as a syringe driver, the Arduino Uno as a controller, a four-digit seven-segment display and a keypad matrix as an input interface. The syringe pump works by pushing the injection pump whose speed has been adjusted to the flow rate. The speed of the flow rate and volume are obtained by setting the delay time of the stepper motor using PWM pins from the Arduino Uno. The syringe pump is observed to work in the flow rate range of 0.10–12.00 ml h–1. The system can be applied to medical settings as the control of volume and flow rate of drug fluids as well as with nanofibres using electrospinning technique.",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "A Control System on the Syringe Pump Based on Arduino for Electrospinning Application",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "AMIR SUPRIYANTO",
+            "lineage": null,
+            "given": "AMIR SUPRIYANTO"
+          }
+        },
+        {
+          "name": {
+            "given": "sw suciyati",
+            "family": "Sri Wahyu Suciyati",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sri.wahyu@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Arif Surtono",
+            "honourific": null,
+            "family": "Arif Surtono",
+            "lineage": null
+          },
+          "id": "arifgandes@gmail.com"
+        },
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null,
+            "given": "Junaidi"
+          }
+        },
+        {
+          "id": "sutopohadi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Hadi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutopo"
+          }
+        }
+      ],
+      "type": "article",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 468050,
+                  "mime_type": "application\/pdf",
+                  "hash": "e3dfa4ca6bea1f9245941206ddb6387b",
+                  "objectid": 164379,
+                  "filesize": 1339704,
+                  "filename": "articles.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/468050",
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-20 08:26:45"
+                }
+            ],
+            "main": "articles.pdf",
+            "docid": 164379,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164379",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 42662
+          }
+      ],
+      "official_url": "https:\/\/jps.usm.my\/vol-32-no-1-2021\/",
+      "lastmod": "2022-06-21 01:19:50",
+      "number": 1,
+      "userid": 181,
+      "pagerange": "1-6",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 42662,
+      "datestamp": "2022-06-21 01:19:50"
+    },
+    {
+      "userid": 1126,
+      "number": 2,
+      "lastmod": "2022-07-07 09:00:59",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164930",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 43076,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 164930,
+            "main": "10.pdf",
+            "files": [
+                {
+                  "fileid": 471340,
+                  "datasetid": "document",
+                  "hash": "eaf6070220737e93b7f8f3ca9f5eafd9",
+                  "mime_type": "application\/pdf",
+                  "objectid": 164930,
+                  "filesize": 651128,
+                  "filename": "10.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/471340",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-07 08:23:41"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "datestamp": "2022-07-07 09:00:59",
+      "eprintid": 43076,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "35-39",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Kendari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Putri"
+          }
+        },
+        {
+          "id": "mahfut.mipa@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Mahfut",
+            "given": "Mahfut"
+          }
+        }
+      ],
+      "title": "Genetic diversity of gamma ray application result on Mandarin’s SoE using ISSR marker",
+      "refereed": "TRUE",
+      "abstract": "Mandarin’s SoE are one of Indonesia's leading mandarin to substitute\r\nimported oranges. The quality of oranges can be improved through\r\nbreeding programs, one of which is mutation breeding using gamma\r\nrays. The purpose of this study was to obtain information about the\r\ngenetic variation of SoE mandarin resulting from gamma ray radiation\r\nusing ISSR markers. PCR results with ISSR markers on tangerine plants\r\nproduced by gamma ray radiation showed various patterns, namely the\r\nbands were the same, lost bands, and experienced the addition of new\r\nbands compared to control plants.",
+      "volume": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43076",
+      "date": "2021-11-30",
+      "subjects": [
+        "QK"
+      ],
+      "issn": "2798-4710",
+      "full_text_status": "public",
+      "status_changed": "2022-07-07 09:00:59",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publisher": "Genetikawan Muda Indonesia (GeMI)",
+      "publication": "Tropical Genetics",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "dir": "disk0\/00\/04\/30\/76"
+    },
+    {
+      "eprintid": 32042,
+      "eprint_status": "archive",
+      "datestamp": "2021-06-04 07:13:56",
+      "pagerange": "1-89",
+      "metadata_visibility": "show",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 781,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145193",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 32042,
+            "mime_type": "image\/jpeg",
+            "language": "en",
+            "rev_number": 1,
+            "main": "BUKU NANO MULTIFASA 2021.jpg",
+            "docid": 145193,
+            "files": [
+                {
+                  "hash": "4128d2465915893a7bd2d6996474a2ee",
+                  "mime_type": "image\/jpeg",
+                  "datasetid": "document",
+                  "fileid": 379206,
+                  "mtime": "2021-06-04 05:45:53",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/379206",
+                  "filename": "BUKU NANO MULTIFASA 2021.jpg",
+                  "objectid": 145193,
+                  "filesize": 159186
+                }
+            ],
+            "format": "image"
+          }
+      ],
+      "pages": 89,
+      "official_url": "http:\/\/www.pustakamedia.com",
+      "lastmod": "2021-06-04 07:13:56",
+      "creators": [
+        {
+          "id": "reip65@yahoo.com",
+          "name": {
+            "given": "Posman",
+            "lineage": null,
+            "family": "Manurung",
+            "honourific": null
+          }
+        },
+        {
+          "id": "renita.renita@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Maharani",
+            "honourific": null,
+            "given": "Renita"
+          }
+        },
+        {
+          "id": "dita.rahmayanti21@gmail.com",
+          "name": {
+            "given": "Dita",
+            "family": "Rahmayanti",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "book_section",
+      "isbn": 9786236024126,
+      "refereed": "TRUE",
+      "title": "MULTIFASA NANOTITANIA BERBASIS BAHAN TITANIUM BUTOKSIDA",
+      "place_of_pub": "Bandarlampung",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "book_title": "MULTIFASA NANOTITANIA BERBASIS BAHAN TITANIUM BUTOKSIDA",
+      "date": 2021,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32042",
+      "publisher": "Pustaka Media",
+      "dir": "disk0\/00\/03\/20\/42",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "status_changed": "2021-06-04 07:13:56",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub"
+    },
+    {
+      "dir": "disk0\/00\/03\/20\/46",
+      "publisher": "Pustaka Media",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "status_changed": "2021-06-04 07:14:12",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32046",
+      "date": 2021,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Manurung",
+            "honourific": null,
+            "given": "Posman"
+          },
+          "id": "reip65@yahoo.com"
+        },
+        {
+          "id": "renita.renita@gmail.com",
+          "name": {
+            "family": "Maharani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Renita"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rahmayanti",
+            "given": "Dita"
+          },
+          "id": "reip65@yahoo.com"
+        }
+      ],
+      "type": "book",
+      "isbn": 9786236024126,
+      "refereed": "TRUE",
+      "title": "MULTIFASA NANOTITANIA BERBASIS BAHAN TITANIUM BUTOKSIDA",
+      "place_of_pub": "Bandarlampung",
+      "eprint_status": "archive",
+      "eprintid": 32046,
+      "datestamp": "2021-06-04 07:14:12",
+      "metadata_visibility": "show",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 781,
+      "documents": [
+          {
+            "docid": 145215,
+            "main": "Bukti Sampul Multifasa Nano.jpg",
+            "files": [
+                {
+                  "fileid": 379250,
+                  "datasetid": "document",
+                  "hash": "52bc3f59af0120858e1ae8837685c827",
+                  "mime_type": "image\/jpeg",
+                  "filesize": 68739,
+                  "objectid": 145215,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/379250",
+                  "filename": "Bukti Sampul Multifasa Nano.jpg",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-04 05:56:30"
+                }
+            ],
+            "format": "image",
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 32046,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145215",
+            "security": "public"
+          }
+      ],
+      "pages": 89,
+      "official_url": "http:\/\/www.pustakamedia.com",
+      "lastmod": "2021-06-04 07:14:12"
+    },
+    {
+      "publisher": "LPPM Universitas Lampung",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "dir": "disk0\/00\/03\/60\/95",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2021-11-11 07:37:01",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Program pengabdian kepada masyarakat ini ditujukan untuk memingkatkan peran Rumah Belajar Garasi dalam menjaga semangat belajar anak-anak di RT 04 Jl. Kramat Jaya, Desa Hajimena, Natar, Lampung Selatan. Untuk mencapai tujuan tersebut tim pengabdian bersama pengelolah rumah belajar tersebut membuat Garasi kids serta memberikan edukasi kepada warga. Selain itu, kami juga membuat program pendukung lainnya, seperti mewarnai, membuat mozaik, dan menghadirkan mobil pintar. Penggunaan Garasi kids yang disertai keaktifan dan semangat anak-anak dalam mengikuti program pendampingan belajar menyebabkan kemampuan mereka dalam bernalar matematika menunjukkan peningkatan yang cukup signifikan. Meskipun, terdapat sebagian kecil anak-anak berada pada predikat cukup baik dalam menyerap matematika, namun mereka memiliki keunggulan di bidang seni dan berkerja sama dengan tenam sebayanya. Minat baca anak-anak juga mulai tumbuh dengan dihadirkannya mobil pintar ke Rumah Belajar Garasi. Orang tua mereka selalu mendukung anak-anak untuk selalu belajar sehingga terjadi sinergi yang baik dengan tujuan yang hendak dicapai oleh Rumah Belajar Garasi.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "projects": [
+        "Pengabdian Dosen Pemula"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36095",
+      "date": 2021,
+      "creators": [
+        {
+          "id": "agus.riyanto@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Riyanto",
+            "honourific": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "given": "Junaidi",
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "id": "iqbal.firdaus@fmipa.unila.ac.id",
+          "name": {
+            "given": "Iqbal",
+            "honourific": null,
+            "lineage": null,
+            "family": "Firdaus"
+          }
+        },
+        {
+          "name": {
+            "given": "Simon",
+            "lineage": null,
+            "family": "Sembiring",
+            "honourific": null
+          },
+          "id": "simon.sembiring@fmipa."
+        }
+      ],
+      "type": "other",
+      "title": "GARASI KIDS SEBAGAI SOLUSI MEMPERTAHANKAN SEMANGAT \r\nBELAJAR ANAK-ANAK DI MASA PANDEMI",
+      "datestamp": "2021-11-11 07:37:01",
+      "eprintid": 36095,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 1168,
+      "lastmod": "2021-11-11 07:37:01",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 157031,
+            "main": "AGUS_RIYANTO_FMIPA_PKMDP_Lap-converted.pdf",
+            "files": [
+                {
+                  "mtime": "2021-11-11 07:12:31",
+                  "hash_type": "MD5",
+                  "filename": "AGUS_RIYANTO_FMIPA_PKMDP_Lap-converted.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/418186",
+                  "filesize": 1969051,
+                  "objectid": 157031,
+                  "mime_type": "application\/pdf",
+                  "hash": "8a74fca9a99385c59198b85bcd4bd73d",
+                  "fileid": 418186,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 36095,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157031",
+            "pos": 1
+          }
+      ]
+    },
+    {
+      "subjects": [
+        "QC"
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk mengetahui komposisi fasa dan sifat kelistrikan prekursor Na2FeSiO4 yang diberi perlakuan termal pada suhu 350 – 475 oC. Sampel dibuat dari NaOH, Fe(NO3)3.9H2O, serbuk silika amorf sekam padi, dan C6H8O7.H2O menggunakan metode sol-gel kemudian dilakukan perlakuan termal dengan waktu penahanan 10 jam pada suhu puncak. Gugus fungsi sampel diidentifikasi menggunakan spektroskopi Fourier transform infrared (FTIR). Fasa dianalisis menggunakan difraksi sinar-X (XRD) ditambah dengan analisis kualitatif dan kuantitatif. Sedangkan sifat kelistrikan sampel yang meliputi energi celah pita dan konduktivitas listrik dikarakterisasi masing-masing menggunakan UV-Vis DRS dan LCRmeter. Spektrum FTIR menunjukkan gugus fungsi Na-O, Fe-O, Si-O, dan Si-O-Si yang berasosiasi dengan struktur tetrahedral NaO4, FeO4, dan SiO4. Analisis fasa menunjukkan bahwa sampel didominasi oleh Na2FeSiO4 dan diikuti oleh FeSiO3, dan SiO2. Pada rentang temperatur 350 – 475 oC, tidak terdapat perbedaan komposisi fasa (%wt.) yang signifikan, namun fasa Na2FeSiO4 cenderung menunjukkan peningkatan seiring dengan meningkatnya suhu sintering. Volume unit sel setiap fasa juga cenderung meningkat secara bertahap dengan meningkatnya suhu sintering. Peningkatan volume sel diikuti dengan penurunan nilai band gap dan peningkatan konduktivitas listrik sampel.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36120",
+      "date": 2021,
+      "projects": [
+        "Penelitian Dosen Pemula"
+      ],
+      "publisher": "LPPM Universitas Lampung",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "dir": "disk0\/00\/03\/61\/20",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "status_changed": "2021-11-11 07:37:23",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "eprintid": 36120,
+      "eprint_status": "archive",
+      "datestamp": "2021-11-11 07:37:23",
+      "metadata_visibility": "show",
+      "userid": 1168,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2021-11-11 07:28:13",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/418309",
+                  "filename": "AGUS_RIYANTO_FMIPA_PDP_Lap.pdf",
+                  "objectid": 157051,
+                  "filesize": 2389216,
+                  "mime_type": "application\/pdf",
+                  "hash": "97ce502b7c3a18c97030135586f78d39",
+                  "fileid": 418309,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "AGUS_RIYANTO_FMIPA_PDP_Lap.pdf",
+            "docid": 157051,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157051",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 36120
+          }
+      ],
+      "lastmod": "2021-11-11 07:37:23",
+      "creators": [
+        {
+          "id": "agus.riyanto@fmipa.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Riyanto",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Syafriadi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Syafriadi"
+          },
+          "id": "syafriadifisikamipa@gmail.com"
+        }
+      ],
+      "type": "other",
+      "title": "SINTESIS BAHAN Na2FeSiO4 BERBASIS SILIKA SEKAM PADI UNTUK APLIKASI KATODE GENERASI BARU PADA BATERAI RECHARGEABLE Na-ION"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34655",
+      "date": "2021-01-06",
+      "volume": 1751,
+      "abstract": "Cellulose Crystalline Cladophora sp. (CCC) was successfully isolated from the freshwater algae Cladophora sp. by used the hydrolysis method. The alkaline treatment can affect the structure of CCC that is showed by the spectrum of Fourier Transform Infrared (FTIR). The typical range for lignin does not appear here, which indicates the delignification process using NaOH plus hydrolysis of HCl has succeeded in removing lignin. The spectrum associated with functional group impurity (1800-1050 cm-1) with lipid, protein, and nucleid acid content are still seen after alkaline treatment and acid hydrolysis. Analysis of crystallinity with X-ray Diffraction (XRD) data showed that CCC had the highest crystallinity index on CD-K (93.4%), Cd-P (66.6%), and Cd-S (63.04%). The smallest particle size for each cellulose is Cd-K (9.5 nm), Cd-S (25.23 nm), and Cd-P (49.57 nm). Based on these results, the CCC production from Cladophora sp. using alkaline and acid hydrolysis treatment is enough to get samples with high crystallinity. The CCC product has the potential to be an excellent reinforcing material for biomaterial-based polymer materials.",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2021-10-27 01:22:39",
+      "full_text_status": "public",
+      "issn": "1742-6596",
+      "publication": "IOP Journal of Physics : Conference Series",
+      "publisher": "IOP  Publishing Ltd",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "dir": "disk0\/00\/03\/46\/55",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2021-10-26 07:41:11",
+                  "hash_type": "MD5",
+                  "filename": "Suciyati_2021_J._Phys.%3A_Conf._Ser._1751_012075.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/407064",
+                  "objectid": 155230,
+                  "filesize": 1293636,
+                  "mime_type": "application\/pdf",
+                  "hash": "cc6e356e69f30de766017be3f244f923",
+                  "fileid": 407064,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Suciyati_2021_J._Phys.%3A_Conf._Ser._1751_012075.pdf",
+            "docid": 155230,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 34655,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155230",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2021-10-27 01:22:39",
+      "official_url": "https:\/\/iopscience.iop.org",
+      "number": "-",
+      "userid": 882,
+      "pagerange": "012075-012075",
+      "metadata_visibility": "show",
+      "id_number": "10.1088\/1742-6596\/1751\/1\/012075",
+      "eprint_status": "archive",
+      "eprintid": 34655,
+      "datestamp": "2021-10-27 01:22:39",
+      "refereed": "TRUE",
+      "title": "Comparative study of Cladophora sp. cellulose by using FTIR and XRD",
+      "type": "article",
+      "creators": [
+        {
+          "id": "sri.wahyu@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Suciyati",
+            "honourific": null,
+            "given": "SW"
+          }
+        },
+        {
+          "name": {
+            "given": "Posman",
+            "honourific": null,
+            "lineage": null,
+            "family": "Manurung"
+          },
+          "id": "reip65@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null,
+            "given": "Simon"
+          },
+          "id": "simon.sembiring@fmipa."
+        },
+        {
+          "id": "rudy.tahan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rudy T.M",
+            "honourific": null,
+            "lineage": null,
+            "family": "Situmeang"
+          }
+        }
+      ]
+    },
+    {
+      "title": "STRUCTURAL CHARACTERISATION OF ASPHALT-RICE HUSK SILICA COMPOSITES",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "simon.sembiring@fmipa.unila.ac.id",
+          "name": {
+            "given": "simon",
+            "honourific": null,
+            "family": "sembiring",
+            "lineage": null
+          }
+        },
+        {
+          "id": "arfi2208@gmail.com",
+          "name": {
+            "family": "Riyanto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "given": "Iqbal",
+            "lineage": null,
+            "family": "Firdaus",
+            "honourific": null
+          },
+          "id": "iqbal.firdaus@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null,
+            "given": "Junaidi"
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "id": "rudy.tahan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rudy T.M",
+            "honourific": null,
+            "family": "Situmeang",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Endah Ayu",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ningtias"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "215-223",
+      "datestamp": "2021-10-27 01:22:33",
+      "id_number": "10.13168\/cs.2021.0021",
+      "eprint_status": "archive",
+      "eprintid": 34653,
+      "official_url": "https:\/\/www.ceramics-silikaty.cz\/index.php?page=cs_detail_doi&id=1409",
+      "lastmod": "2021-10-27 01:22:33",
+      "documents": [
+          {
+            "main": "Sembiring_CS_2021.pdf",
+            "docid": 155228,
+            "files": [
+                {
+                  "fileid": 407047,
+                  "datasetid": "document",
+                  "hash": "75409afcc1eebe370cf3a851cd1692b2",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-10-26 05:55:12",
+                  "filesize": 1720260,
+                  "objectid": 155228,
+                  "filename": "Sembiring_CS_2021.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/407047"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 34653,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155228",
+            "security": "public"
+          }
+      ],
+      "userid": 1042,
+      "number": 3,
+      "publisher": "Institute of Rock Structure and Mechanics AS CR, v.v.i. & University of Chemistry and Technology, Prague",
+      "publication": "Ceramics-Silik�ty",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "dir": "disk0\/00\/03\/46\/53",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "1804-5847",
+      "status_changed": "2021-10-27 01:22:33",
+      "date_type": "published",
+      "subjects": [
+        "QC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34653",
+      "date": "2021-07",
+      "abstract": "This research characterises the structure and micro-structure of asphalt-silica composites heated to a temperature of 150 °C,\r\nas well as their physical and mechanical properties. The asphalt and silica mass ratios were varied into 10:90, 15:85,\r\n20:80, 25:75, 30:70 and 35:65. The characterisation of the asphalt-silica composite was performed using Fourier Transform\r\nInfrared (FTIR), X-ray Diffraction (XRD), and Scanning Electron Microscopy (SEM). The results of the XRD studies show\r\nthat the main phases are amorphous silica and carbon, which are linked to the functional groups of silicon hydroxide, silicon\r\ndioxide and alkanes. The other results show that the reduced water absorption, compressive strength, and density are caused\r\nby the increased porosity and swelling thickness with an increasing amount of the added asphalt. Asphalt-silica composites\r\nwith asphalt addition from 10 to 20 % experience insignificant changes in compressive strength, water absorption, and\r\nswelling thickness. These results prove that asphalt has a significant impact on the phase of silica, making it have the\r\npotential to replace light steel roofing devices.",
+      "volume": 65
+    }
+]
+

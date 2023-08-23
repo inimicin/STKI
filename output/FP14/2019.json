@@ -1,0 +1,375 @@
+[
+    {
+      "number": 2,
+      "contributors": [
+        {
+          "id": null,
+          "name": {
+            "given": "EDA",
+            "honourific": null,
+            "lineage": null,
+            "family": "Aliviana"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "TP",
+            "lineage": null,
+            "family": "Pujiana",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "DA",
+            "honourific": null,
+            "family": "Arianti",
+            "lineage": null
+          }
+        },
+        {
+          "id": "helviyanfika@yahoo.co.id",
+          "type": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yanfika",
+            "given": "HY"
+          }
+        }
+      ],
+      "userid": 301,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "jurnal_Helvi_ erika, tri, dwi.pdf",
+            "docid": 27080,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-09-05 04:46:35",
+                  "filesize": 437150,
+                  "objectid": 27080,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122261",
+                  "filename": "jurnal_Helvi_ erika, tri, dwi.pdf",
+                  "datasetid": "document",
+                  "fileid": 122261,
+                  "hash": "1f854a25bd88d42a4d6609bb0ab70694",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27080",
+            "eprintid": 14048,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2019-10-08 03:14:41",
+      "official_url": "https:\/\/jurnal.unigal.ac.id\/index.php\/mimbaragribisnis\/article\/view\/1906",
+      "eprintid": 14048,
+      "eprint_status": "archive",
+      "datestamp": "2019-09-05 07:21:16",
+      "pagerange": "156-164",
+      "metadata_visibility": "show",
+      "contact_email": "helviyanfika@yahoo.co.id",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Alviana",
+            "given": "Erika"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Pujiana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Tri"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Arianti",
+            "honourific": null,
+            "given": "Dwi"
+          },
+          "id": null
+        },
+        {
+          "id": "helviyanfika@yahoo.co.id",
+          "name": {
+            "given": "Helvi",
+            "honourific": null,
+            "family": "Yanfika",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "KOMUNIKASI DALAM PENERAPAN SISTEM JAJAR LEGOWO  DI DESA MURNI JAYA KECAMATAN TUMIJAJAR  KABUPATEN TULANG BAWANG BARAT",
+      "volume": 5,
+      "abstract": "Tujuan dari penelitian ini adalah untuk mengetahui proses komunikasi antara penyuluh dengan petani dalam penerapan sistem Jajar Legowo di Desa Murni Jaya Kecamatan Tumujajar Kabupaten Tulang Bawang Barat. Penentuan lokasi penelitian dilakukan secara sengaja (purposive sampling).  Pengumpulan data dilakukan pada bulan November 2018. Jenis penelitian ini merupakan penelitian kualitatif. Teknik pengumpulan data dengan melakukan observasi langsung ke tempat penelitian, wawancara depth interview dengan pengurus kelompok tani dan penyuluh, serta studi kepustakaan.  Metode analisis data adalah dengan deskriptif kualitatif. Fokus pada penelitian ini adalah kendala komunikasi antara penyuluh dan Gapoktan Mekar Jaya Sri dalam penerapan Sistem Tanam Jajar Legowo dan solusi untuk menangani masalah tersebut. Hasil penelitian menunjukkan bahwa komunikasi yang dilakukan penyuluh sudah cukup baik, hal ini karena penyuluh melakukan pertemuan dengan anggota kelompok tani sebulan sekali, melakukan anjang sana dan anjang karya. Sedangkan petani yang belum mau menerapkan Sistem Tanam Jajar Legowo disebabkan oleh sifat inovasi yang rumit dan pengeluaran biaya untuk menerapkan inovasi tersebut lebih besar daripada menggunakan sistem tanam sebelumnya, sehingga masih ada keraguan petani untuk menerapkan inovasi tersebut. Upaya yang dilakukan untuk mengatasi kendala tersebut, yaitu perlu adanya perbaikan pada persepsi petani terhadap Sistem Tanam Jajar Legowo, penyuluh perlu meningkatkan intensitas pendampingan kepada petani, dan juga perlu melakukan pengontrolan dan evaluasi terhadap usahatani padi yang dilakukan oleh petani padi di Desa Murni Jaya.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14048",
+      "date": "2019-07",
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "status_changed": "2019-09-05 07:21:16",
+      "full_text_status": "public",
+      "issn": "2460-4321",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publication": "Mimbar Agribisnis",
+      "dir": "disk0\/00\/01\/40\/48",
+      "divisions": [
+        "FP14"
+      ]
+    },
+    {
+      "pagerange": "1486-1493",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/www.ijitee.org\/wp-content\/uploads\/papers\/v8i12\/L30971081219.pdf",
+      "eprintid": 16064,
+      "eprint_status": "archive",
+      "datestamp": "2019-11-14 10:10:45",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "L30971081219.pdf",
+            "docid": 29159,
+            "files": [
+                {
+                  "objectid": 29159,
+                  "filesize": 558971,
+                  "filename": "L30971081219.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/137669",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-12 03:16:46",
+                  "datasetid": "document",
+                  "fileid": 137669,
+                  "mime_type": "application\/pdf",
+                  "hash": "c5ec60b69272125b52e961c187e33bd2"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29159",
+            "pos": 3,
+            "security": "public",
+            "placement": 3,
+            "eprintid": 16064
+          }
+      ],
+      "official_url": "https:\/\/www.ijitee.org\/wp-content\/uploads\/papers\/v8i12\/L30971081219.pdf",
+      "lastmod": "2019-11-14 10:10:45",
+      "number": 12,
+      "userid": 609,
+      "refereed": "TRUE",
+      "title": "Internet Usage in Agricultural Extension Activities in Lampung Province, Indonesia",
+      "type": "article",
+      "creators": [
+        {
+          "id": "indahlistiana@yahoo.com",
+          "name": {
+            "given": "Indah",
+            "lineage": null,
+            "family": "Listiana",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sumardjo",
+            "lineage": null,
+            "family": "Sumardjo",
+            "honourific": null
+          },
+          "id": "sumardjo252@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "dwi",
+            "honourific": null,
+            "family": "sadono",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Prabowo",
+            "honourific": null,
+            "family": "Tjitropranoto",
+            "lineage": null
+          }
+        }
+      ],
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16064",
+      "date": "2019-10",
+      "volume": 8,
+      "abstract": "Abstract: Low internet usage by extension agent, impact on the inhibition of the flow of information to the farmers and lead to the income received by farmers. In the digital era today, if the extension agent is not encouraged to use the internet then they will be left behind and will be left out by the farmers. This study aimed to (1) analyze the internet availability in Lampung Province (2) to analyze the level of internet usage for extension agent in Lampung and (3) to analyze factors influencing internet usage of extension agent. This research was conducted in Lampung Province with analysis unit of extension agent in the office of BP3K (Extension Agency of Agriculture, Fisheries, and Forestry) which has been facilitated by computer and internet network. Respondents consisted of 355 extension agent served in BP3K. Multiple Linear Regression Analysis was used to determine the effect of independent variables on the dependent variable. The availability of facilities and internet network in Extension Offices is not sufficient even extension agent used their private facilities. The Internet network had reached the remote areas very well in spreading and transmitting information. Almost all extension agent have internet-connected devices and internet-based applications. Extension agents facilitated by computer and internet network communicating using social media, however capabilities in using the internet to search information related agricultural technology remained low. The use of the internet by extension agent was influenced by the nature of internet innovation, the number of Internet-based applications and the amount of existed hardware.",
+      "publisher": "https:\/\/www.ijitee.org\/wp-content\/uploads\/papers\/v8i12\/L30971081219.pdf",
+      "divisions": [
+        "FP14"
+      ],
+      "publication": "Internet Usage in Agricultural Extension Activities in Lampung Province, Indonesia",
+      "dir": "disk0\/00\/01\/60\/64",
+      "related_url": [
+        {
+          "url": "https:\/\/www.ijitee.org\/wp-content\/uploads\/papers\/v8i12\/L30971081219.pdf",
+          "type": "author"
+        }
+      ],
+      "ispublished": "pub",
+      "rev_number": 12,
+      "status_changed": "2019-11-14 10:10:45",
+      "issn": "2278-3075",
+      "full_text_status": "public"
+    },
+    {
+      "contact_email": "helviyanfika@yahoo.co.id",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "rahmawati",
+            "honourific": null,
+            "given": "aprilia"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sukmayanto",
+            "honourific": null,
+            "given": "Muher"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Helvi",
+            "family": "Yanfika",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "helviyanfika@yahoo.co.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "MEDIASI SEBAGAI UPAYA PENYELESAIAN MASALAH ANTARA  PT. ANEKA SUMBERBUMI JAYA DENGAN WARGA DESA BUMISARI KECAMATAN NATAR LAMPUNG SELATAN",
+      "number": 2,
+      "userid": 301,
+      "contributors": [
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "AR",
+            "honourific": null,
+            "lineage": null,
+            "family": "rahmawati"
+          }
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sukmayanto",
+            "given": "MS"
+          }
+        },
+        {
+          "id": "helviyanfika@yahoo.co.id",
+          "name": {
+            "family": "Yanfika",
+            "lineage": null,
+            "honourific": null,
+            "given": "HY"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2019-09-05 04:34:51",
+                  "hash_type": "MD5",
+                  "filename": "jurnal_Helvi et.al.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122255",
+                  "objectid": 27079,
+                  "filesize": 453629,
+                  "hash": "ffd9fdd93b12e88af0d9d4c8c5c7a4b0",
+                  "mime_type": "application\/pdf",
+                  "fileid": 122255,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "jurnal_Helvi et.al.pdf",
+            "docid": 27079,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27079",
+            "eprintid": 14047,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/jurnal.unigal.ac.id\/index.php\/mimbaragribisnis\/article\/view\/1916",
+      "lastmod": "2019-10-08 03:13:35",
+      "eprintid": 14047,
+      "eprint_status": "archive",
+      "datestamp": "2019-09-05 07:21:09",
+      "pagerange": "165-175",
+      "metadata_visibility": "show",
+      "status_changed": "2019-09-05 07:21:09",
+      "full_text_status": "public",
+      "issn": "2460-4321",
+      "ispublished": "pub",
+      "rev_number": 27,
+      "publication": "Mimbar Agribisnis",
+      "dir": "disk0\/00\/01\/40\/47",
+      "divisions": [
+        "FP14"
+      ],
+      "volume": 5,
+      "abstract": "Penelitian ini menganalisis: (1) pelaksanaan mediasi sebagai metode penyelesaian masalah yang terjadi antara PT Aneka Sumberbumi Jaya dengan Warga Desa Bumisari Kecamatan Natar Lampung Selatan, dan (2) hambatan dalam pelaksanaan mediasi sebagai metode penyelesaian masalah yang terjadi antara PT Aneka Sumberbumi Jaya dengan Warga Desa Bumisari Kecamatan Natar Lampung Selatan.  Penelitian ini dilakukan di Desa Bumisari Kecamatan Natar Lampung Selatan.  Pemilihan lokasi penelitian dilakukan secara sengaja (purposive). Informan penelitian ini terdiri atas kepala tambang yang merupakan perwakilan dari perusahaan, perwakilan warga Desa Bumisari, kepala desa serta perwakilan dari Polsek Natar sebagai mediator. Metode yang digunakan dalam penelitian ini adalah metode deskriptif dengan data yang digunakan adalah data primer dan data sekunder. Hasil penelitian menunjukkan bahwa: (1) Proses mediasi yang dilakukan oleh PT Aneka Sumberbumi Jaya dan warga Desa Bumisari berlangsung dengan baik yang dilakukan dengan 6 tahapan, yaitu penyampaian kehendak pihak yang bersengketa, deskripsi situasi dan identifikasi perkara, pemetaan masalah,  menghasilkan alternatif-alternatif penyelesaian sengketa, evaluasi dan pemilihan alternatif dan merumuskan kesepakatan, dan (2) Hambatan dalam pelaksanaan mediasi antara PT Aneka Sumberbumi Jaya dengan warga Desa Bumisari yaitu kurangnya kesadaran dari pihak perusahaan dalam melaksanakan hak dan kewajiban yang harus dilaksanakan kepada masyarakat. Hambatan lain yaitu sikap egois dari masing-masing pihak yang bersengketa yang menyebabkan penyelesaian masalah  berlangsung secara kaku dan berbelit-belit sehingga memakan waktu yang cukup panjang. \r\n \r\nKata kunci: Konflik, Masyarakat, Mediasi, Perusahaan",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14047",
+      "date": "2019-07",
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published"
+    }
+]
+

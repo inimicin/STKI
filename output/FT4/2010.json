@@ -1,0 +1,891 @@
+[
+    {
+      "ispublished": "pub",
+      "rev_number": 10,
+      "full_text_status": "public",
+      "status_changed": "2021-08-27 01:46:13",
+      "publisher": "Jurusan Teknik Sipil, Fakultas Teknik Sipil, Universitas Lampung",
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0\/00\/03\/36\/60",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33660",
+      "date": 2010,
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "title": "Analisis Multi Kriteria Sebagai Metode Pemilihan Suatu Alternatif Ruas Jalan di Provinsi Lampung",
+      "type": "other",
+      "creators": [
+        {
+          "id": "rahayu.sulistyorini@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sulistyorini",
+            "lineage": null,
+            "given": "Rahayu"
+          }
+        },
+        {
+          "id": "dwyc@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Herianto",
+            "honourific": null,
+            "given": "Dwi"
+          }
+        }
+      ],
+      "lastmod": "2021-08-27 01:46:13",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 33660,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153827",
+            "security": "public",
+            "docid": 153827,
+            "main": "rek 1 gab.pdf",
+            "files": [
+                {
+                  "filesize": 543749,
+                  "objectid": 153827,
+                  "filename": "rek 1 gab.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398838",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-26 13:53:06",
+                  "fileid": 398838,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "40d3f0344d698bdab3ddfdd108261726"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          },
+          {
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 398840,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "8ef76875a81b28a1cfa906be92865e65",
+                  "objectid": 153828,
+                  "filesize": 638011,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398840",
+                  "filename": "rek 1a.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-26 13:53:11"
+                }
+            ],
+            "main": "rek 1a.pdf",
+            "docid": 153828,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 33660,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153828"
+          },
+          {
+            "placement": 3,
+            "eprintid": 33660,
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153829",
+            "security": "public",
+            "main": "rek 1k.pdf",
+            "files": [
+                {
+                  "mtime": "2021-08-26 13:53:16",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398842",
+                  "filename": "rek 1k.pdf",
+                  "objectid": 153829,
+                  "filesize": 507816,
+                  "mime_type": "application\/pdf",
+                  "hash": "f857280ff6ea6cf2b855ced1f07c072f",
+                  "fileid": 398842,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 153829,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 354,
+      "metadata_visibility": "show",
+      "datestamp": "2021-08-27 01:46:13",
+      "eprint_status": "archive",
+      "eprintid": 33660
+    },
+    {
+      "related_url": [
+        {
+          "url": "https:\/\/garuda.ristekbrin.go.id\/documents\/detail\/267940"
+        }
+      ],
+      "publisher": "Jurusan Teknik Sipil Fakultas Teknik Universitas Lampung",
+      "divisions": [
+        "FT4"
+      ],
+      "publication": "Rekayasa, Jurnal Teknik Sipil dan Perencanaan",
+      "dir": "disk0\/00\/02\/79\/52",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "issn": "0852-7733",
+      "full_text_status": "public",
+      "status_changed": "2021-02-18 01:32:17",
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27952",
+      "date": "2010-12",
+      "abstract": "Multi-Criteria Analysis (MCA) is a decision-making tool developed for decision-making process, using several criterias and select the best alternative based on those criteria. This method use perception of stakeholder on variables which is compared in decision making process. The aim of MCA is to find selected route using several alternatives which is give contribution for development area, accessibility, eficien and minimise environment impact and social aspect. Some criteria which is used in this analysis are accessibility , environment impact, area development, road system improvement, social aspect, construction cost and safety. The result of interview is used to determine the weightening of criteria. The methodology to achieve the goal is built pairwise comparison matrix and calclate the average of the result. From the analysis we can resume that the important variable is environment preservation. The best route of this alternatives is first route: simpang Kalinangkal-Tanjung Balok through Sungai langka-Bogorejo-Karangsari-Sukadadi.",
+      "volume": 14,
+      "title": "Analisis Multi Kriteria Sebagai Metode Pemilihan Suatu Alternatif Ruas Jalan di Provinsi Lampung",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "rahayu.sulistyorini@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sulistyorini",
+            "given": "Rahayu"
+          }
+        },
+        {
+          "id": "dwyc@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Herianto",
+            "honourific": null,
+            "given": "Dwi"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "147-156",
+      "datestamp": "2021-02-18 01:32:17",
+      "eprintid": 27952,
+      "eprint_status": "archive",
+      "lastmod": "2021-02-18 01:32:17",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 41946,
+                  "filesize": 527839,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248991",
+                  "filename": "Isi.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-17 11:00:19",
+                  "datasetid": "document",
+                  "fileid": 248991,
+                  "mime_type": "application\/pdf",
+                  "hash": "fe1d30c940a912ab4414bf85ca973145"
+                }
+            ],
+            "main": "Isi.pdf",
+            "docid": 41946,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 27952,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41946",
+            "security": "public"
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41947",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 27952,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2021-02-17 11:00:26",
+                  "hash_type": "MD5",
+                  "filename": "Daf Isi Jurnal Rekayasa Des 2010.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248993",
+                  "objectid": 41947,
+                  "filesize": 375801,
+                  "mime_type": "application\/pdf",
+                  "hash": "8cffc90a599e2bc0305f8368c7af1396",
+                  "fileid": 248993,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Daf Isi Jurnal Rekayasa Des 2010.pdf",
+            "docid": 41947,
+            "format": "text"
+          },
+          {
+            "eprintid": 27952,
+            "placement": 3,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41948",
+            "pos": 3,
+            "format": "text",
+            "main": "Sampul Jurnal Rekayasa Des 2010.pdf",
+            "docid": 41948,
+            "files": [
+                {
+                  "hash": "c3d28301c68d423c7e93f6848ae2b6e1",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 248995,
+                  "mtime": "2021-02-17 11:00:31",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248995",
+                  "filename": "Sampul Jurnal Rekayasa Des 2010.pdf",
+                  "objectid": 41948,
+                  "filesize": 486461
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 354,
+      "number": 3
+    },
+    {
+      "divisions": [
+        "FT4"
+      ],
+      "publisher": "Jurusan Teknik Sipil, Fakultas Teknik Sipil, Universitas  Lampung",
+      "dir": "disk0\/00\/03\/36\/59",
+      "status_changed": "2021-08-27 01:46:10",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33659",
+      "creators": [
+        {
+          "id": "rahayu.sulistyorini@eng.unila.ac.id",
+          "name": {
+            "given": "Rahayu",
+            "family": "Sulistyorini",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "dwyc@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Herianto",
+            "lineage": null,
+            "given": "Dwi"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Kajian Pola Pergerakan di Provinsi Lampung",
+      "eprint_status": "archive",
+      "eprintid": 33659,
+      "datestamp": "2021-08-27 01:46:10",
+      "metadata_visibility": "show",
+      "userid": 354,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153824",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 33659,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "agst 10 a.pdf",
+            "docid": 153824,
+            "files": [
+                {
+                  "mtime": "2021-08-26 13:49:01",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398826",
+                  "filename": "agst 10 a.pdf",
+                  "objectid": 153824,
+                  "filesize": 624860,
+                  "hash": "391213f56f4dd9d04097b9126ba87746",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 398826
+                }
+            ],
+            "format": "text"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "filesize": 470831,
+                  "objectid": 153825,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398828",
+                  "filename": "agst 10 gab.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-26 13:49:07",
+                  "datasetid": "document",
+                  "fileid": 398828,
+                  "mime_type": "application\/pdf",
+                  "hash": "29718c2f073be320b1b5586ab649982e"
+                }
+            ],
+            "main": "agst 10 gab.pdf",
+            "docid": 153825,
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153825",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 33659
+          },
+          {
+            "format": "text",
+            "docid": 153826,
+            "main": "agst 10 k.pdf",
+            "files": [
+                {
+                  "hash": "b84f6b5da83770200b23175e7b19accf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 398830,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/398830",
+                  "filename": "agst 10 k.pdf",
+                  "objectid": 153826,
+                  "filesize": 476149,
+                  "mtime": "2021-08-26 13:49:12",
+                  "hash_type": "MD5"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 33659,
+            "placement": 3,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153826",
+            "pos": 3
+          }
+      ],
+      "lastmod": "2021-08-27 01:46:10"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27953",
+      "date": "2010-08",
+      "volume": 14,
+      "abstract": "Highway in Lampung is the main transportation mode to support internal transportation system. Especially to develop regional transportation in Trans Sumatera and people interaction between Java and Sumatra islands. This paper try to analys travel pattern in Lampung as base information which useful to transportation planning in this province.The result of analys show that travel pattern in Lampung is dominated by through traffic from other area like Java to other province in Sumatera (Bengkulu and South Sumatera). The most heavy loading in road network is in Sumatera East Coast Highway wich linking between South Sumatera, Mesuji, Menggala, Seputih Banyak, Sukadana, Labuhan Maringgai and Bakauheni. The other heavy load is in road which linking Bengkulu, Kasui, Blambangan Umpu, Bandar Lampung, tegineneng, Bandar Jaya Labuhan Maringgai and Panjang. Within a few years in a future, itâ��s important to developing other alternative beside road network like railway network and mass transportation.",
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2021-02-18 01:32:20",
+      "full_text_status": "public",
+      "issn": "0852 7733",
+      "divisions": [
+        "FT4"
+      ],
+      "publisher": "Fakultas Teknik Unila",
+      "publication": "Jurnal Rekayasa",
+      "dir": "disk0\/00\/02\/79\/53",
+      "related_url": [
+        {
+          "url": "https:\/\/garuda.ristekbrin.go.id\/documents\/detail\/267918"
+        }
+      ],
+      "documents": [
+          {
+            "eprintid": 27953,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41949",
+            "format": "text",
+            "main": "Isi.pdf",
+            "docid": 41949,
+            "files": [
+                {
+                  "hash": "46602a362898c91067cd003f2d4f2e95",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 249001,
+                  "mtime": "2021-02-17 11:11:32",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249001",
+                  "filename": "Isi.pdf",
+                  "objectid": 41949,
+                  "filesize": 668766
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          },
+          {
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "293645985c6acf1a7a98e748f4a9ea4b",
+                  "fileid": 249003,
+                  "datasetid": "document",
+                  "mtime": "2021-02-17 11:11:38",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249003",
+                  "filename": "Daf Isi Jurnal Rekayasa Agst 2010.pdf",
+                  "filesize": 341470,
+                  "objectid": 41950
+                }
+            ],
+            "main": "Daf Isi Jurnal Rekayasa Agst 2010.pdf",
+            "docid": 41950,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 27953,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41950"
+          },
+          {
+            "format": "text",
+            "docid": 41951,
+            "main": "Sampul Jurnal Rekayasa Agst 2010.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "634fa737e3a718919c7a6667ed2044e4",
+                  "datasetid": "document",
+                  "fileid": 249005,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249005",
+                  "filename": "Sampul Jurnal Rekayasa Agst 2010.pdf",
+                  "filesize": 632935,
+                  "objectid": 41951,
+                  "mtime": "2021-02-17 11:11:47",
+                  "hash_type": "MD5"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 27953,
+            "placement": 3,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41951",
+            "pos": 3
+          }
+      ],
+      "lastmod": "2021-02-18 01:32:20",
+      "number": 2,
+      "userid": 354,
+      "pagerange": "125-136",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 27953,
+      "datestamp": "2021-02-18 01:32:20",
+      "refereed": "TRUE",
+      "title": "Kajian Pola Pergerakan di Provinsi Lampung",
+      "type": "article",
+      "creators": [
+        {
+          "id": "rahayu.sulistyorini@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sulistyorini",
+            "given": "Rahayu"
+          }
+        },
+        {
+          "name": {
+            "given": "Dwi",
+            "family": "Herianto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "dwyc@yahoo.com"
+        }
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "title": "STUDI PEMODELAN STOKASTIK CURAH HUJAN HARIAN\r\nDARI DATA CURAH HUJAN STASIUN PURAJAYA",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "family": "Zakaria",
+            "honourific": null
+          },
+          "id": "ahmad.zakaria@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "eprintid": 47999,
+      "eprint_status": "archive",
+      "datestamp": "2023-01-25 06:21:19",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "d2ba9fe9eca7cc455b416f1f74a68fe8",
+                  "datasetid": "document",
+                  "fileid": 524966,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524966",
+                  "filename": "Membangun Jejaring Pengembang.pdf",
+                  "filesize": 1165557,
+                  "objectid": 187165,
+                  "mtime": "2023-01-25 03:33:51",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Membangun Jejaring Pengembang.pdf",
+            "docid": 187165,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187165",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47999
+          }
+      ],
+      "lastmod": "2023-01-25 06:21:19",
+      "userid": 491,
+      "divisions": [
+        "FT4"
+      ],
+      "publisher": "Fak. Mipa Universitas Lampung",
+      "publication": "Seminar Nasional Sains, Matematika, Informatika dan  Aplikasinya VI UNILA",
+      "dir": "disk0_bak\/00\/04\/79\/99",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2023-01-25 06:21:19",
+      "issn": "2086-2342",
+      "full_text_status": "public",
+      "subjects": [
+        "TC"
+      ],
+      "date_type": "published",
+      "date": "2010-12-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47999",
+      "abstract": "Tujuan dari penelitian ini adalah untuk mempelajari model stokastik dari data seri  curah\r\nhujan harian. Studi ini dilakukan dengan menggunakan data curah hujan harian dengan\r\npanjang data 25 tahun (1977–2001) dari stasiun Purajaya. Seri curah hujan yang\r\ndigunakan diasumsikan bebas dari pengaruh yang bersifat trend. Keperiodikan dari data\r\ncurah hujan harian dipresentasikan dengan menggunakan 253 komponen yang bersifat\r\nperiodik. Seri stokastik curah hujan dari data curah hujan ini diasumsikan sebagai selisih\r\n(kesalahan) antara data curah hujan dengan model periodik curah hujan dengan\r\nmenggunakan 253 komponen. Berdasarkan data seri stokastik, komponen stokastik\r\ndihitung dengan menggunakan pendekatan autoregresif model. Model stokastik\r\ndipresentasikan dengan menggunakan autoregresif model orde dua. Validasi seri\r\nstokastik, antara data dan model dilakukan dengan menghitung koefisien korelasinya.\r\nUntuk penelitian ini, koefisien korelasi (R) antara data dan model stokastik adalah\r\nsebesar 0,9989. Dari hasil ini dapat disimpulkan bahwa model stokastik dari dari curah\r\nhujan harian stasiun Purajaya yang pengolahan model periodiknya menggunakan 253\r\nkomponen, memberikan hasil pendekatan yang sangat signifikan.\r\n\r\nkata kunci :\r\ncurah hujan harian, autoregresif model, komponen stokastik"
+    },
+    {
+      "contact_email": "ahmad.zakaria@eng.unila.ac.id",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "honourific": null,
+            "family": "Zakaria",
+            "lineage": null
+          }
+        }
+      ],
+      "title": "A STUDY PERIODIC MODELING OF DAILY RAINFALL\r\nAT PURAJAYA REGION",
+      "lastmod": "2016-09-30 01:24:42",
+      "metadata_visibility": "show",
+      "status_changed": "2016-09-30 01:24:42",
+      "rev_number": 8,
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0\/00\/00\/06\/94",
+      "event_type": "conference",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/694",
+      "date_type": "published",
+      "event_title": "SEMINAR NASIONAL SAINS DAN TEKNOLOGI III",
+      "subjects": [
+        "TA"
+      ],
+      "event_location": "Universitas Lampung",
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "event_dates": "18 - 19 Oktober 2010",
+      "userid": 491,
+      "official_url": "http:\/\/lemlit.unila.ac.id\/",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/589",
+            "eprintid": 694,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "paper prosiding az satek 3.pdf",
+            "files": [
+                {
+                  "mtime": "2016-09-29 08:15:21",
+                  "hash_type": "MD5",
+                  "filename": "paper prosiding az satek 3.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3877",
+                  "filesize": 6224857,
+                  "objectid": 589,
+                  "mime_type": "application\/pdf",
+                  "hash": "1c1f4dfa0cd1f85a0f3b359e53721eaa",
+                  "datasetid": "document",
+                  "fileid": 3877
+                }
+            ],
+            "docid": 589
+          }
+      ],
+      "datestamp": "2016-09-30 01:24:42",
+      "eprint_status": "archive",
+      "eprintid": 694,
+      "referencetext": "Bhakar, S.R., Singh, Raj Vir, Chhajed, Neeraj, and Bansal, Anil Kumar. 2006.\r\nStochastic modeling of monthly rainfall at kota region, ARPN Journal of\r\nEngineering and Applied Sciences, Vol.1 (3): 36-44.\r\nCooley, James W. Tukey, John W. 1965. An Algorithm for the machine calculation\r\nof Complex Fourier Series. Mathematics of Computation. pp. 199-215.\r\nKottegoda, N.T. 1980. Stochastic Water Resources Technology. The Macmillan\r\nPress Ltd., London. p. 384.\r\nRizalihadi, M. 2002. The generation of synthetic sequences of monthly rainfall\r\nusing autoregressive model, Jurnal Teknik Sipil Universitas Syah Kuala,\r\nVol. 1 (2) : 64-68.\r\nYevjevich V. 1972. Structural analysis of hydrologic time series, Colorado State\r\nUniversity, Fort Collins.\r\nZakaria, A. 1998. Preliminary study of tidal prediction using Least Squares\r\nMethod, Thesis (Master), Bandung Institute of Technology, Bandung,\r\nIndonesia.\r\nZakaria, A. 2003. Numerical modelling of wave propagation using higher order\r\nfinite-difference formulas, Thesis (Ph.D.), Curtin University of\r\nTechnology, Perth, W.A., Australia.\r\nZakaria, A. 2008. The generation of synthetic sequences of monthly cumulative\r\nrainfall using FFT and least squares method, Prosiding Seminar Hasil\r\nPenelitian & Pengabdian kepada masyarakat Universitas Lampung, Vol.\r\n1: 1-15.",
+      "pagerange": "1-15",
+      "full_text_status": "public",
+      "keywords": "Spectrum Analysis, Fast Fourier Transform, Daily Rainfall.",
+      "ispublished": "pub",
+      "abstract": "Aim of this research is to study periodic modeling of daily rainfall time series. The\r\nstudy was undertaken using 25 years (1977–2001) data of Purajaya region. The\r\nseries of the daily rainfall data assumed was trend free. The stochastic\r\ncomponent of the daily rainfall was neglected. The periodic component of daily\r\nrainfall time series could be represented by using 253 harmonic expressions.\r\nValidation of generated daily rainfall series was done by comparing synthetic or\r\ngenerated with measured daily rainfall series. Mean of the correlation coefficient\r\nbetween generated and measured daily rainfall series with the number of the\r\ndata N is equal to 512 days for 25 years was found to be 0,9576. Therefore, the\r\ndeveloped model could be used for future prediction of daily rainfall time series.",
+      "date": "2010-10"
+    },
+    {
+      "abstract": "Tujuan dari penelitian ini adalah untuk mempelajari model stokastik dari data seri curah\r\nhujan harian. Studi ini dilakukan dengan menggunakan data curah hujan harian dengan\r\npanjang data 25 tahun (1977–2001) dari stasiun Purajaya. Seri curah hujan yang\r\ndigunakan diasumsikan bebas dari pengaruh yang bersifat trend. Keperiodikan dari data\r\ncurah hujan harian dipresentasikan dengan menggunakan 253 komponen yang bersifat\r\nperiodik. Seri stokastik curah hujan dari data curah hujan ini diasumsikan sebagai selisih\r\n(kesalahan) antara data curah hujan dengan model periodik curah hujan dengan\r\nmenggunakan 253 komponen. Berdasarkan data seri stokastik, komponen stokastik\r\ndihitung dengan menggunakan pendekatan autoregresif model. Model stokastik\r\ndipresentasikan dengan menggunakan autoregresif model orde dua. Validasi seri\r\nstokastik, antara data dan model dilakukan dengan menghitung koefisien korelasinya.\r\nUntuk penelitian ini, koefisien korelasi (R) antara data dan model stokastik adalah\r\nsebesar 0,9989. Dari hasil ini dapat disimpulkan bahwa model stokastik dari dari curah\r\nhujan harian stasiun Purajaya yang pengolahan model periodiknya menggunakan 253\r\nkomponen, memberikan hasil pendekatan yang sangat signifikan.",
+      "date": "2010-12-08",
+      "full_text_status": "public",
+      "keywords": "curah hujan harian, autoregresif model, komponen stokastik",
+      "ispublished": "pub",
+      "userid": 491,
+      "documents": [
+          {
+            "format": "text",
+            "docid": 188746,
+            "main": "sn smap 2 - studi pemodelan stokastik - 2010.pdf",
+            "files": [
+                {
+                  "fileid": 534720,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "ffb62530d800f58a78ec205cbe1f78a8",
+                  "objectid": 188746,
+                  "filesize": 1299022,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534720",
+                  "filename": "sn smap 2 - studi pemodelan stokastik - 2010.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-24 01:52:33"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 49213,
+            "placement": 2,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188746",
+            "pos": 2
+          }
+      ],
+      "official_url": "http:\/\/www,unila.ac.id\/~mipa\/",
+      "eprintid": 49213,
+      "referencetext": "Bhakar, S.R., Singh, Raj Vir, Chhajed, Neeraj, and Bansal, Anil Kumar. 2006. Stochastic\r\nmodeling of monthly rainfall at kota region, ARPN Journal of Engineering and\r\nApplied Sciences, Vol.1 (3): 36-44.\r\nCooley, James W. Tukey, John W. 1965. An Algorithm for the machine calculation of\r\nComplex Fourier Series. Mathematics of Computation. pp. 199-215.\r\nKottegoda, N.T. 1980. Stochastic Water Resources Technology. The Macmillan Press Ltd.,\r\nLondon. p. 384.\r\nRizalihadi, M. 2002. The generation of synthetic sequences of monthly rainfall using\r\nautoregressive model, Jurnal Teknik Sipil Universitas Syah Kuala, Vol. 1 (2) : 64-\r\n68.\r\nZakaria, A. 1998. Preliminary study of tidal prediction using Least Squares Method, Thesis\r\n(Master), Bandung Institute of Technology, Bandung, Indonesia.\r\nZakaria, A. 2003. Numerical Modelling of Wave Propagation Using Higher Order Finite\r\nDifference Formulas. Thesis (Doktor). Curtin University of Technology. 247 hlm.\r\nZakaria, Ahmad. 2005a. Aplikasi Program FTRANS. Jurusan Teknik Sipil. Fakultas Teknik.\r\nUniversitas Lampung.\r\nZakaria, Ahmad. 2005b. Aplikasi Program ANFOR. Jurusan Teknik Sipil. Fakultas Teknik.\r\nUniversitas Lampung.\r\nZakaria, A. 2008. The generation of synthetic sequences of monthly cumulative rainfall\r\nusing FFT and least squares method, Prosiding Seminar Hasil Penelitian &\r\nPengabdian kepada masyarakat Universitas Lampung, Vol. 1: 1-15.",
+      "eprint_status": "archive",
+      "datestamp": "2023-03-27 00:53:11",
+      "pagerange": "147-155",
+      "event_location": "Universitas Lampung",
+      "pres_type": "paper",
+      "event_dates": "8 - 9 Desember 2010",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49213",
+      "event_title": "Membangun Jejaring Pengembang dan Pengguna SAINS dan Matematika",
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "status_changed": "2023-03-27 00:53:11",
+      "succeeds": 49212,
+      "rev_number": 8,
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0_bak\/00\/04\/92\/13",
+      "event_type": "conference",
+      "lastmod": "2023-03-27 00:53:11",
+      "metadata_visibility": "show",
+      "contact_email": "ahmad.zakaria@eng.unila.ac.id",
+      "creators": [
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "honourific": null,
+            "lineage": null,
+            "family": "Zakaria"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "title": "Studi Pemodelan Stokastik Curah Hujan Harian Dari Data Curah Hujan Stasiun Purajaya"
+    },
+    {
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "rahayu",
+            "family": "sulistyotini",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        }
+      ],
+      "type": "conference_item",
+      "title": "Studi to finding the optimum location and number of traffic counts in accuracy of the estimated combined model trip distribution-mode-choice-trip assignment",
+      "event_dates": "9-10 Oktober 2010",
+      "refereed": "TRUE",
+      "event_location": "Semarang, Indonesia",
+      "datestamp": "2021-02-22 02:37:08",
+      "eprint_status": "archive",
+      "eprintid": 28014,
+      "metadata_visibility": "show",
+      "userid": 354,
+      "official_url": "http:\/\/lib.unika.ac.id\/index.php?p=show_detail&id=41253&keywords=",
+      "lastmod": "2021-02-22 02:37:08",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42051",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28014,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "isi.pdf",
+            "docid": 42051,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-22 00:38:16",
+                  "objectid": 42051,
+                  "filesize": 12405452,
+                  "filename": "isi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249499",
+                  "datasetid": "document",
+                  "fileid": 249499,
+                  "hash": "bda68ab44d32dfca4f69ffa6f44e66a5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          },
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Daf Isi FSTPT 2010.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249501",
+                  "filename": "Daf Isi FSTPT 2010.pdf",
+                  "objectid": 42052,
+                  "filesize": 598016,
+                  "mtime": "2021-02-22 00:38:31",
+                  "hash_type": "MD5",
+                  "hash": "9c9d0b3f424df122f56ca0acdcf2204d",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 249501
+                }
+            ],
+            "docid": 42052,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42052",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 28014
+          },
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42053",
+            "pos": 3,
+            "eprintid": 28014,
+            "placement": 3,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 249503,
+                  "datasetid": "document",
+                  "hash": "bc3e7506792be743d37bef6e2c973fa2",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-22 00:38:36",
+                  "filesize": 1020033,
+                  "objectid": 42053,
+                  "filename": "Judul FSTPT 2010.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249503"
+                }
+            ],
+            "main": "Judul FSTPT 2010.pdf",
+            "docid": 42053
+          }
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/docplayer.info\/67188700-Simposium-xiii-fstpt-universitas-katolik-soegijapranata-semarang-8-9-oktober-2010.html"
+        }
+      ],
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0\/00\/02\/80\/14",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2021-02-22 02:37:08",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "event_title": "Simposium XIII FSTPT Universitas Sugiyo Pranoto",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28014",
+      "date": "2010-10"
+    }
+]
+

@@ -1,0 +1,112 @@
+[
+    {
+      "divisions": [
+        "FMIPA8"
+      ],
+      "dir": "disk0\/00\/01\/62\/49",
+      "event_type": "conference",
+      "status_changed": "2019-11-14 11:05:13",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "rev_number": 8,
+      "event_title": "International Congress of Mathematicians, 2018",
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "completed",
+      "abstract": "Let G be a connected graph and c a proper coloring of G. For i = 1; 2; : : : ; k define the color class Ci as the set of vertices receiving color i. The color code c�(v) of a vertex v in is the ordered k-tuple (d(v;C1); : : : ; d(v;Ck)) where (d(v;C1) is the distance of v to Ci. If all distinct vertices of G have distinct color codes, then c is called a locating-coloring of G . The locating-chromatic number of graph G, denoted by �L(G) is the smallest k such that G has a locating coloring with k colors. Let fu1; u2; : : : ; ung be some vertices on the outer cycle and fv1; v2; : : : ; vng be some vertices on the inner cycle, for n � 3. The Generalized Petersen graph, denoted by Pn;k, n � 3, 1 � k � bn",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16249",
+      "date": "2019-08-01",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Asmiati",
+            "family": "Asmiati",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "asmiati,1976@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Irawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Agus"
+          },
+          "id": null
+        },
+        {
+          "id": "suharsono.1962@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suharsono",
+            "given": "Suharsono"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "L.",
+            "family": "Zakaria",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "Akmal",
+            "honourific": null,
+            "family": "Junaidi",
+            "lineage": null
+          }
+        }
+      ],
+      "event_dates": "1 - 9 Agustus 2018",
+      "refereed": "TRUE",
+      "title": "Further Results on Locating Chromatic Number of GeneralizedPetersen Graphs",
+      "event_location": "Barra da Tijuca Rio de Janeiro, Brasil",
+      "contact_email": "asmiati.1976@fmipa.unila.ac.id",
+      "eprintid": 16249,
+      "eprint_status": "archive",
+      "datestamp": "2019-11-14 11:05:13",
+      "metadata_visibility": "show",
+      "userid": 845,
+      "documents": [
+          {
+            "format": "text",
+            "docid": 29355,
+            "main": "Abstract%20Asmiati.pdf",
+            "files": [
+                {
+                  "filesize": 103562,
+                  "objectid": 29355,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/138950",
+                  "filename": "Abstract%20Asmiati.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-13 06:12:32",
+                  "fileid": 138950,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "61d9edd7602ed429405153274fe6bd0b"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 16249,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29355",
+            "pos": 1
+          }
+      ],
+      "official_url": "https:\/\/www.austms.org.au\/tiki-calendar.php?calitemId=810",
+      "lastmod": "2019-11-14 11:05:13"
+    }
+]
+

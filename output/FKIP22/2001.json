@@ -1,0 +1,111 @@
+[
+    {
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157720",
+            "pos": 1,
+            "eprintid": 36801,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Artikel Aksioma.pdf",
+            "docid": 157720,
+            "files": [
+                {
+                  "filename": "Artikel Aksioma.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/423260",
+                  "filesize": 806760,
+                  "objectid": 157720,
+                  "mtime": "2021-11-14 12:05:11",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "6915f0cff817d6a12a0b86e3d0b4cef7",
+                  "fileid": 423260,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2021-11-14 12:18:47",
+      "number": 2,
+      "userid": 809,
+      "pagerange": "1182-1189",
+      "metadata_visibility": "show",
+      "eprintid": 36801,
+      "eprint_status": "archive",
+      "datestamp": "2021-11-14 12:18:47",
+      "refereed": "TRUE",
+      "title": "Analisis Kebutuhan Pengembangan Bahan Ajar Aljabar Linear bagi Mahasiswa Pendidikan Matematika",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Vahlia",
+            "honourific": null,
+            "given": "Ira"
+          },
+          "id": "iravahlia562@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rahmawati",
+            "lineage": null,
+            "given": "Dwi"
+          },
+          "id": "dwirahamawati1083@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Mustika",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mustika"
+          },
+          "id": "mustika@ummetro.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yunarti",
+            "given": "Tina"
+          },
+          "id": "tina.yunarti@fkip.unila.ac.id"
+        },
+        {
+          "id": "nurhanurawati94@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurhanurawati",
+            "given": "Nurhanurawati"
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36801",
+      "date": "2001-06-30",
+      "volume": 10,
+      "abstract": "Tujuan penelitian ini adalah untuk mengetahui bahan ajar aljabar linear yang perlu dikembangkan bagi\r\nmahasiswa pendidikan matematika. Penelitian ini merupakan penelitian deskriptif kualitatif. Subjek dalam\r\npenelitian ini adalah mahasiswa pendidikan matematika yang menempuh mata kuliah aljabar linear tahun\r\nakademik 2019\/2020 di Universitas Muhammadiyah Metro. Sampel dalam penelitian ini diperoleh dengan\r\nteknik purposive sampling. Teknik pengumpulan data antara lain teknik observasi, wawancara, tes dan angket.\r\nData yang telah diperoleh kemudian dianalisis. Data hasil observasi, wawancara dianalisis dengan tahapan\r\nmentranskrip data, menelaah data, mereduksi data, mendeskripsikan dan membuat kesimpulan. Untuk data\r\nhasil angket dan tes dianalisis dengan metode statistik deskriptif. Hasil penelitian menunjukkan bahwa bahan\r\najar pada perkuliahan aljabar linear masih menggunakan satu buah bahan ajar lama, mahasiswa membutuhkan\r\nbahan ajar yang mudah dipahami dan dapat digunakan secara mandiri, mahasiswa membutuhkan bahan ajar\r\nyang menuntun mahasiswa menemukan pengetahuan melalui pertanyaan-pertanyaan maupun langkah-langkah,\r\nserta mahasiswa membutuhkan bahan ajar yang mendukung dalam pembelajaran daring. Berdasarkan hasil\r\npenelitian diperoleh kesimpulan bahwa perlu dikembangkan bahan ajar Aljabar linear sesuai karakteristik\r\nmahasiswa dan perkembangan teknologi yang ada. Bahan ajar berupa e-modul berbasis Socrates merupakan\r\nsalah satu alternatif bahan ajar aljabar linear yang diperlukan dalam memfasititasi pembelajaran daring. Selain\r\nitu, dengan modul berbasis Socrates yang berisi pertanyaan yang dapat menuntun mahasiswa dalam\r\nmenemukan pengetahuan secara mandiri.",
+      "subjects": [
+        "LB2300"
+      ],
+      "date_type": "published",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2021-11-14 12:18:47",
+      "full_text_status": "public",
+      "issn": "2442-5419",
+      "publisher": "Mathematics Education, University of Muhammadiyah Metro",
+      "dir": "disk0\/00\/03\/68\/01",
+      "publication": "AKSIOMA: Jurnal Program Studi Pendidikan Matematika",
+      "divisions": [
+        "FKIP22"
+      ]
+    }
+]
+

@@ -1,0 +1,169 @@
+[
+    {
+      "event_location": "Yogyakarta",
+      "event_dates": "December 6-8th 2011",
+      "refereed": "TRUE",
+      "title": "Agrotourism Potential and Sustainable Agriculture in Lampung",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Evizal",
+            "given": "Rusdi"
+          },
+          "id": "rusdi.evizal@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Fembriarti Erry",
+            "honourific": null,
+            "family": "Prasmatiwi",
+            "lineage": null
+          },
+          "id": "fembriarti.erry@fp.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 18906,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32143",
+            "security": "public",
+            "docid": 32143,
+            "main": "c1a1-Proc Isad-rusdi.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 158635,
+                  "mime_type": "application\/pdf",
+                  "hash": "0d202933167c7437d21e322d3b72dae2",
+                  "filesize": 2034872,
+                  "objectid": 32143,
+                  "filename": "c1a1-Proc Isad-rusdi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/158635",
+                  "hash_type": "MD5",
+                  "mtime": "2020-03-28 02:52:22"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "content": "published"
+          }
+      ],
+      "lastmod": "2020-03-30 01:50:06",
+      "userid": 978,
+      "pagerange": "339-348",
+      "metadata_visibility": "show",
+      "eprintid": 18906,
+      "eprint_status": "archive",
+      "datestamp": "2020-03-30 01:50:06",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2020-03-30 01:50:06",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/01\/89\/06",
+      "date": "2011-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18906",
+      "abstract": "Krakatau Volcano, Bukit Barisan Selatan National Park and Way Kambas “Elephant” National Park are well-known icons of Lampung ecotourism yet they are not enough to attract tourists to Lampung.  Lampung, however, has the potential to develop agrotourism involving industrial plantations and tropical fruit gardens.  Lampung Province is among the main production areas of Indonesian for coffee, black pepper, cocoa, oil palm, coconut palm, rubber, sugarcane, cassava and pineapple.  Moreover, Lampung civet coffee and Lampung black peppers are famous worldwide.  Plantation agrotourism offers beautiful views and the opportunity to participate many activities associated with agriculture such as nursery production, planting, breeding, harvesting and processing.  Good management and sustainable production are key to the development of agrotourism.  Sustainable coffee production and damar resin agroforestry in West Lampung have the potential to develop as agrotourism destinations in Lampung.  Local government already has programs to push agrotourism of exotic tropical fruits such as durian, duku, mangosteen and rambutan.  Challenges and support of culture, local wisdom, local products and souvenirs are also discussed.\r\nKey words: plantation agrotourism, sustainable, local wisdom, Lampung",
+      "event_title": "International Seminar On Agro-tourism Development (ISAD)",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published"
+    },
+    {
+      "status_changed": "2016-10-13 15:42:53",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/07\/89",
+      "divisions": [
+        "FP2"
+      ],
+      "event_type": "conference",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Krakatau Volcano, Bukit Barisan Selatan National Park and Way Kambas \"Elephant\" National Park are well-known icons of Lampung ecotourism yet they are not enough to attract. tourists to Lampung. Lampung, however, has the potential to develop agrotourism involving industrial plantations and tropical fruit gardens. Lampung Province is among the main production areas of Indonesian for coffee, black pepper, cocoa oil palm, coconut palm, rubber, sugarcane, cassava and pineapple. Moreover, Lampung civet coffee and Lampung black peppers are famous worldwide. Plantation agrotourism offers beautiful views and the opportunity to participate many activities associated with agriculture such as nursery production, planting, breeding, harvesting and processing. Good management and sustainable production are key to the development of agrotourism. Sustainable coffee production and damar resin agroforestry in West Lampung have the potential to develop as agrotourism destinations in Lampung. Local government already has programs to push agrotourism of exotic tropical fruits such as durian, duku, mangosteen and rambutan. Challenges and support of culture, local wisdom, local products and souvenirs are also discussed.\r\n\r\nKEYWORDS : plantation agrotourism, sustainable, local wisdom Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/789",
+      "date": "2011-12",
+      "subjects": [
+        "AC"
+      ],
+      "event_title": "International Seminar on Agro-tourirme Development (ISAD)",
+      "date_type": "published",
+      "event_location": "UPN Veteran Yogyakarta",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Rusdi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Evizal"
+          },
+          "id": "rusdi.evizal@fp.unila.ac.id"
+        },
+        {
+          "id": "feprasmatiwi@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Prasmatiwi Erry",
+            "lineage": null,
+            "given": "Fembriarti"
+          }
+        }
+      ],
+      "event_dates": "6-8 December",
+      "refereed": "TRUE",
+      "title": "AGROTOURISM POTENTIAL AND SUSTAINABLE AGRICULTURE IN LAMPUNG",
+      "userid": 728,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/685",
+            "pos": 1,
+            "eprintid": 789,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 3,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Fembriarti-Prosiding ISAD.pdf",
+            "files": [
+                {
+                  "hash": "ead0f205373cffc9dd93a999fbf73586",
+                  "mime_type": "application\/pdf",
+                  "fileid": 4628,
+                  "datasetid": "document",
+                  "mtime": "2016-10-13 03:42:52",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4628",
+                  "filename": "Fembriarti-Prosiding ISAD.pdf",
+                  "objectid": 685,
+                  "filesize": 8225519
+                }
+            ],
+            "docid": 685
+          }
+      ],
+      "lastmod": "2016-10-13 15:42:53",
+      "eprint_status": "archive",
+      "eprintid": 789,
+      "datestamp": "2016-10-13 15:42:53",
+      "pagerange": "339-348",
+      "metadata_visibility": "show"
+    }
+]
+

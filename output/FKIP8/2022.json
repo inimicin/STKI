@@ -1,0 +1,2202 @@
+[
+    {
+      "id_number": "http:\/\/dx.doi.org\/10.18415\/ijmmu.v9i8.3901",
+      "eprintid": 48765,
+      "eprint_status": "archive",
+      "datestamp": "2023-03-06 01:57:07",
+      "metadata_visibility": "show",
+      "number": 8,
+      "userid": 500,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188147",
+            "pos": 1,
+            "formatdesc": "Article",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48765,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "content": "published",
+            "main": "3901-12085-1-PB.pdf",
+            "docid": 188147,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "c3bcb0320602172b66d0038d61afbf57",
+                  "datasetid": "document",
+                  "fileid": 531199,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531199",
+                  "filename": "3901-12085-1-PB.pdf",
+                  "objectid": 188147,
+                  "filesize": 870560,
+                  "mtime": "2023-03-05 12:34:58",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          },
+          {
+            "placement": 2,
+            "eprintid": 48765,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188148",
+            "pos": 2,
+            "security": "public",
+            "formatdesc": "Similarity Report",
+            "docid": 188148,
+            "main": "The Theory of Roland Barthes Suatu Siang Di Teras Masjid Works of Gola Gong.pdf",
+            "files": [
+                {
+                  "hash": "e93924eb4e10069576c89a3e0da22425",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 531201,
+                  "mtime": "2023-03-05 12:55:11",
+                  "hash_type": "MD5",
+                  "filename": "The Theory of Roland Barthes Suatu Siang Di Teras Masjid Works of Gola Gong.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531201",
+                  "filesize": 1847689,
+                  "objectid": 188148
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2
+          }
+      ],
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/article\/view\/3901\/3429",
+      "lastmod": "2023-03-06 01:57:07",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "AR",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ridha Adilla"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Samhati",
+            "honourific": null,
+            "given": "Siti"
+          },
+          "id": "samhati.siti@gmail.com"
+        },
+        {
+          "id": "mulyanto.widodo@gmail.com",
+          "name": {
+            "given": "Mulyanto",
+            "honourific": null,
+            "family": "Widodo",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Ariyani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Farida"
+          },
+          "id": "farida.ariyani@fkip.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "The Theory of Roland Barthes Suatu Siang Di Teras Masjid Works of Gola Gong",
+      "subjects": [
+        "PN"
+      ],
+      "date_type": "published",
+      "volume": 9,
+      "abstract": "This study aims to determine the meaning of short stories Suatu Siang di Teras Masjid by Gola Gong through the semiotics approach. Roland Barthers's theory of semiotics was chosen to find out the meaning of the short story. The source used in this study is the meaning contained in the short story Suatu Siang di Teras Masjid by Gola Gong. The research method used in this research is descriptive qualitative. The technique used in this research is observation technique, which is to read critically and thoroughly all discourse and dialogue in literary texts. The results of the research that will be presented are data obtained from observation techniques. The data is in the form of meaning contained in the short story which is based on Roland Barthes's five semiotic codes, namely hermeneutic code, semic code, symbolic code, proaretic code, and gromic code.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48765",
+      "date": "2022-08",
+      "publisher": "IJMMU",
+      "divisions": [
+        "FKIP8"
+      ],
+      "publication": "International Journal of Multicultural and Multireligious Understanding (IJMMU)",
+      "dir": "disk0_bak\/00\/04\/87\/65",
+      "status_changed": "2023-03-06 01:57:07",
+      "full_text_status": "public",
+      "issn": "2364-5369",
+      "ispublished": "pub",
+      "rev_number": 8
+    },
+    {
+      "title": "The Development of Learning Module Based on Problem Based Learning Observation Result for Class X High School Students",
+      "refereed": "FALSE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Eka",
+            "honourific": null,
+            "family": "Anista",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "farida.ariyani@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Ariyani",
+            "lineage": null,
+            "given": "Farida"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Edi",
+            "family": "Suyanto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/article\/view\/3978\/3503",
+      "lastmod": "2023-03-06 01:57:05",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188143",
+            "security": "public",
+            "formatdesc": "Article",
+            "placement": 1,
+            "eprintid": 48763,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "content": "published",
+            "main": "3978-12332-1-PB.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "7d1d8137032ab24c9c388c0a01add4df",
+                  "fileid": 531175,
+                  "datasetid": "document",
+                  "mtime": "2023-03-05 11:34:22",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531175",
+                  "filename": "3978-12332-1-PB.pdf",
+                  "filesize": 896759,
+                  "objectid": 188143
+                }
+            ],
+            "docid": 188143,
+            "format": "text"
+          },
+          {
+            "eprintid": 48763,
+            "placement": 2,
+            "formatdesc": "Similarity Report",
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188144",
+            "format": "text",
+            "main": "The Development of Learning Module Based on Problem Based Learning Observation Result for Class X High School Students.pdf",
+            "files": [
+                {
+                  "objectid": 188144,
+                  "filesize": 2910497,
+                  "filename": "The Development of Learning Module Based on Problem Based Learning Observation Result for Class X High School Students.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531177",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-05 11:34:35",
+                  "datasetid": "document",
+                  "fileid": 531177,
+                  "hash": "853236364274affe1ab2dcfb8eada199",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 188144,
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 500,
+      "number": 8,
+      "metadata_visibility": "show",
+      "pagerange": "244-255",
+      "datestamp": "2023-03-06 01:57:05",
+      "id_number": "http:\/\/dx.doi.org\/10.18415\/ijmmu.v9i8.3978",
+      "eprint_status": "archive",
+      "eprintid": 48763,
+      "ispublished": "pub",
+      "rev_number": 10,
+      "issn": "2364-5369",
+      "full_text_status": "public",
+      "status_changed": "2023-03-06 01:57:05",
+      "publisher": "IJMMU",
+      "publication": "International Journal of Multicultural and Multireligious Understanding (IJMMU)",
+      "divisions": [
+        "FKIP8"
+      ],
+      "dir": "disk0_bak\/00\/04\/87\/63",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48763",
+      "date": "2022-08",
+      "abstract": "The problem in this research was to identify the process of developing Learning Module Based on Problem Based Learning Observation Result for class X High School students. Based on these problems, this study aimed to produce learning module and describe the feasibility of the learning module developed. The research method used a research and development design that adapts seven of the ten steps in the research and development procedure according to Borg and Gall. Data collecting technique was done by observation, interviews and questionnaires. The results of the study showed that (1) the Learning Module Based on Problem Based Learning Observation Result was successfully developed using seven stages of Borg and Gall development; (2) the learning module developed was suitable to use in learning of Observation Results for ten grades High School students. The test results of content, language, and learning media experts received very good assessments. The product feasibility test by the Indonesian teacher obtained an average score of 84,17 with a very good category. Small-scale product trials obtained an average value of 86,25 with a feasible category and broad-scale trials obtained an average value of 84,69 with a very feasible category.",
+      "volume": 9,
+      "date_type": "published",
+      "subjects": [
+        "LB1603"
+      ]
+    },
+    {
+      "rev_number": 9,
+      "ispublished": "pub",
+      "status_changed": "2022-12-22 02:16:27",
+      "full_text_status": "public",
+      "issn": "2684-7167",
+      "divisions": [
+        "FKIP8"
+      ],
+      "publisher": "FKIP Universitas Terbuka",
+      "publication": "International Journal of Theory and Application in Elementary and Secondary School Education  (IJTAESE)",
+      "dir": "disk0_bak\/00\/04\/73\/73",
+      "related_url": [
+        {
+          "url": "https:\/\/journals.researchsynergypress.com\/index.php\/ijtaese\/article\/view\/797"
+        }
+      ],
+      "date": "2022-04-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47373",
+      "volume": 4,
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "Development of Literacy-Based Performance Assessment Instruments to  Improve Communication Skills in Thematic Learning of Class V",
+      "creators": [
+        {
+          "name": {
+            "given": "Dilivia Fitri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Arsy"
+          },
+          "id": "Dilivia.Fitri@gmail.com"
+        },
+        {
+          "id": "munaris.1970@fkip.unila.ac.id",
+          "name": {
+            "given": "Munaris",
+            "honourific": null,
+            "family": "Munaris",
+            "lineage": null
+          }
+        },
+        {
+          "id": "caswita.1967@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Caswita",
+            "honourific": null,
+            "given": "Caswita"
+          }
+        }
+      ],
+      "type": "article",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "5507.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "a834b03d3d971e2bdf4a72fc34e8d965",
+                  "datasetid": "document",
+                  "fileid": 519820,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/519820",
+                  "filename": "5507.pdf",
+                  "objectid": 186422,
+                  "filesize": 406782,
+                  "mtime": "2022-12-22 00:35:48",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 186422,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186422",
+            "pos": 1,
+            "eprintid": 47373,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2022-12-22 02:16:27",
+      "official_url": "https:\/\/journals.researchsynergypress.com\/index.php\/ijtaese\/article\/view\/797",
+      "number": 1,
+      "userid": 77,
+      "pagerange": "53-64",
+      "metadata_visibility": "show",
+      "id_number": "2684-7167",
+      "eprint_status": "archive",
+      "eprintid": 47373,
+      "datestamp": "2022-12-22 02:16:27"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47217",
+      "date": 2022,
+      "abstract": "Based on a press release conducted by the National Commission on Violence Against Women (Komisi Nasional Anti Kekerasan terhadap Perempuan) on March 6, 2020, various spectrums and forms of violence against women have been recorded in the Komnas Perempuan Annual Notes 2020  with several findings including, 1) over a period of 12 years, violence against women increased by 792%; 2) there was Violence Against Girls that jumped by 2,341 cases or a 65% increase from the previous year; 3) complaints of cybercrime cases that jumped 300% with the most cases in the form of threats of spreading pornographic photos and videos; 4) sexual violence against women with disabilities increased by 47%. The expression of gender equality is often carried out through thoughts that are documented in a written work, one of which is in the form of literary works, namely novels. Based on this explanation,  this  research  was  conducted  to  describe  the  forms  of  oppression  against  women  and  women's resistance as a manifestation of their existence in the Drupadi novel by Seno Gumira Ajidarma from the perspective of Simone de Beaviour's existentialist feminism. \r\nMaterials and Methods: This study uses a qualitative approach with descriptive methods. The data source in this study is the Drupadi novel by Seno Gumira Ajidarma. Data collection in this study was carried out by using documentation techniques. The data in the form of quotations in the novel were then studied with the feminism- existentialist theory of Simone de Beaviour \r\nResults:\tForms  of  oppression  against  women  are  conditions  experienced  by  female  characters  who  are  not respected and made second to men. After the research was carried out, there was data in the form of quotations regarding forms of oppression against women which were divided into two parts, namely, 1) oppression against women physically and 2) oppression against women non-physically. \r\nThen women's resistance as a manifestation of their existence is the events experienced by female characters who relate to other people and their environment that show and strengthen their existence as a woman. After conducting the research, data was found in the form of quotations regarding forms of resistance as a form of women's existence which  were  divided  into  three  parts,  namely,\t1)  working,  2)  becoming  intellectual  agents,  3)  carrying  out transformation in society. \r\nConclusion: Based on the research results of Feminism-Existentialist in Drupadi Novel by Seno Gumira Ajidarma, the researcher concludes; 1) In the Drupadi novel by Seno Gumira Ajidarma, data on forms of oppression against women are found, consisting of a) physical oppression of women; and b) non-physical oppression of women; 2) In the Drupadi novel by Seno Gumira Ajidarma, it is found data on the forms of resistance as a manifestation of the existence of women consisting of a) work; b) become an intellectual agent, and c) make a transformation in society.",
+      "volume": "X",
+      "related_url": [
+        {
+          "url": "https:\/\/www.iosrjournals.org"
+        }
+      ],
+      "publisher": "Advances in Social Science Research Journal",
+      "divisions": [
+        "FKIP8"
+      ],
+      "publication": "IOSR Journal Of Humanities And Social Science (IOSR-JHSS)",
+      "dir": "disk0\/00\/04\/72\/17",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "e-ISSN: 2279-0837, p-ISSN: 2279-0845.",
+      "status_changed": "2022-12-14 09:12:58",
+      "metadata_visibility": "show",
+      "pagerange": "27-33",
+      "datestamp": "2022-12-14 09:12:58",
+      "id_number": "DOI: 10.9790\/0853-XXXXXXX",
+      "eprintid": 47217,
+      "eprint_status": "archive",
+      "lastmod": "2022-12-14 09:12:58",
+      "official_url": "HTTPS:\/\/www.iosrjournals.org",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186191",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47217,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "5506.pdf",
+            "docid": 186191,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "ae480632c209ba5639be00f3f88bb79b",
+                  "fileid": 518414,
+                  "datasetid": "document",
+                  "filename": "5506.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/518414",
+                  "filesize": 2731974,
+                  "objectid": 186191,
+                  "mtime": "2022-12-14 09:05:45",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 77,
+      "number": "X",
+      "title": "WOMEN EXISTENCY IN THE DRUPADI NOVEL BY SENO GUMIRA AJIDARMA (AN EXISTENTIALIST FEMINISM STUDY OF SIMONE DE BEAVIOUR)",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "edi.suyanto@fkip.unila.ac.id",
+          "name": {
+            "given": "Suyanto",
+            "family": "Edi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Munaris",
+            "given": "Munaris"
+          },
+          "id": "munaris.1965@fkip.unila.ac.id"
+        },
+        {
+          "id": "joko.setyonugroho@gmail.com",
+          "name": {
+            "given": "Setyo Nugroho",
+            "lineage": null,
+            "family": "Joko",
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48826",
+      "volume": 17,
+      "abstract": "Kajian ini bertujuan mendeskripsikan bentuk dan fungsi deiksis dalam Kisah Negeri Lain karya Kahlil Gibran. Metode yang digunakan ialah deskriptif-kualitatif. Data dikumpulkan dengan teknik baca-catat. Adapun analisis data dilakukan dengan menggunakan model interaktif yang meliputi (1) pereduksian data, (2) penyajian data, (3) penarikan simpulan sementara, dan (4) verifikasi. Hasil penelitian menunjukkan bahwa dalam Kisah Negeri Lain karya Kahlil Gibran ditemukan bentuk dan fungsi deiksis yang beragam. Bentuk deiksis yang dimaksud ialah (1) deiksis persona yang terdiri atas persona pertama, persona kedua, dan persona ketiga; (2) deiksis tempat; (3) deiksis waktu yang terdiri atas waktu lampau, sekarang, dan mendatang; (4) deiksis wacana yang terdiri atas anafora dan katafora; dan (4) deiksis sosial. Adapun fungsi deiksis yang ditemukan meliputi (1) fungsi ekspresif, (2) fungsi konatif, (3) fungsi referensial, dan (4) fungsi fatis.",
+      "subjects": [
+        "P1"
+      ],
+      "date_type": "published",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2023-03-07 02:26:23",
+      "issn": "2686-4975",
+      "full_text_status": "public",
+      "publisher": "Balai Bahasa Kalimantan Tengah",
+      "publication": "SUAR BETANG",
+      "dir": "disk0_bak\/00\/04\/88\/26",
+      "divisions": [
+        "FKIP8"
+      ],
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 48826,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188253",
+            "security": "public",
+            "formatdesc": "Article",
+            "main": "313-1813-1-PB.pdf",
+            "files": [
+                {
+                  "hash": "7f68aaa9d7517d6fbc4e0a2fd50619d3",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 531694,
+                  "mtime": "2023-03-07 02:00:46",
+                  "hash_type": "MD5",
+                  "filename": "313-1813-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531694",
+                  "filesize": 254807,
+                  "objectid": 188253
+                }
+            ],
+            "docid": 188253,
+            "format": "text",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "content": "published"
+          },
+          {
+            "rev_number": 2,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "main": "PENGGUNAAN DEIKSIS DALAM KISAH NEGERI LAIN KARYA KAHLIL GIBRAN.pdf",
+            "docid": 188254,
+            "files": [
+                {
+                  "hash": "9ab264e236906d7248b58b03042bd32c",
+                  "mime_type": "application\/pdf",
+                  "fileid": 531696,
+                  "datasetid": "document",
+                  "mtime": "2023-03-07 02:00:55",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531696",
+                  "filename": "PENGGUNAAN DEIKSIS DALAM KISAH NEGERI LAIN KARYA KAHLIL GIBRAN.pdf",
+                  "objectid": 188254,
+                  "filesize": 3193321
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188254",
+            "pos": 2,
+            "security": "public",
+            "formatdesc": "Similarity Report",
+            "placement": 2,
+            "eprintid": 48826
+          }
+      ],
+      "lastmod": "2023-03-07 02:26:23",
+      "official_url": "http:\/\/suarbetang.kemdikbud.go.id\/jurnal\/index.php\/BETANG\/article\/view\/313\/194",
+      "number": 1,
+      "userid": 727,
+      "pagerange": "13-23",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.26499\/surbet.v17i1.313",
+      "eprintid": 48826,
+      "datestamp": "2023-03-07 02:26:23",
+      "refereed": "FALSE",
+      "title": "Penggunaan Deiksis dalam Kisah Negeri Lain Karya Kahlil Gibran",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Febriyanto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dedi"
+          },
+          "id": "dedifebri97@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Mulyanto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Widodo"
+          },
+          "id": "mulyanto.widodo@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Rahayu",
+            "lineage": null,
+            "honourific": null,
+            "given": "Eka Putri"
+          }
+        }
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Analysis of Symbolic Meaning in Drama Scripts and Its Implications toward Indonesian Language Learning of High School Students",
+      "creators": [
+        {
+          "id": "abuazisah59@yahoo.co.id",
+          "name": {
+            "given": "Muhammad",
+            "family": "Fuad",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Sisi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nalan Meilia"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suyanto",
+            "lineage": null,
+            "given": "Edi"
+          },
+          "id": "doktor_edy@yahoo.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "muhammad",
+            "honourific": null,
+            "given": "ulul azmi"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Istiqomah Ahsanu",
+            "honourific": null,
+            "family": "Amala",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "contact_email": "abuazisah59@yahoo.co.id",
+      "pagerange": "1334-1345",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 44528,
+      "datestamp": "2022-08-29 03:04:46",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166399",
+            "eprintid": 44528,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "f40a2e3a3f3dc8bfde22cb2cf6133e54",
+                  "datasetid": "document",
+                  "fileid": 481617,
+                  "mtime": "2022-08-29 02:29:49",
+                  "hash_type": "MD5",
+                  "filename": "Muhammad Fuad - Analysis of Symbolic Meaning in Drama Scripts and Its Implications.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/481617",
+                  "objectid": 166399,
+                  "filesize": 1177872
+                }
+            ],
+            "main": "Muhammad Fuad - Analysis of Symbolic Meaning in Drama Scripts and Its Implications.pdf",
+            "docid": 166399
+          }
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/article\/download\/24824\/pdf",
+      "lastmod": "2022-08-29 03:04:46",
+      "number": 3,
+      "userid": 941,
+      "publication": "Jurnal Pendidikan Progresif",
+      "dir": "disk0\/00\/04\/45\/28",
+      "divisions": [
+        "FKIP8"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2022-08-29 03:04:46",
+      "issn": "e-ISSN: 2550-1313 | p-ISSN: 2087-9849",
+      "full_text_status": "public",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "date": "2022-07-29",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44528",
+      "volume": 12
+    },
+    {
+      "title": "A Bibliometric Analysis of Technology-Based Foreign Language Learning during the COVID-19 Pandemic: Direction for Indonesia Language Learning",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "abuazisah59@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Fuad",
+            "lineage": null,
+            "given": "Muhammad"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suyanto",
+            "honourific": null,
+            "given": "Edi"
+          },
+          "id": "doktor_edy@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "muhammad",
+            "lineage": null,
+            "given": "ulul azmi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "suparman",
+            "lineage": null,
+            "given": "suparman"
+          },
+          "id": null
+        }
+      ],
+      "contact_email": "abuazisah59@yahoo.co.id",
+      "metadata_visibility": "show",
+      "pagerange": "983-995",
+      "datestamp": "2022-08-29 03:04:45",
+      "eprint_status": "archive",
+      "eprintid": 44527,
+      "lastmod": "2022-08-29 03:04:45",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "3168c04524d287f6c2678e7ebf4011f8",
+                  "datasetid": "document",
+                  "fileid": 481611,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/481611",
+                  "filename": "Muhammad Fuad - A Bibliometric Analysis of Technology-based Foreign.pdf",
+                  "objectid": 166398,
+                  "filesize": 1745409,
+                  "mtime": "2022-08-29 02:20:59",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Muhammad Fuad - A Bibliometric Analysis of Technology-based Foreign.pdf",
+            "docid": 166398,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166398",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 44527
+          }
+      ],
+      "userid": 941,
+      "number": 10,
+      "divisions": [
+        "FKIP8"
+      ],
+      "publication": "International Journal of Information and Education Technology",
+      "dir": "disk0\/00\/04\/45\/27",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "issn": "2010-3689",
+      "full_text_status": "public",
+      "status_changed": "2022-08-29 03:04:45",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "date": "2022-10-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44527",
+      "volume": 12
+    },
+    {
+      "issn": "2364-5369",
+      "full_text_status": "public",
+      "status_changed": "2022-12-09 02:19:53",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "related_url": [
+        {
+          "url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/article\/view\/3461",
+          "type": "pub"
+        }
+      ],
+      "publisher": "International Journal of Multicultural and Multireligious Understanding",
+      "publication": "International Journal of Multicultural and Multireligious Understanding",
+      "divisions": [
+        "FKIP8"
+      ],
+      "dir": "disk0\/00\/04\/71\/72",
+      "abstract": "One of the teaching materials for Indonesian language training is writing official letters. The purpose of this study is to develop a module that is used for Indonesian language training activities. This research method follows the stages of Borg and Gall development research. The research stages include preliminary research, collecting data for compiling modules, designing products, validating the product, design revisions, product trials, and product revisions. At the validation stage, the module was assessed\r\nfor its feasibility as teaching material by three experts, namely material experts, media experts, and practitioners. After the module is validated, a trial of using the module as teaching material is carried out. Respondents who took part in the counseling were selected using a simple random sampling method. Based on the research, the results of the feasibility assessment were obtained by validators, trial\r\nparticipants and Indonesian language instructors. The results of the assessment show that the value of the feasibility of the module based on aspects of module content, language, presentation of material and graphics is between 89-95% with very worthy criteria. So it can be concluded that after going through the assessment and trial stages, the official letter writing module is suitable for use as teaching material in Indonesian language extension activities.",
+      "volume": 9,
+      "date": "2022-02-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47172",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Nasution",
+            "lineage": null,
+            "family": "Hasnawati Nasution",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Farida",
+            "lineage": null,
+            "family": "Farida Ariyani",
+            "honourific": null
+          },
+          "id": "farida.ariyani@fkip.unila.ac.id"
+        },
+        {
+          "id": "siti_samhati@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Siti Samhati",
+            "given": "Siti Samhati"
+          }
+        },
+        {
+          "name": {
+            "given": "Nurlaksana eko",
+            "honourific": null,
+            "family": "Nurlaksana eko",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "title": "Development of Official Letter Writing Module as Indonesian Language Training Teaching Material",
+      "refereed": "FALSE",
+      "userid": 709,
+      "number": 2,
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/article\/view\/3461",
+      "lastmod": "2022-12-09 02:19:53",
+      "documents": [
+          {
+            "docid": 186136,
+            "main": "3461-10779-1-PB.pdf",
+            "files": [
+                {
+                  "mtime": "2022-12-08 14:36:59",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/518044",
+                  "filename": "3461-10779-1-PB.pdf",
+                  "filesize": 579867,
+                  "objectid": 186136,
+                  "hash": "5781e8f2bcee1eac6abf1106575b81ad",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 518044
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "placement": 1,
+            "eprintid": 47172,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186136",
+            "security": "public"
+          },
+          {
+            "mime_type": "image\/png",
+            "language": "en",
+            "rev_number": 2,
+            "content": "coverimage",
+            "main": "Cover.png",
+            "files": [
+                {
+                  "mime_type": "image\/png",
+                  "hash": "848037868cd673e2a0a5f5fb70f4ff41",
+                  "datasetid": "document",
+                  "fileid": 518046,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/518046",
+                  "filename": "Cover.png",
+                  "filesize": 99057,
+                  "objectid": 186137,
+                  "mtime": "2022-12-08 14:37:21",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 186137,
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186137",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 47172
+          },
+          {
+            "placement": 3,
+            "eprintid": 47172,
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186138",
+            "security": "public",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-08 14:38:01",
+                  "filesize": 1791842,
+                  "objectid": 186138,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/518048",
+                  "filename": "Uji Turnitin_Development of Official Letter Writing Module as Indonesian Language Training Teaching Material.pdf",
+                  "fileid": 518048,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "cc17d2bc0a7c3f9f62518d3c1ad50b9b"
+                }
+            ],
+            "main": "Uji Turnitin_Development of Official Letter Writing Module as Indonesian Language Training Teaching Material.pdf",
+            "docid": 186138,
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "other"
+          }
+      ],
+      "datestamp": "2022-12-09 02:19:53",
+      "eprint_status": "archive",
+      "id_number": "http:\/\/dx.doi.org\/10.18415\/ijmmu.v9i2.3461",
+      "eprintid": 47172,
+      "metadata_visibility": "show",
+      "pagerange": "536-543"
+    },
+    {
+      "contact_email": "abuazisah59@yahoo.co.id",
+      "refereed": "TRUE",
+      "title": "Development of Student Worksheets Write Project Based Learning-based Explanatory Text for Class XI Senior High School",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Miftakhul",
+            "honourific": null,
+            "family": "Hidayati",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rusminto",
+            "lineage": null,
+            "given": "N E"
+          },
+          "id": "nurlaksana.eko@fkip.unila.ac.id"
+        },
+        {
+          "id": "abuazisah59@yahoo.co.id",
+          "name": {
+            "given": "Muhammad",
+            "honourific": null,
+            "family": "Fuad",
+            "lineage": null
+          }
+        }
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 166401,
+            "main": "Muhammad Fuad - JSRR_Development of Student Worksheets Write Project Based Learning-based.pdf",
+            "files": [
+                {
+                  "objectid": 166401,
+                  "filesize": 1786237,
+                  "filename": "Muhammad Fuad - JSRR_Development of Student Worksheets Write Project Based Learning-based.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/481630",
+                  "hash_type": "MD5",
+                  "mtime": "2022-08-29 02:43:19",
+                  "datasetid": "document",
+                  "fileid": 481630,
+                  "mime_type": "application\/pdf",
+                  "hash": "128471052ce34e1e748c05936e3ad107"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166401",
+            "eprintid": 44530,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2022-08-29 03:07:28",
+      "official_url": "https:\/\/journaljsrr.com\/index.php\/JSRR\/article\/view\/30509\/57251",
+      "number": 3,
+      "userid": 941,
+      "pagerange": "58-66",
+      "metadata_visibility": "show",
+      "eprintid": 44530,
+      "eprint_status": "archive",
+      "datestamp": "2022-08-29 03:07:28",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2022-08-29 03:07:28",
+      "full_text_status": "public",
+      "issn": "2320-0227",
+      "publication": "Journal of Scientific Research & Reports",
+      "dir": "disk0\/00\/04\/45\/30",
+      "divisions": [
+        "FKIP8"
+      ],
+      "date": "2022-04-21",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44530",
+      "volume": 28,
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published"
+    },
+    {
+      "contact_email": "abuazisah59@yahoo.co.id",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Irmasari",
+            "lineage": null,
+            "given": "Hesti"
+          }
+        },
+        {
+          "id": "abuazisah59@yahoo.co.id",
+          "name": {
+            "given": "muhammad",
+            "lineage": null,
+            "family": "fuad",
+            "honourific": null
+          }
+        },
+        {
+          "id": "gragemarti@yahoo.co.id",
+          "name": {
+            "given": "Sumarti",
+            "lineage": null,
+            "family": "Sumarti",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Development Student Worksheet (Lkpd) Write Review For Senior High School Basic Stronger Character Education",
+      "refereed": "TRUE",
+      "userid": 941,
+      "number": 1,
+      "lastmod": "2022-08-29 03:04:48",
+      "official_url": "https:\/\/www.iosrjournals.org\/iosr-jrme\/papers\/Vol-12%20Issue-1\/Ser-2\/A1201020106.pdf",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166400",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 44529,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-08-29 02:36:49",
+                  "objectid": 166400,
+                  "filesize": 1478690,
+                  "filename": "Muhammad Fuad - IOSR-JRME_Development Student Worksheet (Lkpd) Write Review.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/481624",
+                  "fileid": 481624,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "e965ccfba7691d8b2015ee19f18f30f2"
+                }
+            ],
+            "main": "Muhammad Fuad - IOSR-JRME_Development Student Worksheet (Lkpd) Write Review.pdf",
+            "docid": 166400,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2022-08-29 03:04:48",
+      "eprintid": 44529,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1-6",
+      "full_text_status": "public",
+      "issn": "e-ISSN: 2320–7388, p- ISSN: 2320-737x",
+      "status_changed": "2022-08-29 03:04:48",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP8"
+      ],
+      "publication": "IOSR Journal of Research & Method in Education (IOSR-JRME)",
+      "dir": "disk0\/00\/04\/45\/29",
+      "volume": 12,
+      "date": "2022-01-14",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44529",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ]
+    },
+    {
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "volume": 5,
+      "abstract": "This study aims to describe the forms of code switching and code mixing in the YOWIS BEN film and several factors that influence the occurrence of code switching and code mixing. This research focuses on problems related to thephenomenon of code switching and code mixing along with the factors that influence the phenomenon. The research data was obtained by the technique of listening to record. The research data were analyzed using descriptive analysis techniques. The validity of data analysis is carried out by data reduction, data presentation, and data verification. The results showed that: 1. The form of code switching in the YOWIS BEN film includes code switching of relationships between languages, found Indonesian – bahasa Javanese, Javanese language – Indonesian. 2. The form of code mixing in the film YOWIS BEN seen in terms of syntax is found to\r\nbe a mixed form of code including the insertion of elements in the form of words, the insertion of elements in the form of phrases, the insertion of elements in the form of clauses. Factors of code switching and code mixing include (a) the relationship of the speaker with the speech partner, (b) the presence of a third party, (c) familiarity, (d) humorous elements.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47622",
+      "date": "2022-08-01",
+      "publication": "Budapest International Research and Critics Institute-Journal",
+      "publisher": "Budapest International Research and Critics University-Journal (BIRCU-Publisher)",
+      "divisions": [
+        "FKIP8"
+      ],
+      "dir": "disk0_bak\/00\/04\/76\/22",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/bircu-journal.com\/index.php\/birci\/issue\/view\/52"
+        }
+      ],
+      "status_changed": "2023-01-06 01:51:55",
+      "full_text_status": "public",
+      "issn": "2615-3076",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "eprintid": 47622,
+      "id_number": "https:\/\/doi.org\/10.33258\/birci.v5i3.6660",
+      "eprint_status": "archive",
+      "datestamp": "2023-01-06 01:51:55",
+      "pagerange": "26149-26161",
+      "metadata_visibility": "show",
+      "number": 3,
+      "userid": 709,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "content": "published",
+            "main": "(S-3) Code Switching and Mixing Codes on Yowis Ben Movie.pdf",
+            "files": [
+                {
+                  "mtime": "2023-01-05 14:56:16",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521810",
+                  "filename": "(S-3) Code Switching and Mixing Codes on Yowis Ben Movie.pdf",
+                  "objectid": 186688,
+                  "filesize": 857229,
+                  "hash": "44bff2550d769643c137b967d9f08273",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 521810
+                }
+            ],
+            "docid": 186688,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186688",
+            "security": "public",
+            "formatdesc": "Artikel",
+            "placement": 1,
+            "eprintid": 47622
+          },
+          {
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Uji Turnitin_Code Switching and Mixing Codes on Yowis Ben Movie Dialogues Bayu Skak's Work_  A Sociolinguistic Study.pdf",
+            "docid": 186689,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-05 14:56:41",
+                  "filesize": 2988572,
+                  "objectid": 186689,
+                  "filename": "Uji Turnitin_Code Switching and Mixing Codes on Yowis Ben Movie Dialogues Bayu Skak's Work_  A Sociolinguistic Study.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521812",
+                  "fileid": 521812,
+                  "datasetid": "document",
+                  "hash": "5f36b2c6d46f018a2b0aa0f9c780d80a",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "formatdesc": "Uji Turnitin",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186689",
+            "pos": 2,
+            "eprintid": 47622,
+            "placement": 2
+          }
+      ],
+      "official_url": "https:\/\/bircu-journal.com\/index.php\/birci\/issue\/view\/52",
+      "lastmod": "2023-01-06 01:51:55",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Kiki",
+            "honourific": null,
+            "family": "Kiki Nurjana",
+            "lineage": null
+          }
+        },
+        {
+          "id": "siti_samhati@yahoo.com",
+          "name": {
+            "given": "Siti Samhati",
+            "honourific": null,
+            "lineage": null,
+            "family": "Siti Samhati"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Nurlaksana eko",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurlaksana eko"
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "Code Switching and Mixing Codes on Yowis Ben Movie Dialogues Bayu Skak's Work:  A Sociolinguistic Study"
+    },
+    {
+      "publication": "IOSR Journal of Research & Method in Education (IOSR-JRME)",
+      "publisher": "International Organization of Scientific Research (IOSR)",
+      "dir": "disk0\/00\/04\/72\/18",
+      "divisions": [
+        "FKIP8"
+      ],
+      "related_url": [
+        {
+          "url": "HTTPS:\/\/www.iosrjournals.org"
+        }
+      ],
+      "status_changed": "2022-12-15 08:00:25",
+      "issn": "2320–7388",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "volume": 11,
+      "abstract": "One of the language skills is writing skills. Writing skills including skills that important to learn  even compared with the three other skills (Iskandar Wassid, 2011: 291). This is because the level of proficiency  in writing requires proficiency in other skills. In fact, this activity must always be faced, especially by academics  such as writing short stories, writing essays, writing articles, and others. The problem that is often raised in  teaching coral-writing is the inability of students or students to use good and correct Indonesian grammar. This  can be seen from the choice of words that are not appropriate, sentences that are less effective, it is difficult to  express ideas because of the difficulty in choosing words or making sentences, even the lack of ability to develop  ideas regularly and systematically, and spelling errors are often encountered.  \r\nBased on the results of a preliminary study conducted by the author through a questionnaire, it is known that  most students find it difficult to express and find ideas to be written. Students do not know how to start and  organize ideas that will be poured in their writings. Even 50% of students are not interested in writing short  stories, because writing is difficult. As many as 30% of students find it difficult to express ideas. As many as  20% of students write short stories because of assignments from the teacher. In addition, based on the results of  the interview, the students felt that learning to write short stories was still difficult. This is supported by the  results of daily tests related to short story writing material obtained by students, where there are still many  students who get scores below the minimum completion criteria.  \r\nMaterials and Methods: This research produced products in form of student worksheets in writing short stories  based on the Project Based Learning (PjBL) model and describe its feasibility. This study used Research and  Development (R & D). The research was through observation, interview, and questionnaire to three schools  SMAN 1 Bangun Rejo, MA Almakhtuziyah Kalidadi, and SMAN 1 Kalirejo of academic year 2019\/2020.  \r\nResults: The result showed that the developed student worksheetswas very feasible. It gained 92% from material  expert test, 85% from mediaexpert, 89% from practitioner expert. Value feasibility test by Indonesian teacher  class in SMAN 1 Bangun Rejo is 91%, MA Almakhtuziyah Kalidadi is 86%, and SMAN 1 Kalirejo is 88% in the  categorized as very feasible. The value trial on a small scalewas 83% categorized as very feasible meanwhile to  the largescale was 84% categorized as very feasible.  \r\nConclusion:The feasibility of teaching materials in the form of student worksheetsWriting short stories based on  the Project Based Learning model that has been developed meets the \"very feasible\" criteria. The assessment  was based on the assessment of one material expert, one media expert, one practitioner, three Indonesian  language teachers, and class XI high school students from each school who were the object of the experiment.  The following is the percentage of product eligibility.",
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47218",
+      "type": "article",
+      "creators": [
+        {
+          "id": "lilis.suryani@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Lilis",
+            "honourific": null,
+            "given": "Suryani"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Munaris",
+            "given": "Munaris"
+          },
+          "id": "munaris.1965@fkip.unila.ac.id"
+        },
+        {
+          "id": "mulyanto.widodo@fkip.unila.ac.id",
+          "name": {
+            "given": "widodo",
+            "family": "Mulyanto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "The Development of Student Worksheets in Writing Short Stories Based on Project Based Learning (Pjbl)for Class XI Students",
+      "eprint_status": "archive",
+      "eprintid": 47218,
+      "datestamp": "2022-12-15 08:00:25",
+      "pagerange": "14-26",
+      "metadata_visibility": "show",
+      "number": 5,
+      "userid": 77,
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "3349b2224aa9fbc1ddbb0fb29d387453",
+                  "datasetid": "document",
+                  "fileid": 518430,
+                  "mtime": "2022-12-14 09:28:12",
+                  "hash_type": "MD5",
+                  "filename": "5502.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/518430",
+                  "objectid": 186192,
+                  "filesize": 534843
+                }
+            ],
+            "main": "5502.pdf",
+            "docid": 186192,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 47218,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186192",
+            "security": "public"
+          }
+      ],
+      "official_url": "HTTPS:\/\/www.iosrjournals.org",
+      "lastmod": "2022-12-15 08:00:25"
+    },
+    {
+      "issn": "2746-1866",
+      "full_text_status": "public",
+      "status_changed": "2022-12-15 08:00:28",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.unismuh.ac.id\/index.php\/konfiks"
+        }
+      ],
+      "publisher": "Universitas Muhammadiyah Makasar",
+      "publication": "KONFIKS: Jurnal Bahasa, Sastra, dan Pengajarannya",
+      "divisions": [
+        "FKIP8"
+      ],
+      "dir": "disk0\/00\/04\/72\/19",
+      "abstract": "Penelitian ini bertujuan untuk mengetahui makna ikon, indeks, dan simbol berdasarkan pendekatan semiotika  Pierce yang terdapat dalam novel Suara Hati karya Mela Sukmawati. Pendekatan yang digunakan dalam penelitian  ini ialah pendekatan deskriptif kualitatif. Penelitian ini menggunakan data berupa kutipan dalam novel dan sumber  data berupa novel Suara Hati karya Mela Sukmawati. Penelitian ini menggunakan teknik pengumpulan data  dokumentasi. Penelitian ini menggunakan tiga tahap teknik analisis data antara lain (1) mereduksi data; (2)  menyajikan data; (3) penarikan simpulan dan verifikasi data. Penelitian ini menghasilkan: (1) Ikon menunjukkan  hubungan yang bersifat mirip yang ditunjukkan oleh restoran sebagai representamen dari tempat, ikon bulan  sebagai representamen dari latar waktu malam hari, dan ikon kampus sebagai representamen dari tempat; (2)  Indeks menunjukkan hubungan sebab-akibat yang terjadi antara keluarga Zi dan keluarga Bi Aini; (3) Simbol  menunjukkan kesepakatan (konvensi) dalam permasalahan keluarga Zi dan keluarga Bi Aini yang menyimbolkan  bahwa perjodohan sebagai penanda menjodohkan, simbol bill sebagai penanda tagihan, simbol map biru sebagai  penanda berkas laporan ayahnya Zi, simbol saksi bisu sebagai penanda saksi suatu kejadian atau peristiwa, simbol  map merah sebagai penanda surat warisan nenek Arta, simbol sahabat-sahabat kecilnya sebagai penanda benda langit, dan simbol mentari pagi sebagai penanda matahari.",
+      "volume": 9,
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47219",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Moulia",
+            "given": "Mahyu"
+          },
+          "id": "Moulia.mahyu@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Nurlaksana eko",
+            "family": "Nurlaksana eko",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nurlaksana.eko@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Munaris",
+            "honourific": null,
+            "given": "Munaris"
+          },
+          "id": "munaris.1965@fkip.unila.ac.id"
+        }
+      ],
+      "title": "DISORGANISASI KELUARGA DALAM NOVEL SUARA HATI KARYA MELA SUKMAWATI: SEMIOTIKA PIERCE",
+      "refereed": "TRUE",
+      "userid": 77,
+      "number": 1,
+      "lastmod": "2022-12-15 08:00:28",
+      "official_url": "https:\/\/journal.unismuh.ac.id\/index.php\/konfiks",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186193",
+            "pos": 1,
+            "eprintid": 47219,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 186193,
+            "main": "5505.pdf",
+            "files": [
+                {
+                  "objectid": 186193,
+                  "filesize": 224808,
+                  "filename": "5505.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/518436",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-14 09:43:49",
+                  "datasetid": "document",
+                  "fileid": 518436,
+                  "mime_type": "application\/pdf",
+                  "hash": "81c3e85a9b9da7d455a6be7f79ace5cd"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2022-12-15 08:00:28",
+      "eprint_status": "archive",
+      "eprintid": 47219,
+      "metadata_visibility": "show",
+      "pagerange": "36-45"
+    },
+    {
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Nurlaksana eko",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurlaksana eko"
+          }
+        },
+        {
+          "name": {
+            "given": "Farida",
+            "lineage": null,
+            "family": "Farida Ariyani",
+            "honourific": null
+          },
+          "id": "farida.ariyani@fkip.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "Linguistic Politeness in Indonesia: Refusal Strategies among School-Aged Children in the Indonesian Context",
+      "eprintid": 47173,
+      "id_number": "http:\/\/dx.doi.org\/10.1 8415\/ijmmu.v9i8.3904",
+      "eprint_status": "archive",
+      "datestamp": "2022-12-09 02:19:55",
+      "pagerange": "38-46",
+      "metadata_visibility": "show",
+      "number": 8,
+      "userid": 709,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186139",
+            "eprintid": 47173,
+            "placement": 1,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "main": "3904-12083-1-PB.pdf",
+            "docid": 186139,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "b10ca9c15dec2301566dc38f7bfe39f3",
+                  "fileid": 518055,
+                  "datasetid": "document",
+                  "filename": "3904-12083-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/518055",
+                  "objectid": 186139,
+                  "filesize": 874523,
+                  "mtime": "2022-12-08 14:47:25",
+                  "hash_type": "MD5"
+                }
+            ]
+          },
+          {
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186140",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 47173,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "image\/png",
+            "content": "coverimage",
+            "main": "Cover.png",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/518057",
+                  "filename": "Cover.png",
+                  "filesize": 98746,
+                  "objectid": 186140,
+                  "mtime": "2022-12-08 14:47:43",
+                  "hash_type": "MD5",
+                  "mime_type": "image\/png",
+                  "hash": "87c7fc0bdb61a4352e5705bb5d2aa056",
+                  "datasetid": "document",
+                  "fileid": 518057
+                }
+            ],
+            "docid": 186140,
+            "format": "image"
+          },
+          {
+            "eprintid": 47173,
+            "placement": 3,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186141",
+            "pos": 3,
+            "format": "text",
+            "docid": 186141,
+            "main": "Uji Turnitin_Linguistic Politeness in Indonesia_ Refusal Strategies among School-Aged Children in the Indonesian Context.pdf",
+            "files": [
+                {
+                  "filesize": 1793014,
+                  "objectid": 186141,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/518059",
+                  "filename": "Uji Turnitin_Linguistic Politeness in Indonesia_ Refusal Strategies among School-Aged Children in the Indonesian Context.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-08 14:48:03",
+                  "fileid": 518059,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "163e6de759457c3590d0786cf36cd82f"
+                }
+            ],
+            "content": "other",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/ article\/view\/3904\/3428",
+      "lastmod": "2022-12-09 02:19:55",
+      "publication": "International Journal of Multicultural and Multireligious Understanding",
+      "publisher": "International Journal of Multicultural and Multireligious Understanding",
+      "divisions": [
+        "FKIP8"
+      ],
+      "dir": "disk0\/00\/04\/71\/73",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/ article\/view\/3904\/3428"
+        }
+      ],
+      "status_changed": "2022-12-09 02:19:55",
+      "full_text_status": "public",
+      "issn": "2364-5369",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "volume": 9,
+      "abstract": "Literature asserts that when children attempt to master a language, they display characteristics that are distinct from those of adults. They develop structures, patterns, and rules of their own language in this way. Moreover, a number of experts have proposed that in speech acts, speakers do not always intend to achieve personal objectives, i.e. to obtain something, but also attempt to maintain good relations with their speech partner and ensure interactions run smoothly. According to our knowledge, this topic among\r\nschoolchildren has received less attention recently. In order to gain a deeper understanding of the politeness strategies employed by school-aged children when conveying specific refusals to their speech partners, it was necessary to conduct this current study on this phenomenon. This study adopted a qualitative methodology. Forty children between the ages of six and ten provided speech samples. Observation and field notes were utilized to collect the data. The collected data were subsequently analyzed using an interactive analysis model that included data collection, data presentation, data reduction, and conclusion drawing. The findings indicate that children use politeness strategies to avoid offending their speech partner, to avoid losing face, and to keep the conversation going. The current\r\nfindings also indicate that there are eight distinct categories of refusal strategies: (1) refusing by\r\nquestioning; (2) refusing by delaying; (3) refusing by requesting an apology; (4) refusing by offering an alternative task; (5) refusing by involving a third party (6) refusing by suggesting a replacement; (7)\r\nrefusing by stating conditional sentences; and (8) refusing by returning the command to the interlocutor. Also provided are implications and limitations for future research.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47173",
+      "date": "2022-06-01"
+    },
+    {
+      "abstract": "Tiga jenis pilihan bahasa dalam Sosiolinguistik, yakni alih kode, campur kode, dan variasi dalam bahasa yang sama. Satu di antaranya akan dibahas dalam penelitian ini, yakni campur kode. Campur kode (code mixing) ialah peristiwa penutur yang menyisipkan unsur-unsur bahasa lain berupa serpihan-serpihan (pieces) dari bahasa yang satu ke bahasa lain. Bandarlampung sebagai ibu kota Provinsi Lampung memiliki masyarakat tutur heterogen dengan berbagai keragaman bahasa daerah yang dibawanya. Hal ini dipengaruhi oleh letak Provinsi Lampung yang sangat strategis sebagai jalur keluar-masuk pulau Sumatra. Masyarakat tutur yang heterogen tersebut dapat menimbulkan berbagai macam pilihan bahasa pada saat berinteraksi dengan lawan tuturnya, seperti campur kode. Hasil penelitian ini sebagai berikut. Campur kode terjadi pada bahasa lisan pedagang pasar tradisional Bandarlampung akibat kemampuan berbahasa dan berkomunikasi penuturnya. Hal itu terjadi karena penutur telah terbiasa berbahasa campur guna memudahkan komunikasi penutur. Terdapat data campur kode berupa campur kode Bahasa Indonesia yang kedaerahan dan bahasa daerah yang keindonesiaan.",
+      "volume": 23,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48753",
+      "date": 2022,
+      "date_type": "published",
+      "subjects": [
+        "P1"
+      ],
+      "issn": "P-ISSN: 1411-2051 \/ E-ISSN: 2620-3928",
+      "full_text_status": "public",
+      "status_changed": "2023-03-06 01:56:48",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Fakultas Keguruan dan Ilmu Pendidikan, Universitas Lampung",
+      "divisions": [
+        "FKIP8"
+      ],
+      "publication": "AKSARA: Jurnal Bahasa dan Sastra",
+      "dir": "disk0_bak\/00\/04\/87\/53",
+      "userid": 500,
+      "number": 2,
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/aksara\/article\/view\/24479",
+      "lastmod": "2023-03-06 01:56:48",
+      "documents": [
+          {
+            "security": "public",
+            "formatdesc": "Article",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188129",
+            "pos": 1,
+            "eprintid": 48753,
+            "placement": 1,
+            "content": "published",
+            "language": "id",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "24479-65799-1-PB.pdf",
+            "docid": 188129,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "0c248dbd88f9959a748c4d15c9215995",
+                  "fileid": 531100,
+                  "datasetid": "document",
+                  "filename": "24479-65799-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531100",
+                  "filesize": 533693,
+                  "objectid": 188129,
+                  "mtime": "2023-03-05 05:20:36",
+                  "hash_type": "MD5"
+                }
+            ]
+          },
+          {
+            "content": "other",
+            "language": "id",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 188130,
+            "main": "Campur kode pada bahasa lisan pedagang pasar tradisional di Bandarlampung.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 531102,
+                  "mime_type": "application\/pdf",
+                  "hash": "2bf1f5bcb54aa38c04dbdcc875e8c8d0",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-05 05:27:32",
+                  "filesize": 1985543,
+                  "objectid": 188130,
+                  "filename": "Campur kode pada bahasa lisan pedagang pasar tradisional di Bandarlampung.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531102"
+                }
+            ],
+            "formatdesc": "Similarity Report",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188130",
+            "pos": 2,
+            "eprintid": 48753,
+            "placement": 2
+          }
+      ],
+      "datestamp": "2023-03-06 01:56:48",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/aksara\/v23i2.pp251-260",
+      "eprintid": 48753,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "251-260",
+      "type": "article",
+      "creators": [
+        {
+          "id": "yulinadarwin@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rahma",
+            "given": "Yulina Winda"
+          }
+        },
+        {
+          "id": "doktor_edy@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Suyanto",
+            "lineage": null,
+            "given": "Edi"
+          }
+        },
+        {
+          "id": "farida.ariyani@fkip.unila.ac.id",
+          "name": {
+            "family": "Ariyani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Farida"
+          }
+        }
+      ],
+      "title": "Campur kode pada bahasa lisan pedagang pasar tradisional di Bandarlampung",
+      "refereed": "FALSE"
+    },
+    {
+      "divisions": [
+        "FKIP8"
+      ],
+      "publisher": "IJMMU",
+      "publication": "International Journal of Multicultural and Multireligious Understanding (IJMMU)",
+      "dir": "disk0_bak\/00\/04\/87\/57",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "issn": "2364-5369",
+      "full_text_status": "public",
+      "status_changed": "2023-03-06 01:56:54",
+      "date_type": "published",
+      "subjects": [
+        "PN"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48757",
+      "date": "2022-07",
+      "abstract": "The purpose of this study is to describe the social conflicts and moral values contained in the Novel Si Anak Badai by Tere Liye. This research is a qualitative research using a sociology of literature approach. This research is to describe the social conflict and moral values in the Novel Si Anak Badai by Tere Liye. The results of the discussion in this study are obtained facts related to social conflicts, namely coercion, data lies, and slander. While the moral values contained in the Novel Si Anak Badai by Tere Liye include: filial piety to parents, responsibility, forgiveness, mutual cooperation, the importance of education, friendship, honesty, self- confidence, facing strength with gentleness and others.",
+      "volume": 9,
+      "title": "Social Conflict and Moral Values of Novel Si Anak Badai by Tere Liye the Study of Literature Sociology",
+      "refereed": "FALSE",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Lela",
+            "family": "Suri",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Suyanto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Edi"
+          },
+          "id": null
+        },
+        {
+          "id": "farida.ariyani@fkip.unila.ac.id",
+          "name": {
+            "family": "Ariyani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Farida"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "33-38",
+      "datestamp": "2023-03-06 01:56:54",
+      "id_number": "http:\/\/dx.doi.org\/10.18415\/ijmmu.v9i7.3841",
+      "eprint_status": "archive",
+      "eprintid": 48757,
+      "lastmod": "2023-03-06 01:56:54",
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/article\/view\/3841\/3381",
+      "documents": [
+          {
+            "eprintid": 48757,
+            "placement": 1,
+            "formatdesc": "Article",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188137",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531145",
+                  "filename": "3841-11866-1-PB.pdf",
+                  "filesize": 632568,
+                  "objectid": 188137,
+                  "mtime": "2023-03-05 10:12:28",
+                  "hash_type": "MD5",
+                  "hash": "0386609153ee7ee09f8faeabbfb99adc",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 531145
+                }
+            ],
+            "main": "3841-11866-1-PB.pdf",
+            "docid": 188137,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2
+          },
+          {
+            "security": "public",
+            "formatdesc": "Similarity Report",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188139",
+            "eprintid": 48757,
+            "placement": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "format": "text",
+            "docid": 188139,
+            "main": "Social Conflict and Moral Values of Novel Si Anak Badai by Tere Liye The Study of Literature Sociology.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 531150,
+                  "mime_type": "application\/pdf",
+                  "hash": "3294236305937df750fb4493f0ff9893",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-05 10:12:57",
+                  "objectid": 188139,
+                  "filesize": 1295653,
+                  "filename": "Social Conflict and Moral Values of Novel Si Anak Badai by Tere Liye The Study of Literature Sociology.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531150"
+                }
+            ]
+          }
+      ],
+      "userid": 500,
+      "number": 7
+    },
+    {
+      "abstract": "This research study aims to determine the vocabulary input of foreign students in the basic level BIPA (Indonesian for Foreign Speakers) class. Many experts state that the frequent repetition of a word will make it easier for foreign students to memorize and rephrase it, both orally and in writing. This study uses a qualitative descriptive with a corpus study. AntConc software is very helpful in the process of collecting research data. There are three things that can be obtained from this research. First, the types of words in the BIPA Book 1 are 1,559 words with 9,456 tokens and 1,264 words in the BIPA 2 Book with 7,073 tokens. Second, the percentage of word types is divided into low frequency words with 70.88% in BIPA Book 1 and 69.78% in BIPA Book 2. Medium frequency words with 12.77% in BIPA Book 1 and 13.93% in BIPA 2 Book High frequency words with 16.36% in BIPA Book 1 and 16.30% in BIPA Book 2. Third, the types of words that enter into low frequency words have a high percentage. This makes it difficult for students to remember a word for a long time due to the lack of repetition of words.",
+      "volume": 6,
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48825",
+      "date_type": "published",
+      "subjects": [
+        "P1"
+      ],
+      "issn": "2717-7564",
+      "full_text_status": "public",
+      "status_changed": "2023-03-07 02:26:20",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Society of Psychology and Education",
+      "divisions": [
+        "FKIP8"
+      ],
+      "publication": "Journal of Positive School Psychology",
+      "dir": "disk0_bak\/00\/04\/88\/25",
+      "userid": 727,
+      "number": 8,
+      "lastmod": "2023-03-07 02:26:20",
+      "official_url": "https:\/\/journalppw.com\/index.php\/jpsp\/article\/view\/10101",
+      "documents": [
+          {
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "main": "document.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "2ed41d1e248058e29efc85668c3ca825",
+                  "datasetid": "document",
+                  "fileid": 531685,
+                  "mtime": "2023-03-07 01:54:00",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531685",
+                  "filename": "document.pdf",
+                  "filesize": 436113,
+                  "objectid": 188251
+                }
+            ],
+            "docid": 188251,
+            "security": "public",
+            "formatdesc": "Article",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188251",
+            "pos": 1,
+            "eprintid": 48825,
+            "placement": 1
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "format": "text",
+            "main": "Scrutinizing Vocabulary Input In The Basic Class Of Indonesian Language For Foreign Learners_ A Corpus Study.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-07 01:54:07",
+                  "filesize": 2380768,
+                  "objectid": 188252,
+                  "filename": "Scrutinizing Vocabulary Input In The Basic Class Of Indonesian Language For Foreign Learners_ A Corpus Study.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531687",
+                  "fileid": 531687,
+                  "datasetid": "document",
+                  "hash": "74c1c927ce6a4fafbcf14444bed989c1",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 188252,
+            "security": "public",
+            "formatdesc": "Similarity Report",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188252",
+            "pos": 2,
+            "eprintid": 48825,
+            "placement": 2
+          }
+      ],
+      "datestamp": "2023-03-07 02:26:20",
+      "eprintid": 48825,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1993-2001",
+      "type": "article",
+      "creators": [
+        {
+          "id": "mulyanto.widodo@gmail.com",
+          "name": {
+            "family": "Widodo",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mulyanto"
+          }
+        },
+        {
+          "name": {
+            "given": "Destiani",
+            "lineage": null,
+            "family": "Destiani",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rudy",
+            "given": "Muhammad"
+          }
+        }
+      ],
+      "title": "Scrutinizing Vocabulary Input In The Basic Class Of Indonesian Language For Foreign Learners: A Corpus Study",
+      "refereed": "FALSE"
+    },
+    {
+      "pagerange": "166-170",
+      "metadata_visibility": "show",
+      "eprintid": 48824,
+      "id_number": "https:\/\/doi.org\/10.53402\/ijesss.v2i3.106",
+      "eprint_status": "archive",
+      "datestamp": "2023-03-07 02:26:16",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188249",
+            "formatdesc": "Article",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48824,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "content": "published",
+            "main": "106-Article Text-895-748-10-20220828.pdf",
+            "docid": 188249,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 531678,
+                  "mime_type": "application\/pdf",
+                  "hash": "6774453d117b8655450729271dfa4235",
+                  "objectid": 188249,
+                  "filesize": 252961,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531678",
+                  "filename": "106-Article Text-895-748-10-20220828.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-07 01:50:32"
+                }
+            ],
+            "format": "text"
+          },
+          {
+            "security": "public",
+            "formatdesc": "Similarity Report",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188250",
+            "eprintid": 48824,
+            "placement": 2,
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Speech acts among young children_ How does a young child use direct and indirect speech_.pdf",
+            "docid": 188250,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 531680,
+                  "hash": "23af36679c11183b5e915bf05df1cdbb",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-07 01:50:48",
+                  "objectid": 188250,
+                  "filesize": 949328,
+                  "filename": "Speech acts among young children_ How does a young child use direct and indirect speech_.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531680"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2023-03-07 02:26:16",
+      "official_url": "https:\/\/lighthouse-pub.com\/ijesss\/article\/view\/106",
+      "number": 3,
+      "userid": 727,
+      "refereed": "FALSE",
+      "title": "Speech acts among young children: How does a young child use direct and indirect speech?",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Widodo",
+            "given": "Mulyanto"
+          },
+          "id": "mulyantowidodo@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "MSK",
+            "given": "Aji Marhaban Bidzikrillah"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "P1"
+      ],
+      "date_type": "published",
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48824",
+      "volume": 2,
+      "abstract": "This study aimed to compare direct and indirect speech acts among young toddlers using various speech situations. This study's main subject was a conversational interaction made by a four-year-old child. The data for this qualitative study were collected through non-participant observations and a recording device to record what the participant said. The findings indicate that the participant's speech acts, whether direct or indirect, were converted into direct speech that was justified and straightforward speech that was on point, whereas indirect speech was gained through praise, sarcasm, and complaints. Future research directions are also highlighted.",
+      "publisher": "Lighthouse Publishing",
+      "divisions": [
+        "FKIP8"
+      ],
+      "publication": "International Journal of Educational Studies in Social Sciences",
+      "dir": "disk0_bak\/00\/04\/88\/24",
+      "ispublished": "pub",
+      "rev_number": 13,
+      "status_changed": "2023-03-07 02:26:16",
+      "issn": "2797-636X",
+      "full_text_status": "public"
+    },
+    {
+      "full_text_status": "public",
+      "issn": "2086-0609",
+      "status_changed": "2022-12-29 02:29:06",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.uniku.ac.id\/index.php\/FON\/article\/view\/5720\/pdf",
+          "type": "pub"
+        }
+      ],
+      "publisher": "Program Studi Pendidikan Bahasa dan Sastra Indonesia Universitas Kuningan",
+      "publication": "Fon: Jurnal Pendidikan Bahasa dan Sastra Indonesia",
+      "divisions": [
+        "FKIP8"
+      ],
+      "dir": "disk0_bak\/00\/04\/75\/24",
+      "abstract": "Bahasa sebagai alat komunikasi selalu digunakan manusia dalam setiap aktivitas sosialnya. Dalam proses berkomunikasi tersebut, seseorang cenderung akan menghadapi kendala-kendala yang menyebabkan komunikasi tidak berjalan sesuai dengan yang diharapkan Untuk menghilangkan kendala dalam komunikasi tersebut, penutur dan mitra tutur dituntut untuk menyadari bahwa ada kaidah-kaidah kebahasaan yang harus ditaatinya. Penelitian ini bertujuan mendeskripsikan pematuhan dan pelanggaran prinsip kerja sama dalam wacana komunikasi keluarga Jawa di Kelurahan Kediri. Metode yang\r\ndigunakan dalam penelitian ini adalah metode kualitatif yang bersifat deskriptif. Data penelitian berwujud tuturan percakapan di lingkungan keluarga Jawa. Data penelitian dikumpulkan melalui teknik simakrekam-catat. Data yang terkumpul selanjutnya dianalisis secara deskriptif menggunakan teknik interaktif. Hasil penelitian menunjukkan bahwa dalam wacana komunikasi keluarga umumnya selalu mematuhi prinsip kerja sama. Pelanggaran terhadap prinsip kerja sama juga ditemukan dalam wacana komunikasi keluarga tapi tidak mendominasi. Pelanggaran terhadap prinsip kerja sama adakalanya dilakukan secara sengaja untuk mencapai tujuan-tujuan lain dalam konteks yang lebih luas.",
+      "volume": 18,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47524",
+      "date": "2022-10-30",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yerli Agilia Putri",
+            "given": "Yerli"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Nurlaksana eko",
+            "lineage": null,
+            "family": "Nurlaksana eko",
+            "honourific": null
+          }
+        },
+        {
+          "id": "gragemarti@yahoo.co.id",
+          "name": {
+            "given": "Sumarti",
+            "lineage": null,
+            "family": "Sumarti",
+            "honourific": null
+          }
+        },
+        {
+          "id": "siti_samhati@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Siti Samhati",
+            "honourific": null,
+            "given": "Siti Samhati"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "PRINSIP KERJA SAMA DALAM WACANA KOMUNIKASI KELUARGA JAWA DI KELURAHAN KEDIRI",
+      "refereed": "FALSE",
+      "userid": 709,
+      "number": 2,
+      "official_url": "https:\/\/journal.uniku.ac.id\/index.php\/FON\/article\/view\/5720\/pdf",
+      "lastmod": "2022-12-29 02:29:06",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 521011,
+                  "hash": "505c5548bc2d3ee9b02816644b7741ae",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-29 01:52:21",
+                  "objectid": 186583,
+                  "filesize": 332514,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521011",
+                  "filename": "(S-3) PRINSIP KERJA SAMA DALAM WACANA KOMUNIKASI.pdf"
+                }
+            ],
+            "main": "(S-3) PRINSIP KERJA SAMA DALAM WACANA KOMUNIKASI.pdf",
+            "docid": 186583,
+            "format": "text",
+            "language": "id",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "placement": 1,
+            "eprintid": 47524,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186583",
+            "security": "public",
+            "formatdesc": "Artikel"
+          },
+          {
+            "eprintid": 47524,
+            "placement": 2,
+            "security": "public",
+            "formatdesc": "Uji Turnitin",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186584",
+            "format": "text",
+            "files": [
+                {
+                  "filename": "Uji Turnitin_PRINSIP KERJA SAMA DALAM WACANA KOMUNIKASI KELUARGA JAWA DI KELURAHAN KEDIRI.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521013",
+                  "filesize": 2759528,
+                  "objectid": 186584,
+                  "mtime": "2022-12-29 01:52:59",
+                  "hash_type": "MD5",
+                  "hash": "bd3263522dd3be278b7857c075dc8d3d",
+                  "mime_type": "application\/pdf",
+                  "fileid": 521013,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Uji Turnitin_PRINSIP KERJA SAMA DALAM WACANA KOMUNIKASI KELUARGA JAWA DI KELURAHAN KEDIRI.pdf",
+            "docid": 186584,
+            "language": "id",
+            "rev_number": 2,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2022-12-29 02:29:06",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.25134\/fon.v18i2.5720",
+      "eprintid": 47524,
+      "metadata_visibility": "show",
+      "pagerange": "284-293"
+    }
+]
+

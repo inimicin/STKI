@@ -1,0 +1,1146 @@
+[
+    {
+      "eprintid": 43668,
+      "eprint_status": "archive",
+      "datestamp": "2022-07-28 09:10:07",
+      "metadata_visibility": "show",
+      "userid": 703,
+      "documents": [
+          {
+            "format": "text",
+            "docid": 165603,
+            "main": "Prosiding.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 476168,
+                  "mime_type": "application\/pdf",
+                  "hash": "10c08a77d763f62cce1d3ddf19578555",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-28 04:00:14",
+                  "filesize": 263065,
+                  "objectid": 165603,
+                  "filename": "Prosiding.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/476168"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 43668,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165603",
+            "pos": 1
+          }
+      ],
+      "official_url": "https:\/\/eudl.eu\/pdf\/10.4108\/eai.19-12-2020.2309128",
+      "lastmod": "2022-07-28 09:10:07",
+      "creators": [
+        {
+          "name": {
+            "given": "yulianti",
+            "honourific": null,
+            "family": "Eka",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sutyarso",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutyarso"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hendri",
+            "lineage": null,
+            "given": "Busman"
+          },
+          "id": "hendri.busman@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nuning",
+            "given": "Nurcahyani"
+          },
+          "id": "uya.jujun@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sri Wahyuningsih",
+            "lineage": null,
+            "given": "Wahyu"
+          },
+          "id": "mailto:wahyu6125@yahoo.co.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Extract of Bitter Melon (Momordica Charantia L.) as a Cytotoxic and Anti Proliferaton Agent for Cells WiDr (Colon Cancer)",
+      "subjects": [
+        "Q1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43668",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "publication": "Proceedings of The 6th Asia-Pacific Education And Science Conference",
+      "dir": "disk0\/00\/04\/36\/68",
+      "status_changed": "2022-07-28 09:10:07",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "ispublished": "pub"
+    },
+    {
+      "related_url": [
+        {
+          "url": "http:\/\/jurnalbiologi.fmipa.unila.ac.id\/index.php\/jbekh"
+        }
+      ],
+      "publisher": "Universitas Lampung",
+      "publication": "Jurnal Ilmiah Biologi Eksperimen dan Keanekaragaman Hayati (J-BEKH)",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "dir": "disk0\/00\/03\/93\/52",
+      "issn": "ISSN 2338-4344 eISSN 2686-200X",
+      "full_text_status": "public",
+      "status_changed": "2022-02-16 01:17:06",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "subjects": [
+        "Q1",
+        "QK",
+        "QR"
+      ],
+      "abstract": "Liwa Botanical Gardens is an ex-situ conservation area for various types of plants. Each plant\r\nproduces organic matter that will provide nutrients for the growth of nitrogen-fixing bacteria.\r\nThis indicates the existence of an environment that supports the growth of nitrogen-fixing\r\nbacteria. Nitrogen is one of the nutrients needed by plants for their growth. However, the\r\nabundance of nitrogen in the atmosphere cannot be utilized directly by plants but needs to\r\ntransform into ammonium and nitrate first. This transformation can be done by nitrogen-fixing\r\nbacteria through an enzymatic process. This research aims to obtain bacterial isolates that\r\ncan fix nitrogen. Nitrogen-fixing bacteria were isolated using Nutrient Agar (NA) medium and\r\nfurthered by nitrogenase activity detection test with semi-solid Nitrogen Free Bromothymol\r\nBlue (NFB). Nitrogen-fixing bacteria are characterized by color changes in the medium. The\r\nresults obtained 22 isolates with 3 isolates detected capable of producing nitrogenase\r\nenzymes, namely TBP B3, TB1 B2, and TMA2 B2.\r\n\r\nKeywords: KRL, NFB, Nitrogen, Nitrogenase.",
+      "volume": 8,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39352",
+      "creators": [
+        {
+          "name": {
+            "given": "Christina Nugroho",
+            "honourific": null,
+            "family": "Ekowati",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "MIca",
+            "lineage": null,
+            "family": "Mirani",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Handayani",
+            "given": "Kusuma"
+          },
+          "id": "kusumahandayani@yahoo.co.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Agustrina",
+            "lineage": null,
+            "given": "Rochmah"
+          },
+          "id": "rochmah.agustrina@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "DETECTION OF NITROGENASE PRODUCING BACTERIA FRO\r\nTHE SOIL OF LIWA BOTANICAL GARDEN",
+      "refereed": "TRUE",
+      "datestamp": "2022-02-16 01:17:06",
+      "eprint_status": "archive",
+      "eprintid": 39352,
+      "metadata_visibility": "show",
+      "pagerange": "53-58",
+      "userid": 737,
+      "number": 2,
+      "lastmod": "2022-02-16 01:17:06",
+      "official_url": "http:\/\/jurnalbiologi.fmipa.unila.ac.id\/index.php\/jbekh",
+      "documents": [
+          {
+            "eprintid": 39352,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/160636",
+            "pos": 1,
+            "format": "text",
+            "docid": 160636,
+            "main": "2021_(JBEKH-2 DES) -DETECTION OF NITROGENASE PRODUCING BACTERIA FROM.pdf",
+            "files": [
+                {
+                  "mtime": "2022-02-15 21:10:04",
+                  "hash_type": "MD5",
+                  "filename": "2021_(JBEKH-2 DES) -DETECTION OF NITROGENASE PRODUCING BACTERIA FROM.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/442643",
+                  "filesize": 211896,
+                  "objectid": 160636,
+                  "mime_type": "application\/pdf",
+                  "hash": "b8beb5a71fe08dbad13eaf328499fb8e",
+                  "fileid": 442643,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "userid": 703,
+      "lastmod": "2022-10-06 09:41:50",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Bukti Korespondensi Jurnal - Turmeric Rhizome’s Extract Reduce Epithelium Cells and.pdf",
+            "files": [
+                {
+                  "hash": "972f56fb9fbcc76f7c553f8254b67880",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 505803,
+                  "mtime": "2022-10-06 07:41:20",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/505803",
+                  "filename": "Bukti Korespondensi Jurnal - Turmeric Rhizome’s Extract Reduce Epithelium Cells and.pdf",
+                  "objectid": 184341,
+                  "filesize": 2085685
+                }
+            ],
+            "docid": 184341,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184341",
+            "eprintid": 45561,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2022-10-06 09:41:50",
+      "eprintid": 45561,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hendri",
+            "honourific": null,
+            "given": "Busman"
+          },
+          "id": "hendri.busman@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "Bukti Korespondensi Jurnal :Turmeric Rhizome’s Extract Reduce Epithelium Cells and Endometrium Layer Thickness of Female Rats",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45561",
+      "subjects": [
+        "Q1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-10-06 09:41:50",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "publisher": "-",
+      "dir": "disk0\/00\/04\/55\/61"
+    },
+    {
+      "title": "Bukti Korespondesi Jurnal : Essential oil extracted from plant tuber of nutgrass “Cyperus rotundus” effectively decreased sperm quality of mice",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hendri",
+            "given": "Busman"
+          },
+          "id": "hendri.busman@fmipa.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184340",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45560,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Korespondensi Japer.pdf",
+            "docid": 184340,
+            "files": [
+                {
+                  "mtime": "2022-10-06 07:18:18",
+                  "hash_type": "MD5",
+                  "filename": "Korespondensi Japer.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/505796",
+                  "filesize": 895699,
+                  "objectid": 184340,
+                  "hash": "fc8cb44bb07ccdfe30e99f02dbf5daba",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 505796
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2022-10-06 09:41:48",
+      "userid": 703,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 45560,
+      "datestamp": "2022-10-06 09:41:48",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2022-10-06 09:41:48",
+      "full_text_status": "public",
+      "publisher": "JAPER",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "dir": "disk0\/00\/04\/55\/60",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45560",
+      "subjects": [
+        "Q1"
+      ]
+    },
+    {
+      "subjects": [
+        "Q1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45584",
+      "dir": "disk0\/00\/04\/55\/84",
+      "publisher": "Oriental Scientific Publishing Company",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "status_changed": "2022-10-07 02:04:31",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "eprintid": 45584,
+      "datestamp": "2022-10-07 02:04:31",
+      "metadata_visibility": "show",
+      "userid": 703,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/505964",
+                  "filename": "Turmeric Rhizome’s Extract Reduce Epithelium Cells and.pdf.pdf",
+                  "objectid": 184364,
+                  "filesize": 996588,
+                  "mtime": "2022-10-07 01:57:42",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "73e219603af3652e5e22e7cea274af58",
+                  "datasetid": "document",
+                  "fileid": 505964
+                }
+            ],
+            "main": "Turmeric Rhizome’s Extract Reduce Epithelium Cells and.pdf.pdf",
+            "docid": 184364,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184364",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45584
+          }
+      ],
+      "lastmod": "2022-10-07 02:04:31",
+      "creators": [
+        {
+          "id": "hendri.busman@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Hendri",
+            "honourific": null,
+            "given": "Busman"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Similarity Check Result Jurnal : Turmeric Rhizome’s Extract Reduce Epithelium Cells and Endometrium Layer Thickness of Female Rats"
+    },
+    {
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Jurnal sinta 4 Indri-des 2020.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "a6461ea4ed2b2450e24a7b809612d230",
+                  "datasetid": "document",
+                  "fileid": 231242,
+                  "filename": "Jurnal sinta 4 Indri-des 2020.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/231242",
+                  "objectid": 39466,
+                  "filesize": 362076,
+                  "mtime": "2020-11-17 01:05:57",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 39466,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39466",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 25674
+          }
+      ],
+      "lastmod": "2020-11-17 01:13:41",
+      "userid": 703,
+      "metadata_visibility": "show",
+      "eprintid": 25674,
+      "eprint_status": "archive",
+      "datestamp": "2020-11-17 01:13:41",
+      "refereed": "TRUE",
+      "title": "Penurunan Kualitas dan Kuantitas Spermatozoa Mencit (Mus musculus L.)Setelah Pemberian Ekstrak Rimpang Rumput Teki ( Cyperus rotundus L.)",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Indriyani",
+            "lineage": null,
+            "given": "Indriyani"
+          }
+        },
+        {
+          "name": {
+            "given": "Hendri",
+            "honourific": null,
+            "family": "Busman",
+            "lineage": null
+          },
+          "id": "hendri_busman@yahoo.com"
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25674",
+      "abstract": "The limited choice of male contraceptives is the cause of the lack of participation of men in the family planning\r\nprogram. The use of medicinal plants is an ideal alternative for male contraception. This study aim to determine the effect of nut grass rhizome (Cyperus rotundus L.) on the quality and quantity of spermatozoa in mice (Mus musculus L.). Twenty male mice were divided into four treatment groups, namely control (C0), nut grass rhizome extract at a dose of 4.5 mg\/40 g BW (C1), nut grass rhizome extract at a dose of 45 mg\/40 g BW (C2), nut grass rhizome extract with a dose of 135 mg\/40 g BW (C3). every day for 35 days. The parameters measured\r\nwere the motility, viability, morphology, and concentration of spermatozoa. The data were analyzed by means of an variance analisys and then further tested using the LSD test at a significant level of 5%. The results of the analysis showed that giving nut grass rhizome extract had a significant effect on the motility, viability, morphology, and concentration of spermatozoa. It can be concluded that the extract of nut grass rhizome can be used as an alternative for male contraception because it can reduce motility, viability, morphology, and spermatozoa concentration. \r\n\r\nKeywords: Cyperus rotundus L., contraceptives, quality and quantity of spermatozoa.",
+      "subjects": [
+        "QL"
+      ],
+      "rev_number": 6,
+      "ispublished": "submitted",
+      "status_changed": "2020-11-17 01:13:41",
+      "full_text_status": "public",
+      "publisher": "UIN Walisongo Semarang",
+      "publication": "Al-Hayat: Journal of Biology and Applied Biology",
+      "dir": "disk0\/00\/02\/56\/74",
+      "divisions": [
+        "FMIPA5"
+      ]
+    },
+    {
+      "date_type": "submitted",
+      "subjects": [
+        "QK"
+      ],
+      "abstract": "Nature orchid are one of original floral in Indonesia. Virus infection is  one of the limiting factor in the cultivation of orchid. Infection Odontoglossum ringspot virus (ORSV) was reported infets native orchids collection in Indonesia. The purpose of  this study was to identification and ORSV that infects native orchid nurserys collection in Java, Indonesia. Symptomatic samples were collected from 5 nurserys collections, i.e. Rumah Bunga Rizal (Bandung), Bali Tanaman Hias (Cianjur), Borobudur Orchids Center (Magelang), Kebun Anggrek Bungarinte (Yogyakarta), and Titi Orchids (Yogyakarta). Detection and identification was conducted by serological test using ORSV specific antisera, RT-PCR and DNA sequencing. The serological test using ORSV antisera showed that 3 of 11 sampels reacted positively against ORSV antiserum i.e Phalaenopsis amabilis (Cianjur.1, Cianjur.2, and Magelang). RT-PCR of the 3 samples using specific primer of ORSV coat protein (CP) gene amplified a DNA with size ± 474 bp. Homology analysis of those 3 Indonesian isolates showed highest index similiarity (IS) was 99.8% with corresponding sequences from 10 other ORSV isolates. Phylogenetic analysis showed that ORSV Cianjur.1 and Cianjur.2 isolates clustered in separated group far from ORSV isolates in other countries.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14791",
+      "publisher": "Malaysian Society for Microbiology",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "publication": "MALAYSIAN JOURNAL OF MICROBIOLOGY",
+      "dir": "disk0\/00\/01\/47\/91",
+      "full_text_status": "public",
+      "issn": "2231-7538",
+      "status_changed": "2019-11-04 03:39:33",
+      "ispublished": "submitted",
+      "rev_number": 6,
+      "datestamp": "2019-11-04 03:39:33",
+      "eprint_status": "archive",
+      "eprintid": 14791,
+      "metadata_visibility": "show",
+      "userid": 1126,
+      "lastmod": "2019-11-04 03:39:33",
+      "official_url": "https:\/\/mjm.usm.my\/",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27916",
+            "eprintid": 14791,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/msword",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Manuscript MJM.doc",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 127888,
+                  "mime_type": "application\/msword",
+                  "hash": "aa29dc15980fefd6b87c729bc6d24afd",
+                  "hash_type": "MD5",
+                  "mtime": "2019-10-30 14:31:09",
+                  "objectid": 27916,
+                  "filesize": 553984,
+                  "filename": "Manuscript MJM.doc",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/127888"
+                }
+            ],
+            "docid": 27916
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Mahfut",
+            "honourific": null,
+            "given": "Mahfut"
+          },
+          "id": "mahfut.mipa@fmipa.unila.ac.id"
+        },
+        {
+          "id": "bs_daryono@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Daryono",
+            "honourific": null,
+            "given": "Budi Setiadi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Indrianto",
+            "lineage": null,
+            "given": "Ari"
+          },
+          "id": "ariindri@ugm.ac.id"
+        },
+        {
+          "id": "soesamto@faperta.ugm.ac.id",
+          "name": {
+            "given": "Susamto",
+            "honourific": null,
+            "family": "Somowiyarjo",
+            "lineage": null
+          }
+        }
+      ],
+      "title": "MOLECULAR PHYLOGENY OF ORCHIDS MYCORRHIZA ISOLATED FROM NATIVE TROPICAL ORCHIDS IN INDONESIA",
+      "refereed": "TRUE"
+    },
+    {
+      "datestamp": "2023-03-31 00:49:44",
+      "eprintid": 49469,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 1199,
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/iicis-21\/125965484",
+      "lastmod": "2023-03-31 00:49:44",
+      "documents": [
+          {
+            "formatdesc": "Artikel",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189073",
+            "pos": 1,
+            "eprintid": 49469,
+            "placement": 1,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 3,
+            "format": "text",
+            "main": "conference_paper-2021-mm_gd_et_al-the_urgency_of_virtual_tour_for_sumatran_butterfly_conservation.pdf",
+            "docid": 189073,
+            "files": [
+                {
+                  "mtime": "2022-02-04 16:50:50",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536738",
+                  "filename": "conference_paper-2021-mm_gd_et_al-the_urgency_of_virtual_tour_for_sumatran_butterfly_conservation.pdf",
+                  "filesize": 640622,
+                  "objectid": 189073,
+                  "hash": "bdf2596fa48ddfc9099365429e32cdf2",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 536738
+                }
+            ]
+          },
+          {
+            "formatdesc": "Korespondensi M2",
+            "security": "public",
+            "pos": 4,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189076",
+            "eprintid": 49469,
+            "placement": 4,
+            "content": "other",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "main": "meizano-korespondensi-The Urgency of Virtual Tour for Sumatran Butterfly Conservation.pdf",
+            "docid": 189076,
+            "files": [
+                {
+                  "mtime": "2023-03-30 18:19:15",
+                  "hash_type": "MD5",
+                  "filename": "meizano-korespondensi-The Urgency of Virtual Tour for Sumatran Butterfly Conservation.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536744",
+                  "objectid": 189076,
+                  "filesize": 93174,
+                  "hash": "3dc06d6ae441f224d8b7c0de26c3c1ba",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536744,
+                  "datasetid": "document"
+                }
+            ]
+          },
+          {
+            "format": "text",
+            "main": "martinus-korespondensi-The Urgency of Virtual Tour for Sumatran.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 536749,
+                  "mime_type": "application\/pdf",
+                  "hash": "f0b178bbf48e6b115291d8e984e36816",
+                  "objectid": 189077,
+                  "filesize": 92768,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536749",
+                  "filename": "martinus-korespondensi-The Urgency of Virtual Tour for Sumatran.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 18:23:05"
+                }
+            ],
+            "docid": 189077,
+            "content": "other",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "eprintid": 49469,
+            "placement": 5,
+            "security": "public",
+            "formatdesc": "Korespondensi M1",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189077",
+            "pos": 5
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "content": "other",
+            "docid": 189078,
+            "main": "meizano+martinus-gita-conference_paper-2021-the_urgency_of_virtual_tour_for_sumatran_butterfly_conse.pdf",
+            "files": [
+                {
+                  "mtime": "2023-03-30 18:24:00",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536753",
+                  "filename": "meizano+martinus-gita-conference_paper-2021-the_urgency_of_virtual_tour_for_sumatran_butterfly_conse.pdf",
+                  "filesize": 626339,
+                  "objectid": 189078,
+                  "hash": "684922f906047e8bd6bdff5693a8dbd7",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536753,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 6,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189078",
+            "security": "public",
+            "formatdesc": "similiarity",
+            "placement": 6,
+            "eprintid": 49469
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Muhammad"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Martinus"
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Djausal",
+            "honourific": null,
+            "given": "Gita Paramita"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ferbangkara",
+            "honourific": null,
+            "given": "Sony"
+          },
+          "id": "sony@staff.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Alia",
+            "lineage": null,
+            "family": "Larasati",
+            "honourific": null
+          },
+          "id": "alialarasati@gmail.com"
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "title": "The Urgency of Virtual Tour for Sumatran Butterfly Conservation",
+      "refereed": "TRUE",
+      "event_dates": "26-27 October 2021",
+      "date_type": "published",
+      "event_title": "2nd International Indonesia Conference on Interdisciplinary Studies (IICIS 2021)",
+      "subjects": [
+        "H1",
+        "T1",
+        "TK"
+      ],
+      "abstract": "Traveling is part of the activities for doing tourism. We have experience in tourism destinations. Due to COVID-19, people have limitations on the mobilization to travel. In 2020, a report was telling that tourism is the most affected business sector. Since the pandemic, we need to change our interactions. Most of our activities are moved digitally. On the other hand, we still have needed to fulfil. It shows the urgency of technology development to embrace the people's experience (user experience). The needs of traveling to tourism destinations, supported by technology. Developing a virtual tour in butterfly park has an urgency to stress spreading the knowledge of butterfly conservation, and it relies on the experience of doing the tourism. Tourist experience has to enable the feeling of being involved in the situation. Understanding the components is essential to the occasion. There are critical components for developing the user experience in Butterfly Park. We need a database on existing butterflies, vegetation (plants and flowers), and the butterfly park map. The virtual tourist can experience sight (seen using eyes) and sound (hear by ear), but they cannot feel by touch. That becomes the challenge for the development of these technologies. Taman Kupu-Kupu Gita Persada Virtual Reality Tour able to replicate some experience to users in visiting virtual tourist spots, viewing information on virtual tourist spots, and chose a location for virtual tourist spots. It is quite effective as a medium to experience tour and learn about conservation based on usability survey which resulted in 95% visitors are satisfied. Tourist experience is enabled the feeling of being involved in the situation by using Taman Kupu-Kupu Gita Persada Virtual Reality Tour. The experience will raise awareness for Sumatran butterfly conservation.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49469",
+      "dir": "disk0_bak\/00\/04\/94\/69",
+      "divisions": [
+        "FISIP1",
+        "FMIPA5",
+        "FT5",
+        "FT8"
+      ],
+      "event_type": "conference",
+      "full_text_status": "public",
+      "succeeds": 39055,
+      "status_changed": "2023-03-31 00:49:44",
+      "rev_number": 22,
+      "ispublished": "pub"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2020-12-07 01:24:41",
+      "eprintid": 27018,
+      "eprint_status": "archive",
+      "official_url": "https:\/\/www.ejbps.com\/ejbps\/index",
+      "lastmod": "2020-12-07 01:24:41",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41035",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 27018,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Publikasi Low PLA2G10 ... (dzul).docx",
+            "docid": 41035,
+            "files": [
+                {
+                  "filesize": 122510,
+                  "objectid": 41035,
+                  "filename": "Publikasi Low PLA2G10 ... (dzul).docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/242276",
+                  "hash_type": "MD5",
+                  "mtime": "2020-12-06 17:26:05",
+                  "datasetid": "document",
+                  "fileid": 242276,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "343047739ab7ac4323ac75f0a6adff16"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 3261,
+      "title": "Low PLA2G10 gene expression level tend to make a higher risk of angina pectoris",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "id": "dzul.mumtazah@fmipa.unila.ac.id",
+          "name": {
+            "given": "Dzul Fithria",
+            "lineage": null,
+            "family": "Mumtazah",
+            "honourific": null
+          }
+        },
+        {
+          "id": "erlin.soedarmoo@gmail.com",
+          "name": {
+            "given": "Erlin",
+            "family": "Listiyaningsih",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wijayanti",
+            "given": "Nastiti"
+          },
+          "id": "nastitiww@yahoo.com"
+        }
+      ],
+      "type": "article",
+      "date_type": "submitted",
+      "subjects": [
+        "QL"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27018",
+      "abstract": "Angina pectoris is diagnosed by chest pain and considered as one of the symptoms which are triggered by coronary heart disease (CHD). CHD is marked by atherosclerotic plaque formation in the coronary artery and brings on the vascular narrowing which obstructs blood flow. Group IIA and group V of sPLA2 are one of the enzyme groups which play the main role of atherosclerotic plaque formation. On the other hand, group X sPLA2 which is encoded by PLA2G10  has anti-atherogenic properties by inhibits Th1 cell activation in LDLr-\/- mice, which is pro-atherogenic. CHD is exacerbated by the presence of risk factors possessed by sufferers. This study aims to examine the proportion of patients with certain metabolic syndromes with their susceptibility to CHD as a cause of angina pectoris linked to PLA2G10 gene expression level. The samples of this research are 133 deposit biological materials from National Cardiovascular Center Harapan Kita’s collection, from angina pectoris patients with a plaque and no plaque in the coroner. The relative quantification of PLA2G10 gene expression shows no difference between the plaque group and no plaque group (p-value = 0,494) which is measured by TaqMan® Gene Expression Assay, but as many as 44% of the group with a plaque and 69% of the group with diabetes mellitus had low levels of PLA2G10 gene expression. The group with risk factors has the greatest percentage having low levels of PLA2G10 gene expression. This indicates that more or less PLA2G10 plays a role in reducing the risk of plaque formation and the severity of risk factors that cause angina pectoris.",
+      "publication": "EJBPS",
+      "dir": "disk0\/00\/02\/70\/18",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "rev_number": 6,
+      "ispublished": "submitted",
+      "issn": "2581-3250",
+      "full_text_status": "public",
+      "status_changed": "2020-12-07 01:24:41"
+    },
+    {
+      "lastmod": "2020-11-18 04:52:57",
+      "official_url": "https:\/\/ejournal.undip.ac.id\/index.php\/bioma",
+      "documents": [
+          {
+            "main": "JURNAL ANNISA FARADILA.pdf",
+            "docid": 39810,
+            "files": [
+                {
+                  "mtime": "2020-11-18 03:06:38",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/234524",
+                  "filename": "JURNAL ANNISA FARADILA.pdf",
+                  "filesize": 585096,
+                  "objectid": 39810,
+                  "hash": "4590a1ffe60b3d14411f687706f5eee1",
+                  "mime_type": "application\/pdf",
+                  "fileid": 234524,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 25981,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39810",
+            "security": "public"
+          }
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 876,
+      "metadata_visibility": "show",
+      "datestamp": "2020-11-18 04:52:57",
+      "eprint_status": "archive",
+      "eprintid": 25981,
+      "title": "KEBERADAAN SERANGGA MALAM BERDASARKAN EFEK WARNA LAMPU\r\nPADA LIGHT TRAP di KEBUN RAYA LIWA",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "id": "nismah.nukmal@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nukmal",
+            "lineage": null,
+            "given": "Nismah"
+          }
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25981",
+      "abstract": "Serangga memiliki tingkat keanekaragaman dan daya adaptasi tinggi serta sensitif terhadap cahaya. Penelitian ini\r\ndilaksanakan pada bulan Oktober - November 2019 di Taman Araceae KRL dengan tujuan untuk mengetahui\r\nperbedaan jumlah serangga malam berdasarkan warna light trap (biru, kuning, merah dan putih) yang terperangkap\r\ndi KRL. Metode yang digunakan pada penelitian ini adalah Purposive Sampling. Serangga yang diperoleh kemudian\r\ndiidentifikasi untuk mengetahui ordo dan family menggunakan buku identifikasi Borror. Hasil penelitian\r\nmenunjukkan bahwa serangga malam paling banyak ditemukan pada lampu biru sebanyak 457 ekor (66,7%) dan\r\npaling sedikit ditemukan pada lampu merah sebanyak 19 ekor (2,8 %). Pada uji korelasi nilai R2 = 0,957 (95,7 %)\r\nmenunjukkan bahwa intensitas cahaya berkorelasi positif terhadap jumlah serangga malam yang didapat.",
+      "date_type": "submitted",
+      "subjects": [
+        "QL"
+      ],
+      "ispublished": "submitted",
+      "rev_number": 6,
+      "issn": "1410-8801",
+      "full_text_status": "public",
+      "status_changed": "2020-11-18 04:52:57",
+      "publisher": "Departemen Biologi, Fakultas Sains dan Matematika Universitas Diponegoro",
+      "dir": "disk0\/00\/02\/59\/81",
+      "publication": "Bioma : Berkala Ilmiah Biologi",
+      "divisions": [
+        "FMIPA5"
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "eprintid": 19904,
+      "datestamp": "2020-06-02 08:00:08",
+      "metadata_visibility": "show",
+      "userid": 965,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33210",
+            "eprintid": 19904,
+            "placement": 2,
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "revisi-prosiding-semnas-pbi-xxv-1.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 188285,
+                  "hash": "e1c23d9a33afbc7f6182e2dc193d4281",
+                  "mime_type": "application\/pdf",
+                  "filesize": 13750679,
+                  "objectid": 33210,
+                  "filename": "revisi-prosiding-semnas-pbi-xxv-1.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/188285",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-18 01:20:13"
+                }
+            ],
+            "docid": 33210
+          }
+      ],
+      "lastmod": "2020-06-02 08:00:08",
+      "creators": [
+        {
+          "name": {
+            "given": "Endang",
+            "lineage": null,
+            "family": "Nurcahyani",
+            "honourific": null
+          },
+          "id": "endang_nurcahyani@yahoo.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Qudus",
+            "honourific": null,
+            "given": "Hardoko Insan"
+          },
+          "id": "hardoko.insan@fmipa.unila.ac.id"
+        },
+        {
+          "id": "sumardi_bio@yahoo.co.id",
+          "name": {
+            "given": "Sumardi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sumardi"
+          }
+        },
+        {
+          "name": {
+            "given": "S.",
+            "family": "Wahyuningsih",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sri_wahyu@yahoo.com"
+        },
+        {
+          "id": "asmapalupi04@gmail.com",
+          "name": {
+            "family": "palupi",
+            "lineage": null,
+            "honourific": null,
+            "given": "asma"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "sholekhah",
+            "honourific": null,
+            "given": "sholekhah"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Seleksi In Vitro Planlet Anggrek Bulan [Phalaenopsis amabilis (L.) Bl.] yang Diinduksi Larutan Atonik Dalam Keadaan Cekaman Kekeringan",
+      "subjects": [
+        "QK"
+      ],
+      "date_type": "published",
+      "abstract": "[Phalaenopsis amabilis (L.) Bl.] is an ornamental plant that is much loved by the community because it has a beautiful flower shape and color, in addition it has high economic value. The obstacle in the cultivation of the P. amabilis is low humidity and lack of air. The addition of atonic plant growth regulators can increase plant growth. The purpose of this study is to get the best combination that grows in drought stress conditions. The specific characteristics of the plantlet P. amabilis observed included the total living orchid plantlet, the visualization of the plantlet. This research was conducted factorial with a Completely Randomized Design (CRD) consisting of 2 factors, namely atonic completion with 3 levels: 0 mL\/L, 2 mL\/L, 3 mL\/L and PEG 6000 with 3 levels: 0%, 5 %, 10%, with 5 replications. The results of this study indicate that the best combination of concentrations is PEG 6000 10% and atonic 0 mL\/L",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19904",
+      "publisher": "Perhimpunan Biologi Indonesia Cabang Lampung",
+      "publication": "Prosiding seminar nasional biologi XXV PBI Lampung",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "dir": "disk0\/00\/01\/99\/04",
+      "status_changed": "2020-06-02 08:00:08",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 13
+    },
+    {
+      "publisher": "Faculty of Veterinary Medicine Syiah Kuala University",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "publication": "Jurnal Kedokteran Hewan",
+      "dir": "disk0\/00\/01\/47\/37",
+      "rev_number": 13,
+      "ispublished": "pub",
+      "status_changed": "2019-11-04 03:33:46",
+      "full_text_status": "public",
+      "issn": "2502-5600",
+      "subjects": [
+        "QR"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14737",
+      "abstract": "This study was aimed to test the growth of bacteria Escherichia coli (E. coli) and Bacillus sp. which were exposed to magnetic fields. In the first stage of the study, the effect of magnetic fields on the growth of E. coli and Bacillus sp were observed. The futher study was aimed to evaluate the effect of magnetic field on antibiotic sensitivity againts the growth of E. coli and Bacillus sp. The magnetic fields treatments were 0.0 mT (control), 0.1 mT, 0.2 mT, 0.3 mT which were exposed for 10 hours for each treatment. Five antibiotics (trimethoprim, ampicillin, nalidixic acid, streptomycin and chloramphenicol) were used for each bacteria. The result showed that the magnetic field did not influence the colony growth of E.coli, but in Bacillus sp. was seen the increasing of colony area in magnetic field of 0.1 mT and 0.2 mT compared with control treatment. Antibiotic of trimethoprim, nalidixic acid, and ampicillin increase the growth inhibition of E. coli when the bacteria have been exposed to 0.1 mT; 0.2 mT; 0.3 mT magnetic field for 10 minutes. The inhibition by streptomycin and chloramphenicol antibiotic on E. coli did not affected by magnetic field exposure. The inhibition of Bacillus sp by trimethoprim and ampicillin increased when the bacteria have been exposed to 0.2 mT and 0.3 mT magnetic field for 10 minutes. The inhibition of nalidixic acid, streptomycin and chloramphenicol to Bacillus sp. did not affected by the magnetic field exposure",
+      "refereed": "TRUE",
+      "title": "THE EFFECT OF MAGNETIC FIELD ON ANTIBIOTIC INHIBITION FOR Escherichia coli AND Bacillus sp",
+      "type": "article",
+      "creators": [
+        {
+          "id": "sumardi_bio@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "family": "Sumardi",
+            "honourific": null,
+            "given": "Sumardi"
+          }
+        },
+        {
+          "name": {
+            "given": "Agustrina",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rochmah"
+          },
+          "id": "agustrina@gmail.com"
+        },
+        {
+          "id": "ecoli.lacto@gmail.com",
+          "name": {
+            "given": "Nugroho Ekowati",
+            "lineage": null,
+            "family": "christina",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Rizani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Oktaniansyah Putra"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hartono",
+            "given": "Madi"
+          },
+          "id": "madi.hartono@fp.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 14737,
+      "datestamp": "2019-11-04 03:33:46",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-01 06:43:37",
+                  "objectid": 28050,
+                  "filesize": 536731,
+                  "filename": "2019 Jurnal Sumardi-Zani ACEH (terakreditasi).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/128778",
+                  "datasetid": "document",
+                  "fileid": 128778,
+                  "mime_type": "application\/pdf",
+                  "hash": "3ad64a44d81ff70de7de72b3ce27bd3f"
+                }
+            ],
+            "main": "2019 Jurnal Sumardi-Zani ACEH (terakreditasi).pdf",
+            "docid": 28050,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28050",
+            "pos": 1,
+            "eprintid": 14737,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2019-11-06 02:22:21",
+      "userid": 965
+    }
+]
+

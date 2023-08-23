@@ -1,0 +1,1821 @@
+[
+    {
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2021-05-24 01:32:16",
+      "succeeds": 27905,
+      "full_text_status": "public",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/03\/04\/24",
+      "date": "2020-11-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30424",
+      "patent_applicant": "EC00202046872",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "title": "Konseling Individual: Konsep dan Aplikasi",
+      "creators": [
+        {
+          "id": "syarifuddin.d@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Dahlan",
+            "honourific": null,
+            "given": "Syarifuddin"
+          }
+        }
+      ],
+      "type": "patent",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 30424,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136830",
+            "pos": 1,
+            "security": "public",
+            "main": "sertifikat_EC00202046872-Syarifuddin_dahlan.pdf",
+            "files": [
+                {
+                  "hash": "e3268f7cf63479bda7c138313204fd45",
+                  "mime_type": "application\/pdf",
+                  "fileid": 360599,
+                  "datasetid": "document",
+                  "mtime": "2021-02-16 05:26:07",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/360599",
+                  "filename": "sertifikat_EC00202046872-Syarifuddin_dahlan.pdf",
+                  "filesize": 769992,
+                  "objectid": 136830
+                }
+            ],
+            "docid": 136830,
+            "format": "text",
+            "rev_number": 3,
+            "language": "ie",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136837",
+            "pos": 7,
+            "security": "public",
+            "placement": 7,
+            "eprintid": 30424,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 1564260,
+                  "objectid": 136837,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/360621",
+                  "filename": "Nilai review HKI_Konseling Individual....pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-21 09:49:53",
+                  "fileid": 360621,
+                  "datasetid": "document",
+                  "hash": "0e08ff895da47bba4d98dfb0f93c6362",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Nilai review HKI_Konseling Individual....pdf",
+            "docid": 136837,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2021-05-24 01:32:16",
+      "userid": 815,
+      "metadata_visibility": "show",
+      "id_number": 219423,
+      "eprint_status": "archive",
+      "eprintid": 30424,
+      "datestamp": "2021-05-24 01:32:16"
+    },
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 29336,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43457",
+            "pos": 1,
+            "security": "public",
+            "main": "5292-Article Text-22069-1-10-20201221.pdf",
+            "docid": 43457,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-13 02:41:18",
+                  "filesize": 459103,
+                  "objectid": 43457,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259954",
+                  "filename": "5292-Article Text-22069-1-10-20201221.pdf",
+                  "datasetid": "document",
+                  "fileid": 259954,
+                  "hash": "f01a515a73260f09fec32a02f0d1856f",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf"
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43458",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 29336,
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Artikel CJES.pdf",
+            "files": [
+                {
+                  "fileid": 259955,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "616e00dad9fe182e42bf14943b24787d",
+                  "objectid": 43458,
+                  "filesize": 2640517,
+                  "filename": "Artikel CJES.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259955",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-13 02:41:52"
+                }
+            ],
+            "docid": 43458,
+            "format": "text"
+          },
+          {
+            "placement": 3,
+            "eprintid": 29336,
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43459",
+            "security": "public",
+            "main": "Improve student career certainty using self-information A career counseling in the school.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-14 23:42:31",
+                  "filesize": 3007980,
+                  "objectid": 43459,
+                  "filename": "Improve student career certainty using self-information A career counseling in the school.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259957",
+                  "fileid": 259957,
+                  "datasetid": "document",
+                  "hash": "31773e69494f3db8fd7fdc30cd58383b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 43459,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2021-04-15 10:24:39",
+      "official_url": "http:\/\/www.cjes.eu\/",
+      "number": 6,
+      "userid": 815,
+      "pagerange": "1480-1494",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 29336,
+      "datestamp": "2021-04-15 10:24:39",
+      "refereed": "TRUE",
+      "title": "Improve student career certainty using self-information: A career counseling in the school",
+      "type": "article",
+      "creators": [
+        {
+          "id": "syarifuddin.d@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Dahlan",
+            "lineage": null,
+            "given": "Syarifuddin"
+          }
+        },
+        {
+          "name": {
+            "given": "Evalia",
+            "honourific": null,
+            "family": "Idris",
+            "lineage": null
+          },
+          "id": "evaliaidris64@gmail.com"
+        },
+        {
+          "id": "ekobkum@gmail.com",
+          "name": {
+            "given": "Eko",
+            "honourific": null,
+            "lineage": null,
+            "family": "Susanto"
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29336",
+      "date": "2020-12",
+      "volume": 15,
+      "corp_creators": [
+        "Fakultas Keguruan dan Ilmu Pendidikan Universitas Lampung"
+      ],
+      "abstract": "This study aims to examine the effectiveness of counseling interventions using self-information to increase student career\r\ncertainty. This study was conducted with a quasi-experimental pre-test–post-test non-equivalent group design. The number\r\nof subjects was 94 high school students, out of which 44 were male and 50 were female; the experimental group consisted of\r\n39 people and the control group consisted of 55 people. The Self-information used in this study was provided through the\r\nSelf-Directed Career Exploration Inventory, while research data was obtained through the Career Plan Certainty Scale. The\r\nresults showed that career counseling services using self-information were effective in helping high school students to\r\nincrease their career choice certainty. The mean score of the students of the specialization group in the experimental group\r\nincreased and was significantly different from the mean score of the students in the control group. In addition, the mean\r\nscore for the study plans of male and female students was not significantly different.\r\n\r\nKeywords: Career certainty, self-information, career counseling, career intervention.",
+      "subjects": [
+        "LB"
+      ],
+      "date_type": "published",
+      "rev_number": 5,
+      "ispublished": "pub",
+      "succeeds": 29298,
+      "status_changed": "2021-04-15 10:24:39",
+      "issn": "1305-905X 13059076",
+      "full_text_status": "public",
+      "publisher": "Birlesik Dunya Yenilik Arastirma ve yayincilik Merkezi",
+      "divisions": [
+        "FKIP2"
+      ],
+      "publication": "Cypriot Journal of Educational Sciences",
+      "dir": "disk0\/00\/02\/93\/36"
+    },
+    {
+      "datestamp": "2021-04-19 01:25:02",
+      "eprint_status": "archive",
+      "eprintid": 29434,
+      "metadata_visibility": "show",
+      "pagerange": "1480-1494",
+      "userid": 815,
+      "number": 6,
+      "lastmod": "2021-04-19 01:25:02",
+      "official_url": "http:\/\/www.cjes.eu\/",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 43575,
+            "main": "5292-Article Text-22069-1-10-20201221.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-13 02:41:18",
+                  "objectid": 43575,
+                  "filesize": 459103,
+                  "filename": "5292-Article Text-22069-1-10-20201221.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/260757",
+                  "fileid": 260757,
+                  "datasetid": "document",
+                  "hash": "f01a515a73260f09fec32a02f0d1856f",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 3,
+            "eprintid": 29434,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43575"
+          },
+          {
+            "placement": 2,
+            "eprintid": 29434,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43576",
+            "security": "public",
+            "main": "Artikel CJES.pdf",
+            "docid": 43576,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-13 02:41:52",
+                  "objectid": 43576,
+                  "filesize": 2640517,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/260758",
+                  "filename": "Artikel CJES.pdf",
+                  "datasetid": "document",
+                  "fileid": 260758,
+                  "hash": "616e00dad9fe182e42bf14943b24787d",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "rev_number": 3,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 43578,
+            "main": "Improve_student_career_certainty_using_self_inform_compressed_compressed.pdf",
+            "files": [
+                {
+                  "hash": "e633ece9ed5b28cac74a3c64e215953f",
+                  "mime_type": "application\/pdf",
+                  "fileid": 260762,
+                  "datasetid": "document",
+                  "filename": "Improve_student_career_certainty_using_self_inform_compressed_compressed.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/260762",
+                  "objectid": 43578,
+                  "filesize": 1354087,
+                  "mtime": "2021-04-17 09:04:16",
+                  "hash_type": "MD5"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43578",
+            "pos": 3,
+            "eprintid": 29434,
+            "placement": 3
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Syarifuddin",
+            "honourific": null,
+            "family": "Dahlan",
+            "lineage": null
+          },
+          "id": "syarifuddin.d@fkip.unila.ac.id"
+        },
+        {
+          "id": "evaliaidris64@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Idris",
+            "lineage": null,
+            "given": "Evalia"
+          }
+        },
+        {
+          "id": "ekobkum@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Susanto",
+            "honourific": null,
+            "given": "Eko"
+          }
+        }
+      ],
+      "title": "Improve student career certainty using self-information: A career counseling in the school",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "LB"
+      ],
+      "abstract": "This study aims to examine the effectiveness of counseling interventions using self-information to increase student career\r\ncertainty. This study was conducted with a quasi-experimental pre-test–post-test non-equivalent group design. The number\r\nof subjects was 94 high school students, out of which 44 were male and 50 were female; the experimental group consisted of\r\n39 people and the control group consisted of 55 people. The Self-information used in this study was provided through the\r\nSelf-Directed Career Exploration Inventory, while research data was obtained through the Career Plan Certainty Scale. The\r\nresults showed that career counseling services using self-information were effective in helping high school students to\r\nincrease their career choice certainty. The mean score of the students of the specialization group in the experimental group\r\nincreased and was significantly different from the mean score of the students in the control group. In addition, the mean\r\nscore for the study plans of male and female students was not significantly different.\r\n\r\nKeywords: Career certainty, self-information, career counseling, career intervention.",
+      "volume": 15,
+      "corp_creators": [
+        "Fakultas Keguruan dan Ilmu Pendidikan Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29434",
+      "date": "2020-12",
+      "dir": "disk0\/00\/02\/94\/34",
+      "publisher": "Birlesik Dunya Yenilik Arastirma ve yayincilik Merkezi",
+      "publication": "Cypriot Journal of Educational Sciences",
+      "divisions": [
+        "FKIP2"
+      ],
+      "issn": "1305-905X 13059076",
+      "full_text_status": "public",
+      "succeeds": 29349,
+      "status_changed": "2021-04-19 01:25:02",
+      "rev_number": 6,
+      "ispublished": "pub"
+    },
+    {
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Puji",
+            "honourific": null,
+            "family": "Hayati",
+            "lineage": null
+          }
+        },
+        {
+          "id": "sugeng.sutiarso@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutiarso",
+            "given": "Sugeng"
+          }
+        },
+        {
+          "name": {
+            "given": "Syarifuddin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dahlan"
+          },
+          "id": "syarifuddin.d@fkip.unila.ac.id"
+        }
+      ],
+      "type": "book_section",
+      "title": "Analysis of Mathematical Communication Skills of\r\nJunior High School Students Reviewed from Gender \r\nand School Origin",
+      "metadata_visibility": "show",
+      "lastmod": "2021-04-15 10:24:43",
+      "publication": "Advances in Social Science, Education and Humanities Research",
+      "dir": "disk0\/00\/02\/93\/38",
+      "divisions": [
+        "FKIP2"
+      ],
+      "status_changed": "2021-04-15 10:24:43",
+      "rev_number": 10,
+      "date_type": "published",
+      "subjects": [
+        "LB"
+      ],
+      "volume": 422,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29338",
+      "isbn": "978-94-6252-938-0",
+      "refereed": "TRUE",
+      "datestamp": "2021-04-15 10:24:43",
+      "eprintid": 29338,
+      "eprint_status": "archive",
+      "pagerange": "147-151",
+      "userid": 815,
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/icope-19\/sessions\/3311",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 43463,
+            "main": "125937552.pdf",
+            "files": [
+                {
+                  "hash": "fe07e129a12e68b034104d6d58c7288b",
+                  "mime_type": "application\/pdf",
+                  "fileid": 259967,
+                  "datasetid": "document",
+                  "mtime": "2021-04-14 23:54:54",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259967",
+                  "filename": "125937552.pdf",
+                  "filesize": 351067,
+                  "objectid": 43463
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43463",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 29338
+          },
+          {
+            "format": "text",
+            "docid": 43464,
+            "main": "Prosiding ICOPE.pdf",
+            "files": [
+                {
+                  "filesize": 2751927,
+                  "objectid": 43464,
+                  "filename": "Prosiding ICOPE.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259969",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-14 23:55:25",
+                  "fileid": 259969,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "7bd8119723a4a99aa6f11dca62e1acab"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 29338,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43464"
+          },
+          {
+            "eprintid": 29338,
+            "placement": 3,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43465",
+            "pos": 3,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "decf3f97f6571a1f1feda0b672109bf0",
+                  "mime_type": "application\/pdf",
+                  "fileid": 259971,
+                  "datasetid": "document",
+                  "filename": "Analysis of Mathematical Communication Skills of Junior High School Students Reviewed from Gender and School Origin(1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259971",
+                  "objectid": 43465,
+                  "filesize": 1507344,
+                  "mtime": "2021-04-14 23:56:00",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Analysis of Mathematical Communication Skills of Junior High School Students Reviewed from Gender and School Origin(1).pdf",
+            "docid": 43465,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pages": 6,
+      "publisher": "Atlantis Press SARL",
+      "full_text_status": "public",
+      "issn": "978-94-6252-938-0\/ 2352-5398",
+      "ispublished": "pub",
+      "book_title": "Proceedings of the International Conference on Progressive Education (ICOPE 2019)",
+      "series": "Advances in Social Science, Education and Humanities Research",
+      "abstract": "This study aims to analyze and describe the\r\nmathematical communication skills of junior high school\r\nstudents reviewed from gender and school origin. This\r\nreaserch is a qualitative descriptive study, with the subject\r\nof the study being the eighth grade students of Pasir Sakti\r\nState 2 Junior High School, which subject of study eight\r\nstudents, namely 4 students from State elementary schools\r\n(2 males and 2 females) and 4 students from Private\r\nelementary  schools (2 males and 2 females). The data\r\ncollection technique was mathematical communication\r\nskills tests used the data presentation material consisting\r\ntwo questions. The research data was collected by\r\nresearchers directly. Technique of data analysis in this\r\nstudy are Data Reduction, Data Display, and Conclusions\r\nDrawing\/Verification. The results showed: The\r\nmathematical communication skills of junior high school\r\nstudents overall are (1) The ability of female students\r\nwere higher than male students with a difference of\r\n11.11%. (2) The ability of students from public\r\nelementary schools were higher than students from\r\nprivate elementary schools with a difference of 2.78%. (3)\r\nThe ability of students in Drawing aspect were higher\r\nthan Written Text aspect, and Mathematical Expression\r\naspect. \r\nKeywords: mathematical communication skills, gender,\r\nschool origin",
+      "corp_creators": [
+        "Fakultas Keguruan dan Ilmu Pendidikan Universitas Lampung"
+      ],
+      "date": 2020
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Konselor yang berkualitas akan menentukan keberhasilan proses konseling. Tiga karakteristik yang diperlukan dan menentukan kualitas konselor, yaitu: (1) congruence (otentik), (2) unconditional positive regard (penerimaan), dan (3) empathy (empati). Penelitian ini bertujuan untuk melihat gambaran karakteristik konselor berdasarkan kelompok gender. Sampel penelitian merupakan 68 mahasiswa calon konselor yang dibagi berdasarkan kelompok gender. Alat ukur menggunakan tes karakteristik konselor yang dikembangkan dengan menggunakan pernyataan kontroversial dengan alternatif jawaban skala Likert. Hasil penelitian menemukan ada perbedaan yang signifikan dalam karakteristik konselor pada mahasiswa program studi bimbingan dan konseling berdasarkan perbedaan kelompok gender. Ada perbedaan yang signifikan antara kebutuhan pengembangan program pendidikan dan pelatihan konselor yang efektif bagi mahasiswa laki-laki dan perempuan. Pengembangan karakteristik congruence lebih dibutuhkan untuk mahasiswa laki-laki, sementara mahasiswa perempuan pada karakteristik unconditional positive regard. Jumlah sampel yang lebih besar diperlukan untuk meningkatkan heterogenitas, dan melakukan wawancara tambahan secara individual untuk memperdalam diskusi.\r\n\r\n\r\nKata kunci: karakteristik konselor, gender, pengukuran empati, instrumen psikologi.",
+      "date": "2020-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48162",
+      "publisher": "Jurnal Psikologi Malahayati",
+      "dir": "disk0_bak\/00\/04\/81\/62",
+      "divisions": [
+        "FKIP2"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-01-30 04:34:21",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "datestamp": "2023-01-30 04:34:21",
+      "eprintid": 48162,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 20,
+      "official_url": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/PSIKOLOGI\/article\/view\/3023",
+      "lastmod": "2023-01-30 04:34:21",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "main": "Karakteristik konselor pada calon konselor berdasarkan perbedaan kelompok gender.jpeg",
+            "docid": 187394,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 526453,
+                  "mime_type": "image\/jpeg",
+                  "hash": "72e06995f10656b13479858f2b6ae22b",
+                  "objectid": 187394,
+                  "filesize": 130985,
+                  "filename": "Karakteristik konselor pada calon konselor berdasarkan perbedaan kelompok gender.jpeg",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526453",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-30 02:42:51"
+                }
+            ],
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187394",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48162
+          }
+      ],
+      "creators": [
+        {
+          "id": "shinta.mayasari@fkip.unila.ac.id",
+          "name": {
+            "given": "Shinta",
+            "honourific": null,
+            "family": "Mayasari",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "ARAKTERISTIK KONSELOR PADA CALON KONSELOR BERDASARKAN PERBEDAAN KELOMPOK GENDER"
+    },
+    {
+      "subjects": [
+        "BF"
+      ],
+      "date_type": "published",
+      "volume": 2,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "A qualified counselor will determine the success of the counseling process. Three characteristics are needed and determine the quality of a counselor, namely: (1) congruence (authentic), (2) unconditional positive regard (acceptance), and (3) empathy (empathy). This study aims to describe the characteristics of counselors based on gender groups. The research sample consisted of 68 prospective counselor students who were divided into gender groups. The measuring instrument uses a counselor characteristic test developed using controversial statements with alternative Likert scale answers. The results of the study found that there were significant differences in the characteristics of counselors among students of the guidance and counseling study program based on differences in gender groups. There is a significant difference between the need to develop educational programs and effective counselor training for male and female students. The development of congruence characteristics is more needed for male students, while female students on the characteristics of unconditional positive regard. A larger sample size is needed to increase heterogeneity, and additional interviews are conducted individually to deepen the discussion.",
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31991",
+      "publisher": "Universitas Malahayati",
+      "publication": "Jurnal Psikologi Malahayati",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/03\/19\/91",
+      "related_url": [
+        {
+          "url": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/PSIKOLOGI\/article\/view\/3023",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2021-06-04 01:37:24",
+      "full_text_status": "none",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "eprintid": 31991,
+      "datestamp": "2021-06-04 01:37:24",
+      "metadata_visibility": "show",
+      "number": 2,
+      "contributors": [
+        {
+          "name": {
+            "given": "shinta",
+            "honourific": null,
+            "lineage": null,
+            "family": "mayasari"
+          }
+        }
+      ],
+      "userid": 20,
+      "lastmod": "2021-06-04 01:37:24",
+      "official_url": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/PSIKOLOGI\/article\/view\/3023",
+      "creators": [
+        {
+          "name": {
+            "family": "Mayasari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Shinta"
+          },
+          "id": "shinta.mayasari@fkip.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "COUNSELOR CHARACTERISTIC AMONG CANDIDATED COUNSELOR BASED ON GENDER GROUP DIFFERENCES"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Shinta",
+            "honourific": null,
+            "family": "Mayasari",
+            "lineage": null
+          },
+          "id": "shinta.mayasari@fkip.unila.ac.id"
+        }
+      ],
+      "title": "KARAKTERISTIK KONSELOR PADA CALON KONSELOR BERDASARKAN PERBEDAAN KELOMPOK GENDER",
+      "eprint_status": "archive",
+      "eprintid": 48186,
+      "datestamp": "2023-01-30 10:47:37",
+      "metadata_visibility": "show",
+      "userid": 20,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187421",
+            "pos": 1,
+            "eprintid": 48186,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 187421,
+            "main": "karakteristik konselor.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 526648,
+                  "mime_type": "application\/pdf",
+                  "hash": "99e0e4fe54e704b607135fb3f7845630",
+                  "filesize": 1543186,
+                  "objectid": 187421,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526648",
+                  "filename": "karakteristik konselor.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-30 08:18:05"
+                }
+            ]
+          }
+      ],
+      "official_url": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/PSIKOLOGI\/article\/view\/3023",
+      "lastmod": "2023-01-30 10:47:37",
+      "publisher": "Jurnal Psikologi Malahayati",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0_bak\/00\/04\/81\/86",
+      "status_changed": "2023-01-30 10:47:37",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "abstract": "A qualified counselor will determine the success of the counseling process. Three characteristics are needed and determine the quality of a counselor, namely: (1) congruence (authentic), (2) unconditional positive regard (acceptance), and (3) empathy (empathy). This study aims to describe the characteristics of counselors based on gender groups. The research sample consisted of 68 prospective counselor students who were divided into gender groups. The measuring instrument uses a counselor characteristic test developed using controversial statements with alternative Likert scale answers. The results of the study found that there were significant differences in the characteristics of counselors among students of the guidance and counseling study program based on differences in gender groups. There is a significant difference between the need to develop educational programs and effective counselor training for male and female students. The development of congruence characteristics is more needed for male students, while female students on the characteristics of unconditional positive regard. A larger sample size is needed to increase heterogeneity, and additional interviews are conducted individually to deepen the discussion.\r\nKey words: counselor characteristics, gender, measurement of emphaty, psychological instrument.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48186",
+      "date": "2020-09"
+    },
+    {
+      "metadata_visibility": "show",
+      "eprintid": 48262,
+      "eprint_status": "archive",
+      "datestamp": "2023-02-02 07:51:37",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 48262,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187522",
+            "pos": 1,
+            "security": "public",
+            "main": "3 Karakteristik konselor.pdf",
+            "docid": 187522,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-02 03:18:45",
+                  "filesize": 1372250,
+                  "objectid": 187522,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/527254",
+                  "filename": "3 Karakteristik konselor.pdf",
+                  "datasetid": "document",
+                  "fileid": 527254,
+                  "mime_type": "application\/pdf",
+                  "hash": "1ec774a0635aaa71f93c591be6207c7b"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/PSIKOLOGI\/article\/view\/3023",
+      "lastmod": "2023-02-02 07:51:37",
+      "userid": 20,
+      "title": "KARAKTERISTIK KONSELOR PADA CALON KONSELOR BERDASARKAN PERBEDAAN KELOMPOK GENDER",
+      "creators": [
+        {
+          "id": "shinta.mayasari@fkip.unila.ac.id",
+          "name": {
+            "given": "Shinta",
+            "honourific": null,
+            "lineage": null,
+            "family": "Mayasari"
+          }
+        }
+      ],
+      "type": "other",
+      "place_of_pub": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/PSIKOLOGI\/article\/view\/3023",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48262",
+      "abstract": "A qualified counselor will determine the success of the counseling process. Three characteristics are needed and determine the quality of a counselor, namely: (1) congruence (authentic), (2) unconditional positive regard (acceptance), and (3) empathy (empathy). This study aims to describe the characteristics of counselors based on gender groups. The research sample consisted of 68 prospective counselor students who were divided into gender groups. The measuring instrument uses a counselor characteristic test developed using controversial statements with alternative Likert scale answers. The results of the study found that there were significant differences in the characteristics of counselors among students of the guidance and counseling study program based on differences in gender groups. There is a significant difference between the need to develop educational programs and effective counselor training for male and female students. The development of congruence characteristics is more needed for male students, while female students on the characteristics of unconditional positive regard. A larger sample size is needed to increase heterogeneity, and additional interviews are conducted individually to deepen the discussion.",
+      "divisions": [
+        "FKIP2"
+      ],
+      "publisher": "Jurnal Psikologi Malahayati",
+      "dir": "disk0_bak\/00\/04\/82\/62",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2023-02-02 07:51:37",
+      "full_text_status": "public"
+    },
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2023-02-03 02:41:01",
+      "publisher": "Jurnal Psikologi Malahayati",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0_bak\/00\/04\/82\/76",
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48276",
+      "abstract": "A qualified counselor will determine the success of the counseling process. Three characteristics are needed and determine the quality of a counselor, namely: (1) congruence (authentic), (2) unconditional positive regard (acceptance), and (3) empathy (empathy). This study aims to describe the characteristics of counselors based on gender groups. The research sample consisted of 68 prospective counselor students who were divided into gender groups. The measuring instrument uses a counselor characteristic test developed using controversial statements with alternative Likert scale answers. The results of the study found that there were significant differences in the characteristics of counselors among students of the guidance and counseling study program based on differences in gender groups. There is a significant difference between the need to develop educational programs and effective counselor training for male and female students. The development of congruence characteristics is more needed for male students, while female students on the characteristics of unconditional positive regard. A larger sample size is needed to increase heterogeneity, and additional interviews are conducted individually to deepen the discussion.",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "place_of_pub": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/PSIKOLOGI\/article\/view\/3023",
+      "title": "KARAKTERISTIK KONSELOR PADA CALON KONSELOR BERDASARKAN PERBEDAAN KELOMPOK GENDER",
+      "creators": [
+        {
+          "name": {
+            "given": "Shinta",
+            "family": "Mayasari",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "shinta.mayasari@fkip.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "official_url": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/PSIKOLOGI\/article\/view\/3023",
+      "lastmod": "2023-02-03 02:41:01",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 187542,
+            "main": "korespondensi malahayati.pdf",
+            "files": [
+                {
+                  "mtime": "2023-02-02 13:41:19",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/527374",
+                  "filename": "korespondensi malahayati.pdf",
+                  "filesize": 1130998,
+                  "objectid": 187542,
+                  "mime_type": "application\/pdf",
+                  "hash": "8ccb5d591219d8f0046ff4bff5f4cd84",
+                  "datasetid": "document",
+                  "fileid": 527374
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187542",
+            "eprintid": 48276,
+            "placement": 1
+          }
+      ],
+      "userid": 20,
+      "metadata_visibility": "show",
+      "datestamp": "2023-02-03 02:41:01",
+      "eprintid": 48276,
+      "eprint_status": "archive"
+    },
+    {
+      "refereed": "TRUE",
+      "number": 3,
+      "userid": 2786,
+      "documents": [
+          {
+            "eprintid": 31391,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/141870",
+            "pos": 1,
+            "format": "text",
+            "docid": 141870,
+            "main": 110561,
+            "files": [
+                {
+                  "mtime": "2021-05-30 12:20:33",
+                  "hash_type": "MD5",
+                  "filename": 110561,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/371873",
+                  "objectid": 141870,
+                  "filesize": 51418,
+                  "mime_type": "text\/html",
+                  "hash": "9602e092abcd117a5bba8c31c6feb71b",
+                  "fileid": 371873,
+                  "datasetid": "document"
+                }
+            ],
+            "content": "published",
+            "language": "en",
+            "rev_number": 3,
+            "mime_type": "text\/html"
+          }
+      ],
+      "official_url": "http:\/\/ejournal.unp.ac.id\/index.php\/konselor\/article\/view\/110561",
+      "eprintid": 31391,
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.24036\/0202093110561-0-00",
+      "datestamp": "2021-05-30 15:36:17",
+      "pagerange": "117-124",
+      "full_text_status": "public",
+      "issn": "2541-5948",
+      "ispublished": "pub",
+      "publisher": "Universitas Negeri Padang",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/ejournal.unp.ac.id\/index.php\/konselor\/article\/view\/110561"
+        }
+      ],
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Muhammadiyah Pringsewu"
+      ],
+      "abstract": "The purpose of this study is to analyze the strengths and weaknesses of each accountability evaluation model, in order to make counseling programs easier for counselors to carry out. The method used was qualitative research, which focuses on meanings, definitions, characteristics, symbols and explanations of the concepts learned. The research data was collected through literature reviews and document analysis. In this study, descriptive document analysis methods were also used in data measurement. Descriptive analysis method aims to test the facts and meanings of a research systematically. This model was formed based on different initial goals in the implementation of counseling services. Moreover, Accountability Evaluation Models of School Counseling Program has each of its advantages and disadvantages. The counselor should choose part of the models which is appropriate to the situation and easy to implement in the school, in order for the implementation processes of the institution counseling program to be measured and planned in the future.",
+      "date": "2020-09-30",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Mujiyati",
+            "lineage": null,
+            "given": "Mujiyati"
+          },
+          "id": "mujiyati@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Mayasari",
+            "lineage": null,
+            "given": "Shinta"
+          },
+          "id": "shinta.mayasari@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Adiputra",
+            "honourific": null,
+            "given": "Sofwan"
+          },
+          "id": "sofwan@konselor.org"
+        }
+      ],
+      "title": "A comparison of accountability models in school counseling programs",
+      "lastmod": "2021-05-30 15:36:17",
+      "metadata_visibility": "show",
+      "status_changed": "2021-05-30 15:36:17",
+      "rev_number": 7,
+      "divisions": [
+        "FKIP2"
+      ],
+      "publication": "Konselor",
+      "dir": "disk0\/00\/03\/13\/91",
+      "volume": 9,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31391",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published"
+    },
+    {
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48187",
+      "abstract": "The purpose of this study is to analyze the strengths and weaknesses of each accountability evaluation model, in order to make counseling programs easier for counselors to carry out. The method used was qualitative research, which focuses on meanings, definitions, characteristics, symbols and explanations of the concepts learned. The research data was collected through literature reviews and document analysis. In this study, descriptive document analysis methods were also used in data measurement. Descriptive analysis method aims to test the facts and meanings of a research systematically. This model was formed based on different initial goals in the implementation of counseling services. Moreover, Accountability Evaluation Models of School Counseling Program has each of its advantages and disadvantages. The counselor should choose part of the models which is appropriate to the situation and easy to implement in the school, in order for the implementation processes of the institution counseling program to be measured and planned in the future.\r\n\r\n\r\nKeywords\r\n\r\nAccountability Model, Evaluation Counseling, Programs Counseling, professional counselor.",
+      "publisher": "konselor",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0_bak\/00\/04\/81\/87",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2023-01-30 10:48:00",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 48187,
+      "datestamp": "2023-01-30 10:48:00",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "a comparison of accountability.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 526652,
+                  "hash": "f24084f68124a9eb9c98205567862a51",
+                  "mime_type": "application\/pdf",
+                  "objectid": 187422,
+                  "filesize": 1487084,
+                  "filename": "a comparison of accountability.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526652",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-30 08:24:31"
+                }
+            ],
+            "docid": 187422,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187422",
+            "eprintid": 48187,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-01-30 10:48:00",
+      "official_url": "http:\/\/ejournal.unp.ac.id\/index.php\/konselor\/article\/view\/110561\/0",
+      "userid": 20,
+      "title": "A comparison of accountability models in school counseling programs",
+      "creators": [
+        {
+          "id": "mujiyati@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Mujiyati",
+            "honourific": null,
+            "given": "Mujiyati"
+          }
+        },
+        {
+          "name": {
+            "given": "Shinta",
+            "family": "Mayasari",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "shinta.mayasari@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Adiputra",
+            "honourific": null,
+            "given": "Sofwan"
+          },
+          "id": "sofwan@konselor.org"
+        }
+      ],
+      "type": "other"
+    },
+    {
+      "divisions": [
+        "FKIP2"
+      ],
+      "publisher": "konselor",
+      "dir": "disk0_bak\/00\/04\/82\/66",
+      "full_text_status": "public",
+      "status_changed": "2023-02-02 07:51:45",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "The purpose of this study is to analyze the strengths and weaknesses of each accountability evaluation model, in order to make counseling programs easier for counselors to carry out. The method used was qualitative research, which focuses on meanings, definitions, characteristics, symbols and explanations of the concepts learned. The research data was collected through literature reviews and document analysis. In this study, descriptive document analysis methods were also used in data measurement. Descriptive analysis method aims to test the facts and meanings of a research systematically. This model was formed based on different initial goals in the implementation of counseling services. Moreover, Accountability Evaluation Models of School Counseling Program has each of its advantages and disadvantages. The counselor should choose part of the models which is appropriate to the situation and easy to implement in the school, in order for the implementation processes of the institution counseling program to be measured and planned in the future.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48266",
+      "date": 2020,
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Mujiyati",
+            "honourific": null,
+            "given": "Mujiyati"
+          },
+          "id": "mujiyati@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Mayasari",
+            "given": "Shinta"
+          },
+          "id": "shinta.mayasari@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Sofwan",
+            "family": "Adiputra",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sofwan@konselor.org"
+        }
+      ],
+      "title": "A comparison of accountability models in school counseling programs",
+      "place_of_pub": "http:\/\/ejournal.unp.ac.id\/index.php\/konselor\/article\/view\/110561\/0",
+      "datestamp": "2023-02-02 07:51:45",
+      "eprintid": 48266,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 20,
+      "lastmod": "2023-02-02 07:51:45",
+      "official_url": "http:\/\/ejournal.unp.ac.id\/index.php\/konselor\/article\/view\/110561\/0",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187525",
+            "pos": 1,
+            "eprintid": 48266,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "6. A comparison.pdf",
+            "docid": 187525,
+            "files": [
+                {
+                  "objectid": 187525,
+                  "filesize": 1360839,
+                  "filename": "6. A comparison.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/527277",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-02 03:31:23",
+                  "fileid": 527277,
+                  "datasetid": "document",
+                  "hash": "f5d91158b509a7e6eb2ed0faba2c09e6",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Mujiyati",
+            "lineage": null,
+            "given": "Mujiyati"
+          },
+          "id": "mujiyati@fkip.unila.ac.id"
+        },
+        {
+          "id": "umansuherman@upi.edu",
+          "name": {
+            "given": "Suherman",
+            "family": "Uman",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "ahman@upi.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Ahman",
+            "lineage": null,
+            "given": "Ahman"
+          }
+        },
+        {
+          "name": {
+            "given": "Nurhudaya",
+            "lineage": null,
+            "family": "Nurhudaya",
+            "honourific": null
+          },
+          "id": "nurhudaya@upi.ac.id"
+        },
+        {
+          "name": {
+            "given": "Adiputra",
+            "honourific": null,
+            "family": "Sofwan",
+            "lineage": null
+          },
+          "id": "sofwan@konselor.org"
+        }
+      ],
+      "title": "Effect of Knowledge and Skills of Counselors on The Level of Self-Efficacy in Evaluating Guidance and Counseling Programs",
+      "refereed": "TRUE",
+      "userid": 2786,
+      "number": 3,
+      "lastmod": "2020-05-18 02:26:40",
+      "official_url": "http:\/\/www.ijstr.org\/",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33195",
+            "eprintid": 19886,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "0eceb6f350adad69a7f133da7cd45f25",
+                  "datasetid": "document",
+                  "fileid": 188173,
+                  "filename": "Effect of Knowledge and Skills of Counselors....pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/188173",
+                  "objectid": 33195,
+                  "filesize": 241610,
+                  "mtime": "2020-05-17 15:38:25",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Effect of Knowledge and Skills of Counselors....pdf",
+            "docid": 33195
+          }
+      ],
+      "datestamp": "2020-05-18 02:26:40",
+      "eprintid": 19886,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "3958-3961",
+      "full_text_status": "public",
+      "issn": "2277-8616",
+      "status_changed": "2020-05-18 02:26:40",
+      "ispublished": "pub",
+      "rev_number": 12,
+      "related_url": [
+        {
+          "url": "http:\/\/www.ijstr.org\/paper-references.php?ref=IJSTR-0320-32352",
+          "type": "author"
+        }
+      ],
+      "publication": "International Journal of Scientific & Technology Research",
+      "publisher": "IJSTR",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/01\/98\/86",
+      "abstract": "Program evaluation Guidance and counseling aims to maximize the efficiency and effectiveness of services through a careful and systematic examination of program components, methodologies, and results. However, often the counselor avoids these activities. There are three components that influence the counselor in developing the program. First, counselor's knowledge of evaluation; second, counselor skills in evaluating programs; third, counselor's self-efficacy towards data usage. His study aims to determine the effect of knowledge and skills possessed by counselors in making programs to self-efficacy in evaluating programs. This type of research is quantitative research with ex-post facto design. The research sample consisted of 50 school counselors in the city of Bandung. Data collection uses a questionnaire that the researcher developed himself. There are three questionnaires used, first, the Questionnaire of counselor's knowledge in compiling a guidance and counseling program; Second, Questionnaire Skills for counselors in developing guidance and counseling programs; Third, promote self-efficacy counselors in evaluating guidance and counseling programs. Data analysis techniques used multiple-regressions. The results showed that the knowledge and skills possessed by the counselor in making the program had an effect of 59% on self-efficacy in evaluating. To be able to conduct a good evaluation, school counselors are expected to have high understanding and skills in the preparation of guidance and counseling programs.",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Pendidikan Indonesia",
+        "Universitas Pendidikan Indonesia",
+        "Universitas Pendidikan Indonesia",
+        "Universitas Muhammadiyah Pringsewu"
+      ],
+      "volume": 9,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19886",
+      "date": "2020-03",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ]
+    },
+    {
+      "rev_number": 5,
+      "succeeds": 24960,
+      "status_changed": "2022-04-01 01:03:59",
+      "event_type": "conference",
+      "dir": "disk0\/00\/04\/09\/18",
+      "divisions": [
+        "FKIP2"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40918",
+      "event_title": "Proceedings of the 2nd  International Seminar on Guidance and Counseling 2019 (ISGC 2019)",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "title": "Gender Differences in Predicting Adolescent Autonomy",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "ranni.rahmayanthi@fkip.unila.ac.id",
+          "name": {
+            "given": "Ranni",
+            "lineage": null,
+            "family": "Rahmayanthi",
+            "honourific": null
+          }
+        },
+        {
+          "id": "syamsu@upi.edu",
+          "name": {
+            "family": "LN Yusuf",
+            "lineage": null,
+            "honourific": null,
+            "given": "Syamsu"
+          }
+        },
+        {
+          "id": "Ilfiandra@upi.edu",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ilfiandra",
+            "given": "Ilfiandra"
+          }
+        },
+        {
+          "name": {
+            "given": "Nurhudaya",
+            "lineage": null,
+            "family": "Nurhudaya",
+            "honourific": null
+          },
+          "id": "Nurhudaya@upi.edu"
+        }
+      ],
+      "lastmod": "2022-04-01 01:03:59",
+      "metadata_visibility": "show",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/www.atlantis-press.com\/proceedings\/isgc-19\/125943354"
+        }
+      ],
+      "date": "2020-08-19",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Pendidikan Indonesia",
+        "Universitas Pendidikan Indonesia",
+        "Universitas Pendidikan Indonesia"
+      ],
+      "abstract": "The purpose of this study is to look at differences in autonomy and gender perspective on the relationship between emotional dimensions, behavioral dimensions and value dimensions. Participants in this study were Senior High Schools with a total of 538, consisting of 207 men and 331 women with an average age of 16-18 years. Research was done using quantitative surveys with the type of research using cross-sectional studies. The instrument used was the scale of adolescent independence, which was developed from Steinberg's theory. Data analysis techniques using the Mann-U Whitney different test analysis. The results showed no difference in the autonomy of adolescent boys and girls in the dimensions of value autonomy and emotional autonomy, while independently showed significant difference in adolescent boys and girls.  \r\n \r\nKeywords- autonomy, gender, emotional autonomy, behavioral autonomy, and value autonomy",
+      "event_location": "Yogyakarta",
+      "event_dates": "14-15 Oktober",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "eprintid": 40918,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162308",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454880",
+                  "filename": "Ranni_atlantis.pdf",
+                  "filesize": 241926,
+                  "objectid": 162308,
+                  "mtime": "2020-11-11 08:07:33",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "e21a65d32cb0a979f06683dda4121a1a",
+                  "fileid": 454880,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Ranni_atlantis.pdf",
+            "docid": 162308,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf"
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "3054-12-15.pdf",
+            "files": [
+                {
+                  "objectid": 162314,
+                  "filesize": 1873392,
+                  "filename": "3054-12-15.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454887",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-31 08:30:06",
+                  "fileid": 454887,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "2dced7d81a9ac5c84affca063f1bc404"
+                }
+            ],
+            "docid": 162314,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162314",
+            "pos": 7,
+            "eprintid": 40918,
+            "placement": 7
+          }
+      ],
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/isgc-19",
+      "userid": 41,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pagerange": "221-224",
+      "eprintid": 40918,
+      "eprint_status": "archive",
+      "datestamp": "2022-04-01 01:03:59"
+    },
+    {
+      "publisher": "Universitas Mathla'ul Anwar Banten",
+      "related_url": [
+        {
+          "url": "http:\/\/ijec.ejournal.id\/index.php\/counseling\/article\/view\/124\/74",
+          "type": "author"
+        }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "I SSN  2541 - 2779 ( print ) ||  I SSN  2541 - 2787 ( online )",
+      "date": "2020-01-18",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Pendidikan Indonesia",
+        "Universitas Pendidikan Indonesia"
+      ],
+      "abstract": "PEER  PERFORMANCE  PROFILE  BASED  ON  DEMOGRAPHIC  FACTORS. \r\nThe purpose of this study was to determine the conformity profile peers based on  demographics  socioeconomic  status.  Participants  in  this  study  were  123 students  junior  high  school  consist  of  39  regulars’  student  and  86  “bina lingkungan” (low economic) students. The average age of participants was 12-15 years. This research approach using quantitative approach, types of research u sing  a  cross  sectional  survey.  The  instruments  used  was  a  scale  conformity peers  who  developed  the theory Brendt  use any  form  of  semantic differential scale with alternative answers 1-6 (1 = very inappropriate, 6 = very appropriate). Data were analysed using analysis Mann\r\n- Whitney U with a score of 1488.00 and a significance probability value of 0.414. Because the probability of significance 0.414 > 0.05, the results showed that there was no difference conformity peers in the student of low socioeconomic status and students socioeconomic status \r\nof middle to top.",
+      "refereed": "TRUE",
+      "pagerange": "65-74",
+      "eprintid": 40880,
+      "eprint_status": "archive",
+      "id_number": "10.30653\/001.202041.124",
+      "datestamp": "2022-04-01 01:03:25",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 162307,
+            "main": "Peer review_IJEC.pdf",
+            "files": [
+                {
+                  "filesize": 1060001,
+                  "objectid": 162307,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454875",
+                  "filename": "Peer review_IJEC.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-31 08:09:47",
+                  "datasetid": "document",
+                  "fileid": 454875,
+                  "hash": "844e5aa57df039d9846ade762ef7c67b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "content": "other",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "eprintid": 40880,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162307"
+          }
+      ],
+      "official_url": "http:\/\/ijec.ejournal.id\/index.php\/counseling",
+      "number": 1,
+      "userid": 41,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publication": "I NDONES I AN JOURNAL OF EDUCAT I ONAL COUNSEL I NG",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/04\/08\/80",
+      "rev_number": 5,
+      "status_changed": "2022-04-01 01:03:25",
+      "succeeds": 20492,
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40880",
+      "volume": 4,
+      "title": "Profil Komformitas Teman Sebaya Berdasarkan Faktor \r\nDemografi",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rahmayanthi",
+            "lineage": null,
+            "given": "Ranni"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yusuf",
+            "honourific": null,
+            "given": "Syamsu"
+          }
+        },
+        {
+          "name": {
+            "given": "Ilfiandra",
+            "family": "Ilfiandra",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "lastmod": "2022-04-01 01:03:25"
+    },
+    {
+      "abstract": "Menurut data Kepolisian Negara Republik Indonesia tahun 2017, rata-rata 3 orang meninggal setiap jamnya akibat kecelakaan di jalan raya yang disebabkan oleh faktor manusia, kendaraan, infrastruktur, dan lingkungan. Tujuanpenelitianmendeskripsikan  perilaku  lalu  lintas  pada  generasi  milenial.  Metode  penelitian  yang digunakan  adalah  metode  campuran.  Lokasi  penelitian  dilakukan  di  Kota  Bandar  Lampung  dan  Kabupaten Pesawaran.  Penelitian  ini  menggunakan  kuesioner  dan  lembar  wawancara.  Tes  Mann  Whitney  digunakan untuk menentukan perbedaan antar kelompok. Data kualitatif dirumuskan sebagai kesimpulan. Temuan data penelitian  menunjukkan  tidak  ada  perbedaan  skor  pengetahuan  mengemudi  antara  sekolah dengan program dan non-program, dan tidak ada perbedaan skor pengetahuan tentang rambu lalu lintas antara sekolah dengan program  dan  non-program.  Berdasarkan  hasil  wawancara  di  4  sekolah  yang  tidak  menerima edukasi  dalam program  Police  Goes  to  School,  2  di  antaranya  dalam  3  tahun  terakhir  tidak  menerima  program  tersebut, sedangkan 2 lainnya tidak pernah menerima program pendidikan Police Goes to School.Kata kunci: perilaku, lalu lintas,generasi milenial, police goes to school",
+      "volume": 3,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48248",
+      "date": "2020-04",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-02-01 01:44:26",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "https:\/\/jurnal.unej.ac.id\/index.php\/KORLANTAS-JIRS\/article\/view\/17181\/9637",
+      "publisher": "Journal of Indonesia Road Safety",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0_bak\/00\/04\/82\/48",
+      "userid": 20,
+      "number": 1,
+      "lastmod": "2023-02-01 01:44:26",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187515",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48248,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 187515,
+                  "filesize": 237493,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/527166",
+                  "filename": "analysis traffic of behavior.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-01 00:56:55",
+                  "fileid": 527166,
+                  "datasetid": "document",
+                  "hash": "ed111e6c23cfb7032e6d52d1f5ba2dcb",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "analysis traffic of behavior.pdf",
+            "docid": 187515,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2023-02-01 01:44:26",
+      "eprint_status": "archive",
+      "eprintid": 48248,
+      "metadata_visibility": "show",
+      "pagerange": "5-67",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Suharmanto",
+            "family": "Suharmanto",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "shinta.mayasari@fkip.unila.ac.id",
+          "name": {
+            "family": "Mayasari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Shinta"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "ANALYSIS OF TRAFFIC BEHAVIOR IN MILLENIAL GENERATION",
+      "refereed": "TRUE"
+    },
+    {
+      "lastmod": "2021-06-10 02:27:58",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/index",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 3,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 384309,
+                  "mime_type": "application\/pdf",
+                  "hash": "60dd77067cf8fd34c3a559ae9a7f0498",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-10 02:18:51",
+                  "filesize": 864560,
+                  "objectid": 147413,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/384309",
+                  "filename": "20950-50736-1-PB.pdf"
+                }
+            ],
+            "main": "20950-50736-1-PB.pdf",
+            "docid": 147413,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/147413",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 32474
+          }
+      ],
+      "userid": 453,
+      "number": 3,
+      "metadata_visibility": "show",
+      "pagerange": "468-477",
+      "datestamp": "2021-06-10 02:27:58",
+      "eprintid": 32474,
+      "eprint_status": "archive",
+      "title": "Exploring Pre-Service Teachers’ Personal Preference and Implications for Teacher Education",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "yusmansyah",
+            "honourific": null,
+            "given": "yusmansyah"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Utaminingsih",
+            "given": "Diah"
+          },
+          "id": "diahutaminingsih@yahoo.co.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Supriyadi",
+            "lineage": null,
+            "given": "Supriyadi"
+          },
+          "id": "supriyadi.1959@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Budi",
+            "lineage": null,
+            "family": "Kadaryanto",
+            "honourific": null
+          },
+          "id": "budi.kadaryanto@fkip.unila.ac.id"
+        }
+      ],
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32474",
+      "abstract": "Exploring Pre-Service Teachers’ Personal Preference and Implications for Teacher Education. Objectives: The purpose of this research is to describe and map the aspects of deference, order, succorance, change, and aggression of pre-service teachers. Method: This descriptive-quantitative research was conducted in the Faculty of teacher Training and Education, University of Lampung. 247 student teachers were selected form 4 different study programs. Edward Personal Preference Schedule (EPPS) test was administered. Findings: The findings suggest that the four different study programs employ different level of preference in relation to their preparation as a teacher. Conclusion: These differences are believed to have impact on teacher education variance.\r\n\r\nKeywords: pre-service teacher, teacher education, personal preference.",
+      "volume": 10,
+      "date_type": "published",
+      "subjects": [
+        "H1"
+      ],
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2087-9849",
+      "status_changed": "2021-06-10 02:27:58",
+      "publisher": "Unit Database dan Publikasi Ilmiah FKIP Unila",
+      "dir": "disk0\/00\/03\/24\/74",
+      "publication": "JPP Jurnal Pendidikan Progresif",
+      "divisions": [
+        "FKIP2"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "468-477",
+      "datestamp": "2021-06-10 03:12:03",
+      "eprint_status": "archive",
+      "eprintid": 32475,
+      "lastmod": "2021-06-10 03:12:03",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/index",
+      "documents": [
+          {
+            "eprintid": 32475,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/147414",
+            "format": "text",
+            "main": "20950-50736-1-PB.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 384317,
+                  "mime_type": "application\/pdf",
+                  "hash": "60dd77067cf8fd34c3a559ae9a7f0498",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-10 02:26:04",
+                  "filesize": 864560,
+                  "objectid": 147414,
+                  "filename": "20950-50736-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/384317"
+                }
+            ],
+            "docid": 147414,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 140,
+      "number": 3,
+      "title": "Exploring Pre-Service Teachers’ Personal Preference and Implications for Teacher Education",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "yusmansyah",
+            "lineage": null,
+            "family": "yusmansyah",
+            "honourific": null
+          }
+        },
+        {
+          "id": "diahutaminingsih@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Utaminingsih",
+            "lineage": null,
+            "given": "Diah"
+          }
+        },
+        {
+          "name": {
+            "given": "Supriyadi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Supriyadi"
+          },
+          "id": "supriyadi.1959@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Kadaryanto",
+            "lineage": null,
+            "given": "Budi"
+          },
+          "id": "budi.kadaryanto@fkip.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "H1"
+      ],
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32475",
+      "abstract": "Exploring Pre-Service Teachers’ Personal Preference and Implications for Teacher Education. Objectives: The purpose of this research is to describe and map the aspects of deference, order, succorance, change, and aggression of pre-service teachers. Method: This descriptive-quantitative research was conducted in the Faculty of teacher Training and Education, University of Lampung. 247 student teachers were selected form 4 different study programs. Edward Personal Preference Schedule (EPPS) test was administered. Findings: The findings suggest that the four different study programs employ different level of preference in relation to their preparation as a teacher. Conclusion: These differences are believed to have impact on teacher education variance.\r\n\r\nKeywords: pre-service teacher, teacher education, personal preference.",
+      "volume": 10,
+      "publication": "JPP Jurnal Pendidikan Progresif",
+      "publisher": "Unit Database dan Publikasi Ilmiah FKIP Unila",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/03\/24\/75",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2087-9849",
+      "status_changed": "2021-06-10 03:12:03"
+    }
+]
+

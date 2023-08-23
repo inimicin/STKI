@@ -1,0 +1,331 @@
+[
+    {
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/FND",
+          "name": {
+            "given": "Menristek",
+            "honourific": null,
+            "family": "Proyek RUT XI",
+            "lineage": null
+          }
+        },
+        {
+          "type": null,
+          "name": {
+            "given": "S",
+            "honourific": null,
+            "lineage": null,
+            "family": "Mujim"
+          }
+        },
+        {
+          "type": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Evizal",
+            "given": "R"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Firdaus",
+            "lineage": null,
+            "given": "R"
+          },
+          "type": null
+        },
+        {
+          "name": {
+            "given": "A",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ferdinand"
+          },
+          "type": null
+        },
+        {
+          "type": null,
+          "name": {
+            "given": "T",
+            "lineage": null,
+            "family": "Maryono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "F",
+            "lineage": null,
+            "family": "Ariani",
+            "honourific": null
+          },
+          "type": null
+        }
+      ],
+      "userid": 1039,
+      "documents": [
+          {
+            "format": "text",
+            "main": "JHPTT_2008.pdf",
+            "docid": 752,
+            "files": [
+                {
+                  "hash": "f2c139c919000c087be4a6faa38a6395",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 5231,
+                  "filename": "JHPTT_2008.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5231",
+                  "objectid": 752,
+                  "filesize": 99537,
+                  "mtime": "2016-10-23 04:42:18",
+                  "hash_type": "MD5"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 866,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/752"
+          }
+      ],
+      "official_url": "http:\/\/http:\/\/jhpttropika.fp.unila.ac.id\/",
+      "eprint_status": "archive",
+      "eprintid": 866,
+      "datestamp": "2016-10-24 01:34:30",
+      "pagerange": "132-137",
+      "refereed": "TRUE",
+      "abstract": "ABSTRACT\r\n\r\nEffect of infestation ofVerticillium lecanii on the severity of coffee leaf rust on plants and the incidence of its colony on coffee leaves. V. lecanii often antagonizes H. vastatrix on lesions caused by the pathogen on coffee leaves in the field. The\r\nobjectives of this study were to evaluate the efficacy of V. lecanii to control disease severity on coffee plants in a green house and to compare the incidence of V. lecanii colonies on coffee leaves naturally infested by V. lecanii in the field and that in the leaves with additional infestation in the laboratory. For efficacy test and additional infestation in the laboratory,\r\nconidia were harvested from YMPD medium. Suspension with 107 conidia ml-1 was sprayed into coffee foliage until both surfaces of the leaves were saturated with the suspension. After the leaves were air dried, they were sprayed with urediospores (104 ml-1). The results show that disease severity in plants treated with V. lecanii and control plants was not significantly different (P < 0.05), except that obtained at the fourth week when disease severity on the treated plants was\r\nsignificantly lower that that in control plants. The number of V. lecanii colonies on coffee leaves naturally infested with the biocontrol agent was not increased by additional infestation with V. lecanii conidia in the laboratory.\r\n\r\nKey words: Verticillium lecanii, Hemileia vastatrix, coffee leaf rust, mycoparasitism",
+      "date": "2008-09",
+      "projects": [
+        "RUT XI"
+      ],
+      "issn": "1411-7525",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Jurusan Proteksi Tanaman, PEI Bandar Lampung, PFI Lampung",
+      "lastmod": "2016-10-25 02:02:16",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Cipta",
+            "family": "Ginting",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "cipta.ginting@fp.unila.ac.id"
+        }
+      ],
+      "title": "PENGARUH INFESTASI VERTICILLIUM LECANII TERHADAP\r\nKEPARAHAN PENYAKIT KARAT DAUN KOPI PADA TANAMAN DAN\r\nKETERJADIAN KOLONINYA PADA DAUN",
+      "volume": 8,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/866",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "status_changed": "2016-10-24 01:34:30",
+      "rev_number": 8,
+      "publication": "Jurnal Hama dan Penyakit Tumbuhan Tropika",
+      "divisions": [
+        "FP24"
+      ],
+      "dir": "disk0\/00\/00\/08\/66",
+      "funders": [
+        "Menristek"
+      ]
+    },
+    {
+      "date": 2008,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18945",
+      "corp_creators": [
+        "UNIVERSITAS LAMPUNG"
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "seminar nasional sains dan teknologi II",
+      "date_type": "published",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2020-04-02 03:07:20",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "dir": "disk0\/00\/01\/89\/45",
+      "divisions": [
+        "FP24"
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32191",
+            "pos": 1,
+            "eprintid": 18945,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "11. Aplikasi Insektisida.pdf",
+            "docid": 32191,
+            "files": [
+                {
+                  "filesize": 1145977,
+                  "objectid": 32191,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/159033",
+                  "filename": "11. Aplikasi Insektisida.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-02 02:28:04",
+                  "datasetid": "document",
+                  "fileid": 159033,
+                  "hash": "5f244e19e0f8f9b8edcaa60ced346990",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2020-04-02 03:07:20",
+      "userid": 990,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 18945,
+      "datestamp": "2020-04-02 03:07:20",
+      "event_location": "Universitas Lampung",
+      "refereed": "TRUE",
+      "event_dates": "17-18 November 2009",
+      "title": "APLIKASI INSEKTISIDA PRODENOFOS, BUPROFEZIN, KARBARIL, DIAZION DAN KARBOSULFAN TERHADAP KUTU KEBUL BEMISIA TABACI GENN (HOMPTERA : ALEYRODIDAE) PADA TANAMAN TOMAT",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "purjomo@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Purnomo",
+            "given": "."
+          }
+        },
+        {
+          "name": {
+            "given": "Agus M.",
+            "lineage": null,
+            "family": "Hariri",
+            "honourific": null
+          },
+          "id": "agus.muhammad@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sudiono",
+            "lineage": null,
+            "given": "-"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "ferdhinand",
+            "honourific": null,
+            "given": "A"
+          },
+          "id": null
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "-",
+            "lineage": null,
+            "family": "Sudiono",
+            "honourific": null
+          }
+        },
+        {
+          "id": "purjomo@yahoo.com",
+          "name": {
+            "given": ".",
+            "family": "Purnomo",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Studi Kisaran Inang Kutu Kebul  (Bemisia tabaci Genn.) \r\nDi Sentra Sayuran Dataran Tinggi Tanggamus",
+      "number": 3,
+      "userid": 990,
+      "documents": [
+          {
+            "docid": 32192,
+            "main": "8. Siklus-Hidup-Kutu-Kebul-Dan-Pengendaliannya.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/159039",
+                  "filename": "8. Siklus-Hidup-Kutu-Kebul-Dan-Pengendaliannya.pdf",
+                  "filesize": 128725,
+                  "objectid": 32192,
+                  "mtime": "2020-04-02 02:38:23",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "10d77709d7b84f0e1779cf5c6290dd4f",
+                  "fileid": 159039,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 18946,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32192",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2020-04-02 03:07:07",
+      "eprint_status": "archive",
+      "eprintid": 18946,
+      "datestamp": "2020-04-02 03:07:07",
+      "pagerange": "103-108",
+      "metadata_visibility": "show",
+      "status_changed": "2020-04-02 03:07:07",
+      "full_text_status": "public",
+      "issn": "ISSN 1410-5020, eISSN Online 2047-178",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "Jurnal Penelitian terapan",
+      "publisher": "Politeknik Negeri Lampung",
+      "divisions": [
+        "FP24"
+      ],
+      "dir": "disk0\/00\/01\/89\/46",
+      "volume": 8,
+      "corp_creators": [
+        "UNIVERSITAS LAMPUNG"
+      ],
+      "abstract": "Bemisia tabaci Genn. is an important vector of transmission of yellow \r\n      disease.  The controlling of B. tabaci can prevent the dispersion of yellow\r\n      disease.  Study  of the host range of  B. tabaci is an important step  in\r\n      Integrated Pest Management  (IPM).   A survey to study host plant of\r\n      B. tabaci Genn. in   the centre of  highland   vegetables was conducted in\r\n      Tanggamus, Lampung.   The result   showed that  B. tabaci and yellow\r\n      disease was found on chili, tomato, eggplant, peanut, and  a weed\r\n      (Ageratum conyzoides). \r\n      Key words:  Bemisia tabaci, yellow disease, host plant",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18946",
+      "date": "2008-09",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published"
+    }
+]
+

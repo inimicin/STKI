@@ -1,0 +1,162 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "chatarinaniken@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Chatarina",
+            "honourific": null,
+            "given": "Niken"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Perilaku Lentur Sambungan Model Takik pada Balok Aplikasi untuk Beton Pracetak",
+      "eprintid": 43900,
+      "id_number": 1023917,
+      "eprint_status": "archive",
+      "datestamp": "2022-08-04 02:44:41",
+      "pagerange": "149-161",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 846,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165882",
+            "eprintid": 43900,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 583141,
+                  "objectid": 165882,
+                  "filename": "Takik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/477909",
+                  "hash_type": "MD5",
+                  "mtime": "2022-08-03 13:54:26",
+                  "fileid": 477909,
+                  "datasetid": "document",
+                  "hash": "961f21ed2f4e909a53d98c127d3fcec6",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Takik.pdf",
+            "docid": 165882
+          }
+      ],
+      "official_url": "https:\/\/journals.ums.ac.id\/index.php\/dts",
+      "lastmod": "2022-08-04 02:44:41",
+      "publisher": "Fakultas Teknik UMS",
+      "divisions": [
+        "FT2"
+      ],
+      "publication": "dinamika Teknik Sipil",
+      "dir": "disk0\/00\/04\/39\/00",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/publikasiilmiah.ums.ac.id\/bitstream\/handle\/11617\/145\/_8_%20NIKEN.pdf;sequence=1"
+        }
+      ],
+      "status_changed": "2022-08-04 02:44:41",
+      "issn": "1411-8904",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "volume": 8,
+      "abstract": "Precast concrete was better than cast in situ reinforced concrete in particular fast and mass work. Precast concrete was already used but the system has connection problem. The research objective was know bending behaviour of notch system connection. The research use full scale simple beam with13 representativestrain gauge and 11 dial gauge (tranducer). The beam was loaded vertical reversal loading with implemented increase gradually untill maximum load and than continous monotonic loading until the beam failure. After that the beam was break open to watch bar and concrete condition after loading examination. Research product shown that. most strictly SNI(Indonesion National Standart) condition can reached with 4,66 mm displacement and 17,326 tf loading at elastic beam condition. First crack become at 6,64 tf loading that is equal with 86,8% static loading calculation. Maximum loading was 23,99 tf or 62% static loading calculation, it was appropriate with fatigue theory that reversal loading decrease 40-55 % from static loading. First crack was bending crack and than the crack was develop diagonal type. Type of crack was appropriate with cast in situ reinforced concrete.",
+      "date": "2008-07-30",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43900"
+    },
+    {
+      "title": "PEMODELAN NUMERIK PERAMBATAN GELOMBANG 2 DIMENSI \r\nMELALUI BREAKWATER TENGGELAM",
+      "creators": [
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Zakaria",
+            "honourific": null,
+            "given": "Ahmad"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "contact_email": "ahmad.zakaria@eng.unila.ac.id",
+      "metadata_visibility": "show",
+      "lastmod": "2023-03-27 00:53:41",
+      "event_type": "conference",
+      "publication": "PROSIDING Seminar Nasional Sains dan Teknologi II",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0_bak\/00\/04\/92\/22",
+      "rev_number": 7,
+      "succeeds": 48003,
+      "status_changed": "2023-03-27 00:53:41",
+      "subjects": [
+        "TC"
+      ],
+      "event_title": "Seminar Nasional Sains dan Teknologi - II",
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49222",
+      "refereed": "TRUE",
+      "event_dates": "17 - 18 November 2008",
+      "pres_type": "paper",
+      "event_location": "Universitas Lampung",
+      "pagerange": "136-145",
+      "eprint_status": "archive",
+      "referencetext": "Reynolds, A. C., 1978, Boundary conditions for the numerical solution of wave propagation\r\nproblems, Geophysics 43(6), 1099-1110.\r\nMihardja, D. K., Hadi, S., 1989, Model matematika numerik untuk simulasi gerak pasang-surut,\r\nPasang-Surut, Pusat Penelitian dan Pengembangan Oceanografi LIPI, Jakarta.\r\nZakaria, A., 2003, Numerical Modelling of Wave Propagation using Higher Order Finite-\r\nDifference Formulas, Thesis (Ph.D), Curtin University of Technology, Perth, W.A.",
+      "eprintid": 49222,
+      "datestamp": "2023-03-27 00:53:41",
+      "documents": [
+          {
+            "eprintid": 49222,
+            "placement": 2,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188758",
+            "pos": 2,
+            "format": "text",
+            "main": "satek 2 unila - pemodelan numerik - 2008.pdf",
+            "files": [
+                {
+                  "filename": "satek 2 unila - pemodelan numerik - 2008.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534784",
+                  "filesize": 6562589,
+                  "objectid": 188758,
+                  "mtime": "2023-03-24 02:59:47",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "741ca168b6d0f5f131b26d8cca79a605",
+                  "datasetid": "document",
+                  "fileid": 534784
+                }
+            ],
+            "docid": 188758,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 491,
+      "publisher": "Universitas Lampung",
+      "keywords": "numerical modeling, 2-D wave propagation, submerged breakwater.",
+      "ispublished": "pub",
+      "issn": "978-979-1165-74-7",
+      "full_text_status": "public",
+      "date": "2008-11-17",
+      "abstract": "Recently, a numerical modeling for simulating 2-D wave propagation has been studied\r\nby scientists and engineers extensively. This is intended to see how far phenomenon of wave\r\npropagation if it's really happened in the nature. Besides that because of impacts from the\r\noccurrence of tsunami in the various area in Indonesia generally and in the Aceh Province\r\nespecially, studies of the phenomenon of tsunami to be increase, and also coastal protection\r\nstudies by using submerged breakwaters more increase significantly. Therefore in this research\r\nis conducted a study of 2-D wave propagation over submerged breakwater An ability of wave\r\nhigh reduction by submerged breakwater inspired from reef which it's having ability in\r\nweakening shallow water waves propagate to coastline. Others, also because of a reason of\r\nesthetics, breakwaters which emerge to the water surfaces have been assumed bother the\r\nfisherman activities. In this research, a 2-D hyperbolic equation is used for the simulation of its\r\nwave propagation and open boundary conditions involved for the calculation of wave\r\npropagation in its boundaries. An explicit finite different method for second order of accuracies\r\nemployed for the calculation of its equation approach. Result of this research indicated that by\r\nusing the 2-D hyperbolic equation, the explicit finite difference method for the second order of\r\naccuracies and the open boundary condition method for the condition of its boundaries to be\r\nable to simulate the wave propagation of over the submerged breakwater. In this research,\r\ndispersion and reflection effects of the submerged breakwater have been shown significantly.\r\nAnd it is available to use the submerged breakwater as a wave reduction in the coast area.\r\n \r\nKeywords: numerical modeling, 2-D wave propagation, submerged breakwater."
+    }
+]
+

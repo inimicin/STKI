@@ -1,0 +1,541 @@
+[
+    {
+      "publisher": "University of Lampung",
+      "publication": "Journal of Tropical Soils",
+      "dir": "disk0\/00\/00\/11\/27",
+      "divisions": [
+        "FP23"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2016-11-10 09:20:49",
+      "issn": "0852-257X",
+      "full_text_status": "public",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "date": "2004-06-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1127",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 10,
+      "abstract": "The effect of rhizobial and vesicular arbuscular mycorrhizal (VAM) fungi on the nitrogen and phosphorus content in soybean as well as mycorrhizal root infection and root nodule number grown in ultisols soil treated with triple super phosphate (TSP) were studied under green-house conditions. The pots received the rate of 0, 50 mg kg-1, 100 mg kg-1, and 150 mg kg-1, respectively. Results indicated that phosphorus fertilization increased the total number of root noduls, VAM root infection, and nitrogen and phosphorus content in soybean. The significance difference was observed for root nodule by rhizobium and dual inoculation with mycorrhiza.  Nitrogen content was not significantly different by single or dual inoculation.  However, phosphorus content were significantly higher in the control (without inoculum) and rhizobium inoculation at the rate of 150 mg kg-1 of phosphorus.  Dual inoculation did not significantly increase nitrogen and phosphorus content.  From this study, it is suggested that the couple of rhizobium and mycorrhiza for sinergis working in ultisols soils should be explorer.",
+      "refereed": "TRUE",
+      "title": "Kandungan Nitrogen dan Fosfor pada Kedelai yang Diinokulasi oleh Rhizobium dan Mikoriza pada Berbagai Dosis TSP di Tanah Ultisols",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Niswati",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ainin"
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        }
+      ],
+      "pagerange": "49-54",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 1127,
+      "datestamp": "2016-11-10 09:20:49",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1009",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1127,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "content": "published",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 7464,
+                  "hash": "f8bfd88d424daf0de26fa84a8dd0b790",
+                  "mime_type": "application\/pdf",
+                  "objectid": 1009,
+                  "filesize": 545746,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7464",
+                  "filename": "Vol 10(1)49-54.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-10 08:53:06"
+                }
+            ],
+            "main": "Vol 10(1)49-54.pdf",
+            "docid": 1009,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2016-11-10 09:20:49",
+      "number": 1,
+      "userid": 1055
+    },
+    {
+      "date_type": "published",
+      "event_title": "Conservation and Sustainable management of below ground Biodiversity in Indonesia",
+      "subjects": [
+        "S1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/400",
+      "date": 2004,
+      "abstract": ".",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "event_type": "conference",
+      "divisions": [
+        "FP23"
+      ],
+      "dir": "disk0\/00\/00\/04\/00",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2016-10-25 01:11:20",
+      "metadata_visibility": "show",
+      "pagerange": "92-100",
+      "datestamp": "2016-10-25 01:11:20",
+      "eprint_status": "archive",
+      "eprintid": 400,
+      "lastmod": "2016-10-25 01:11:20",
+      "official_url": "http:\/\/www.bgbd.net\/Site_Themes\/pub2d.html",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 5483,
+                  "hash": "02a341d61418416f9462ee1cb6d4d7db",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-24 15:47:59",
+                  "filesize": 1814863,
+                  "objectid": 789,
+                  "filename": "Prosiding-CSM-BGBD.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5483"
+                }
+            ],
+            "main": "Prosiding-CSM-BGBD.pdf",
+            "docid": 789,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "content": "published",
+            "placement": 1,
+            "eprintid": 400,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/789",
+            "security": "public"
+          }
+      ],
+      "userid": 1068,
+      "title": "Conservation and sustainable management of below-ground biodiversity in Indonesia in the context of the global CSM-BGBD Project",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Noordwijk",
+            "honourific": null,
+            "given": "Meine van"
+          }
+        },
+        {
+          "id": "mutomo2011@gmail.com",
+          "name": {
+            "given": "Muhajir",
+            "family": "Utomo",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "fx.susilo@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Susilo",
+            "given": "FX"
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "event_location": "Bogor"
+    },
+    {
+      "datestamp": "2016-11-01 04:12:21",
+      "id_number": "http:\/\/dx.doi.org\/10.1016\/j.still.2003.09.001",
+      "eprintid": 1015,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "115-124",
+      "userid": 872,
+      "number": 2,
+      "official_url": "http:\/\/www.sciencedirect.com\/science\/article\/pii\/S0167198703001909",
+      "lastmod": "2016-11-01 04:12:21",
+      "documents": [
+          {
+            "eprintid": 1015,
+            "placement": 1,
+            "security": "validuser",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/908",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "aab61e087328c1700707339bd64d64c6",
+                  "datasetid": "document",
+                  "fileid": 6533,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6533",
+                  "filename": "soil chemichal.pdf",
+                  "filesize": 78160,
+                  "objectid": 908,
+                  "mtime": "2016-10-31 05:37:53",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "soil chemichal.pdf",
+            "docid": 908,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2
+          }
+      ],
+      "creators": [
+        {
+          "id": "sarno.1957@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sarno",
+            "honourific": null,
+            "given": "-"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Iijima",
+            "honourific": null,
+            "given": "Morio"
+          }
+        },
+        {
+          "id": "jamalam.lumbanraja@fp.unila.ac.id",
+          "name": {
+            "family": "Lumbanraja",
+            "lineage": null,
+            "honourific": null,
+            "given": "Jamalam"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sunyoto",
+            "lineage": null,
+            "given": "-"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Erwin",
+            "honourific": null,
+            "family": "Yuliadi",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Yasuhiro",
+            "honourific": null,
+            "family": "Izumi",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Akira",
+            "honourific": null,
+            "family": "Watanabe",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Soil chemical properties of an Indonesian red acid soil as affected by land use and crop management",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "In the middle terrace area of south Sumatra, Indonesia, where red acid soils poor in crop productivity are widely distributed, the effects of cropping pattern and cultivation techniques on physico-chemical properties of soil were investigated. Five patterns for cassava cropping, including monoculture, a rotation with annual food crops, and three intercroppings with differences in the combination with annual crops and in the planting density, were evaluated in Experiment I. In Experiment II, eight plots composed of the combinations of two tillage methods (no-tillage or conventional tillage), the presence or absence of surface mulch from crop residues, and two rates of chemical fertilizers were established for a maize–soybean–cowpea sequential cropping pattern. At the end of 3 years, there was no difference in total C and total N concentrations among the plots in Experiment I irrespective of the mulch treatment using crop residues. Soil organic matter (SOM) concentration was not affected even in the no-tillage plot where the maximum crop residues (20 t ha−1) was given as surface mulch with the increased root residues due to higher rates of fertilizers (Experiment II). In Experiment I, available P concentration was highest in an intercropping with higher fertilizer rates and lowest cassava planting density. In Experiment II, an increase in available P was attained by mulching and the higher rate of fertilizers, and a minor positive effect of fertilizer was also observed in exchangeable Mg and K concentrations. Surface mulch resulted in less clay fraction compared with the non-mulch plots in both the experiments, suggesting its effect on the maintenance of soil particle distribution. An additional finding suggested no prominent influence of cassava monoculture on the level of SOM in this area based on the comparison with other major land uses, including secondary forest, rubber plantation, and mixed cultivation of fruits with crops. Nevertheless, the introduction of crop residue mulch and higher rates of fertilizers are recommended for sustaining soil quality and achieving higher crop yields.",
+      "volume": 76,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1015",
+      "date": "2004-04-01",
+      "publisher": "Elsevier",
+      "dir": "disk0\/00\/00\/10\/15",
+      "publication": "Soil and Tillage Research",
+      "divisions": [
+        "FP23"
+      ],
+      "issn": "0167-1987",
+      "full_text_status": "restricted",
+      "status_changed": "2016-11-01 04:12:21",
+      "rev_number": 10,
+      "ispublished": "pub"
+    },
+    {
+      "eprint_status": "archive",
+      "eprintid": 1003,
+      "datestamp": "2016-11-01 04:12:04",
+      "pagerange": "1-4",
+      "metadata_visibility": "show",
+      "userid": 872,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "main": "Sarno- Nut Agro 2004.pdf",
+            "docid": 903,
+            "files": [
+                {
+                  "hash": "665715abaef628dcd6b623a90003b124",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 6467,
+                  "mtime": "2016-10-30 14:39:05",
+                  "hash_type": "MD5",
+                  "filename": "Sarno- Nut Agro 2004.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6467",
+                  "objectid": 903,
+                  "filesize": 53096
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/903",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1003
+          }
+      ],
+      "lastmod": "2016-11-01 04:12:04",
+      "official_url": "http:\/\/link.springer.com\/journal\/10705",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "-",
+            "family": "Sarno",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sarno.1957@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Lumbanraja",
+            "given": "Jamalam"
+          },
+          "id": "jamalam.lumbanraja@fp.unila.ac.id"
+        },
+        {
+          "id": "afandi.1964@fp.unila.ac.id",
+          "name": {
+            "family": "Afandi",
+            "lineage": null,
+            "honourific": null,
+            "given": "."
+          }
+        },
+        {
+          "name": {
+            "given": "Tadashi",
+            "lineage": null,
+            "family": "Adachi",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Oki",
+            "lineage": null,
+            "honourific": null,
+            "given": "Yolo"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Masateru",
+            "lineage": null,
+            "family": "Senge",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Akira",
+            "lineage": null,
+            "family": "Watanabe",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Effect of weed management in coffee plantation on soil chemical properties",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "volume": 69,
+      "abstract": "Coffee plantation in south Sumatra, Indonesia, is developed on the slopes in hilly areas, where soil erosion is a severe problem. Introduction of weed as cover plant has been found to be effective in the reduction of soil erosion. Here the effect of weed management, weeding and coverage with Paspalum conjugatum Berg. or natural weeds, on soil chemical properties was investigated. After 4 years, contents of total C, total N, available P, and exchangeable _ex._Mg in the 0–10 cm and 10–20 cm depth layers were signiﬁcantly greater in the Paspalum conjugatum and natural weed plots than in the weeding plot. In the 0–10 cm layer, ex-K and ex.-Ca were also greater in the weed-introduced plots than in the weeding plot. Decrease in soil pH _H2O_and the increase in ex. Al under coffee plantation were reduced by the coverage with weeds. Thus soil coverage with weeds in coffee plantation on slopes was effective in the maintenance of soil fertility.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1003",
+      "date": 2004,
+      "publisher": "Kluwer Academic Publishers",
+      "divisions": [
+        "FP23"
+      ],
+      "publication": "Nutrient Cycling in Agroecosystems",
+      "dir": "disk0\/00\/00\/10\/03",
+      "status_changed": "2016-11-01 04:12:04",
+      "issn": "1385-1314",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Pengaruh jangka panjang pemberian pupuk organik dan inorganik serta kombinasinya terhadap perbaikan tanah masam Taman Bogo",
+      "type": "article",
+      "creators": [
+        {
+          "id": "sri.yusnaini@fp.unila.ac.id",
+          "name": {
+            "given": "Sri",
+            "family": "Yusnaini",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Mas Achmad Syamsul",
+            "family": "Arif",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "abimasyarif@gmail.com"
+        },
+        {
+          "id": "jamalam.lumbanraja@fp.unila.ac.id",
+          "name": {
+            "given": "Jamalam",
+            "family": "Lumbanraja",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Nugroho",
+            "lineage": null,
+            "given": "Ghani Sutopo"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nonaka",
+            "honourific": null,
+            "given": "Masanori"
+          },
+          "id": null
+        }
+      ],
+      "pagerange": "155-162",
+      "metadata_visibility": "show",
+      "eprintid": 19511,
+      "eprint_status": "archive",
+      "datestamp": "2020-05-08 02:44:09",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32743",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19511,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Tahun IX No. 18 Januari-juni 2004.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 163016,
+                  "hash": "a30e79eee05f60ff48461a27dd67f26a",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-08 02:21:24",
+                  "filesize": 4235439,
+                  "objectid": 32743,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163016",
+                  "filename": "Tahun IX No. 18 Januari-juni 2004.pdf"
+                }
+            ],
+            "docid": 32743,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2020-05-08 02:44:09",
+      "number": 18,
+      "userid": 555,
+      "divisions": [
+        "FP23"
+      ],
+      "publisher": "University of Lampung",
+      "publication": "Journal of Tropical Soils",
+      "dir": "disk0\/00\/01\/95\/11",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-05-08 02:44:09",
+      "full_text_status": "public",
+      "issn": "0852-257X",
+      "subjects": [
+        "S1"
+      ],
+      "date": "2004-01-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19511",
+      "abstract": "Application of organic an inorganic fertrilizers might increased the acid soil productivity by increasing soil nutrient and soil organism activity. The purpose of this study was to investigate the productivity of acid soil in different treatment of long combination organic and inorganic fertilization in acid soil of Taman Bogo through behavior of soil nutrient and soil organisms activity (earthworm and vesicular arbuscular mycorrhizae in the first and second season of corn crops. It was investigated the soil pH, total carbon, total nitrogen, earthworm population, and diversity of vesicular arbuscular mycorrhizae in plow soil under (1) No fertilizer; (2) chicken manure 20 ton ha-1, (3) green manure Glyricidium sp. 20 ton ha-1; (4)Inorganic fertilizer (urea 300 kg, SP36 200 kg, and KCl 100kg ha-1; (5) Combination of 50% of treatment (2) and 50% of treatment (4); (6) Combination of 50% of treatment (4) and (8) Combination of 75% of treatment (3) and 25% of treatment (4). The result showed that the application of combination of chicken manure and inorganics fertilizer can increased the soil pH, total nitrogen, earthworm population, and yield of corn."
+    }
+]
+

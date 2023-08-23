@@ -1,0 +1,126 @@
+[
+    {
+      "full_text_status": "public",
+      "status_changed": "2021-05-27 02:32:23",
+      "succeeds": 30429,
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "Canbridge Universitry Press",
+      "dir": "disk0\/00\/03\/07\/70",
+      "divisions": [
+        "FKIP7"
+      ],
+      "date": "2010-11-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30770",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ujang Suparman",
+            "given": "Suparman"
+          }
+        }
+      ],
+      "title": "Teaching English to Unila Non-English Postgraduate Program : Observation and Recommendation.",
+      "userid": 783,
+      "lastmod": "2021-05-27 02:32:23",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 3,
+            "format": "text",
+            "main": "TEACHING_ENGLISH_TO_UNILA_NON_ENGLISH_POSTGRADUATE.pdf",
+            "docid": 138794,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 364929,
+                  "hash": "ed2e5e424a401f35d4c4f191b5686c37",
+                  "mime_type": "application\/pdf",
+                  "objectid": 138794,
+                  "filesize": 2228251,
+                  "filename": "TEACHING_ENGLISH_TO_UNILA_NON_ENGLISH_POSTGRADUATE.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364929",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-21 09:54:40"
+                }
+            ],
+            "security": "public",
+            "formatdesc": "Similarity",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138794",
+            "eprintid": 30770,
+            "placement": 1
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "main": "8.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 364936,
+                  "hash": "17cd83dc1b6ab9afe926aecfdca00f97",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1154916,
+                  "objectid": 138800,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364936",
+                  "filename": "8.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-25 08:09:04"
+                }
+            ],
+            "docid": 138800,
+            "format": "text",
+            "pos": 7,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138800",
+            "security": "public",
+            "formatdesc": "Reviewer",
+            "placement": 7,
+            "eprintid": 30770
+          },
+          {
+            "main": "TEACHING ENGLISH TO UNILA NON-ENGLISH POSTGRADUATE.pdf",
+            "files": [
+                {
+                  "hash": "d1b158f211658c2da636304f3fd01ddf",
+                  "mime_type": "application\/pdf",
+                  "fileid": 364938,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364938",
+                  "filename": "TEACHING ENGLISH TO UNILA NON-ENGLISH POSTGRADUATE.pdf",
+                  "filesize": 532530,
+                  "objectid": 138801,
+                  "mtime": "2021-05-25 08:09:23",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 138801,
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "placement": 8,
+            "eprintid": 30770,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138801",
+            "pos": 8,
+            "security": "public",
+            "formatdesc": "Artikel"
+          }
+      ],
+      "datestamp": "2021-05-27 02:32:23",
+      "eprint_status": "archive",
+      "eprintid": 30770,
+      "metadata_visibility": "show"
+    }
+]
+

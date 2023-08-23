@@ -1,0 +1,164 @@
+[
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 48899,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188337",
+            "pos": 1,
+            "security": "public",
+            "main": "Ketiatan Tambahan Usul GB Irza Sukmana.pdf",
+            "docid": 188337,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 532263,
+                  "hash": "50ab118572c04a5f88f2b539691f80db",
+                  "mime_type": "application\/pdf",
+                  "objectid": 188337,
+                  "filesize": 12486907,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/532263",
+                  "filename": "Ketiatan Tambahan Usul GB Irza Sukmana.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-10 09:36:37"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-03-10 09:43:05",
+      "userid": 464,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 48899,
+      "datestamp": "2023-03-10 09:43:05",
+      "title": "Kegiatan Tambahan GB",
+      "creators": [
+        {
+          "name": {
+            "given": "Sukmana",
+            "honourific": null,
+            "family": "Irza",
+            "lineage": null
+          },
+          "id": "irza.sukmana@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48899",
+      "date": 2023,
+      "abstract": "Lampiran bukti kinerja kegiatan tambahan untuk usulan Guru Besar a.n. Irza Sukmana",
+      "subjects": [
+        "TJ"
+      ],
+      "ispublished": "submitted",
+      "rev_number": 7,
+      "status_changed": "2023-03-10 09:43:05",
+      "full_text_status": "public",
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "Unila",
+      "dir": "disk0_bak\/00\/04\/88\/99"
+    },
+    {
+      "title": "Pola Konsentrasi PM2.5 di Negara-negara ASEAN Berdasarkan Kepadatan Penduduk",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "achmad.yahya@eng.unila.ac.id",
+          "name": {
+            "given": "Yahya",
+            "lineage": null,
+            "family": "Panuju",
+            "honourific": null
+          }
+        },
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "given": "Mustofa",
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2023-07-10 01:55:38",
+      "eprintid": 52214,
+      "eprint_status": "archive",
+      "lastmod": "2023-07-10 01:55:38",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Procedia Senasains.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 618744,
+                  "mime_type": "application\/pdf",
+                  "hash": "ee883bc09433bc988889516ac16a543b",
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-07 10:49:01",
+                  "objectid": 252781,
+                  "filesize": 706782,
+                  "filename": "Procedia Senasains.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618744"
+                }
+            ],
+            "docid": 252781,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252781",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52214
+          }
+      ],
+      "userid": 59,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/pels.umsida.ac.id\/index.php\/PELS\/article\/view\/1385",
+          "type": "pub"
+        }
+      ],
+      "publisher": "Universitas Muhammadiyah Sidoarjo",
+      "dir": "disk0_bak\/00\/05\/22\/14",
+      "publication": "Procedia of Engineering and Life Science",
+      "divisions": [
+        "FT7"
+      ],
+      "ispublished": "pub",
+      "rev_number": 9,
+      "issn": "2807-2243",
+      "full_text_status": "public",
+      "status_changed": "2023-07-10 01:55:38",
+      "date_type": "published",
+      "subjects": [
+        "Q1",
+        "QA",
+        "T1",
+        "TD"
+      ],
+      "date": "2023-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52214",
+      "abstract": "Konsentrasi PM2.5 di udara ambien merupakan salah satu tolak ukur kualitas udara yang berpengaruh pada kesehatan masyarakat pada suatu wilayah. Polutan ini dianggap berbahaya karena ukurannya sangat kecil, sehingga dapat memasuki paru-paru dan mengambang di udara dalam waktu yang cukup lama. Identifikasi pola sebaran konsentrasi PM2.5 penting untuk dilakukan sebagai upaya mengenali aspek-aspek yang berpengaruh dalam peningkatan konsentrasi PM2.5, sehingga perumusan solusi dapat dilakukan lebih baik. Penelitian ini menganalisis pola konsentrasi PM2.5 di tiga negara ASEAN yaitu Indonesia, Vietnam dan Thailand. Di setiap negara dipilih empat lokasi pengukuran secara acak, di mana dua lokasi berada pada wilayah dengan kepadatan penduduk tinggi, dan dua lainnya memiliki kepadatan rendah. Data konsentrasi PM2.5 sampel dianalisis menggunakan metode analisis varians dengan faktor bersarang, sehingga dapat diketahui hubungan antara parameter yang diambil yaitu negara, lokasi dan klasifikasi kepadatan penduduk. Dari hasil pengolahan ini didapatkan bahwa semua parameter memiliki pengaruh yang signifikan terhadap konsentrasi PM2.5.",
+      "volume": 4
+    }
+]
+

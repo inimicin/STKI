@@ -1,0 +1,217 @@
+[
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2022-03-09 01:03:19",
+      "divisions": [
+        "FISIP4"
+      ],
+      "publisher": "Mediator",
+      "dir": "disk0\/00\/03\/99\/63",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39963",
+      "date": 2004,
+      "subjects": [
+        "H1"
+      ],
+      "title": "Hasil Cek Plagiat : Konstruksi Komunikasi Internasional",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "honourific": null,
+            "given": "Nanang Trenggono"
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "lastmod": "2022-03-09 01:03:19",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161250",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 39963,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Similarity Jurnal Konstruksi Komunikasi Internasional.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "1bf01415ea399d54244470904e0227d2",
+                  "datasetid": "document",
+                  "fileid": 447287,
+                  "filename": "Similarity Jurnal Konstruksi Komunikasi Internasional.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447287",
+                  "objectid": 161250,
+                  "filesize": 7496764,
+                  "mtime": "2022-03-08 08:07:47",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 161250,
+            "format": "text"
+          }
+      ],
+      "userid": 357,
+      "metadata_visibility": "show",
+      "datestamp": "2022-03-09 01:03:19",
+      "eprintid": 39963,
+      "eprint_status": "archive"
+    },
+    {
+      "publisher": "FIKOM UNISBA BANDUNG",
+      "dir": "disk0\/00\/02\/68\/41",
+      "publication": "Mediator",
+      "divisions": [
+        "FISIP4"
+      ],
+      "status_changed": "2020-12-01 01:02:47",
+      "issn": 14115883,
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Jurusan Ilmu Komunikasi FISIP Universitas Lampung"
+      ],
+      "abstract": "Komunikasi internasional adalah spesialisasi ilmu komunikasi yang dapat dikelompokkan ke dalam dua kategori. Pertama, fenomena yang menjadi pembahasan dominan sarjana komunikasi, yaitu media internasional. Kedua, fenomena yang meliputi komunikasi politik internasional, hubungan internasional dan hubungan antarbudaya. Dua kategori studi ini dipadukan sebagai fokus kajian komunikasi internasional  sebagai implikasi dari revolusi teknologi informasi dan komunikai global, sehingga dapat disimpulkan bahwa kajian komunikasi internasional (international communication) memiliki dimensi-dimensi komunikasi politik internasional, hubungan internasional dan hubungan antarbudaya (intercultural relations). Sesuai dengan tahap perkembangannya, ada dua perspektif pokok dalam studi komunikasi internasional, yaitu (1) perspektif sistem dan filsafat; dan (2) perspektif transmisional atau arus informasi global yang memunculkan perdebatan antara pandangan dominasi media Barat dalam informasi-informasi global versus kontribusi media Barat dalam menjaga keseimbangan informasi komunikasi global.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26841",
+      "date": 2004,
+      "creators": [
+        {
+          "name": {
+            "given": "Nanang Trenggono",
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "honourific": null
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Konstruksi Komunikasi Internasional",
+      "eprintid": 26841,
+      "id_number": "Volume 5 No. 1",
+      "eprint_status": "archive",
+      "datestamp": "2020-12-01 01:02:47",
+      "pagerange": "97-109",
+      "metadata_visibility": "show",
+      "userid": 357,
+      "contributors": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Nanang Trenggono",
+            "family": "Nanang Trenggono",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "JURNAL MEDIATOR KONSTRUKSI KOMUNIKASI INTERNASIONAL.pdf",
+            "docid": 40847,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "a312ad8a17e8f96a41bb05806114bec0",
+                  "fileid": 241086,
+                  "datasetid": "document",
+                  "mtime": "2020-11-29 02:39:11",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/241086",
+                  "filename": "JURNAL MEDIATOR KONSTRUKSI KOMUNIKASI INTERNASIONAL.pdf",
+                  "objectid": 40847,
+                  "filesize": 539624
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40847",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 26841
+          }
+      ],
+      "lastmod": "2020-12-01 01:02:47"
+    },
+    {
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 39937,
+      "datestamp": "2022-03-08 07:21:28",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 39937,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161227",
+            "pos": 1,
+            "security": "public",
+            "main": "Konstruksi Komunikasi Internasional.pdf",
+            "files": [
+                {
+                  "filesize": 669767,
+                  "objectid": 161227,
+                  "filename": "Konstruksi Komunikasi Internasional.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447093",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-08 04:52:13",
+                  "fileid": 447093,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "fef5b26e4d54afd604e5f3d019031e52"
+                }
+            ],
+            "docid": 161227,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2022-03-08 07:21:28",
+      "userid": 357,
+      "title": "Penilaian Rekan Sejawat : Konstruksi Komunikasi Internasional",
+      "type": "other",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "given": "Nanang Trenggono"
+          }
+        }
+      ],
+      "subjects": [
+        "H1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39937",
+      "date": 2004,
+      "divisions": [
+        "FISIP4"
+      ],
+      "publisher": "Mediator",
+      "dir": "disk0\/00\/03\/99\/37",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2022-03-08 07:21:28",
+      "full_text_status": "public"
+    }
+]
+

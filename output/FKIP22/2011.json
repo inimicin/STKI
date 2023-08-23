@@ -1,0 +1,68 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "LB"
+      ],
+      "date": "2011-05-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32804",
+      "publisher": "Aura (Anugrah Utama Raharja) Printing & Publishing",
+      "divisions": [
+        "FKIP22"
+      ],
+      "dir": "disk0\/00\/03\/28\/04",
+      "full_text_status": "public",
+      "status_changed": "2021-06-23 04:53:48",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "datestamp": "2021-06-23 04:53:48",
+      "eprintid": 32804,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 864,
+      "lastmod": "2021-06-23 04:53:48",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 149358,
+            "main": "Haki BUKU_Sugeng Sutiarso.pdf",
+            "files": [
+                {
+                  "filename": "Haki BUKU_Sugeng Sutiarso.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/388350",
+                  "objectid": 149358,
+                  "filesize": 1672107,
+                  "mtime": "2021-06-23 01:04:45",
+                  "hash_type": "MD5",
+                  "hash": "23f6669670b061e421bb27329d916999",
+                  "mime_type": "application\/pdf",
+                  "fileid": 388350,
+                  "datasetid": "document"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/149358",
+            "eprintid": 32804,
+            "placement": 1
+          }
+      ],
+      "type": "other",
+      "creators": [
+        {
+          "id": "sugeng.sutiarso@fkip.unila.ac.id",
+          "name": {
+            "given": "Sugeng",
+            "honourific": null,
+            "family": "Sutiarso",
+            "lineage": null
+          }
+        }
+      ],
+      "title": "Haki BUKU \"Statistika Pendidikan dan Pengolahannya dengan SPSS (Disertai dengan contoh dan Interpretasinya)"
+    }
+]
+

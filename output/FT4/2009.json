@@ -1,0 +1,1053 @@
+[
+    {
+      "refereed": "TRUE",
+      "event_dates": "15-17 April 2009",
+      "title": "Analysis Wave Diffraction Using 2D Hyperbola Equation",
+      "creators": [
+        {
+          "name": {
+            "given": "Rina",
+            "honourific": null,
+            "lineage": null,
+            "family": "Febrina"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Ahmad",
+            "honourific": null,
+            "lineage": null,
+            "family": "Zakaria"
+          },
+          "id": "ahmad.zakaria@eng.unila.ac.id"
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "contact_email": "ahmad.zakaria@eng.unila.ac.id",
+      "event_location": "Malahayati University",
+      "pagerange": "30-35",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "referencetext": "[1] A. C. Reynold, Boundary conditions for the\r\nnumerical solution of wave propagation\r\nproblems, Geophysics 43(6), pp 1099-1110,\r\n1978.\r\n[2] D. K. Mihardja, S. Hadi, Model matematika\r\nnumerik untuk simulasi gerak pasang-surut,\r\nPusat Penelitian dan Pengembangan\r\nOceanografi LIPI, Jakarta, 1989.\r\n[3] Ahmad Zakaria, Numerical modelling of wave\r\npropagation using higher order finite-difference\r\nformulas, Thesis (Ph.D), Curtin University of\r\nTechnology, Perth, W.A., 2003.\r\n[4] S. Nelamani and B.V. Sumalatha, Wave\r\nreflection, run-up, run-down and pressure on\r\nseawalls defended by an offshore breakwater, J.\r\nIndian Inst. Sci, 86, pp 15-31, 2006.\r\n[5] Wamsly, Hans Hanson, and Nicholas C. Kraus,\r\nWave transmission at detached breakwaters for\r\nshoreline response modeling, U.S. Army Corps of Engineers, ERDC\/CHL CHETN-II-45,March 2002.\r\n[6] Lee E. Harris and Todd Barber, Artificial reefs\r\nfor beach and reef restoration, FIT Department\r\nof Marine & Environmental Systems and Reff\r\nBall Foundation.\r\n[7] U.S. Army Corps of Engineers, Coastal\r\nEngoneering Manual (SPM) Volume 1, Coastal\r\nEngineering Research Center, Department of the\r\nArmy, Waterways Experiment Station, PO Box\r\n631, Vickburg, Mississippi 391180, pp. 2-94,\r\n1984.",
+      "eprintid": 50302,
+      "datestamp": "2023-04-12 07:39:11",
+      "documents": [
+          {
+            "docid": 190002,
+            "main": "prosiding international - malahayati - analysis wave - 2009c-raz.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 543314,
+                  "hash": "54f783e9ab6fbaa02f05391948fbb325",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 14:02:54",
+                  "filesize": 3474899,
+                  "objectid": 190002,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543314",
+                  "filename": "prosiding international - malahayati - analysis wave - 2009c-raz.pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 50302,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190002",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-04-12 07:39:11",
+      "userid": 491,
+      "event_type": "conference",
+      "dir": "disk0_bak\/00\/05\/03\/02",
+      "divisions": [
+        "FT4"
+      ],
+      "rev_number": 8,
+      "keywords": "analysis diffraction effects, submerged breakwater, 2-D hyperbolic wave equation",
+      "ispublished": "pub",
+      "status_changed": "2023-04-12 07:39:11",
+      "full_text_status": "public",
+      "event_title": "On Green Technology and Engineering",
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "date": "2009-04-15",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50302",
+      "abstract": "Wind waves has high impact on the coastal area, either to the shoreline or to the structure of the buildings in the\r\ncoastal area. To protect the coastal area from the waves, the coast needs a protection structure such as\r\nbreakwater. Aims of the structure are to reduce and to destroy the wave energy.\r\nThe aims of the research are to see the natural phenomenon of the surface wave propagation, and how is the\r\nimpact of the wave propagation if it is happen in the reality, the same as the condition of the simulation as the\r\nscenario planned. In this research, the wave equation that we used for the modeling of wave propagation that\r\npass through the submerged breakwater was a 2-D Hyperbolic wave equation.\r\nBreakwater can be modelled numerically to study and to investigate dispersion effects. Based on results of this\r\nresearch concluded that the energy of the wave can be reduced significantly by submerged breakwater, so the\r\ncoastal area can be protected."
+    },
+    {
+      "event_location": "Surabaya, Indonesia",
+      "creators": [
+        {
+          "id": "rahayu.sulistyorini@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sulistyorini",
+            "given": "Rahayu"
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "title": "Pengembangan Model kombinasi Gravity, Multinomial logit dan Equilibrium assignment",
+      "refereed": "TRUE",
+      "event_dates": "13-14 November 2009",
+      "userid": 354,
+      "lastmod": "2021-02-22 02:37:06",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42048",
+            "pos": 1,
+            "eprintid": 28013,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 42048,
+            "main": "isi.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 249487,
+                  "mime_type": "application\/pdf",
+                  "hash": "a1a65db96e99722639d20174a6c4c727",
+                  "objectid": 42048,
+                  "filesize": 7173873,
+                  "filename": "isi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249487",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-22 00:31:51"
+                }
+            ]
+          },
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-22 00:32:04",
+                  "objectid": 42049,
+                  "filesize": 1090123,
+                  "filename": "Judul FSTPT 2009.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249489",
+                  "datasetid": "document",
+                  "fileid": 249489,
+                  "mime_type": "application\/pdf",
+                  "hash": "7a486481da95070b5bb3db3a1bf739da"
+                }
+            ],
+            "main": "Judul FSTPT 2009.pdf",
+            "docid": 42049,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 2,
+            "eprintid": 28013,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42049",
+            "pos": 2,
+            "security": "public"
+          },
+          {
+            "eprintid": 28013,
+            "placement": 3,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42050",
+            "pos": 3,
+            "format": "text",
+            "main": "Daf Isi FSTPT 2009.pdf",
+            "docid": 42050,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 249491,
+                  "hash": "b3fe64d1a56711afed5ed25584afd8b4",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-22 00:32:11",
+                  "objectid": 42050,
+                  "filesize": 938126,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249491",
+                  "filename": "Daf Isi FSTPT 2009.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2021-02-22 02:37:06",
+      "eprint_status": "archive",
+      "eprintid": 28013,
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "status_changed": "2021-02-22 02:37:06",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "related_url": [
+        {
+          "url": "https:\/\/www.scribd.com\/doc\/218342752\/makalah-simposium-xii-fstpt-pdf"
+        },
+        {
+          "url": "https:\/\/rswua.wordpress.com\/2009\/05\/27\/simposium-xii-forum-studi-antar-perguruan-tinggi-fstpt-14-november-2009\/"
+        }
+      ],
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0\/00\/02\/80\/13",
+      "event_type": "conference",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28013",
+      "date": "2009-11",
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "event_title": "Simposium XII FSTPT Universitas Kristen Petra"
+    },
+    {
+      "subjects": [
+        "TA"
+      ],
+      "event_title": "Proceeding of 8th International Conference of Eastern Asia Society for Transportation Studies, 2009",
+      "date_type": "published",
+      "abstract": "The model examined was the Gravity (GR) model combined with the MultiNomial-Logit (MNL) model. Non-Linear-Least- Squares (NLLS) estimation methods were used to calibrate the parameter of the combined model. Three of the stages of this process (four steps model), trip distribution, modal split and traffic assignment, combine to estimate expected O-D demands, and as such, are of relevance to this research. Iterative solution algorithms, that are modifications of the Newton Raphson and Elimination Gauss-Jourdan techniques, are proposed to solve each of the model formulations. The procedure described here assumes that the observed network is at equilibrium assignment condition. In other words, the observed link flows and travel times represent the (observed) equilibrium conditions. The objective of the solution approach is to find an O-D matrix such that when this matrix is assigned to the network, the resulting O-D travel times will be equal to the observed O-D travel times.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27992",
+      "date": 2009,
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0\/00\/02\/79\/92",
+      "related_url": [
+        {
+          "url": "https:\/\/doi.org\/10.11175\/eastpro.2009.0.94.0"
+        }
+      ],
+      "event_type": "conference",
+      "status_changed": "2021-02-22 02:36:40",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "eprintid": 27992,
+      "eprint_status": "archive",
+      "datestamp": "2021-02-22 02:36:40",
+      "metadata_visibility": "show",
+      "userid": 354,
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "b4b63a4dd08e2fc08b9d86d8be40016a",
+                  "datasetid": "document",
+                  "fileid": 249317,
+                  "mtime": "2021-02-21 00:22:16",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249317",
+                  "filename": "ayu_ozt_ade.pdf",
+                  "objectid": 42011,
+                  "filesize": 344411
+                }
+            ],
+            "main": "ayu_ozt_ade.pdf",
+            "docid": 42011,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 27992,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42011",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/www.jstage.jst.go.jp\/browse\/eastpro\/2009\/0\/_contents\/-char\/en?from=1",
+      "lastmod": "2021-02-22 02:36:40",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "rahayu.sulistyorini@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sulistyorini",
+            "honourific": null,
+            "given": "Rahayu"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Tamin",
+            "given": "Ofyar Z"
+          },
+          "id": "Ofyar@trans.si.itb.ac.id"
+        },
+        {
+          "id": "ade@trans.itb.ac.id",
+          "name": {
+            "given": "ade",
+            "lineage": null,
+            "family": "sjafruddin",
+            "honourific": null
+          }
+        }
+      ],
+      "event_dates": "16-19 November 2009",
+      "refereed": "TRUE",
+      "title": "The Development of Combined Gravity-Multinomial Logit Estimated from Traffic Count Under Equilibrium Condition",
+      "event_location": "Surabaya, Indonesia"
+    },
+    {
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sulistyorini",
+            "honourific": null,
+            "given": "Rahayu"
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ofyar Z",
+            "honourific": null,
+            "lineage": null,
+            "family": "Tamin"
+          },
+          "id": "Ofyar@trans.si.itb.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "sjafruddin",
+            "lineage": null,
+            "given": "ade"
+          }
+        }
+      ],
+      "title": "The Development of The Combined Model (Trip Distribution-Mode Choice-Route Choice) Based on Traffic Volume",
+      "refereed": "TRUE",
+      "event_dates": "2-3 November 2019",
+      "event_location": "Bandung, Indonesia",
+      "datestamp": "2021-02-22 02:36:36",
+      "eprint_status": "archive",
+      "eprintid": 27991,
+      "metadata_visibility": "show",
+      "pagerange": "118-124",
+      "userid": 354,
+      "lastmod": "2021-02-22 02:36:36",
+      "official_url": "http:\/\/www.sibe-2009.org\/",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42008",
+            "pos": 1,
+            "eprintid": 27991,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 6995121,
+                  "objectid": 42008,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249306",
+                  "filename": "Isi.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-20 23:54:21",
+                  "fileid": 249306,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "a1d732c85b9a7290133770ff81642e87"
+                }
+            ],
+            "main": "Isi.pdf",
+            "docid": 42008
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42009",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 27991,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 42009,
+            "main": "Daf Isi SIBE 2009.pdf",
+            "files": [
+                {
+                  "mtime": "2021-02-20 23:54:27",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249308",
+                  "filename": "Daf Isi SIBE 2009.pdf",
+                  "filesize": 1067563,
+                  "objectid": 42009,
+                  "mime_type": "application\/pdf",
+                  "hash": "7f3cd86fed220dc215d2e430f1d5abf0",
+                  "datasetid": "document",
+                  "fileid": 249308
+                }
+            ],
+            "format": "text"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Judul SIBE 2009.pdf",
+            "docid": 42010,
+            "files": [
+                {
+                  "filesize": 1258920,
+                  "objectid": 42010,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249310",
+                  "filename": "Judul SIBE 2009.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-20 23:54:37",
+                  "fileid": 249310,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "a99fd750d7607aa1786e9d1a630390d4"
+                }
+            ],
+            "security": "public",
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42010",
+            "eprintid": 27991,
+            "placement": 3
+          }
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/ftsl.itb.ac.id\/international-conference-on-sustainable-infrastructure-and-built-environment-sibe-2009\/"
+        }
+      ],
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0\/00\/02\/79\/91",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2021-02-22 02:36:36",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "date_type": "published",
+      "event_title": "Iternational conference on sustainable infrastructure in developing countries",
+      "subjects": [
+        "TA"
+      ],
+      "date": "2009-11-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27991"
+    },
+    {
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Rahayu",
+            "honourific": null,
+            "family": "Sulistyorini",
+            "lineage": null
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "nindyo cahyo",
+            "honourific": null,
+            "lineage": null,
+            "family": "kresnanto"
+          },
+          "id": "nindyo_ck@yahoo.co.id"
+        }
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "event_dates": "16-19 November 2009",
+      "title": "The Process to Get Convergence of Balancing Factor in Gravity Model",
+      "event_location": "Surabaya, Indonesia",
+      "eprint_status": "archive",
+      "eprintid": 27993,
+      "datestamp": "2021-02-22 02:36:42",
+      "metadata_visibility": "show",
+      "userid": 354,
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249325",
+                  "filename": "2009_113.pdf",
+                  "filesize": 465200,
+                  "objectid": 42012,
+                  "mtime": "2021-02-21 00:47:58",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "9567df6080a5d54e4d78bda1ea5bd6c8",
+                  "datasetid": "document",
+                  "fileid": 249325
+                }
+            ],
+            "main": "2009_113.pdf",
+            "docid": 42012,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 27993,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42012",
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/www.jstage.jst.go.jp\/browse\/eastpro\/2009\/0\/_contents\/-char\/en?from=2",
+      "lastmod": "2021-02-22 02:36:42",
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0\/00\/02\/79\/93",
+      "related_url": [
+        {
+          "url": "https:\/\/doi.org\/10.11175\/eastpro.2009.0.113.0"
+        }
+      ],
+      "event_type": "conference",
+      "status_changed": "2021-02-22 02:36:42",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "TA"
+      ],
+      "event_title": "Proceedings of the Eastern Asia Society for Transportation Studies, Vol.7, 2009",
+      "date_type": "published",
+      "abstract": "The development of techniques for calibrating the trip distribution models to obtain O-D matrices is well advanced. Therefore, the study of transportation demand should be implemented with distribution of trips in origins and destinations. The first step to study trip distribution is to divide physical space under investigation into mutually exclusive zones or locations. Calibration of the gravity model involves adjusting the friction factor with Newton-Raphson Method. An important consideration in developing the gravity model is \"balancing\" productions and attractions. Balancing means that the total productions and attractions for a study area are equal. The objective of this paper is to present the pattern of balancing factor in Gravity to achieve convergence with any beta values as input, using Matlab program. It is shown, by way of exponential as friction factor and using Double Constraint Gravity as balancing factor, we could see that the bigger beta value as input, the longer iteration to achieve convergence.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27993",
+      "date": 2009
+    },
+    {
+      "event_location": "Hongkong",
+      "title": "Public transport demand estimation by calibrating the combined trip distribution-mode choice (TDMC) Model from passenger count",
+      "event_dates": "10-12 December 2009",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "Ofyar@trans.si.itb.ac.id",
+          "name": {
+            "family": "Tamin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ofyar Z"
+          }
+        },
+        {
+          "name": {
+            "given": "Rahayu",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sulistyorini"
+          },
+          "id": "rahayu.sulistyorini@eng.unila.ac.id"
+        }
+      ],
+      "lastmod": "2021-02-22 02:36:32",
+      "official_url": "https:\/\/www.researchgate.net\/publication\/282728863_",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-20 23:24:37",
+                  "filesize": 6962928,
+                  "objectid": 42005,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249292",
+                  "filename": "Isi.pdf",
+                  "fileid": 249292,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "efba52c71dfd60345558c928c00f4b93"
+                }
+            ],
+            "main": "Isi.pdf",
+            "docid": 42005,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 27990,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42005"
+          },
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42006",
+            "pos": 2,
+            "eprintid": 27990,
+            "placement": 2,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "f0969bdf81fc53a7be200cb28b338c9e",
+                  "fileid": 249294,
+                  "datasetid": "document",
+                  "mtime": "2021-02-20 23:24:43",
+                  "hash_type": "MD5",
+                  "filename": "Daf Isi HKTS 2009.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249294",
+                  "objectid": 42006,
+                  "filesize": 578403
+                }
+            ],
+            "main": "Daf Isi HKTS 2009.pdf",
+            "docid": 42006
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42007",
+            "pos": 3,
+            "security": "public",
+            "placement": 3,
+            "eprintid": 27990,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Judul HKTS 2009.pdf",
+            "docid": 42007,
+            "files": [
+                {
+                  "hash": "7aec58ab50463c01214578d6c9110557",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 249296,
+                  "filename": "Judul HKTS 2009.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/249296",
+                  "objectid": 42007,
+                  "filesize": 1136849,
+                  "mtime": "2021-02-20 23:24:48",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 354,
+      "metadata_visibility": "show",
+      "pagerange": "573-582",
+      "datestamp": "2021-02-22 02:36:32",
+      "eprint_status": "archive",
+      "eprintid": 27990,
+      "ispublished": "pub",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "status_changed": "2021-02-22 02:36:32",
+      "event_type": "conference",
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0\/00\/02\/79\/90",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27990",
+      "date": "2009-12-10",
+      "abstract": "The conventional method to estimate the O-D matrices require very large surveys and very expensive. The need for inexpensive methods, which require low-cost data, generally called as 'unconventional method'. The development of techniques for calibrating the trip distribution models from traffic volumes to obtain the O-D matrices is well advanced. However, the previous research still in a burden condition of \"All or Nothing\" which is not realistic for some congested road networks in urban area. So, the main objective and contribution of this research is the estimation of origin-destination matrices by calibrating the combined gravity with multinomial logit under equilibrium assignment. The estimation methods, namely: Non-Linear-Least-Squares (NLLS) will be used to estimate the parameters of transport demand models. The combined model and its calibration method have been implemented. The model was able to obtain the calibrated parameters which can then be used for forecasting purposes. The advantageous and the applicability of the model are given.",
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "event_title": "proceeding of the 14th HKTS International Conference"
+    },
+    {
+      "dir": "disk0_bak\/00\/04\/92\/37",
+      "divisions": [
+        "FT4"
+      ],
+      "event_type": "workshop",
+      "succeeds": 49226,
+      "status_changed": "2023-03-27 00:54:18",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "keywords": "model numerik, pendekatan beda hingga, gelombang tsunami",
+      "ispublished": "pub",
+      "event_title": "Seminar Nasional Sains MIPA dan Aplikasinya",
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "date": "2009-11-16",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49237",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "ahmad.zakaria@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad",
+            "family": "Zakaria",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "event_dates": "16 - 17 November 2009",
+      "title": "Simulasi Perambatan Gelombang tsunami akibat meletusnya Gunung Anak Krakatau",
+      "event_location": "Bandar Lampung",
+      "contact_email": "ahmad.zakaria@eng.unila.ac.id",
+      "eprintid": 49237,
+      "eprint_status": "archive",
+      "datestamp": "2023-03-27 00:54:18",
+      "pagerange": "235-246",
+      "metadata_visibility": "show",
+      "userid": 491,
+      "documents": [
+          {
+            "eprintid": 49237,
+            "placement": 3,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188783",
+            "pos": 3,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-24 10:00:21",
+                  "objectid": 188783,
+                  "filesize": 879867,
+                  "filename": "sn smap 1- tsunami - 2009b.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534895",
+                  "fileid": 534895,
+                  "datasetid": "document",
+                  "hash": "87585b1f438d7d72f0688a1cd5046d89",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "sn smap 1- tsunami - 2009b.pdf",
+            "docid": 188783,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2023-03-27 00:54:18"
+    },
+    {
+      "subjects": [
+        "TA"
+      ],
+      "event_title": "SEMINAR NASIONAL SAINS MIPA DAN APLIKASINYA 2009",
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49194",
+      "date": "2009-11",
+      "event_type": "conference",
+      "dir": "disk0_bak\/00\/04\/91\/94",
+      "divisions": [
+        "FT4"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "succeeds": 695,
+      "status_changed": "2023-03-24 01:31:42",
+      "full_text_status": "public",
+      "pagerange": "7-12",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 49194,
+      "datestamp": "2023-03-24 01:31:42",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 188710,
+            "main": "sn smap 1 - pengembangan program - 2009a.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534491",
+                  "filename": "sn smap 1 - pengembangan program - 2009a.pdf",
+                  "filesize": 3524880,
+                  "objectid": 188710,
+                  "mtime": "2023-03-23 07:27:32",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "a036298c5a78903ab7b6345ac9b6ff12",
+                  "fileid": 534491,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49194,
+            "placement": 7,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188710",
+            "pos": 7
+          }
+      ],
+      "lastmod": "2023-03-24 01:31:42",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/",
+      "userid": 491,
+      "refereed": "TRUE",
+      "event_dates": "17 - 19 November 2009",
+      "title": "Studi Pengembangan Program Aplikasi Berbasis Web untuk Analysis Komponen Gelombang Pasang Surut menggunakan PHP Script",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "family": "Zakaria",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ahmad"
+          },
+          "id": "ahmad.zakaria@eng.unila.ac.id"
+        }
+      ],
+      "event_location": "FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM UNIVERSITAS LAMPUNG"
+    },
+    {
+      "datestamp": "2023-03-27 00:53:37",
+      "referencetext": "[1] A. C. Reynold, Boundary conditions for the\r\nnumerical solution of wave propagation\r\nproblems, Geophysics 43(6), pp 1099-\r\n1110, 1978.\r\n[2] D. K. Mihardja, S. Hadi, Model\r\nmatematika numerik untuk simulasi gerak\r\npasang-surut, Pusat Penelitian dan\r\nPengembangan Oceanografi LIPI, Jakarta,\r\n1989.\r\n[3] Ahmad Zakaria, Numerical modelling of\r\nwave propagation using higher order finitedifference\r\nformulas, Thesis (Ph.D), Curtin\r\nUniversity of Technology, Perth, W.A.,\r\n2003.\r\n[4] S. Nelamani and B.V. Sumalatha, Wave\r\nreflection, run-up, run-down and pressure on\r\nseawalls defended by an offshore\r\nbreakwater, J. Indian Inst. Sci, 86, pp 15-31,\r\n2006.\r\n[5] Wamsly, Hans Hanson, and Nicholas C.\r\nKraus, Wave transmission at detached\r\nbreakwaters for shoreline response\r\nmodeling, U.S. Army Corps of Engineers,\r\nERDC\/CHL CHETN-II-45, March 2002.\r\n[6] Lee E. Harris and Todd Barber, Artificial\r\nreefs for beach and reef restoration, FIT\r\nDepartment of Marine & Environmental\r\nSystems and Reff Ball Foundation.",
+      "eprintid": 49221,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "19-24",
+      "userid": 491,
+      "lastmod": "2023-03-27 00:53:37",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "prosiding international - malahayati - dispersion effect - 2009a.pdf",
+            "docid": 188756,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-24 02:52:47",
+                  "filesize": 3361896,
+                  "objectid": 188756,
+                  "filename": "prosiding international - malahayati - dispersion effect - 2009a.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534776",
+                  "datasetid": "document",
+                  "fileid": 534776,
+                  "mime_type": "application\/pdf",
+                  "hash": "94e87b3ead474cfe6059b8522e0c0a43"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188756",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49221
+          }
+      ],
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Zakaria",
+            "lineage": null,
+            "given": "Ahmad"
+          },
+          "id": "ahmad.zakaria@eng.unila.ac.id"
+        }
+      ],
+      "title": "Study Dispersion Effects of Wave Propagation over Mangrove Models in Shallow Water using 2-D Hyperbolic Wave Equation",
+      "event_dates": "17 - 17 April 2009",
+      "refereed": "TRUE",
+      "event_location": "Universitas Malahayati",
+      "contact_email": "ahmad.zakaria@eng.unila.ac.id",
+      "event_title": "International Conference 2009 on Green Technology and Engineering",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "The aim of this research is to study dispersion effects of wave propagation over mangrove models in shallow\r\nwater environments. This numerical modeling of wave propagation is using two dimensional parabolic wave\r\nequation. In this study, numerical solution of the parabolic wave equation is using finite difference method.\r\nFor solving the 2nd order derivatives of the wave equation, the finite-difference method is one of several\r\nmethods using discrete approximations that can be used to calculate linear combination of approximation of\r\nthe function, at grid points. Second order of accuracies explicit finite-difference method are employed to\r\nsimulate wave propagation.\r\nThe mangroves were modeled in other to dissipate waves propagate over them. To reduce reflections from\r\nnon physical boundaries, Reynolds boundary condition method was used. A line source was used to model\r\nwave sources. Ricker wavelet is used as a line source. In the environment setup of the model, assumed the\r\nwaves propagate in shallow water with the depth (d) is equal to 5 meter. Results of this research present wave\r\npropagation and dispersion effects, at location before and after the mangrove models. The results present the\r\ndispersion effects of the mangroves clearly. If results with the different scenarios or different situation are\r\ncompared, where the model was using full mangroves with the narrow channel, present more dispersions and\r\nmore dissipated than only using a half of the mangroves. It is concluded that wave propagation over\r\nmangroves can be modeled numerically, to study and to investigate dispersion effects of the mangroves as\r\ngreen breakwaters.",
+      "date": "2009-04-15",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49221",
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0_bak\/00\/04\/92\/21",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2023-03-27 00:53:37",
+      "ispublished": "pub",
+      "keywords": "dispersion effects, parabolic wave equation, finite difference, mangrove",
+      "rev_number": 7
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Study Velocities and Dispersion Effects of Wave Propagation over\r\nMangrove Models using 2-D Non-Linear and Compressional Wave\r\nEquations",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Zakaria",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ahmad"
+          },
+          "id": "ahmad.zakaria@eng.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 48005,
+      "eprint_status": "archive",
+      "datestamp": "2023-01-25 06:20:58",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 48005,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187171",
+            "pos": 1,
+            "security": "public",
+            "files": [
+                {
+                  "mtime": "2023-01-25 03:54:37",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525007",
+                  "filename": "Study Velocities and Dispersion (Q1).pdf",
+                  "filesize": 684371,
+                  "objectid": 187171,
+                  "hash": "109f4b0fc6aab34819324dcaf9ec08fd",
+                  "mime_type": "application\/pdf",
+                  "fileid": 525007,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Study Velocities and Dispersion (Q1).pdf",
+            "docid": 187171,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2023-01-25 06:20:58",
+      "number": 1,
+      "userid": 491,
+      "publisher": "ILRAM",
+      "publication": "International Journal Of Science Engineering and Technology",
+      "divisions": [
+        "FT4"
+      ],
+      "dir": "disk0_bak\/00\/04\/80\/05",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2023-01-25 06:20:58",
+      "issn": "1985-3785",
+      "full_text_status": "public",
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48005",
+      "date": 2009,
+      "volume": 2,
+      "abstract": "Most  researches  to modeling wave propagation in shallow water  are using two class  of  waves,  non linear\r\nshallow water  wave equation as  gravity wave equation,  and simple wave equation as  compressional  wave\r\nequation. In this research, wave propagation over mangrove models was conducted. The aim of this research\r\nwere to study velocities  and dispersion effects  of wave propagation where propagate toward the mangrove\r\nmodels. The first order accuracy of the explicit finite-difference method was used to approximate the gravity\r\nwave equation and the second order accuracy of the explicit finite-difference method. It was used to approximate\r\nthe compressional  wave equation. Variety of water depths,  5 m up to 100 m are used to simulate the wave\r\npropagation. Results of non linear wave propagation also are compared with a result  of compressional  wave\r\npropagation.  The mangrove  models  are  employed  for  different  water  depths and different  wave equations.\r\nResults of this research present that if the water depths increase from 5 m up to 100 m, the wave velocity will be\r\nincreases significantly. For the same values of water depth, equal to 5 m, compressional waves propagate faster\r\nthan gravity waves. For deeper water depths, the dispersion effects are less than for shallow water depths.  \r\nKEYWORDS: velocities, dispersion effects, mangrove models, gravity and compresional waves"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49191",
+      "date_type": "published",
+      "event_title": "The Second International Conference On Green Technology and Engineering (ICGTE)",
+      "subjects": [
+        "TA"
+      ],
+      "status_changed": "2023-03-24 01:31:37",
+      "succeeds": 692,
+      "rev_number": 7,
+      "dir": "disk0_bak\/00\/04\/91\/91",
+      "divisions": [
+        "FT4"
+      ],
+      "event_type": "conference",
+      "lastmod": "2023-03-24 01:31:37",
+      "metadata_visibility": "show",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "family": "Zakaria",
+            "honourific": null
+          },
+          "id": "ahmad.zakaria@eng.unila.ac.id"
+        }
+      ],
+      "title": "Study Velocities and Dispersion Effects of Wave Propagation over\r\nMangrove Models using 2-D Non-Linear and Compressional Wave\r\nEquations",
+      "abstract": "Most researches to modeling wave propagation in shallow water are using two class of waves, non linear\r\nshallow water wave equation as gravity wave equation, and simple wave equation as compressional wave\r\nequation. In this research, wave propagation over mangrove models was conducted. The aim o f this research\r\nwere to study velocities and dispersion effects of wave propagation where propagate toward the mangrove\r\nmodels. The first order accuracy of the explicit finite-difference method was used to approximate the gravity\r\nwave equation and the second order accuracy of the explicit finite-difference method. It was used to approximate\r\nthe compressional wave equation. Variety of water depths, 5 m up to 100 m are used to simulate the wave\r\npropagation. Results of non linear wave propagation also are compared with a result of compressional wave\r\npropagation. The mangrove models are employed for different water depths and different wave equations.\r\nResults of this research present that if the water depths increase from 5 m up to 100 m, the wave velocity will be\r\nincreases significantly. For the same values of water depth, equal to 5 m, compressional waves propagate faster\r\nthan gravity waves. For deeper water depths, the dispersion effects are less than for shallow water depths.",
+      "date": 2009,
+      "full_text_status": "public",
+      "keywords": "velocities, dispersion effects, mangrove models, gravity and compresional waves",
+      "ispublished": "pub",
+      "userid": 491,
+      "official_url": "http:\/\/malahayati.ac.id\/",
+      "documents": [
+          {
+            "eprintid": 49191,
+            "placement": 7,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188690",
+            "pos": 7,
+            "format": "text",
+            "main": "prosiding international - malahayati - study velocities - 2009b.pdf",
+            "docid": 188690,
+            "files": [
+                {
+                  "hash": "1e9d37e22b67ad1560a413b1871bd899",
+                  "mime_type": "application\/pdf",
+                  "fileid": 534457,
+                  "datasetid": "document",
+                  "mtime": "2023-03-23 07:22:20",
+                  "hash_type": "MD5",
+                  "filename": "prosiding international - malahayati - study velocities - 2009b.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/534457",
+                  "filesize": 3579490,
+                  "objectid": 188690
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2023-03-24 01:31:37",
+      "eprintid": 49191,
+      "referencetext": "[1] A. C. Reynold, Boundary conditions for the\r\nnumerical solution of wave propagation\r\nproblems, Geophysics 43(6), pp 1099-1110,\r\n1978.\r\n\r\n[2] D. K. Mihardja, S. Hadi, Model matematika\r\nnumerik untuk simulasi gerak pasang-surut,\r\nPusat Penelitian dan Pengembangan\r\nOceanografi LIPI, Jakarta, 1989.\r\n\r\n[3] Ahmad Zakaria, Numerical modelling of\r\nwave propagation using higher order finite-\r\ndifference formulas, Thesis (Ph.D), Curtin\r\nUniversity of Technology, Perth, W.A.,\r\n2003.\r\n\r\n[4] S. Nelamani and B.V. Sumalatha, Wave\r\nreflection, run-up, run-down and pressure on\r\nseawalls defended by an offshore\r\nbreakwater, J. Indian Inst. Sci, 86, pp 15-31,\r\n2006.\r\n\r\n[5] Wamsly, Hans Hanson, and Nicholas C.\r\nKraus, Wave transmission at detached\r\nbreakwaters for shoreline response\r\nmodelling, U.S. Army Corps of Engineers,\r\nERDC\/CHL CHETN-II-45, March 2002.\r\n\r\n[6] Z. Kowalik and T. S. Murty, Numerical\r\nsimulation of Two-Dimensional Tsunami\r\nRunup, Marine Geodesy, Vol 16, pp 87-100,\r\n1993.\r\n\r\n[7] J. Horrillo, Z. Kowalik and Y. Shigihara,\r\nWave dispersion study in the Indian Ocean-\r\nTsunami of Desember 26, 2004, Marine\r\nGeodesy, Vol 29, pp 149-166, 2006.",
+      "eprint_status": "archive",
+      "pagerange": "26-30",
+      "event_location": "Faculty of Engineering Malahayati University",
+      "pres_type": "paper",
+      "event_dates": 2009,
+      "refereed": "TRUE"
+    }
+]
+

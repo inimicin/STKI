@@ -1,0 +1,135 @@
+[
+    {
+      "rev_number": 11,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2087-9849",
+      "status_changed": "2021-09-03 02:04:17",
+      "publisher": "Unit Database dan Publikasi Ilmiah FKIP Unila Kerjasama ISPI",
+      "publication": "Jurnal Pendidikan Progresif",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/03\/37\/56",
+      "date": "2014-04-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33756",
+      "abstract": "Tujuan penelitian ini adalah mengembangkan dan menyusun soal UAN berdasarkan indikator-indikator yang disusun oleh BSNP dan mengetahui dampak kinerja guru Sekolah Dasar yang bekerjasama dalam Tim FGD terhadap skor hasil Ujian Akhir Nasional (UAN). Jenis penelitian ini adalah penelitian dan pengembangan melalui fase pengembangan dan fase penerapan. Fase pengembangan adalah pengembangan soal melalui Forum Group Discussion (FGD) guru kelas VI Sekolah Dasar dan satu orang Pengawas Sekolah sebagai reviewer validasi produk.Uji validasi soal produk pengembangan menggunakan validasi isi. Fase penerapan adalah penerapan produk soal sebagai instrumen latihan UAN siswa. Uji validasi efektifitas kinerja guru menggunakan Value-Added Modeling (VAM). Hasil penelitian dan pengembangan menunjukkan bahwa produk instrumen test UAN layak dapat digunakan untuk ujicoba UAN. Hasil analisis menggunakan Value-Added Modeling (VAM) menunjukkan bahwa kinerja guru melalui Forum Group Disccusion (FGD) mempunyai dampak sangat efektif hal ini ditunjukkan adanya peningkatan rata-rata hasil UAN dan ranking semua SD pada setiap Unit Pelaksana Teknis (UPT) Pendidikan Kecamatan meningkat.",
+      "volume": 4,
+      "date_type": "published",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "title": "DAMPAK KINERJA GURU DALAM FORUM GROUP DISCCUSION TERHADAP HASIL UJIAN AKHIR NASIONAL",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "rochmiyati",
+            "family": "rochmiyati",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rochmiyatiazwardi@yahoo.co.id"
+        }
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/article\/view\/7810",
+      "lastmod": "2021-09-03 02:04:17",
+      "documents": [
+          {
+            "security": "public",
+            "formatdesc": "Artikel",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153981",
+            "pos": 1,
+            "eprintid": 33756,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "docid": 153981,
+            "main": "5. JPP, 2014 DAMPAK KINERJA GURU DALAM FORUM GROUP DISCCUSION TERHADAP HASIL UJIAN NASIONAL.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/399709",
+                  "filename": "5. JPP, 2014 DAMPAK KINERJA GURU DALAM FORUM GROUP DISCCUSION TERHADAP HASIL UJIAN NASIONAL.pdf",
+                  "filesize": 311838,
+                  "objectid": 153981,
+                  "mtime": "2021-09-02 03:52:20",
+                  "hash_type": "MD5",
+                  "hash": "6b8c1841c82417ba84b5bdea70f9681c",
+                  "mime_type": "application\/pdf",
+                  "fileid": 399709,
+                  "datasetid": "document"
+                }
+            ]
+          },
+          {
+            "security": "public",
+            "formatdesc": "Reviewer",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153982",
+            "pos": 2,
+            "eprintid": 33756,
+            "placement": 2,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 399711,
+                  "mime_type": "application\/pdf",
+                  "hash": "6a7545c9c13107719052805e917a6ad4",
+                  "filesize": 737617,
+                  "objectid": 153982,
+                  "filename": "5.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/399711",
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-02 03:52:33"
+                }
+            ],
+            "main": "5.pdf",
+            "docid": 153982
+          },
+          {
+            "main": "5. DAMPAK_KINERJA_GURU_DALAM_FORUM_GROUP_DISCCUSION_T.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "40f82f564421426d69fb8beb2d9ec0e1",
+                  "datasetid": "document",
+                  "fileid": 399713,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/399713",
+                  "filename": "5. DAMPAK_KINERJA_GURU_DALAM_FORUM_GROUP_DISCCUSION_T.pdf",
+                  "objectid": 153983,
+                  "filesize": 2566909,
+                  "mtime": "2021-09-02 03:52:49",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 153983,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "placement": 3,
+            "eprintid": 33756,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153983",
+            "pos": 3,
+            "security": "public",
+            "formatdesc": "Similaritas"
+          }
+      ],
+      "userid": 664,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "87-96",
+      "datestamp": "2021-09-03 02:04:17",
+      "eprint_status": "archive",
+      "eprintid": 33756
+    }
+]
+

@@ -1,0 +1,1277 @@
+[
+    {
+      "userid": 836,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 28275,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42321",
+            "security": "public",
+            "main": "Analis Putusan Pengadilan eddy.pdf",
+            "docid": 42321,
+            "files": [
+                {
+                  "fileid": 251498,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "21eaaab69dfa7d8529617b6d359f58a7",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-08 09:37:16",
+                  "filesize": 154988,
+                  "objectid": 42321,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251498",
+                  "filename": "Analis Putusan Pengadilan eddy.pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2021-03-09 02:47:25",
+      "eprintid": 28275,
+      "eprint_status": "archive",
+      "datestamp": "2021-03-09 02:47:25",
+      "pagerange": "323-340",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "Analis Putusan Pengadilan yang Mengembalikan Barang Bukti dalam Tindak Pidana di Bidang Perikanan",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28275",
+      "date": "2013-06",
+      "subjects": [
+        "K1"
+      ],
+      "status_changed": "2021-03-09 02:47:25",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "Juranl Asy-Syariah",
+      "publisher": "Fakultas Syariah dan Hukum UIN Sunan Kalijaga Yogyakarta",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/02\/82\/75"
+    },
+    {
+      "full_text_status": "public",
+      "status_changed": "2021-04-01 02:00:37",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "Fakultas Syariah dan Hukum UIN Sunan Kalijaga Yogyakarta",
+      "publication": "Asy-Syariah,",
+      "dir": "disk0\/00\/02\/88\/16",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28816",
+      "date": "2013-06",
+      "subjects": [
+        "K1"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null,
+            "honourific": null,
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          }
+        }
+      ],
+      "title": "Analis Putusan Pengadilan yang Mengembalikan Barang Bukti dalam Tindak Pidana di Bidang Perikanan",
+      "refereed": "FALSE",
+      "userid": 836,
+      "lastmod": "2021-04-01 02:00:37",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42909",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28816,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 42909,
+            "main": "Analis Putusan.pdf",
+            "files": [
+                {
+                  "hash": "ef223bf4d117b3015f8d9f4376098475",
+                  "mime_type": "application\/pdf",
+                  "fileid": 255651,
+                  "datasetid": "document",
+                  "filename": "Analis Putusan.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255651",
+                  "objectid": 42909,
+                  "filesize": 618765,
+                  "mtime": "2021-04-01 01:47:11",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "datestamp": "2021-04-01 02:00:37",
+      "eprint_status": "archive",
+      "eprintid": 28816,
+      "metadata_visibility": "show"
+    },
+    {
+      "date": "2013-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28469",
+      "subjects": [
+        "K1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2021-03-18 07:11:11",
+      "issn": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">1829-7706<\/font><\/font>",
+      "full_text_status": "public",
+      "publisher": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia<\/font><\/font>",
+      "publication": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Jurnal Konstitusi<\/font><\/font>",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/02\/84\/69",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Kajian Terhadap.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "2def4e5e4ddd583678dfcb8ca66ae5c0",
+                  "fileid": 252878,
+                  "datasetid": "document",
+                  "filename": "Kajian Terhadap.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/252878",
+                  "objectid": 42517,
+                  "filesize": 464013,
+                  "mtime": "2021-03-18 06:07:59",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 42517,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42517",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28469
+          }
+      ],
+      "lastmod": "2021-03-18 07:11:11",
+      "userid": 836,
+      "pagerange": "49-68",
+      "metadata_visibility": "show",
+      "eprintid": 28469,
+      "eprint_status": "archive",
+      "datestamp": "2021-03-18 07:11:11",
+      "refereed": "FALSE",
+      "title": "Kajian Terhadap Putusan Batal Demi Hukum Tanpa Pemerintah Penahanan",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          }
+        }
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "eprintid": 28813,
+      "datestamp": "2021-04-01 02:00:29",
+      "metadata_visibility": "show",
+      "userid": 836,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 42906,
+            "main": "Kajian Terhadap Putusan.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 255618,
+                  "hash": "369f21563f69884ec58965f9322621e5",
+                  "mime_type": "application\/pdf",
+                  "filesize": 608338,
+                  "objectid": 42906,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255618",
+                  "filename": "Kajian Terhadap Putusan.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-01 01:41:29"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42906",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28813
+          }
+      ],
+      "lastmod": "2021-04-01 02:00:29",
+      "creators": [
+        {
+          "name": {
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "Kajian Terhadap Putusan Batal Demi Hukum Tanpa Pemerintah Penahanan",
+      "subjects": [
+        "K1"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "date": "2013-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28813",
+      "publisher": "Jurnal Konstitusi",
+      "divisions": [
+        "FH1"
+      ],
+      "publication": "Jurnal Konstitusi",
+      "dir": "disk0\/00\/02\/88\/13",
+      "status_changed": "2021-04-01 02:00:29",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub"
+    },
+    {
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Fakultas Hukum Universitas Lampung<\/font><\/font>",
+      "publication": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung<\/font><\/font>",
+      "dir": "disk0\/00\/03\/30\/61",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">1978-5186<\/font><\/font>",
+      "status_changed": "2021-07-05 01:12:02",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33061",
+      "date": 2013,
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "title": "Telaah Rezim Partai Politik dalam Dinamika Ketatanegaraan Indonesia",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "name": {
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "honourific": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "datestamp": "2021-07-05 01:12:02",
+      "eprint_status": "archive",
+      "eprintid": 33061,
+      "lastmod": "2021-07-05 01:12:02",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 33061,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/150825",
+            "security": "public",
+            "files": [
+                {
+                  "fileid": 391536,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "cde8e57024ba48b1810ad0e976c50886",
+                  "filesize": 337137,
+                  "objectid": 150825,
+                  "filename": "Review Telaah Rezim Partai Politik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/391536",
+                  "hash_type": "MD5",
+                  "mtime": "2021-07-02 08:44:40"
+                }
+            ],
+            "main": "Review Telaah Rezim Partai Politik.pdf",
+            "docid": 150825,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 324
+    },
+    {
+      "publication": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Fiat Justisia<\/font><\/font>",
+      "publisher": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Fakultas Hukum<\/font><\/font>",
+      "dir": "disk0\/00\/02\/82\/72",
+      "divisions": [
+        "FH1"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">1978-5186<\/font><\/font>",
+      "full_text_status": "public",
+      "status_changed": "2021-03-08 07:44:40",
+      "subjects": [
+        "K1"
+      ],
+      "date": "2013-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28272",
+      "title": "Telaah Rezim Partai Politik dalam Dinamika Ketatanegaraan Indonesia",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "honourific": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2021-03-08 07:44:40",
+      "eprintid": 28272,
+      "eprint_status": "archive",
+      "lastmod": "2021-03-08 07:44:40",
+      "documents": [
+          {
+            "format": "text",
+            "main": "374-Article Text-1183-1-10-20151026.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251478",
+                  "filename": "374-Article Text-1183-1-10-20151026.pdf",
+                  "filesize": 260387,
+                  "objectid": 42318,
+                  "mtime": "2021-03-08 07:37:32",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "862674de9f17dc710e195bc678167281",
+                  "fileid": 251478,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 42318,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 28272,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42318",
+            "pos": 1
+          }
+      ],
+      "userid": 324
+    },
+    {
+      "metadata_visibility": "show",
+      "eprintid": 16099,
+      "eprint_status": "archive",
+      "datestamp": "2019-11-14 10:52:17",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Review Candra Dimensi Hak Asasi Manusia.pdf",
+            "docid": 29193,
+            "files": [
+                {
+                  "fileid": 137891,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "24305d04e14ec6723776393d904d350e",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-12 06:49:11",
+                  "filesize": 704627,
+                  "objectid": 29193,
+                  "filename": "Review Candra Dimensi Hak Asasi Manusia.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/137891"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29193",
+            "eprintid": 16099,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2019-11-14 10:52:17",
+      "userid": 366,
+      "title": "Dimensi Hak Asasi Manusia Dalam Pembangunan Hukum Nasional Dalam Buku Negara Hukum Kesejahteraan",
+      "type": "monograph",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Candra Perbawati",
+            "honourific": null,
+            "given": "Candra"
+          },
+          "id": "perbawaticandra@yahoo.com"
+        }
+      ],
+      "monograph_type": "other",
+      "institution": "Universitas Lampung",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16099",
+      "date": 2013,
+      "abstract": "Hasil Peniaian Sejawat Sebidang atau Peer Review",
+      "publisher": "PKKPUU Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/01\/60\/99",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2019-11-14 10:52:17",
+      "full_text_status": "public"
+    },
+    {
+      "lastmod": "2020-01-14 01:24:07",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2019-12-27 01:55:46",
+                  "hash_type": "MD5",
+                  "filename": "(2013) Konstitusionalisme Indonesia Buku I Dasar dan Teori.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147372",
+                  "objectid": 30543,
+                  "filesize": 4359413,
+                  "mime_type": "application\/pdf",
+                  "hash": "7b7f87e802028194ecf43457f1b66328",
+                  "fileid": 147372,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "(2013) Konstitusionalisme Indonesia Buku I Dasar dan Teori.pdf",
+            "docid": 30543,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30543",
+            "pos": 1,
+            "eprintid": 17417,
+            "placement": 1
+          }
+      ],
+      "userid": 347,
+      "metadata_visibility": "show",
+      "pagerange": "1-62",
+      "datestamp": "2020-01-14 01:24:07",
+      "eprintid": 17417,
+      "eprint_status": "archive",
+      "title": "Konstitusionalisme Indoenesia",
+      "refereed": "FALSE",
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "given": "Rudy",
+            "lineage": null,
+            "family": "Rudy",
+            "honourific": null
+          },
+          "id": "rudy.1981@fh.unila.ac.id"
+        }
+      ],
+      "date": "2013-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17417",
+      "book_title": "Buku Satu Dasar Teori",
+      "subjects": [
+        "K1"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-01-14 01:24:07",
+      "publisher": "PKKPUU",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/01\/74\/17"
+    },
+    {
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/01\/74\/60",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2020-01-14 02:47:56",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "event_title": "A Reflexive Sociology of Law and Society",
+      "subjects": [
+        "K1"
+      ],
+      "date": "2013-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17460",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "rudy.1981@fh.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rudy",
+            "lineage": null,
+            "given": "Rudy"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "title": "Legality Versus Morality : Moral Reading and The Case of Pemilukada in Tulang Bawang Regency of Lampung Province",
+      "event_dates": "Januari 2013",
+      "refereed": "FALSE",
+      "event_location": "Semarang",
+      "datestamp": "2020-01-14 02:47:56",
+      "eprintid": 17460,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 347,
+      "lastmod": "2020-01-14 02:47:56",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30588",
+            "pos": 1,
+            "eprintid": 17460,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 30588,
+            "main": "38_legality vs Morality.pdf",
+            "files": [
+                {
+                  "filesize": 20728113,
+                  "objectid": 30588,
+                  "filename": "38_legality vs Morality.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147702",
+                  "hash_type": "MD5",
+                  "mtime": "2020-01-03 02:55:44",
+                  "fileid": 147702,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "a2a3ec330caa80f757004ab55f35700b"
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "pagerange": "1-132",
+      "metadata_visibility": "show",
+      "eprintid": 17418,
+      "eprint_status": "archive",
+      "datestamp": "2020-01-14 01:23:38",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30544",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 17418,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "pengelolaan kawasan strategis nasional selat sunda(1).pdf",
+            "files": [
+                {
+                  "mtime": "2019-12-27 02:00:20",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147379",
+                  "filename": "pengelolaan kawasan strategis nasional selat sunda(1).pdf",
+                  "filesize": 26968838,
+                  "objectid": 30544,
+                  "hash": "819527392eaff18ce1f80c0120ca1f93",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 147379
+                }
+            ],
+            "docid": 30544,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2020-01-14 01:23:38",
+      "userid": 347,
+      "refereed": "FALSE",
+      "title": "Pengelolaan Kawasan Strategis Nasional Selat Sunda Evaluasi dan Konsep Penguatan Produk Hukum Daerah",
+      "type": "book_section",
+      "creators": [
+        {
+          "id": "rudy.1981@fh.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rudy",
+            "lineage": null,
+            "given": "Rudy"
+          }
+        }
+      ],
+      "book_title": "Buku Referensi",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17418",
+      "date": "2013-12",
+      "publisher": "PPKPHAM Bandar Lampung",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/01\/74\/18",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-01-14 01:23:38",
+      "full_text_status": "public"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17429",
+      "date": "2013-12",
+      "subjects": [
+        "K1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2020-01-14 02:49:44",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "Indefth Publishing PPKPHAM Bandar Lampung",
+      "dir": "disk0\/00\/01\/74\/29",
+      "userid": 347,
+      "lastmod": "2020-01-14 02:49:44",
+      "pages": 84,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 17429,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30554",
+            "security": "public",
+            "docid": 30554,
+            "main": "pengelolaan kawasan strategis nasional selat sunda(1).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 147451,
+                  "hash": "3dd09a018ac92d96620263ff7ad9a1e7",
+                  "mime_type": "application\/pdf",
+                  "filesize": 26968838,
+                  "objectid": 30554,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147451",
+                  "filename": "pengelolaan kawasan strategis nasional selat sunda(1).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-12-27 08:00:31"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2020-01-14 02:49:44",
+      "eprintid": 17429,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "isbn": "978-602-1534-22-9",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rudy",
+            "honourific": null,
+            "given": "Rudy"
+          },
+          "id": "rudy.1981@fh.unila.ac.id"
+        }
+      ],
+      "title": "Pengelolaan Kawasan Strategis ansional Selat Sunda Evaluasi dan Konsep Penguatan Produk Hukum Daerah",
+      "refereed": "FALSE"
+    },
+    {
+      "subjects": [
+        "K1"
+      ],
+      "institution": "Universitas Lampung",
+      "monograph_type": "manual",
+      "date": "2013-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17455",
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/01\/74\/55",
+      "status_changed": "2020-01-14 01:26:58",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "eprintid": 17455,
+      "eprint_status": "archive",
+      "datestamp": "2020-01-14 01:26:58",
+      "metadata_visibility": "show",
+      "userid": 347,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 17455,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30583",
+            "security": "public",
+            "docid": 30583,
+            "main": "02-NEGARA HUKUM KESEJAHTERAAN.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "a1d48cbaefda49e25b22f0c595bdd275",
+                  "fileid": 147667,
+                  "datasetid": "document",
+                  "filename": "02-NEGARA HUKUM KESEJAHTERAAN.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147667",
+                  "objectid": 30583,
+                  "filesize": 14744556,
+                  "mtime": "2020-01-03 02:01:03",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pages": 15,
+      "lastmod": "2020-01-14 01:26:58",
+      "type": "monograph",
+      "creators": [
+        {
+          "id": "rudy.1981@fh.unila.ac.id",
+          "name": {
+            "given": "Rudy",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rudy"
+          }
+        }
+      ],
+      "title": "Prolog : Rekonstruksi Negara Hukum Indonesia, Beranjak dari Teori Rechtaat Menuju Welfare State Pancasila",
+      "place_of_pub": "Bandar Lampung"
+    },
+    {
+      "creators": [
+        {
+          "id": "rudy.1981@fh.unila.ac.id",
+          "name": {
+            "given": "Rudy",
+            "family": "Rudy",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "book_section",
+      "title": "Prolog : Rekonstruksi Negara Hukum Indonesia, Beranjak dari Teori Rechtaat Menuju Welfare State Pancasila dalam Buku Negara Hukum Kesejahteraan",
+      "refereed": "FALSE",
+      "userid": 347,
+      "lastmod": "2020-01-14 01:24:34",
+      "documents": [
+          {
+            "eprintid": 17422,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30548",
+            "pos": 1,
+            "format": "text",
+            "main": "prolog rekonstruksi Negara Hukum Indonesia, Beranjak Dari Teori Rechstaat Menuju Welfare State Pancasila Dalam Buku Negara Hukum Kesajahteraan(1).pdf",
+            "files": [
+                {
+                  "hash": "c03a9d36725432dfc1017e7b7592395c",
+                  "mime_type": "application\/pdf",
+                  "fileid": 147407,
+                  "datasetid": "document",
+                  "filename": "prolog rekonstruksi Negara Hukum Indonesia, Beranjak Dari Teori Rechstaat Menuju Welfare State Pancasila Dalam Buku Negara Hukum Kesajahteraan(1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147407",
+                  "filesize": 10443930,
+                  "objectid": 30548,
+                  "mtime": "2019-12-27 02:23:28",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 30548,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2020-01-14 01:24:34",
+      "eprint_status": "archive",
+      "eprintid": 17422,
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "status_changed": "2020-01-14 01:24:34",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "dir": "disk0\/00\/01\/74\/22",
+      "date": "2013-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17422",
+      "subjects": [
+        "K1"
+      ],
+      "book_title": "Buku Negara Hukum Kesejahteraan"
+    },
+    {
+      "refereed": "FALSE",
+      "title": "Prolog : Rekonstruksi Negara Hukum Indonesia, Beranjak dari Teori Rechtaat Menuju Welfare State Pancasila dalam Buku Negara Hukum Kesejahteraan",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rudy",
+            "given": "Rudy"
+          },
+          "id": "rudy.1981@fh.unila.ac.id"
+        }
+      ],
+      "type": "book_section",
+      "documents": [
+          {
+            "eprintid": 18527,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31682",
+            "format": "text",
+            "main": "02-NEGARA HUKUM KESEJAHTERAAN.pdf",
+            "files": [
+                {
+                  "fileid": 155683,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "a1d48cbaefda49e25b22f0c595bdd275",
+                  "objectid": 31682,
+                  "filesize": 14744556,
+                  "filename": "02-NEGARA HUKUM KESEJAHTERAAN.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155683",
+                  "hash_type": "MD5",
+                  "mtime": "2020-03-10 06:25:45"
+                }
+            ],
+            "docid": 31682,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2020-03-12 03:54:07",
+      "userid": 347,
+      "pagerange": "3-17",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 18527,
+      "datestamp": "2020-03-12 03:54:07",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-03-12 03:54:07",
+      "full_text_status": "public",
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/01\/85\/27",
+      "date": "2013-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18527",
+      "book_title": "Wajah Hukum Dalam Realitas",
+      "subjects": [
+        "K1"
+      ]
+    },
+    {
+      "userid": 347,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31769",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18606,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "8a9294512cc68a0fac44263a0ea28e15",
+                  "fileid": 156240,
+                  "datasetid": "document",
+                  "mtime": "2020-03-11 08:47:33",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/156240",
+                  "filename": "Review Rudy prolog Rekonstruksi.pdf",
+                  "filesize": 113755,
+                  "objectid": 31769
+                }
+            ],
+            "main": "Review Rudy prolog Rekonstruksi.pdf",
+            "docid": 31769,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2020-03-12 03:54:52",
+      "eprint_status": "archive",
+      "eprintid": 18606,
+      "datestamp": "2020-03-12 03:54:52",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "rudy.1981@fh.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rudy",
+            "lineage": null,
+            "given": "Rudy"
+          }
+        }
+      ],
+      "type": "book_section",
+      "refereed": "FALSE",
+      "title": "Prolog : Rekonstruksi Negara Hukum Indonesia, Beranjak dari Teori Rechtaat Menuju Welfare State Pancasila dalam Buku Negara Hukum Kesejahteraan",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "date": "2013-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18606",
+      "subjects": [
+        "K1"
+      ],
+      "book_title": "Negara Hukum Kesejahteraan",
+      "status_changed": "2020-03-12 03:54:52",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "dir": "disk0\/00\/01\/86\/06"
+    },
+    {
+      "isbn": "978-602-17-8133-3",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wahyu Sasongko",
+            "honourific": null,
+            "given": "Wahyu"
+          }
+        }
+      ],
+      "type": "book",
+      "title": "Sejarah Tata Hukum Indonesia",
+      "refereed": "FALSE",
+      "datestamp": "2019-04-09 02:27:50",
+      "eprint_status": "archive",
+      "eprintid": 10757,
+      "metadata_visibility": "show",
+      "userid": 987,
+      "lastmod": "2019-04-09 02:27:50",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23771",
+            "pos": 1,
+            "eprintid": 10757,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 23771,
+            "main": "Wahyu.Sejarah Tata Hukum Indonesia (1).pdf",
+            "files": [
+                {
+                  "filesize": 22001642,
+                  "objectid": 23771,
+                  "filename": "Wahyu.Sejarah Tata Hukum Indonesia (1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/99247",
+                  "hash_type": "MD5",
+                  "mtime": "2019-02-13 07:26:57",
+                  "fileid": 99247,
+                  "datasetid": "document",
+                  "hash": "6caff248cb81e00f5ed8d9c69279d72d",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "PKKPUU Fakultas Universitas Lampung",
+      "dir": "disk0\/00\/01\/07\/57",
+      "full_text_status": "public",
+      "status_changed": "2019-04-09 02:27:50",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "K1"
+      ],
+      "date": "2013-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10757"
+    },
+    {
+      "full_text_status": "public",
+      "issn": "1978-5186",
+      "status_changed": "2020-10-01 01:07:30",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "publication": "Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung",
+      "dir": "disk0\/00\/02\/42\/60",
+      "abstract": "Penilaian Sejawat Sebidang atau Peer Review",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24260",
+      "date": 2013,
+      "subjects": [
+        "K1"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "YUSDIYANTO",
+            "family": "Yusdiyanto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Telaah Rezim Partai Politik dalam Dinamika Ketatanegaraan Indonesia",
+      "refereed": "FALSE",
+      "userid": 324,
+      "lastmod": "2020-10-01 01:07:30",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 37979,
+            "main": "Telaah Rezim Partai Politik.pdf",
+            "files": [
+                {
+                  "fileid": 220793,
+                  "datasetid": "document",
+                  "hash": "1f0c41c2dab10f86b4f093738652e872",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-10-01 01:06:40",
+                  "filesize": 141674,
+                  "objectid": 37979,
+                  "filename": "Telaah Rezim Partai Politik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/220793"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 24260,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37979",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2020-10-01 01:07:30",
+      "eprintid": 24260,
+      "eprint_status": "archive",
+      "metadata_visibility": "show"
+    },
+    {
+      "abstract": "hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14642",
+      "date": "2013-02",
+      "subjects": [
+        "K1"
+      ],
+      "book_title": "Buku Studi Penegakan dan Pengembangan Hukum",
+      "full_text_status": "public",
+      "status_changed": "2019-10-28 03:50:55",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "publisher": "universitas Lampung",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/01\/46\/42",
+      "userid": 762,
+      "lastmod": "2019-10-28 03:50:55",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "gabungan.pdf",
+            "docid": 27739,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "6de806c3cc85554a508d24499b8d927a",
+                  "fileid": 126806,
+                  "datasetid": "document",
+                  "filename": "gabungan.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/126806",
+                  "filesize": 1004614,
+                  "objectid": 27739,
+                  "mtime": "2019-10-28 03:21:30",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27739",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 14642
+          }
+      ],
+      "datestamp": "2019-10-28 03:50:55",
+      "eprint_status": "archive",
+      "eprintid": 14642,
+      "metadata_visibility": "show",
+      "pagerange": "95-109",
+      "place_of_pub": "Bandar Lampung",
+      "isbn": "978-602-7509-50-4",
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "given": "nikmah",
+            "honourific": null,
+            "lineage": null,
+            "family": "nikmah rosidah"
+          }
+        }
+      ],
+      "title": "Diversi dan Keadilan Restoratif Sebagai Upaya Penanggulangan Delinkuensi Anak di Indonesia",
+      "refereed": "FALSE"
+    },
+    {
+      "full_text_status": "public",
+      "issn": "2527-4716",
+      "status_changed": "2019-09-18 02:31:39",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publisher": "Universitas Dipenogoro",
+      "divisions": [
+        "FH1"
+      ],
+      "publication": "Masalah - Masalah Hukum",
+      "dir": "disk0\/00\/01\/42\/12",
+      "abstract": "Hasil Sejawat Sebidang atau Peer Review",
+      "date": "2013-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14212",
+      "subjects": [
+        "K1"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "S.H., M.H",
+            "lineage": null,
+            "family": "sunaryo",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Dr.Sunaryo, S.H., M.H.",
+      "refereed": "FALSE",
+      "userid": 1007,
+      "number": 4,
+      "lastmod": "2019-09-18 02:31:39",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Review Sunaryo Globalisasi dan Pluralisme Hukum dalam Pembangunan sistem Hukum Pncasila.pdf",
+            "docid": 27270,
+            "files": [
+                {
+                  "fileid": 123452,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "1fa69920386383c769292bea7e81150b",
+                  "hash_type": "MD5",
+                  "mtime": "2019-09-13 09:43:41",
+                  "objectid": 27270,
+                  "filesize": 795121,
+                  "filename": "Review Sunaryo Globalisasi dan Pluralisme Hukum dalam Pembangunan sistem Hukum Pncasila.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/123452"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27270",
+            "eprintid": 14212,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2019-09-18 02:31:39",
+      "eprint_status": "archive",
+      "eprintid": 14212,
+      "metadata_visibility": "show",
+      "pagerange": "535-541"
+    }
+]
+

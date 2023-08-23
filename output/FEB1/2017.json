@@ -1,0 +1,74 @@
+[
+    {
+      "status_changed": "2019-11-04 08:20:06",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "divisions": [
+        "FEB1"
+      ],
+      "dir": "disk0\/00\/01\/41\/84",
+      "event_type": "conference",
+      "abstract": "Sejawat Sebidang peer review",
+      "date": "2017-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14184",
+      "subjects": [
+        "AC"
+      ],
+      "event_title": "SEMINAR NASIONAL FISIP UNILA 2017",
+      "date_type": "published",
+      "event_location": "Swiss Bell Hotel Bandarlampung",
+      "creators": [
+        {
+          "id": "maulanamukhlis1978@gmail.com",
+          "name": {
+            "family": "Mukhlis",
+            "lineage": null,
+            "honourific": null,
+            "given": "Maulana"
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "event_dates": "18 Oktober 2017",
+      "refereed": "TRUE",
+      "title": "Advokasi Organisasi Masyarakat Sipil Dalam Mendorong Kebijakan Distribusi Penguasaan Lahan Upaya Mewujudkan Masyarakat Yang Berkeadilan",
+      "userid": 681,
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/123225",
+                  "filename": "14.pdf",
+                  "objectid": 27225,
+                  "filesize": 308220,
+                  "mtime": "2019-09-12 03:53:04",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "519c35d2c18c085981547d1fe44ac990",
+                  "datasetid": "document",
+                  "fileid": 123225
+                }
+            ],
+            "main": "14.pdf",
+            "docid": 27225,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 14184,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27225",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2019-11-04 08:20:06",
+      "eprintid": 14184,
+      "eprint_status": "archive",
+      "datestamp": "2019-11-04 08:20:06",
+      "metadata_visibility": "show"
+    }
+]
+

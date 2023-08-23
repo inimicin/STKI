@@ -1,0 +1,90 @@
+[
+    {
+      "datestamp": "2016-06-30 03:33:12",
+      "eprintid": 56,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 1,
+      "number": 1,
+      "lastmod": "2016-11-04 02:52:33",
+      "documents": [
+          {
+            "eprintid": 56,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/79",
+            "pos": 1,
+            "format": "text",
+            "docid": 79,
+            "main": "Publikasi_Jurnal(12).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/339",
+                  "filename": "Publikasi_Jurnal(12).pdf",
+                  "objectid": 79,
+                  "filesize": 154377,
+                  "mtime": "2016-06-30 03:25:34",
+                  "hash_type": "MD5",
+                  "hash": "272b18ad291cd327624356a48699be72",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 339
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "id": ".",
+          "name": {
+            "given": "Machudor",
+            "lineage": null,
+            "family": "Yusman",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Aristoteles",
+            "lineage": null,
+            "honourific": null,
+            "given": "Aristoteles"
+          },
+          "id": "."
+        },
+        {
+          "name": {
+            "given": "Anie Rose",
+            "lineage": null,
+            "family": "Irawati",
+            "honourific": null
+          },
+          "id": "."
+        }
+      ],
+      "title": "ANALISIS KOMPUTASI PARALEL DAN SERIAL PADA ALGORITMA \r\nMERGE SORT",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "This paper describes the application of parallel computing technologies in the merge sort algorithm.\r\nThe data used in this study as many as 100 to 6 million. Data in the form of randomly generated numbers. In\r\nthe testing phase, parallel computing processor = 2, processor = 4 (computer simulation), and 2 computers\r\nconnected in a peer to peer. The results showed that the amount of data that is not too big, serial computation\r\ntime is faster when compared to the parallel computing time. By using two computer peer to peer the amount\r\nof data that can reach 6 million sorted data. The average of Speed Up value of  p = 2, p = 4, and computer = 2\r\nwas 2.273738, 1.980198 and 1.074942.",
+      "volume": 18,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/56",
+      "date": 2012,
+      "divisions": [
+        "FMIPA3"
+      ],
+      "publication": "J. Sains MIPA",
+      "dir": "disk0\/00\/00\/00\/56",
+      "full_text_status": "public",
+      "status_changed": "2016-06-30 03:33:12",
+      "ispublished": "pub",
+      "rev_number": 9
+    }
+]
+

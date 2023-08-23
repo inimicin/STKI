@@ -1,0 +1,260 @@
+[
+    {
+      "userid": 1083,
+      "contributors": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Maya Dwi Lestari",
+            "given": "Maya"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wan Abbas Zakaria",
+            "given": "Zakaria WA"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "wan_abbas@yahoo.com"
+        },
+        {
+          "id": "dwih_unila@yahoo.com",
+          "name": {
+            "family": "Haryono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dwi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 1,
+      "official_url": "http:\/\/dx.doi.org\/10.25181\/jofsa.v7i1.2673",
+      "lastmod": "2023-08-15 02:14:22",
+      "documents": [
+          {
+            "main": "2673-Article Text-9873-1-10-20230417.pdf",
+            "files": [
+                {
+                  "filename": "2673-Article Text-9873-1-10-20230417.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620673",
+                  "objectid": 253627,
+                  "filesize": 362371,
+                  "mtime": "2023-08-15 00:53:01",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "6d284795dfbfaa13d1298567bc419371",
+                  "datasetid": "document",
+                  "fileid": 620673
+                }
+            ],
+            "docid": 253627,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 52368,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253627",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2023-08-15 02:14:22",
+      "eprintid": 52368,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "21-32",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Maya",
+            "honourific": null,
+            "lineage": null,
+            "family": "Maya Dwi Lestari"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wan Abbas Zakaria",
+            "honourific": null,
+            "given": "Zakaria WA"
+          },
+          "id": "wan_abbas@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Dwi",
+            "family": "Haryono",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "dwih_unila@yahoo.com"
+        }
+      ],
+      "title": "Analisis Kinerja Keuangan Usaha Penggemukan Sapi dan Kambing \r\n(Studi Kasus Di CV. ABK, Kabupaten Lampung Selatan)",
+      "refereed": "TRUE",
+      "abstract": "Tujuan penelitian ini adalah untuk menganalisis kinerja keuangan usaha penggemukan sapi dan kambing di CV. ABK. Penelitian ini merupakan studi kasus yang berlokasi di Desa Candi Mas, Kecamatan Natar, Kabupaten Lampung Selatan, Provinsi Lampung. Pemilihan lokasi dilakukan secara sengaja. Metode analisis yang digunakan adalah analisis kinerja keuangan yang meliputi rasio profitabilitas, rasio likuiditas, dan rasio solvabilitas. Secara keseluruhan usaha penggemukan sapi dan kambing di CV. ABK Kabupaten Lampung \r\nSelatan termasuk ketegori baik. Rata-rata nilai rasio likuiditas yaitu current ratio (486,76 %) dan quick ratio\r\n(310,68 %) lebih dari standar yang telah ditentukan. Rata-rata nilai rasio solvabilitas yaitu Debt to Asset Ratio\r\n(5,26 %) dan Debt to Equity Ratio (6,30 %) tidak lebih dari 50 %. Rata-rata nilai rasio profitabilitas yaitu Profit \r\nMargin (10,99 %), Return on Equity (22,53 %) dan Return on Assets (21,54 %) lebih dari 1,5 %. Penurunan kinerja keuangan pada rasio profitabilitas tahun 2020 karena dampak Covid-19. Akan tetapi, pada tahun 2021 kinerja usaha penggemukan sapi dan kambing di CV. ABK mulai membaik.",
+      "volume": 7,
+      "corp_creators": [
+        "Jurusan Agribisnis, Fakultas Pertanian, Universitas Lampung",
+        "Jurusan Agribisnis, Fakultas Pertanian, Universitas Lampung",
+        "Jurusan Agribisnis, Fakultas Pertanian, Universitas Lampung"
+      ],
+      "date": "2023-04-17",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52368",
+      "date_type": "published",
+      "subjects": [
+        "S1",
+        "SF"
+      ],
+      "full_text_status": "public",
+      "issn": "pISSN 2654-5853 eISSN 2597-9426",
+      "status_changed": "2023-08-15 02:14:22",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publication": "Analisis Kinerja Keuangan Usaha Penggemukan Sapi dan Kambing  (Studi Kasus Di CV. ABK, Kabupaten Lampung Selatan)",
+      "publisher": "Journal of Food System and Agribusiness",
+      "divisions": [
+        "FP6"
+      ],
+      "dir": "disk0_bak\/00\/05\/23\/68"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Analisis Respon Penawaran, Permintaan Dan Harga Ubi Kayu Di \r\nProvinsi Lampung",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Varingan Prianando",
+            "lineage": null,
+            "family": "Tambunan",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "wan_abbas@yahoo.com",
+          "name": {
+            "given": "Zakaria WA",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wan Abbas Zakaria"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Indriani",
+            "lineage": null,
+            "given": "Yaktiworo"
+          },
+          "id": "yakti_indriani@yahoo.com"
+        }
+      ],
+      "pagerange": "1-12",
+      "metadata_visibility": "show",
+      "eprintid": 52367,
+      "eprint_status": "archive",
+      "datestamp": "2023-08-15 02:14:21",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 253626,
+            "main": "2562-Article Text-9867-1-10-20230417.pdf",
+            "files": [
+                {
+                  "mtime": "2023-08-15 00:26:05",
+                  "hash_type": "MD5",
+                  "filename": "2562-Article Text-9867-1-10-20230417.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620667",
+                  "objectid": 253626,
+                  "filesize": 338590,
+                  "mime_type": "application\/pdf",
+                  "hash": "8835796b557a2f88cfe6b91548372348",
+                  "datasetid": "document",
+                  "fileid": 620667
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253626",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52367
+          }
+      ],
+      "lastmod": "2023-08-15 02:14:21",
+      "official_url": "http:\/\/dx.doi.org\/10.25181\/jofsa.v7i1.2562",
+      "number": 1,
+      "contributors": [
+        {
+          "id": null,
+          "name": {
+            "family": "Tambunan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Varingan Prianando"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "wan_abbas@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Wan Abbas Zakaria",
+            "lineage": null,
+            "given": "Zakaria WA"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Indriani",
+            "lineage": null,
+            "given": "Yaktiworo"
+          },
+          "id": "yakti_indriani@yahoo.com"
+        }
+      ],
+      "userid": 1083,
+      "publisher": "Journal of Food System and Agribusiness",
+      "divisions": [
+        "FP6"
+      ],
+      "publication": "Analisis Respon Penawaran, Permintaan Dan Harga Ubi Kayu Di  Provinsi Lampung",
+      "dir": "disk0_bak\/00\/05\/23\/67",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2023-08-15 02:14:21",
+      "full_text_status": "public",
+      "issn": "pISSN 2654-5853 eISSN 2597-9426",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52367",
+      "date": "2023-04-17",
+      "volume": 7,
+      "corp_creators": [
+        "Jurusan Agribisnis, Fakultas Pertanian, Universitas Lampung",
+        "Jurusan Agribisnis, Fakultas Pertanian, Universitas Lampung",
+        "Jurusan Agribisnis, Fakultas Pertanian, Universitas Lampung"
+      ],
+      "abstract": "Tujuan penelitian ini adalah menganalisis faktor-faktor yang memengaruhi respon penawaran, permintaan, dan harga ubi kayu di Provinis Lampung. Jenis data yang digunakan adalah data sekunder dengan deret waktu (time series) selama 15 tahun yaitu dari tahun 2006 sampai tahun 2019. Metode analisis yang digunakan adalah Metode Analisis Kuadrat Terkecil Dua Tahap atau TSLS dengan beberapa persamaan yang digunakan \r\nyaitu persaamaan produksi atau penawaran ubi kayu, permintaan ubi kayu untuk industri gaplek dan tapioka, \r\ndan harga ubi kayu tingkat petani di Provinsi Lampung. Hasil penelitian yang didapatkan adalah faktor-faktor yang memengaruhi respon penawaran ubi kayu secara signifikan di Provinsi Lampung adalah variabel luas area panen dan produktivitas ubi kayu, faktor-faktor yang memengaruhi respon permintaan ubi kayu secara signifikan untuk industri gaplek adalah variabel pertumbuhan harga ubi kayu tingkat industri gaplek, variabel tingkat suku bunga pinjaman, dan jumlah permintaan ubi kayu untuk industri gaplek pada tahun sebelumnya, sedangkan faktor-faktor yang memengaruhi respon permintaaan ubi kayu secara signifikan untuk industri \r\ntapioka adalah variabel rasio harga tapioka tingkat industri tapioka, upah buruh pabrik, harga dasar solar, teknologi, tingkat suku bunga pinjaman, dan jumlah permintaan ubi kayu tingkat industri tapioka tahun sebelumnya,faktor-faktor yang memengaruhi respon harga ubi kayu tingkat petani adalah jumlah penawaran dan permintaan ubi kayu."
+    }
+]
+

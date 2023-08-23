@@ -1,0 +1,208 @@
+[
+    {
+      "refereed": "TRUE",
+      "userid": 982,
+      "number": 1,
+      "official_url": "http:\/\/staff.uny.ac.id\/sites\/default\/files\/penelitian\/Prof.%20Dr.%20Sukadiyanto,%20M.Pd.\/Instrumen%20Strategi%20Multiteknik%20Mental%20Atlet%20Usia%2011-13%20Tahun.PDF",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "docid": 159090,
+            "main": "Jurnal IPTEK Olahraga (Jambi) (1).pdf",
+            "files": [
+                {
+                  "fileid": 432892,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "278e3bf73e7b4b3ddcd4c95afcabe10c",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-03 14:28:46",
+                  "objectid": 159090,
+                  "filesize": 8194230,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432892",
+                  "filename": "Jurnal IPTEK Olahraga (Jambi) (1).pdf"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159090",
+            "pos": 1,
+            "eprintid": 38107,
+            "placement": 1
+          },
+          {
+            "formatdesc": "Reviewer",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159091",
+            "pos": 2,
+            "eprintid": 38107,
+            "placement": 2,
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 159091,
+            "main": "Olahraga Jambi.pdf",
+            "files": [
+                {
+                  "fileid": 432894,
+                  "datasetid": "document",
+                  "hash": "8b04b2c1b33fcc5876a498a6fad5c1b7",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-20 05:06:12",
+                  "filesize": 835993,
+                  "objectid": 159091,
+                  "filename": "Olahraga Jambi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432894"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2022-01-20 07:31:03",
+      "id_number": 14110016,
+      "eprintid": 38107,
+      "eprint_status": "archive",
+      "pagerange": "56-72",
+      "full_text_status": "public",
+      "issn": 14110016,
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "url": "http:\/\/lib.unnes.ac.id\/32571\/1\/Pengembangan_Teknobgi_Analisis_Citra_Digital_untuk.._.pdf"
+        }
+      ],
+      "publisher": "Jurnal Iptek Olahraga",
+      "abstract": "Abstrak Penelitian ini bertujuan untuk mendapatkan gambaran tentang berbagai cabang olahraga unggulan, pembinaan cabang olahraga unggulan, program latihan serta pelaksanannya, kondisi prasarana dan sarana, serta penghargaan pemerintah yang telah diberikan pada olahragawan, pelatih dan pembina olahraga unggulan di Provinsi Jambi. Teknik pengambilan sampel dilakukan dengan teknik random sampling sehingga diambil 44 (empat puluh empat) orang sampel yang terdiri dari pelatih, olahragawan, dan pengurus cabang olahraga. Analisis data dilakukan dengan menggunakan metode deskriptif. Hasil penelitian ini menunjukkan bahwa cabang olahraga yang menjadi unggulan Provinsi Jambi adalah renang (81,8%), gulat dan pencak silat (72,72%), dayung, panahan, angkat besi, dan kempo (45,5%). serta senam (36,4%).\r\n\r\nKata kunci: olahraga unggulan, Provinsi Jambi.",
+      "date": "2008-01",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rahmat",
+            "lineage": null,
+            "given": "Hermawan"
+          },
+          "id": "nugafik@yahoo.co.id"
+        }
+      ],
+      "type": "article",
+      "title": "Olahraga Unggulan Provinsi Jambi",
+      "lastmod": "2022-01-20 07:31:03",
+      "metadata_visibility": "show",
+      "succeeds": 37583,
+      "status_changed": "2022-01-20 07:31:03",
+      "rev_number": 11,
+      "publication": "Olahraga Unggulan Provinsi Jambi",
+      "divisions": [
+        "FKIP20"
+      ],
+      "dir": "disk0\/00\/03\/81\/07",
+      "volume": 10,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38107",
+      "date_type": "published",
+      "subjects": [
+        "L1",
+        "LB",
+        "LB1501",
+        "LC",
+        "LC5201",
+        "Q1"
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Hermawan",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rahmat"
+          },
+          "id": "nugafik@yahoo.co.id"
+        },
+        {
+          "id": "ardiancahyadi.ac@gmail.com",
+          "name": {
+            "given": "cahyadi",
+            "honourific": null,
+            "lineage": null,
+            "family": "ardian"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Olahraga Unggulan Provinsi Jambi",
+      "refereed": "TRUE",
+      "datestamp": "2022-01-19 06:53:20",
+      "eprintid": 37254,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "58-72",
+      "userid": 982,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 1,
+      "lastmod": "2022-01-19 06:53:20",
+      "documents": [
+          {
+            "eprintid": 37254,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158157",
+            "pos": 1,
+            "format": "text",
+            "docid": 158157,
+            "main": "JURNAL KEMNENPORA jadi.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/426586",
+                  "filename": "JURNAL KEMNENPORA jadi.pdf",
+                  "objectid": 158157,
+                  "filesize": 1231161,
+                  "mtime": "2021-12-11 04:04:55",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "af9aa75bcdae7fc940331f8abb4b6111",
+                  "datasetid": "document",
+                  "fileid": 426586
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "publication": "JURNAL IPTEK OLAHRAGA",
+      "publisher": "KEMENPORA REPUBLIK INDONESIA",
+      "dir": "disk0\/00\/03\/72\/54",
+      "divisions": [
+        "FKIP20"
+      ],
+      "full_text_status": "public",
+      "issn": "1441-0016",
+      "status_changed": "2022-01-19 06:53:20",
+      "ispublished": "pub",
+      "rev_number": 11,
+      "date_type": "published",
+      "subjects": [
+        "L1",
+        "LA",
+        "LB1501",
+        "LC5201"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk mendapat gambaran tentang berbagai cabang olahraga unggulan di Provinsi Jambi. Pengambilan sampel dilakukan dengan teknik random sampling sehingga diambil sebanyak 44 (empat puluh empat) orang yng terdiri dari pelatih, atlet, dan pengurus cabang olahraga. Data dikumpulkan dengan menggunakan wawancara, angket dan dokumentasi. Analisis data dilakukan denngan menggunakan metode diskriptif.  Hasil penelitian menunjukkan bahwa cabang olahraga yang menjadi unggulan di Provinsi Jambi adalah renang (81,8%0, Gulat dan pencak silat (72,72%), DAYUNG, PANAHAN, ANGKAT BESI DAN KEMPO (36,4%).",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 10,
+      "date": "2008-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37254"
+    }
+]
+

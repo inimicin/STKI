@@ -1,0 +1,165 @@
+[
+    {
+      "event_title": "Seminar Nasional Ilmu Komputer dan Aplikasinya",
+      "subjects": [
+        "QA75"
+      ],
+      "abstract": "Informasi yang berlimpah di internet ini tidaklah mudah dicari dan dimanfaatkan. Teknologi\r\nInformation Extraction (IE) merupakan salah satu alternatif yang dapat menjawab tantangan ini.\r\nPendekatan konvensional IE menggunakan Natural Language Processing (NLP) terkendala\r\nmasalah portabilitas, skalabilitas dan adaptifitas. Sistem ekstraksi yang ada umumnya tidak\r\ndapat mengakomodasi perubahan isi atau perubahan tampilan situs target. Dalam paper ini\r\nakan diusulkan arsitektur sistem ekstraksi informasi yang adaptif.",
+      "date": "2007-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6596",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/00\/65\/96",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2018-04-25 02:28:59",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "datestamp": "2018-04-25 02:28:59",
+      "eprintid": 6596,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1-4",
+      "userid": 883,
+      "lastmod": "2018-04-25 02:28:59",
+      "documents": [
+          {
+            "format": "text",
+            "main": "sistem ekstraksi informasi adaptif.pdf",
+            "docid": 19550,
+            "files": [
+                {
+                  "objectid": 19550,
+                  "filesize": 68341,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60856",
+                  "filename": "sistem ekstraksi informasi adaptif.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-03-13 01:05:52",
+                  "datasetid": "document",
+                  "fileid": 60856,
+                  "hash": "9c482abc274e700619b7e4059f6b6528",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "eprintid": 6596,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19550"
+          }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Kuspriyanto",
+            "family": "Kuspriyanto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "honourific": null,
+            "lineage": null,
+            "family": "Muludi"
+          }
+        }
+      ],
+      "title": "ARSITEKTUR SISTEM EKSTRAKSI INFORMASI ADAPTIF",
+      "event_dates": "22-11-2007",
+      "refereed": "TRUE",
+      "event_location": "Bandung"
+    },
+    {
+      "event_location": "Bandung",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "family": "Muludi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Kurnia"
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Kuspriyanto",
+            "honourific": null,
+            "given": "Kuspriyanto"
+          }
+        }
+      ],
+      "title": "METODE KLASIFIKASI OPTIMUM UNTUK DESCRIPTION LOGIC BASED-HIERARCHICAL STUCTURED-KNOWLEDGE BASE",
+      "refereed": "TRUE",
+      "event_dates": "22-11-2007",
+      "userid": 883,
+      "lastmod": "2018-04-25 02:27:24",
+      "documents": [
+          {
+            "main": "Optimum Information Retrieval.pdf",
+            "docid": 19551,
+            "files": [
+                {
+                  "fileid": 60867,
+                  "datasetid": "document",
+                  "hash": "59f6aeb9d59809b1a19ed959b6a57ae2",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-03-13 01:11:57",
+                  "filesize": 175614,
+                  "objectid": 19551,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60867",
+                  "filename": "Optimum Information Retrieval.pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 6597,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19551",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2018-04-25 02:27:24",
+      "eprint_status": "archive",
+      "eprintid": 6597,
+      "metadata_visibility": "show",
+      "pagerange": "1-5",
+      "full_text_status": "public",
+      "status_changed": "2018-04-25 02:27:24",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FMIPA3"
+      ],
+      "dir": "disk0\/00\/00\/65\/97",
+      "event_type": "conference",
+      "abstract": "Since W3C has recommended OWL-DL, many legacy ontologies are now being translated into Description Logic (DL) based ontology languages in order to take advantage of DL based tools and reasoning services. However the resulting Knowledge Bases (KBs) are typically of large size, but have consist mainly of shallow taxonomies. In this paper we propose an optimisation which speeds-up classification for such KBs.\r\n\r\nKeyword: Description Logic, Classification, Information Retrieval, Hierarchical.Data, Ontology.",
+      "date": "2007-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6597",
+      "date_type": "completed",
+      "event_title": "Seminar Nasional Ilmu Komputer dan Aplikasinya",
+      "subjects": [
+        "QA75"
+      ]
+    }
+]
+

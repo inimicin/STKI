@@ -1,0 +1,69 @@
+[
+    {
+      "patent_applicant": "Rahma Kurnia Sri Utami, S.Si., M.Pd.,Dr. Nurul Khakhim, M.Si. dkk",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50992",
+      "date": "0029-11-29",
+      "subjects": [
+        "G1"
+      ],
+      "date_type": "published",
+      "status_changed": "2023-05-03 06:57:19",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/09\/92",
+      "divisions": [
+        "FKIP18"
+      ],
+      "userid": 65,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190703",
+            "pos": 1,
+            "eprintid": 50992,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "2022-Peta Lokasi Alokasi Fasilitas Pendidikan di Kota Yogyakarta.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 548568,
+                  "mime_type": "application\/pdf",
+                  "hash": "d2ce37b7ac6807ca60739bd7aa3332b2",
+                  "filesize": 251026,
+                  "objectid": 190703,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548568",
+                  "filename": "2022-Peta Lokasi Alokasi Fasilitas Pendidikan di Kota Yogyakarta.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-03 03:26:52"
+                }
+            ],
+            "docid": 190703
+          }
+      ],
+      "lastmod": "2023-05-03 06:57:19",
+      "eprint_status": "archive",
+      "id_number": "EC00202296773",
+      "eprintid": 50992,
+      "datestamp": "2023-05-03 06:57:19",
+      "metadata_visibility": "show",
+      "type": "patent",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rahma Kurnia",
+            "lineage": null,
+            "given": "Sri Utami"
+          },
+          "id": "rahma.kurnia@fkip.unila.ac.id"
+        }
+      ],
+      "title": "Hak Cipta: Peta Lokasi Alokasi Fasilitas Pendidikan Negeri SD, SMP, Dan SMA\/SMK Di Kota Yogyakarta Tahun 2022"
+    }
+]
+

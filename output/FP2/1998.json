@@ -1,0 +1,75 @@
+[
+    {
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "agus.karyanto@fp.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "lineage": null,
+            "family": "Karyanto"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "title": "APLIKASI TEKNIK KULTUR IN VITRO DALM PRODUKSI BENIH UNGGUL",
+      "event_dates": "8 - 9 Desember 1997",
+      "refereed": "TRUE",
+      "event_location": "BANDAR LAMPUNG",
+      "datestamp": "2023-05-02 01:40:56",
+      "eprintid": 50858,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "191-196",
+      "userid": 671,
+      "lastmod": "2023-05-02 01:40:56",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "makalah PERAGI_1998.pdf",
+            "files": [
+                {
+                  "objectid": 190569,
+                  "filesize": 2802657,
+                  "filename": "makalah PERAGI_1998.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547599",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-30 06:57:59",
+                  "datasetid": "document",
+                  "fileid": 547599,
+                  "hash": "751544330611dd5207b1f13e87b427a4",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 190569,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190569",
+            "pos": 1,
+            "eprintid": 50858,
+            "placement": 1
+          }
+      ],
+      "dir": "disk0_bak\/00\/05\/08\/58",
+      "divisions": [
+        "FP2"
+      ],
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2023-05-02 01:40:56",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "SEMINAR NASIONAL PERAGI",
+      "abstract": "Berbagai upaya telah dilakukan untuk memajukan pertanian, baik melalui program\r\nintensifikasi, diversifikasi, dan ekstensifikasi tanaman.  Pengadaan benih yana bermutu darr\r\nmampu dijangkau oleh petani merupakan langkah awal yang harus ditempuh untuk\r\nmeningkatkan produksi pertanian. Penggunaan metode konservatif dalam produksi benih masih tetap diperlukan mengingat kebutuhan dan kemampuan petani yang beragam Namun\r\ndemikian, produksi benih dengan memanfaatkan teknologi tinggi juga makin mendapatkan hasilnya karena memiliki berbagai macam keunggulan yang tidak dapat diperoleh melalui cara-cara konservatif. Makalah ini meacoba membahas salah satu aspek pemanfaatan bioteknologi yang paling dasar, yaitu teknik kultur in vitro dalam rangka menciptakan tanaman-tanaman unggul.",
+      "date": 1998,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50858"
+    }
+]
+

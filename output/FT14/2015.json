@@ -1,0 +1,111 @@
+[
+    {
+      "refereed": "TRUE",
+      "title": "Development of Fibrin Gel-Microgroove Model For Microvascularization by Endothelial Cells",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Shaoyi",
+            "honourific": null,
+            "family": "Chen",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Akihiro",
+            "honourific": null,
+            "lineage": null,
+            "family": "Morita"
+          }
+        },
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Sukmana",
+            "honourific": null,
+            "given": "Irza"
+          }
+        },
+        {
+          "name": {
+            "given": "Eijiro",
+            "lineage": null,
+            "family": "Maeda",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Tohsiro",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ohashi"
+          },
+          "id": null
+        }
+      ],
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3635",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3780,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "16. 012015_INT.pdf",
+            "docid": 3635,
+            "files": [
+                {
+                  "objectid": 3635,
+                  "filesize": 443419,
+                  "filename": "16. 012015_INT.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26475",
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-04 04:06:24",
+                  "datasetid": "document",
+                  "fileid": 26475,
+                  "hash": "9549ad65c3ebf61844c6d4a35e545d7c",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2017-08-14 03:07:08",
+      "number": 1,
+      "userid": 464,
+      "pagerange": "19-23",
+      "metadata_visibility": "show",
+      "eprintid": 3780,
+      "eprint_status": "archive",
+      "datestamp": "2017-08-14 03:07:08",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2017-08-14 03:07:08",
+      "issn": "1867-0466 (Print) 1867-0474 (Online)",
+      "full_text_status": "public",
+      "publisher": "J-STAGE",
+      "publication": "Bioreheology",
+      "divisions": [
+        "FT14"
+      ],
+      "dir": "disk0\/00\/00\/37\/80",
+      "date": "2015-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3780",
+      "volume": 9,
+      "abstract": "This study was performed to develop a new for study of microvascularization by endothelial cells (ECs). The effects of the width of microgrooves, initial cell seeding density and a supplementation of vascular endothe lial growth factor (VEGF) on in vitro microvasculaization formed on a polydimethylsiloxane microgroove substrate, were elongated and sprouted within the gel in all the four types of microgrooves. In addition, multicellular network serves as a geometrical constraint for ECs, with a promotional effect on angiogenic responses of ECs, and thus, it can be used as an experimental model in the study of invitro vascularization.",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published"
+    }
+]
+

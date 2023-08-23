@@ -1,0 +1,721 @@
+[
+    {
+      "pagerange": "2600-2604",
+      "metadata_visibility": "show",
+      "id_number": "10.1016\/j.enconman.2009.06.011",
+      "eprintid": 775,
+      "eprint_status": "archive",
+      "datestamp": "2016-10-13 15:40:33",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/666",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 775,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 666,
+            "main": "Paper 12 ECM Hydrogen Review Paper OK.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 4510,
+                  "hash": "39b109518cf3b6168ba6102f451f170d",
+                  "mime_type": "application\/pdf",
+                  "objectid": 666,
+                  "filesize": 213744,
+                  "filename": "Paper 12 ECM Hydrogen Review Paper OK.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4510",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-12 07:47:49"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2016-10-13 15:40:33",
+      "userid": 988,
+      "refereed": "TRUE",
+      "title": "Hydrogen production from glycerol: An update",
+      "creators": [
+        {
+          "name": {
+            "given": "Sushil",
+            "honourific": null,
+            "lineage": null,
+            "family": "Adhikari"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fernando",
+            "given": "Sandun D."
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Haryanto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "date": 2009,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/775",
+      "corp_creators": [
+        "Mississippi State University",
+        "Mississippi State University",
+        "University of Lampung"
+      ],
+      "volume": 50,
+      "abstract": "The production of alternative fuels such as biodiesel and ethanol has increased over the last few years. Such fuels are vital for the reduction of energy dependence on foreign countries and to protect the environmental damage associated with the use of fossil fuels. Due to the increased production of biodiesel, a glut of crude glycerol has resulted in the market and the price has plummeted over the past few years. Therefore, it is imperative to find alternative uses for glycerol. A variety of chemicals and fuels including hydrogen can be produced from glycerol. Hydrogen is produced by using several processes, such as steam reforming, autothermal reforming, aqueous-phase reforming and supercritical water reforming. This paper reviews different generation methods, catalysts and operating conditions used to produce hydrogen using glycerol as a substrate. Most of the studies were focused on hydrogen production via steam reforming process and still less work has been done on producing hydrogen from crude glycerol.",
+      "dir": "disk0\/00\/00\/07\/75",
+      "publisher": "Elsevier",
+      "publication": "Energy Conversion and Management",
+      "divisions": [
+        "FP18"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2016-10-13 15:40:33",
+      "full_text_status": "public"
+    },
+    {
+      "status_changed": "2016-10-13 15:39:41",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "Chem. Eng. Technol.",
+      "dir": "disk0\/00\/00\/07\/69",
+      "divisions": [
+        "FP18"
+      ],
+      "volume": 32,
+      "corp_creators": [
+        "Mississippi State University",
+        "Mississippi State University",
+        "University of Lampung"
+      ],
+      "abstract": "As a result of skyrocketing prices, environmental concerns and depletion associated with fossil fuels, renewable fuels are becoming attractive alternatives. In this respect, the demand for biodiesel has increased tremendously in recent years. Increased production of biodiesel has resulted in a glut of glycerol that has reduced the demand for this once valuable commodity. Consequently, finding alternative uses for glycerol is a timely proposition. One alternative is producing renewable hydrogen from this cheap commodity. Only a handful of studies have been conducted on producing hydrogen from glycerol. Previous studies have mainly focused on finding effective catalysts for glycerol steam reforming. This paper extends previous knowledge by presenting kinetic parameters in relation to glycerol steam reforming over Ni\/CeO2 and a reactor modeling. The study found that the activation energy and the reaction order for the glycerol steam reforming reaction over Ni\/CeO2 catalyst were 103.4 kJ\/mol and 0.233, respectively.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/769",
+      "date": 2009,
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Adhikari",
+            "given": "Sushil"
+          }
+        },
+        {
+          "name": {
+            "family": "Fernando",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sandun D."
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Haryanto",
+            "honourific": null,
+            "given": "Agus"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Kinetics and Reactor Modeling of Hydrogen Production from Glycerol via Steam Reforming Process over Ni\/CeO2 Catalysts",
+      "number": 4,
+      "userid": 988,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 769,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/662",
+            "security": "public",
+            "files": [
+                {
+                  "objectid": 662,
+                  "filesize": 354601,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4485",
+                  "filename": "Paper 10 Chem Eng Technology.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-12 07:33:30",
+                  "datasetid": "document",
+                  "fileid": 4485,
+                  "mime_type": "application\/pdf",
+                  "hash": "a2153bb54b6c021fdd41fa7934bd05be"
+                }
+            ],
+            "main": "Paper 10 Chem Eng Technology.pdf",
+            "docid": 662,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2016-10-13 15:39:41",
+      "official_url": "http:\/\/www.cet-journal.com",
+      "id_number": "10.1002\/ceat.200800462",
+      "eprintid": 769,
+      "eprint_status": "archive",
+      "datestamp": "2016-10-13 15:39:41",
+      "pagerange": "1-8",
+      "metadata_visibility": "show"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Haryanto",
+            "lineage": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fernando",
+            "honourific": null,
+            "given": "Sandun D."
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "To",
+            "honourific": null,
+            "given": "S. D. Filip"
+          }
+        },
+        {
+          "name": {
+            "given": "Philip H.",
+            "lineage": null,
+            "family": "Steele",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Lester",
+            "honourific": null,
+            "lineage": null,
+            "family": "Pordesimo"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Adhikari",
+            "lineage": null,
+            "given": "Sushil"
+          }
+        }
+      ],
+      "title": "Hydrogen Production through the Water-Gas Shift Reaction:\r\nThermodynamic Equilibrium versus Experimental Results over\r\nSupported Ni Catalysts",
+      "refereed": "TRUE",
+      "userid": 988,
+      "lastmod": "2016-10-13 15:40:27",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/663",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 771,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Paper 11 EF 2009-WGS Thermodynamic Experimental OK.pdf",
+            "docid": 663,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 4496,
+                  "hash": "fc215b985dc9077607abc4a218d682f4",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-12 07:40:51",
+                  "objectid": 663,
+                  "filesize": 3144373,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4496",
+                  "filename": "Paper 11 EF 2009-WGS Thermodynamic Experimental OK.pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "datestamp": "2016-10-13 15:40:27",
+      "eprintid": 771,
+      "id_number": "10.1021\/ef801076r",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "3097-3102",
+      "full_text_status": "public",
+      "status_changed": "2016-10-13 15:40:27",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "American Chemical Society",
+      "publication": "Energy and Fuels",
+      "divisions": [
+        "FP18"
+      ],
+      "dir": "disk0\/00\/00\/07\/71",
+      "abstract": "This paper discusses the experimental results of the water-gas shift reaction over supported nickel catalysts\r\nin comparison to thermodynamic equilibrium composition at the same reaction conditions. The effects of different\r\nsupports on the performance of H2 production over nickel-supported catalysts are also evaluated at both low and high temperatures. Ceria-promoted nickel catalyst supported on powder alumina (Ni\/CeO2-Al2O3) demonstrated excellent performance. The catalyst was not stable at low temperature (250 °C) but showed good stability at high temperature (450 °C). At 450 °C, with a catalyst loading of 0.05 g, CO\/S (S = steam)ratio of 1:3, and gas hourly space velocity (GHSV) ≈ 200 L h-1 gcat-1, the activity of Ni\/CeO2-Al2O3 was\r\n95% with a H2 yield of 52% and a H2 selectivity of 73%.",
+      "volume": 23,
+      "corp_creators": [
+        "University of Lampung",
+        "Mississippi State University"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/771",
+      "date": 2009,
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ]
+    },
+    {
+      "pagerange": "882-889",
+      "metadata_visibility": "show",
+      "eprintid": 766,
+      "id_number": "10.1016\/j.biombioe.2009.01.010",
+      "eprint_status": "archive",
+      "datestamp": "2016-10-13 15:39:29",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Paper 09 JBB1674 WGS.pdf",
+            "docid": 660,
+            "files": [
+                {
+                  "fileid": 4472,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "319880287e4691beb2dd44be4479db61",
+                  "objectid": 660,
+                  "filesize": 744286,
+                  "filename": "Paper 09 JBB1674 WGS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4472",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-12 07:16:09"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 766,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/660"
+          }
+      ],
+      "lastmod": "2016-10-13 15:39:29",
+      "userid": 988,
+      "refereed": "TRUE",
+      "title": "Upgrading of syngas derived from biomass gasification: A thermodynamic analysis",
+      "creators": [
+        {
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Haryanto",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Lester O.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Pordesimo"
+          }
+        },
+        {
+          "name": {
+            "given": "Sandun D.",
+            "honourific": null,
+            "family": "Fernando",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Adhikari",
+            "lineage": null,
+            "given": "Sushil"
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/766",
+      "date": 2009,
+      "volume": 33,
+      "corp_creators": [
+        "University of Lampung",
+        "Mississippi State University"
+      ],
+      "abstract": "Hydrogen yields in the syngas produced from non-catalytic biomass gasification are generally low. The hydrogen fraction, however, can be increased by converting CO, CH4,\r\nhigher hydrocarbons, and tar in a secondary reactor downstream. This paper discusses thermodynamic limits of the synthesis gas upgrading process. The method used in this\r\nprocess is minimization of Gibbs free energy function. The analysis is performed for temperature ranges from 400 to 1300 K, pressure of 1–10 atm (0.1–1 MPa), and different\r\ncarbon to steam ratios. The study concludes that to get optimum H2 yields, with negligible CH4 and coke formation, upgrading syngas is best practiced at a temperature range of 900–1100 K. At these temperatures, H2 could be possibly increased by 43–124% of its generally observed values at the gasifier exit. The analysis revealed that increasing steam resulted in a positive effect. The study also concluded that increasing pressure from 1 to 3 atm can be\r\napplied at a temperature >1000 K to further increase H2 yields.",
+      "publisher": "Elsevier",
+      "dir": "disk0\/00\/00\/07\/66",
+      "publication": "Biomass and Bioenergy",
+      "divisions": [
+        "FP18"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2016-10-13 15:39:29",
+      "full_text_status": "public"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "107-114",
+      "datestamp": "2016-12-09 01:19:18",
+      "eprintid": 1304,
+      "eprint_status": "archive",
+      "lastmod": "2016-12-09 01:19:18",
+      "official_url": "https:\/\/www.ripublication.com\/Volume\/ijaerv4n1.htm",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "e6ccc2ea64887b75cf41430ccd463032",
+                  "datasetid": "document",
+                  "fileid": 8748,
+                  "filename": "ijaerv4n1_11.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8748",
+                  "filesize": 48273,
+                  "objectid": 1179,
+                  "mtime": "2016-12-09 00:46:54",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "ijaerv4n1_11.pdf",
+            "docid": 1179,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 1304,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1179",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "userid": 337,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 1,
+      "title": "Nondestructive Measurement of Soluble Solids Content in Pineapple Fruit Using Short Wavelength Near Infrared (SW-NIR) Spectroscopy",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suhandy",
+            "honourific": null,
+            "given": "Diding"
+          },
+          "id": "diding.sughandy@fp.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "date": 2009,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1304",
+      "abstract": "A nondestructive measurement of soluble solids content in pineapple fruit using short wavelength near infrared (SW-NIR) spectroscopy is proposed. The optimum conditions of measurement were investigated for spectra acquisition at an integration time of 150 ms and number of scanning of 100 scans. A number of 42 pineapple fruits were used as sample. The samples were divided into two groups, 24 samples for developing calibration model and 18 samples for performing validation test. The result showed that the best calibration model using short wavelength of 700-960 nm was identified with coefficient of determination (R2) of 0.94 and standard error of prediction (SEP) of 0.88 % Brix. The calibration model resulted in high RPD value of 2.20.",
+      "volume": 4,
+      "publisher": "Research India Publications",
+      "publication": "International Journal of Applied Engineering Research",
+      "divisions": [
+        "FP18"
+      ],
+      "dir": "disk0\/00\/00\/13\/04",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "0973-4562",
+      "status_changed": "2016-12-09 01:19:18"
+    },
+    {
+      "divisions": [
+        "FP18"
+      ],
+      "publisher": "Institut Pertanioan Bogor",
+      "dir": "disk0\/00\/03\/74\/61",
+      "full_text_status": "public",
+      "status_changed": "2021-12-28 02:06:49",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Dokumen diperlukan untuk melengkapi berkas data kepegawaian pada Sister",
+      "date": "2009-08-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37461",
+      "creators": [
+        {
+          "name": {
+            "given": "Sugeng",
+            "honourific": null,
+            "lineage": null,
+            "family": "Triyono"
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "Sertifikat Pendidik\/Dosen",
+      "datestamp": "2021-12-28 02:06:49",
+      "eprintid": 37461,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 832,
+      "lastmod": "2021-12-28 02:06:49",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "image\/jpeg",
+                  "hash": "c4eaa342d1990cb47009b5d75a17b5a4",
+                  "fileid": 428120,
+                  "datasetid": "document",
+                  "filename": "WhatsApp Image 2021-12-28 at 08.11.46.jpeg",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/428120",
+                  "filesize": 171516,
+                  "objectid": 158383,
+                  "mtime": "2021-12-28 01:29:28",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "WhatsApp Image 2021-12-28 at 08.11.46.jpeg",
+            "docid": 158383,
+            "format": "image",
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 37461,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158383",
+            "pos": 1,
+            "security": "public"
+          }
+      ]
+    },
+    {
+      "volume": 1,
+      "abstract": "The objective of this research was to detect the quality of mangostaan fruit based on its calyx wholeness using image processing method. Sixty samples of fresh local mangostaan\r\nfruit was used for experiment. Samples were consisted of three categories: diameter >65 mm (A),55-65 mm (B), and <55 mm (C), Fruit properties parameters measured are weight, volume, and diameter. Parameters of image measured are area projection of fruit and calyx, and its radius. The result showed that the calibration equation of area projection was Au = 0,0029 Ap + 0,3106 (R2 = 0,99). For all categories, there is a closely relation between weight and volume of fruit with coefficient of determination about 0,53-\r\n0,97. Area of projection can be used to determined volume of fruit, furthermore diameter of image can be well explained by diameter of object (R2 = 0,89). Area projection of calyx and fruit ratio can be used to classify the quality of fruit. The ratio values of each category\r\nare 0,479; 0,696; and 0,774 for A, B, and C category respectively.",
+      "date": "2009-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/579",
+      "subjects": [
+        "T1"
+      ],
+      "date_type": "published",
+      "status_changed": "2016-10-13 15:34:10",
+      "issn": "2085-1278",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Jurusan Teknologi Pertanian Politeknik Negeri Lampung",
+      "divisions": [
+        "FP18"
+      ],
+      "publication": "TekTan Jurnal Ilmiah Teknik Pertanian",
+      "dir": "disk0\/00\/00\/05\/79",
+      "number": 2,
+      "userid": 439,
+      "documents": [
+          {
+            "docid": 484,
+            "main": "Klasifikasi Kualitas Buah Manggis Berdasarkan Kelopak TekTan 1(2) Agt 2009.pdf",
+            "files": [
+                {
+                  "fileid": 3139,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "7cc5d45ea79220d4559e337258f17903",
+                  "objectid": 484,
+                  "filesize": 7355323,
+                  "filename": "Klasifikasi Kualitas Buah Manggis Berdasarkan Kelopak TekTan 1(2) Agt 2009.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3139",
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-14 13:39:40"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 579,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/484",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2016-10-13 15:34:10",
+      "eprintid": 579,
+      "eprint_status": "archive",
+      "datestamp": "2016-10-13 15:34:10",
+      "pagerange": "67-130",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "sri.waluyo@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Waluyo",
+            "given": "Sri"
+          }
+        },
+        {
+          "id": "diding2004@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suhandy",
+            "given": "Dididng"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Warji",
+            "lineage": null,
+            "given": "Warji"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Klasifikasi Kualitas Buah Manggis Berdasarkan Kelopak Menggunakan Metode Pengolahan Citra Digital"
+    },
+    {
+      "title": "Rekayasa dan Uji Kinerja Mesin Pembuat Pasta Melinjo",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "warji1978@gmail.com",
+          "name": {
+            "given": "Warji",
+            "lineage": null,
+            "family": "Warji",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Waluyo",
+            "lineage": null,
+            "given": "Sri"
+          },
+          "id": "sri.waluyo@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Asropi",
+            "lineage": null,
+            "given": "Asropi"
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "92-101",
+      "datestamp": "2023-04-10 00:56:51",
+      "eprintid": 49950,
+      "eprint_status": "archive",
+      "lastmod": "2023-04-10 00:56:51",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Rekayasa dan Ujikinerja Mesin Pembuat Pasta Melinjo TekTan 1(2) Agt 2009_compressed.pdf",
+            "docid": 189638,
+            "files": [
+                {
+                  "hash": "cd5f01ca2357c4ce7dc83191e3f7fcbb",
+                  "mime_type": "application\/pdf",
+                  "fileid": 540651,
+                  "datasetid": "document",
+                  "filename": "Rekayasa dan Ujikinerja Mesin Pembuat Pasta Melinjo TekTan 1(2) Agt 2009_compressed.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540651",
+                  "objectid": 189638,
+                  "filesize": 2368725,
+                  "mtime": "2023-04-09 04:52:08",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189638",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49950
+          }
+      ],
+      "userid": 439,
+      "number": 2,
+      "publication": "TekTan Jurnal Ilmiah Teknik Pertanian",
+      "publisher": "Jurusan Teknologi Pertanian Politeknik Negeri Lampung",
+      "divisions": [
+        "FP18"
+      ],
+      "dir": "disk0_bak\/00\/04\/99\/50",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2085-1278",
+      "status_changed": "2023-04-10 00:56:51",
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49950",
+      "date": "2009-08",
+      "abstract": "The objective of this research was to design and performance tests the machine of paste maker of melinjo (Gnetum genemon L). This will contribute to new technicque of melinjo\r\nprocessing to become paste. The criteria of this machine that was designed are able to produce melinjo paste and to minimize human body contact. Basically, the machine works\r\nbased on spin-press mechanism to destroy melinjo and the heating system to get bouncy characteristic of melinjo so it is easier to be cracked. The functional devices of this\r\nmachine are frame, destroyer tube, heating chamber, destroyer knife, heater, transmition system, and motor. The machine designed was capable to perform the physical\r\ncharacteristic of melinjo from granular to be paste. It was concluded that the processing of melinjo can be done by destroying a kernel directly to be a paste form.",
+      "volume": 1
+    }
+]
+

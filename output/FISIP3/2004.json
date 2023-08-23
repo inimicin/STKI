@@ -1,0 +1,137 @@
+[
+    {
+      "userid": 880,
+      "number": 2,
+      "lastmod": "2020-05-15 07:28:40",
+      "documents": [
+          {
+            "format": "text",
+            "main": "9. Ari D Reviewer Perempuan, Politik.pdf",
+            "files": [
+                {
+                  "filename": "9. Ari D Reviewer Perempuan, Politik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/185921",
+                  "objectid": 32951,
+                  "filesize": 622070,
+                  "mtime": "2020-05-15 07:28:40",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "35be8216b96b64a99a085462ffc30c88",
+                  "datasetid": "document",
+                  "fileid": 185921
+                }
+            ],
+            "docid": 32951,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 17888,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32951"
+          }
+      ],
+      "datestamp": "2020-02-05 04:07:11",
+      "eprint_status": "archive",
+      "eprintid": 17888,
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Darmastuti",
+            "lineage": null,
+            "given": "Ari"
+          }
+        }
+      ],
+      "title": "Perempuan, Politik dan Islam (Studi Tentang Peran Politik Perempuan dalam Perspektif Partai-partai Islam dan Partai- partai Berbasis Islam di Provinsi Lapung)",
+      "refereed": "TRUE",
+      "abstract": "Hasil Penilaian Sejawat Sebidang Atau Peer Review Karya Ilmiah: Jurnal Nasional Tak Akreditasi",
+      "volume": 42,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17888",
+      "date": 2004,
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2020-02-05 04:07:11",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP3"
+      ],
+      "publication": "Jurnal Analisis Studi Keislaman",
+      "dir": "disk0\/00\/01\/78\/88"
+    },
+    {
+      "divisions": [
+        "FISIP3"
+      ],
+      "publication": "Jurnal Analisis Studi Keislaman",
+      "dir": "disk0\/00\/01\/78\/89",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2020-02-05 04:07:24",
+      "full_text_status": "public",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "date": 2004,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17889",
+      "abstract": "Similarity",
+      "refereed": "TRUE",
+      "title": "Perempuan, Politik dan Islam (Studi Tentang Peran Politik Perempuan dalam Perspektif Partai-partai Islam dan Partai- partai Berbasis Islam di Provinsi Lapung)",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Darmastuti",
+            "honourific": null,
+            "given": "Ari"
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "eprintid": 17889,
+      "eprint_status": "archive",
+      "datestamp": "2020-02-05 04:07:24",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "9. Similarity Dr. Ari D Perempuan__politik_dan_islam.pdf",
+            "files": [
+                {
+                  "fileid": 150664,
+                  "datasetid": "document",
+                  "hash": "6ec95dbb54cb949090816d96d776cf5a",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-05 02:54:17",
+                  "objectid": 31013,
+                  "filesize": 12911138,
+                  "filename": "9. Similarity Dr. Ari D Perempuan__politik_dan_islam.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/150664"
+                }
+            ],
+            "docid": 31013,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31013",
+            "pos": 1,
+            "eprintid": 17889,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2020-02-05 04:07:24",
+      "userid": 880
+    }
+]
+

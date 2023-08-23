@@ -1,0 +1,269 @@
+[
+    {
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1701",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1848,
+            "language": "en",
+            "rev_number": 3,
+            "mime_type": "application\/xml",
+            "docid": 1701,
+            "main": 213,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 06:59:23",
+                  "filesize": 20115,
+                  "objectid": 1701,
+                  "filename": 213,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12914",
+                  "datasetid": "document",
+                  "fileid": 12914,
+                  "mime_type": "application\/xml",
+                  "hash": "1209aee9b897cbc213f68d30740933e3"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JPBP\/index",
+      "lastmod": "2017-05-29 08:07:49",
+      "number": 1,
+      "userid": 274,
+      "pagerange": "107-112",
+      "metadata_visibility": "show",
+      "eprintid": 1848,
+      "eprint_status": "archive",
+      "datestamp": "2017-05-29 08:07:49",
+      "refereed": "FALSE",
+      "title": "KORELASI ASIAN MONSOON, EL NINO SOUTH OSCILATION DAN INDIAN OCEAN DIPOLE TERHADAP VARIABILITAS CURAH HUJAN DI PROPINSI LAMPUNG",
+      "creators": [
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "given": "Eko",
+            "honourific": null,
+            "family": "Efendi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Purwandani",
+            "honourific": null,
+            "given": "Andri"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1848",
+      "date": "2013-02",
+      "volume": 2,
+      "abstract": "Perairan Asia Tenggara dan sekitarnya memiliki variabilitas laut-atmosfer yang besar akibat dari fluktuasi parameter oseanografi yang berasal dari perairan Samudera Pasifik dan Samudera Hindia pada arah zonal dan pada arah meridional berasal dari Laut Cina Selatan, perairan utara dan selatan Jawa dan perairan barat Australia. Fenomena yang dominan mempengaruhi variabilitas laut-atmosfer di wilayah Asia Tenggara dan sekitarnya adalah Muson, Dipole Mode (DM) dan El Nino Southern Oscillation (ENSO) dengan siklus waktu dari musiman sampai antar tahunan. Penelitian sebelumnya yang dilakukan lebih banyak mengkaji Muson, DM dan ENSO secara individu dari fenomenanya itu sendiri, tidak secara komprehensif mengarah kepada kemungkinan adanya interaksi satu sama lain. Tujuan dari penelitian ini adalah mengkaji variabilitas lautatmosfer dan proses dinamika interaksi antara Muson, DM dan ENSO secara simultan terhadap curah hujan di Propinsi Lampung. Analisis data yang digunakan pada penelitian ini dengan pendekatan metode yang dapat mendekomposisi sinyal tersebut baik pada skala ruang maupun waktu dari hasil interaksi antara Muson, DM dan ENSO. Analisis yang digunakan meliputi transformasi wavelet kontinyu dan korelasi silang transformasi wavelet. Dari analisis transformasi wavelet kontinu, koherensi maupun transformasi silang diperoleh kesimpulan bahwa pola curah hujan di wilayah lampung sangat dipengaruhi oleh pengaruh musiman atau adanya pengaruh WNPMI dibandingkan dengan pengaruh DMI dan SOI, akan tetapi arah fase yang berlawanan menunjukkan adanya pola pergantian pengaruh yang terjadi. DMI berpengaruh pada periode 6 bulanan, sedangakan SOI berpengaruh pada fase 12 bulanan",
+      "subjects": [
+        "GC"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2017-05-29 08:07:49",
+      "issn": "2301-816X",
+      "full_text_status": "public",
+      "divisions": [
+        "FP21"
+      ],
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "publication": "Jurnal ilmu perikanan dan sumberdaya budidaya perairan",
+      "dir": "disk0\/00\/00\/18\/48"
+    },
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 1774,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1638",
+            "pos": 1,
+            "security": "public",
+            "docid": 1638,
+            "main": "4-285-P-maryunis.pdf",
+            "files": [
+                {
+                  "hash": "b8b0d6523a3ae599b27a44c23f717869",
+                  "mime_type": "application\/pdf",
+                  "fileid": 12271,
+                  "datasetid": "document",
+                  "filename": "4-285-P-maryunis.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12271",
+                  "objectid": 1638,
+                  "filesize": 517643,
+                  "mtime": "2017-05-29 01:33:57",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2017-05-29 05:40:43",
+      "userid": 274,
+      "pagerange": "1393-1402",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 1774,
+      "datestamp": "2017-05-29 05:40:43",
+      "event_location": "Bandar Lampung",
+      "event_dates": "19--20 November 2013",
+      "refereed": "FALSE",
+      "title": "RATE OF PHOSPHATE ABSORPTION IN AQUAPONIC SYSTEM",
+      "pres_type": "poster",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Maryunis",
+            "honourific": null,
+            "lineage": null,
+            "family": "Maryunis"
+          }
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "given": "Eko",
+            "lineage": null,
+            "family": "Efendi",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Rara",
+            "family": "Diantari",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1774",
+      "date": "2013-11",
+      "abstract": "The waste resulted by fish farming in form of feed waste and feces will accumulate and increase the phosphorus content in a pond. Excessive amount of phosphorus content\r\nwill cause nutrient enrichment and decrease oxygen. As the result, it may impact the farmed fish. Aquaponic system can be a solution to the problem, because the plants in the aquaponic system can absorb and utilize the phosphate for the plant growth. This study aims to determine the rate of phosphate absorption through aquaponic system and determine the maximum number of kale plants that works best in absorbing phosphate.\r\nThis study was conducted from July to September, 2013. It was held at the laboratory in Aquaculture Department of Agriculture Faculty, University of Lampung. This study\r\nused Complete Randomized Design with four treatments (control, 10 stems\/clump, 20 stems\/clump, and 30 stems\/clump) and three repetitions. The result showed significant effect on the level of α = 0.05. This means that the treatment has an effect on the absorption of orthophosphate. Rate of highest phospate absorption is 0,000387 mg\/L on in 24 hour. The treatment that shows the most significant influence in decreasing the concentration of orthophosphate is the one with 30 stems\/clump. \r\nKey words : Aquaponic, phosphate, fish, kale",
+      "event_title": "Seminar Nasional Sains & Teknologi V",
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2017-05-29 05:40:43",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FP21"
+      ],
+      "dir": "disk0\/00\/00\/17\/74"
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-09-04 01:31:31",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "dir": "disk0\/00\/02\/38\/91",
+      "divisions": [
+        "FP21"
+      ],
+      "date": "2013-05-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23891",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "abstract": "Abstrak. Tetraselmis sp. merupakan mikroalga yang memiliki nilai ekonomis tinggi. Pertumbuhan Tetrasemis sp. dipengaruhi oleh kondisi lingkungan dan nutrien. Penelitian bertujuan untuk mengetahui konsentrasi optimum media air kelapa untuk pertumbuhan Tetraselmis sp.. Penelitian dilakukan di Laboratorium Budidaya Perikanan, Fakultas Pertanian, Universitas Lampung. Penelitian bersifat eksperimental menggunakan rancangan acak lengkap yang terdiri atas enam perlakuan, yaitu media menggunkan air kelapa dengan konsentrasi 0%, 1%, 2%, 3%, 4%, dan 5% dengan 3 ulangan untuk setiap perlakuan. Kerapatan sel tertinggi (54,75.104 sel\/ml) terjadi di media air kelapa 5% pada hari ke-7. Hasil uji perbandingan berganda terhadap kerapatan sel Tetraselmis sp. menunjukkan adanya perbedaan nyata (p>0,05) pada setiap media perlakuan. Kata Kunci: Tetraselmis, air kelapa, kerapatan sel",
+      "event_title": "SEMINAR DAN RAPAT TAHUNAN (SEMIRATA) BIDANG ILMU MIPA 2013 BKS PTN BARAT (10 - 12 Mei) Universitas Lampung, Bandar Lampung",
+      "subjects": [
+        "SH"
+      ],
+      "date_type": "published",
+      "event_location": "Bandar Lampung",
+      "event_dates": "10 - 12 Mei 2013",
+      "refereed": "TRUE",
+      "title": "Pemanfaatan Air Kelapa Sebagai Pengkaya Media Pertumbuhan Mikroalga Tetraselmis sp.",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Berta",
+            "family": "Putri",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Vickry H",
+            "lineage": null,
+            "honourific": null,
+            "given": "Aiqal"
+          }
+        },
+        {
+          "name": {
+            "given": "Wijayanti Henni",
+            "honourific": null,
+            "family": "Maharani",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "conference_item",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Pemanfaatan Air Kelapa Sebagai Pengkaya Media Pertumbuhan Mikroalga Tetraselmis sp..pdf",
+            "docid": 37571,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "039688305a2e92eaa157ef73d6d4987a",
+                  "datasetid": "document",
+                  "fileid": 217894,
+                  "mtime": "2020-09-03 16:08:11",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217894",
+                  "filename": "Pemanfaatan Air Kelapa Sebagai Pengkaya Media Pertumbuhan Mikroalga Tetraselmis sp..pdf",
+                  "filesize": 539986,
+                  "objectid": 37571
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37571",
+            "eprintid": 23891,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/index.php\/semirata\/article\/viewFile\/662\/482",
+      "lastmod": "2020-09-04 01:31:31",
+      "userid": 142,
+      "pagerange": "135-142",
+      "metadata_visibility": "show",
+      "eprintid": 23891,
+      "eprint_status": "archive",
+      "datestamp": "2020-09-04 01:31:31"
+    }
+]
+

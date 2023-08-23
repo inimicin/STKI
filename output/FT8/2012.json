@@ -1,0 +1,208 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "event_title": "TENCON 2012 - 2012 IEEE Region 10 Conference",
+      "abstract": "We consider passive polarimetric near infra-red imaging systems that measure the three first elements of the Stokes vector and deduce from them the degree of linear polarization and the angle of polarization in near infra-red spectrum for analyzing plant leaves. By using the variance of the angel of polarization from each sample leaf, we identify the curl of the leaf surface and compare it to other sample leaves. The identification will be useful for the next research and application in leaves classification, especially in plant diseases and its level which can be detected by its leaves.",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Université de Haute-Alsace,",
+        "Universitas Indonesia"
+      ],
+      "date": "2012-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4274",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/ieeexplore.ieee.org\/document\/6412302\/"
+        }
+      ],
+      "dir": "disk0\/00\/00\/42\/74",
+      "divisions": [
+        "FT8"
+      ],
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2017-11-16 07:00:41",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "datestamp": "2017-11-16 07:00:41",
+      "eprint_status": "archive",
+      "eprintid": 4274,
+      "metadata_visibility": "show",
+      "pagerange": "1-6",
+      "userid": 471,
+      "lastmod": "2017-11-16 07:00:41",
+      "official_url": "http:\/\/ieeexplore.ieee.org",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 4274,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17168",
+            "security": "public",
+            "main": "1569633563.pdf",
+            "files": [
+                {
+                  "fileid": 42947,
+                  "datasetid": "document",
+                  "hash": "bb2aa2e1088082a9ef0ea8ce0efb89de",
+                  "mime_type": "application\/pdf",
+                  "objectid": 17168,
+                  "filesize": 1361771,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/42947",
+                  "filename": "1569633563.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-01 07:43:03"
+                }
+            ],
+            "docid": 17168,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Muda",
+            "given": "Mona Arif"
+          },
+          "id": "mona.batubara@eng.unila.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Foulonneau",
+            "lineage": null,
+            "given": "Alban"
+          },
+          "id": "alban.foulonneau@uha.fr"
+        },
+        {
+          "id": "laurent.bigue@uha.fr",
+          "name": {
+            "honourific": null,
+            "family": "Bigué",
+            "lineage": null,
+            "given": "Laurent"
+          }
+        },
+        {
+          "name": {
+            "given": "Harry",
+            "honourific": null,
+            "family": "Sudibyo",
+            "lineage": null
+          },
+          "id": "harisudi@ee.ui.ac.id"
+        },
+        {
+          "name": {
+            "family": "Sudiana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dodi"
+          },
+          "id": null
+        }
+      ],
+      "title": "Small format optical sensors for measuring vegetation indices in remote sensing applications: A comparative approach",
+      "refereed": "TRUE",
+      "event_dates": "November 2012",
+      "event_location": "Cebu, Philippines"
+    },
+    {
+      "event_location": "Bandung, Indonesia",
+      "title": "Cloud ITS Indonesia: Transportation information sharing platform",
+      "event_dates": 2012,
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Muhammad"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "suhono@stei.itb.ac.id",
+          "name": {
+            "family": "Supangkat",
+            "lineage": null,
+            "honourific": null,
+            "given": "Suhono H."
+          }
+        }
+      ],
+      "official_url": "http:\/\/doi.org\/10.1109\/ICCCSN.2012.6215742",
+      "lastmod": "2017-06-05 03:02:38",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "main": "6FB1-6-54-PID2292317.pdf",
+            "files": [
+                {
+                  "filesize": 749484,
+                  "objectid": 2405,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17422",
+                  "filename": "6FB1-6-54-PID2292317.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 07:00:30",
+                  "datasetid": "document",
+                  "fileid": 17422,
+                  "mime_type": "application\/pdf",
+                  "hash": "f7e21751b1af89fa00cdaa643a535bc9"
+                }
+            ],
+            "docid": 2405,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2405",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2514
+          }
+      ],
+      "userid": 1199,
+      "metadata_visibility": "show",
+      "pagerange": "1-11",
+      "datestamp": "2017-06-05 03:02:38",
+      "id_number": "doi:10.1109\/ICCCSN.2012.6215742",
+      "eprintid": 2514,
+      "eprint_status": "archive",
+      "rev_number": 13,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2017-06-05 03:02:38",
+      "event_type": "conference",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/00\/25\/14",
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2514",
+      "abstract": "Information heterogeneity of ITS Indonesia becomes an obstacle to provide interoperability. The transportation information resource sharing is affected by this condition. ITS generally comprise a distinguished form of large-scale, distributed information system deployed in some form of tangible or virtual network. Cloud computing could benefits ITS for it’s essential characteristics, which are on-demand self service, broad network access, resource pooling, rapid elasticity, and measured service. By establishing Cloud ITS based on cloud computing, it is feasible to accommodate transportation information sharing platform.",
+      "book_title": "2012 International Conference on Cloud Computing and Social Networking (ICCCSN)",
+      "date_type": "published",
+      "event_title": "International Conference on Cloud Computing and Social Networking 2012",
+      "subjects": [
+        "T1"
+      ]
+    }
+]
+

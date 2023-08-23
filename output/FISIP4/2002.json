@@ -1,0 +1,184 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40504",
+      "date": 2002,
+      "subjects": [
+        "H1"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2022-03-24 07:08:04",
+      "publisher": "Ganesja Baru",
+      "divisions": [
+        "FISIP4"
+      ],
+      "dir": "disk0\/00\/04\/05\/04",
+      "lastmod": "2022-03-24 07:08:04",
+      "documents": [
+          {
+            "main": "LAMPUNG 2021.pdf",
+            "docid": 161831,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 451475,
+                  "mime_type": "application\/pdf",
+                  "hash": "3b2700ac722dfbf684367efeb6cd5dde",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-24 04:54:11",
+                  "objectid": 161831,
+                  "filesize": 9417063,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/451475",
+                  "filename": "LAMPUNG 2021.pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 40504,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161831",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "userid": 357,
+      "metadata_visibility": "show",
+      "datestamp": "2022-03-24 07:08:04",
+      "eprintid": 40504,
+      "eprint_status": "archive",
+      "title": "Lampung 2001: Pembangunan Tanpa Visi",
+      "refereed": "TRUE",
+      "type": "book",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "family": "Nanang Trenggono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nanang Trenggono"
+          }
+        }
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-12-01 01:05:52",
+      "full_text_status": "public",
+      "divisions": [
+        "FISIP4"
+      ],
+      "publisher": "CV Ganesja Baru",
+      "dir": "disk0\/00\/02\/68\/38",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26838",
+      "date": "2002-01",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 1,
+      "abstract": "Lampung Parliament Watch (LPW), LBH Bandar Lampung dan Yayasan TIFA Jakarta, menggelar workshop bertema \"Evaluasi Akhir Tahun 2001 Lampung\" di Hotel Indra Puri tgl. 6-8 Desember 2001. Workshop melibatkan elemen-elemen masyarakat, seperti akademisi, aktivis LSM, pelaku ekonomi, wartawan, cendekiawan muda, aktivis mahasiswa dan tokoh agama. Dari kegiatan workshop diangkat menjadi buku ini. Proses catatan kritis menjadi sebuah buku, merupakan tradisi positif, untuk melengkapi publikasi di media massa tentang perspektif kritis yang konstruktif tentang pembangunan masyarakat. Buku ini bukan ukuran final dari ekspresi kritis, melainkan sebagai dasar pijakan untuk merumuskan agenda-agenda strategis tata kelola pemerintahan Provinsi Lampung tahun 2002 dan seterusnya. Suatu agenda yang didasarkan pada keinginan untuk segera mewujudkan good governance, meskipun dibayangi oleh rasa pesimistis terhadap kesungguhan pengelola tata pemerintahan di daerah.",
+      "book_title": "Lampung 2001: Pembangunan Tanpa Visi",
+      "subjects": [
+        "JS"
+      ],
+      "date_type": "published",
+      "place_of_pub": "Bandar Lampung",
+      "refereed": "FALSE",
+      "title": "Lampung 2001: Pembangunan Tanpa Visi",
+      "type": "book_section",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "honourific": null,
+            "given": "Nanang Trenggono"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "docid": 40844,
+            "main": "BUKU PEMBANGUNAN TANPA VISI.pdf",
+            "files": [
+                {
+                  "hash": "fa77233d1d84f709661e36ab1a52784f",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 241070,
+                  "filename": "BUKU PEMBANGUNAN TANPA VISI.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/241070",
+                  "objectid": 40844,
+                  "filesize": 3720924,
+                  "mtime": "2020-11-28 22:51:17",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 26838,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40844",
+            "security": "public"
+          }
+      ],
+      "pages": 179,
+      "lastmod": "2020-12-01 01:05:52",
+      "contributors": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Nanang Trenggono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nanang Trenggono"
+          }
+        }
+      ],
+      "userid": 357,
+      "pagerange": "1-179",
+      "metadata_visibility": "show",
+      "eprintid": 26838,
+      "editors": [
+        {
+          "name": {
+            "family": "Nanang Trenggono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nanang Trenggono"
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Jauhari M. Zailani",
+            "lineage": null,
+            "family": "Jauhari M. Zailani",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Agusta Hermawan",
+            "honourific": null,
+            "given": "Agusta Hermawan"
+          },
+          "id": null
+        }
+      ],
+      "eprint_status": "archive",
+      "datestamp": "2020-12-01 01:05:52"
+    }
+]
+

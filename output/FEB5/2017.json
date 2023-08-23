@@ -1,0 +1,2666 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Ratih",
+            "honourific": null,
+            "family": "Arivina",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Analisis Spasial Ekonomi dan Migrasi di Sumatera, Jawa, dan Bali",
+      "eprint_status": "archive",
+      "eprintid": 18377,
+      "datestamp": "2020-03-06 03:46:45",
+      "pagerange": "39-45",
+      "metadata_visibility": "show",
+      "userid": 62,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31525",
+            "eprintid": 18377,
+            "placement": 1,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 31525,
+            "main": "semnas_2017.docx",
+            "files": [
+                {
+                  "fileid": 154585,
+                  "datasetid": "document",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "9dfde3a5830f5bbc1666c0ffacf21100",
+                  "hash_type": "MD5",
+                  "mtime": "2020-03-05 04:45:44",
+                  "filesize": 1742825,
+                  "objectid": 31525,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/154585",
+                  "filename": "semnas_2017.docx"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2020-03-06 03:46:45",
+      "publication": "Prosiding Penelitian: Penelitian Bidang Ekonomi-Bisnis serta Pembangunan Masyarakat, dalam Upaya Meningkatkan Publikasi Internasional",
+      "publisher": "FEB Unila",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/01\/83\/77",
+      "status_changed": "2020-03-06 03:46:45",
+      "issn": "978-602-5548-15-4",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "FEB UNILA"
+      ],
+      "abstract": "Penelitian ini mengangkat fenomena migrasi risen penduduk yang terjadi di Sumatera, Jawa, dan Bali. Tujuan dilakukan penelitian adalah untuk memetakan kondisi migrasi risen di wilayah pengamatan Sumatera, Jawa, Bali. Kemudian untuk mengetahui kondisi ekonomi wilayah yang diamati di Pulau Sumatera, Jawa, dan Bali. Hal tersebut ditasakan perlu sebagai salah satu dasar memahami interaksi dan alasan migrasi penduduk antar wilayah. Tujuan terakhir adalah untuk mengetahui interaksi ekonomi antar wilayah menggunakan korelasi spasial dengan penimbang k-nearest region dikaitkan dengan kondisi migrasi risen.",
+      "date": "2017-12-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18377"
+    },
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 5535,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18481",
+            "security": "public",
+            "main": "JEP-VOLUME-6-NO-2-JULI-2017.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-15 03:12:37",
+                  "objectid": 18481,
+                  "filesize": 131091,
+                  "filename": "JEP-VOLUME-6-NO-2-JULI-2017.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/51920",
+                  "fileid": 51920,
+                  "datasetid": "document",
+                  "hash": "244f51db70b62f7a8558aa1f2d716312",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 18481,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2
+          }
+      ],
+      "lastmod": "2017-11-16 04:55:39",
+      "official_url": "http:\/\/feb.unila.ac.id\/jurnal-2\/jurnal-ekonomi-pembangunan-jep\/",
+      "number": 2,
+      "userid": 964,
+      "pagerange": "203-230",
+      "metadata_visibility": "show",
+      "eprintid": 5535,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-16 04:55:39",
+      "refereed": "TRUE",
+      "title": "Model Dinamis Ekspor Indonesia - Jepang",
+      "creators": [
+        {
+          "id": "Budiarty_ida@yahoo.com",
+          "name": {
+            "given": "Ida",
+            "family": "Budiarty",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Muhiddin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sirat"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5535",
+      "date": "2017-07-02",
+      "volume": 6,
+      "abstract": "Tujuan penelitian ini adalah untuk menyelidiki spesifikasi model untuk data ekspor Indonesia- Jepang dan mengidentifikasi faktor-faktor pengaruh ekspor Indonesia ke negara Jepang. Penentuan spesifikasi model tidak dilakukan secara apriori, namun dengan seleksi model. Pada tahap awal dilakukan pengujian atas stationaritas data. Jika asumsi stationer terabaikan atau data tidak stationer, untuk menghindar dari kesalahan spesifikasi akan ditambahkan banyak variabel kelambanan (lag) baik variabel dependen maupun independen. Dengan demikian peneliti telah membangun suatu model dinamik misalkan dengan pendekatan PAM, ECM atau model kelambanan lainnya (Wickens dan Breusch, 1988). Berdasarkan seleksi model yang dilakukan diperoleh temuan model koreksi kesalahan (ECM) merupakan model dinamis yang relatif lebih baik dibandingkan model PAM. Dengan demikian ECM dapat dipakai untuk mengamati perilaku Ekspor Indonesia ke negara Jepang namun hasil estimasi menunjukkan tidak tepat untuk melakukan prediksi. Berdasarkan identifikasi faktor pengaruh variabel indek harga produsen dan harga minyak dalam jangka pendek maupun jangka panjang mampu menjelaskan variasi ekspor Indonesia ke negara Jepang, sedangkan variabel GDP Jepang dan Kurs Yen dalam jangka pendek tidak mampu menjelaskan variasi ekspor Indonesia ke negara Jepang. \r\n\r\nKata Kunci: model dinamik ekspor, indek harga perdagangan besar, harga minyak, GDP Jepang, Kurs Yen.",
+      "subjects": [
+        "HB"
+      ],
+      "date_type": "published",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "status_changed": "2017-11-16 04:55:39",
+      "issn": "2302-9595",
+      "full_text_status": "public",
+      "publisher": "Jurusan Ekonomi Pembangunan",
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/55\/35"
+    },
+    {
+      "userid": 178,
+      "lastmod": "2018-06-28 07:01:08",
+      "official_url": "https:\/\/drive.google.com\/file\/d\/1ouKM49squ6P-ySWt_Ck5_6K8OnzebxfI\/view",
+      "pages": 190,
+      "datestamp": "2018-06-28 07:01:08",
+      "eprint_status": "archive",
+      "eprintid": 8104,
+      "metadata_visibility": "show",
+      "pagerange": "63-66",
+      "place_of_pub": "Lampung",
+      "isbn": "978-602-5548-15-4",
+      "creators": [
+        {
+          "name": {
+            "family": "Budiarty",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ida"
+          },
+          "id": "Budiarty_ida@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Muhiddin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sirat"
+          }
+        },
+        {
+          "id": "emi_syam@yahoo.com",
+          "name": {
+            "given": "Emi",
+            "honourific": null,
+            "family": "Maimunah",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Irma Febriana",
+            "family": "Mimma Kebahyang",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "irmaf_mk@yahoo.co.id"
+        }
+      ],
+      "type": "book_section",
+      "title": "Pelatihan dan Penyusunan Data di Kampung Sendangretno Kecamatan Sendangagung Kabupaten Lampung Tengah",
+      "refereed": "TRUE",
+      "abstract": "Salah satu hal penting di setiap wilayah adalah mengetahui bagaimana keadaan di wilayah\r\ntersebut baik jumlah penduduk, taraf kesejahteraan penduduk, dan lain-lain. Untuk\r\nmengetahui keadaan-keadaan tersebut perlu dilakukan pengumpulan data melalui penyajian\r\ndata setatistik. Pada kampung Sendangretno, Lampung Tengah, penyajian data statistic terhenti\r\npada tahun 2009 sehingga tidak dapat ditemukan data terbaru mengenai perkembangan\r\nkampung tersebut. Terkait hal itu, dilakukan pelatihan dan penyusunan data statistic di\r\nKampung Sendangretno Kecamatan Sendangagung Kabupaten Lampung Tengah. Pelatihan\r\nini terdiri dari dua tahap yaitu tahap penyuluhan dan tahapan yang sanm dengan tujuan\r\nmasyarakat akan menyadari pentingnya data statistic, memahami pembuatan kuisioner dan\r\npengolahan data serta teknik penyajian data statistic. Setelah pelatihan tersebut dilakukan,\r\nwarga Sendangretno mengetahui cara dan pentingnya penyajian data statistic. Kampung\r\nSendangretno perlu didampingi secara keberlanjutan untuk memastikan bahwa data statistic\r\nselalu diperbarui.",
+      "corp_creators": [
+        "Fakultas Ekonomi dan Bisnis Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8104",
+      "date": "2017-12-11",
+      "date_type": "published",
+      "subjects": [
+        "H1"
+      ],
+      "book_title": "Prosiding Pengabdian Kepada Masyarakat",
+      "full_text_status": "none",
+      "status_changed": "2018-06-28 07:01:08",
+      "rev_number": 6,
+      "ispublished": "inpress",
+      "publisher": "Zam-zam Tower",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/81\/04"
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "status_changed": "2020-07-21 03:00:32",
+      "publisher": "Ekonomi Pembangunan, FEB Unila",
+      "dir": "disk0\/00\/02\/32\/63",
+      "divisions": [
+        "FEB5"
+      ],
+      "date": "2017-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23263",
+      "abstract": "ABSTRAK Penelitian ini bertujuan untuk menganalisis pengaruh pengeluaran pemerintah dan tenaga kerja terhadap pertumbuhan ekonomi Kabupaten Lampung Tengah. Penelitian ini menggunakan ,metode analisis kuantitatif dengan model regresi berganda. Data yang digunakan adalah data sekunder yang di dapatkan dari Badan Pusat Statistik Lampung Tengah Tahun 2001 - 2014, yaitu berupa pengeluaran pemerintah dan tenaga kerja terhadap pertumbuhan ekonomi Kabupaten\/Kota di Lampung Tengah. Hasil peneletian menunjukkan pengeluaran pemerintah pada belanja langsung berpengaruh positif namun tidak signifikan terhadap pertumbuhan ekonomi dan pada belanja tidak langsung berpengaruh positifdan signifikan terhadap pertumbuhan ekonomi. Tenaga kerja berpengaruh positif dan signifikan terhadap pertumbuhan ekonomi. Saran dalam penelitian ini adalah di harapkan pemerintah daerah Lampung Tengah meninjau kembali alokasi pengeluaran daerah dan di harapkan pemerintah daerah Lampung Tengah meningkatan kualitas tenaga kerja, misalnya dengan memperbanyak pendidikan kewirausahaan melalui jalur non formal. Kata-kata kunci : Pengeluaran Pemerintah, Tenaga Kerja, Pertumbuhan Ekonomi.",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "date_type": "published",
+      "subjects": [
+        "H1"
+      ],
+      "place_of_pub": "lampung, indonesia",
+      "title": "Pengaruh Pengeluaran Pemerintah Dan Tenaga Kerja Terhadap Pertumbuhan Ekonomi Di Kabupaten Lampung Tengah",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Devi Novita Sari",
+            "honourific": null,
+            "given": "Devi Novita Sari"
+          },
+          "id": null
+        },
+        {
+          "id": "toto.gunarto@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Toto Gunarto",
+            "given": "Toto Gunarto"
+          }
+        },
+        {
+          "name": {
+            "given": "muhammad",
+            "honourific": null,
+            "lineage": null,
+            "family": "husaini"
+          },
+          "id": "."
+        }
+      ],
+      "type": "other",
+      "official_url": "http:\/\/ep.feb.unila.ac.id\/wp-content\/uploads\/2019\/11\/3.-Devi-toto.doc",
+      "lastmod": "2020-07-21 03:00:32",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 23263,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36825",
+            "security": "public",
+            "main": "Pengaruh Pengeluaran Pemerintah.pdf",
+            "files": [
+                {
+                  "mtime": "2020-07-21 02:10:36",
+                  "hash_type": "MD5",
+                  "filename": "Pengaruh Pengeluaran Pemerintah.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/212941",
+                  "objectid": 36825,
+                  "filesize": 416417,
+                  "mime_type": "application\/pdf",
+                  "hash": "ae6d6ed4c563a811cbf9a5a7d77ef65c",
+                  "datasetid": "document",
+                  "fileid": 212941
+                }
+            ],
+            "docid": 36825,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 963,
+      "contributors": [
+        {
+          "id": null,
+          "name": {
+            "given": "Devi Novita Sari",
+            "lineage": null,
+            "family": "Devi Novita Sari",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "toto.gunarto@yahoo.co.id",
+          "name": {
+            "given": "Toto Gunarto",
+            "honourific": null,
+            "family": "Toto Gunarto",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CRP"
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CRP",
+          "name": {
+            "given": "muhammad",
+            "honourific": null,
+            "family": "husaini",
+            "lineage": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2020-07-21 03:00:32",
+      "eprint_status": "archive",
+      "id_number": "2302-9595",
+      "eprintid": 23263
+    },
+    {
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "book_title": "PROSIDING PKM SEMNAS 2017",
+      "abstract": "Bank merupakan lembaga keuangan yang dibutuhkan oleh masyarakat. Bank mempunyai peran yang penting\r\nbagi masyarakat yang mempunyai kelebihan dana maupun kekurangan dana. Khususnya Usaha Mikro Kecil dan\r\nMenengah (UMKM) dalam mengembangkan usahanya. Untuk mendapatkan kredit bank bukan hal yang mudah\r\nbagi pengusaha kecil, hal ini disebabkan faktor persyaratan yang harus dipenuhi untuk mendapatkan kredit.\r\nPengusaha kecil membutuhkan dana dengen cepat, sedangkan Bank tidak bisa semudah itu untuk mengeluarkan\r\ndana tersebut, dikarenakan adanya unsur persyaratan yang harus dipenuhi untuk meyakinkan pada bank, apakah\r\nnantinya dapat membayar \/ mengangsur atau tidak. UMKM perlu bekerjasama baik antara pihak Bank sebagai\r\nlembaga pemberi kredit, agar permasalahan diantara kedua belah pihak dapat diatasi dan saling menguntungkan.\r\nPelatihan ini telah dilaksanakan pada tanggal 6 November 2016, peserta yang hadir adalah pelaku UMKM di\r\nKelurahan Pematangwangi Kecamatan Lampung Tanjung Senang Bandar Lampung.\r\nKata kunci: Bank, Pelaku UMKM, UMKM.",
+      "date": "2017-12-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8134",
+      "publisher": "ZAMZAM TOWER",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/81\/34",
+      "status_changed": "2018-06-28 06:59:21",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 8134,
+      "datestamp": "2018-06-28 06:59:21",
+      "pagerange": "175-180",
+      "metadata_visibility": "show",
+      "userid": 38,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 8134,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21149",
+            "security": "public",
+            "docid": 21149,
+            "main": "view",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/81057",
+                  "filename": "view",
+                  "objectid": 21149,
+                  "filesize": 128375,
+                  "mtime": "2018-06-28 05:36:13",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "hash": "f6c0bab11b982ea2f7a5cdb32e87e150",
+                  "datasetid": "document",
+                  "fileid": 81057
+                }
+            ],
+            "format": "text",
+            "mime_type": "text\/html",
+            "language": "en",
+            "rev_number": 2
+          }
+      ],
+      "pages": 189,
+      "lastmod": "2018-06-28 06:59:21",
+      "official_url": "https:\/\/drive.google.com\/file\/d\/1ouKM49squ6P-ySWt_Ck5_6K8OnzebxfI\/view",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Zulfa",
+            "family": "Emalia",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "RATIH",
+            "honourific": null,
+            "given": "ARIVINA"
+          }
+        },
+        {
+          "id": "irmaf_mk@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Febriana",
+            "given": "Irma"
+          }
+        },
+        {
+          "id": "emi_syam@yahoo.com",
+          "name": {
+            "given": "Emi",
+            "honourific": null,
+            "family": "Maimunah",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "book_section",
+      "isbn": "978-602-5548-14-7",
+      "refereed": "FALSE",
+      "title": "PELATIHAN KIAT SUKSES UMKM DALAM MENJALIN HUBUNGAN DENGAN PIHAK PERBANKAN DI KELURAHAN PEMATANGWANGI KECAMATAN TANJUNG SENANG BANDAR LAMPUNG",
+      "place_of_pub": "LAMPUNG"
+    },
+    {
+      "status_changed": "2017-11-16 03:40:58",
+      "issn": "2302-9595",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "publisher": "Jurusan Ekonomi Pembangunan Fakultas Ekonomi dan Bisnis Universitas Lampung",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/50\/58",
+      "related_url": [
+        {
+          "url": "http:\/\/feb.unila.ac.id\/wp-content\/uploads\/2015\/04\/JEP-VOLUME-6-NO-1-APRIL-2017.pdf",
+          "type": "pub"
+        }
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 6,
+      "abstract": "The research aims to analyze the effect of wages, working experience, working condition, and working motivation on individual labor productivity in rent car KPN”SERBA USAHA”. The data used is the cross section data using  survey method with multiple linear regression analysis by using Ordinary Least Square method(OLS). The results show that simulataneously the wages, working experience, working condition, and working motivation have significant influence on individual labor productivity at rent car business KPN “SERBA USAHA”. In parcial the wages, working experience, working condition, and  working motivation have a positive and significant effect on individual labor productivity at rent car business KPN”SERBA USAHA”\r\n\r\n\r\nKeywords :\tIndividual labor productivity, the wages, working experience, working condition, and  working motivation",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5058",
+      "date": "2017-04-01",
+      "subjects": [
+        "HD"
+      ],
+      "date_type": "published",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Emi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Emi"
+          },
+          "id": "emi_syam@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Dede",
+            "honourific": null,
+            "given": "Supriyanto"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Analisis  Produktivitas Individual Tenaga Kerja \r\nPada Usaha Sewa Mobil KPN “Serba Usaha”",
+      "number": 1,
+      "userid": 178,
+      "documents": [
+          {
+            "main": "1. EMI MAIMUNAH.doc",
+            "docid": 17978,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-10 04:00:43",
+                  "filesize": 344064,
+                  "objectid": 17978,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48457",
+                  "filename": "1. EMI MAIMUNAH.doc",
+                  "fileid": 48457,
+                  "datasetid": "document",
+                  "mime_type": "application\/msword",
+                  "hash": "9eae51bcd819e5762b4dc9193d8c6579"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/msword",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 5058,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17978",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2017-11-16 03:40:58",
+      "official_url": "http:\/\/ep.feb.unila.ac.id",
+      "eprint_status": "archive",
+      "eprintid": 5058,
+      "datestamp": "2017-11-16 03:40:58",
+      "pagerange": "1-18",
+      "metadata_visibility": "show"
+    },
+    {
+      "title": "Model Data Panel Untuk Penanaman Modal Asing Langsung, Faktor-Faktor\r\nEkonomi Dan Indeks Persepsi Korupsi Pada Empat Negara Asean",
+      "refereed": "FALSE",
+      "isbn": "978-602-5548-15-4",
+      "creators": [
+        {
+          "name": {
+            "given": "Irma",
+            "honourific": null,
+            "family": "Febriana",
+            "lineage": null
+          },
+          "id": "irmaf_mk@yahoo.co.id"
+        }
+      ],
+      "type": "book_section",
+      "place_of_pub": "LAMPUNG",
+      "metadata_visibility": "show",
+      "pagerange": "85-92",
+      "datestamp": "2018-06-28 06:59:15",
+      "eprint_status": "archive",
+      "eprintid": 8130,
+      "official_url": "https:\/\/drive.google.com\/file\/d\/1rlYuaRruE7i6T3BjUxeMVVKahlcaYg3R\/view",
+      "lastmod": "2018-06-28 06:59:15",
+      "pages": 395,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 8130,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21145",
+            "security": "public",
+            "main": "view",
+            "docid": 21145,
+            "files": [
+                {
+                  "fileid": 81012,
+                  "datasetid": "document",
+                  "mime_type": "text\/html",
+                  "hash": "94e023fdb07d6e89af35456433a51656",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-28 05:25:43",
+                  "objectid": 21145,
+                  "filesize": 128410,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/81012",
+                  "filename": "view"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "text\/html",
+            "rev_number": 2
+          }
+      ],
+      "userid": 38,
+      "divisions": [
+        "FEB5"
+      ],
+      "publisher": "ZAMZAM TOWER",
+      "dir": "disk0\/00\/00\/81\/30",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2018-06-28 06:59:15",
+      "book_title": "PROSIDING PENELITIAN SEMNAS 2017",
+      "date_type": "published",
+      "subjects": [
+        "HB"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8130",
+      "date": "2017-12-11",
+      "abstract": "Abstract: Penelitian ini bertujuan untuk menganalisis pengaruh Gross Domesitic Product(GDP), inflasi, nilai tukar\r\ndan Indeks Persepsi Korupsi (IPK) terhadap penanaman modal asing langsung (FDI) di empat negara ASEAN.\r\nPenelitian ini menggunakan data sekunder yang diambil dari situs The Global Economy, UNCTAD dan Transparency\r\nInternational dengan periode tahun penelitian 2005-2014. Penelitian ini menggunakan model data panel dengan\r\njumlah cross-section sebanyak 4 negara di ASEAN. Model data panel menggunakan model Fixed Effect Model.\r\nHasil penelitian menunjukkan bahwa variabel bebas seperti GDP dan IPK mempunyai pengaruh positif dan signifikan\r\nsedangkan nilai tukar mempunyai pengaruh yang negatif dan signifikan terhadap FDI di empat Negara ASEAN.\r\nVariabel bebas lainnya yaitu inflasi tidak berpengaruh terhadap FDI di empat Negara ASEAN."
+    },
+    {
+      "place_of_pub": "LAMPUNG",
+      "type": "book",
+      "creators": [
+        {
+          "id": "irmaf_mk@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Febriana",
+            "given": "Irma"
+          }
+        },
+        {
+          "id": "nurbetty.herlina@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sitorus",
+            "given": "Nurbetty Herlina"
+          }
+        }
+      ],
+      "isbn": "978-602-6739-90-2",
+      "refereed": "FALSE",
+      "title": "UANG, SUKU BUNGA DAN INFLASI",
+      "userid": 57,
+      "pages": 216,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21155",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 8141,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "buku ajar.pdf",
+            "docid": 21155,
+            "files": [
+                {
+                  "objectid": 21155,
+                  "filesize": 141765,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/81100",
+                  "filename": "buku ajar.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-28 05:50:39",
+                  "fileid": 81100,
+                  "datasetid": "document",
+                  "hash": "9207c209ed0d0b275df7b7049551a356",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2018-06-28 06:59:33",
+      "eprintid": 8141,
+      "eprint_status": "archive",
+      "datestamp": "2018-06-28 06:59:33",
+      "metadata_visibility": "show",
+      "status_changed": "2018-06-28 06:59:33",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FEB5"
+      ],
+      "publisher": "AURA",
+      "dir": "disk0\/00\/00\/81\/41",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8141",
+      "date": "2017-11",
+      "subjects": [
+        "HB"
+      ],
+      "date_type": "published"
+    },
+    {
+      "place_of_pub": "LAMPUNG",
+      "refereed": "FALSE",
+      "title": "UANG, SUKU BUNGA, DAM INFLASI",
+      "creators": [
+        {
+          "id": "irmaf_mk@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Febriana",
+            "given": "Irma"
+          }
+        },
+        {
+          "id": "nurbetty.herlina@yahoo.co.id",
+          "name": {
+            "given": "Nurbetty Herlina",
+            "honourific": null,
+            "family": "Sitorus",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "book",
+      "isbn": "978-602-6739-90-2",
+      "pages": 215,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 8146,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21163",
+            "security": "public",
+            "files": [
+                {
+                  "mtime": "2018-06-28 06:14:29",
+                  "hash_type": "MD5",
+                  "filename": "BUKU UANG, SUKU BUNGA, DAN INFLASI.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/81142",
+                  "objectid": 21163,
+                  "filesize": 141765,
+                  "mime_type": "application\/pdf",
+                  "hash": "9207c209ed0d0b275df7b7049551a356",
+                  "datasetid": "document",
+                  "fileid": 81142
+                }
+            ],
+            "main": "BUKU UANG, SUKU BUNGA, DAN INFLASI.pdf",
+            "docid": 21163,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2018-06-28 06:59:36",
+      "userid": 38,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 8146,
+      "datestamp": "2018-06-28 06:59:36",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2018-06-28 06:59:36",
+      "full_text_status": "public",
+      "divisions": [
+        "FEB5"
+      ],
+      "publisher": "AURA PUBLISHING",
+      "dir": "disk0\/00\/00\/81\/46",
+      "date": "2017-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8146",
+      "subjects": [
+        "HB"
+      ],
+      "date_type": "published"
+    },
+    {
+      "corp_creators": [
+        "Fakultas Ekonomi dan Bisnis Universitas Lampung"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk mengetahui pola konsumsi mahasiswa indekos S1 reguler FEB di Universitas\r\nLampung, dengan menggunakan data primer sebanyak 109 responden yang dikumpulkan melalui metode kuesioner,\r\ndan analisis data menggunakan metode Ordinary Least Square (OLS), dengan bantuan program Eviews 9. Hasil dari\r\npenelitian ini menunjukkan bahwa secara parsial variabel uang saku berpengaruh positif dan signifikan terhadap\r\nkonsumsi mahasiswa indekos di Universitas Lampung. Variabel jenis kelamin berpengaruh positif dan signifikan\r\ndan ditemukan bahwa terdapat perbedaan konsumsi perempuan lebih besar dibandingkan laki-laki. Variabel tabungan\r\nberpengaruh negatif dan signifikan. Variabel beasiswa berpengaruh positif dan signifikan menunjukkan bahwa\r\nkonsumsi yang dilakukan mahasiswa yang memiliki beasiswa lebih besar dari pada yang tidak memiliki beasiswa.\r\n\r\nKata Kunci : beasiswa, jenis kelamin, konsumsi, tabungan, dan uang saku",
+      "date": "2017-12-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8114",
+      "subjects": [
+        "HC"
+      ],
+      "date_type": "published",
+      "book_title": "Prosiding Penelitian",
+      "status_changed": "2018-06-28 06:59:10",
+      "full_text_status": "none",
+      "ispublished": "inpress",
+      "rev_number": 7,
+      "publisher": "Zam-zam Tower",
+      "dir": "disk0\/00\/00\/81\/14",
+      "divisions": [
+        "FEB5"
+      ],
+      "userid": 178,
+      "pages": 395,
+      "official_url": "https:\/\/drive.google.com\/file\/d\/1rlYuaRruE7i6T3BjUxeMVVKahlcaYg3R\/view",
+      "lastmod": "2018-06-28 06:59:10",
+      "eprint_status": "archive",
+      "eprintid": 8114,
+      "datestamp": "2018-06-28 06:59:10",
+      "pagerange": "53-60",
+      "metadata_visibility": "show",
+      "place_of_pub": "Lampung",
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "family": "Maimunah",
+            "lineage": null,
+            "honourific": null,
+            "given": "Emi"
+          },
+          "id": "emi_syam@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Julian",
+            "honourific": null,
+            "family": "Julian",
+            "lineage": null
+          }
+        }
+      ],
+      "isbn": "978-602-5548-15-4",
+      "refereed": "TRUE",
+      "title": "Pola Konsumsi Mahasiswa di Universitas Lampung"
+    },
+    {
+      "datestamp": "2018-06-26 08:03:12",
+      "eprintid": 7831,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "267-282",
+      "userid": 178,
+      "number": 3,
+      "lastmod": "2018-06-26 08:03:12",
+      "official_url": "http:\/\/ep.feb.unila.ac.id\/jurnal\/jurnal-ekonomi-pembangunan\/",
+      "creators": [
+        {
+          "id": "emi_syam@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Maimunah",
+            "lineage": null,
+            "given": "Emi"
+          }
+        },
+        {
+          "name": {
+            "given": "Sony",
+            "honourific": null,
+            "lineage": null,
+            "family": "Pramaningtyas"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "title": "Pengaruh Konsumsi Rumah Tangga, Investasi, Dan Pengeluaran\r\nPemerintah Terhadap Perekonomian Di Provinsi Lampung",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "HC"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk mengetahui pengaruh konsumsi rumah tangga,\r\ninvestasi, dan pengeluaran pemerintah terhadap perekonomian di provinsi\r\nlampung, dengan menggunakan data sekunder dari tahun 1990 sampai dengan\r\ntahun 2015, dan analisis data menggunakan metode Ordinary Least Square\r\n(OLS), dengan bantuan program Eviews 9. Hasil dari penelitian ini menunjukkan\r\nbahwa secara p arsial variabel konsumsi rumah tangga mempunyai pengaruh\r\nyang positif dan signifikan terhadap perekonomian di Provinsi Lampung. Variabel\r\ninvestasi mempunyai pengaruh yang positif dan signifikan terhadap\r\nperekonomian di Provinsi Lampung. Variabel pengeluaran pemerintah\r\nmempunyai pengaruh yang positif dan signifikan terhadap perekonmian di\r\nProvinsi Lampung",
+      "volume": 6,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7831",
+      "date": "2017-11-03",
+      "related_url": [
+        {
+          "url": "http:\/\/ep.feb.unila.ac.id\/wp-content\/uploads\/2015\/04\/JEP-VOLUME-6-NO-3-NOVEMBER-2017.pdf"
+        }
+      ],
+      "publisher": "Fakultas Ekonomi dan Bisnis",
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "dir": "disk0\/00\/00\/78\/31",
+      "divisions": [
+        "FEB5"
+      ],
+      "issn": "2302-9595",
+      "full_text_status": "none",
+      "status_changed": "2018-06-26 08:03:12",
+      "rev_number": 6,
+      "ispublished": "pub"
+    },
+    {
+      "full_text_status": "public",
+      "status_changed": "2017-11-16 07:38:23",
+      "rev_number": 7,
+      "ispublished": "submitted",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/53\/58",
+      "event_type": "conference",
+      "abstract": "The aim of this research was to analyze the determinants of banking efficiency to face ASEAN Banking Integration Framework (ABIF) by employing 15 banks in ASEAN 5 such as Singapore, Malaysia, Thailand, Indonesia, Philippine for 2011-2015 period. The determinants of banking efficiency such as CAR, BOPO\/CIR, LDR, NPL, NIM employed as the independent variables and the banking efficiency score from DEA as the dependent variable. \r\nThe results from From Ordinal Logit Regression could be concluded that internal factor which affect and significant to banking efficiency were BOPO\/CIR and LDR. Based on analysis in this research, it could be concluded that banking in ASEAN 5 ready to face ABIF due to the strong capital and good management of risk\r\n\r\nKeyword: ABIF; Banking Efficiency; Financial Ratios.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": "2017-10-26",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5358",
+      "date_type": "submitted",
+      "event_title": "2nd International Conference on Acounting, Business and Economics",
+      "subjects": [
+        "HB"
+      ],
+      "event_location": "Yogyakarta, Indonesia",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "emi_syam@yahoo.com",
+          "name": {
+            "given": "Emi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Maimunah"
+          }
+        },
+        {
+          "id": "nurbetty.herlina@yahoo.co.id",
+          "name": {
+            "given": "Nurbetty Herlina",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sitorus"
+          }
+        },
+        {
+          "id": "dianfajarini25@gmail.com",
+          "name": {
+            "given": "Fajarini",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dian"
+          }
+        }
+      ],
+      "title": "DETERMINANTS OF BANKING EFFICIENCY IN ASEAN 5 COUNTRIES TO FACE ASEAN BANKING INTEGRATION FRAMEWORK",
+      "event_dates": "26 - 27 Oktober 2017",
+      "refereed": "TRUE",
+      "userid": 57,
+      "lastmod": "2017-11-16 07:38:23",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "main": "Jurnal ICABE.docx",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-13 04:06:20",
+                  "filesize": 79129,
+                  "objectid": 18306,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/50668",
+                  "filename": "Jurnal ICABE.docx",
+                  "fileid": 50668,
+                  "datasetid": "document",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "6b2500b9cde9fab6b726b609665a08ba"
+                }
+            ],
+            "docid": 18306,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18306",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 5358
+          }
+      ],
+      "datestamp": "2017-11-16 07:38:23",
+      "eprintid": 5358,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1-25"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "ikbal_tawakal@yahoo.com",
+          "name": {
+            "family": "Marselina",
+            "lineage": null,
+            "honourific": null,
+            "given": "Marselina"
+          }
+        }
+      ],
+      "title": "Building Economics Equilibrium Model Toward Macroeconomic\r\nVariables - New Consensus Macroeconomic Approach: Evidence\r\nfrom Indonesia",
+      "refereed": "TRUE",
+      "userid": 810,
+      "number": 4,
+      "official_url": "file:\/\/\/C:\/Users\/HP\/Downloads\/64-djayasinga11.4%20(1).pdf",
+      "lastmod": "2020-02-17 03:44:56",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 31134,
+            "main": "Building economics.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 151501,
+                  "hash": "525bb03466b6d8625316bb19c441fcc1",
+                  "mime_type": "application\/pdf",
+                  "filesize": 196522,
+                  "objectid": 31134,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/151501",
+                  "filename": "Building economics.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-13 06:01:12"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 17990,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31134",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2020-02-17 03:44:56",
+      "eprintid": 17990,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "647-656",
+      "full_text_status": "public",
+      "issn": "1307-1637",
+      "status_changed": "2020-02-17 03:44:56",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "international economics society",
+      "divisions": [
+        "FEB5"
+      ],
+      "publication": "International Journal of Economic Perspectives, 2017, Volume 11, Issue 4, 647-656.",
+      "dir": "disk0\/00\/01\/79\/90",
+      "abstract": "Debt management and budget deficit in Indonesia is based on ACT No 17 of 2003 and followed by Government\r\nRegulation No 23 of 2003, in which government sets maximum limit on government debt of 60 % GDP and\r\nmaximum limit on budget deficit of 3 %. This concept like Maastricht Treaty which is used in some Europe\r\nCountries which are facing high debt and to be default countries, and we worried about it. The weakness of this\r\nconcept is thatdoes not describe when government is supposed to do the policy deficit, balanced, or surplus budget.\r\nAs long as GDP increases, government debt can be increased, regardless of whether the economy needs it or not.\r\nDebt burden make fiscal space is limited and it has been happened in Indonesia in 1990’s.  It is important to build\r\na equilibrium model to control debt and budget deficit and the important thing it  keep fiscal sustainability and\r\neconomic growth. Fiscal sustainability is happened if debt is kept stable. This research is conductedby using New\r\nConsensus Macroeconomic (MKB) school to make an optimal decision through inter temporal choices.Using\r\nmicro foundation and adding debt stabilizing deficit variable,Arestis model was elabotaed. The result found that\r\ndeficit debt stabilizer in the model  for a long term, gives positive impact on output gaps, the level of prices,\r\nexchange rates, current account, and primary budget deficits in Indonesia but it has no impact on the level of\r\ninterest rates. Conversely, in a short term, debt deficit stabilizer in model gives positive impact toward output gap,\r\nexchange rate, and the primary deficit budget but it does not significantly influence interest rates, the level of price,\r\nand current account.",
+      "volume": 11,
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17990",
+      "date_type": "published",
+      "subjects": [
+        "HB",
+        "HC"
+      ]
+    },
+    {
+      "userid": 810,
+      "number": 4,
+      "official_url": "http:\/\/jemp.org\/volume-11-issue-4-647-656\/",
+      "lastmod": "2019-05-14 08:15:42",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 3,
+            "mime_type": "text\/html",
+            "content": "published",
+            "main": "index.html",
+            "docid": 25683,
+            "files": [
+                {
+                  "mtime": "2019-05-10 15:09:19",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/112352",
+                  "filename": "index.html",
+                  "filesize": 27342,
+                  "objectid": 25683,
+                  "mime_type": "text\/html",
+                  "hash": "e4c5470e799f5c6b37d5f72c26549970",
+                  "fileid": 112352,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25683",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12702
+          }
+      ],
+      "datestamp": "2019-05-14 08:15:42",
+      "eprint_status": "archive",
+      "eprintid": 12702,
+      "metadata_visibility": "show",
+      "pagerange": "647-656",
+      "creators": [
+        {
+          "id": "ikbal_tawakal@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Marselina",
+            "lineage": null,
+            "given": "Marselina"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Building Economics Equilibrium Model Toward Macroeconomic Variables – New Consensus Macroeconomic Approach: Evidence from Indonesia",
+      "refereed": "TRUE",
+      "abstract": "Debt management and budget deficit in Indonesia is based on ACT No 17 of 2003 and followed by Government Regulation No 23 of 2003, in which government sets maximum limit on government debt of 60 % GDP and maximum limit on budget deficit of 3 %. This concept like Maastricht Treaty which is used in some Europe Countries which are facing high debt and to be default countries, and we worried about it. The weakness of this concept is that does not describe when government is supposed to do the policy deficit, balanced, or surplus budget. As long as GDP increases, government debt can be increased, regardless of whether the economy needs it or not. Debt burden make fiscal space is limited and it has been happened in Indonesia in 1990’s. It is important to build a equilibrium model to control debt and budget deficit and the important thing it keep fiscal sustainability and economic growth. Fiscal sustainability is happened if debt is kept stable. This research is conducted by using New Consensus Macroeconomic (MKB) school to make an optimal decision through inter temporal choices.Using micro foundation and adding debt stabilizing deficit variable, Arestis model was elaborated. The result found that deficit debt stabilizer in the model for a long term, gives positive impact on output gaps, the level of prices, exchange rates, current account, and primary budget deficits in Indonesia but it has no impact on the level of interest rates. Conversely, in a short term, debt deficit stabilizer in model gives positive impact toward output gap, exchange rate, and the primary deficit budget but it does not significantly influence interest rates, the level of price, and current account.\r\n\r\nJEL Classification: C82; E60; E62.\r\n\r\nKeywords: Fiscal Rule, Sustainability, Debt Stabilizing Deficit; Equilibrium Model.",
+      "volume": 11,
+      "date": "2017-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12702",
+      "date_type": "published",
+      "subjects": [
+        "H1"
+      ],
+      "full_text_status": "public",
+      "issn": "2523-5338",
+      "status_changed": "2019-05-14 08:15:42",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "publication": "Journal of Economic & Management Perspectives",
+      "publisher": "International Economic Society",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/01\/27\/02"
+    },
+    {
+      "pagerange": "647-656",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 16366,
+      "datestamp": "2019-11-14 10:34:23",
+      "documents": [
+          {
+            "format": "text",
+            "main": "index.html",
+            "files": [
+                {
+                  "objectid": 29468,
+                  "filesize": 27349,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/139660",
+                  "filename": "index.html",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-14 03:07:58",
+                  "fileid": 139660,
+                  "datasetid": "document",
+                  "hash": "2bf00600490bea8d46981ca1f35ce561",
+                  "mime_type": "text\/html"
+                }
+            ],
+            "docid": 29468,
+            "content": "published",
+            "language": "en",
+            "rev_number": 3,
+            "mime_type": "text\/html",
+            "eprintid": 16366,
+            "placement": 1,
+            "security": "public",
+            "formatdesc": "Building Economics Equilibrium Model Toward Macroeconomic Variables – New Consensus Macroeconomic Approach: Evidence from Indonesia",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29468"
+          }
+      ],
+      "lastmod": "2019-11-14 10:34:23",
+      "official_url": "http:\/\/jemp.org\/volume-11-issue-4-647-656\/",
+      "number": 4,
+      "userid": 810,
+      "refereed": "TRUE",
+      "title": "Building Economics Equilibrium Model Toward Macroeconomic Variables – New Consensus Macroeconomic Approach: Evidence from Indonesia",
+      "type": "article",
+      "creators": [
+        {
+          "id": "ikbal_tawakal@yahoo.com",
+          "name": {
+            "given": "Marselina",
+            "lineage": null,
+            "family": "Marselina",
+            "honourific": null
+          }
+        }
+      ],
+      "subjects": [
+        "HB",
+        "HJ"
+      ],
+      "date_type": "published",
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16366",
+      "volume": 11,
+      "abstract": "Debt management and budget deficit in Indonesia is based on ACT No 17 of 2003 and followed by Government Regulation No 23 of 2003, in which government sets maximum limit on government debt of 60 % GDP and maximum limit on budget deficit of 3 %. This concept like Maastricht Treaty which is used in some Europe Countries which are facing high debt and to be default countries, and we worried about it. The weakness of this concept is that does not describe when government is supposed to do the policy deficit, balanced, or surplus budget. As long as GDP increases, government debt can be increased, regardless of whether the economy needs it or not. Debt burden make fiscal space is limited and it has been happened in Indonesia in 1990’s. It is important to build a equilibrium model to control debt and budget deficit and the important thing it keep fiscal sustainability and economic growth. Fiscal sustainability is happened if debt is kept stable. This research is conducted by using New Consensus Macroeconomic (MKB) school to make an optimal decision through inter temporal choices.Using micro foundation and adding debt stabilizing deficit variable, Arestis model was elaborated. The result found that deficit debt stabilizer in the model for a long term, gives positive impact on output gaps, the level of prices, exchange rates, current account, and primary budget deficits in Indonesia but it has no impact on the level of interest rates. Conversely, in a short term, debt deficit stabilizer in model gives positive impact toward output gap, exchange rate, and the primary deficit budget but it does not significantly influence interest rates, the level of price, and current account.",
+      "publisher": "international economics society",
+      "divisions": [
+        "FEB5"
+      ],
+      "publication": "Journal of Economic and Management Perspectives",
+      "dir": "disk0\/00\/01\/63\/66",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2019-11-14 10:34:23",
+      "issn": "ISSN 2523-5338",
+      "full_text_status": "public"
+    },
+    {
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/51\/34",
+      "event_type": "conference",
+      "status_changed": "2017-11-10 14:39:34",
+      "full_text_status": "public",
+      "ispublished": "submitted",
+      "rev_number": 7,
+      "subjects": [
+        "HJ"
+      ],
+      "event_title": "3nd conference asia africa governmental  acoounting conference",
+      "date_type": "submitted",
+      "abstract": "This study examined the effect of  government effectiveness, rule of law and control of corruption on tax obedience. Tax obedience will  increase  when  society  trust on government  The trust these good govenrnance government  is implemented. variables ax revenue. In recent years, good government governance is the main reason and measurement for society to pay tax. The purpose of the paper is to investigate the relationship between government effectiveness, rule of law and control of corruption as a set of good government governance and tax obedience, using data from30 countries since 202-2014. The empirical analysis applies panel data methodology to provide this relationship. Using fixed effect model, there was found evidence that rule of law and control of corruption significantly affect tax obedience. However, government effectiveness is not significantly effect on tax obedience",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5134",
+      "date": "2017-11-02",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Marselina",
+            "honourific": null,
+            "lineage": null,
+            "family": "Marselina"
+          },
+          "id": "ikbal_tawakal@yahoo.com"
+        },
+        {
+          "id": "trijokpras@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Prasetyo",
+            "lineage": null,
+            "given": "Tri Joko"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_dates": "1-2 nov 2017",
+      "refereed": "TRUE",
+      "title": "The Effect of Government Effectiveness, Rule of Law and Control of Corruption Toward Tax Obedience",
+      "event_location": "malaysia",
+      "eprint_status": "archive",
+      "eprintid": 5134,
+      "datestamp": "2017-11-10 14:39:34",
+      "pagerange": "334-344",
+      "metadata_visibility": "show",
+      "userid": 810,
+      "documents": [
+          {
+            "main": "Artikel  Marselina dan Tri Joko di Malaysia CAAGA - Copy.pdf",
+            "docid": 18054,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 48941,
+                  "mime_type": "application\/pdf",
+                  "hash": "7e8810a3a64bd344e749fe9760adf2fd",
+                  "objectid": 18054,
+                  "filesize": 128371,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48941",
+                  "filename": "Artikel  Marselina dan Tri Joko di Malaysia CAAGA - Copy.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-10 09:01:58"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 5134,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18054",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2017-11-10 14:39:34"
+    },
+    {
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2017-11-16 04:45:05",
+      "full_text_status": "public",
+      "issn": "2302-9595",
+      "divisions": [
+        "FEB5"
+      ],
+      "publisher": "Jurusan Ekonomi Pembangunan FEB Unila",
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "dir": "disk0\/00\/00\/53\/66",
+      "date": "2017-04-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5366",
+      "volume": 6,
+      "abstract": "Penelitian ini bertujuan untuk mengetahui dan menganalisis pengaruh variabel pendapatan perkapita, suku bunga tabungan, inflasi, dan jumlah kantor bank umum terhadap jumlah tabungan pada bank umum. Data yang digunakan adalah data time-series triwulanan dengan periode penelitian 2006.I sampai 2014.IV. Analisis yang digunakan adalah metode analisis kuantitatif dengan menggunakan model variabel pendapatan perkapita, suku bunga tabungan, inflasi, dan jumlah kantor bank umum secara bersama-sama terhadap jumlah tabungan pada bank umum.\r\nUntuk melihat pengaruh antara satu variabel terikat dengan variabel bebas\r\ndilakukan dengan menggunakan metode Error Correction Model (ECM). Hasil estimasi menunjukkan bahwa dalam jangka pendek variabel pendapatan perkapita, suku bunga tabungan, inflasi, dan jumlah kantor bank umum secara bersama-sama signifikan terhadap jumlah tabungan pada bank umum. Secara parsial variabel suku bunga tabungan, inflasi, dan jumlah kantor bank umum berpengaruh postiif dan signifikan, sedangkan variabel Pendapatan Perkapita negatif tetapi tidak signifikan.\r\n\r\nKata Kunci :   Error Correction Model (ECM), inflasi,  jumlah tabungan pada bank umum, jumlah kantor, pendapatan perkapita, dan suku bunga tabungan.",
+      "subjects": [
+        "HB"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "Jumlah Tabungan Pada Bank Umum Di Provinsi Lampung\r\nDan Faktor-Faktor Yang Mempengaruhinya",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Irma Febriana",
+            "honourific": null,
+            "lineage": null,
+            "family": "Mimma Kebahyang"
+          },
+          "id": "irmaf_mk@yahoo.co.id"
+        }
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/msword",
+            "rev_number": 1,
+            "main": "4. Irma.doc",
+            "docid": 18315,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-13 04:47:41",
+                  "filesize": 620544,
+                  "objectid": 18315,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/50738",
+                  "filename": "4. Irma.doc",
+                  "datasetid": "document",
+                  "fileid": 50738,
+                  "mime_type": "application\/msword",
+                  "hash": "0f3f6744a939858bd3cf87394f6f368e"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18315",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 5366
+          }
+      ],
+      "lastmod": "2017-11-16 04:45:05",
+      "official_url": "http:\/\/feb.unila.ac.id\/jurnal-2\/jurnal-ekonomi-pembangunan-jep\/",
+      "number": 1,
+      "userid": 38,
+      "pagerange": "69-91",
+      "metadata_visibility": "show",
+      "eprintid": 5366,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-16 04:45:05"
+    },
+    {
+      "status_changed": "2018-06-29 03:14:26",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "dir": "disk0\/00\/00\/82\/49",
+      "divisions": [
+        "FEB5"
+      ],
+      "event_type": "conference",
+      "abstract": "Abstract: Disclosure dilakukan oleh perusahaan selain untuk mengurangi asimetri informasi juga untuk mengurangi\r\ncost of capital bagi investor yang diukur dengan cost of asset pricing model ( CAPM ).Penelitian ini menarik karena\r\nselama ini pengaruh disclosure terhadap asimetri informasi yang diukur dengan selisih harga penawaran dan\r\npermintaan di pasar modal (bid-ask), namun terhadap manfaat bagi emiten masih sedikit. Secara teori dinyatakan\r\nbahwa manfaat disclosure bagi perusahaan akan mengurangi asimetri informasi sehingga akan mengurangi biaya\r\ndana atau tingkat suku bunga hutang bagi perusahaan. Penelitian ini bertujuan untuk meneliti pengaruh disclosure\r\npada biaya hutang, biaya modal dan risiko perusahaan. Sampel penelitian adalah seluruh perusahaan yang terdaftar\r\ndi Bursa Efek Indonesia. Hasil penelitian menemukan bahwa (1) disclosure tidak mempengaruhi biaya dana dari\r\nhutang dan biaya modal, (2) disclosure mempengaruhi tingkat risiko perusahaan. Disarankan agar perbankan dalam\r\nmenentukan tingkat suku bunga pinjaman tidak perlu seragam tetapi memperhatikan resiko perusahaan.\r\nKata kunci : disclosure,, biaya dana, risiko perusahaan, cost of capital.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8249",
+      "date": "2017-12-11",
+      "subjects": [
+        "H1"
+      ],
+      "event_title": "Seminar Penelitian",
+      "date_type": "published",
+      "event_location": "Bandar Lampung",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Tri Joko",
+            "family": "Prasetyo",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "trijokpras@yahoo.com"
+        },
+        {
+          "id": "doni.warganegara@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Warganegara",
+            "given": "Doni S."
+          }
+        },
+        {
+          "name": {
+            "given": "Marselina",
+            "honourific": null,
+            "lineage": null,
+            "family": "Marselina"
+          },
+          "id": "ikbal_tawakal@yahoo.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "event_dates": "11 Desember 2018",
+      "title": "Pengaruh Pengungkapan (Disclosure) Terhadap Biaya Dana Perusahaan",
+      "userid": 7,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Prosiding Penelitian FEB UNILA 2017.pdf",
+            "files": [
+                {
+                  "mtime": "2018-06-29 02:56:00",
+                  "hash_type": "MD5",
+                  "filename": "Prosiding Penelitian FEB UNILA 2017.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/81897",
+                  "filesize": 6773827,
+                  "objectid": 21298,
+                  "hash": "925aba9db8d3b9d116d94a3a85492d7c",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 81897
+                }
+            ],
+            "docid": 21298,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21298",
+            "pos": 1,
+            "eprintid": 8249,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2018-06-29 03:14:26",
+      "eprintid": 8249,
+      "eprint_status": "archive",
+      "datestamp": "2018-06-29 03:14:26",
+      "pagerange": "29-34",
+      "metadata_visibility": "show"
+    },
+    {
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "format": "text",
+            "main": "Jurnal SSBRN.docx",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 50659,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "615e2355f2855549d3c9ea79ddd20d24",
+                  "objectid": 18305,
+                  "filesize": 54300,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/50659",
+                  "filename": "Jurnal SSBRN.docx",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-13 04:00:25"
+                }
+            ],
+            "docid": 18305,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18305",
+            "eprintid": 5356,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2017-11-16 07:38:18",
+      "userid": 57,
+      "pagerange": "1-17",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 5356,
+      "datestamp": "2017-11-16 07:38:18",
+      "event_location": "The Federal, Kuala Lumpur, Malaysia",
+      "refereed": "TRUE",
+      "event_dates": "20 - 21 Juli 2017",
+      "title": "INDONESIAN BANKING EFFICIENCY TO FACE\r\nASEAN BANKING INTEGRATION FRAMEWORK",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "nurbetty.herlina@yahoo.co.id",
+          "name": {
+            "given": "Nurbetty Herlina",
+            "honourific": null,
+            "family": "Sitorus",
+            "lineage": null
+          }
+        },
+        {
+          "id": "emi_syam@yahoo.com",
+          "name": {
+            "given": "Emi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Maimunah"
+          }
+        },
+        {
+          "id": "dianfajarini25@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Dian",
+            "honourific": null,
+            "given": "Fajarini"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5356",
+      "date": "2017-07-20",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "The purpose of this research is to analyze Indonesian Banking Technical Efficiency to face ASEAN Banking Integration Framework. The research period was from Q12011 until Q42015 that employed 15 Banks with the biggest asset in ASEAN 5 countries.  This research had three steps that was first, technical efficiency of ASEAN 5 country which was measured by Data Envelopment Analysis. Second, the efficiency score of Indonesian banking which was compared to other ASEAN 5 countries and the third, financial ratio of Indonesian banking such as CAR, BOPO, LDR, NPL, and NIM which was compared to other ASEAN 5 country using Independent Sample t-test.\r\nThe result of CRTS and VRTS method by DEA showed that banking efficiency in ASEAN 5 countries had a perfect technical efficiency score in some periods. Independent Sample t-test measurement showed that there is a significance difference between Indonesian and ASEAN 5 banks. Indonesian Bank Technical Efficiency was greater than Filipina but lower comparing to Singapore, Malaysia, and Thailand. Moreover Independent Sample t-test measurement showed that there is a significance difference on some financial ratios. Indonesia was greater than Philippine while lower comparing to Singapore, Malaysia, and Thailand. This research concluded that Indonesia is ready to face ABIF. \r\n\r\n\r\nKeyword: ABIF, Banking Technical Efficiency, Data Envelopment Analysis, Banking Financial Ratios.",
+      "subjects": [
+        "HB"
+      ],
+      "event_title": "The 2nd SSBRN Symposium 2017",
+      "date_type": "submitted",
+      "rev_number": 7,
+      "ispublished": "submitted",
+      "status_changed": "2017-11-16 07:38:18",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/53\/56"
+    },
+    {
+      "abstract": "Penelitian ini bertujuan untuk mengetahui kinerja nilai ekspor Indonesia secara keseluruhan serta faktor-\r\nfaktor yang mempengaruhi nilai ekspor tersebut. Berdasarkan teori-teori terdahulu dan kajian empiris sebelumnya,\r\n\r\npenelitian ini ditujukan untuk mengetahui pengaruh nilai tukar, inflasi, PDB dan FDI terhadap nilai ekspor di Indonesia.\r\nHasil ini menunjukkan secara parsial harga minyak dunia tidak memiliki pengaruh terhadap volume ekspor Indonesia,\r\nsedangkan nilai tukar rupiah terhadap dolar AS dan Foreign Direct Investment secara parsial signifikan mempengaruhi\r\nvolume ekspor.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8115",
+      "date": "2017-12-11",
+      "subjects": [
+        "HC"
+      ],
+      "date_type": "published",
+      "book_title": "PROSIDING PENELITIAN",
+      "status_changed": "2018-06-28 06:59:12",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "publisher": "ZAMZAM TOWER",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/81\/15",
+      "related_url": [
+        {
+          "url": "https:\/\/drive.google.com\/file\/d\/1rlYuaRruE7i6T3BjUxeMVVKahlcaYg3R\/view"
+        }
+      ],
+      "userid": 57,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 8115,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21132",
+            "security": "public",
+            "main": "view",
+            "files": [
+                {
+                  "mtime": "2018-06-28 04:51:52",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/80938",
+                  "filename": "view",
+                  "objectid": 21132,
+                  "filesize": 128410,
+                  "hash": "98949c19ce6b129c7cc7c0ae1630a610",
+                  "mime_type": "text\/html",
+                  "datasetid": "document",
+                  "fileid": 80938
+                }
+            ],
+            "docid": 21132,
+            "format": "text",
+            "language": "en",
+            "mime_type": "text\/html",
+            "rev_number": 2
+          }
+      ],
+      "pages": 395,
+      "lastmod": "2018-06-28 06:59:12",
+      "eprintid": 8115,
+      "eprint_status": "archive",
+      "datestamp": "2018-06-28 06:59:12",
+      "pagerange": "93-98",
+      "metadata_visibility": "show",
+      "place_of_pub": "LAMPUNG",
+      "creators": [
+        {
+          "id": "nurbetty.herlina@yahoo.co.id",
+          "name": {
+            "given": "Nurbetty Herlina",
+            "honourific": null,
+            "family": "Sitorus",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "grandtino",
+            "honourific": null,
+            "family": "arganata",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "type": "book_section",
+      "isbn": "978-602-5548-14-7",
+      "refereed": "FALSE",
+      "title": "Pengaruh Kebijakan Moneter, PDB, dan FDI\r\nTerhadap Nilai Ekspor Indonesia"
+    },
+    {
+      "publisher": "AGBA and MOI University",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/72\/05",
+      "rev_number": 17,
+      "ispublished": "pub",
+      "status_changed": "2018-06-21 02:03:23",
+      "full_text_status": "public",
+      "book_title": "Book of Abstracts Academy for Global Business Advancement's 14th World Congress Held at MOI University Kenya",
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7205",
+      "date": 2017,
+      "refereed": "TRUE",
+      "title": "“SMALL AND MEDIUM-SIZED ENTERPRISES: PRODUCTION OF SALTED ANCHOVY AT PASARAN ISLAND ON LAMPUNG PROVINCE IN INDONESIA”",
+      "creators": [
+        {
+          "id": "arivinaratig@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Taher",
+            "honourific": null,
+            "given": "Arivina Ratih"
+          }
+        }
+      ],
+      "type": "book_section",
+      "pagerange": "222-222",
+      "metadata_visibility": "show",
+      "eprintid": 7205,
+      "eprint_status": "archive",
+      "datestamp": "2018-06-21 02:03:23",
+      "pages": 282,
+      "documents": [
+          {
+            "main": "2017_agba_book_abstracts.pdf",
+            "docid": 20231,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/65463",
+                  "filename": "2017_agba_book_abstracts.pdf",
+                  "objectid": 20231,
+                  "filesize": 1700017,
+                  "mtime": "2018-06-13 09:27:56",
+                  "hash_type": "MD5",
+                  "hash": "000726e218b3a3bbeff6406ad769054f",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 65463
+                }
+            ],
+            "format": "text",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "placement": 1,
+            "eprintid": 7205,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20231",
+            "pos": 1,
+            "security": "public",
+            "formatdesc": "abstract"
+          },
+          {
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "rev_number": 1,
+            "main": "sertifikat.jpg",
+            "docid": 20255,
+            "files": [
+                {
+                  "mime_type": "image\/jpeg",
+                  "hash": "72676e3051963da183b43f56e0c8486d",
+                  "datasetid": "document",
+                  "fileid": 65586,
+                  "mtime": "2018-06-14 14:49:36",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/65586",
+                  "filename": "sertifikat.jpg",
+                  "objectid": 20255,
+                  "filesize": 549981
+                }
+            ],
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20255",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 7205
+          }
+      ],
+      "official_url": "http:\/\/agba.us\/pdf\/2017_agba_book_abstracts.pdf",
+      "lastmod": "2018-06-21 02:03:23",
+      "userid": 62
+    },
+    {
+      "creators": [
+        {
+          "id": "toto.gunarto@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Toto Gunarto",
+            "given": "Toto Gunarto"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Annisa Alifa Ramadhani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Annisa Alifa Ramadhani"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Strategi Pembangunan Daerah Tertinggal Di Wilayah\r\nPesisir Kecamatan Punduh Pidada",
+      "place_of_pub": "Jurnal Ekonomi Pembangunan FEB Unila",
+      "id_number": "2302-9595",
+      "eprint_status": "archive",
+      "eprintid": 23273,
+      "datestamp": "2020-07-21 07:25:12",
+      "metadata_visibility": "show",
+      "contributors": [
+        {
+          "name": {
+            "given": "toto gunarto",
+            "honourific": null,
+            "family": "toto gunarto",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "toto.gunarto@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Annisa Alifa Ramadhani",
+            "lineage": null,
+            "family": "Annisa Alifa Ramadhani",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CRP",
+          "id": null
+        }
+      ],
+      "userid": 963,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 23273,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36836",
+            "pos": 1,
+            "security": "public",
+            "main": "Strategi Pembangunan Daerah Tertinggal.pdf",
+            "files": [
+                {
+                  "hash": "4e425d91e92a7ca0b15ef6538a75c860",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 213025,
+                  "mtime": "2020-07-21 06:43:06",
+                  "hash_type": "MD5",
+                  "filename": "Strategi Pembangunan Daerah Tertinggal.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/213025",
+                  "objectid": 36836,
+                  "filesize": 402675
+                }
+            ],
+            "docid": 36836,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "http:\/\/ep.feb.unila.ac.id\/wp-content\/uploads\/2019\/11\/7.-Toto-Gunarto.doc",
+      "lastmod": "2020-07-21 07:25:12",
+      "publisher": "Ekonomi Pembangunan, FEB Unila",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/02\/32\/73",
+      "status_changed": "2020-07-21 07:25:12",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk menentukan strategi yang tepat dalam pembangunan daerah tertinggal di wilayah pesisir Kecamatan Punduh Pidada. Alat analisis yang digunakan dalam penelitian ini adalah matriks IFE (Internal Factor Evaluation)  dan matriks EFE (External Factor Evaluation), matriks Strenght- Weakness- Opportunity- Threats (SWOT), dan QSPM (Quantitative Strategic Planning Matrix). Hasil dari penelitian ini diperoleh lima prioritas strategi tertinggi atau strategi utama pembangunan daerah tertinggal di wilayah pesisir Kecamatan Punduh Pidada yakni : 1) mengembangkan forum komunikasi dan koordinasi antar instansi terkait dalam pengelolaan wilayah pesisir; 2) mengembangkan program penyuluhan dan pelatihan keterampilan masyarakat dalam pengelolaan sumber daya alam wilayah pesisir; 3) meningkatkan peran pemangku kepentingan dalam pembangunan sarana dan prasarana dasar wilayah pesisir; 4) meningkatkan akses masyarakat terhadap informasi, modal, pemasaran dan teknologi; 5) mengembangkan partisipasi masyarakat dalam pengelolaan wilayah pesisir. \r\n \r\nKata Kunci : daerah tertinggal, strategi, wilayah pesisir",
+      "date": "2017-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23273"
+    },
+    {
+      "refereed": "FALSE",
+      "title": "Determinan Aglomerasi Industri Manufaktur di Provinsi Jawa Barat",
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "given": "Emalia",
+            "honourific": null,
+            "family": "Zulfa",
+            "lineage": null
+          },
+          "id": "emalia.zulfa@gmail.com"
+        }
+      ],
+      "isbn": 9786025548147,
+      "place_of_pub": "Bandar Lampung",
+      "contact_email": "emalia.zulfa@gmail.com",
+      "pagerange": "145-141",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 8132,
+      "datestamp": "2018-06-28 06:59:18",
+      "pages": 7,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 81033,
+                  "datasetid": "document",
+                  "hash": "bb0727a0aa58953b766c43f97c5752df",
+                  "mime_type": "application\/pdf",
+                  "filesize": 674586,
+                  "objectid": 21147,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/81033",
+                  "filename": "Prosiding Penelitian.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-28 05:31:31"
+                }
+            ],
+            "main": "Prosiding Penelitian.pdf",
+            "docid": 21147,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21147",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 8132
+          }
+      ],
+      "official_url": "https:\/\/drive.google.com\/file\/d\/1rlYuaRruE7i6T3BjUxeMVVKahlcaYg3R\/view",
+      "lastmod": "2018-06-28 06:59:18",
+      "userid": 103,
+      "publisher": "Zam-zam Tower",
+      "dir": "disk0\/00\/00\/81\/32",
+      "divisions": [
+        "FEB5"
+      ],
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2018-06-28 06:59:18",
+      "full_text_status": "public",
+      "book_title": "Prosiding Pengabdian Kepada Masyarakat",
+      "subjects": [
+        "HB"
+      ],
+      "date_type": "published",
+      "date": "2017-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8132",
+      "abstract": "Penelitian ini bertujuan untuk mengetahui pola persebaran aglomerasi industri manufaktur di Provinsi\r\nJawa Barat, pengaruh tenaga kerja sektor industri, upah minimum kabupaten\/kota, serta kondisi infrastruktur jalan\r\nterhadap aglomerasi industri manufaktur di Provinsi Jawa Barat. Penelitian ini menggunakan data sekunder yang\r\ndiperoleh langsung dari badan pusat statistik Jawa Barat dengan jumlah cross-section sebanyak 26 kabupaten\/kota\r\nselama periode 2008 – 2013 dan menggunakan alat analisis Indeks Hoover Balassa. Hasil estimasi menunjukkan\r\naglomerasi secara signifikan dipengaruhi oleh variabel tenaga kerja sektor industri dan insfrastruktur jalan berpengaruh\r\npositif, sedangkan upah minimum kabupaten\/kota berpengaruh negatif terhadap aglomerasi di Provinsi Jawa Barat."
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "H1"
+      ],
+      "book_title": "PROSIDING CALL PAPER DAN SEMINAR NASIONAL FEB UNILA 2017",
+      "abstract": "Penelitian ini bertujuan untuk mengetahui pola persebaran aglomerasi industri manufaktur di Provinsi\r\nJawa Barat, pengaruh tenaga kerja sektor industri, upah minimum kabupaten\/kota, serta kondisi infrastruktur jalan\r\nterhadap aglomerasi industri manufaktur di Provinsi Jawa Barat. Penelitian ini menggunakan data sekunder yang\r\ndiperoleh langsung dari badan pusat statistik Jawa Barat dengan jumlah cross-section sebanyak 26 kabupaten\/kota\r\nselama periode 2008 – 2013 dan menggunakan alat analisis Indeks Hoover Balassa. Hasil estimasi menunjukkan\r\naglomerasi secara signifikan dipengaruhi oleh variabel tenaga kerja sektor industri dan insfrastruktur jalan berpengaruh\r\npositif, sedangkan upah minimum kabupaten\/kota berpengaruh negatif terhadap aglomerasi di Provinsi Jawa Barat.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8547",
+      "date": 2017,
+      "publisher": "Fakultas Ekonomi dan Bisnis",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/85\/47",
+      "full_text_status": "public",
+      "status_changed": "2018-08-03 07:40:05",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "datestamp": "2018-08-03 07:40:05",
+      "eprint_status": "archive",
+      "eprintid": 8547,
+      "metadata_visibility": "show",
+      "pagerange": "145-151",
+      "userid": 103,
+      "lastmod": "2018-08-03 07:40:05",
+      "pages": 7,
+      "documents": [
+          {
+            "main": "Prosiding Penelitian.pdf",
+            "docid": 21603,
+            "files": [
+                {
+                  "fileid": 83854,
+                  "datasetid": "document",
+                  "hash": "bb0727a0aa58953b766c43f97c5752df",
+                  "mime_type": "application\/pdf",
+                  "objectid": 21603,
+                  "filesize": 674586,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/83854",
+                  "filename": "Prosiding Penelitian.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-07-05 08:00:58"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 8547,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21603",
+            "security": "public"
+          }
+      ],
+      "isbn": 9786025548147,
+      "creators": [
+        {
+          "name": {
+            "given": "Emalia",
+            "lineage": null,
+            "family": "Zulfa",
+            "honourific": null
+          },
+          "id": "emalia.zulfa@gmail.com"
+        }
+      ],
+      "type": "book_section",
+      "title": "Determinan Aglomerasi Industri Manufaktur di Provinsi Jawa Barat",
+      "refereed": "TRUE"
+    },
+    {
+      "contact_email": "emalia.zulfa@gmail.com",
+      "title": "EDUKASI RUPIAH SEBAGAI SIMBOL KEDAULATAN NKRI DI\r\nKAMPUNG RENGAS\r\nKECAMATAN BEKRI KABUPATEN LAMPUNG TENGAH",
+      "refereed": "TRUE",
+      "isbn": 9786025548154,
+      "creators": [
+        {
+          "name": {
+            "given": "Emalia",
+            "lineage": null,
+            "family": "Zulfa",
+            "honourific": null
+          },
+          "id": "emalia.zulfa@gmail.com"
+        }
+      ],
+      "type": "book_section",
+      "official_url": "hhttps:\/\/drive.google.com\/file\/d\/1ouKM49squ6P-ySWt_Ck5_6K8OnzebxfI\/viewttps:\/\/drive.google.com\/file\/d\/1ouKM49squ6P-ySWt_Ck5_6K8OnzebxfI\/view",
+      "lastmod": "2018-08-03 07:40:01",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Prosiding PKM-Ketua.pdf",
+            "docid": 21606,
+            "files": [
+                {
+                  "mtime": "2018-07-05 08:15:47",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/83871",
+                  "filename": "Prosiding PKM-Ketua.pdf",
+                  "objectid": 21606,
+                  "filesize": 176245,
+                  "hash": "9e489cfb2e23a37fd3a07297728847b8",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 83871
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21606",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 8550
+          }
+      ],
+      "pages": 6,
+      "userid": 103,
+      "metadata_visibility": "show",
+      "pagerange": "175-180",
+      "datestamp": "2018-08-03 07:40:01",
+      "eprint_status": "archive",
+      "eprintid": 8550,
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2018-08-03 07:40:01",
+      "divisions": [
+        "FEB5"
+      ],
+      "publisher": "Zam-zam Tower",
+      "dir": "disk0\/00\/00\/85\/50",
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8550",
+      "abstract": "Rupiah merupakan mata uang Negara Indonesia. Bank Indonesia merupakan instansi yang\r\nmengeluarkan dan mengedarkan uang rupiah. Pengedaran uang rupiah ini mengalami\r\nperubahan pada periode waktu tertentu. Pada tahun 2016, Bank Indonesia mengeluarkan uang\r\nRupiah Tahun Emisi (TE) 2016. Rupiah Tahun Emisi (TE) 2016 memiliki beberapa perbedaan\r\ndengan versi sebelumnya. Oleh karena itu perlu dilakukan sosialisasi terkait uang rupiah\r\nini. Salah satu kegiatan sosialisasi dilakukan di Kampung Rengas, Kecamatan Bekri. Setelah\r\nkegiatan sosialisasi ini dilakukan, warga mengetahui uang Rupiah TE 2016 dan mengetahui\r\ncara-cara memperlakukan uang rupiah.",
+      "book_title": "PROSIDING PKM CALL PAPER DAN SEMINAR NASIONAL",
+      "subjects": [
+        "H1"
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23201",
+      "date": 2017,
+      "volume": 6,
+      "abstract": "Lampung province is the national rice barns. But the reality, the rice price tend\r\nto experience an increase for every year.The increase of rice price will affect the\r\npatterns of food consumption on households in Lampung Province. The purpose\r\nof the study is to analyze the impact of rice price changes on food consumption\r\npatterns on households in Lampung Province based on income groups in the\r\nshort term. In order to achieve the goal of the study, this study used the\r\nsecondary data, that is using cross section data National Socioeconomic Survey\r\n(Susenas) In 2013 and 2014. To estimate demand function use Linear\r\nApproximation \/ Almost Ideal Demand System (LA \/ AIDS) model.The regression\r\nparameters in the demand function model are estimated by Seemingly Unrelated\r\nRegression (SUR) which qualifies the term of restrictions the demand\r\nfunction.The estimation result of demand function is used to calculate the\r\nelasticity of food demand based on commodities group to the rice price.The\r\nresults show that low income household groups are still more dependent on rice\r\nas a staple food than other household groups. The lower the income of a\r\nhousehold, higher proportion of rice consumption. In contrast the higher the\r\nincome of a household, lower proportion of rice consumption.",
+      "subjects": [
+        "H1"
+      ],
+      "rev_number": 14,
+      "ispublished": "pub",
+      "status_changed": "2020-07-15 01:14:31",
+      "full_text_status": "public",
+      "issn": 23029595,
+      "publisher": "Fakultas Ekonomi dan Bisnis",
+      "divisions": [
+        "FEB5"
+      ],
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "dir": "disk0\/00\/02\/32\/01",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36761",
+            "pos": 2,
+            "eprintid": 23201,
+            "placement": 2,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash": "24def187c77a87f028331df2284191e4",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 212523,
+                  "mtime": "2020-07-15 00:30:00",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/212523",
+                  "filename": "13. Pengaruh Perubahan Harga Beras terhadap Pola Konsumsi Pangan.pdf",
+                  "objectid": 36761,
+                  "filesize": 793770
+                }
+            ],
+            "main": "13. Pengaruh Perubahan Harga Beras terhadap Pola Konsumsi Pangan.pdf",
+            "docid": 36761
+          }
+      ],
+      "lastmod": "2020-07-15 01:14:31",
+      "official_url": "http:\/\/ep.feb.unila.ac.id\/lainnya\/jep\/",
+      "number": 3,
+      "userid": 914,
+      "pagerange": "321-342",
+      "metadata_visibility": "show",
+      "eprintid": 23201,
+      "eprint_status": "archive",
+      "datestamp": "2020-07-15 01:14:31",
+      "refereed": "TRUE",
+      "title": "Pengaruh Perubahan Harga\r\nBeras terhadap Pola Konsumsi\r\nPangan Pada Rumah Tangga\r\nDalam Jangka Pendek",
+      "creators": [
+        {
+          "id": "ambya.1959@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "ambya",
+            "given": "ambya"
+          }
+        },
+        {
+          "id": "narang.maya@bps.go.id",
+          "name": {
+            "lineage": null,
+            "family": "ali",
+            "honourific": null,
+            "given": "maya narang"
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "date": "2017-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23210",
+      "volume": 6,
+      "abstract": "This study aims to analyze the effect of Local Taxes, Regional\r\nRetributions, and Profit Sharing on Fiscal Capacity of new parent regions and\r\nautonomous regions, and show the difference between the fiscal capacity of\r\nparent regions and new autonomous regions (DOB), the sample in this study is\r\nCentral Lampung District as the parent region And Regency of East Lampung\r\nand Metro City as the area of expansion.\r\nThe results of this study show that local tax variables have a negative and\r\nsignificant influence, both in short-run (short-run), as well as in the long-run (longrun), while the variable levy area has a positive influence and not significant to\r\nfiscal capacity, Tax Sharing shares have a positive and significant impact on\r\nfiscal capacity, both short-run, and long-run. The DOB dummy variable from\r\npanel data regression estimation was found between parent regions (Central\r\nLampung District) and DOB (Metro City and East Lampung District) no difference\r\nto Fiscal Capacity",
+      "subjects": [
+        "H1"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2020-07-15 06:14:43",
+      "full_text_status": "public",
+      "issn": 23029595,
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "publisher": "Jurusan Ekonomi Pembangunan Fakultas Ekonomi dan Bisnis Universitas Lampung",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/02\/32\/10",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36766",
+            "pos": 1,
+            "eprintid": 23210,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "70e209334f6f78e07c3c444740236fca",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 212568,
+                  "filename": "12. Analisis Kapasitas Fiskal Di Kabupaten Lampung Tengah.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/212568",
+                  "filesize": 629991,
+                  "objectid": 36766,
+                  "mtime": "2020-07-15 03:01:32",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "12. Analisis Kapasitas Fiskal Di Kabupaten Lampung Tengah.pdf",
+            "docid": 36766
+          }
+      ],
+      "official_url": "http:\/\/ep.feb.unila.ac.id\/lainnya\/jep\/",
+      "lastmod": "2020-07-15 06:14:43",
+      "number": 2,
+      "userid": 914,
+      "pagerange": "127-148",
+      "metadata_visibility": "show",
+      "eprintid": 23210,
+      "eprint_status": "archive",
+      "datestamp": "2020-07-15 06:14:43",
+      "refereed": "TRUE",
+      "title": "Analisis Kapasitas Fiskal Di Kabupaten Lampung Tengah \r\n(Studi pada Kabupaten Induk dan Daerah Otonomi Baru)",
+      "creators": [
+        {
+          "id": "ambya.1959@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "ambya",
+            "given": "ambya"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "suparta",
+            "lineage": null,
+            "given": "i wayan"
+          },
+          "id": "wayansuparta61@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "putri",
+            "honourific": null,
+            "given": "wulandari ekita"
+          },
+          "id": null
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "pagerange": "391-412",
+      "metadata_visibility": "show",
+      "eprintid": 5361,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-16 04:44:43",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/msword",
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/msword",
+                  "hash": "5d29d7e499c20dd1e23dc501cca82817",
+                  "fileid": 50692,
+                  "datasetid": "document",
+                  "filename": "Strategi Pembangunan Daerah Tertinggal Di Wilayah.doc",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/50692",
+                  "filesize": 1659904,
+                  "objectid": 18308,
+                  "mtime": "2017-11-13 04:23:38",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Strategi Pembangunan Daerah Tertinggal Di Wilayah.doc",
+            "docid": 18308,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18308",
+            "eprintid": 5361,
+            "placement": 1
+          }
+      ],
+      "official_url": "http:\/\/feb.unila.ac.id\/jurnal-2\/jurnal-ekonomi-pembangunan-jep\/",
+      "lastmod": "2017-11-16 04:44:43",
+      "number": 3,
+      "userid": 963,
+      "refereed": "TRUE",
+      "title": "Strategi Pembangunan Daerah Tertinggal Di Wilayah\r\nPesisir Kecamatan Punduh Pidada",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "gunarto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Toto Gunarto"
+          },
+          "id": "toto.gunarto@yahoo.co.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Annisa Alifa Ramadhani",
+            "honourific": null,
+            "lineage": null,
+            "family": "Annisa Alifa Ramadhani"
+          }
+        }
+      ],
+      "subjects": [
+        "HB"
+      ],
+      "date_type": "published",
+      "date": "2017-11-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5361",
+      "volume": 6,
+      "abstract": "Penelitian ini bertujuan untuk menentukan strategi yang tepat dalam pembangunan daerah tertinggal di wilayah pesisir Kecamatan Punduh Pidada. Alat analisis yang digunakan dalam penelitian ini adalah matriks IFE (Internal Factor Evaluation)  dan matriks EFE (External Factor Evaluation), matriks Strenght- Weakness- Opportunity- Threats (SWOT), dan QSPM (Quantitative Strategic Planning Matrix). Hasil dari penelitian ini diperoleh lima prioritas strategi tertinggi atau strategi utama pembangunan daerah tertinggal di wilayah pesisir Kecamatan Punduh Pidada yakni : 1) mengembangkan forum komunikasi dan koordinasi antar instansi terkait dalam pengelolaan wilayah pesisir; 2) mengembangkan program penyuluhan dan pelatihan keterampilan masyarakat dalam pengelolaan sumber daya alam wilayah pesisir; 3) meningkatkan peran pemangku kepentingan dalam pembangunan sarana dan prasarana dasar wilayah pesisir; 4) meningkatkan akses masyarakat terhadap informasi, modal, pemasaran dan teknologi; 5) mengembangkan partisipasi masyarakat dalam pengelolaan wilayah pesisir. \r\n \r\nKata Kunci : daerah tertinggal, strategi, wilayah pesisir",
+      "divisions": [
+        "FEB5"
+      ],
+      "publisher": "Ekonomi Pembangunan",
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "dir": "disk0\/00\/00\/53\/61",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2017-11-16 04:44:43",
+      "issn": "2302-9595",
+      "full_text_status": "public"
+    },
+    {
+      "book_title": "Proceeding of International Conference 2nd SHIELD 2017",
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "date": "2017-09-20",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12306",
+      "volume": 1,
+      "abstract": "Abstract\r\nUse of imported intermediate input can improve manufacturing industry productivity through the \r\nlearning, variation, and quality effect (Amiti, 2007) Productivity can increase due to the foreign\r\ntechnology within their input. This research aim to see the influences of use of imported intermediate\r\ninput to manufacturing industry productivity in Indonesia by using panel data from survey collected in\r\nmanufacturing industry at Badan Pusat Statistik 2000 – 2012 period based on 3-digit KBLI. \r\nThe influence of use of imported intermediate input to manufacturing industry production is\r\npositive and significant. Imported intermediate Input is considered to have a better quality. With a good \r\nquality and technology in imported intermediate input will improve the production efficiency which can\r\nimprove the industry productivity. MnC currently controls most of the trade chain either as a supplier of\r\ninput or marketing of production. So that, it needs government policy to improve national industry\r\nstructure both in terms of market usage concentration and in terms of the depth of the supply chain of raw\r\nmaterials and supporting materials. \r\n\r\nKeywords: Manufacturing Industry, Input-among import, Productivity.",
+      "divisions": [
+        "FEB5"
+      ],
+      "publisher": "Postgraduate Program University of Lampung and  Research and Community Service of University of Lampung",
+      "dir": "disk0\/00\/01\/23\/06",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/lppm.unila.ac.id\/"
+        }
+      ],
+      "rev_number": 11,
+      "ispublished": "pub",
+      "status_changed": "2019-05-09 08:24:09",
+      "full_text_status": "public",
+      "pagerange": "267-276",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 12306,
+      "datestamp": "2019-05-09 08:24:09",
+      "pages": 482,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25287",
+            "eprintid": 12306,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Prosiding 2nd shield FINAL.pdf",
+            "docid": 25287,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 109766,
+                  "hash": "d5dd51aba33b7143bad0d8d5510d31c5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 25287,
+                  "filesize": 12790547,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/109766",
+                  "filename": "Prosiding 2nd shield FINAL.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-09 07:44:35"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2019-05-09 08:24:09",
+      "userid": 580,
+      "refereed": "TRUE",
+      "title": "The Use of Imported Input and Manufacturing Industry Productivity",
+      "creators": [
+        {
+          "id": "liesmh55@gmail.com",
+          "name": {
+            "given": "lies maria",
+            "honourific": null,
+            "family": "hamzah",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "dian",
+            "lineage": null,
+            "family": "fajarini",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "book_section",
+      "isbn": "978-602-61299-9-4",
+      "place_of_pub": "bandar lampung"
+    },
+    {
+      "date": "2017-12-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8103",
+      "abstract": "Rupiah merupakan mata uang Negara Indonesia. Bank Indonesia merupakan instansi yang\r\nmengeluarkan dan mengedarkan uang rupiah. Pengedaran uang rupiah ini mengalami\r\nperubahan pada periode waktu tertentu. Pada tahun 2016, Bank Indonesia mengeluarkan uang\r\nRupiah Tahun Emisi (TE) 2016. Rupiah Tahun Emisi (TE) 2016 memiliki beberapa perbedaan\r\ndengan versi sebelumnya. Oleh karena itu perlu dilakukan sosialisasi terkait uang rupiah\r\nini. Salah satu kegiatan sosialisasi dilakukan di Kampung Rengas, Kecamatan Bekri. Setelah\r\nkegiatan sosialisasi ini dilakukan, warga mengetahui uang Rupiah TE 2016 dan mengetahui\r\ncara-cara memperlakukan uang rupiah.",
+      "book_title": "PROSIDING PENGABDIAN KEPADA MASYARAKAT",
+      "date_type": "published",
+      "subjects": [
+        "H1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "status_changed": "2018-06-28 07:01:10",
+      "publisher": "ZAMZAM TOWER",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/81\/03",
+      "lastmod": "2018-06-28 07:01:10",
+      "official_url": "https:\/\/drive.google.com\/file\/d\/1ouKM49squ6P-ySWt_Ck5_6K8OnzebxfI\/view",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "6182f83740562aef52cf61faa5ae325c",
+                  "mime_type": "text\/html",
+                  "fileid": 80869,
+                  "datasetid": "document",
+                  "mtime": "2018-06-28 04:23:04",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/80869",
+                  "filename": "view",
+                  "filesize": 128375,
+                  "objectid": 21124
+                }
+            ],
+            "main": "view",
+            "docid": 21124,
+            "format": "text",
+            "mime_type": "text\/html",
+            "language": "en",
+            "rev_number": 2,
+            "placement": 1,
+            "eprintid": 8103,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21124",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "pages": 190,
+      "userid": 57,
+      "metadata_visibility": "show",
+      "pagerange": "95-98",
+      "datestamp": "2018-06-28 07:01:10",
+      "eprint_status": "archive",
+      "eprintid": 8103,
+      "place_of_pub": "LAMPUNG",
+      "title": "EDUKASI RUPIAH SEBAGAI SIMBOL KEDAULATAN NKRI DI\r\nKAMPUNG RENGAS \r\nKECAMATAN BEKRI KABUPATEN LAMPUNG TENGAH",
+      "refereed": "FALSE",
+      "isbn": "978-602-5548-15-4",
+      "type": "book_section",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "lies maria",
+            "honourific": null,
+            "family": "hamzah",
+            "lineage": null
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "muhammad",
+            "honourific": null,
+            "lineage": null,
+            "family": "husaini"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sitorus",
+            "given": "Nurbetty Herlina"
+          },
+          "id": "nurbetty.herlina@yahoo.co.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Emalia",
+            "lineage": null,
+            "given": "Zulfa"
+          }
+        }
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5650",
+      "date": "2017-04-01",
+      "volume": 6,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Analisis Penyerapan Tenaga Kerja\r\nPada Sektor Industri Pengolahan Makanan \r\nDi Provinsi Lampung\r\n\r\nHendra, Nairobi, Muhidin Sirat\r\n\r\nABSTRAK\r\n\r\nPenelitian ini bertujuan untuk menganalisis pengaruh variabel independen Tingkat Upah, Nilai Output, Rasio Beban Bunga, dan Investasi terhadap variabel dependen Penyerapan Tenaga Kerja pada industri pengolahan makanan di Provinsi Lampung. Data yang dipergunakan dalam penelitian ini berupa data sekunder hasil Survei Tahunan Perusahaan Industri Manufaktur yang dilakukan oleh Badan Pusat Statistik (BPS) pada 302 perusahaan industri manufaktur di Provinsi Lampung.   Metode analisis data yang digunakan adalah analisis data kuantitatif (statistik) dengan menggunakan analisis regresi linier berganda dalam bentuk\/model logaritma penuh. Estimasi atau pendugaan terhadap persamaan di atas dilakukan dengan melakukan transformasi linier dengan cara menjadikan bentuk logaritma natural (ln).  Hasil penelitian ini menunjukan bahwa variabel independen (Tingkat Upah, Nilai Output, Rasio Beban Bunga, dan Investasi) secara bersama-sama berpengaruh terhadap variabel dependen (penyerapan tenaga kerja) sektor industri pengolahan makanan di Provinsi Lampung pada tahun 2013. Variabel independen nilai output secara signifikan berpengaruh positif terhadap penyerapan tenaga kerja. Kenaikan nilai output akan meningkatkan penyerapan tenaga kerja. Variable independen tingkat upah, rasio beban bunga, dan investasi secara signifikan berpengaruh negatif terhadap penyerapan tenaga kerja. Kenaikan tingkat upah, rasio beban bunga, dan investasi akan menurunkan Penyerapan Tenaga Kerja. \r\n\r\nKata Kunci: \tPenyerapan Tenaga Kerja, Tingkat Upah, Nilai Output, Rasio Beban Bunga, Investasi, Regresi Linier Berganda",
+      "subjects": [
+        "HB"
+      ],
+      "date_type": "published",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2017-11-16 06:52:56",
+      "full_text_status": "public",
+      "issn": "2302-9595",
+      "publisher": "Fakultas Ekonomi dan Bisnis Universitas Lampung",
+      "publication": "jurnal ekonomi pembangunan",
+      "divisions": [
+        "FEB5"
+      ],
+      "dir": "disk0\/00\/00\/56\/50",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 52913,
+                  "hash": "4cddb454333b30271d4d938b7abdcff0",
+                  "mime_type": "application\/msword",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-16 03:41:15",
+                  "filesize": 3360768,
+                  "objectid": 18593,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52913",
+                  "filename": "2. Hendra.doc"
+                }
+            ],
+            "main": "2. Hendra.doc",
+            "docid": 18593,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/msword",
+            "eprintid": 5650,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18593"
+          }
+      ],
+      "lastmod": "2017-11-16 06:52:56",
+      "number": 1,
+      "userid": 931,
+      "pagerange": "19-50",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 5650,
+      "datestamp": "2017-11-16 06:52:56",
+      "refereed": "TRUE",
+      "title": "Analisis Penyerapan Tenaga Kerja \r\nPada Sektor Industri Pengolahan Makanan Di Provinsi Lampung",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "hendra",
+            "lineage": null,
+            "honourific": null,
+            "given": "-"
+          },
+          "id": "-"
+        },
+        {
+          "id": "nairobi.saibi@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "nairobi",
+            "given": "-"
+          }
+        },
+        {
+          "id": "muhidinsirat@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Muhidin",
+            "lineage": null,
+            "given": "sirat"
+          }
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "marselina@feb.unila.ac.id",
+          "name": {
+            "family": "marselina",
+            "lineage": null,
+            "honourific": null,
+            "given": "marselina"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Building Economics Equilibrium Model Toward Macroeconomic\r\nVariables - New Consensus Macroeconomic Approach: Evidence\r\nfrom Indonesia",
+      "number": "ISSUE",
+      "userid": 810,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "documents": [
+          {
+            "format": "text",
+            "main": "64-djayasinga11.4 (3).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 204083,
+                  "hash": "96c674d6510787e45cbec02091ca62bd",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-09 12:51:38",
+                  "filesize": 196166,
+                  "objectid": 35578,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/204083",
+                  "filename": "64-djayasinga11.4 (3).pdf"
+                }
+            ],
+            "docid": 35578,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 22157,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35578"
+          }
+      ],
+      "official_url": "http:\/\/www.econ-society.org",
+      "lastmod": "2020-06-10 01:00:54",
+      "eprintid": 22157,
+      "eprint_status": "archive",
+      "datestamp": "2020-06-10 01:00:54",
+      "pagerange": "647-656",
+      "metadata_visibility": "show",
+      "status_changed": "2020-06-10 01:00:54",
+      "issn": "1307-1637",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "dir": "disk0\/00\/02\/21\/57",
+      "publisher": "ISN",
+      "publication": "International Journal of Economic Perspectives,",
+      "divisions": [
+        "FEB5"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id\/cgi\/users\/home?screen=EPrint::Edit&eprintid=22157&stage=core#t"
+        }
+      ],
+      "volume": 11,
+      "abstract": "Debt management and budget deficit in Indonesia is based on ACT No 17 of 2003 and followed by Government\r\nRegulation No 23 of 2003, in which government sets maximum limit on government debt of 60 % GDP and\r\nmaximum limit on budget deficit of 3 %. This concept like Maastricht Treaty which is used in some Europe\r\nCountries which are facing high debt and to be default countries, and we worried about it. The weakness of this\r\nconcept is thatdoes not describe when government is supposed to do the policy deficit, balanced, or surplus budget.\r\nAs long as GDP increases, government debt can be increased, regardless of whether the economy needs it or not.\r\nDebt burden make fiscal space is limited and it has been happened in Indonesia in 1990’s. It is important to build\r\na equilibrium model to control debt and budget deficit and the important thing it keep fiscal sustainability and\r\neconomic growth. Fiscal sustainability is happened if debt is kept stable. This research is conductedby using New\r\nConsensus Macroeconomic (MKB) school to make an optimal decision through inter temporal choices.Using\r\nmicro foundation and adding debt stabilizing deficit variable,Arestis model was elabotaed. The result found that\r\ndeficit debt stabilizer in the model for a long term, gives positive impact on output gaps, the level of prices,\r\nexchange rates, current account, and primary budget deficits in Indonesia but it has no impact on the level of\r\ninterest rates. Conversely, in a short term, debt deficit stabilizer in model gives positive impact toward output gap,\r\nexchange rate, and the primary deficit budget but it does not significantly influence interest rates, the level of price,\r\nand current account.",
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22157",
+      "subjects": [
+        "HB"
+      ],
+      "date_type": "published"
+    }
+]
+

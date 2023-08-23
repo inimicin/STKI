@@ -1,0 +1,461 @@
+[
+    {
+      "issn": "1978-5186",
+      "full_text_status": "public",
+      "status_changed": "2019-08-08 02:38:13",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung",
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "dir": "disk0\/00\/01\/37\/51",
+      "divisions": [
+        "FH3"
+      ],
+      "abstract": "hasil penilaian sejawat sebidang atau peer review",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": "2008-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13751",
+      "subjects": [
+        "K1"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Upik",
+            "lineage": null,
+            "family": "Hamidah",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "pengawasan terhadap P2KP-3 di tataran masyarakat kota bandar lampung",
+      "refereed": "TRUE",
+      "userid": 769,
+      "lastmod": "2019-08-08 02:38:13",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-08 01:51:15",
+                  "objectid": 26762,
+                  "filesize": 302891,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119910",
+                  "filename": "peerreview upik pengawasan thd.pdf",
+                  "fileid": 119910,
+                  "datasetid": "document",
+                  "hash": "9b12f001909e90c809b30a7b687f026f",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "peerreview upik pengawasan thd.pdf",
+            "docid": 26762,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26762",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13751
+          }
+      ],
+      "datestamp": "2019-08-08 02:38:13",
+      "eprintid": 13751,
+      "eprint_status": "archive",
+      "metadata_visibility": "show"
+    },
+    {
+      "publisher": "Laporan Penelitian DIPA BLU Unila 2008",
+      "dir": "disk0\/00\/01\/37\/22",
+      "divisions": [
+        "FH3"
+      ],
+      "ispublished": "pub",
+      "rev_number": 10,
+      "status_changed": "2019-08-05 05:27:48",
+      "full_text_status": "public",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "date": 2008,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13722",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "title": "pendaftaran perpanjangan jangka waktu hak guna usaha di kabupaten lampung utara",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Upik",
+            "lineage": null,
+            "family": "Hamidah",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "FX",
+            "family": "Sumarja",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "fxsmj.unila@gmail.com"
+        },
+        {
+          "name": {
+            "given": "iskandariyansyah",
+            "family": "iskandariyansyah",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "mechsan",
+            "honourific": null,
+            "given": "sudirman"
+          }
+        },
+        {
+          "name": {
+            "given": "charles",
+            "honourific": null,
+            "lineage": null,
+            "family": "jackson"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "elman eddy",
+            "family": "patra",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 13722,
+      "datestamp": "2019-08-05 05:27:48",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 26732,
+            "main": "UPIK Pendaftaran Perpanjangan Jangka Waktu Hak Guna Usaha di Kabupaten Lampung Utara.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 119707,
+                  "mime_type": "application\/pdf",
+                  "hash": "c49a64200b9856c6f7a1dca6eaca7092",
+                  "objectid": 26732,
+                  "filesize": 2497318,
+                  "filename": "UPIK Pendaftaran Perpanjangan Jangka Waktu Hak Guna Usaha di Kabupaten Lampung Utara.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119707",
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-05 05:14:16"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26732",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13722
+          }
+      ],
+      "lastmod": "2019-08-05 05:27:48",
+      "userid": 769
+    },
+    {
+      "divisions": [
+        "FH3"
+      ],
+      "publisher": "Lingkar Studi Ilmu Agama dan Ilmu Sosial (LinkSAS)",
+      "publication": "Sosio-Religia",
+      "dir": "disk0\/00\/00\/38\/51",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "1412-2367",
+      "full_text_status": "public",
+      "status_changed": "2017-11-10 14:08:14",
+      "subjects": [
+        "K1"
+      ],
+      "date": 2008,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3851",
+      "volume": 7,
+      "title": "Fungsi Iddah Bagi Perempuan Dalam Perspektif Hukum Perkawinan Islam",
+      "refereed": "FALSE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Nunung Rodliyah",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nunung"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "971-986",
+      "datestamp": "2017-11-10 14:08:14",
+      "eprint_status": "archive",
+      "eprintid": 3851,
+      "lastmod": "2017-11-10 14:08:14",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Nunung (Jurnal) Sosio-Religia.pdf",
+            "docid": 3713,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "889451f12a3116efb823abb3a894d6d1",
+                  "fileid": 26998,
+                  "datasetid": "document",
+                  "filename": "Nunung (Jurnal) Sosio-Religia.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26998",
+                  "objectid": 3713,
+                  "filesize": 1369466,
+                  "mtime": "2017-08-21 02:51:42",
+                  "hash_type": "MD5"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3713",
+            "eprintid": 3851,
+            "placement": 1
+          }
+      ],
+      "userid": 786,
+      "number": 4
+    },
+    {
+      "userid": 786,
+      "number": 2,
+      "lastmod": "2017-11-10 14:07:25",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 3715,
+            "main": "Nunung (Jurnal) ta'alim.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 27011,
+                  "hash": "424b5ff389f59f9e6ecceb23f0cd8075",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1037042,
+                  "objectid": 3715,
+                  "filename": "Nunung (Jurnal) ta'alim.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27011",
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-21 03:09:59"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3715",
+            "pos": 1,
+            "eprintid": 3853,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2017-11-10 14:07:25",
+      "eprint_status": "archive",
+      "eprintid": 3853,
+      "metadata_visibility": "show",
+      "pagerange": "83-94",
+      "creators": [
+        {
+          "name": {
+            "given": "Nunung",
+            "honourific": null,
+            "family": "Nunung Rodliyah",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Hukum Keluarga Berencana Dialog Antara Sains dan Agama",
+      "refereed": "FALSE",
+      "volume": 4,
+      "date": 2008,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3853",
+      "subjects": [
+        "K1"
+      ],
+      "full_text_status": "public",
+      "issn": "0216-5198",
+      "status_changed": "2017-11-10 14:07:25",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "divisions": [
+        "FH3"
+      ],
+      "publisher": "Fakultas Agama Islam Universitas Muhammadiyah Lampung",
+      "publication": "Ta'lim",
+      "dir": "disk0\/00\/00\/38\/53"
+    },
+    {
+      "date": "2008-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18172",
+      "subjects": [
+        "K1"
+      ],
+      "status_changed": "2020-02-25 04:05:30",
+      "full_text_status": "public",
+      "issn": "1978-5186",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "Fakultas Hukum",
+      "publication": "Fiat Justisia",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/81\/72",
+      "userid": 769,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 31312,
+            "main": "Review Upik H Pengawasan Terhadap P2KP-3.pdf",
+            "files": [
+                {
+                  "mtime": "2020-02-24 03:23:43",
+                  "hash_type": "MD5",
+                  "filename": "Review Upik H Pengawasan Terhadap P2KP-3.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153040",
+                  "objectid": 31312,
+                  "filesize": 143716,
+                  "mime_type": "application\/pdf",
+                  "hash": "e6637c1795a11140c5564964cc899989",
+                  "datasetid": "document",
+                  "fileid": 153040
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31312",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18172
+          }
+      ],
+      "lastmod": "2020-02-25 04:05:30",
+      "eprint_status": "archive",
+      "eprintid": 18172,
+      "datestamp": "2020-02-25 04:05:30",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Upik",
+            "given": "Hamidah"
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "Pengawasan Terhadap P2KP-3 Di Tataran Masyarakat Kota Bandar Lampung Terdaftar di Lembaga Penelitian Universitas Lampung"
+    },
+    {
+      "full_text_status": "public",
+      "issn": "1978-5186",
+      "status_changed": "2023-05-12 03:37:31",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "publication": "Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0_bak\/00\/05\/14\/73",
+      "volume": 2,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51473",
+      "date": "2008-05",
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "firganefi",
+            "lineage": null,
+            "honourific": null,
+            "given": "firganefi"
+          },
+          "id": "firganefi.unila@gmail.com"
+        }
+      ],
+      "type": "article",
+      "title": "Kebijakan Kriminal Terhadap Pelaku Tindak Pidana Incest",
+      "refereed": "TRUE",
+      "userid": 903,
+      "number": 2,
+      "lastmod": "2023-05-12 03:37:31",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Jurnal Fiat.pdf",
+            "docid": 248752,
+            "files": [
+                {
+                  "hash": "9e6705952fa5918f8972356ed268792f",
+                  "mime_type": "application\/pdf",
+                  "fileid": 609747,
+                  "datasetid": "document",
+                  "mtime": "2023-05-12 03:11:43",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal Fiat.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/609747",
+                  "filesize": 8960458,
+                  "objectid": 248752
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248752",
+            "eprintid": 51473,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2023-05-12 03:37:31",
+      "eprint_status": "archive",
+      "eprintid": 51473,
+      "metadata_visibility": "show",
+      "pagerange": "169-177"
+    }
+]
+

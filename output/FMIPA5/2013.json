@@ -1,0 +1,212 @@
+[
+    {
+      "status_changed": "2020-10-05 08:39:10",
+      "issn": "2301-6590",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "publication": "2nd International Conference on Engineering and Technology Development (ICETD 2013)",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "dir": "disk0\/00\/02\/42\/70",
+      "related_url": [
+        {
+          "url": "http:\/\/artikel.ubl.ac.id\/index.php\/icetd\/article\/view\/169\/999"
+        }
+      ],
+      "abstract": "Studies on the influence of magnetic fields on plant growth and development provide a promising prospect in the field of agricultural engineering. But there are still many obstacles encountered, because the plant response to the magnetic field treatment varies depending on the strength, intensity, and duration of exposure. Type, age, as well as parts of the plant are used also gives a different response to magnetic field treatment.\r\nPrevious studies showed that a magnetic field can increase the germination of some seeds of agricultural crops. In this study, The entire treatment duration of exposure 0.1 mT magnetic field causes an increase in -amylase activity in all legume seedlings observed. Fluctuations in enzyme activity during the germination of kidney bean seedlings are relatively the same as the black turtle bean, as well as enzyme activity in soybean and mung bean. But between the two groups of seedling legumes (kidney beans and black turtle beans vs. Soybeans and green beans) show a very clear difference fluctuations enzyme activity during germination.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24270",
+      "date": 2013,
+      "subjects": [
+        "QK"
+      ],
+      "date_type": "published",
+      "type": "article",
+      "creators": [
+        {
+          "id": "rochmah.agustrina@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Agustrina",
+            "lineage": null,
+            "given": "Rochmah"
+          }
+        },
+        {
+          "id": "tundjungtripeni@yahoo.com",
+          "name": {
+            "given": "T.T.",
+            "family": "Handayani",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sumardi",
+            "lineage": null,
+            "given": "Sumardi"
+          },
+          "id": "sumardi_bio@yahoo.co.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "OBSERVATION OF THE EFFECT OF STATIC MAGNETIC FIELD 0.1 MT ON -AMYLASE ACTIVITY IN LEGUME GERMINATION",
+      "userid": 965,
+      "documents": [
+          {
+            "main": "P 5 2013 observation of the effect of COMPRESS.pdf",
+            "files": [
+                {
+                  "hash": "9c9a951e051035c931500ccc2ef7eedd",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 220896,
+                  "filename": "P 5 2013 observation of the effect of COMPRESS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/220896",
+                  "objectid": 37991,
+                  "filesize": 122489,
+                  "mtime": "2020-10-04 21:59:36",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 37991,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 24270,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37991",
+            "security": "public"
+          },
+          {
+            "placement": 2,
+            "eprintid": 24270,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37992",
+            "pos": 2,
+            "formatdesc": "Proceding",
+            "security": "public",
+            "main": 999,
+            "docid": 37992,
+            "files": [
+                {
+                  "objectid": 37992,
+                  "filesize": 16789,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/220899",
+                  "filename": 999,
+                  "hash_type": "MD5",
+                  "mtime": "2020-10-04 22:00:18",
+                  "datasetid": "document",
+                  "fileid": 220899,
+                  "mime_type": "application\/xml",
+                  "hash": "cac6b0936c65c7883ffb100dc1db7cc8"
+                }
+            ],
+            "format": "text",
+            "rev_number": 3,
+            "language": "en",
+            "mime_type": "application\/xml"
+          }
+      ],
+      "lastmod": "2020-10-05 08:39:10",
+      "eprint_status": "archive",
+      "eprintid": 24270,
+      "datestamp": "2020-10-05 08:39:10",
+      "metadata_visibility": "show"
+    },
+    {
+      "event_type": "conference",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "dir": "disk0\/00\/00\/39\/45",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2018-06-25 02:27:55",
+      "full_text_status": "public",
+      "subjects": [
+        "QK"
+      ],
+      "event_title": "International Conference on Engineering and Technology Development (ICETD)",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3945",
+      "date": "2013-08-29",
+      "abstract": "Studies on the influence of magnetic fields on plant growth and development provide a promising prospect in the field of agricultural engineering. But there are still many obstacles encountered, because the plant response to the magnetic field treatment varies depending on the strength, intensity, and duration of exposure. Type, age, as well as parts of the plant are used also gives a different response to magnetic field treatment. Previous studies showed that a magnetic field can increase the germination of some seeds of agricultural crops. In this study, The entire treatment duration of exposure 0.1 mT magnetic  α -amylase activity in all legume seedlings observed. Fluctuations field causes an increase in  in enzyme activity during the germination of kidney bean seedlings are relatively the same as the black turtle bean, as well as enzyme activity in soybean and mung bean. But between the two groups of seedling legumes (kidney beans and black turtle beans vs. Soybeans and green beans) show a very clear difference fluctuations enzyme activity during germination.",
+      "refereed": "TRUE",
+      "event_dates": "27-29 August 2013",
+      "title": "OBSERVATION OF THE EFFECT OF STATIC MAGNETIC FIELD  0.1 MT ON α-AMYLASE ACTIVITY IN LEGUME GERMINATION",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rochmah",
+            "honourific": null,
+            "given": "Agustrina"
+          },
+          "id": "agustrina@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Tundjung",
+            "given": "Tripeni Handayani"
+          }
+        },
+        {
+          "id": "sumardi_bio@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Sumardi",
+            "lineage": null,
+            "given": "Sumardi"
+          }
+        }
+      ],
+      "event_location": "Bandar Lampung",
+      "pagerange": "405-412",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 3945,
+      "datestamp": "2018-06-25 02:27:55",
+      "documents": [
+          {
+            "eprintid": 3945,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3800",
+            "pos": 1,
+            "format": "text",
+            "docid": 3800,
+            "main": "international conference 2013(UBL).pdf",
+            "files": [
+                {
+                  "mtime": "2017-09-20 02:12:59",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27603",
+                  "filename": "international conference 2013(UBL).pdf",
+                  "objectid": 3800,
+                  "filesize": 1426733,
+                  "hash": "e3e578e27d99b6d83aa6a8968f69d034",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 27603
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "official_url": "http:\/\/id.portalgaruda.org\/?ref=browse&mod=viewarticle&article=158746",
+      "lastmod": "2018-06-25 02:27:55",
+      "userid": 965
+    }
+]
+

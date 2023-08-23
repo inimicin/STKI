@@ -1,0 +1,71 @@
+[
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2016-08-22 06:52:38",
+      "full_text_status": "none",
+      "divisions": [
+        "FP8"
+      ],
+      "publication": "Plant Biotechnology Report",
+      "dir": "disk0\/00\/00\/03\/73",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/373",
+      "date": 2009,
+      "abstract": "One of the limitations to conducting maize Agrobacterium-mediated transformation using explants of immature zygotic embryos routinely is the availability of the explants. To produce immature embryos routinely and continuously requires a well-equipped greenhouse and laborious artificial pollination. To overcome this limitation, an Agrobacterium-mediated transformation system using explants of type II embryogenic calli was developed. Once the type II embryogenic calli are produced, they can be subcultured and\/or proliferated conveniently. The objectives of this study were to demonstrate a stable Agrobacterium-mediated transformation of maize using explants of type II embryonic calli and to evaluate the efficiency of the protocol in order to develop herbicide-resistant maize. The type II embryogenic calli were inoculated with Agrobacterium tumefaciens strain C58C1 carrying binary vector pTF102, and then were subsequently cultured on the following media: co-cultivation medium for 1 day, delay medium for 7 days, selection medium for 4 × 14 days, regeneration medium, and finally on germination medium. The T-DNA of the vector carried two cassettes (Ubi promoter-EPSPs ORF-nos and 35S promoter–bar ORF-nos). The EPSPs conferred resistance to glyphosate and bar conferred resistance to phosphinothricin. The confirmation of stable transformation and the efficiency of transformation was based on the resistance to phosphinothricin indicated by the growth of putative transgenic calli on selection medium amended with 4 mg l−1 phosphinothricin, northern blot analysis of bar gene, and leaf painting assay for detection of bar gene-based herbicide resistance. Northern blot analysis and leaf painting assay confirmed the expression of bar transgenes in the R1 generation. The average transformation efficiency was 0.60%. Based on northern blot analysis and leaf painting assay, line 31 was selected as an elite line of maize resistant to herbicide.",
+      "subjects": [
+        "SB"
+      ],
+      "refereed": "TRUE",
+      "title": "The development of herbicide-resistant maize: stable Agrobacterium-mediated transformation of maize using explants of type II embryogenic calli",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "H. A.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kim"
+          },
+          "id": null
+        },
+        {
+          "id": "setyo.dwiutomo@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Utomo",
+            "given": "Setyo Dwi"
+          }
+        }
+      ],
+      "lastmod": "2016-08-22 06:52:38",
+      "userid": 1078,
+      "contributors": [
+        {
+          "id": null,
+          "name": {
+            "given": "H",
+            "lineage": null,
+            "family": "Kim",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "setyo.dwiutomo@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Utomo",
+            "lineage": null,
+            "given": "Setyo"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 373,
+      "eprint_status": "archive",
+      "datestamp": "2016-08-22 06:52:38"
+    }
+]
+

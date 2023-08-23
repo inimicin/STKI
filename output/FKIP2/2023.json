@@ -1,0 +1,92 @@
+[
+    {
+      "date": "2023-01-31",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50024",
+      "abstract": "Penelitian ini bertujuan untuk mengeksplorasi saran dari perspektif Gen Z sebagai pengguna aktif media sosial terhadap konten bertema psikologis yang beredar di berbagai platform media sosial. Survei kualitatif menggunakan aplikasi google form dilakukan kepada 917 partisipan dengan rentang usia 17 – 22 tahun yang terjaring melalui metode voluntary sampling. Total data yang terkumpul adalah 19.331 kata dengan rata - rata kata per-partisipan adalah 21,08 kata. Data dianalisis menggunakan Teknik thematic analysis dengan bantuan aplikasi ATLAS.ti. versi 8.4.3 for Mac. Berdasarkan hasil analisis data, diketahui bahwa saran Gen Z kepada content creator mengerucut kepada 4 tema, yaitu : 1. Pemilihan bahasa untuk menyampaikan konten, 2. Pengaturan gaya komunikasi dalam menyampaikan narasi konten, 3. Memperhatikan kualitas isi konten dan 4. Mengatur aspek teknis dalam mempublikasikan konten. Temuan ini dapat membantu para content creator untuk dapat membuat konten psikologis yang lebih relevan dan bermanfaat bagi Gen Z.",
+      "volume": 7,
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2541-2779",
+      "status_changed": "2023-04-10 04:16:26",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/ijec.ejournal.id\/index.php\/counseling\/article\/view\/234"
+        }
+      ],
+      "publication": "Indonesian Journal of Educational Counseling",
+      "publisher": "Universitas Mathla'ul Anwar Banten",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0_bak\/00\/05\/00\/24",
+      "official_url": "http:\/\/ijec.ejournal.id\/index.php\/counseling",
+      "lastmod": "2023-04-10 04:16:26",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 50024,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189714",
+            "security": "public",
+            "main": "2022 - Konten Bertema Psikologis.pdf",
+            "docid": 189714,
+            "files": [
+                {
+                  "hash": "83865d173a28543f73d59c9784037565",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 541232,
+                  "mtime": "2023-04-10 03:16:45",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/541232",
+                  "filename": "2022 - Konten Bertema Psikologis.pdf",
+                  "objectid": 189714,
+                  "filesize": 539558
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 18899,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "75-84",
+      "datestamp": "2023-04-10 04:16:26",
+      "id_number": "10.30653\/001.202371.234",
+      "eprint_status": "archive",
+      "eprintid": 50024,
+      "title": "Perspektif Gen Z terkait Konten Bertema Psikologis di Media Sosial",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "mochjohanp@fkip.unila.ac.id",
+          "name": {
+            "given": "Moch Johan",
+            "family": "Pratama",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rahmayanthi",
+            "given": "Ranni"
+          },
+          "id": "ranni.rahmayanthi@fkip.unila.ac.id"
+        }
+      ],
+      "type": "article"
+    }
+]
+

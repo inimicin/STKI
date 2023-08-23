@@ -1,0 +1,95 @@
+[
+    {
+      "divisions": [
+        "FP11"
+      ],
+      "publisher": "AURA",
+      "dir": "disk0\/00\/00\/66\/73",
+      "full_text_status": "public",
+      "status_changed": "2018-04-11 04:42:52",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "SD"
+      ],
+      "book_title": "Pengelolaan Hutan dan DAS Berbasis Masyarakat: Pembelajaran dari Way Besai Lampung",
+      "abstract": "Dalam konteks ilmu, buku ini menambah khasanah pengetahuan bagi para pihak dalam rangka mendeskripsikan langkah-langkah metodik sebuah proyek. Hal ini mungkin salah satu keunggulan dari proyek SCBFWM ini, karena selain dilaksanakan dengan metode praktis\" namun didasarkan atas sebuah langkah-langkah metodik yang baik.\r\nPembelajaran dari pelaksanaan di lapang memberi inspirasi kepada kami sebagai penyunting bahwa inisiatif proyek yang memberikan akses besar kepada maryarakat untuk berpartisipasi merupakan elemen penting sebuah proyek yang baik. Bila dilihat dari inisiatif masyarakat kecil dalam rangka meningkatkan kesejahteraan mereka, namun dalam bingkaian konservasi sumberdaya hutan dan air, dan berbiaya kecil, telah memberi inspirasi tentang cost effectiveners proyek. Maksudnya, sebuah inisiatif yang berbiaya kecil pun, dapat memberikan manfaat yang besar dan ganda yaitu meningkatnya kesejahteraan masyarakat dan terjaminnya kelestarian sumberdaya hutan maupun air sesuai sekali dengan cita-cita UU No. 19 tahun 2004 pengganti UU No. 19 tahun 1999 tentang Kehutanan. Tidak hanya itu, pengelolaan hutan dan DAS dipercaya bukan merupakan domain Kementerian Kehutanan atau Satuan Kerja Kehutanan, tapi merupakan (seharusnya) kerja bareng yang sinerji antarpihak. Hal ini terungkap jelas dari tulisan tentang pembelajaran Daerah Alirari \" Sungai Tulang Bawang. Hal ini merupakan elemen kunci dari seluruh aktivitas proyek SCBFWM yaitu membutuhkan dukungan para pihak, tidak hanya dilaksana,kan oleh proyek itu sendiri.",
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6673",
+      "isbn": "978-602-9326-58-1",
+      "creators": [
+        {
+          "name": {
+            "given": "Christine",
+            "honourific": null,
+            "family": "Wulandari",
+            "lineage": null
+          },
+          "id": "christine.wulandari@fp.unila.ac.id"
+        }
+      ],
+      "type": "book_section",
+      "title": "Diversifikasi Hasil Agroforestri di Sekitar Hutan Sumberjaya dan DAS Way Besai",
+      "refereed": "TRUE",
+      "place_of_pub": "Bandarlampung",
+      "datestamp": "2018-04-11 04:42:52",
+      "editors": [
+        {
+          "id": "Wan_abbas@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Zakaria",
+            "honourific": null,
+            "given": "Wan Abbas"
+          }
+        },
+        {
+          "id": "zainal.abidin@fp.unila.ac.id",
+          "name": {
+            "given": "Zainal",
+            "lineage": null,
+            "family": "Abidin",
+            "honourific": null
+          }
+        }
+      ],
+      "eprintid": 6673,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "92-108",
+      "userid": 981,
+      "lastmod": "2018-04-11 04:42:52",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Diversifikasi Hasil Agroforestri di sekitar Hutan Sumberjaya dan DAS Way Besai.pdf",
+            "docid": 19637,
+            "files": [
+                {
+                  "fileid": 61475,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "d37b6488bac1d65d28383151e02be9be",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-07 05:23:46",
+                  "objectid": 19637,
+                  "filesize": 19212762,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61475",
+                  "filename": "Diversifikasi Hasil Agroforestri di sekitar Hutan Sumberjaya dan DAS Way Besai.pdf"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19637",
+            "eprintid": 6673,
+            "placement": 1
+          }
+      ],
+      "pages": 273
+    }
+]
+

@@ -1,0 +1,3129 @@
+[
+    {
+      "subjects": [
+        "TP"
+      ],
+      "date": "2020-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18971",
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "DJKI Kemhukham RI",
+      "dir": "disk0\/00\/01\/89\/71",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-04-06 01:24:41",
+      "metadata_visibility": "show",
+      "datestamp": "2020-04-06 01:24:41",
+      "eprint_status": "archive",
+      "eprintid": 18971,
+      "lastmod": "2020-04-06 01:24:41",
+      "documents": [
+          {
+            "eprintid": 18971,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32211",
+            "format": "text",
+            "main": "Turnitin SRUF Repository Unila.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-05 07:45:49",
+                  "filesize": 337062,
+                  "objectid": 32211,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/159182",
+                  "filename": "Turnitin SRUF Repository Unila.pdf",
+                  "datasetid": "document",
+                  "fileid": 159182,
+                  "mime_type": "application\/pdf",
+                  "hash": "1418340f35c5eed17805f76a78f7977a"
+                }
+            ],
+            "docid": 32211,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 390,
+      "title": "Similarity Check: Turnitin PEMBUATAN PUPUK UREA LEPAS LAMBAT SECARA BATCH DENGAN SUBSTRAT BENTONIT ALAM LAMPUNG DAN BAHAN PENGIKAT TEPUNG JAGUNG ATAU\r\nHYDROXYLPROPYL METHYL CELLULOSE (HPMC) MELALUI\r\nMETODE INTERKALASI",
+      "type": "other",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Agustian",
+            "honourific": null,
+            "given": "Joni"
+          }
+        }
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2020-04-06 01:19:49",
+      "eprintid": 18969,
+      "eprint_status": "archive",
+      "lastmod": "2020-04-06 01:19:49",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32209",
+            "pos": 1,
+            "eprintid": 18969,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Turnitin Paten Alfaamilase repository Unila.pdf",
+            "files": [
+                {
+                  "fileid": 159168,
+                  "datasetid": "document",
+                  "hash": "d131e0aeac8f1a47dc9fc0bcb4357f9f",
+                  "mime_type": "application\/pdf",
+                  "objectid": 32209,
+                  "filesize": 325180,
+                  "filename": "Turnitin Paten Alfaamilase repository Unila.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/159168",
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-05 07:39:49"
+                }
+            ],
+            "docid": 32209
+          }
+      ],
+      "userid": 390,
+      "title": "Similarity Check: Turnitin PROSES PEMBUATAN ENZIM ALFA-AMILASE TERIMOBILISASI PADA PENYANGGA SILIKA BUSA SELULER MESOSTRUKTUR",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "family": "Agustian",
+            "lineage": null,
+            "honourific": null,
+            "given": "Joni"
+          }
+        }
+      ],
+      "type": "other",
+      "subjects": [
+        "TP"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18969",
+      "date": "2020-01",
+      "publisher": "DJKI Kemhukham RI",
+      "dir": "disk0\/00\/01\/89\/69",
+      "divisions": [
+        "FT6"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2020-04-06 01:19:49"
+    },
+    {
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37966",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 24247,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Corresponding Author BCREC.pdf",
+            "docid": 37966,
+            "files": [
+                {
+                  "mtime": "2020-09-30 11:56:39",
+                  "hash_type": "MD5",
+                  "filename": "Corresponding Author BCREC.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/220694",
+                  "filesize": 279769,
+                  "objectid": 37966,
+                  "hash": "f5406538ac2712509434b65ca84cad11",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 220694
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2020-10-01 01:08:45",
+      "userid": 390,
+      "metadata_visibility": "show",
+      "eprintid": 24247,
+      "eprint_status": "archive",
+      "datestamp": "2020-10-01 01:08:45",
+      "title": "Corresponding Author BCREC",
+      "type": "other",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "given": "Joni",
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustian"
+          }
+        },
+        {
+          "name": {
+            "given": "Lilis",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hermida"
+          },
+          "id": "lilis.hermida@eng.unila.ac.id"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24247",
+      "date": "2020-09-30",
+      "abstract": "Corresponding Author BCREC",
+      "subjects": [
+        "TP"
+      ],
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "status_changed": "2020-10-01 01:08:45",
+      "full_text_status": "public",
+      "publisher": "FT Unila",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/02\/42\/47"
+    },
+    {
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2020-10-01 01:09:00",
+      "publisher": "FT Unila",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/02\/42\/48",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24248",
+      "date": "2020-09-30",
+      "subjects": [
+        "TP"
+      ],
+      "title": "Corresponding Author ECTJ",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Joni",
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustian"
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Lilis",
+            "family": "Hermida",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "lilis.hermida@eng.unila.ac.id"
+        }
+      ],
+      "lastmod": "2020-10-01 01:09:00",
+      "documents": [
+          {
+            "eprintid": 24248,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37967",
+            "format": "text",
+            "main": "Corresponding Author ECTJ.pdf",
+            "files": [
+                {
+                  "mtime": "2020-09-30 11:58:34",
+                  "hash_type": "MD5",
+                  "filename": "Corresponding Author ECTJ.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/220701",
+                  "filesize": 188734,
+                  "objectid": 37967,
+                  "hash": "5a36c35632ea3e631f3c41d27925b4b1",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 220701
+                }
+            ],
+            "docid": 37967,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 390,
+      "metadata_visibility": "show",
+      "datestamp": "2020-10-01 01:09:00",
+      "eprintid": 24248,
+      "eprint_status": "archive"
+    },
+    {
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/01\/89\/79",
+      "ispublished": "pub",
+      "rev_number": 4,
+      "full_text_status": "public",
+      "succeeds": 18975,
+      "status_changed": "2020-04-06 01:17:46",
+      "date_type": "completed",
+      "subjects": [
+        "TP"
+      ],
+      "date": "2020-01-16",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18979",
+      "patent_applicant": "Joni Agustian, Lilis Hermida",
+      "title": "PATEN PROSES PEMBUATAN ENZIM ALFA-AMILASE TERIMOBILISASI PADA PENYANGGA SILIKA BUSA SELULER MESOSTRUKTUR",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Agustian",
+            "honourific": null,
+            "given": "Joni"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hermida",
+            "given": "Lilis"
+          },
+          "id": "lilis.hermida@eng.unila.ac.id"
+        }
+      ],
+      "type": "patent",
+      "metadata_visibility": "show",
+      "datestamp": "2020-04-06 01:17:46",
+      "id_number": "IDP000066488",
+      "eprint_status": "archive",
+      "eprintid": 18979,
+      "lastmod": "2020-04-06 01:17:46",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32219",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18979,
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Paten Alfa Granted.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-05 13:05:57",
+                  "filesize": 140825,
+                  "objectid": 32219,
+                  "filename": "Paten Alfa Granted.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/159235",
+                  "fileid": 159235,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "e5f0997b0c35f7a96a0cc62aa4adf4f0"
+                }
+            ],
+            "docid": 32219,
+            "format": "text"
+          }
+      ],
+      "userid": 390
+    },
+    {
+      "userid": 390,
+      "lastmod": "2020-04-06 01:17:27",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "84c32b8888e3258ac9b7f9d484f49ce3",
+                  "datasetid": "document",
+                  "fileid": 159231,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/159231",
+                  "filename": "1 Paten Gluko Granted.pdf",
+                  "filesize": 147147,
+                  "objectid": 32218,
+                  "mtime": "2020-04-05 13:16:20",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "1 Paten Gluko Granted.pdf",
+            "docid": 32218,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32218",
+            "pos": 1,
+            "eprintid": 18978,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2020-04-06 01:17:27",
+      "eprint_status": "archive",
+      "id_number": "IDP000066119",
+      "eprintid": 18978,
+      "metadata_visibility": "show",
+      "type": "patent",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "family": "Agustian",
+            "lineage": null,
+            "honourific": null,
+            "given": "Joni"
+          }
+        },
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "family": "Hermida",
+            "lineage": null,
+            "honourific": null,
+            "given": "Lilis"
+          }
+        }
+      ],
+      "title": "PATEN PROSES PEMBUATAN ENZIM GLUKOAMILASE TERIMOBILISASI PADA PENYANGGA SILIKA BUSA SELULER MESOSTRUKTUR SECARA ADSORPSI",
+      "patent_applicant": "Joni Agustian, Lilis Hermida",
+      "date": "2020-01-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18978",
+      "date_type": "completed",
+      "subjects": [
+        "TP"
+      ],
+      "full_text_status": "public",
+      "succeeds": 18976,
+      "status_changed": "2020-04-06 01:17:27",
+      "ispublished": "pub",
+      "rev_number": 4,
+      "dir": "disk0\/00\/01\/89\/78",
+      "divisions": [
+        "FT6"
+      ]
+    },
+    {
+      "documents": [
+          {
+            "eprintid": 28283,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42328",
+            "pos": 1,
+            "format": "text",
+            "docid": 42328,
+            "main": "P00201609155-IDP000066488-Joni-Lilis.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251549",
+                  "filename": "P00201609155-IDP000066488-Joni-Lilis.pdf",
+                  "objectid": 42328,
+                  "filesize": 18381047,
+                  "mtime": "2021-03-08 21:26:45",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "4c297f2d8f9eb143586bdcd4fc3d81e7",
+                  "fileid": 251549,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pages": 19,
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/detail\/P00201609155?type=patent&keyword=amilase",
+      "lastmod": "2021-03-09 02:47:50",
+      "userid": 390,
+      "metadata_visibility": "show",
+      "id_number": "IDP00006448",
+      "eprint_status": "archive",
+      "eprintid": 28283,
+      "datestamp": "2021-03-09 02:47:50",
+      "title": "PROSES PEMBUATAN ENZIM ALFA-AMILASE TERIMOBILISASI PADA\r\nPENYANGGA SILIKA BUSA SELULER MESOSTRUKTUR",
+      "creators": [
+        {
+          "name": {
+            "given": "Joni",
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustian"
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Lilis",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hermida"
+          },
+          "id": "lilis.hermida@eng.unila.ac.id"
+        }
+      ],
+      "type": "patent",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28283",
+      "date": "2020-01-16",
+      "patent_applicant": "LPPM Unila",
+      "abstract": "Invensi ini berhubungan dengan proses imobilisasi enzim bebas alfa-amilase SQzyme-BAP pada penyangga anorganik silika mesoporous cellular foam (silika MCF-(9.2T-3D)) secara adsorpsi untuk menghasilkan tingkat enzim terimobilisasi yang tinggi dengan memvariasikan faktor-faktor operasi proses imobilisasi dan pengamatan efektivitas produk enzim alfa-amilase terimobilisasi\r\ndalam proses hidrolisis tepung tapioka.",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2021-03-09 02:47:50",
+      "full_text_status": "public",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/02\/82\/83"
+    },
+    {
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/02\/82\/84",
+      "status_changed": "2021-03-09 02:48:09",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "patent_applicant": "LPPM Unila",
+      "abstract": "Invensi ini berhubungan dengan pengembangan teknologi untuk\r\nmenghasilkan enzim glukoamilase terimobilisasi dengan tingkat imobilisasi enzim yang tinggi pada penyangga silika mesoporous cellular foam (silika MCF) dengan metode adsorpsi dan penggunaan enzim glukoamilase terimobilisasi pada proses hidrolisis pati tapioka.",
+      "date": "2020-01-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28284",
+      "creators": [
+        {
+          "name": {
+            "family": "Agustian",
+            "lineage": null,
+            "honourific": null,
+            "given": "Joni"
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Lilis",
+            "honourific": null,
+            "family": "Hermida",
+            "lineage": null
+          },
+          "id": "lilis.hermida@eng.unila.ac.id"
+        }
+      ],
+      "type": "patent",
+      "title": "PROSES PEMBUATAN ENZIM GLUKOAMILASE TERIMOBILISASI PADA\r\nPENYANGGA SILIKA BUSA SELULER MESOSTRUKTUR SECARA ADSORPSI",
+      "id_number": "IDP000066119",
+      "eprint_status": "archive",
+      "eprintid": 28284,
+      "datestamp": "2021-03-09 02:48:09",
+      "metadata_visibility": "show",
+      "userid": 390,
+      "pages": 22,
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 42329,
+                  "filesize": 20349876,
+                  "filename": "P00201609156-IDP0000661190-Joni-Lilis.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251556",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-08 21:41:39",
+                  "fileid": 251556,
+                  "datasetid": "document",
+                  "hash": "60371a258e32220f688d3bf71efdaffd",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "P00201609156-IDP0000661190-Joni-Lilis.pdf",
+            "docid": 42329,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 28284,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42329",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2021-03-09 02:48:09",
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/detail\/P00201609156?type=patent&keyword=glukoamilase"
+    },
+    {
+      "number": 1,
+      "userid": 951,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34727",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 21330,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "content": "published",
+            "main": "document.pdf",
+            "files": [
+                {
+                  "hash": "5a54b2d32b6511afd0cc82a48c22cebe",
+                  "mime_type": "application\/pdf",
+                  "fileid": 198366,
+                  "datasetid": "document",
+                  "mtime": "2020-06-01 03:01:55",
+                  "hash_type": "MD5",
+                  "filename": "document.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/198366",
+                  "objectid": 34727,
+                  "filesize": 774194
+                }
+            ],
+            "docid": 34727,
+            "format": "text"
+          }
+      ],
+      "official_url": "https:\/\/journalbalitbangdalampung.org\/index.php\/jip\/article\/view\/170",
+      "lastmod": "2020-06-01 05:44:28",
+      "eprint_status": "archive",
+      "eprintid": 21330,
+      "datestamp": "2020-06-01 05:44:28",
+      "pagerange": "17-28",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "edwinazwar@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Azwar",
+            "lineage": null,
+            "given": "Edwin"
+          }
+        },
+        {
+          "id": "siskaoktorina.simbolon@gmail.com",
+          "name": {
+            "given": "Siska Oktorina",
+            "family": "Simbolon",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "Karakterisasi Plastik Pengemas Makanan dari Tepung Maizena dan Batang Pisang",
+      "volume": 8,
+      "abstract": "Edible film sebagai plastik pengemas makanan dari pati jagung dan plasticizer hasil likuifaksi batang pisang disiapkan untuk mengevaluasi pengaruh penambahan plasticizer terhadap sifat mekanis, gugu fungsi, dan ketahanan airnya. Formulasi pati:plasticizer yang digunakan dalam penelitian ini adalah 4:0, 4:2, 4:3, 4:4, 4:5, 5:0, 5:2, 5:3, 5:4, 5:5, 6:0, 6:2, 6:3, 6:4, 6:5, 7:0, 7:2, 7:3, 7:4, 7:5 (gr\/gr), ukuran batang pisang untuk proses likuifaksi lolos ayakan 200 mesh dan waktu pengadukan proses pembuatan edible film 30 menit pada kecepatan 135 rpm. Untuk mengetahui karakteristik edible film dilakukan beberapa analisis yaitu uji sifat mekanik (kuat tarik, persen perpanjangan dan modulus young), daya serap air dan FTIR. Nilai kuat tarik, persen perpanjangan dan modulus young tertinggi pada penelitian ini diperoleh pada formulasi pati:plasticizer berturut-turut 6:0, 7:5, dan 4:0, dengan nilai  16,76  Mpa,  14,29%  dan  511,34  Mpa.  Film  dengan  nilai  tersebut  telah  sesuai  dengan  standar  edible  film. Penambahan  plasticizer  hasil  likuifaksi  juga  berpengaruh  terhadap  ketahanan  air  pada  film,  dimana  semakin banyak  plasticizer  ditambahkan,   semakin   kecil  air   yang  diserap  oleh   film.  Hasil  analisis  dengan  FTIR menunjukkan bahwa panjang gelombang nya tidak mengalami perubahan yang berarti. Hal itu berarti bahwa film pati yang dihasilkan merupakan proses blending secara fisika karena tidak ditemukannya gugus fungsi baru.",
+      "date": "2020-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21330",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "status_changed": "2020-06-01 05:44:28",
+      "issn": "P-ISSN 2354-5704; E-ISSN 2622-190X",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "Badan Penelitian dan Pengembangan Daerah Provinsi Lampung",
+      "publication": "Inovasi Pembangunan - Jurnal Kelitbangan",
+      "dir": "disk0\/00\/02\/13\/30",
+      "related_url": [
+        {
+          "url": "https:\/\/journalbalitbangdalampung.org\/index.php\/jip\/article\/view\/170\/127"
+        }
+      ]
+    },
+    {
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "date": "2020-07-20",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41153",
+      "publisher": "pubmed",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/04\/11\/53",
+      "status_changed": "2022-04-07 06:37:40",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "id_number": "10.1177\/0734242X20938438",
+      "eprintid": 41153,
+      "eprint_status": "archive",
+      "datestamp": "2022-04-07 06:37:40",
+      "metadata_visibility": "show",
+      "userid": 636,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "CamScanner 02-14-2022 08.47_Briket.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 456799,
+                  "hash": "5c1dfc7c1f50b9417e7fbfe0fb3ca3e5",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1348755,
+                  "objectid": 162612,
+                  "filename": "CamScanner 02-14-2022 08.47_Briket.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456799",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-07 04:10:28"
+                }
+            ],
+            "docid": 162612,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162612",
+            "pos": 1,
+            "eprintid": 41153,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/32686610\/",
+      "lastmod": "2022-04-07 06:37:40",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Brunerová",
+            "honourific": null,
+            "given": "anna"
+          },
+          "id": "brunerova@tf.czu.cz"
+        },
+        {
+          "id": "udinha65@gmail.com",
+          "name": {
+            "given": "Udin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hasanudin"
+          }
+        },
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "given": "Dewi Agustina",
+            "honourific": null,
+            "lineage": null,
+            "family": "Iryani"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Herák",
+            "lineage": null,
+            "given": "david"
+          },
+          "id": "herak@tf.czu.cz"
+        }
+      ],
+      "title": "Plagiarism checker: Briquetting of sugarcane bagasse as a proper waste management technology in Vietnam",
+      "place_of_pub": "waste management research"
+    },
+    {
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "date": "2020-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41164",
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "pubmed.gov",
+      "dir": "disk0\/00\/04\/11\/64",
+      "status_changed": "2022-04-08 01:14:13",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "eprintid": 41164,
+      "id_number": "10.1177\/0734242X20938438",
+      "eprint_status": "archive",
+      "datestamp": "2022-04-08 01:14:13",
+      "metadata_visibility": "show",
+      "userid": 636,
+      "documents": [
+          {
+            "main": "MyReport 07-Apr-2022_Briquetting.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 456893,
+                  "mime_type": "application\/pdf",
+                  "hash": "329fb68f08576b509892350cf275a0a0",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-07 07:51:40",
+                  "objectid": 162625,
+                  "filesize": 292238,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456893",
+                  "filename": "MyReport 07-Apr-2022_Briquetting.pdf"
+                }
+            ],
+            "docid": 162625,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 41164,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162625",
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/32686610\/",
+      "lastmod": "2022-04-08 01:14:13",
+      "type": "other",
+      "creators": [
+        {
+          "id": "brunerova@tf.czu.cz",
+          "name": {
+            "given": "anna",
+            "honourific": null,
+            "family": "Brunerová",
+            "lineage": null
+          }
+        },
+        {
+          "id": "udinha65@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hasanudin",
+            "given": "Udin"
+          }
+        },
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "family": "Iryani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dewi Agustina"
+          }
+        },
+        {
+          "name": {
+            "given": "david",
+            "honourific": null,
+            "lineage": null,
+            "family": "Herák"
+          },
+          "id": "herak@tf.czu.cz"
+        }
+      ],
+      "title": "plagiarms Chceker: Briquetting of sugarcane bagasse as a proper waste management technology in Vietnam"
+    },
+    {
+      "publication": "Energies",
+      "publisher": "MDPI",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/02\/07\/49",
+      "full_text_status": "public",
+      "issn": "1996-1073",
+      "status_changed": "2020-05-28 02:16:54",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "abstract": "The present study investigates the quality changes of wood bio-briquette fuel after the\r\naddition of spent co�ee ground (SCG) into the initial feedstock materials (sawdust, shavings) in\r\ndi�erent mass ratios (1:1, 1:3). Analysis of SCGs fuel parameter proved great potential for energy\r\ngeneration by a process of direct combustion. Namely, level of calorific value (GCV = 21.58 MJ�kg",
+      "volume": 13,
+      "date": "2020-12-20",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20749",
+      "creators": [
+        {
+          "name": {
+            "given": "anna",
+            "lineage": null,
+            "family": "Brunerová",
+            "honourific": null
+          },
+          "id": "brunerova@tf.czu.cz"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hynex",
+            "lineage": null,
+            "family": "Roubik",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Haryanto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "agus.haryanto@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hasanudin",
+            "family": "udin",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "udin.hasanudin@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Dewi Agustina",
+            "honourific": null,
+            "lineage": null,
+            "family": "Iryani"
+          },
+          "id": "dewi.agustina@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Herak",
+            "honourific": null,
+            "given": "David"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Valorization of Bio-Briquette Fuel by Using Spent\r\nCo�ee Ground as an External Additive",
+      "refereed": "TRUE",
+      "datestamp": "2020-05-28 02:16:54",
+      "eprintid": 20749,
+      "id_number": "doi:10.3390\/en13010054",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1-15",
+      "userid": 636,
+      "number": 54,
+      "lastmod": "2020-05-28 02:16:54",
+      "official_url": "https:\/\/www.mdpi.com\/1996-1073\/13\/1\/54",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 34100,
+            "main": "energies-13-00054_Anna_bricket.pdf",
+            "files": [
+                {
+                  "hash": "3bd595e8c2b14b12fb979ac3e23117c4",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 194374,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/194374",
+                  "filename": "energies-13-00054_Anna_bricket.pdf",
+                  "filesize": 3502762,
+                  "objectid": 34100,
+                  "mtime": "2020-05-27 14:48:16",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34100",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 20749
+          }
+      ]
+    },
+    {
+      "userid": 4371,
+      "number": 1,
+      "official_url": "https:\/\/scholarhub.ui.ac.id\/ajce\/",
+      "lastmod": "2020-11-18 01:26:19",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 39645,
+            "main": "downloadfile.pdf",
+            "files": [
+                {
+                  "filename": "downloadfile.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/232474",
+                  "objectid": 39645,
+                  "filesize": 1004333,
+                  "mtime": "2020-11-17 09:43:37",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "d9987c87c41f59116b46cefde67622c4",
+                  "fileid": 232474,
+                  "datasetid": "document"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39645",
+            "pos": 1,
+            "eprintid": 25849,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2020-11-18 01:26:19",
+      "eprint_status": "archive",
+      "eprintid": 25849,
+      "metadata_visibility": "show",
+      "pagerange": "80-103",
+      "type": "article",
+      "creators": [
+        {
+          "id": "mya_wid@yahoo.com",
+          "name": {
+            "given": "Sri Ismiyati",
+            "honourific": null,
+            "family": "Damayanti",
+            "lineage": null
+          }
+        },
+        {
+          "id": "simparmin@gmail.com",
+          "name": {
+            "given": "Simparmin",
+            "family": "Ginting",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Nawansih",
+            "lineage": null,
+            "honourific": null,
+            "given": "Otik"
+          },
+          "id": "otiknawansih@yahoo.com"
+        },
+        {
+          "id": "siti.hudaidah@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Hudaidah",
+            "lineage": null,
+            "given": "Siti"
+          }
+        }
+      ],
+      "title": "Implementation of biogas-based energy security program and Implementation of biogas-based energy security program and evaluation of its sustainability in Kediri village, Pringsewu district, evaluation of its sustainability in Kediri village, Pringsewu district, Lampung province",
+      "refereed": "TRUE",
+      "abstract": "The Biogas-based energy security program in Kediri Village, Pringsewu District, Lampung Province, aims to provide awareness and knowledge to villagers about the potential of cow dung to be made into biogas and promote awareness of good environment quality. An evaluation of the sustainability of the program in the community was conducted. The methods that were used in this program are (1) socialization to provide awareness of good environment quality and energy security, (2) digester construction and stove and biogas lamp installation, which was carried out by the community together with certified trainers, (3) creation of a master design of the digester layout to ensure the maximum utilization of the digesters, and (4) evaluation to determine opportunities for program sustainability. Results show that the Biogas-based Energy Security Program has succeeded in making the community aware of and accept and apply the technology of processing cow manure into biogas. Biogas has met 100% of the fuel needs for cooking and electricity of biogas-fed houses. The environment quality has also improved, as shown by clean cages and home environments, and methane emissions have reduced. Over the five-year program, 11 out of 20 planned digesters have been built. The program's future sustainability can be continued by the community, provided that alternative sources of funds that can be pursued by the community are available.   \r\nKeywords: energy security; biogas; cow dung; environmental quality; sustainability.",
+      "volume": 4,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25849",
+      "date": "2020-07",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "issn": "E ISSN 2581 0030",
+      "full_text_status": "public",
+      "status_changed": "2020-11-18 01:26:19",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publication": "Asean Journal of Community Engagement",
+      "publisher": "UNIVERSITAS INDONESIA",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/02\/58\/49"
+    },
+    {
+      "divisions": [
+        "FT6"
+      ],
+      "publication": "Jurnal Teknologi dan Inovasi Industri",
+      "dir": "disk0\/00\/02\/21\/47",
+      "status_changed": "2020-06-10 00:55:10",
+      "full_text_status": "public",
+      "issn": "ISSN 2722-0184, e-ISSN 2722-0192",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "subjects": [
+        "TP"
+      ],
+      "volume": 1,
+      "abstract": "Penelitian ini bertujuan untuk mensintesis serat selulosa dari batang sorgum dengan metode alkali–hidrolisis asam–mekanik. Pada proses kimia serat diektraksi dari batang sorgum dengan KOH 4%. Variasi dilakukan pada perlakuan mekanik yaitu waktu ultrasonikasi selama 60, 90, dan 120 menit. Serat selulosa yang diperoleh selanjutnya dianalisis morfologinya dengan menggunakan SEM. Hasil pengamatan morfologi ini menunjukkan bahwa serat tanpa sonikasi berukuran 10,21 mikron, sedangkan serat dengan ultasonikasi 60 menit, 90 menit, dan 120 menit berturut-turut berukuran 10,64 mikron, 9,253 mikron, dan 4,887 mikron. Hasil penelitian ini menunjukkan bahwa semakin lama waktu sonikasi pada rentang yang dilakukan diperoleh ukuran serat selulosa yang semakin kecil.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22147",
+      "date": "2020-04",
+      "creators": [
+        {
+          "name": {
+            "family": "Darni",
+            "lineage": null,
+            "honourific": null,
+            "given": "Yuli"
+          },
+          "id": "darni_yuli@yahoo.com"
+        },
+        {
+          "id": "lismeri@yahoo.co.id",
+          "name": {
+            "given": "Lia",
+            "honourific": null,
+            "lineage": null,
+            "family": "Lismeri"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Gitri",
+            "family": "Devi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Hanif",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhammad"
+          },
+          "id": "muhammad.hanif@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Ulya",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhammad Ridho"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "Pengaruh Proses Ultrasonikasi terhadap Ukuran Serat Selulosa dari Batang Sorgum",
+      "eprint_status": "archive",
+      "eprintid": 22147,
+      "datestamp": "2020-06-10 00:55:10",
+      "pagerange": "1-7",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 32,
+      "documents": [
+          {
+            "content": "published",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "format": "text",
+            "main": "JTII Vol 1. No.1 (2020)_Darni_Yuli.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 203996,
+                  "hash": "964ea76bf3ad89e03177dcea25ad195e",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-09 09:46:48",
+                  "filesize": 364860,
+                  "objectid": 35562,
+                  "filename": "JTII Vol 1. No.1 (2020)_Darni_Yuli.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/203996"
+                }
+            ],
+            "docid": 35562,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35562",
+            "pos": 1,
+            "eprintid": 22147,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2020-06-10 00:55:10"
+    },
+    {
+      "subjects": [
+        "TD"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20874",
+      "date": "2020-03-01",
+      "volume": 4,
+      "funders": [
+        "DIPA BLU UNILA"
+      ],
+      "publisher": "LPPM UNILA",
+      "divisions": [
+        "FT6"
+      ],
+      "publication": "Jurnal Sakai Sambayan",
+      "dir": "disk0\/00\/02\/08\/74",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2020-05-28 11:48:50",
+      "issn": "2550-1089",
+      "full_text_status": "none",
+      "pagerange": "28-33",
+      "metadata_visibility": "show",
+      "eprintid": 20874,
+      "eprint_status": "archive",
+      "datestamp": "2020-05-28 11:48:50",
+      "lastmod": "2020-05-28 11:48:50",
+      "number": 1,
+      "userid": 462,
+      "refereed": "TRUE",
+      "title": "PENINGKATAN EKONOMIS LIMBAH PRODUKSI JAMUR MERANG\r\nMENJADI BRIKET SEBAGAI SUMBER ENERGI ALTERNATIF DI DESA\r\nBAYUR KECAMATAN RAJABASA",
+      "creators": [
+        {
+          "id": "yuli.darni@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Darni",
+            "given": "Yuli"
+          }
+        },
+        {
+          "name": {
+            "given": "Herti",
+            "family": "Utami",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "herti.utami@eng.unila.ac.id"
+        },
+        {
+          "id": "darmansyah82@gmail.com",
+          "name": {
+            "given": "Darmansyah",
+            "lineage": null,
+            "family": "Darmansyah",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Lismeri",
+            "lineage": null,
+            "given": "Lia"
+          },
+          "id": "lismeri@yahoo.co.id"
+        },
+        {
+          "name": {
+            "family": "Haerudin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nandi"
+          },
+          "id": "nandi.haerudin@eng.unila.ac.id"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "volume": 4,
+      "corp_creators": [
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung"
+      ],
+      "abstract": "Kegiatan pengabdian ini bertujuan meningkatkan dan mengembangkan unit usaha mitra dalam mengolah sampah plastik untuk menghasilkan produk dengan nilai ekonomis lebih tinggi. Demikian juga, kegiatan ini akan berefek langsung terhadap usaha penanganan limbah plastik. Metode yang dilakukan dalam kegiatan pengabdian ini meliputi sosialisasi, pelatihan dan aplikasi penggunaan alat pengering sampah plastik jenis centrifugal dryer.  Dalam sosialisasi akan dijelaskan secara singkat tentang pemanfaatan dan penanganan limbah plastik. Pelatihan dan aplikasi alat diberikan kepada unit usaha mitra tentang cara penggunaan alat pengering plastik. Kegiatan dilakukan di Desa Sumber Jaya Jati Agung, dengan sasaran khususnya adalah mitra pengelola limbah plastik. Permasalahan yang dihadapi mitra adalah belum efisiennya waktu pengeringan hasil cacahan plastik dan membutuhkan lahan yang luas untuk penjemuran produk. Hal ini berefek langsung terhadap kapasitas penjualan produk. Dengan kegiatan PKM ini mitra pengelola daur ulang plastik dapat menggunakan alat pengering sentrifugal untuk meningkatkan efisiensi waktu pengeringan cacahan plastik dan akan memberikan keuntungan bagi mitra.\r\nKata kunci: teknologi tepat guna; alat pengering sentrifugal; limbah plastik",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27477",
+      "date": "2020-12-09",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "status_changed": "2021-01-27 05:03:08",
+      "full_text_status": "public",
+      "issn": "2550-1089",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "LPPM UNILA",
+      "divisions": [
+        "FT6"
+      ],
+      "publication": "Jurnal Sakai Sambayan",
+      "dir": "disk0\/00\/02\/74\/77",
+      "number": 3,
+      "userid": 423,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "document.pdf",
+            "files": [
+                {
+                  "mtime": "2021-01-27 04:38:33",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/245645",
+                  "filename": "document.pdf",
+                  "filesize": 545211,
+                  "objectid": 41479,
+                  "hash": "649df2d3cd325c2c2ccaccc55e78bb5a",
+                  "mime_type": "application\/pdf",
+                  "fileid": 245645,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 41479,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41479",
+            "eprintid": 27477,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2021-01-27 05:03:08",
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/article\/view\/268\/168",
+      "eprintid": 27477,
+      "eprint_status": "archive",
+      "datestamp": "2021-01-27 05:03:08",
+      "pagerange": "219-223",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "darni_yuli@yahoo.com",
+          "name": {
+            "given": "Yuli",
+            "honourific": null,
+            "family": "Darni",
+            "lineage": null
+          }
+        },
+        {
+          "id": "herti.utami@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Utami",
+            "lineage": null,
+            "given": "Herti"
+          }
+        },
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "given": "Sri Ratna"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Penerapan Alat Pengering untuk Peningkatan Efisiensi Waktu dan Minimasi Lahan pada Pengolahan Sampah Plastik di Jati Agung Kabupaten Lampung Selatan"
+    },
+    {
+      "creators": [
+        {
+          "id": "darni_yuli@yahoo.com",
+          "name": {
+            "given": "Yuli",
+            "lineage": null,
+            "family": "Darni",
+            "honourific": null
+          }
+        },
+        {
+          "id": "herti.utami@eng.unila.ac.id",
+          "name": {
+            "given": "Herti",
+            "family": "Utami",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sri Ratna",
+            "lineage": null,
+            "family": "Sulistiyanti",
+            "honourific": null
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "Penerapan Teknologi Tepat Guna Alat Pengering Cacahan Sampah Plastik pada Proses Daur Ulang Plastik",
+      "eprintid": 27614,
+      "eprint_status": "archive",
+      "datestamp": "2021-02-02 04:41:54",
+      "pagerange": "1-2",
+      "metadata_visibility": "show",
+      "number": 123,
+      "userid": 423,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 27614,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41620",
+            "pos": 1,
+            "security": "public",
+            "docid": 41620,
+            "main": "Kompasiana 2020.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-02 04:19:31",
+                  "objectid": 41620,
+                  "filesize": 2394908,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/246714",
+                  "filename": "Kompasiana 2020.pdf",
+                  "datasetid": "document",
+                  "fileid": 246714,
+                  "mime_type": "application\/pdf",
+                  "hash": "5ab21604b001e1df212891c2f8298f5f"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2021-02-02 04:41:54",
+      "publication": "Kompasiana",
+      "dir": "disk0\/00\/02\/76\/14",
+      "divisions": [
+        "FT6"
+      ],
+      "status_changed": "2021-02-02 04:41:54",
+      "issn": 1234,
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "volume": 123,
+      "corp_creators": [
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung"
+      ],
+      "abstract": "Dilihat dari komposisinya, jenis sampah yang paling dominan dihasilkan di Indonesia adalah sampah organik atau sisa makanan dan sisa tumbuhan sebesar 50%, plastik sebesar 15%, dan kertas sebesar 10%. Sampah plastik tersebut berasal dari kemasan baik kemasan makanan dan minuman, kemasan consumer goods, kantong belanja, dan pembungkus barang lainnya. Total timbunan sampah plastik, yang didaur ulang diperkirakan baru 10-15%, 60-70% ditimbun di TPA, dan 15-30% belum terkelola dan terbuang ke lingkungan terutama ke lingkungan perairan seperti sungai, danau, pantai, dan laut. Untuk mengatasi permasalahan sampah plastik ini salah satunya dengan melakukan proses daur ulang sampah plastik.\r\nPemanfaatan dan penanganan limbah plastik ini perlu banyak disosialisasikan, selain kampanye pengurangan penggunaan bahan plastik. Sampah plastik sebaiknya dikumpulkan untuk didaur ulang. Biasanya sampah ini dikumpulkan oleh pemulung dan dijual ke kelompok pengolah limbah plastik. Di tempat pengolah limbah plastik inilah dilakukan pencacahan limbah plastik, pencucian dan pengeringan, sebelum masuk ke pengolahan daur ulang plastik.",
+      "date": "2020-08-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27614"
+    },
+    {
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "IOP",
+      "dir": "disk0\/00\/04\/57\/07",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2022-10-17 01:26:31",
+      "full_text_status": "public",
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "date": "2020-08-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45707",
+      "abstract": "none",
+      "title": "hasil_review: Torrefaction to Improve Biomass pellet made of Palm Empty Fruit Bunch",
+      "creators": [
+        {
+          "id": "agus.haryanto@fp.unila.ac.id",
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "family": "Haryanto",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Wahyu",
+            "honourific": null,
+            "family": "Hidayat",
+            "lineage": null
+          },
+          "id": "wahyu.hidayat@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Udin",
+            "honourific": null,
+            "family": "Hasanudin",
+            "lineage": null
+          },
+          "id": "udinha65@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Dewi Agustina",
+            "honourific": null,
+            "family": "Iryani",
+            "lineage": null
+          },
+          "id": "dewi.agustina@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 45707,
+      "datestamp": "2022-10-17 01:26:31",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184517",
+            "eprintid": 45707,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 184517,
+            "main": "CamScanner _nilai reviewer_torrefaction_to Improve biomass_pak Agus.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "7b9f9ed80ae86185dab14b3e989ab74b",
+                  "datasetid": "document",
+                  "fileid": 506911,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/506911",
+                  "filename": "CamScanner _nilai reviewer_torrefaction_to Improve biomass_pak Agus.pdf",
+                  "filesize": 1019392,
+                  "objectid": 184517,
+                  "mtime": "2022-10-14 14:47:30",
+                  "hash_type": "MD5"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2022-10-17 01:26:31",
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1755-1315\/749\/1\/012047",
+      "userid": 636
+    },
+    {
+      "title": "Pengolahan limbah cair industry karet secara elektrokoagulasi dengan \r\nrancangan percobaan Taguchi fractional factorial",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Lilis",
+            "lineage": null,
+            "family": "Hermida",
+            "honourific": null
+          },
+          "id": "lilis.hermida@eng.unila.ac.id"
+        }
+      ],
+      "official_url": "http:\/\/jtii.eng.unila.ac.id\/index.php\/ojs\/article\/view\/17",
+      "lastmod": "2021-06-04 01:34:42",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 144664,
+            "main": "Hermida2020Pengolahan limbah cair industry karet secara elektrokoagulasi dengan .pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "bac4fe3eb9870af6862abfdb769a8e35",
+                  "datasetid": "document",
+                  "fileid": 377975,
+                  "mtime": "2021-06-03 13:35:08",
+                  "hash_type": "MD5",
+                  "filename": "Hermida2020Pengolahan limbah cair industry karet secara elektrokoagulasi dengan .pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377975",
+                  "objectid": 144664,
+                  "filesize": 525323
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144664",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 31934
+          }
+      ],
+      "userid": 397,
+      "number": 2,
+      "metadata_visibility": "show",
+      "pagerange": "001-005",
+      "datestamp": "2021-06-04 01:34:42",
+      "eprintid": 31934,
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "issn": "ISSN 2722-0184, e-ISSN 2722-0192",
+      "full_text_status": "public",
+      "status_changed": "2021-06-04 01:34:42",
+      "publication": "Jurnal Teknologi dan Inovasi Industri",
+      "publisher": "Fakultas teknik, universitas lampung",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/03\/19\/34",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31934",
+      "date": "2020-10-01",
+      "abstract": "Penelitian pengolahan limbah cair indutri karet telah dilakukan dengan cara elektrokoagulasi \r\nmenggunakan lima elektroda besi yang disusun secara bipolar. .Rancangan percobaan menggunakan \r\nTaguchi fractional factorial untuk mengetahui kondisi optimal tingkat penurunan kekeruhan. Adapun \r\nparameter-parameter kondisi operasi yang di variasikan adalah: jarak antar elektroda, kuat arus dan \r\nkoduktivitas limbah cair. Berdasarkan hasil penelitian diketahui bahwa persentase penurunan kekeruhan \r\noptimal diperoleh sebesar 96,57% pada kondisi operasi: konduktivitas limbah cair 1400 μs\/cm, jarak\r\nantar elektroda 1,5 cm, pemakaian kuat arus 0,2 A dan waktu operasi selama 180 menit.",
+      "volume": 1,
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ]
+    },
+    {
+      "datestamp": "2020-04-06 01:16:13",
+      "eprintid": 18977,
+      "id_number": "IDP000067125",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 390,
+      "lastmod": "2020-04-06 01:16:13",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32217",
+            "pos": 1,
+            "eprintid": 18977,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Paten SRUF Granted.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 159225,
+                  "hash": "96f1faa64bd6cff4a772c853cd8677a6",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-05 13:23:49",
+                  "objectid": 32217,
+                  "filesize": 1913062,
+                  "filename": "Paten SRUF Granted.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/159225"
+                }
+            ],
+            "docid": 32217
+          }
+      ],
+      "creators": [
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Hermida",
+            "honourific": null,
+            "given": "Lilis"
+          }
+        },
+        {
+          "name": {
+            "given": "Joni",
+            "family": "Agustian",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        }
+      ],
+      "type": "patent",
+      "title": "PATEN PEMBUATAN PUPUK UREA LEPAS LAMBAT SECARA BATCH DENGAN SUBSTRAT BENTONIT ALAM LAMPUNG DAN BAHAN PENGIKAT TEPUNG JAGUNG ATAU HYDROXYLPROPYL METHYL CELLULOSE (HPMC) MELALUI METODE INTERKALASI",
+      "date_type": "completed",
+      "subjects": [
+        "TP"
+      ],
+      "patent_applicant": "Lilis Hermida, Joni Agustian",
+      "date": "2020-02-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18977",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/01\/89\/77",
+      "full_text_status": "public",
+      "status_changed": "2020-04-06 01:16:13",
+      "ispublished": "pub",
+      "rev_number": 7
+    },
+    {
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/02\/82\/85",
+      "full_text_status": "public",
+      "status_changed": "2021-03-09 02:47:53",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "abstract": "Invensi ini berhubungan dengan pembuatan pupuk lepas lambat yang dihasilkan dari proses interkalasi senyawa urea kedalam bentonit alam Lampung dengan menggunakan bahan pengikat (binder) tepung jagung atau hydroxylpropyl methyl cellulose (HPMC) dimana jumlah bentonit alam Lampung dan bahan binder divariasikan agar didapat komposisi pupuk lepas lambat dengan waktu desorpsi yang lama.",
+      "patent_applicant": "LPPM Unila",
+      "date": "2020-02-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28285",
+      "type": "patent",
+      "creators": [
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "given": "Lilis",
+            "lineage": null,
+            "family": "Hermida",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Agustian",
+            "honourific": null,
+            "given": "Joni"
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        }
+      ],
+      "title": "PEMBUATAN PUPUK UREA LEPAS LAMBAT SECARA BATCH DENGAN SUBSTRAT BENTONIT ALAM LAMPUNG DAN BAHAN PENGIKAT TEPUNG JAGUNG ATAU HYDROXYLPROPYL METHYL CELLULOSE (HPMC) MELALUI METODE INTERKALASI",
+      "datestamp": "2021-03-09 02:47:53",
+      "eprint_status": "archive",
+      "id_number": 67125,
+      "eprintid": 28285,
+      "metadata_visibility": "show",
+      "userid": 390,
+      "lastmod": "2021-03-09 02:47:53",
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/detail\/P00201800483?type=patent&keyword=urea+lepas+lambat",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 42330,
+            "main": "P00201800483-IDP000067125-Lilis-Joni.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "6a598c8de7b39c87002c88745c70a0c2",
+                  "datasetid": "document",
+                  "fileid": 251563,
+                  "filename": "P00201800483-IDP000067125-Lilis-Joni.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251563",
+                  "filesize": 15612037,
+                  "objectid": 42330,
+                  "mtime": "2021-03-08 22:00:44",
+                  "hash_type": "MD5"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42330",
+            "eprintid": 28285,
+            "placement": 1
+          }
+      ],
+      "pages": 18
+    },
+    {
+      "title": "Evaluasi Kinerja Sistem Elektrokoagulasi Batch Recycle Dengan Susunan\r\nEleltroda Monopolar Dalam Mengolah Limbah Cair Tapioka",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hermida",
+            "honourific": null,
+            "given": "Lilis"
+          },
+          "id": "lilis.hermida@eng.unila.ac.id"
+        },
+        {
+          "id": "ikakustiani@yahoo.com",
+          "name": {
+            "given": "Ika",
+            "honourific": null,
+            "family": "Kustiani",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Suharno",
+            "lineage": null,
+            "family": "Suharno",
+            "honourific": null
+          },
+          "id": "suharno@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "20-28",
+      "datestamp": "2021-03-22 01:42:59",
+      "eprint_status": "archive",
+      "eprintid": 28517,
+      "lastmod": "2021-03-22 01:42:59",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42563",
+            "pos": 1,
+            "eprintid": 28517,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 42563,
+            "main": "Gabung PPI 2020.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 253198,
+                  "mime_type": "application\/pdf",
+                  "hash": "fb4cb52602b8ab6a46f05143316ac727",
+                  "filesize": 942084,
+                  "objectid": 42563,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/253198",
+                  "filename": "Gabung PPI 2020.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-21 10:13:07"
+                }
+            ]
+          }
+      ],
+      "userid": 397,
+      "number": 1,
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "publication": "Jurnal Profesi insinyur Universitas Lampung",
+      "dir": "disk0\/00\/02\/85\/17",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2722-5771",
+      "status_changed": "2021-03-22 01:42:59",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28517",
+      "abstract": "Pada penelitian ini elektrokoagulasi limbah cair tapioka dilakukan di reaktor yang beroperasi\r\nsecara batch recycle, yang menggunakan beberapa pasang elektroda dalam susunan monopolar. Pengaruh\r\nvariasi parameter operasi (besarnya arus listrik, jarak antar elektroda dan konduktivitas limbah cair\r\ntapioka) terhadap persentase penurunan kekeruhan air limbah diamati. Kemudian kondisi operasi yang\r\noptimal di investigasi menggunakan rancangan percobaan fractional factorial taguchi. Berdasarkan hasil\r\npercobaan dapat disimpulkan bahwa arus listrik sangat mempengaruhi persentase penurunan kekeruhan\r\nlimbah cair tapioka. Kenaikan pH limbah terjadi selama proses berlangsung. Dengan pH influent tetap pada\r\n7, setelah waktu reaksi selama 5 jam pH effluent menjadi 9,4 -9,6. Kondisi optimum diperoleh pada arus\r\nlistrik 0,4 A, jarak antar elektroda 1,5 cm, dan konduktivitas influent 2500 mS dengan pH 7, laju alir 9 l\/jam\r\ndan waktu pengolahan 5 jam. Persentase penurunan kekeruhan pada kondisi optimum bisa mencapai\r\n97,227%.",
+      "volume": 1
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "T1",
+        "TD",
+        "TP"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21527",
+      "date": "2020-04",
+      "abstract": "Pada penelitian ini elektrokoagulasi limbah cair tapioka dilakukan di reaktor yang beroperasi secara batch recycle, yang menggunakan beberapa pasang elektroda dalam susunan monopolar. Pengaruh variasi parameter operasi (besarnya arus listrik, jarak antar elektroda dan konduktivitas limbah cair tapioka) terhadap persentase penurunan kekeruhan air limbah diamati. Kemudian kondisi operasi yang optimal di investigasi menggunakan rancangan percobaan fractional factorial taguchi. Berdasarkan hasil percobaan dapat disimpulkan bahwa arus listrik sangat mempengaruhi persentase penurunan kekeruhan limbah cair tapioka. Kenaikan pH limbah terjadi selama proses berlangsung. Dengan pH influent tetap pada 7, setelah waktu reaksi selama 5 jam pH effluent menjadi 9,4 -9,6. Kondisi optimum diperoleh pada arus listrik 0,4 A, jarak antar elektroda 1,5 cm, dan konduktivitas influent 2500 mS dengan pH 7, laju alir 9 l\/jam dan waktu pengolahan 5 jam. Persentase penurunan kekeruhan pada kondisi optimum bisa mencapai 97,227%.",
+      "volume": 1,
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "Program Studi Program Profesi Insinyur Fakultas Teknik Universitas Lampung",
+      "publication": "Jurnal Profesi Insinyur Universitas Lampung",
+      "dir": "disk0\/00\/02\/15\/27",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "full_text_status": "public",
+      "status_changed": "2020-06-02 13:57:14",
+      "metadata_visibility": "show",
+      "pagerange": "20-28",
+      "datestamp": "2020-06-02 13:57:14",
+      "eprintid": 21527,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/jpi.eng.unila.ac.id\/index.php\/ojs\/issue\/view\/3",
+      "lastmod": "2020-06-02 13:57:14",
+      "documents": [
+          {
+            "eprintid": 21527,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34926",
+            "pos": 1,
+            "format": "archive",
+            "main": 13,
+            "files": [
+                {
+                  "hash": "2fe101db4e01b8ca3aed89e3d19d04b8",
+                  "mime_type": "text\/html",
+                  "datasetid": "document",
+                  "fileid": 199675,
+                  "mtime": "2020-06-02 13:36:53",
+                  "hash_type": "MD5",
+                  "filename": 13,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/199675",
+                  "filesize": 16247,
+                  "objectid": 34926
+                }
+            ],
+            "docid": 34926,
+            "rev_number": 3,
+            "language": "id",
+            "mime_type": "text\/html"
+          }
+      ],
+      "userid": 397,
+      "number": 1,
+      "title": "Evaluasi Kinerja Sistem Elektrokoagulasi Batch Recycle Dengan Susunan Eleltroda Monopolar Dalam Mengolah Limbah Cair Tapioka",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "given": "Lilis",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hermida"
+          }
+        },
+        {
+          "name": {
+            "given": "Ika",
+            "honourific": null,
+            "family": "Kustiani",
+            "lineage": null
+          },
+          "id": "ikakustiani@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Suharno",
+            "honourific": null,
+            "lineage": null,
+            "family": "Suharno"
+          },
+          "id": "suharno@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41155",
+      "date": "2020-02-05",
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "HAKI",
+      "dir": "disk0\/00\/04\/11\/55",
+      "status_changed": "2022-04-07 06:37:44",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 11,
+      "eprint_status": "archive",
+      "eprintid": 41155,
+      "datestamp": "2022-04-07 06:37:44",
+      "metadata_visibility": "show",
+      "userid": 636,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "CamScanner 02-14-2022 08.49_Patent.pdf",
+            "files": [
+                {
+                  "filename": "CamScanner 02-14-2022 08.49_Patent.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456815",
+                  "objectid": 162615,
+                  "filesize": 1363555,
+                  "mtime": "2022-04-07 05:04:37",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "3ecac04be2a0631c7ad5a14d99c9f89f",
+                  "fileid": 456815,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 162615,
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162615",
+            "eprintid": 41155,
+            "placement": 2
+          }
+      ],
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/detail\/P00201708880?type=patent&keyword=SABUN+MANDI+BERBASIS+EKSTRAK+KULIT+PISANG",
+      "lastmod": "2022-04-07 06:37:44",
+      "type": "other",
+      "creators": [
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Iryani",
+            "lineage": null,
+            "given": "Dewi Agustina"
+          }
+        }
+      ],
+      "title": "Hasil Review Paten: SABUN MANDI BERBASIS EKSTRAK KULIT PISANG"
+    },
+    {
+      "place_of_pub": "Jurnal Valensi",
+      "title": "Plagiarism_Check: Performance of Annealed Composite Cellulose Acetate\/NaA Zeolite Membrane in Carbon dioxide\/Methane Gas Separation",
+      "creators": [
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "family": "Iryani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dewi Agustina"
+          }
+        }
+      ],
+      "type": "other",
+      "lastmod": "2022-02-09 10:24:47",
+      "official_url": "http:\/\/journal.uinjkt.ac.id\/index.php\/valensi\/article\/view\/13101",
+      "documents": [
+          {
+            "eprintid": 39101,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/160393",
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "7c2453f25e84caaf50eec4ed06cdc68a",
+                  "datasetid": "document",
+                  "fileid": 440885,
+                  "mtime": "2022-02-09 08:36:54",
+                  "hash_type": "MD5",
+                  "filename": "MyReport 02-Sep-2021_membran_unpad.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/440885",
+                  "filesize": 167000,
+                  "objectid": 160393
+                }
+            ],
+            "main": "MyReport 02-Sep-2021_membran_unpad.pdf",
+            "docid": 160393,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 636,
+      "metadata_visibility": "show",
+      "datestamp": "2022-02-09 10:24:47",
+      "eprintid": 39101,
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2022-02-09 10:24:47",
+      "publisher": "Valensi",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/03\/91\/01",
+      "date": "2020-11-20",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39101",
+      "abstract": "None",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ]
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "None",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45699",
+      "date": "2020-11",
+      "publisher": "Jurnal kimia Valensi",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/04\/56\/99",
+      "full_text_status": "public",
+      "status_changed": "2022-10-17 01:25:45",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "datestamp": "2022-10-17 01:25:45",
+      "eprintid": 45699,
+      "id_number": "https:\/\/doi.org\/10.15408\/jkv.v6i2.13101",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 636,
+      "lastmod": "2022-10-17 01:25:45",
+      "official_url": "https:\/\/journal.uinjkt.ac.id\/index.php\/valensi\/article\/view\/13101",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 184509,
+            "main": "CamScanner_nilai_review_annealed_membrane.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-14 13:52:17",
+                  "objectid": 184509,
+                  "filesize": 1552113,
+                  "filename": "CamScanner_nilai_review_annealed_membrane.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/506851",
+                  "fileid": 506851,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "b3df3fd0870a75d8c42525f3f6c2165b"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 45699,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184509"
+          }
+      ],
+      "type": "other",
+      "creators": [
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "given": "Dewi Agustina",
+            "lineage": null,
+            "family": "Iryani",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "hasil_review_:Performance of Annealed Composite Cellulose Acetate\/NaA Zeolite Membrane in Carbon dioxide\/Methane Gas Separation"
+    },
+    {
+      "metadata_visibility": "show",
+      "eprintid": 45708,
+      "eprint_status": "archive",
+      "datestamp": "2022-10-17 01:26:36",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 45708,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184518",
+            "pos": 1,
+            "security": "public",
+            "main": "MyReport 14-Oct-2022_paperIrma.pdf",
+            "docid": 184518,
+            "files": [
+                {
+                  "filesize": 202915,
+                  "objectid": 184518,
+                  "filename": "MyReport 14-Oct-2022_paperIrma.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/506918",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-14 15:00:19",
+                  "fileid": 506918,
+                  "datasetid": "document",
+                  "hash": "220bb49d40d4af862fbf46d40cc4e97f",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2022-10-17 01:26:36",
+      "userid": 636,
+      "title": "similarity_check: Peningkatan Kualitas Pelet Tandan Kosong Kelapa Sawit melalui Torefaksi Menggunakan Reaktor Counter Current Flow Multi Baffle (COMB)",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Iryani",
+            "given": "Dewi Agustina"
+          },
+          "id": "dewi.agustina@eng.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "TA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45708",
+      "date": 2020,
+      "abstract": "none",
+      "dir": "disk0\/00\/04\/57\/08",
+      "publisher": "Jurnal Rekayasa Proses UGM",
+      "divisions": [
+        "FT6"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2022-10-17 01:26:36",
+      "full_text_status": "public"
+    },
+    {
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "none",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45703",
+      "date": 2020,
+      "dir": "disk0\/00\/04\/57\/03",
+      "publisher": "Jurnal Rekayasa Proses UGM",
+      "divisions": [
+        "FT6"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-10-17 01:26:04",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "datestamp": "2022-10-17 01:26:04",
+      "eprintid": 45703,
+      "id_number": "https:\/\/doi.org\/10.22146\/jrekpros.56817",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 636,
+      "lastmod": "2022-10-17 01:26:04",
+      "official_url": "https:\/\/jurnal.ugm.ac.id\/jrekpros\/article\/view\/56817",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "CamScanner_nilai_reviewer_PaperIrma.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "b11cc5a006340d61c2b55403a14bc61e",
+                  "fileid": 506880,
+                  "datasetid": "document",
+                  "mtime": "2022-10-14 14:21:38",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/506880",
+                  "filename": "CamScanner_nilai_reviewer_PaperIrma.pdf",
+                  "objectid": 184513,
+                  "filesize": 1422553
+                }
+            ],
+            "docid": 184513,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184513",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45703
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Dewi Agustina",
+            "family": "Iryani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "dewi.agustina@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hidayat",
+            "lineage": null,
+            "given": "Wahyu"
+          },
+          "id": "wahyu.hidayat@fp.unila.ac.id"
+        },
+        {
+          "id": "agus.haryanto@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Haryanto",
+            "lineage": null,
+            "given": "Agus"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Hasil_Review: Peningkatan Kualitas Pelet Tandan Kosong Kelapa Sawit melalui Torefaksi Menggunakan Reaktor Counter Current Flow Multi Baffle (COMB)"
+    },
+    {
+      "title": "Penyisihan kadar amoniak (NH3) dalam limbah cair karet dengan kombinasi adsorben bentonit dan zeolit secara kontinyu",
+      "refereed": "TRUE",
+      "event_dates": "14 Oktober 2020",
+      "pres_type": "speech",
+      "creators": [
+        {
+          "id": "rizka.mayasari@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Rizka",
+            "honourific": null,
+            "given": "Mayasari"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Elida",
+            "lineage": null,
+            "given": "purba"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Miftahul",
+            "honourific": null,
+            "family": "Djana",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "datestamp": "2020-11-16 15:06:33",
+      "eprintid": 25148,
+      "eprint_status": "archive",
+      "lastmod": "2020-11-16 15:06:33",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38936",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 25148,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "content": "published",
+            "main": "RIZKA_MAYASARI_SINTA_2020.docx",
+            "docid": 38936,
+            "files": [
+                {
+                  "hash": "46b1294884a2d2a77797df25b8f4634a",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "fileid": 227561,
+                  "datasetid": "document",
+                  "filename": "RIZKA_MAYASARI_SINTA_2020.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/227561",
+                  "objectid": 38936,
+                  "filesize": 166840,
+                  "mtime": "2020-11-13 08:43:04",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 3246,
+      "event_type": "conference",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/02\/51\/48",
+      "ispublished": "inpress",
+      "rev_number": 10,
+      "full_text_status": "public",
+      "status_changed": "2020-11-16 15:06:33",
+      "date_type": "published",
+      "subjects": [
+        "QD"
+      ],
+      "event_title": "Seminar Nasional Ilmu Teknik dan Aplikasi Industri (SINTA) 2020",
+      "date": "2020-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25148",
+      "abstract": "Limbah cair hasil pengolahan karet mengandung kadar amoniak yang tinggi. Penelitian ini dilakukan untuk mengaplikasikan proses adsorpsi secara kontinyu dalam menyisihkan kadar amoniak (NH3) limbah cair karet sehingga memenuhi baku mutu air limbah domestik. Tujuan penelitian ini menetapkan dosis dan waktu optimum adsorben zeolite dan bentonite dalam mengadsorpsi polutan khususnya amoniak (NH3) di limbah cair karet.. Variabel penelitian terdiri dari rasio bentonit : zeolit, laju alir dan waktu kontak. Hasil penelitian menunjukkan bahwa terjadi penurunan kadar amoniak (NH3) sebesar 92,89 % pada rasio adsorben 2:1, waktu kontak 90 menit dan laju alir 3 LPM. Hal ini menunjukkan bahwa semakin banyak dosis bentonit yang ditambahkan, semakin lama waktu kontak dan laju alir maka semakin efektif penyisihan kadar amoniak (NH3) dalam limbah cair karet."
+    },
+    {
+      "refereed": "TRUE",
+      "id_number": "10.1007\/s12649-019-00926-0",
+      "eprint_status": "archive",
+      "eprintid": 30462,
+      "datestamp": "2021-05-24 01:37:22",
+      "pagerange": "7045-7051",
+      "number": "-",
+      "userid": 192,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/137060",
+            "pos": 1,
+            "eprintid": 30462,
+            "placement": 1,
+            "content": "published",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-21 17:40:08",
+                  "objectid": 137060,
+                  "filesize": 714114,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/361063",
+                  "filename": "1. International Journal_WBV.pdf",
+                  "fileid": 361063,
+                  "datasetid": "document",
+                  "hash": "a8f9d2bf306209590133b414b5cfecff",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "1. International Journal_WBV.pdf",
+            "docid": 137060
+          }
+      ],
+      "official_url": "https:\/\/link.springer.com\/article\/10.1007\/s12649-019-00926-0",
+      "publisher": "Springer Nature",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/link.springer.com\/article\/10.1007\/s12649-019-00926-0"
+        }
+      ],
+      "issn": "-",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "corp_creators": [
+        "-",
+        "-",
+        "-"
+      ],
+      "abstract": "Palm oil mill effluent (POME) liquid waste contains high organic compounds. It has a high potential to be processed into biogas. One of the technologies that has been developed in processing POME is Fixed Film Bioreactor or anaerobic filter reactor (AFR). AFR is able to handle waste with high organic loading rate by using bacterial attached growth solid media on the surface of the media to form biofilm, which creates an optimum environment to microorganism growth and metabolism.\r\nPlastic balls (bio-balls) is one of the potential immobilization media due to chemically inert and lightweight. In addition,trace elements may enhance methanogens activities. This study aimed to evaluate the effect of bioball as an immobilization media and the addition of trace element Ni to anaerobic digestion process with POME substrate in terms of decreasing soluble chemical oxigen demand (sCOD) and methane production on fixed bed reactor in batch and continuous mode in sequence. The best performance of the reactor was able to reduce 92% of COD content inside the pome by 5 L\/day of loading rate of 24,000 ppm POME",
+      "date": "2020-01",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "-",
+            "lineage": null,
+            "family": "Sri Ismiyati Damayanti",
+            "honourific": null
+          },
+          "id": "sri.ismiyati.damayanti@gmail.com"
+        },
+        {
+          "id": "-",
+          "name": {
+            "given": "-",
+            "honourific": null,
+            "family": "Silwina Bayonita",
+            "lineage": null
+          }
+        },
+        {
+          "id": "wiratni@ugm.ac.id",
+          "name": {
+            "given": "-",
+            "honourific": null,
+            "family": "Wiratni Budhijanto",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "-",
+            "honourific": null,
+            "family": "Sarto",
+            "lineage": null
+          },
+          "id": "sarto@ugm.ac.id"
+        },
+        {
+          "name": {
+            "given": "-",
+            "lineage": null,
+            "family": "I Wayan Mustika",
+            "honourific": null
+          },
+          "id": "-"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Chandra Wahyu Purnomo",
+            "honourific": null,
+            "given": "-"
+          },
+          "id": "Chandra Wahyu Purnomo chandra.purnomo@ugm.ac.id"
+        }
+      ],
+      "title": "The Study of Immobilized Media and Ni Ion Addition Effects on COD Removal of POME Using Anaerobic Filter Reactor",
+      "metadata_visibility": "show",
+      "lastmod": "2021-05-24 01:37:22",
+      "publication": "Waste and Biomass Valorization",
+      "dir": "disk0\/00\/03\/04\/62",
+      "divisions": [
+        "FT6"
+      ],
+      "funders": [
+        "USAID through the SHERA program-Centre for Development of Sustainable Region (CDSR)"
+      ],
+      "status_changed": "2021-05-24 01:37:22",
+      "rev_number": 10,
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "volume": 11,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30462"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "230-233",
+      "datestamp": "2021-02-01 04:49:25",
+      "eprintid": 27478,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/article\/view\/195\/174",
+      "lastmod": "2021-02-01 04:49:25",
+      "documents": [
+          {
+            "eprintid": 27478,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41480",
+            "pos": 1,
+            "format": "text",
+            "docid": 41480,
+            "main": "document.pdf",
+            "files": [
+                {
+                  "hash": "8e6535c51edcafc688f6216201a240e6",
+                  "mime_type": "application\/pdf",
+                  "fileid": 245651,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/245651",
+                  "filename": "document.pdf",
+                  "filesize": 414479,
+                  "objectid": 41480,
+                  "mtime": "2021-01-27 04:46:34",
+                  "hash_type": "MD5"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 423,
+      "number": 3,
+      "title": "Implementasi Teknologi Alat Peniris Minyak (Spinner) pada Pengembangan Produk Makanan Sehat Berbasis Sayuran di Desa Tulung Salak, Kecamatan Langkapura Bandar Lampung",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Herti",
+            "family": "Utami",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "herti.utami@eng.unila.ac.id"
+        },
+        {
+          "id": "darni_yuli@yahoo.com",
+          "name": {
+            "given": "Yuli",
+            "honourific": null,
+            "family": "Darni",
+            "lineage": null
+          }
+        },
+        {
+          "id": "rianti_dc@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Tanti",
+            "lineage": null,
+            "given": "Novri"
+          }
+        },
+        {
+          "id": "lismeri@yahoo.co.id",
+          "name": {
+            "given": "Lia",
+            "honourific": null,
+            "family": "Lismeri",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27478",
+      "date": "2020-12-09",
+      "abstract": "Sayuran terutama sayuran hijau merupakan hasil pertanian yang cukup melimpah di Propinsi Lampung. Sayuran hijau yang terdiri bermacam jenis yaitu bayam, kangkung, kacang panjang, brokoli, sawi dan lain-lain. Dalam hal hasil pertanian berupa sayuran hijautersebut, masyarakat selalu mengkonsumsi sayuran hijau tersebut untuk kebutuhan sehari-hari sebagai penambah asupan gizi keluarga. Dalam hal mengkonsumsi sayuran ini, secara umum sudah terpola bahwa ada kesulitan untuk memberikan jenis makanan ini pada anak-anak. Kelompok mitra yang terdiri ibu-ibu PKK dan ibu-ibu rumah tangga di Desa Tulung Salak ini tidak pernah punya ide untuk mengolahnya menjadi produk makanan ringan. Untuk mengatasi hal ini Tim pengabdian memberikan materi pelatihan cara membuat sayur krispi. Produk ini berupa sayur krispi yang prosesnya menggunakan alat peniris minyak (spinner). Dengan pengetahuan ini diharapkan selanjutnya para peserta tersebut dapat mempraktekkan langsung pengetahuan yang mereka peroleh.Masyarakat diharapkan dapat membuat sayur krispi sendiri dan dapat dijual untuk usaha sampingan sehinggapendapatan keluarga dapat meningkat. Kegiatan ini juga dapat menjadi alternatif untuk usaha skala rumah tangga.\r\nKata kunci: teknologi tepat guna; alat peniris minyak; sayur krispi",
+      "corp_creators": [
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Mesin, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung"
+      ],
+      "volume": 4,
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "LPPM UNILA",
+      "publication": "Jurnal Sakai Sambayan",
+      "dir": "disk0\/00\/02\/74\/78",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "issn": "2550-1089",
+      "full_text_status": "public",
+      "status_changed": "2021-02-01 04:49:25"
+    },
+    {
+      "dir": "disk0\/00\/02\/21\/21",
+      "publication": "Jurnal Teknologi dan Inovasi Industri",
+      "divisions": [
+        "FT6"
+      ],
+      "issn": "ISSN 2722-0184, e-ISSN 2722-0192",
+      "full_text_status": "public",
+      "status_changed": "2020-06-09 07:26:33",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "abstract": "Pohon pinus yang dibudidayakan di Indonesia sebagian besar adalah jenis pinus merkussi yang terdiri dari dua komponen utama yaitu gondorukem(60%) dan minyak terpentin (10-17,5%. Hasil utama penyulingan getah pinus yaitu berupa minyak terpentin. Minyak terpentin yang diperoleh memilki kandungan α-pinene yang bisa dihidrasi untuk menghasilkan α-terpineol dengan menggunakan katalis heterogen berupa zeolit alam dapat menjadi alternatif baru sabagai pengganti katalis homogen asam cair. Pada penelitian ini, dipelajari pengaruh kecepatan pengadukan dan waktu reaksi pada sintesis α-terpineol dari terpentin dengan katalis Zeolit Alam Lampung(ZAL) teraktivasi dengan isopropil alkhol sebagai solubility promoter. Zeolit alam lampung sebelum digunakan sebagai katalis dilakukan aktivasi secara kimia dan fisika untuk menghilangkan pengotor dan meningkatkan keasaman. Untuk mengetahui karakteristik zeolit, dilakukan analisis Fourier Transform Infrared (FTIR) dan analisis X-Ray Fluorescene (XRF). Variabel yang digunakan dalam sintesis α-terpineol dari terpentin adalah kecepatan pengadukan (300, 400 dan 500 rpm) dan waktu reaksi (60, 120, 180, dan\r\n240 menit). Senyawa hasil reaksi di uji dengan GC dan GCMS. Dari hasil penelitian diperoleh konversi tertinggi pada variasi kecepatan pengadukan 500 rpm dan waktu 240 menit sebesar 33,2363%.\r\n\r\nKata kunci: α-Terpineol, Terpentin, Zeolit Alam Lampung",
+      "volume": 1,
+      "corp_creators": [
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Juriusan Teknik KImia, Fakultas Teknik, Universitas Lampung",
+        "Juriusan Teknik KImia, Fakultas Teknik, Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22121",
+      "date": "2020-04",
+      "creators": [
+        {
+          "id": "herti.utami@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Utami",
+            "given": "Herti"
+          }
+        },
+        {
+          "name": {
+            "family": "Ginting",
+            "lineage": null,
+            "honourific": null,
+            "given": "Simparmin"
+          },
+          "id": "simparmin@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Eka Nanda",
+            "family": "Putriani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "title": "Pengaruh kecepatan pengadukan dan waktu reaksi\r\npada sintesis α-terpineol dari terpentin dengan katalis\r\nzeolit alam Lampung teraktivasi",
+      "refereed": "FALSE",
+      "datestamp": "2020-06-09 07:26:33",
+      "eprint_status": "archive",
+      "eprintid": 22121,
+      "metadata_visibility": "show",
+      "pagerange": "8-14",
+      "userid": 423,
+      "number": 1,
+      "lastmod": "2020-06-09 07:26:33",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35528",
+            "eprintid": 22121,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 35528,
+            "main": "Artikel Herti Utami JTII April 2020.pdf",
+            "files": [
+                {
+                  "hash": "0d3eb516bfac23bcfef1448946fd5cc0",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 203787,
+                  "mtime": "2020-06-09 07:12:38",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/203787",
+                  "filename": "Artikel Herti Utami JTII April 2020.pdf",
+                  "objectid": 35528,
+                  "filesize": 783431
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "pagerange": "265-279",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 34538,
+      "datestamp": "2021-10-15 04:46:30",
+      "documents": [
+          {
+            "eprintid": 34538,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155062",
+            "format": "text",
+            "docid": 155062,
+            "main": "6. Cindy Rizka Aulia.pdf",
+            "files": [
+                {
+                  "objectid": 155062,
+                  "filesize": 542365,
+                  "filename": "6. Cindy Rizka Aulia.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/406136",
+                  "hash_type": "MD5",
+                  "mtime": "2021-10-14 03:35:43",
+                  "fileid": 406136,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "a0a0f5a24f6f69e6fed7aa17d65559c5"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2021-10-15 04:46:30",
+      "number": 3,
+      "userid": 423,
+      "refereed": "FALSE",
+      "title": "PENGARUH WAKTU DAN PELARUT EDTA (Ethylenediaminetetraacetic Acid) PADA EKSTRAKSI FUKOIDAN DARI RUMPUT LAUT COKELAT Sargassum binderi Sonder",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Utami",
+            "given": "Herti"
+          },
+          "id": "herti.utami@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Muhammad",
+            "family": "Hanif",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "muhammad.hanif@eng.unila.ac.id"
+        },
+        {
+          "id": "cindyrzk@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Aulia",
+            "given": "Cindy Rizka"
+          }
+        },
+        {
+          "name": {
+            "given": "Zulaika Setya",
+            "honourific": null,
+            "family": "Mega Sari",
+            "lineage": null
+          },
+          "id": "zulaikha.setya1069@students.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "date": "2020-12-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34538",
+      "corp_creators": [
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung"
+      ],
+      "volume": 8,
+      "abstract": "Rumput laut cokelat memiliki beragam polisakarida yang terkandung di dalamnya. Salah satu polisakarida dari rumput laut cokelat yang diketahui memiliki bioaktivitas yang tinggi adalah fukoidan. Banyak penelitian telah menunjukkan bahwa bioaktivitas dari fukoidan antara lain mampu menghambat pertumbuhan sel kanker, anti koagulan, antivirial, dan sebagai immunostimulan. Mengisolasi fukoidan dari rumput laut cokelat telah banyak dilakukan dengan beragam cara. Penelitian ini bertujuan untuk mengetahui bagaimana pengaruh waktu dan konsentrasi pelarut EDTA (ethylenediaminetetraacetic acid) pada proses ekstraksi dan karakteristik fukoidan dari rumput laut cokelat jenis Sargassum binderi Sonder. Konsentrasi pelarut yang digunakan pada penelitian ini sebesar 0,15%; 0,3%: 0,5%; 1%; dan 1,3% serta waktu ekstraksi selama 1 jam, 2 jam, 3 jam, 4 jam, dan 5 jam. Perbandingan rumput laut dan air adalah 1:30 dengan suhu ekstraksi dilakukan pada 70˚C. Dalam penelitian ini didapatkan yield crude fucoidan terbesar pada waktu ekstraksi 4 jam dan konsentrasi pelarut 1,3% yaitu sebesar 3,67%. Hasil analisis menunjukkan kandungan total gula dari ekstrak fukoidan dengan yield terbesar didapatkan sebesar 36,48% dan kandungan sulfat sebesar 17,16%. \r\n \r\nKata kunci: fukoidan, EDTA, bioaktivitas, rumput laut.",
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "Balitbangda Lampung",
+      "publication": "Jurnal Kelitbangan, Inovasi Pembangunan, Balitbangda Lampung",
+      "dir": "disk0\/00\/03\/45\/38",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2021-10-15 04:46:30",
+      "full_text_status": "public",
+      "issn": "P-ISSN 2354-5704, E-ISSN 2622-190X"
+    },
+    {
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "LPPM UNILA",
+      "publication": "Jurnal Sakai Sambayan",
+      "dir": "disk0\/00\/02\/09\/73",
+      "status_changed": "2020-05-29 04:05:55",
+      "full_text_status": "public",
+      "issn": "2550-1089",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "volume": 4,
+      "corp_creators": [
+        "Jurusan Teknik Kimia Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Kimia Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Kimia Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung"
+      ],
+      "abstract": "Batik Indonesia telah ditentukan sebagai salah satu warisan dunia (world heritage) oleh UNESCO. Momen penetapan batik sebagai warisan budaya dunia dari Indonesia ini, dimanfaatkan secara maksimal oleh para perajin batik di seluruh penjuru Nusantara, tidak terkecuali perajin batik di Bandar Lampung. Daerah Lampung yang semula tidak mempunyai motif batik tulis, dengan adanya momen tersebut mulai mencari-cari motif batik yang kiranya mewakili daerah Lampung. Di Bandar Lampung, khususnya di daerah Pinang Jaya, kecamatan Kemiling beberapa kelompok perajin batik tulis sudah terbentuk dalam rangka mengembangkan dan melestarikan kekhasan batik Lampung tersebut. Hasil produksi batik di Pinang Jaya, Kemiling ini masih belum terlalu besar, tiap kelompok perajin dapat menghasilkan sekitar 6 lembar kain batik tulis dalam satu bulan. Hal ini sangat tergantung pada tingkat kerumitan desain. Saat ini hasil produksi kelompok pengrajin batik ini masih kurang maksimal. \r\nPermasalahan yang dihadapi oleh perajin antara lain adalah : proses pembuatan batik yang dilakukan  menggunakan bahan pewarna batik dari bahan kimia, membuat perajin batik kurang nyaman karena berbahaya bagi kesehatan dan limbahnya dapat merusak lingkungan. Selain itu masalah terbatasnya modal usaha untuk pengembangan produksi. Tim pengabdian PKM akan memberikan solusi untuk mengatasi permasalahan ini. Selain bantuan alat, pelatihan dan pendampingan terkait peningkatan kuantitas dan kualitas produk kain batik khususnya pada proses pewarnaan batik perlu dilakukan dan ini adalah satu solusi yang ditawarkan untuk mengatasi permasalahan perajin. Industri batik yang sedang berkembang sekarang ini adalah batik yang menggunakan pewarna alam. \r\n\r\nKata kunci: Batik tulis; batik Lampung; perajin batik, pewarna alami",
+      "date": "2020-04-28",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20973",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Herti",
+            "lineage": null,
+            "family": "Utami",
+            "honourific": null
+          },
+          "id": "herti.utami@eng.unila.ac.id"
+        },
+        {
+          "id": "donny.lesmana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Lesmana",
+            "honourific": null,
+            "given": "Donny"
+          }
+        },
+        {
+          "name": {
+            "given": "Yuli",
+            "honourific": null,
+            "lineage": null,
+            "family": "Darni"
+          },
+          "id": "darni_yuli@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Novri",
+            "family": "Tanti",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rianti_dc@yahoo.com"
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "Aplikasi Metode Pewarnaan Secara Alami pada Home Industry Batik Khas Lampung di Kemiling, Bandar Lampung",
+      "eprintid": 20973,
+      "eprint_status": "archive",
+      "datestamp": "2020-05-29 04:05:55",
+      "pagerange": "78-82",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 423,
+      "documents": [
+          {
+            "format": "text",
+            "docid": 34348,
+            "main": "document(14).pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "cfe32ff22bcd9eeedc6946b17c635848",
+                  "fileid": 195836,
+                  "datasetid": "document",
+                  "mtime": "2020-05-29 03:58:14",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/195836",
+                  "filename": "document(14).pdf",
+                  "objectid": 34348,
+                  "filesize": 535299
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 20973,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34348",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2020-05-29 04:05:55",
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/article\/view\/152\/139"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "GE",
+        "TD",
+        "TP",
+        "TT"
+      ],
+      "event_title": "SENAPATI 2020",
+      "date": "2020-12-28",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31805",
+      "abstract": "Kelompok wanita tani di kelurahan Rajabasa Jaya, Bandar Lampung merupakan kelompok tani maju yang dasar penghasilannya dari Bertani dan bercocok tanam. Dengan hanya mengharapakn penghasilan dari Bertani saja, maka banyak kebutuhan yang tidak bisa tercukupi. Pada kegiatan pengabdian masyarakat ini ingin dibuat kelompok masyarakat ekonomi kreatif dengan cara memperkenalkan Teknik shibori aoi dan penggunaan pewarna alami dalam proses pencelupannya. Shibori sendiri merupakan Teknik mewarnai kain dari jepang yang isitilahnya sama dengan ‘jumputan’ pada kegiatan ini akan diajarkan metode sederhana penggunaan sumber daya alam sekitar untuk dasar bahan warna yang bersifat biodiversitas, variasi ikatan ala shibori aoi, dan proses pencelupan yang sederhana, murah, dan mudah untuk dilakukan. Diharapkan dengan adanya kegiatan ini akan dihasilkan produk yang memiliki daya jual di masyaraka lainnya. Sehingga ada perubahan tatanan masyarakat yang biasanya Bertani kini mampu mendapatkan penghasilan sampingan lain.",
+      "event_type": "conference",
+      "related_url": [
+        {
+          "url": "https:\/\/drive.google.com\/file\/d\/16NlsaWVjGp3AqHs4c6snqxmWwdZRnWHt\/view",
+          "type": "pub"
+        }
+      ],
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/03\/18\/05",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "full_text_status": "public",
+      "status_changed": "2021-06-03 06:38:49",
+      "metadata_visibility": "show",
+      "pagerange": "260-265",
+      "datestamp": "2021-06-03 06:38:49",
+      "eprint_status": "archive",
+      "eprintid": 31805,
+      "official_url": "http:\/\/senapati.eng.unila.ac.id\/prosiding-senapati-2020\/",
+      "lastmod": "2021-06-03 06:38:49",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2021-06-03 02:12:51",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal_Shibori_Senapati_Ready.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/376716",
+                  "objectid": 144079,
+                  "filesize": 10225504,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "5e14f627cf94a3425fa8d3f842e0a27c",
+                  "datasetid": "document",
+                  "fileid": 376716
+                }
+            ],
+            "main": "Jurnal_Shibori_Senapati_Ready.docx",
+            "docid": 144079,
+            "format": "text",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 31805,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144079",
+            "security": "public"
+          }
+      ],
+      "userid": 3252,
+      "title": "PENERAPAN TEKNOLOGI SHIBORI DENGAN PENCELUPAN MENGGUNAKAN PEWARNA ALAMI",
+      "event_dates": "22-23 September 2020",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "rosalia.werena@eng.unila.ac.id",
+          "name": {
+            "given": "Rosalia Dwi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Werena"
+          }
+        },
+        {
+          "name": {
+            "given": "Tiara",
+            "lineage": null,
+            "family": "Tiara",
+            "honourific": null
+          },
+          "id": "tiara.1030@eng.unila.ac.id"
+        },
+        {
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Septiana",
+            "lineage": null,
+            "given": "Trisya"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Daring, Universitas Lampung"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "ernawati",
+            "lineage": null,
+            "given": "evy"
+          }
+        },
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Iryani",
+            "honourific": null,
+            "given": "Dewi Agustina"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Performance of Annealed Composite Cellulose Acetate\/NaA Zeolite Membrane in Carbon dioxide\/Methane Gas Separation",
+      "eprint_status": "archive",
+      "eprintid": 31808,
+      "datestamp": "2021-06-03 06:39:04",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 636,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 31808,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144088",
+            "security": "public",
+            "main": "Paper_annaeling_Unpad_November2020.pdf",
+            "docid": 144088,
+            "files": [
+                {
+                  "hash": "86c3a8b6da4be9dc88896e630af0d9f6",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 376747,
+                  "mtime": "2021-06-03 02:35:55",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/376747",
+                  "filename": "Paper_annaeling_Unpad_November2020.pdf",
+                  "filesize": 1704115,
+                  "objectid": 144088
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2021-06-03 06:39:04",
+      "official_url": "http:\/\/journal.uinjkt.ac.id\/index.php\/valensi\/article\/view\/13101",
+      "publisher": "Program Studi Kimia Fakultas Sains dan Teknologi UIN Syarif Hidayatullah Jakarta",
+      "publication": "Jurnal Kimia Valensi",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/03\/18\/08",
+      "status_changed": "2021-06-03 06:39:04",
+      "issn": "2460-6065",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "QD"
+      ],
+      "volume": 6,
+      "abstract": "Ramie (Boehmeria nivea) is one type of plant used to produce high quality cellulose fiber. Its fiber is convertible to cellulose acetate (CA), which is commonly used as membrane’s material. Dense CA membrane is used in gas permeation process and the performance is improvable by mineral blending and annealing. This study aims to determine the characteristics of modified CA membranes and the performance in separation of CO2\/CH4 gases. Membrane preparation was carried out by using phase inversion technique, while annealing was carried out at 60oC. Furthermore, NaA zeolite was added with various concentrations, which include 5, 10, 15 and 20%. Gas permeation was carried out at 4 barrer for an hour. The performance of the membrane was measured based on its permeability and selectivity. The results showed that CA membrane with 10% zeolite yielded the best performance with CO2 and CH4 permeability of 140.55 and 22.25 barrer respectively and selectivity of CO2\/CH4 6.32.",
+      "date": "2020-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31808"
+    }
+]
+

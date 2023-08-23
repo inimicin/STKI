@@ -1,0 +1,413 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Shaft is a machine element with main function for power transmission. Shaft is often needed in stepped form (change in cross-section). For a non-smooth shaft (stepped shaft), the elementary stress equations are no longer hold for calculating the actual stress as the stress would be higher\r\nthan the nominal stresses. To relate the maximum stress at the discontinuity with the nominal stress calculated using the elementary stress equation, a factor is needed which is called stress concentration factor (SCF). This paper aims to present an experimental result of stress concentration factor of stepped shaft of circular-to-square cross-section under pure torsion. The results show that stress-concentration factor of stepped shaft of circular-to-square cross-section is slightly higher than corresponding stepped-shaft of circular-to-circular cross section.",
+      "volume": 8,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3730",
+      "date": "2008-09-11",
+      "dir": "disk0\/00\/00\/37\/30",
+      "publisher": "Jurusan Teknik Mesin FTI– ITS. Surabaya",
+      "publication": "Jurnal Teknik Mesin ITS",
+      "divisions": [
+        "FT7"
+      ],
+      "full_text_status": "public",
+      "issn": "1411-9471",
+      "status_changed": "2017-07-31 07:37:41",
+      "rev_number": 6,
+      "keywords": "stepped-shafts, circular-to-square cross-section, stress-concentration factors, strain gages, pure torsion.",
+      "ispublished": "pub",
+      "datestamp": "2017-07-31 07:37:41",
+      "eprint_status": "archive",
+      "eprintid": 3730,
+      "metadata_visibility": "show",
+      "pagerange": "194-200",
+      "userid": 457,
+      "number": 3,
+      "lastmod": "2017-07-31 07:37:41",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 3591,
+                  "filesize": 6969573,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26188",
+                  "filename": "JTM_ITS_2008.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-28 01:37:14",
+                  "datasetid": "document",
+                  "fileid": 26188,
+                  "mime_type": "application\/pdf",
+                  "hash": "2e269bbe2b5a0aa35753ec1a667f7e2c"
+                }
+            ],
+            "main": "JTM_ITS_2008.pdf",
+            "docid": 3591,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3591",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3730
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Akmal",
+            "lineage": null,
+            "given": "Jamiatul"
+          }
+        },
+        {
+          "id": "asnawi.lubis@eng.unila.ac.id",
+          "name": {
+            "family": "Lubis",
+            "lineage": null,
+            "honourific": null,
+            "given": "Asnawi"
+          }
+        }
+      ],
+      "title": "Experimental Method for the Determination of Stress Concentration Factors of Stepped-shafts of Circular-to-square Cross Section under Pure Torsion",
+      "refereed": "TRUE",
+      "contact_email": "asnawi.lubis@eng.unila.ac.id"
+    },
+    {
+      "creators": [
+        {
+          "id": "yanuar.burhanuddin@eng.unila.ac.id",
+          "name": {
+            "given": "Yanuar",
+            "family": "Burhanuddin",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Che Haron",
+            "honourific": null,
+            "given": "C.H"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "J. A.",
+            "honourific": null,
+            "family": "Ghani",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "A.K",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ariffin"
+          },
+          "id": null
+        },
+        {
+          "id": "gusri.akhyar@eng.unila.ac.id",
+          "name": {
+            "given": "G.A",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ibrahim"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yasir",
+            "honourific": null,
+            "given": "A."
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "N.H.",
+            "family": "El-Maghribi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "The Effects of CBN Cutting Tool Grades on the Tool Life and Wear Mechanism When Dry Turning of Titanium Alloy",
+      "contact_email": "yanuar.burhanuddin@eng.unila.ac.id",
+      "eprint_status": "archive",
+      "eprintid": 23988,
+      "datestamp": "2020-09-14 01:43:40",
+      "pagerange": "105-110",
+      "metadata_visibility": "show",
+      "number": 2,
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Burhanuddin",
+            "given": "Yanuar"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yanuar.burhanuddin@eng.unila.ac.id"
+        }
+      ],
+      "userid": 68,
+      "documents": [
+          {
+            "main": "AIJSTPME 2008 1(2)_yanuar.pdf",
+            "files": [
+                {
+                  "hash": "57507eebed7942ba45678fc3ff50e100",
+                  "mime_type": "application\/pdf",
+                  "fileid": 218628,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/218628",
+                  "filename": "AIJSTPME 2008 1(2)_yanuar.pdf",
+                  "filesize": 980676,
+                  "objectid": 37684,
+                  "mtime": "2020-09-13 13:47:09",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 37684,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 23988,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37684",
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/ojs.kmutnb.ac.th\/index.php\/ijst\/pages\/view\/AboutTheJournal",
+      "lastmod": "2020-09-14 01:43:40",
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "King Mongkut's University of Technology",
+      "publication": "Asian International Journal of Science and Technology in Production and Manufacturing Engineering",
+      "dir": "disk0\/00\/02\/39\/88",
+      "related_url": [
+        {
+          "url": "http:\/\/www.aijstpme.kmutnb.ac.th"
+        }
+      ],
+      "status_changed": "2020-09-14 01:43:40",
+      "issn": "1906-151X",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "subjects": [
+        "TJ",
+        "TS"
+      ],
+      "volume": 1,
+      "abstract": "This study investigates the significant factors that affect the tool life, wear progression, and wear mode \r\nmechanism of the CBN cutting tool when turning Ti-6Al-4V. The effects of cutting variables are investigated by the application of partial factorial design method. The machining tests were carried out under dry cutting condition.  The cutting speeds selected were 180 and 280 m min-1.  The feed rates were 0.05 and 0.25 mm rev-1.\r\nThe experiment used T-chamfered edge. Two types of CBN grade were used in the experiment: low and high content. The study found that both of cutting speed and feed were significantly affecting the tool life. The detailed study on worn out tool using SEM revealed that the wear were occurred on both flank and rake faces of the cutting edge. The wear mechanisms such as rubbing, abrasion, adhesion, diffusion-dissolution and fracture were observed.",
+      "date": "2008-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23988"
+    },
+    {
+      "documents": [
+          {
+            "format": "text",
+            "docid": 353,
+            "main": "JTMIndonesia2008.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-22 07:16:04",
+                  "objectid": 353,
+                  "filesize": 7059308,
+                  "filename": "JTMIndonesia2008.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/2101",
+                  "fileid": 2101,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "8566bfde216d9bf0a217a63afe68c729"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 382,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/353",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2016-08-22 09:00:53",
+      "number": 2,
+      "userid": 457,
+      "pagerange": "48-52",
+      "metadata_visibility": "show",
+      "eprintid": 382,
+      "id_number": 1,
+      "eprint_status": "archive",
+      "datestamp": "2016-08-22 09:00:53",
+      "refereed": "TRUE",
+      "title": "Stress Concentration Factors of Stepped-Shafts of Circular-to-square Cross Section under Twisting Moment",
+      "creators": [
+        {
+          "id": "asnawi.lubis@eng.unila.ac.id",
+          "name": {
+            "given": "Asnawi",
+            "family": "Lubis",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Jamiatul",
+            "honourific": null,
+            "family": "Akmal",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "date": "2008-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/382",
+      "volume": 3,
+      "abstract": "Shaft is a machine element whose main function for power transmission. Shaft is often needed in stepped form\r\n(change in cross-section). For a non-smooth shaft (stepped shaft),the elementary stress equations are no longer hold for calculating the actual stress as the stress would be higher than the nominal stresses. Tb relate the maximum stress at the discontinuity with the nominal stress calculated using the elementary stress equation, a factor is needed which is called stress concentration factor (SCF). This paper presents a graph for design purpose of stress concentration factor of stepped shaft of circular-to-square cross-section under twisting moment. The graph was derived from an extensive linier finite element parametric study and presented in line of the well-known Peterson's graph for stepped shaft of uniform circular cross-section. Finite element parametric study was carried out for every combination of diameter to diagonal ratio, D\/d and radius of fillet to diagonal ratio, r\/d. For geometry with particular D\/d value, six analyses were done by varying the r\/d value. Stress distribution shows that maximum shearing stress located at the root of square, exactly at midside. In general graphical design similar to the well known Peterson graph was produced.",
+      "subjects": [
+        "AC"
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2016-08-22 09:00:53",
+      "full_text_status": "public",
+      "issn": "1907-350X",
+      "publisher": "BKSTM Indonesia",
+      "publication": "Jurnal Teknik Mesin Indonesia",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/00\/03\/82"
+    },
+    {
+      "lastmod": "2018-06-29 08:27:18",
+      "metadata_visibility": "show",
+      "contact_email": "asnawi.lubis@eng.unila.ac.id",
+      "title": "Strength and structural integrity assessment of fillet weld attachment junction on\r\ncylindrical pressure vessels",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Destarius",
+            "family": "Mahardika",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "asnawi.lubis@eng.unila.ac.id",
+          "name": {
+            "given": "Asnawi",
+            "family": "Lubis",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Akmal",
+            "lineage": null,
+            "given": "Jamiatul"
+          },
+          "id": "jamiatulakmal@gmail.com"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8279",
+      "volume": 1977,
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "rev_number": 6,
+      "status_changed": "2018-06-29 08:27:18",
+      "publication": "AIP Conference Proceedings",
+      "dir": "disk0\/00\/00\/82\/79",
+      "divisions": [
+        "FT7"
+      ],
+      "official_url": "http:\/\/aip.scitation.org\/toc\/apc\/1977\/1",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "1.5042950.pdf",
+            "docid": 21326,
+            "files": [
+                {
+                  "fileid": 82106,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "547825f3ab26f15a04423e5d6b158d32",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-29 06:37:37",
+                  "objectid": 21326,
+                  "filesize": 413364,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/82106",
+                  "filename": "1.5042950.pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21326",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 8279
+          }
+      ],
+      "userid": 457,
+      "pagerange": "030030-1-030030-8",
+      "datestamp": "2018-06-29 08:27:18",
+      "eprintid": 8279,
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "date": "2008-06",
+      "abstract": "Welding is a method of joining componentsin manufacturing of piping and pressure vessels.  Welding is used to joint cylindrical vessel and head, vessel and nozzle, and pad attachment for lifting lug. This paper aims to present results of finite element study of strength and structural integrity of fillet weld used for pad attachment of lifting lug to lift a horizontal cylindrical vessel. It is aware that the pad attachment and the cylindrical vessel are not integrally jointed. The joint of pad attachment and the cylinder is only along the peripheral of the rectangular pad. Therefore, there is inherent crack introduced in this structural connection, the crack length equals to the axial and circumferential length of the pad. Study of the effect of crack length on limit load has been performed separately in 2D for circumferential and axial direction. The crack length parameter was 200, 210, 220, 230,240 and 250 mm. The results show surprisingly that crack length does not increase or decrease the limit load. It seems that strength of material approach does not work for dealing with cracked structures. Linear Elastic Fracture Mechanics (LEFM) analysis then was performed to study the effect of axial crack length on stress intensity factors, KI and KII. Results show that both KI and KII increased as the crack length increase.",
+      "corp_creators": [
+        "Universitas lampung"
+      ],
+      "keywords": "structural integrity, fillet weld, attachment, pressure vessel",
+      "ispublished": "pub",
+      "issn": "0094-243X",
+      "full_text_status": "public",
+      "related_url": [
+        {
+          "url": "http:\/\/aip.scitation.org\/toc\/apc\/1977\/1"
+        }
+      ],
+      "publisher": "AIP Publishing"
+    }
+]
+

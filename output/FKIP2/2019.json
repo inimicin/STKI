@@ -1,0 +1,620 @@
+[
+    {
+      "eprintid": 19887,
+      "eprint_status": "archive",
+      "datestamp": "2020-05-18 02:36:50",
+      "pagerange": "89-97",
+      "metadata_visibility": "show",
+      "userid": 2786,
+      "documents": [
+          {
+            "docid": 33196,
+            "main": "SEFT Konseling Keluarga.pdf",
+            "files": [
+                {
+                  "fileid": 188186,
+                  "datasetid": "document",
+                  "hash": "b6b4a683b179ee03d0001fc9773f894b",
+                  "mime_type": "application\/pdf",
+                  "filesize": 376211,
+                  "objectid": 33196,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/188186",
+                  "filename": "SEFT Konseling Keluarga.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-17 16:11:27"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 19887,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33196",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2020-05-18 02:36:50",
+      "official_url": "http:\/\/prosiding.unipma.ac.id\/index.php\/SNBK",
+      "creators": [
+        {
+          "name": {
+            "given": "Mujiyati",
+            "lineage": null,
+            "family": "Mujiyati",
+            "honourific": null
+          },
+          "id": "mujiyati@fkip.unila.ac.id"
+        },
+        {
+          "id": "sofwan@konselor.org",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Adiputra",
+            "given": "Sofwan"
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "event_dates": "24 Juli 2019",
+      "refereed": "TRUE",
+      "title": "Symbolic-Experiential Family Therapy (SEFT) pada Konseling Keluarga",
+      "event_location": "Universitas PGRI MADIUN",
+      "event_title": "Seminar Nasional Bimbingan dan Konseling",
+      "subjects": [
+        "LB"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Muhammadiyah Pringsewu"
+      ],
+      "abstract": "The family is an interaction between two or more people and has blood ties, ties due to marriage, kinship in which there is a system that binds to one another. Failure in the family can happen. This is due to dysfunction within the family, so the role of the counselor is needed to help the problem. One approach in family counseling that can help overcome family problems is Symbolic Experiential Family Therapy (SEFT). SEFT focuses on personal growth and symbolic experience. The purpose of SEFT is to enrich, expand and change the symbolic world of the family. The task of the counselor is to provide experience for the family that will reshape the dysfunctional family symbol.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19887",
+      "date": "2019-10",
+      "dir": "disk0\/00\/01\/98\/87",
+      "divisions": [
+        "FKIP2"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/prosiding.unipma.ac.id\/index.php\/SNBK\/article\/view\/1402",
+          "type": "author"
+        }
+      ],
+      "event_type": "conference",
+      "status_changed": "2020-05-18 02:36:50",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub"
+    },
+    {
+      "documents": [
+          {
+            "mime_type": "application\/xml",
+            "language": "id",
+            "rev_number": 3,
+            "main": 1402,
+            "docid": 36247,
+            "files": [
+                {
+                  "objectid": 36247,
+                  "filesize": 22264,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/208722",
+                  "filename": 1402,
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-25 04:44:28",
+                  "datasetid": "document",
+                  "fileid": 208722,
+                  "hash": "151c204ed8e8918ebe465ff29fccae93",
+                  "mime_type": "application\/xml"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36247",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 22742
+          }
+      ],
+      "lastmod": "2020-06-25 06:46:14",
+      "official_url": "http:\/\/prosiding.unipma.ac.id\/index.php\/SNBK",
+      "userid": 2786,
+      "pagerange": "89-97",
+      "metadata_visibility": "show",
+      "eprintid": 22742,
+      "eprint_status": "archive",
+      "datestamp": "2020-06-25 06:46:14",
+      "event_location": "Universitas PGRI MADIUN",
+      "refereed": "TRUE",
+      "event_dates": "24 Juli 2019",
+      "title": "Symbolic-Experiential Family Therapy (SEFT) pada Konseling Keluarga",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "mujiyati@fkip.unila.ac.id",
+          "name": {
+            "given": "Mujiyati",
+            "family": "Mujiyati",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sofwan",
+            "honourific": null,
+            "lineage": null,
+            "family": "Adiputra"
+          },
+          "id": "sofwan@konselor.org"
+        }
+      ],
+      "type": "conference_item",
+      "date": "2019-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22742",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Muhammadiyah Pringsewu"
+      ],
+      "abstract": "The family is an interaction between two or more people and has blood ties, ties due to marriage, kinship in which there is a system that binds to one another. Failure in the family can happen. This is due to dysfunction within the family, so the role of the counselor is needed to help the problem. One approach in family counseling that can help overcome family problems is Symbolic Experiential Family Therapy (SEFT). SEFT focuses on personal growth and symbolic experience. The purpose of SEFT is to enrich, expand and change the symbolic world of the family. The task of the counselor is to provide experience for the family that will reshape the dysfunctional family symbol.",
+      "event_title": "Seminar Nasional Bimbingan dan Konseling",
+      "subjects": [
+        "LB"
+      ],
+      "date_type": "published",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2020-06-25 06:46:14",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "dir": "disk0\/00\/02\/27\/42",
+      "divisions": [
+        "FKIP2"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/prosiding.unipma.ac.id\/index.php\/SNBK\/article\/view\/1402",
+          "type": "author"
+        }
+      ]
+    },
+    {
+      "pagerange": "39-44",
+      "metadata_visibility": "show",
+      "eprintid": 29339,
+      "eprint_status": "archive",
+      "datestamp": "2021-04-15 10:24:47",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 43466,
+            "main": "214-Article Text-380-1-10-20200622.pdf",
+            "files": [
+                {
+                  "hash": "f4fc4f0d0fc43883e38b15eede13755c",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 259982,
+                  "mtime": "2021-04-15 01:03:59",
+                  "hash_type": "MD5",
+                  "filename": "214-Article Text-380-1-10-20200622.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259982",
+                  "filesize": 573742,
+                  "objectid": 43466
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43466",
+            "pos": 1,
+            "eprintid": 29339,
+            "placement": 1
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Prosiding ICMSE.pdf",
+            "docid": 43467,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 259984,
+                  "mime_type": "application\/pdf",
+                  "hash": "958c0339c2ce0bcfb1c70eb8def166c7",
+                  "filesize": 2767529,
+                  "objectid": 43467,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259984",
+                  "filename": "Prosiding ICMSE.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-15 01:04:31"
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43467",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 29339
+          },
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-15 01:05:24",
+                  "filesize": 1455653,
+                  "objectid": 43468,
+                  "filename": "Analysis of students problem solving ability by using polya steps in linear program material.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/259986",
+                  "datasetid": "document",
+                  "fileid": 259986,
+                  "hash": "184e3602e2c917890c40584c579a04b8",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Analysis of students problem solving ability by using polya steps in linear program material.pdf",
+            "docid": 43468,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43468",
+            "pos": 3,
+            "security": "public",
+            "placement": 3,
+            "eprintid": 29339
+          }
+      ],
+      "lastmod": "2021-04-15 10:24:47",
+      "official_url": "http:\/\/science.conference.upi.edu\/proceeding\/index.php\/ICMScE\/",
+      "userid": 815,
+      "refereed": "TRUE",
+      "title": "Analysis of students problem solving ability by using polya\r\nsteps in linear program material",
+      "creators": [
+        {
+          "name": {
+            "family": "Sari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nur Huda"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sutiarso",
+            "lineage": null,
+            "given": "Sugeng"
+          },
+          "id": "sugeng.sutiarso@fkip.unila.ac.id"
+        },
+        {
+          "id": "syarifuddin.d@fkip.unila.ac.id",
+          "name": {
+            "given": "Syarifuddin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dahlan"
+          }
+        }
+      ],
+      "type": "article",
+      "book_title": "International Conference on Mathematics and Science Education  of Universitas Pendidikan Indonesia",
+      "subjects": [
+        "LB"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29339",
+      "date": 2019,
+      "volume": 4,
+      "corp_creators": [
+        "Fakultas Keguruan dan Ilmu Pendidikan Universitas Lampung"
+      ],
+      "abstract": "The purpose of this study is to analyze students problem solving ability by using\r\npolya steps in linear program material. This was a descriptive study that used a qualitative\r\napproach with 103 students of XI grade of science at SMA Negeri 1 Kota Bumi as the subject\r\nof the study. The data was collected through the technique of a written test, which consisted of\r\ntwo questions. The result of the research showed that the ability of problem solving in students\r\nof XI grade of science at SMA Negeri 1 Kota Bumi were good, which were 17 students or\r\n16,50% was very good at problem solving, 53 students or 51,47% was good enough at problem\r\nsolving, 28 students or 27,18% was less good at problem solving, and 5 students or 4,85% was\r\ngoodless at problem solving. The results of each indicator of problem solving ability was the\r\nindicator of understanding the problem was 87,86%, indicator of arranging a plan was 45,99%,\r\nindicator of carrying out a plan was 39,31%, and indicator of re-check was 34,91%",
+      "publication": "International Conference on Mathematics and Science Education  of Universitas Pendidikan Indonesia",
+      "publisher": "Sekolah Pascasarjana Universitas Pendidikan Indonesia",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/02\/93\/39",
+      "rev_number": 12,
+      "ispublished": "pub",
+      "status_changed": "2021-04-15 10:24:47",
+      "issn": "P-ISSN 2655-2361, E-ISSN 2655-3252",
+      "full_text_status": "public"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "1-5",
+      "datestamp": "2019-04-29 08:12:12",
+      "eprint_status": "archive",
+      "eprintid": 11168,
+      "lastmod": "2019-04-29 08:12:12",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/xml",
+                  "hash": "87298ebf54a2883992d41dfa2256c664",
+                  "fileid": 101975,
+                  "datasetid": "document",
+                  "mtime": "2019-04-16 01:40:42",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/101975",
+                  "filename": "pdf",
+                  "filesize": 30401,
+                  "objectid": 24160
+                }
+            ],
+            "main": "pdf",
+            "docid": 24160,
+            "format": "other",
+            "language": "en",
+            "rev_number": 4,
+            "mime_type": "application\/xml",
+            "content": "published",
+            "placement": 1,
+            "eprintid": 11168,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24160",
+            "pos": 1,
+            "security": "public",
+            "formatdesc": "PDF"
+          }
+      ],
+      "userid": 140,
+      "number": 1,
+      "title": "The Effect of Social Problem Solving Skills on Coping Strategy and Optimism of Secondary School Students in Bandar Lampung City, Indonesia",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "diahutaminingsih@yahoo.co.id",
+          "name": {
+            "given": "Diah",
+            "lineage": null,
+            "family": "Utaminingsih",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11168",
+      "date": "2019-04",
+      "volume": 9,
+      "divisions": [
+        "FKIP2"
+      ],
+      "publisher": "FKIP Unila",
+      "publication": "Jurnal Pendidikan Progresif",
+      "dir": "disk0\/00\/01\/11\/68",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "issn": "2087-9849",
+      "full_text_status": "public",
+      "status_changed": "2019-04-29 08:12:12"
+    },
+    {
+      "abstract": "Examination of Validity and reliability this research to know about validity and reliability of indicators development materials instruction at elementary school base on Curriculum 2013. This study is research and development indicators development materials instruction with scientific, authentic, and contextual approach for development cognitive aspect,\r\naffective aspect and psychomotor aspect. Subject of this research are the teachers of Elementary School Pilot Project Implementation Curriculum 2013 at Bandar Lampung. Validated indicators development of materials instruction have been done by expert of Curriculum, Technology of Instruction, Social\r\nScience Elementary School, Science Elementary School and Mathematic\r\nElementary School. Examination validity of this step by qualitative analysis and examination of reliability by the General Multifaceted Model. Validity examination indicators development materials instruction by teachers are qualitative analysis, Item Total Statistic and examination of reliability by Cronbach’s Alpha. The results of research and development indicators development materials instruction at elementary school base on Curriculum 2013, are as follows; (1) Specification of indicators development materials instruction at elementary school base on Curriculum 2013 with scientific,\r\nauthentic, and contextual approach for development cognitive aspect, affective aspect and psychomotor aspect. (2) The result of validation by experts show that indicators development materials instruction at elementary school base on Curriculum 2013 with scientific, authentic, and contextual approach for development cognitive aspect, affective aspect and psychomotor aspect are very good and the result analysis by statistic program shows that are reliable. (3) The result of validation by teachers’ show that are good, and\r\nthe result analysis by statistic program shows that are valid and reliable. Indicators have been designed with scientific, authentic, and contextual approach for development cognitive aspect; affective aspect and psychomotor aspect are feasible for development materials instruction at elementary school\r\nbase on Curriculum 2013.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33761",
+      "date": "2019-05-01",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "event_title": "Proceeding International Conference School Yogyakarta State Univ. Indonesia",
+      "date_type": "published",
+      "status_changed": "2021-09-03 02:04:26",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 15,
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/03\/37\/61",
+      "event_type": "conference",
+      "userid": 664,
+      "documents": [
+          {
+            "format": "text",
+            "main": "7. ICERE yang bener.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "16b2eb018dc839e144aab42848a53d1e",
+                  "fileid": 399760,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/399760",
+                  "filename": "7. ICERE yang bener.pdf",
+                  "filesize": 34628325,
+                  "objectid": 153992,
+                  "mtime": "2021-09-02 05:08:50",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 153992,
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 33761,
+            "placement": 1,
+            "security": "public",
+            "formatdesc": "Artikel",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153992"
+          },
+          {
+            "format": "text",
+            "main": "7.pdf",
+            "docid": 153993,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 399763,
+                  "mime_type": "application\/pdf",
+                  "hash": "4152339db9ca212811fb18257151fd9d",
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-02 05:09:19",
+                  "objectid": 153993,
+                  "filesize": 817796,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/399763",
+                  "filename": "7.pdf"
+                }
+            ],
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 33761,
+            "placement": 2,
+            "security": "public",
+            "formatdesc": "Reviewer",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153993"
+          },
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/399768",
+                  "filename": "7. Validity_and_reliability_examination_of_indicators.pdf",
+                  "filesize": 1273049,
+                  "objectid": 153995,
+                  "mtime": "2021-09-02 05:12:46",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "abd4574a54cbcfcdee68d1728ae5b146",
+                  "datasetid": "document",
+                  "fileid": 399768
+                }
+            ],
+            "main": "7. Validity_and_reliability_examination_of_indicators.pdf",
+            "docid": 153995,
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "placement": 3,
+            "eprintid": 33761,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153995",
+            "pos": 3,
+            "security": "public",
+            "formatdesc": "Similaritas"
+          }
+      ],
+      "lastmod": "2021-09-03 02:04:26",
+      "eprintid": 33761,
+      "eprint_status": "archive",
+      "datestamp": "2021-09-03 02:04:26",
+      "pagerange": "348-355",
+      "metadata_visibility": "show",
+      "pres_type": "poster",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "rochmiyati",
+            "honourific": null,
+            "given": "rochmiyati"
+          },
+          "id": "rochmiyatiazwardi@yahoo.co.id"
+        }
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "title": "Validity and Reability Examination of Indicators Development Materials Instruction at Elementary School Base on Curriculum 2013."
+    },
+    {
+      "divisions": [
+        "FKIP2"
+      ],
+      "publication": "Journal for the Education of Gifted Young Scientists",
+      "dir": "disk0\/00\/02\/16\/72",
+      "status_changed": "2020-06-03 12:11:54",
+      "full_text_status": "public",
+      "issn": "2149-360X",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "volume": 7,
+      "abstract": "Students'  mental  strength  in  higher  education  plays  a  very  important  role  in  academic success,  especially  for  gifted  student. Many  findings  indicated  that  there  were  a  few academically  gifted  students  without  troubles.  This  research  was  conducted  to  produce  a counseling service strategy by combining religious aspects with aspects that are always used in  human  daily  life  in  displaying  certain  behaviors.  The  strategy  developed  by author  was applied  to  23  the  final  year  gifted  students  whom  had  non-technical  problems  related  to student  motivation  and  emotions.  Treatment  was  done  to  help  strengthen  the  mental  of gifted students in achieving academic success in the form of completing studies in a timely manner. Student’s mental strength was observed from several indicators which were part of the content of the strategy developed. The development of mental strength of students after being given treatment was reviewed using the results of the questionnaire interpretation that had been filled by students, which were then analyzed qualitatively. The results showed that religious  counseling  services  with  strategies  developed  could  help  giftedstudents  to  have aspects of behavior that were very important to themselves, so that there were no obstacles that  arise  in  themselves  to  achieve  academic  success  through  the  completion  of  timely studies with satisfactory results.Keywords Gifted  Student,Religious  Counseling,  Mental  Strength,  Counseling  Strategy,  Academic Success",
+      "date": "2019-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21672",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "yusmansyah",
+            "given": "yusmansyah"
+          },
+          "id": null
+        },
+        {
+          "id": "diahutaminingsih@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "family": "Utaminingsih",
+            "honourific": null,
+            "given": "Diah"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "The Working Framework of Religious Counseling Services to Strengthen Undergraduate Gifted Student’s Mental Ability: as a Powerful Alternative Strategy for Achieving Academic Success",
+      "eprintid": 21672,
+      "eprint_status": "archive",
+      "datestamp": "2020-06-03 12:11:54",
+      "pagerange": "273-298",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 140,
+      "documents": [
+          {
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 4,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 200623,
+                  "mime_type": "application\/pdf",
+                  "hash": "c2b7c3193c11e72c61b0055fca096d7e",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-03 11:23:11",
+                  "filesize": 1153941,
+                  "objectid": 35062,
+                  "filename": "5d14dd8905040.pdf_",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200623"
+                }
+            ],
+            "main": "5d14dd8905040.pdf_",
+            "docid": 35062,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35062",
+            "eprintid": 21672,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/dergipark.org.tr\/tr\/pub\/jegys\/issue\/45717\/521433",
+      "lastmod": "2020-06-03 12:11:54"
+    }
+]
+

@@ -1,0 +1,828 @@
+[
+    {
+      "creators": [
+        {
+          "id": "dwiasmi82@yahoo.com",
+          "name": {
+            "given": "Dwi",
+            "family": "Asmi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "agung.abadi@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Kiswandono",
+            "honourific": null,
+            "given": "Agung Abadi"
+          }
+        },
+        {
+          "id": "yanti.yulianti@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "yulianti",
+            "lineage": null,
+            "given": "yanti"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "PELATIHAN PEMBUATAN CINDERAMATA GANTUNGAN KUNCI\r\nMENGGUNAKAN MATERIAL RESIN BAGI PARA IBU RUMAH TANGGA \r\nDI DESA WISATA BRAJA HARJOSARI LAMPUNG TIMUR",
+      "refereed": "TRUE",
+      "userid": 1008,
+      "number": 1,
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/article\/view\/134",
+      "lastmod": "2019-11-04 08:13:57",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "c8d3a4ca4fa0092462ba9a0ac753a981",
+                  "datasetid": "document",
+                  "fileid": 131296,
+                  "mtime": "2019-11-04 05:23:47",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/131296",
+                  "filename": "134-1-287-2-10-20190321_8.pdf",
+                  "filesize": 474902,
+                  "objectid": 28400
+                }
+            ],
+            "main": "134-1-287-2-10-20190321_8.pdf",
+            "docid": 28400,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 15263,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28400",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2019-11-04 08:13:57",
+      "eprintid": 15263,
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jss.v3i1.134.",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "43-46",
+      "full_text_status": "public",
+      "issn": "e-ISSN 2550-1089",
+      "status_changed": "2019-11-04 08:13:57",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Jurnal Pengabdian kepada Masyarakat Sakai Sembayan",
+      "publisher": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Unila",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "dir": "disk0\/00\/01\/52\/63",
+      "abstract": "Pariwisata merupakan suatu aktivitas perjalanan yang dilakukan untuk sementara waktu dari tempat tinggal semula ke\r\ndaerah tujuan dengan alasan bukan untuk menetap atau mencari nafkah melainkan hanya untuk bersenang senang,\r\nmemenuhi rasa ingin tahu, maupun untuk menghabiskan waktu liburan dan pulang dengan membawa cinderamata.\r\nTujuan dari kegiatan pengabdian kepada masyarakat ini adalah untuk meningkatkan pengetahuan dan keterampilan\r\npara ibu rumah tangga di desa wisata Braja Harjosari dalam pembuatan cinderamata menggunakan bahan dasar resin\r\nmelalui kegiatan pelatihan. Metode yang digunakan dalam kegiatan ini adalah metode ceramah, diskusi, demonstrasi\r\ndan praktek langsung dalam pembuatan cinderamata berbahan dasar resin. Kegiatan pelatihan dilaksanakan di ruang\r\nMajlis Taklim desa Wisata Braja Harjosari Lampung Timur dengan jumlah peserta 20 orang. Hasil yang diperoleh\r\nadalah adanya peningkatan pengetahuan yang signifikan yaitu dari rata-rata nilai awal 35,5 menjadi 94,25 pada nilai\r\nakhir, sehingga rata-rata perbedaan kenaikan nilai adalah sebesar 58,75. Para pesertapun berkeingginan untuk\r\nmembuat usaha pembuatan cinderamata untuk meningkatan perekonomian warga.",
+      "volume": 3,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15263",
+      "date": "2019-03-19",
+      "date_type": "published",
+      "subjects": [
+        "TT"
+      ]
+    },
+    {
+      "divisions": [
+        "FMIPA6"
+      ],
+      "publisher": "IOP Publishing",
+      "publication": "Journal of Physics: Conference Series",
+      "dir": "disk0\/00\/04\/26\/76",
+      "full_text_status": "public",
+      "issn": "Print : 1742-6588 Online : 1742-6596",
+      "status_changed": "2022-06-21 01:20:15",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "date_type": "published",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "It has been realized an instrument for measuring cassava starch content digitally based on specific gravity method. The instrument is designed using strain gauge, which packing in load cell as a mass sensor, HX711 (Analog to Digital Converter), Arduino Uno as a data processor, LCD, and personal computer. The principles of this instrument are using specific gravity method, which is based on differences of cassava mass in the air and the water. Cassava starch content calculated by Arduino using Sungzikaw equation and displayed in LCD screen. The result showed that the instrument capable measure cassava starch content with the maximum capacity of 2,0 kg and average percentage error of less than 1,5 %.",
+      "volume": 1338,
+      "date": 2019,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42676",
+      "creators": [
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "family": "Junaidi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Junaidi"
+          }
+        },
+        {
+          "id": "arif.surtono@fmipa.unila.ac.id",
+          "name": {
+            "given": "arifs",
+            "honourific": null,
+            "lineage": null,
+            "family": "Arif Surtono"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "AMIR SUPRIYANTO",
+            "family": "AMIR SUPRIYANTO",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "GURUM A. PAUZI",
+            "honourific": null,
+            "given": "GURUM A. PAUZI"
+          }
+        },
+        {
+          "id": "sri.wahyu@fmipa.unila.ac.id",
+          "name": {
+            "given": "sw suciyati",
+            "lineage": null,
+            "family": "Sri Wahyu Suciyati",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Warsito",
+            "honourific": null,
+            "lineage": null,
+            "family": "Warsito"
+          },
+          "id": "warsito@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "Measuring of Cassava Starch Content by Using Strain Gauge",
+      "refereed": "TRUE",
+      "datestamp": "2022-06-21 01:20:15",
+      "id_number": "doi:10.1088\/1742-6596\/1338\/1\/012019",
+      "eprint_status": "archive",
+      "eprintid": 42676,
+      "metadata_visibility": "show",
+      "userid": 181,
+      "number": 1,
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1742-6596\/1338\/1\/012019",
+      "lastmod": "2022-06-21 01:20:15",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Surtono_2019_J._Phys.__Conf._Ser._1338_012019.pdf",
+            "docid": 164397,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "5379c0a27e91fd4e8b422f6d7ba400ce",
+                  "datasetid": "document",
+                  "fileid": 468156,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/468156",
+                  "filename": "Surtono_2019_J._Phys.__Conf._Ser._1338_012019.pdf",
+                  "objectid": 164397,
+                  "filesize": 747197,
+                  "mtime": "2022-06-21 01:10:13",
+                  "hash_type": "MD5"
+                }
+            ],
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "eprintid": 42676,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164397"
+          }
+      ]
+    },
+    {
+      "status_changed": "2019-11-04 02:22:39",
+      "rev_number": 6,
+      "publication": "Spektra: Jurnal Fisika dan Aplikasinya",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "dir": "disk0\/00\/01\/42\/98",
+      "volume": 4,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14298",
+      "date_type": "published",
+      "subjects": [
+        "QC"
+      ],
+      "creators": [
+        {
+          "id": "lenirumiyanti@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rumiyanti",
+            "honourific": null,
+            "family": "Leni",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Listiani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Listiani"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Damayanti",
+            "honourific": null,
+            "lineage": null,
+            "family": "Tika"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "OPTIMIZATION OF THE USE OF FLY ASH IS AN ADDITIVE PORTLAND COMPOSITE CEMENT (PCC)",
+      "lastmod": "2019-11-04 02:22:39",
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "issn": "p-ISSN: 2541-3384; e-ISSN:2541-3392",
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "url": "http:\/\/journal.unj.ac.id\/unj\/index.php\/spektra\/article\/view\/10035"
+        }
+      ],
+      "publisher": "Universitas Negeri Jakarta",
+      "abstract": "Research has been carried out on the optimization of the use of Lahat Fly Ash as an Additive Portland Composite Cement (PCC) which aims to determine the optimum conditions for adding Lahat fly ash to produce cement with physical and chemical requirements in accordance with SNI 7064:2014 and discover the ideal composition of cement with fly additions Lahat ash from various cement compositions. The quality analysis in making PCC cement is chemically in the form of Insoluble Residue (IR), Loss of Ignition (LOI), and free lime (FCaO) as well as the quality of physics in the form of Blaine, setting time, and cement mortar compressive strength. The results obtained after the process of making PCC cement with the addition of 14% Lahat fly ash, namely PCC cement in optimum conditions with physical and chemical requirements in accordance with SNI 7064: 2014 where the ideal composition of PCC cement manufacture is 14% Lahat fly ash, clinker 62%, 3% gypsum, 18% limestone, and 3% pozzolans in making PCC cement. Therefore, Lahat fly ash can be used as an alternative mixture in making PCC cement",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "PT Semen Baturaja"
+      ],
+      "date": "2019-08-31",
+      "refereed": "TRUE",
+      "userid": 1167,
+      "number": 2,
+      "official_url": "http:\/\/journal.unj.ac.id\/unj\/index.php\/spektra\/index",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 14298,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27362",
+            "pos": 1,
+            "security": "public",
+            "main": "10035-Article Text-25915-1-10-20190916.pdf",
+            "docid": 27362,
+            "files": [
+                {
+                  "hash": "b98b36230586d734079cd5649f2d3381",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 124148,
+                  "filename": "10035-Article Text-25915-1-10-20190916.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/124148",
+                  "filesize": 338555,
+                  "objectid": 27362,
+                  "mtime": "2019-09-19 18:25:36",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2019-11-04 02:22:39",
+      "eprint_status": "archive",
+      "id_number": "doi.org\/10.21009\/SPEKTRA",
+      "eprintid": 14298,
+      "pagerange": "61-72"
+    },
+    {
+      "abstract": "This study was conducted to determine the effect of andesite stone substitution on\r\ncompressive strength paving block. The percentage of andesite substitution of cement by 10, 20,\r\n30, 40, and 50% by weight of cement. Andesite rock after calcination was characterized using\r\nXRD (X-Ray Diffraction). The results of XRD analysis after calcination at the calcination\r\ntemperature of 900°C have formed muscovite, hedenbergite, and microcline phases. The highest\r\ncompressive strength of the paving block is found in the substitution of andesite stone of 10% of\r\nage 28 days and the lowest compressive strength is in the substitution of andesite 50% of 7 days.\r\nThis decrease is due to the excessive SiO2 content will bind to the free CaO contained in the\r\ncement and form Ca(OH)2. Ca(OH)2 causes reduced paving block density due to the formation of\r\nair cavities. Besides the high FAS factor and the gradation of sand size also affect the decrease of\r\ncompressive strength of paving block.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15216",
+      "date": "2019-08-08",
+      "date_type": "published",
+      "event_title": "The 2nd Mineral Processing and Technology International Conference",
+      "subjects": [
+        "QC"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2019-11-04 08:22:34",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "dir": "disk0\/00\/01\/52\/16",
+      "event_type": "conference",
+      "userid": 583,
+      "lastmod": "2019-11-04 08:22:34",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "jurnal internasional 2019 safriyadi.pdf",
+            "docid": 28354,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-04 03:46:19",
+                  "objectid": 28354,
+                  "filesize": 439860,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/130995",
+                  "filename": "jurnal internasional 2019 safriyadi.pdf",
+                  "datasetid": "document",
+                  "fileid": 130995,
+                  "hash": "94c6255ee6099aac194245f726fe95d1",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28354",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 15216
+          }
+      ],
+      "datestamp": "2019-11-04 08:22:34",
+      "eprint_status": "archive",
+      "eprintid": 15216,
+      "metadata_visibility": "show",
+      "pagerange": "1-6",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Muhammad",
+            "given": "Amin"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Supriyatna",
+            "lineage": null,
+            "family": "Y I",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "K",
+            "given": "Isnugroho"
+          }
+        },
+        {
+          "id": "sudibyo@lipi.go.id",
+          "name": {
+            "given": "Sudibyo",
+            "lineage": null,
+            "family": "Sudibyo",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "R",
+            "lineage": null,
+            "honourific": null,
+            "given": "Septiana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Syafriadi",
+            "family": "Syafriadi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Process of andesite stone as material of cement substitution in\r\nmaking paving block",
+      "refereed": "TRUE"
+    },
+    {
+      "pagerange": "35-41",
+      "eprintid": 12067,
+      "eprint_status": "archive",
+      "datestamp": "2019-05-09 02:47:48",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Jurnal Fisika Flux.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-08 08:47:45",
+                  "objectid": 25053,
+                  "filesize": 1462243,
+                  "filename": "Jurnal Fisika Flux.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/108068",
+                  "fileid": 108068,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "1620b40bea880a2c0c449d9fcd20a128"
+                }
+            ],
+            "docid": 25053,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25053",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12067
+          }
+      ],
+      "official_url": "https:\/\/ppjp.ulm.ac.id\/journal\/index.php\/f\/article\/view\/5524\/5142",
+      "number": 1,
+      "contributors": [
+        {
+          "id": "agus.riyanto@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Riyanto",
+            "given": "Agus"
+          }
+        }
+      ],
+      "userid": 1168,
+      "refereed": "TRUE",
+      "date": "2019-02",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "This study aims to identify the effect of preparation temperature on microstructure and magnetic properties of magnetite nanoparticles prepared from FeSO4.7H2O and FeCl3.6H2O by using the coprecipitation method without organic solvent and surfactant. Precursors were prepared at 30 oC, 60 oC, and 90 oC under atmospheric pressure. Microstructure and diameter distribution of magnetite nanoparticles were analyzed by using XRD, FTIR, TEM, and ImageJ software, while the magnetic properties were analyzed using VSM. The identification result shows that the magnetite phase was formed on all samples with a polycrystalline structure. The increasing of preparation temperature was followed by an increase in the diameter of grains and the oxidation rate of magnetite phase into maghemite (γ-Fe2O3). The superparamagnetic properties almost can be observed mainly in the sample prepared at 30 oC, where the magnitude of remanent and coercivity is 3.39 emu\/g and 23.93 Oe, respectively. The magnitude of remanent and coercivity increases as preparation temperature increases and superparamagnetic effect decrease.",
+      "publisher": "Jurusan Fisika Universitas Lambung Mangkurat",
+      "related_url": [
+        {
+          "url": "https:\/\/ppjp.ulm.ac.id\/journal\/index.php\/f\/article\/view\/5524\/5142"
+        }
+      ],
+      "ispublished": "pub",
+      "issn": "1829-796X",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "lastmod": "2019-05-09 02:47:48",
+      "title": "Preparasi dan Karakteristik Fisis Nanopartikel Magnetit (Fe3O4)",
+      "creators": [
+        {
+          "id": "agus.riyanto@fmipa.unila.ac.id",
+          "name": {
+            "family": "Riyanto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Agus"
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12067",
+      "volume": 16,
+      "publication": "Jurnal Fisika Flux",
+      "dir": "disk0\/00\/01\/20\/67",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "rev_number": 6,
+      "status_changed": "2019-05-09 02:47:48"
+    },
+    {
+      "volume": 15,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11047",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "status_changed": "2019-04-09 06:56:12",
+      "rev_number": 6,
+      "publication": "ALCHEMY Jurnal Penelitian Kimia",
+      "dir": "disk0\/00\/01\/10\/47",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "lastmod": "2019-04-09 06:56:12",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "agus.riyanto@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Riyanto",
+            "honourific": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sembiring",
+            "honourific": null,
+            "given": "Simon"
+          },
+          "id": "simon.sembiring@fmipa."
+        },
+        {
+          "name": {
+            "given": "Junaidi",
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ediman",
+            "lineage": null,
+            "family": "Ginting",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Analisis Transisi Fasa dan Sifat Dielektrik Pada Li2CoSiO4 yang Dipreparasi dari Silika Sekam Padi dan Produk Daur Ulang Katoda Baterai Ion Litium Bekas",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Studi ini mendeskripsikan analisis transisi fasa dan sifat dielektrik pada bahan litium kobalt silikat (Li2CoSiO4) yang dipreparasi dari silika sekam padi dan produk daur ulang katoda baterai ion litium bekas dengan perbandingan massa 1:1. Transisi fasa pada sampel Li2CoSiO4 dipelajari menggunakan teknik termogravimetry\/differential thermal analysis (TG\/DTA). Sedangkan, nilai konstanta dielektrik pada sampel yang telah disinter pada suhu 600 – 900 oC dikarakterisasi menggunakan inductance, capacitance, dan resistance (LCR) meter. Hasilnya, pada rentang suhu 410 – 850 oC terjadi transisi polimorfik fasa    menjadi fasa    . Suhu 850 oC juga merupakan titik transisi dimana fasa     berubah menjadi fasa    . Transisi fasa yang terjadi pada sampel  Li2CoSiO4 diikuti dengan peningkatan nilai konstanta dielektrik dalam rentang frekuensi 450 – 100.000 Hz.",
+      "date": "2019-03-01",
+      "projects": [
+        "Hibah Unggulan"
+      ],
+      "issn": "1412-409",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Jurusan Kimia Universitas Sebelas Maret",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.uns.ac.id\/alchemy\/article\/view\/24622",
+          "type": "pub"
+        }
+      ],
+      "number": 1,
+      "userid": 1168,
+      "documents": [
+          {
+            "format": "text",
+            "main": "24622-68084-1-PB.pdf",
+            "files": [
+                {
+                  "hash": "44c08dfcebba760c4eff66a432d08cb3",
+                  "mime_type": "application\/pdf",
+                  "fileid": 101110,
+                  "datasetid": "document",
+                  "mtime": "2019-03-29 13:18:55",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/101110",
+                  "filename": "24622-68084-1-PB.pdf",
+                  "objectid": 24045,
+                  "filesize": 557250
+                }
+            ],
+            "docid": 24045,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 11047,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24045"
+          }
+      ],
+      "official_url": "https:\/\/jurnal.uns.ac.id\/alchemy\/article\/view\/24622",
+      "eprint_status": "archive",
+      "eprintid": 11047,
+      "datestamp": "2019-04-09 06:56:12",
+      "pagerange": "89-103",
+      "refereed": "TRUE"
+    },
+    {
+      "divisions": [
+        "FMIPA6"
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "dir": "disk0\/00\/01\/31\/41",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2019-11-04 02:04:13",
+      "full_text_status": "public",
+      "issn": "2303-016X",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "date": "2019-01-21",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13141",
+      "volume": 7,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Sintering temperature has an effecton the purity level BPSCCO-2223 superconductor phase. This\r\nstudy has been conducted using the wet-mixing method with the materials used are Bi2O3, PbO, SrCO3,\r\nCaCO3, CuO, NHO3 and aquades. Synthesis carried out by slowly dissolving HNO3 and aquades then\r\ngradually for 40 hours dried out at a temperature of 300, 400, 600 °C. The sample was analysed with\r\ncalcination for 10 hours at 800 °C and sintering for 20 hours using variations of temperature on each 850,\r\n855, 860, and 865 °C. The XRD results show that phase purity which increases with increasing sintering\r\ntemperature. The relative high volume fraction of the BPSCCO-2223-865 sample is 87,20% while, the lowest\r\nvolume fraction of BPSCCO-2223-850 is 58,25%. The relative high orientation degree of BPSCCO-2223-\r\n855 is 27,64% and the lowest orientation degree of BPSCCO-2223-860 is 21,16%. The SEM result shows\r\nthat all samples have layers arranged (oriented) by empty spaces between relatively small plaque (void).",
+      "refereed": "TRUE",
+      "title": "Pengaruh Suhu Sintering Terhadap Tingkat Kemurnian Fase\r\nSuperkonduktor BPSCCO-2223 pada Kadar Ca 2,10\r\nMenggunakan Metode Pencampuran Basah.",
+      "creators": [
+        {
+          "name": {
+            "given": "Rizki Putri",
+            "lineage": null,
+            "family": "Surahman",
+            "honourific": null
+          },
+          "id": "srizkiputri@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suprihatin",
+            "lineage": null,
+            "given": "Suprihatin"
+          },
+          "id": "suprihatin.1973@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "family": "Riyanto",
+            "honourific": null
+          },
+          "id": "agus.riyanto@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "pagerange": "63-68",
+      "metadata_visibility": "show",
+      "eprintid": 13141,
+      "eprint_status": "archive",
+      "datestamp": "2019-11-04 02:04:13",
+      "documents": [
+          {
+            "docid": 26143,
+            "main": "1926-4310-1-PB_compressed.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-21 09:08:09",
+                  "objectid": 26143,
+                  "filesize": 265618,
+                  "filename": "1926-4310-1-PB_compressed.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/115491",
+                  "datasetid": "document",
+                  "fileid": 115491,
+                  "hash": "f892db22fe617062e34aa044f4786c16",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 13141,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26143",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2019-11-04 02:04:13",
+      "number": 1,
+      "userid": 1168
+    },
+    {
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Windy Mustika Sari",
+            "honourific": null,
+            "given": "WMS"
+          }
+        },
+        {
+          "name": {
+            "given": "SYRI",
+            "honourific": null,
+            "family": "Syafriadi",
+            "lineage": null
+          },
+          "id": "syafriadifisikamipa@gmail.com"
+        },
+        {
+          "name": {
+            "given": "EGS",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ediman Ginting Suka"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Jurnal Teori dan Aplikasi Fisika",
+      "number": 2,
+      "userid": 583,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 15242,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28378",
+            "pos": 1,
+            "security": "public",
+            "docid": 28378,
+            "main": "Jurnal 1.pdf",
+            "files": [
+                {
+                  "fileid": 131165,
+                  "datasetid": "document",
+                  "hash": "c9887d65a13385668055f44921cf6cd9",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-04 04:28:49",
+                  "objectid": 28378,
+                  "filesize": 384190,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/131165",
+                  "filename": "Jurnal 1.pdf"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2019-11-04 08:13:43",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1949\/1680",
+      "eprint_status": "archive",
+      "eprintid": 15242,
+      "datestamp": "2019-11-04 08:13:43",
+      "pagerange": "1-8",
+      "metadata_visibility": "show",
+      "status_changed": "2019-11-04 08:13:43",
+      "full_text_status": "public",
+      "issn": "2303-016X",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "publisher": "Lampung University",
+      "publication": "Pengaruh Variasi Konsentrasi Ekstrak Daun Alpukat (Persea americana M.) sebagai Inhibitor pada Baja SS-304 dalam Larutan HCl 1M",
+      "dir": "disk0\/00\/01\/52\/42",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "volume": 7,
+      "abstract": "Abstract. Avocado leaves extract (Persea americana M.) is used as an inhibitor to the sample of SS-304 Stainless steel which cures in HCl 1M Corrosive Medium for 168 hours, the inhibitor concentration variation added 0%, 2%, 4%, 6%, 8% and 10% respectively. The corrosion rate is measured by using loss-weight method. The results show the lowest samples is 0,37 mm\/y of 6% and the highest 10,75 mm\/y of 0%. Inhibitor efficiency to the sample SS-304 Stainless steel potrays the effectively progress to 96,55% with 6% concentration. X-Ray Diffaraction Results accquired BCC and FCC with Fe- dan Fe- phase along with SEM that forms agglomeration, cracked, and hole which result on its corrosion. In addition EDS contains Oxygen (O) and Chlorine (Cl) Element which indicate that stainless still has affected by corrotion. Thus from three samples which characterized and measured show that avocado leaves effectively as an inhibitor to the sample SS-304 stainless steel in HCl 1M corrosive medium.\r\nKey words: SS-304 Stainless steel, avocado leaves exctract, inhibitor, SEM-EDS and XRD.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15242",
+      "date": "2019-07",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published"
+    }
+]
+

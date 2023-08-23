@@ -1,0 +1,141 @@
+[
+    {
+      "lastmod": "2018-06-21 02:29:41",
+      "metadata_visibility": "show",
+      "title": "ALGINATE ADDITION ON GEBLEK",
+      "type": "book_section",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Nurainy",
+            "lineage": null,
+            "given": "Fibra"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Koesoemawardani",
+            "given": "Dyah"
+          },
+          "id": null
+        },
+        {
+          "id": "novita.herdiana@fp.unila.ac.id",
+          "name": {
+            "given": "Novita",
+            "honourific": null,
+            "lineage": null,
+            "family": "Herdiana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Saragih",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ivana Regina"
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7149",
+      "volume": 3,
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "IC STAR 2017",
+      "rev_number": 7,
+      "status_changed": "2018-06-21 02:29:41",
+      "succeeds": 4660,
+      "event_type": "conference",
+      "divisions": [
+        "FP16"
+      ],
+      "dir": "disk0\/00\/00\/71\/49",
+      "official_url": "http:\/\/s.id\/icstar2017bc",
+      "documents": [
+          {
+            "main": "ALGINATE ADDITION ON GEBLEK.pdf",
+            "files": [
+                {
+                  "fileid": 65069,
+                  "datasetid": "document",
+                  "hash": "c00dcaa8f660e6cf4ecb58369f43dee6",
+                  "mime_type": "application\/pdf",
+                  "objectid": 20146,
+                  "filesize": 154170,
+                  "filename": "ALGINATE ADDITION ON GEBLEK.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/65069",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-05 12:40:56"
+                }
+            ],
+            "docid": 20146,
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 7149,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20146",
+            "security": "public"
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20148",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 7149,
+            "language": "en",
+            "mime_type": "text\/html",
+            "rev_number": 3,
+            "content": "published",
+            "files": [
+                {
+                  "filesize": 127939,
+                  "objectid": 20148,
+                  "filename": "view",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/65080",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-11 04:11:01",
+                  "datasetid": "document",
+                  "fileid": 65080,
+                  "mime_type": "text\/html",
+                  "hash": "abbdeae404e84f92eba9fab34ff61a99"
+                }
+            ],
+            "main": "view",
+            "docid": 20148,
+            "format": "text"
+          }
+      ],
+      "pages": 479,
+      "userid": 961,
+      "number": "-",
+      "pagerange": "336-346",
+      "datestamp": "2018-06-21 02:29:41",
+      "eprintid": 7149,
+      "id_number": "-",
+      "eprint_status": "archive",
+      "place_of_pub": "Bandar lampung",
+      "event_location": "Bandar Lampung",
+      "refereed": "TRUE",
+      "event_dates": "18 September",
+      "isbn": "978-602-70050-4-4",
+      "pres_type": "paper",
+      "date": "2017-12",
+      "abstract": "The objective of this research was to obtain the appropriate alginate addition to the best physical, chemical, and sensory characteristics of Geblek.  The experiment was arranged in a non-factorial Random Complete Block Design (RCBD) in four replications.  The treatment given on each replication was the alginate addition that consisted of six different levels, they were 0% (A0), 1% (A1), 2% (A2), 3% (A3), 4% (A4), dan 5% (A5) (w\/w). The data were evaluated by using The Smallest Real Difference Test (SRD) of 5%.  The results showed that the appropriate concentration of alginate addition was 1% with the following criteria texture was not tough; preferred by panelists based on texture, colour, and taste attributes; has a hardness value of 0.475 mm\/g\/dt; water content of 39.864%;oil absorption of 5.567%, fat contentof 3.905% protein of 5.849%, ash of 2.039%, and carbohydrate of 40.776%.\r\nKeywords: Alginate, Geblek, and quality of Geblek",
+      "series": "-",
+      "book_title": "Integrated Sci- tech",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "publisher": "Research Institute and Community Services University of lampung"
+    }
+]
+

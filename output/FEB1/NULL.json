@@ -1,0 +1,85 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "H1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40814",
+      "publisher": "The 2018 Fifth International Conference on Governance and Accountability",
+      "divisions": [
+        "FEB1"
+      ],
+      "dir": "disk0\/00\/04\/08\/14",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2022-03-31 02:38:16",
+      "metadata_visibility": "show",
+      "datestamp": "2022-03-31 02:38:16",
+      "eprint_status": "archive",
+      "eprintid": 40814,
+      "lastmod": "2022-03-31 02:38:16",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162203",
+            "pos": 1,
+            "eprintid": 40814,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2022-03-30 15:32:17",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454055",
+                  "filename": "Similarity_THE INFLUENCE OF INTERNAL CONTROL.pdf",
+                  "filesize": 2247919,
+                  "objectid": 162203,
+                  "mime_type": "application\/pdf",
+                  "hash": "176a18b6da730439b68087bd8b1db701",
+                  "datasetid": "document",
+                  "fileid": 454055
+                }
+            ],
+            "main": "Similarity_THE INFLUENCE OF INTERNAL CONTROL.pdf",
+            "docid": 162203
+          }
+      ],
+      "userid": 404,
+      "title": "similarity_THE INFLUENCE OF INTERNAL CONTROL",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "megawati",
+            "lineage": null,
+            "given": "melati hati"
+          }
+        },
+        {
+          "id": "rindu.gamayuni@yahoo.com",
+          "name": {
+            "given": "Rindu Rika",
+            "lineage": null,
+            "family": "Gamayuni",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ribhan",
+            "given": "Ribhan"
+          }
+        }
+      ],
+      "type": "other"
+    }
+]
+

@@ -1,0 +1,90 @@
+[
+    {
+      "publication": "Jurnal Penelitian Sains dan Teknologi (Edisi Khusus)",
+      "publisher": "Jurusan Biologi FMIPA UNILA",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0_bak\/00\/05\/08\/57",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "0853 733X",
+      "full_text_status": "public",
+      "status_changed": "2023-05-02 01:40:51",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50857",
+      "date": 1999,
+      "abstract": "ABSTRACT\r\nPlant regeneration in vitro is affected by its culture environment.  Although many factors can potentially influence shoot-tip cultures, the two most important are the incubation temperature and the light regime.  The objective of this research was to elucidate the effect of the incubation temperature on shoot multiplication of strawberry originated from apical meristem.  We used MS mediun enriched with supplements and 1 um benzyl adenine (BA). After being subcultured once, selected healthy shoots were the grown for 8 weeks on the similar medium and incubated at two different temperatures; 15±2oC or 26±2oC with 16-hour light and 8-hour dark of photoperiods. The experiment was arranged in a completely randomized design with 8 to 10 replicates. Each experimental unit consisted of a 250 ml capacity vessel which was filled with 40 mi medium and planted with 3 shoots per vessel. Results showed that shoot fresh weight at 15±2oC  was 15% higher that at 6 weeks after planting (WAP) and became 27% higher at 8 WAP than those of at of 26±2oC. ln general, culture grown at 15±2oC showed better performance (longer shoots, wider leaves, and more rigorous roots) than those of at 26±2oC. It can be concluded that lower incubation temperature stimulated both shoot and root growth of strawberry planted in vitro.",
+      "title": "Suhu mempengaruhi pertumbuhan kultur in vitro tanaman strawberi.",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Karyanto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Agus"
+          },
+          "id": "agus.karyanto@fp.unila.ac.id"
+        },
+        {
+          "id": "yusnita.1961@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yusnita",
+            "given": "Yusnita"
+          }
+        },
+        {
+          "name": {
+            "given": "Nanik",
+            "honourific": null,
+            "family": "Sriyani",
+            "lineage": null
+          },
+          "id": "nanik.sriyani@fp.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2023-05-02 01:40:51",
+      "eprint_status": "archive",
+      "eprintid": 50857,
+      "lastmod": "2023-05-02 01:40:51",
+      "documents": [
+          {
+            "eprintid": 50857,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190568",
+            "pos": 1,
+            "format": "text",
+            "main": "makalah jurnal sains dan teknologi MIPA UNILA_1999.pdf",
+            "docid": 190568,
+            "files": [
+                {
+                  "fileid": 547592,
+                  "datasetid": "document",
+                  "hash": "3c58e748e4ed071763807a43035f2a82",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-30 06:47:47",
+                  "filesize": 3058843,
+                  "objectid": 190568,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547592",
+                  "filename": "makalah jurnal sains dan teknologi MIPA UNILA_1999.pdf"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 671
+    }
+]
+

@@ -1,0 +1,73 @@
+[
+    {
+      "event_type": "conference",
+      "divisions": [
+        "FKIP19"
+      ],
+      "dir": "disk0\/00\/01\/40\/33",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2019-09-02 08:22:40",
+      "full_text_status": "public",
+      "subjects": [
+        "L1"
+      ],
+      "event_title": "International Seminar In Education 2010",
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14033",
+      "date": 2010,
+      "abstract": "Prosiding",
+      "refereed": "TRUE",
+      "title": "Factors Supporting Dezentralization Policy Implementation Performance in Schools",
+      "creators": [
+        {
+          "name": {
+            "given": "Lilik",
+            "honourific": null,
+            "family": "Sabdaningtyas",
+            "lineage": null
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "event_location": "Bandar Lampung",
+      "pagerange": "132-137",
+      "metadata_visibility": "show",
+      "eprintid": 14033,
+      "eprint_status": "archive",
+      "datestamp": "2019-09-02 08:22:40",
+      "documents": [
+          {
+            "eprintid": 14033,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27065",
+            "format": "text",
+            "docid": 27065,
+            "main": "Proceeding International Seminar.pdf",
+            "files": [
+                {
+                  "mtime": "2019-09-02 07:54:04",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122156",
+                  "filename": "Proceeding International Seminar.pdf",
+                  "filesize": 4237124,
+                  "objectid": 27065,
+                  "mime_type": "application\/pdf",
+                  "hash": "8e96ca27fcde0fedbf65d1dbaa1215ec",
+                  "datasetid": "document",
+                  "fileid": 122156
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2019-09-02 08:22:40",
+      "userid": 758
+    }
+]
+

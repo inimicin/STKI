@@ -1,0 +1,540 @@
+[
+    {
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/02\/87\/06",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2021-03-30 04:13:05",
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28706",
+      "date": "2011-08",
+      "patent_applicant": "LPPM UNILA",
+      "title": "EC00201853981, Pencipta atas HKI berjudul Upaya Penanggulangan Penceremaran Sungai Musi di Palembang Sumatera Selatan oleh Pertamina Unit Pengolahan III Palju",
+      "type": "patent",
+      "creators": [
+        {
+          "id": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">amnawaty@yahoo.com<\/font><\/font>",
+          "name": {
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "honourific": null,
+            "lineage": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2021-03-30 04:13:05",
+      "id_number": "EC00201853981",
+      "eprintid": 28706,
+      "eprint_status": "archive",
+      "lastmod": "2021-03-30 04:13:05",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42760",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28706,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "sertifikat_EC00201853981.pdf",
+            "files": [
+                {
+                  "fileid": 254675,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "b26c53531c7b88d67358d8d8eda5a9ad",
+                  "objectid": 42760,
+                  "filesize": 768568,
+                  "filename": "sertifikat_EC00201853981.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/254675",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-30 04:10:04"
+                }
+            ],
+            "docid": 42760,
+            "format": "text"
+          }
+      ],
+      "userid": 955
+    },
+    {
+      "title": "EC00201854002. Pencipta atas HKI berjudul Dekonstrukturisme Teori Kritis Abad 21",
+      "creators": [
+        {
+          "name": {
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "honourific": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null
+          },
+          "id": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">amnawaty@yahoo.com<\/font><\/font>"
+        }
+      ],
+      "type": "patent",
+      "lastmod": "2021-03-30 04:13:17",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "sertifikat_EC00201854002.pdf",
+            "files": [
+                {
+                  "hash": "6c96c43b17de05f789daf10f3c48f2b1",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 254654,
+                  "mtime": "2021-03-30 03:56:47",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/254654",
+                  "filename": "sertifikat_EC00201854002.pdf",
+                  "filesize": 768478,
+                  "objectid": 42757
+                }
+            ],
+            "docid": 42757,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42757",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28703
+          }
+      ],
+      "userid": 955,
+      "metadata_visibility": "show",
+      "datestamp": "2021-03-30 04:13:17",
+      "eprint_status": "archive",
+      "id_number": "EC00201854002",
+      "eprintid": 28703,
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2021-03-30 04:13:17",
+      "dir": "disk0\/00\/02\/87\/03",
+      "divisions": [
+        "FH1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28703",
+      "date": "2011-05",
+      "patent_applicant": "LPPM Unila",
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2021-03-30 04:13:13",
+      "eprint_status": "archive",
+      "id_number": "EC00201854003",
+      "eprintid": 28704,
+      "lastmod": "2021-03-30 04:13:13",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash": "5eaf6726ed934beccecd2c138e2667d8",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 254661,
+                  "filename": "sertifikat_EC00201854003.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/254661",
+                  "filesize": 768490,
+                  "objectid": 42758,
+                  "mtime": "2021-03-30 04:03:10",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "sertifikat_EC00201854003.pdf",
+            "docid": 42758,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42758",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28704
+          }
+      ],
+      "userid": 955,
+      "title": "EC00201854003, Pencipta atas HKI berjudul Hubungan Konsep Pengembangan Berkelanjutan dengan Intergenerational Wquity dan Implementasi dari Ketiga Prinsip Dasar Edith Browns",
+      "type": "patent",
+      "creators": [
+        {
+          "name": {
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null,
+            "honourific": null,
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          },
+          "id": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">amnawaty@yahoo.com<\/font><\/font>"
+        }
+      ],
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28704",
+      "date": "2011-06",
+      "patent_applicant": "LPPM Unia",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/02\/87\/04",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2021-03-30 04:13:13"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "patent_applicant": "LPPM UNILA",
+      "date": "2011-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28705",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/02\/87\/05",
+      "full_text_status": "public",
+      "status_changed": "2021-03-30 04:13:09",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "datestamp": "2021-03-30 04:13:09",
+      "id_number": "EC00201854004",
+      "eprint_status": "archive",
+      "eprintid": 28705,
+      "metadata_visibility": "show",
+      "userid": 955,
+      "lastmod": "2021-03-30 04:13:09",
+      "documents": [
+          {
+            "format": "text",
+            "main": "sertifikat_EC00201854004.pdf",
+            "docid": 42759,
+            "files": [
+                {
+                  "filename": "sertifikat_EC00201854004.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/254668",
+                  "objectid": 42759,
+                  "filesize": 768497,
+                  "mtime": "2021-03-30 04:06:52",
+                  "hash_type": "MD5",
+                  "hash": "96fb4d553dd79273ea33f6ee9431f5ec",
+                  "mime_type": "application\/pdf",
+                  "fileid": 254668,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 28705,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42759"
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "honourific": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null
+          },
+          "id": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">amnawaty@yahoo.com<\/font><\/font>"
+        }
+      ],
+      "type": "patent",
+      "title": "EC00201854004, Pencipta atas HKI berjudul Hukum Versus Pengegakan Hukum"
+    },
+    {
+      "pres_type": "speech",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "honourific": null,
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          },
+          "id": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">amnawaty@yahoo.com<\/font><\/font>"
+        }
+      ],
+      "title": "Globalisasi dan Pembaharuan Sistem Hukum Perkawinan Indonesia (Pendekatan Hukum Islam)",
+      "refereed": "FALSE",
+      "datestamp": "2021-04-06 06:35:39",
+      "eprint_status": "archive",
+      "eprintid": 28883,
+      "metadata_visibility": "show",
+      "userid": 955,
+      "lastmod": "2021-04-06 06:35:39",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 42977,
+            "main": "Globalisasi.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-06 03:07:43",
+                  "filesize": 537266,
+                  "objectid": 42977,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/256286",
+                  "filename": "Globalisasi.pdf",
+                  "fileid": 256286,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "fd724d7c8615968a7abb3bdf23278193"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 28883,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42977",
+            "pos": 1
+          }
+      ],
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/02\/88\/83",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2021-04-06 06:35:39",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "event_title": "Seminar Nasional",
+      "subjects": [
+        "K1"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28883",
+      "date": 2011
+    },
+    {
+      "isbn": "978-979-632-004-2",
+      "creators": [
+        {
+          "id": "amnawaty@yahoo.com",
+          "name": {
+            "given": "S.H., M.H",
+            "honourific": null,
+            "lineage": null,
+            "family": "Amnawaty"
+          }
+        }
+      ],
+      "type": "book",
+      "title": "Globalisasi dan Pembaharuan Sistem Hukum Perkawinan Indonesia (Pendekatan Hukum Islam)",
+      "refereed": "FALSE",
+      "place_of_pub": "Bandar Lampung",
+      "datestamp": "2019-12-16 02:56:50",
+      "eprintid": 17316,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 955,
+      "lastmod": "2019-12-16 02:56:50",
+      "pages": 8,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 17316,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30426",
+            "pos": 1,
+            "security": "public",
+            "main": "Review Amnawati Globalisasi dan Pembaharuan Sistem.pdf",
+            "docid": 30426,
+            "files": [
+                {
+                  "filename": "Review Amnawati Globalisasi dan Pembaharuan Sistem.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/146576",
+                  "filesize": 474797,
+                  "objectid": 30426,
+                  "mtime": "2019-12-13 07:36:53",
+                  "hash_type": "MD5",
+                  "hash": "c5edf3b4bdd9362086aa167f9f484067",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 146576
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "Labkum Fakultas Hukum Universitas Lampung",
+      "dir": "disk0\/00\/01\/73\/16",
+      "full_text_status": "public",
+      "status_changed": "2019-12-16 02:56:50",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "K1"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17316",
+      "date": "2011-05"
+    },
+    {
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "family": "Wahyu Sasongko",
+            "lineage": null,
+            "honourific": null,
+            "given": "Wahyu"
+          }
+        }
+      ],
+      "isbn": "978-979-25-9051",
+      "refereed": "FALSE",
+      "title": "Pemerintah Versus Rakyat : Refleksi Penegakan HAM Dalam Pembangunan",
+      "place_of_pub": "Lampung",
+      "eprintid": 10723,
+      "eprint_status": "archive",
+      "datestamp": "2019-02-11 12:21:10",
+      "pagerange": "154-165",
+      "metadata_visibility": "show",
+      "userid": 987,
+      "documents": [
+          {
+            "eprintid": 10723,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23735",
+            "pos": 1,
+            "format": "text",
+            "docid": 23735,
+            "main": "Wahyu.Achmad Imam Ghozali Senarai Pemikiran Hukum, HAM, Demokrasi, Pembangunan dan Kisah-Kisah Pergulatan.pdf",
+            "files": [
+                {
+                  "hash": "61db267742ed2b465786a79b8406356d",
+                  "mime_type": "application\/pdf",
+                  "fileid": 98991,
+                  "datasetid": "document",
+                  "mtime": "2019-02-11 06:48:09",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/98991",
+                  "filename": "Wahyu.Achmad Imam Ghozali Senarai Pemikiran Hukum, HAM, Demokrasi, Pembangunan dan Kisah-Kisah Pergulatan.pdf",
+                  "filesize": 12428129,
+                  "objectid": 23735
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2019-02-11 12:21:10",
+      "publisher": "Perhimpunan Lampung Media Center (LMC)",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/01\/07\/23",
+      "status_changed": "2019-02-11 12:21:10",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "K1"
+      ],
+      "book_title": "Achmad Imam Ghozali Senarai Pemikiran Hukum, HAM, Demokrasi, Pembangunan dan Kisah-Kisah Pergulatan",
+      "date": "2011-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10723"
+    },
+    {
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 10726,
+      "datestamp": "2019-02-11 12:21:12",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23741",
+            "pos": 1,
+            "eprintid": 10726,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 23741,
+            "main": "wahyu sasongko. prosiding. peran penegak hukum.pdf",
+            "files": [
+                {
+                  "mtime": "2019-02-11 07:42:31",
+                  "hash_type": "MD5",
+                  "filename": "wahyu sasongko. prosiding. peran penegak hukum.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/99027",
+                  "filesize": 16234107,
+                  "objectid": 23741,
+                  "hash": "5aecf9366b82eff647b50c8badf38947",
+                  "mime_type": "application\/pdf",
+                  "fileid": 99027,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "pages": 31,
+      "lastmod": "2019-02-11 12:21:12",
+      "userid": 987,
+      "refereed": "FALSE",
+      "title": "Peran Penegak Hukum Dalam Pembangunan Hukum Untuk Mewujudkan Agenda Reformasi Pada Era Globalisasi",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "given": "Wahyu",
+            "honourific": null,
+            "family": "Wahyu Sasongko",
+            "lineage": null
+          }
+        }
+      ],
+      "isbn": "978-979-632-004-2",
+      "place_of_pub": "Bandar Lampung",
+      "subjects": [
+        "K1"
+      ],
+      "date": "2011-05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10726",
+      "volume": 1,
+      "publisher": "Labkum Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0\/00\/01\/07\/26",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2019-02-11 12:21:12",
+      "full_text_status": "public"
+    }
+]
+

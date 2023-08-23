@@ -1,0 +1,896 @@
+[
+    {
+      "refereed": "TRUE",
+      "title": "Athermodynamic analysis of hydrogen production by steam reforming of glycerol",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Adhikari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sushil"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fernando",
+            "honourific": null,
+            "given": "Sandun D."
+          }
+        },
+        {
+          "name": {
+            "given": "Steven R.",
+            "family": "Gwaltney",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "To",
+            "honourific": null,
+            "given": "S.D. Filip"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Bricka",
+            "lineage": null,
+            "given": "Mark"
+          }
+        },
+        {
+          "name": {
+            "given": "Philip H.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Steele"
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "family": "Haryanto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Paper 05 IJHE.pdf",
+            "docid": 641,
+            "files": [
+                {
+                  "objectid": 641,
+                  "filesize": 173881,
+                  "filename": "Paper 05 IJHE.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4305",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-11 04:14:27",
+                  "datasetid": "document",
+                  "fileid": 4305,
+                  "hash": "38d5525616b2646af5da16819c8cdaf6",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/641",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 743
+          }
+      ],
+      "lastmod": "2016-11-04 03:22:34",
+      "userid": 988,
+      "pagerange": "2875-2880",
+      "metadata_visibility": "show",
+      "id_number": "10.1016\/j.ijhydene.2007.03.023 Therefore,",
+      "eprintid": 743,
+      "eprint_status": "archive",
+      "datestamp": "2016-10-13 15:35:39",
+      "ispublished": "pub",
+      "rev_number": 11,
+      "status_changed": "2016-10-13 15:35:39",
+      "full_text_status": "public",
+      "divisions": [
+        "FP18"
+      ],
+      "publisher": "Elsevier",
+      "publication": "International Journal of Hydrogen Energy",
+      "dir": "disk0\/00\/00\/07\/43",
+      "date": 2007,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/743",
+      "volume": 32,
+      "abstract": "Steam reforming of glycerol for hydrogen production involves complex reactions. As a result, several intermediate byproducts are formed and end up in the product stream affecting final purity of the hydrogen produced. Furthermore, the yield of the hydrogen depends on several process variables, such as system pressure, temperature, and ratio of reactants. The first step to understanding the effects of the aforementioned variables is a complete thermodynamic analysis. In this study, a thermodynamic equilibrium analysis has been performed for the steam reforming process of glycerol over the following variable ranges: pressure 1–5 atm, temperature 600–1000 K, and water-to-glycerol feed ratio 1:1–9:1. The equilibrium concentrations of different compounds were calculated by the method of direct minimization of the Gibbs free energy. The study revealed that the best conditions for producing hydrogen is at a temperature >900K, atmospheric pressure, and a molar ratio of water to glycerol of 9:1. Under these conditions methane production is minimized, and the carbon formation is thermodynamically inhibited.",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published"
+    },
+    {
+      "abstract": "Glycerin production has soared with the increase in biodiesel production in recent years. One possibility of\r\nusing this excess glycerin is in hydrogen production. Steam reforming of glycerin for hydrogen production involves complex reactions. As a result, several intermediate byproducts are formed and end up in the product stream, affecting the final purity of the hydrogen produced. Furthermore, the yield of the hydrogen depends upon several process variables, such as the temperature, ratio of reactants, and system pressure. In this study, a thermodynamic equilibrium analysis coupled with experimentation has been performed for the steam-reforming\r\nprocess of glycerin over the following variable ranges: pressure of 1-5 atm, temperature of 600-1000 K, and water\/glycerin feed ratio of 1:1-9:1. The equilibrium concentrations of different compounds were calculated\r\nby the method of direct minimization of the Gibbs free energy. The study revealed that the best conditions for\r\nproducing hydrogen are as follows: temperature of >900 K, atmospheric pressure, and a molar ratio of water\/\r\nglycerin at 9:1. Under aforementioned conditions, methane production is minimized and the carbon formation is thermodynamically inhibited. Experimental results over the Ni\/MgO catalyst were compared against the results obtained from thermodynamic analysis.",
+      "corp_creators": [
+        "Mississippi State University",
+        "University of Lampung"
+      ],
+      "volume": 21,
+      "date": 2007,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/744",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2016-10-13 15:35:48",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publisher": "American Chemical Society",
+      "divisions": [
+        "FP18"
+      ],
+      "publication": "Energy and Fuels",
+      "dir": "disk0\/00\/00\/07\/44",
+      "userid": 988,
+      "number": 4,
+      "lastmod": "2016-11-04 03:22:44",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "filename": "Paper 06 EF.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4329",
+                  "objectid": 642,
+                  "filesize": 108642,
+                  "mtime": "2016-10-11 04:31:17",
+                  "hash_type": "MD5",
+                  "hash": "39087b87b2ee1dfad6a176390897898e",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 4329
+                }
+            ],
+            "main": "Paper 06 EF.pdf",
+            "docid": 642,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/642",
+            "eprintid": 744,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2016-10-13 15:35:48",
+      "id_number": "10.1021\/ef070035l",
+      "eprint_status": "archive",
+      "eprintid": 744,
+      "metadata_visibility": "show",
+      "pagerange": "2306-2310",
+      "creators": [
+        {
+          "name": {
+            "given": "Sushil",
+            "honourific": null,
+            "family": "Adhikari",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fernando",
+            "honourific": null,
+            "given": "Sandun D."
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Haryanto",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "A Comparative Thermodynamic and Experimental Analysis on\r\nHydrogen Production by Steam Reforming of Glycerin",
+      "refereed": "TRUE"
+    },
+    {
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Adhikari",
+            "lineage": null,
+            "given": "Sushil"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fernando",
+            "given": "Sandun D."
+          }
+        },
+        {
+          "id": "agus.haryanto@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Haryanto",
+            "given": "Agus"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "GLYCERIN STEAM REFORMING FOR HYDROGEN PRODUCTION",
+      "number": 2,
+      "userid": 988,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 640,
+            "main": "Paper 04 TRANSACTIONS ASABE.pdf",
+            "files": [
+                {
+                  "mtime": "2016-10-11 04:06:55",
+                  "hash_type": "MD5",
+                  "filename": "Paper 04 TRANSACTIONS ASABE.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4299",
+                  "filesize": 409716,
+                  "objectid": 640,
+                  "mime_type": "application\/pdf",
+                  "hash": "8521f091eb44b6ebea4886977cef64a0",
+                  "datasetid": "document",
+                  "fileid": 4299
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/640",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 742
+          }
+      ],
+      "lastmod": "2016-11-04 03:22:51",
+      "eprint_status": "archive",
+      "eprintid": 742,
+      "datestamp": "2016-10-13 15:35:33",
+      "pagerange": "591-595",
+      "metadata_visibility": "show",
+      "status_changed": "2016-10-13 15:35:33",
+      "full_text_status": "public",
+      "issn": "0001−2351",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "publication": "Transactions of the ASABE",
+      "publisher": "American Society of Agricultural and Biological Engineers",
+      "divisions": [
+        "FP18"
+      ],
+      "dir": "disk0\/00\/00\/07\/42",
+      "corp_creators": [
+        "Mississippi State University",
+        "University of Lampung"
+      ],
+      "volume": 50,
+      "abstract": "ABSTRACT. Biodiesel production is expected to grow steadily in the future. In converting vegetable oils into biodiesel,\r\napproximately 10% (w\/w) of glycerin is produced as a by-product. With the increasing production of biodiesel, there would be glut of glycerin in the world market; therefore, it is essential to find useful applications for this by-product. Glycerin is a potential feedstock for hydrogen production because one mole of glycerin can produce up to four moles of hydrogen. The objective of this study was to develop, test, and characterize promising catalysts for hydrogen production from steam reforming of glycerin. The following five catalysts were prepared on ceramic foam monoliths (92% Al2O3, 8% SiO2): rhodium-cerium, rhodium-cerium-platinum, ruthenium-yttrium, nickel, and iridium. The catalysts were prepared by the incipient wetness technique. This article discusses selectivity data of the selected gases resulting from the glycerin steam reforming process. The study found that the rhodium-cerium-platinum catalyst was the most selective towards hydrogen under the experimental conditions investigated (700°C, 1 atm, and gas hourly specific velocity of 9.2 × 104 h−1). The glycerin conversion was 100% with all the catalysts tested.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/742",
+      "date": 2007,
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "355-364",
+      "datestamp": "2016-10-13 15:33:30",
+      "eprintid": 317,
+      "id_number": "10.1016\/j.cattod.2006.09.038",
+      "eprint_status": "archive",
+      "lastmod": "2016-11-04 03:23:33",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 317,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/639",
+            "security": "public",
+            "main": "Paper 03 CATOD.pdf",
+            "docid": 639,
+            "files": [
+                {
+                  "fileid": 4293,
+                  "datasetid": "document",
+                  "hash": "acc2807ec8aedebe6f235bb8e7f84ab0",
+                  "mime_type": "application\/pdf",
+                  "filesize": 2090690,
+                  "objectid": 639,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4293",
+                  "filename": "Paper 03 CATOD.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-11 03:58:09"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 988,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "title": "Production of hydrogen by steam reforming of glycerin over alumina-supported metal catalysts",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Adhikari",
+            "lineage": null,
+            "given": "Sushil"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sandun D.",
+            "lineage": null,
+            "family": "Fernando",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Haryanto",
+            "lineage": null
+          },
+          "id": "agus.haryanto@fp.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "date": 2007,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/317",
+      "abstract": "Use of biodiesel and its production are expected to grow steadily in the future.With the increase in production of biodiesel, there would be a glut of glycerin in the world market. Glycerin is a potential feedstock for hydrogen production because one mol of glycerin can produce up to four mols of hydrogen. However, less attention has been given for the production of hydrogen from glycerin. The objective of this study is to develop, test and\r\ncharacterize promising catalysts for hydrogen generation from steam reforming of glycerin. Fourteen catalysts were prepared on ceramic foam monoliths (92% Al2O3, and 8% SiO2) by the incipient wetness technique. This paper discusses the effect of these catalysts on hydrogen selectivity and glycerin conversion in temperatures ranging from 600 to 900 8C. The effect of glycerin to water ratio, metal loading, and the feed flow rate (space velocity) was analyzed for the two best performing catalysts. Under the reaction conditions investigated in this study, Ni\/Al2O3 and Rh\/\r\nCeO2\/Al2O3 were found as the best performing catalysts in terms of hydrogen selectivity and glycerin conversion. It was found that with the increase in water to glycerin molar ratio, hydrogen selectivity and glycerin conversion increased. About 80% of hydrogen selectivity was obtained\r\nwith Ni\/Al2O3, whereas the selectivity was 71% with Rh\/CeO2\/Al2O3 at 9:1 water to glycerin molar ratio, 900 8C temperature, and 0.15 ml\/min feed flow rate (15300 GHSV). Although increase in metal loading increased glycerin conversion for both catalysts, hydrogen selectivity remained\r\nrelatively unaffected. At 3.5 wt% of metal loading, the glycerin conversion was about 94% in both the catalysts.",
+      "corp_creators": [
+        "Mississippi State University",
+        "University of Lampung"
+      ],
+      "volume": 129,
+      "dir": "disk0\/00\/00\/03\/17",
+      "publisher": "Elsevier",
+      "publication": "Catalysis Today",
+      "divisions": [
+        "FP18"
+      ],
+      "rev_number": 11,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2016-10-13 15:33:30"
+    },
+    {
+      "userid": 988,
+      "lastmod": "2016-11-04 03:23:19",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Paper 02 CATOD.pdf",
+            "files": [
+                {
+                  "filesize": 591104,
+                  "objectid": 638,
+                  "filename": "Paper 02 CATOD.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4286",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-11 03:46:14",
+                  "datasetid": "document",
+                  "fileid": 4286,
+                  "hash": "71b9f2353c0e7ef62d5bd74a8611cfc4",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 638,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/638",
+            "pos": 1,
+            "eprintid": 741,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2016-10-13 15:35:24",
+      "id_number": "10.1016\/j.cattod.2006.09.039",
+      "eprintid": 741,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "269-274",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Haryanto",
+            "given": "Agus"
+          },
+          "id": "agus.haryanto@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sandun D.",
+            "lineage": null,
+            "family": "Fernando",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sushil",
+            "lineage": null,
+            "family": "Adhikari",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "title": "Ultrahigh temperature water gas shift catalysts to increase hydrogen yield from biomass gasification",
+      "refereed": "TRUE",
+      "abstract": "Noble metal (Rh, Pt, Pd, Ir, Ru, and Ag) and Ni catalysts supported on CeO2–Al2O3 were investigated for water gas shift reaction at ultrahigh temperatures. Pt\/CeO2–Al2O3 and Ru\/CeO2–Al2O3 demonstrated as the best catalysts in terms of activity, hydrogen yield and hydrogen selectivity. At 700 8C and steam to CO ratio of 5.2:1, Pt\/CeO2–Al2O3 converted 76.3% of CO with 94.7% of hydrogen selectivity. At the same conditions, the activity and hydrogen selectivity for Ru\/CeO2–Al2O3 were 63.9% and 85.6%, respectively. Both catalysts showed a good stability over 9 h of continuous operation. However, both catalysts showed slight deactivation during the test period. The study revealed that Pt\/CeO2–Al2O3 and Ru\/CeO2–Al2O3 were excellent ultrahigh temperature water gas shift catalysts, which can be coupled with biomass gasification in a downstream reactor.",
+      "corp_creators": [
+        "University of Lampung",
+        "Mississippi State University"
+      ],
+      "volume": 129,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/741",
+      "date": 2007,
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2016-10-13 15:35:24",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "publisher": "Elsevier",
+      "publication": "Catalysis Today",
+      "dir": "disk0\/00\/00\/07\/41",
+      "divisions": [
+        "FP18"
+      ]
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "saptokuncoro579@gmail.com",
+          "name": {
+            "given": "Sapto",
+            "lineage": null,
+            "family": "Kuncoro",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Pengaruh Suhu Pengeringan Terhadap Karakteristik Fisik Keripik Nangka",
+      "event_dates": "15 - 17 November 2007",
+      "refereed": "TRUE",
+      "userid": 695,
+      "lastmod": "2020-09-21 08:40:37",
+      "documents": [
+          {
+            "main": "Jurnal Ilmiah Tektan vol.3 Agust 2011.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-21 07:08:36",
+                  "filesize": 6508519,
+                  "objectid": 37822,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219671",
+                  "filename": "Jurnal Ilmiah Tektan vol.3 Agust 2011.pdf",
+                  "datasetid": "document",
+                  "fileid": 219671,
+                  "mime_type": "application\/pdf",
+                  "hash": "6de1298d30a242f10fa44ef8fcf5e846"
+                }
+            ],
+            "docid": 37822,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 24121,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37822",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2020-09-21 08:40:37",
+      "eprintid": 24121,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "367-374",
+      "full_text_status": "public",
+      "status_changed": "2020-09-21 08:40:37",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FP18"
+      ],
+      "dir": "disk0\/00\/02\/41\/21",
+      "event_type": "conference",
+      "abstract": "Dewasa ini ada kecenderungan masyarakat mengkonsumsi nangka tidak lagi dalam bentuk segar, melainkan dalam bentuk olahan antara lain seperti keripik nangka (chips).  Keripik nangka yang disukai masyarakat yaitu warna menarik, rasa danaroma enak serta tekstur renyah. Penelitian bertujuan untuk mengetahui pengaruh suhu pengeringan terhadap karakteristikfifik dan mutu keripik nangka.\r\n\r\nPenelitian dilakukan dengan mengeringkan irisan nangka segar di dalam oven (sebelumnya direndam dalam lar.CaCl2 1% selama 5 menit) dengan suhu masing-masing 60, 70, 80, 90 dan 100 derajat Celcius sampai kadar air (KA) 10% dengan 4 kali ulangan.  Nangka hasil pengeringan digoreng pada suhu minyak 110-120 derajat Celcius selama kurang lebih 4 menit.  Hasil penelitian menunjukkan bahwa suhu pengeringan berpengaruh terhadap warna, rasa, aroma, dan kerenyahankeripik nangka goreng.  Hasil terbaik ditunjukkan pada suhu pengeringan 80 derajat Celcius (selama 7 jam 45 menit) yaitu keripik nangka berwarna kuning kecoklatan, agak manis, agak beraroma nangka, agak renyah, dan paling disukai oleh panelis.\r\n\r\nKata kunci: nangka, keripik",
+      "date": "2007-11-15",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24121",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "Seminar Nasional Ketahanan Pangan"
+    },
+    {
+      "publisher": "Jurusan Teknologi Hasil Pertanian (THP) UNILA",
+      "publication": "Jurnal Teknologi & Industri Hasil Pertanian UNILA",
+      "divisions": [
+        "FP18"
+      ],
+      "dir": "disk0\/00\/00\/13\/07",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2016-12-13 01:11:16",
+      "full_text_status": "public",
+      "issn": "1410-3044",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1307",
+      "date": 2007,
+      "volume": 12,
+      "abstract": "The acidity of pineapple fruit is one of the most important quality parameter determining the consumer acceptance. The objective of this research was to establish a nondestructive determination of acidity in cayenne pineapple fruit using short wavelength near infrared (SW-NIR) spectroscopy. In this research, a number of 124 samples, consisting of 64 samples for calibration and 60 samples for validation sample set were used, respectively. The spectra of pineapples were acquired at one position for each sample in absorbance mode using a portable spectrometer operated at 300-1100 nm. The acidity of pineapples was measured using titration method. Using the Unscrambler, statistical software for multivariate calibration, a correlation between the spectra and the acidity of pineapples will be investigated. Then, a calibration model for determining the acidity of pineapples will be developed. The result showed that the best calibration model was identified for second derivative spectra in the wavelength range of 700-970 nm with R2 = 0.95. Standard error of prediction (SEP) = 0.048 and standard error of calibration (SEC) = 0.024. The validation result showed that its calibration model had low bias. By a 95% confidence t-test there were no significance differences between the acidity measured by the titration method and that predicted by SW-NIR spectroscopy.",
+      "refereed": "TRUE",
+      "title": "PENENTUAN KEASAMAN BUAH NENAS VARIETAS CAYENNE SECARA TIDAK MERUSAK MENGGUNAKAN SHORT WAVELENGTH NEAR INFRARED (SW-NIR) SPECTROSCOPY",
+      "creators": [
+        {
+          "id": "diding.sughandy@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Suhandy",
+            "lineage": null,
+            "given": "Diding"
+          }
+        }
+      ],
+      "type": "article",
+      "pagerange": "40-46",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 1307,
+      "datestamp": "2016-12-13 01:11:16",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 1307,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1182",
+            "security": "public",
+            "main": "83-302-1-PB.pdf",
+            "docid": 1182,
+            "files": [
+                {
+                  "filesize": 107755,
+                  "objectid": 1182,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8770",
+                  "filename": "83-302-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-09 01:32:00",
+                  "fileid": 8770,
+                  "datasetid": "document",
+                  "hash": "bc9f642bda0af47c25bb029935ec7d6d",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JTHP\/article\/view\/83",
+      "lastmod": "2016-12-13 01:11:16",
+      "number": 2,
+      "contributors": [
+        {
+          "name": {
+            "given": "diding",
+            "honourific": null,
+            "family": "suhandy",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 337
+    },
+    {
+      "pagerange": "80-90",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 891,
+      "datestamp": "2016-10-25 01:11:20",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 891,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/783",
+            "security": "public",
+            "main": "JHPTT 2007 Gede & Titik.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 5418,
+                  "mime_type": "application\/pdf",
+                  "hash": "f7a65a0b1a9b72062103fa781cce64a7",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-24 01:27:14",
+                  "filesize": 380166,
+                  "objectid": 783,
+                  "filename": "JHPTT 2007 Gede & Titik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5418"
+                }
+            ],
+            "docid": 783,
+            "format": "text",
+            "rev_number": 2,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "content": "published"
+          }
+      ],
+      "official_url": "http:\/\/journal.unila.ac.id\/index.php\/jhtrop",
+      "lastmod": "2016-11-10 03:12:06",
+      "number": 2,
+      "userid": 380,
+      "refereed": "TRUE",
+      "title": "KARAKTERISTIK KOMUNITAS NEMATODA\r\nDI PADANG GOLF SUKARAME (PGS)\r\nBANDAR LAMPUNG",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Swibawa",
+            "lineage": null,
+            "honourific": null,
+            "given": "I Gede"
+          }
+        },
+        {
+          "id": "titik.nuraeny@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Aeny",
+            "given": "Titik Nur"
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "S1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/891",
+      "date": 2007,
+      "volume": 7,
+      "abstract": "Characteristic of Nematodes Community at PGS Golf Course Bandar Lampung. Golf course is a unique ecosystem\r\nwhere plant parasitic nematodes inhabit and become important pest because they reduce the quality of the grass. The pest\r\nproblems on golf course can be indicated by its characteristics of nematode community. Survey on nematodes community\r\nat PGS Golf Course Bandar Lampung was conducted from March to December 2004. The objective was to study the\r\ncharacteristics of nematode community in the part of golf courses hole (green, collar, apron, and fairway). Soil samples\r\nwere taken from five holes each of it consists of green, collar, apron, and fairway, respectiveley. Nematodes extraction was\r\ndone in Laboratory of Arthropod Pest, Department of Plant Protection University of Lampung. The result showed that at\r\nleast 50 nematodes genera of 28 families inhabit PGS. The number of plant parasitic nematode genera was higher than the\r\nfree-living one. The characteristic of nematodes community on green and collar was different than on faiway. Nematode\r\nabundance and diversity on green and collar were higher than on fairway. Based on abundance of nematode feeding group,\r\nmaturity index of free-living nematodes (MI) and that of plant parasitic nematodes (PPI), green and collar part seemed to be\r\nmore favorable to plant parasitic nematodes than free-living nematodes. The contrary happened for fairway. Four most\r\ndominant genera of plant parasitic nematodes on PGS golf course were Helicotylenchus, Hoplolaimus, Criconemella, and\r\nXiphinema.",
+      "publication": "Jurnal Hama dan Penyakit Tumbuhan Tropika",
+      "publisher": "Jurusan Proteksi Tanaman, PEI Bandar Lampung, PFI Lampung",
+      "divisions": [
+        "FP18"
+      ],
+      "dir": "disk0\/00\/00\/08\/91",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2016-10-25 01:11:20",
+      "issn": "1411-7525",
+      "full_text_status": "public"
+    },
+    {
+      "datestamp": "2022-10-24 03:49:24",
+      "eprintid": 45899,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 832,
+      "official_url": "https:\/\/scholarsjunction.msstate.edu\/cgi\/viewcontent.cgi?article=2171&context=td",
+      "lastmod": "2022-10-24 03:49:24",
+      "thesis_type": "doctoral",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Ringkasan Desertasi.pdf",
+            "files": [
+                {
+                  "hash": "23a7bd5f989e61118ce956a632fcb676",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 508355,
+                  "mtime": "2022-10-23 09:58:00",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508355",
+                  "filename": "Ringkasan Desertasi.pdf",
+                  "objectid": 184710,
+                  "filesize": 86876
+                }
+            ],
+            "docid": 184710,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184710",
+            "eprintid": 45899,
+            "placement": 1
+          }
+      ],
+      "thesis_name": "phd",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Triyono",
+            "lineage": null,
+            "given": "Sugeng"
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        }
+      ],
+      "type": "thesis",
+      "title": "Continuous simulation of groundwater use and effluent discharge in catfish (Ictalurus punctatus) ponds at five locations in the Southeast U.S",
+      "contact_email": "sugeng.triyono@fp.unila.ac.id",
+      "date_type": "completed",
+      "institution": "https:\/\/www.msstate.edu\/",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Long-term climatological data were used to evaluate the effectiveness of a \r\ndrop\/add management strategy to reduce groundwater use and effluent discharge in \r\ncatfish ponds in the southeast U.S.. A drop\/add approach is based on the creation of a \r\nstorage volume in the pond for rainfall collection. The storage volume is created by \r\nallowing water level in the pond to decrease until some minimum level is reached. When \r\nthe minimum level is reached, the pond is partly refilled, leaving the remaining volume \r\navailable to capture incident precipitation. In this way, the role of precipitation in the \r\nwater budget is increased. In the process, groundwater use and effluent release both \r\nbecome smaller. \r\nThe data consisted of 45 year precipitation and evaporation records from \r\nFairhope, AL; Clemson, SC; Stoneville, MS, Stuttgart, AR; and Thomsons, TX. The data \r\nwere used in a water balance levee pond model that included precipitation, evaporation, \r\ninfiltration, overflow, groundwater pumping, and draining. The model appeared to \r\nindicate that the drop\/add management scheme is an effective strategy to reduce \r\ngroundwater use and effluent discharge. \r\nThe simulated results showed that variation of climate in the southeast U.S. was \r\nan important determinant of performance of the drop\/add management scheme. At \r\nlocations with positive P-0.8E, zero groundwater use could be achieved with low drop \r\ndepths. At location with negative P-0.8E, zero groundwater use could be achieved for \r\nabout 50% of the 45 simulated years. The model also indicated that effluent discharge \r\ncannot be avoided at most locations except at location with very low (negative) P-0.8E. \r\nThe model also indicated that 65 to 100% of annual precipitation (depending on the P�0.8E’s of the locations) can be captured and used in the ponds. Rainwater contribution to \r\nthe total water budget ranged from 90 to 100%. \r\nThe sensitivity analysis showed that model sensitivity to pan coefficient and \r\ninfiltration rate was affected by infiltration rate and pond water storage capacity (drop \r\ndepth). The model was more sensitive to pan coefficient rather than to infiltration rate at \r\nlower infiltration rates and vice-versa. Both sensitivities of the model, however, \r\nincreased when pond water deeper storage capacity was used. \r\nKey words: aquaculture, pond, model, drop\/add scheme",
+      "date": "2007-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45899",
+      "divisions": [
+        "FP18"
+      ],
+      "department": "https:\/\/www.abe.msstate.edu\/",
+      "dir": "disk0\/00\/04\/58\/99",
+      "full_text_status": "public",
+      "status_changed": "2022-10-24 03:49:24",
+      "ispublished": "unpub",
+      "rev_number": 7
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Warji",
+            "honourific": null,
+            "lineage": null,
+            "family": "Warji"
+          },
+          "id": "warji1978@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Asmara",
+            "honourific": null,
+            "given": "Sandi"
+          },
+          "id": "Shandiasmara@yahoo.com"
+        },
+        {
+          "id": "siti.suharyatun@fp.unila.ac.id",
+          "name": {
+            "given": "Siti",
+            "family": "Suharyatun",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Rancang Bangun dan Uji Kinerja Mesin Sortasi Buah Duku",
+      "eprint_status": "archive",
+      "eprintid": 10853,
+      "datestamp": "2019-04-09 03:37:09",
+      "pagerange": "135-144",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 45,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "a7c3b7d611baa2f53e4aef940639f8ed",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 99910,
+                  "mtime": "2019-02-28 07:38:14",
+                  "hash_type": "MD5",
+                  "filename": "10469-30092-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/99910",
+                  "objectid": 23866,
+                  "filesize": 1159818
+                }
+            ],
+            "main": "10469-30092-1-PB.pdf",
+            "docid": 23866,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23866",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 10853
+          }
+      ],
+      "lastmod": "2019-04-09 03:37:09",
+      "publisher": "Departemen Teknik Mesin dan Biosistem, Institut Pertanian Bogor dan PERTETA",
+      "divisions": [
+        "FP18"
+      ],
+      "publication": "Jurnal Keteknikan Pertanian (JTEP)",
+      "dir": "disk0\/00\/01\/08\/53",
+      "status_changed": "2019-04-09 03:37:09",
+      "full_text_status": "public",
+      "issn": "0216-3365",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "volume": 21,
+      "abstract": "The objective of the research was to design and test the sorting machine of'duku'fruit. The sorting machine was able to sort the fruit into three grades by means of principle of inclined plane and exploiting of mechanical vibration. Machine components consist of frame, hopper, sorting rack, part of output, source of power, transmission and vibrator. Uniformity of the sorting results varied, i. e., grade A equal to 100%, grade B equal to 50. 1% and grade C equal to 80. 1%. The average level of sorting process was 59. 5% with the working capacity of the machine of 500 kg\/hour.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10853",
+      "date": "2007-06-01"
+    }
+]
+

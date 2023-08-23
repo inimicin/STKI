@@ -1,0 +1,75 @@
+[
+    {
+      "title": "Imaging Tools For The Analysis of Microvessel and Angiogenesis   Development in a Tridimensional Cell Culture System.",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sukmana"
+          }
+        }
+      ],
+      "lastmod": "2017-08-14 01:36:46",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 3768,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3623",
+            "pos": 1,
+            "security": "public",
+            "docid": 3623,
+            "main": "6. 012011_INT.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "e1fa6b566049d5fc3402e3cda184a26f",
+                  "fileid": 26405,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26405",
+                  "filename": "6. 012011_INT.pdf",
+                  "objectid": 3623,
+                  "filesize": 527759,
+                  "mtime": "2017-08-04 02:41:04",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 464,
+      "number": 2,
+      "metadata_visibility": "show",
+      "pagerange": "181-183",
+      "datestamp": "2017-08-14 01:36:46",
+      "eprint_status": "archive",
+      "eprintid": 3768,
+      "ispublished": "pub",
+      "rev_number": 6,
+      "issn": "978-1-4577-1460-3",
+      "full_text_status": "public",
+      "status_changed": "2017-08-14 01:36:46",
+      "publisher": "IEEE",
+      "publication": "IEEE Series International Conference on Instrument Control and Automation ( ICA )",
+      "divisions": [
+        "FT14"
+      ],
+      "dir": "disk0\/00\/00\/37\/68",
+      "date": "2011-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3768",
+      "abstract": "This study presents the design and validation of imaging tools to access and analyses the development of microvessel and angiogenesis inside a tridimensional (3D) cell culture system. Angiogenesis is a key mechanism during normal development as well as in cancer cell growth. Phase contrast, fluorescence, and confocal microscopy were used to determine the cell attachment, tube-like structure formation and other cellular events inside our 3D system.",
+      "volume": 2011,
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ]
+    }
+]
+

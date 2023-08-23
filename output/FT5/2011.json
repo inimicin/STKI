@@ -1,0 +1,772 @@
+[
+    {
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/15\/13",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2017-04-13 04:32:03",
+      "rev_number": 14,
+      "ispublished": "pub",
+      "date_type": "published",
+      "event_title": "SATEK IV",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Voltage magnitude in power system is essential to maintain a certain limit.\r\nTherefore continuous monitoring of voltage level is required and graphical\r\nvisualization is considerable to be beneficial in helping power system operator. In\r\nthis paper we combine Geographical Information System (GIS) and optimal\r\npower flow based on the interior point method for nonlinear programming by an\r\nopen source framework. By presenting voltage magnitude in a contour to analyse\r\nthe situation and immediately response to the system states. Our open source\r\nplatform is mainly build on the top of Python Programming Language with\r\nadditional required libraries such as Matplotlib and Basemap on a Linux machine.\r\nA masking layer is created to allow only plotting on a certain region of the map.\r\nThe proposed framework is then applied to the real power system, in this case is\r\nsouthern Sumatera Interconnection System.",
+      "corp_creators": [
+        "Teknik Elektro"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1513",
+      "date": "2011-11-29",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "family": "Lukmanul",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hakim"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Bagus",
+            "lineage": null,
+            "given": "Sulistio"
+          }
+        },
+        {
+          "name": {
+            "given": "Efwan",
+            "lineage": null,
+            "family": "Joni",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Gusmedi",
+            "lineage": null,
+            "family": "Herri",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nining",
+            "given": "Purwasih"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Khairudin",
+            "honourific": null,
+            "given": "Khairudin"
+          }
+        }
+      ],
+      "title": "AN OPEN SOURCE FRAMEWORK MODELLING: VISUALIZATION OF\r\nVOLTAGE MAGNITUDE AS PSEUDO CONTOUR ON A MAP",
+      "refereed": "TRUE",
+      "event_location": "Bandar Lampung",
+      "datestamp": "2017-04-13 04:32:03",
+      "eprint_status": "archive",
+      "eprintid": 1513,
+      "metadata_visibility": "show",
+      "userid": 194,
+      "contributors": [
+        {
+          "name": {
+            "family": "Lukmanul",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hakim"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "lastmod": "2017-04-13 04:32:03",
+      "documents": [
+          {
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "files": [
+                {
+                  "hash": "270f4898d87ce73785353092365fbd8c",
+                  "mime_type": "application\/pdf",
+                  "fileid": 10337,
+                  "datasetid": "document",
+                  "mtime": "2017-04-12 08:58:54",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10337",
+                  "filename": "STK 1004.pdf",
+                  "objectid": 1384,
+                  "filesize": 125361
+                }
+            ],
+            "main": "STK 1004.pdf",
+            "docid": 1384,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1384",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1513
+          },
+          {
+            "formatdesc": "ImageMagick conversion from text to application\/pdf",
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1385",
+            "eprintid": 1513,
+            "placement": 2,
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "STK 1004.pdf",
+            "relation": [
+              {
+                "uri": "\/id\/document\/1384",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              }
+            ],
+            "files": [
+                {
+                  "hash": "6efdaf91e1fc80c5865a5513e23d96e6",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 10342,
+                  "mtime": "2017-04-12 09:08:46",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10342",
+                  "filename": "STK 1004.pdf",
+                  "filesize": 969698,
+                  "objectid": 1385
+                }
+            ],
+            "docid": 1385
+          }
+      ]
+    },
+    {
+      "title": "SIMULATION OF MINI-BAND FORMATION IN TRIPLE SI QUANTUM WELLS BASED RESONANT TUNNELING DIODE",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "sri.purwiyanti@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Purwiyanti",
+            "given": "Sri"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Nuryadi",
+            "honourific": null,
+            "given": "Ratno"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hartanto",
+            "given": "Djoko"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "756-759",
+      "datestamp": "2018-05-28 03:41:50",
+      "eprintid": 6873,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/ieeexplore.ieee.org\/xpl\/articleDetails.jsp?arnumber=6129211&newsearch=true&queryText=sri%20purwiyanti&fname=&lname=&title=&volume=&issue=&spage=",
+      "lastmod": "2018-05-28 03:41:50",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19854",
+            "eprintid": 6873,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash": "ee58d76e64c5710120dfa6ae7a087e53",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 63152,
+                  "mtime": "2018-05-07 06:26:05",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63152",
+                  "filename": "purwiyanti_tencon2011.pdf",
+                  "objectid": 19854,
+                  "filesize": 761173
+                }
+            ],
+            "main": "purwiyanti_tencon2011.pdf",
+            "docid": 19854
+          }
+      ],
+      "userid": 56,
+      "related_url": [
+        {
+          "url": "http:\/\/ieeexplore.ieee.org\/stamp\/stamp.jsp?tp=&arnumber=6129211"
+        }
+      ],
+      "publication": "TENCON 2011-2011 IEEE Region 10 Conference",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/68\/73",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "2159-3450",
+      "full_text_status": "public",
+      "status_changed": "2018-05-28 03:41:50",
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6873",
+      "date": 2011,
+      "abstract": "In this work, we investigate the formation of mini-band energy in triple Si quantum wells-based resonance tunnelling diode focusing on the effect of applied bias on the band. The formation of mini-bands is obtained from the calculation of electron tunnelling probability through the wells. The calculation is done based on transfer matrix method. The simulation results show the mini-band formation due to the appearance of discrete energy group. The changes of applied bias, quantum well width and barrier thickness causes the change of the mini-band width. These results indicate that the device structure and applied bias condition play a key role on the formation of mini-band energy in the quantum wells."
+    },
+    {
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Recently, multiple quantum wells structure are often used in the laser and diode applications in order to increase their\r\nefficiency. In this structure, electron tunnelling phenomena from a quantum well to another well play a key role in electronic transport itself. Tunnelling is a quantum mechanical phenomenon where an electron is commonly represented by its wavefunction. This paper presents a numerical simulation of electron tunnelling probability on three quantum wells(quadruple barrier) Si\/SiO2 system focusing the applied bias effect on the tunnelling probability. The tunneling probability is calculated by solving the Schrodinger’s equations through potential barrier using transfer matrix method. The simulation results show the mini-band formation due to the appearance of discrete energy group. We also found that the applied bias on this structure causes the changes in tunnelling probability and discrete energy gap. Therefore, the control of voltage bias and device structure is required in order to obtain expected characteristic of multiple quantum well structure.",
+      "date": 2011,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6874",
+      "publication": "Proceedings of the 2011 International Conference on Electrical Engineering and Informatics",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/68\/74",
+      "related_url": [
+        {
+          "url": "http:\/\/ieeexplore.ieee.org\/stamp\/stamp.jsp?tp=&arnumber=6021788"
+        }
+      ],
+      "status_changed": "2018-05-28 03:42:43",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "eprint_status": "archive",
+      "eprintid": 6874,
+      "datestamp": "2018-05-28 03:42:43",
+      "metadata_visibility": "show",
+      "userid": 56,
+      "documents": [
+          {
+            "main": "purwiyanti_ICEEI2011.pdf",
+            "docid": 19855,
+            "files": [
+                {
+                  "hash": "f9fd72131dbe672f35462bf8ece3c67a",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 63158,
+                  "filename": "purwiyanti_ICEEI2011.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63158",
+                  "objectid": 19855,
+                  "filesize": 626599,
+                  "mtime": "2018-05-07 06:40:50",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 6874,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19855",
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/ieeexplore.ieee.org\/xpl\/articleDetails.jsp?arnumber=6021788&newsearch=true&queryText=sri%20purwiyanti&fname=&lname=&title=&volume=&issue=&spage=",
+      "lastmod": "2018-05-28 03:42:43",
+      "type": "article",
+      "creators": [
+        {
+          "id": "sri.purwiyanti@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Purwiyanti",
+            "given": "Sri"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Nuryadi",
+            "lineage": null,
+            "given": "Ratno"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Djoko",
+            "honourific": null,
+            "family": "Hartanto",
+            "lineage": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "A Simulation of The Applied Bias Effect of Tunnelling Probability in Quadruple Barrier Si\/SiO2 System"
+    },
+    {
+      "official_url": "http:\/\/www.praiseworthyprize.org\/latest_issues\/IREE-latest\/IREE_vol_6_n_3.html",
+      "lastmod": "2016-09-23 07:25:34",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/539",
+            "eprintid": 635,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "05_Jurnal Internasional IREE 2011.pdf",
+            "docid": 539,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 3512,
+                  "hash": "0d91ec64b2978d2ea9cf3be43d5ff116",
+                  "mime_type": "application\/pdf",
+                  "filesize": 6155718,
+                  "objectid": 539,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3512",
+                  "filename": "05_Jurnal Internasional IREE 2011.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-22 00:39:25"
+                }
+            ]
+          }
+      ],
+      "userid": 504,
+      "number": 3,
+      "metadata_visibility": "show",
+      "datestamp": "2016-09-23 07:25:34",
+      "eprint_status": "archive",
+      "eprintid": 635,
+      "title": "High Voltage Ratio Interleaved Boost DC-DC Converter for High Power Fuel Cell Application",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "ahmad.saudi@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Samosir",
+            "honourific": null,
+            "given": "Ahmad Saudi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Mohd Yatim",
+            "lineage": null,
+            "honourific": null,
+            "given": "Abdul Halim"
+          }
+        }
+      ],
+      "type": "article",
+      "date": "2011-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/635",
+      "abstract": "Karya ilmiah ini meperkenalkan topologi baru dari sebuah Interleaved Boost DC-DC Converter dengan ratio tegangan yang tinggi yang dapat digunakan untuk aplikasi Fuel Cell daya Tinggi. Tulisan ini membahas skematik dari topologi baru yang diusulkan, cara kerja rangkaian, penurunan persamaan matematis dari tegangan output,  simulasi komputer, serta pembuatan Hardware untuk memvalidasi unjuk kerja rangkaian.",
+      "volume": 6,
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "1827-6660",
+      "full_text_status": "public",
+      "status_changed": "2016-09-23 07:25:34",
+      "publisher": "Praise Worty Prize",
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "International Review of Electrical Engineering (IREE)",
+      "dir": "disk0\/00\/00\/06\/35"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Simulation and Implementation of Interleaved Boost DC-DC Converter for Fuel Cell Application",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Samosir",
+            "lineage": null,
+            "given": "Ahmad Saudi"
+          },
+          "id": "ahmad.saudi@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Mohd Yatim",
+            "lineage": null,
+            "given": "Abdul Halim"
+          },
+          "id": null
+        }
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "08_Jurnal Internasional IJPEDS 2011.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "e46cebea0cfc5c46674e544279bc7c36",
+                  "datasetid": "document",
+                  "fileid": 3541,
+                  "mtime": "2016-09-23 04:32:38",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3541",
+                  "filename": "08_Jurnal Internasional IJPEDS 2011.pdf",
+                  "filesize": 437461,
+                  "objectid": 544
+                }
+            ],
+            "docid": 544,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/544",
+            "eprintid": 639,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2016-09-23 07:27:02",
+      "official_url": "http:\/\/iaesjournal.com\/online\/index.php\/IJPEDS\/article\/view\/126",
+      "number": 2,
+      "userid": 504,
+      "pagerange": "168-174",
+      "metadata_visibility": "show",
+      "eprintid": 639,
+      "eprint_status": "archive",
+      "datestamp": "2016-09-23 07:27:02",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2016-09-23 07:27:02",
+      "full_text_status": "public",
+      "issn": "2088-8694",
+      "publisher": "IAES",
+      "publication": "International Journal of Power Electronics and Drive Systems",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/06\/39",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/639",
+      "date": "2011-10",
+      "volume": 1,
+      "abstract": "Karya ilmiah ini mepresentasikan tentang simulasi dan implementasi dari sebuah Konverter Elektronika Daya jenis Interleaved Boost DC-DC Converter untuk aplikasi pada system Fuel Cell.\r\nTulisan ini membahas skematik rangkaian, operasi kerja rangkaian Boost DC-DC Converter yang bekerja pada mode Interleaved, pemodelan rangkaian, simulasi komputer, dan implementasi dalam bentuk Hardware.",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published"
+    },
+    {
+      "date_type": "completed",
+      "subjects": [
+        "TK"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50137",
+      "date": "2011-08-22",
+      "abstract": "Partial discharge (PD) detection in the ultra high frequency (UHF) range can offer better immunity against electromagnetic disturbances and higher signal-to-noise ratio. However, the UHF method cannot be calibrated as per IEC 60270 to determine the equivalent apparent charge from the output signal of the UHF sensors. As a substitution to the calibration, sensitivity verification is proposed by the CIGRE WC 15.03. The sensitivity of the UHF measuring method is very dependent on the type of PD source, the construction of the transformer and the sensor types. In this paper, 4 different sensors are applied to capture PD signals from two different types of PD source (void and floating metal) to check sensors sensitivity. The effect of a physical barrier between sensor and PD source is also investigated. The total energy and magnitude are extracted from the full-span and zero-span spectra. For similar PD level, the total energy of the full-span spectra, with the barrier at varying distance from the sensor, shows random values. The total energy and magnitude of zero-span spectra show linear correlation to the PD level if the barrier is kept at the same position.",
+      "publication": "International Symposium on High Voltage Engineering ; 17; 2011; Hannover ISH ; 17; 2011; Hannover",
+      "publisher": "VDE-Verl.",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0_bak\/00\/05\/01\/37",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": 9783800733644,
+      "full_text_status": "public",
+      "status_changed": "2023-04-11 00:50:16",
+      "metadata_visibility": "show",
+      "datestamp": "2023-04-11 00:50:16",
+      "eprint_status": "archive",
+      "eprintid": 50137,
+      "lastmod": "2023-04-11 00:50:16",
+      "official_url": "https:\/\/www.tib.eu\/en\/search\/id\/TIBKAT%3A670099880\/ISH-2011-17th-International-Symposium-on-High-Voltage\/",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 542105,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "8da6cd74db3763e69137de61333f4ab4",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-10 12:57:29",
+                  "filesize": 738974,
+                  "objectid": 189836,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542105",
+                  "filename": "D-069-SIN-F ISH 2011.pdf"
+                }
+            ],
+            "main": "D-069-SIN-F ISH 2011.pdf",
+            "docid": 189836,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 50137,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189836",
+            "security": "public"
+          }
+      ],
+      "userid": 689,
+      "title": "UHF Sensors Sensitivity In Detecting Partial Discharge Sources In A Transformer",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "herman.h.sinaga@eng.unila.ac.id",
+          "name": {
+            "family": "Sinaga",
+            "lineage": null,
+            "honourific": null,
+            "given": "Herman Halomoan"
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Partial discharge localization in transformers using UHF sensors",
+      "creators": [
+        {
+          "id": "herman.h.sinaga@eng.unila.ac.id",
+          "name": {
+            "family": "Sinaga",
+            "lineage": null,
+            "honourific": null,
+            "given": "Herman Halomoan"
+          }
+        },
+        {
+          "name": {
+            "family": "Phung",
+            "lineage": null,
+            "honourific": null,
+            "given": "Toan"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "P L",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ao"
+          }
+        },
+        {
+          "name": {
+            "given": "Trevor",
+            "family": "Blackburn",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "eprintid": 50235,
+      "eprint_status": "archive",
+      "datestamp": "2023-04-11 07:26:44",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "sinaga2011 EIC USA Partial discharge localization in transformers using UHF sensors.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 542807,
+                  "hash": "e51b078d58204d8c42cc3e10c17bd6f2",
+                  "mime_type": "application\/pdf",
+                  "objectid": 189934,
+                  "filesize": 394536,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542807",
+                  "filename": "sinaga2011 EIC USA Partial discharge localization in transformers using UHF sensors.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 07:18:23"
+                }
+            ],
+            "docid": 189934,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189934",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50235
+          }
+      ],
+      "official_url": "https:\/\/ieeexplore.ieee.org\/xpl\/conhome\/5983456\/proceeding",
+      "lastmod": "2023-04-11 07:26:44",
+      "userid": 689,
+      "publisher": "IEEE",
+      "publication": "IEEE 2011 Electrical Insulation Conference (EIC)",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0_bak\/00\/05\/02\/35",
+      "related_url": [
+        {
+          "url": "https:\/\/ieeexplore.ieee.org\/document\/5996117"
+        }
+      ],
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2023-04-11 07:26:44",
+      "full_text_status": "public",
+      "issn": "978-1-4577-0279-2",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50235",
+      "date": "2011-08-22",
+      "abstract": "The location of the partial discharge (PD) source inside a transformer can be determined by using the time differences between signals that are captured by an array of three UHF sensors. However, other unwanted signals are also picked up by the sensors and may result in a false PD location. This paper discusses the application of multivariate denoising to the PD signals. Three methods are compared to determine the time difference between the received signals and locate the PD source. With the first peak method, the time difference is calculated by taking the first peak of the signal as the arrival instant. In the second method, the arrival time is determined from the knee point of the cumulative energy curve. For the third method, the time difference is determined by applying the similarity function to the plot of the cumulative energy of the PD signals. The last method is fully automated. However, experimental results show the first peak method tends to be the most accurate."
+    },
+    {
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "abstract": "In this paper, partial discharge (PD) signals in the ultra-high frequency (UHF) range were investigated. A spectrum analyzer functioning in the zero span mode was applied to capture and record the PD signal component at a specific frequency over a time interval. Different PD sources produce different PD patterns, thus it is possible to recognize the PD sources from the captured PD patterns. Here, the PD patterns produced by 3 different laboratory models representing defects in transformer windings (void, floating metal, and surface discharge) are recorded and analyzed. From the PD pattern data, 6 features are extracted using 3 statistical parameters, i.e. mean, skewness and kurtosis for both positive and negative voltage halfcycles. The 6 features were used to recognize the PD sources by applying neuro fuzzy method to classify the PD pattern. ANFIS, a MatLab function, was used to train the fuzzy inference system (FIS). The trained FIS was then used to recognize the source of the PDs. Result shows the trained FIS has a high success rate to recognize and thus classify the PD sources.",
+      "date": "2011-01-20",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50224",
+      "publisher": "IEEE",
+      "dir": "disk0_bak\/00\/05\/02\/24",
+      "publication": "IEEE 2010 Conference Proceedings IPEC",
+      "divisions": [
+        "FT5"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/ieeexplore.ieee.org\/document\/5697156"
+        }
+      ],
+      "status_changed": "2023-04-11 07:26:23",
+      "full_text_status": "public",
+      "issn": "1947-1270",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "eprintid": 50224,
+      "eprint_status": "archive",
+      "datestamp": "2023-04-11 07:26:23",
+      "metadata_visibility": "show",
+      "userid": 689,
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 542765,
+                  "hash": "89b38ba5ee3ce280e3827fadbe79cbdf",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 06:52:07",
+                  "filesize": 1354720,
+                  "objectid": 189928,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542765",
+                  "filename": "Neuro fuzzy recognition of ultra-high frequency partial discharges in transformers.pdf"
+                }
+            ],
+            "main": "Neuro fuzzy recognition of ultra-high frequency partial discharges in transformers.pdf",
+            "docid": 189928,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 50224,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189928",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-04-11 07:26:24",
+      "official_url": "https:\/\/ieeexplore.ieee.org\/xpl\/conhome\/5685176\/proceeding",
+      "creators": [
+        {
+          "name": {
+            "given": "Herman Halomoan",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sinaga"
+          },
+          "id": "herman.h.sinaga@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Toan",
+            "lineage": null,
+            "family": "Phung",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Blackburn",
+            "honourific": null,
+            "given": "Trevor"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Neuro fuzzy recognition of ultra-high frequency partial discharges in transformers"
+    }
+]
+

@@ -1,0 +1,65 @@
+,refereed,number,userid,documents,official_url,eprintid,eprint_status,id_number,referencetext,datestamp,pagerange,full_text_status,issn,ispublished,publisher,related_url,abstract,date,type,creators,title,lastmod,metadata_visibility,status_changed,rev_number,dir,publication,divisions,volume,uri,subjects,date_type
+0,TRUE,1,30,"[{'placement': 1, 'eprintid': 49751, 'uri': 'http://repository.lppm.unila.ac.id/id/document/189390', 'pos': 1, 'security': 'public', 'files': [{'hash_type': 'MD5', 'mtime': '2023-04-06 04:40:10', 'objectid': 189390, 'filesize': 504256, 'uri': 'http://repository.lppm.unila.ac.id/id/file/539037', 'filename': '8. Co Author-Prosiding Seminar Nasional 3rd CGISE dan FIT ISI 2016-Fajriyanto.pdf', 'datasetid': 'document', 'fileid': 539037, 'hash': '66410864d2afbd53214546c9a57e73f3', 'mime_type': 'application/pdf'}], 'main': '8. Co Author-Prosiding Seminar Nasional 3rd CGISE dan FIT ISI 2016-Fajriyanto.pdf', 'docid': 189390, 'format': 'text', 'language': 'en', 'mime_type': 'application/pdf', 'rev_number': 1}]",https://geodesi.ugm.ac.id/,49751,archive,1,"Dewi, C., dkk, 2013: Analisis Ruang Terbuka Hijau di
+Kota Bandar Lampung. Penelitiandan Pengabdian
+Masyarakat, Universitas Lampung, Lampung.
+Julzarika, A. 2009: Perbandingan Teknik
+Orthorektifikasi Citra Satelit SPOT5 Wilayah
+Semarang Dengan Metode Digital Mono Plotting
+(DMP) Dan Metode Rational Polynomial
+Coefficients (RPCs), Jurnal Penginderaan Jauh
+Volume 6, Tahun 2009 halaman :11-21
+Jensen, J.R, 1996: Introductory Digital Image
+Processing, Prentice Hall, Singapore.
+Lillesand.M.T dan R.W. Kieffer, 1997. Penginderaan
+Jauh dan Interpretasi Citra. Gadjah Mada
+University Press, Yogyakarta.
+Martain. 2006: Pemanfaatan Citra Quickbird sebagai
+komponen untuk pembuatan peta zona nilai tanah di
+wilayah perbatasan antar dua Kantor Pelayanan
+Pajak Bumi dan Bangunan-Studi kasus Perbatasan
+Kecamatan Tegalrejo (KP. PBB Yogyakarta) dan
+Kecamatan Mlati (KP. PBB Sleman). Thesis S-2.
+Program Studi Teknik Geomatika, Universitas
+Gadjah Mada, Yogyakarta. 
+Nugroho, H, 2011: Kajian Implementasi Metode
+Penetapan Batas Administrasi Kota/Kabupaten
+(Studi Kasus: Provinsi Sumatera Barat), Jurnal
+Rekayasa LPPM Itenas, Nomor 1 Volume XV, edisi
+Januari – Maret 2011, Bandung.
+Peraturan Menteri Dalam Negeri Nomor 27 Tahun
+2006 tentang Penetapan dan Penegasan Batas Desa.
+Jakarta
+Peraturan Kepala Badan BIG Nomor 3 Tahun 2016
+tentang Spesifikasi Teknik Penyajian Peta Desa
+Yang Menyajikan Peta Desa Dalam Bentuk Peta
+Citra, Cibinong, Bogor.
+Pramono, H. dkk., 2013: Panduan Penataan Batas
+Desa secara Partisipatif, Laporan Akhir Support
+Services for Land Use Planning, District Readiness,
+Strategic Environmental Assessment and Related
+Preparatory Activities for the Green Prosperity
+Project in Indonesia, Millennium Challenge
+Corporation, Washington DC, U.S.A 
+Undang-Undang Republik Indonesia Nomor 26 Tahun
+2007 Tentang Penataan Ruang, Jakarta
+Wahyono, E.B, 2007: Kajian pemanfaatan citra satelit
+Ikonos untuk pembuatan peta dasar pendaftaran tanah: Kasus pada sebagian daerah Kabupaten
+Trenggalek Provinsi Jawa Timur. Thesis S-2.
+Program Studi Teknik Geomatika, Universitas
+Gadjah Mada, Yogyakarta.
+Yudono, A. 2016: Teknologi, Informasi Dan
+Perencanaan Di Indonesia: Quo Vadis One Map
+Policy? Department of Urban Studies and Planning,
+University of Sheffield. U.K.",2023-04-06 07:24:09,523-528,public,978-979-98731-7-0,pub,"Departemen Teknik Geodesi  Fakultas Teknik Universitas Gadjah Mada  Yogyakarta, 2016",[{'url': 'https://geodesi.ugm.ac.id/'}],"The Village of Gedung Pakuon is one of the villages of the coastal area of Lampung Bay. The monitoring
+results are directly in some village in the district of Teluk Betung Selatan, Bandar Lampung, most of the village
+map still does not meet the rules of cartography (still shaped sketch). In this study, carried out several activities,
+starting from the procurement stage image, cropping the image, geometry correction, cartography and plotting.
+Accuracy Quickbird image used was 2.4 m, then the tolerance value RMSE after multiplied by the accuracy
+of the image should be no more than 2.4 m, the results of the entire value of the average RMSE of 10 GCP
+(ground control points) obtained was 0:18, then 0:18 x 2.4 = 0432 m, which means that 0432 m <2.4 m so that
+the geometric correction Quickbird categorized sign of tolerance. These forms of technical assistance in the
+form of maps and map image Gedung Pakuon sub line with the scale of 1: 2,000 which is expected to meet
+the needs of spatial information, especially the village community and can be used as a reference for mapping
+purposes and other users.",2016-10-27,article,"[{'name': {'given': 'Yohannes', 'lineage': None, 'family': 'Yohannes', 'honourific': None}, 'id': 'yohannessp@gmail.com'}, {'name': {'honourific': None, 'family': 'Fajriyanto', 'lineage': None, 'given': 'Fajriyanto'}, 'id': 'fajriyanto@eng.unila.ac.id'}, {'name': {'given': 'Eko', 'honourific': None, 'lineage': None, 'family': 'Rahmadi'}, 'id': 'eko.rahmadi@eng.unila.ac.id'}]","Realisasi Kebijakan Satu Peta (One Map Policy) Berbasis Peta
+Desa (Studi Kasus Bantuan Teknis Peta Kelurahan Pakuon,
+Kecamatan Teluk Betung Selatan, Kota Bandar Lampung)",2023-04-06 07:24:09,show,2023-04-06 07:24:09,6,disk0_bak/00/04/97/51,Seminar Nasional 3rd CGISE dan FIT ISI 2016,['FT11'],1,http://repository.lppm.unila.ac.id/id/eprint/49751,['GE'],published

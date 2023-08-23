@@ -1,0 +1,74 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8797",
+      "date": "2010-07",
+      "date_type": "published",
+      "event_title": "Seminar daerah dengan Tema: Refleksi dan Reorientasi Peran Pendidikan Fisika menghadapi tantangan abad ke 21",
+      "subjects": [
+        "L1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2018-10-29 04:17:06",
+      "event_type": "workshop",
+      "divisions": [
+        "FKIP17"
+      ],
+      "dir": "disk0\/00\/00\/87\/97",
+      "lastmod": "2018-10-29 04:17:06",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 8797,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21877",
+            "pos": 1,
+            "security": "public",
+            "files": [
+                {
+                  "hash": "5d5b7f25197956c1b0c725ed73e0e923",
+                  "mime_type": "application\/pdf",
+                  "fileid": 85574,
+                  "datasetid": "document",
+                  "filename": "Asesment Otentik dalam Pembelajaran IPA-oke.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85574",
+                  "filesize": 7310289,
+                  "objectid": 21877,
+                  "mtime": "2018-09-07 00:17:20",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Asesment Otentik dalam Pembelajaran IPA-oke.pdf",
+            "docid": 21877,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 706,
+      "metadata_visibility": "show",
+      "pagerange": "1-8",
+      "datestamp": "2018-10-29 04:17:06",
+      "eprint_status": "archive",
+      "eprintid": 8797,
+      "event_location": "Universitas Lampung",
+      "title": "Asesment Otentik dalam Pembelajaran IPA",
+      "event_dates": "10 Juli 2010",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "undangros@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Undang Rosidin",
+            "given": "UR"
+          }
+        }
+      ]
+    }
+]
+

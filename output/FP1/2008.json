@@ -1,0 +1,141 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3650",
+      "date": "2008-06",
+      "abstract": "With constant increase of fossil fuel price recently, the search for biodiesel as alternative source of energy has been increasing recently.  Cassava is among agricultural crop that is potential for biofuel production.  This study intends to determine the competitiveness of cassava farming for biofuel in Central Lampung District of Lampung.  The study employs Policy Analysis Matrix involving 38 farmers who were randomly selected.  The study suggests that thanks to the increase of cassava price at farm level, the farmers have gained substantial benefits from cassava farming.  The study suggests that cassava farming is profitable and competitive.  It provides net private and social profits of Rp 6.88 million and Rp 6.72 millions per hectare respectively.  Even if subsidy of Urea fertilizer is removed, the farmers is still gaining hefty profits.  The farming is also efficient in terms of using domestic resources as shown with the value of domestic resource cost (DRC) at 0.43 with subsidy and 0.44 without subsidy suggesting that this farming needs only 43 to 44 cents to obtain US$ 1 revenues.  Henceforth, this farming is aong the likeable choice by farmers in Kabupate Lampung Tengah.",
+      "volume": 14,
+      "publication": "Sosio Ekonomika",
+      "publisher": "Fakultas Pertanian, Universitas Lampung",
+      "divisions": [
+        "FP1"
+      ],
+      "dir": "disk0\/00\/00\/36\/50",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "0853-1293",
+      "status_changed": "2017-07-20 09:05:12",
+      "metadata_visibility": "show",
+      "pagerange": "47-61",
+      "datestamp": "2017-07-20 09:05:12",
+      "eprint_status": "archive",
+      "eprintid": 3650,
+      "official_url": "http:\/\/journal.unila.ac.id\/index.php\/sosioekonomika",
+      "lastmod": "2017-07-20 09:05:12",
+      "documents": [
+          {
+            "main": "Sosioekonomik Vol 14 No 1 Juni 2008.pdf",
+            "docid": 3517,
+            "files": [
+                {
+                  "filesize": 13564518,
+                  "objectid": 3517,
+                  "filename": "Sosioekonomik Vol 14 No 1 Juni 2008.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25532",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-14 03:46:54",
+                  "datasetid": "document",
+                  "fileid": 25532,
+                  "hash": "6947e0f50407d68bcebe7b6016e5a57f",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 3650,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3517",
+            "security": "public"
+          }
+      ],
+      "userid": 933,
+      "number": 1,
+      "title": "DAYA SAING USAHATANI UBIKAYU UNTUK BIOFUEL DI LAHAN KERING KABUPATEN LAMPUNG TENGAH",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Abidin",
+            "lineage": null,
+            "given": "Zainal"
+          },
+          "id": "zainal.abidin@fp.unila.ac.id"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "status_changed": "2021-05-29 00:37:39",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "divisions": [
+        "FP1"
+      ],
+      "publisher": "LPPM Universitas Lampung",
+      "dir": "disk0\/00\/03\/12\/43",
+      "abstract": "Revie JSE Vol 14 No 1 Juni 2008",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31243",
+      "date": 2008,
+      "subjects": [
+        "S1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Abidin",
+            "lineage": null,
+            "given": "Zainal"
+          },
+          "id": "zainal.abidin@fp.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "Daya Saing Usahatani Ubikayu untuk Biofuel di Kabupaten Lampung",
+      "userid": 933,
+      "documents": [
+          {
+            "format": "text",
+            "main": "JSE Vol 14 No 1 2008 zainal abdin.pdf",
+            "docid": 141146,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "8fec447f5e444744dacd2fdbb012e136",
+                  "fileid": 370270,
+                  "datasetid": "document",
+                  "mtime": "2021-05-28 16:50:00",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/370270",
+                  "filename": "JSE Vol 14 No 1 2008 zainal abdin.pdf",
+                  "filesize": 391995,
+                  "objectid": 141146
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 31243,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/141146"
+          }
+      ],
+      "lastmod": "2021-05-29 00:37:39",
+      "eprintid": 31243,
+      "eprint_status": "archive",
+      "datestamp": "2021-05-29 00:37:39",
+      "metadata_visibility": "show"
+    }
+]
+

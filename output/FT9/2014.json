@@ -1,0 +1,77 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Kelik Hendro",
+            "honourific": null,
+            "lineage": null,
+            "family": "Basuki"
+          },
+          "id": "jaya_setika@yahoo.com"
+        },
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          }
+        }
+      ],
+      "type": "video",
+      "title": "Animasi Bandara Raden Inten 2",
+      "userid": 190,
+      "official_url": "https:\/\/www.youtube.com\/watch?v=bDLekQxZouo",
+      "lastmod": "2021-11-20 03:05:39",
+      "documents": [
+          {
+            "main": "bandara raden inten 2.mp4",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-19 18:10:17",
+                  "filesize": 16992633,
+                  "objectid": 157962,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/425088",
+                  "filename": "bandara raden inten 2.mp4",
+                  "datasetid": "document",
+                  "fileid": 425088,
+                  "mime_type": "video\/mp4",
+                  "hash": "8c5ccf042ec86391e3eaa5f62cdf7dfa"
+                }
+            ],
+            "docid": 157962,
+            "format": "video",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "video\/mp4",
+            "placement": 1,
+            "eprintid": 37053,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157962",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2021-11-20 03:05:39",
+      "eprint_status": "archive",
+      "eprintid": 37053,
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "status_changed": "2021-11-20 03:05:39",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "divisions": [
+        "FT9"
+      ],
+      "dir": "disk0\/00\/03\/70\/53",
+      "abstract": "Hasil Desain pada Video Animasi Perencanaan Terminal 2 Bandara Raden Inten 2 Lampung.",
+      "date": "2014-04-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37053",
+      "subjects": [
+        "NA"
+      ]
+    }
+]
+

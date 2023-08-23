@@ -1,0 +1,85 @@
+[
+    {
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/872",
+      "date": 1997,
+      "publisher": "Penerbit ITB",
+      "divisions": [
+        "FP24"
+      ],
+      "dir": "disk0\/00\/00\/08\/72",
+      "funders": [
+        "Ditjen Dikti"
+      ],
+      "status_changed": "2016-10-24 01:34:30",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "editors": [
+        {
+          "name": {
+            "given": "Adjat",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sakri"
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "eprintid": 872,
+      "datestamp": "2016-10-24 01:34:30",
+      "metadata_visibility": "show",
+      "userid": 1039,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 872,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/758",
+            "pos": 1,
+            "security": "public",
+            "main": "Scan Kiat Belajar.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-23 06:24:34",
+                  "objectid": 758,
+                  "filesize": 381094,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5273",
+                  "filename": "Scan Kiat Belajar.pdf",
+                  "fileid": 5273,
+                  "datasetid": "document",
+                  "hash": "078c5c84fc022fe610a8a471414760f3",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 758,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "pages": 86,
+      "lastmod": "2016-10-25 02:03:38",
+      "type": "book",
+      "creators": [
+        {
+          "id": "cipta.ginting@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Ginting",
+            "lineage": null,
+            "given": "Cipta"
+          }
+        }
+      ],
+      "isbn": "979859164X",
+      "refereed": "TRUE",
+      "title": "Kiat Belajar di Perguruan Tinggi Edisi 1",
+      "place_of_pub": "Bandung"
+    }
+]
+

@@ -1,0 +1,80 @@
+[
+    {
+      "contact_email": "sugiyanto.1957@eng.unila.ac.id",
+      "type": "article",
+      "creators": [
+        {
+          "id": "sugiyanto.1957@eng.unila.ac.id",
+          "name": {
+            "given": "Sugiyanto",
+            "family": "Sugiyanto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "ANALISIS PERILAKU CREEP BATANG STRUKTUR  KAYU KAMPER",
+      "number": 1,
+      "userid": 1133,
+      "documents": [
+          {
+            "docid": 3530,
+            "main": "@2. Jurnal Rekayasa Teknik Sipil 2005.pdf",
+            "files": [
+                {
+                  "fileid": 25610,
+                  "datasetid": "document",
+                  "hash": "e8da3bdcfeb079c9141c0afb49151776",
+                  "mime_type": "application\/pdf",
+                  "objectid": 3530,
+                  "filesize": 1878672,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25610",
+                  "filename": "@2. Jurnal Rekayasa Teknik Sipil 2005.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-17 15:11:43"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "rev_number": 2,
+            "placement": 1,
+            "eprintid": 3664,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3530",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2017-07-20 09:06:42",
+      "eprintid": 3664,
+      "eprint_status": "archive",
+      "datestamp": "2017-07-20 09:06:42",
+      "pagerange": "1-7",
+      "metadata_visibility": "show",
+      "status_changed": "2017-07-20 09:06:42",
+      "full_text_status": "public",
+      "issn": "0852-7733",
+      "ispublished": "pub",
+      "keywords": "creep, temperature, secondary, tertiary",
+      "rev_number": 7,
+      "dir": "disk0\/00\/00\/36\/64",
+      "publisher": "Jurusan Teknik Sipil Fakultas Teknik Universitas Lampung",
+      "publication": "Rekayasa, Jurnal Teknik Sipil dan Perencanaan",
+      "divisions": [
+        "FT3"
+      ],
+      "volume": 9,
+      "corp_creators": [
+        "Prodi Teknik Mesin, Fak. Teknik, Unila"
+      ],
+      "abstract": "The aim of this research is to find out creep characteristic included the lifetime of woods Camper in loading of static. The creep data of the woods is very important in application  to  technology, architect and  structure  in  order  to  gain  the condition. In this research creep data was carried-out by creep test in constant temperature and load  in a long time.  The result shows that the strain of the woods  in  the  secondary  and   tertiary area  faster in the high stress and temperature.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3664",
+      "date": "2005-04",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published"
+    }
+]
+

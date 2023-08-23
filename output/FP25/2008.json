@@ -1,0 +1,159 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "SB"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/879",
+      "date": 2008,
+      "abstract": "One of the limitation for Agrobacterium-mediated transformation via organogenesis from cotyledon explants routinely in cucumber is the production of chimeric plants. To overcome the limitation, Agrobacterium-mediated transformation system via somatic embryogenesis from hypocotyl explants of cucumber (c.v., Eunsung) on the selection medium with paromomycin as antibiotics was developed. The hypocotyl explants were inoculated with Agrobacterium tumefaciens strain EHA101 carrying binary vector pPTN290; then were subsequently cultured on the following media: co-cultivation medium for 2 days, selection medium for  days, and regeneration medium. The T-DNA of the vector (pPTN290) carried two cassettes, Ubi promoter-gus gene as reporter and 35S promoter-nptll gene conferring resistance to paromomycin as selectable agent. The confirmation of stable transformation and the efficiency of transformation was based on the resistance to paromomycin indicated by the growth of putative transgenic calli on selection medium amended with 100mg\/L paromomycin, and GUS gene expression. Forty eight clones (5.2%) with GUS gene expressed of 56 callus clones with resistance to paromomycin were independently obtained from 928 explants inoculated. Of 48 clones, transgenic plants were only regenerated from 5 clones (0.5%) at low frequency. The histochemical GUS assay in the transgenic seeds () also revealed that the gus gene was successfully integrated and segregated into each genome of transgenic cucumber.",
+      "corp_creators": [
+        "Nambu University, Gwangju, Korea",
+        "Nambu University, Gwangju, Korea",
+        "Nambu University, Gwangju, Korea",
+        "Jeonnam National University, Gwangju Korea",
+        "Nambu University, Gwangju, Korea",
+        "University of Lampung",
+        "Nambu University, Gwangju, Korea",
+        "Nambu University, Gwangju, Korea",
+        "Nambu University, Gwangju, Korea"
+      ],
+      "volume": 35,
+      "publisher": "The Korean Society of Plant Biotechnology",
+      "dir": "disk0\/00\/00\/08\/79",
+      "publication": "Journal of Plant Biotechnology",
+      "divisions": [
+        "FP25"
+      ],
+      "rev_number": 12,
+      "ispublished": "pub",
+      "issn": "1229-2818",
+      "full_text_status": "public",
+      "status_changed": "2016-10-24 01:38:23",
+      "metadata_visibility": "show",
+      "pagerange": "275-280",
+      "datestamp": "2016-10-24 01:38:23",
+      "eprintid": 879,
+      "eprint_status": "archive",
+      "lastmod": "2016-11-04 03:11:57",
+      "official_url": "http:\/\/www.koreascience.or.kr\/journal\/AboutJournal.jsp?kojic=SMSMCM",
+      "documents": [
+          {
+            "format": "text",
+            "main": "scholar_oi=bibs&hl=en&q=related_-yBq287cbUAJ_scholar.google.com%2F",
+            "docid": 766,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 5316,
+                  "mime_type": "text\/html",
+                  "hash": "8e9234a2e995ce85d9027fc7c7935a50",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-23 10:36:06",
+                  "objectid": 766,
+                  "filesize": 94030,
+                  "filename": "scholar_oi=bibs&hl=en&q=related_-yBq287cbUAJ_scholar.google.com%2F",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5316"
+                }
+            ],
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "text\/html",
+            "eprintid": 879,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/766"
+          }
+      ],
+      "userid": 1078,
+      "number": 4,
+      "title": "GUS Gene expression and plant regeneration via somatic embryogenesis in cucumber (Cucumis sativus L.)",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Kim",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hyun-A"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Boo-Youn",
+            "honourific": null,
+            "lineage": null,
+            "family": "Lee"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Jeon",
+            "given": "Jin-Jung"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Choi",
+            "honourific": null,
+            "given": "Dong-Woog"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Pil Son",
+            "family": "Choi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Setyo Dwi",
+            "lineage": null,
+            "family": "Utomo",
+            "honourific": null
+          },
+          "id": "setyo.dwiutomo@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Jae-Hyoek",
+            "honourific": null,
+            "family": "Lee",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kang",
+            "given": "Tong-Ho"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Lee",
+            "lineage": null,
+            "given": "Young-Jin;"
+          },
+          "id": null
+        }
+      ]
+    }
+]
+

@@ -1,0 +1,362 @@
+[
+    {
+      "divisions": [
+        "FKIP24"
+      ],
+      "publisher": "PDKI Indonesia",
+      "dir": "disk0\/00\/03\/18\/66",
+      "ispublished": "unpub",
+      "rev_number": 11,
+      "full_text_status": "public",
+      "status_changed": "2021-06-03 07:58:10",
+      "subjects": [
+        "L1",
+        "LC5201"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31866",
+      "date": "2018-12-12",
+      "title": "Media Pembelajaran Sejarah",
+      "type": "other",
+      "creators": [
+        {
+          "id": "muhammad.basri@fkip.unila.ac.id",
+          "name": {
+            "given": "Muhammad Basri",
+            "lineage": null,
+            "family": "Muhammad Basri",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sumargono",
+            "family": "Sumargono",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2021-06-03 07:58:10",
+      "eprint_status": "archive",
+      "eprintid": 31866,
+      "lastmod": "2021-06-03 07:58:10",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144329",
+            "security": "public",
+            "formatdesc": "ISI BUKU",
+            "placement": 1,
+            "eprintid": 31866,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "main": "media pembelajaran sejarah-HKI_compressed (1).pdf",
+            "docid": 144329,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-03 07:21:34",
+                  "filesize": 24567857,
+                  "objectid": 144329,
+                  "filename": "media pembelajaran sejarah-HKI_compressed (1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377310",
+                  "datasetid": "document",
+                  "fileid": 377310,
+                  "hash": "005e7de09ef7f9d1994d6d74fbf999c1",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          },
+          {
+            "format": "text",
+            "main": "sertifikat_MEDIA PEMBLJ SEJARAH.pdf",
+            "docid": 144334,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "5a2e6d8a4d8143bd6a2d88df051a3e78",
+                  "datasetid": "document",
+                  "fileid": 377316,
+                  "mtime": "2021-06-03 07:21:58",
+                  "hash_type": "MD5",
+                  "filename": "sertifikat_MEDIA PEMBLJ SEJARAH.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377316",
+                  "filesize": 2178180,
+                  "objectid": 144334
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "eprintid": 31866,
+            "placement": 2,
+            "security": "public",
+            "formatdesc": "SERTIFIKAT",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144334",
+            "pos": 2
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "format": "text",
+            "docid": 144335,
+            "main": "5 hki MEDIA PEMBLJ SEJARAH.pdf",
+            "files": [
+                {
+                  "fileid": 377318,
+                  "datasetid": "document",
+                  "hash": "f41a3513326ce7d48787336e0e45abf0",
+                  "mime_type": "application\/pdf",
+                  "objectid": 144335,
+                  "filesize": 574040,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377318",
+                  "filename": "5 hki MEDIA PEMBLJ SEJARAH.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-03 07:22:19"
+                }
+            ],
+            "security": "public",
+            "formatdesc": "REVIEWER",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144335",
+            "pos": 3,
+            "eprintid": 31866,
+            "placement": 3
+          }
+      ],
+      "userid": 573
+    },
+    {
+      "volume": 4,
+      "abstract": "This research aims to find the role of locality in the revolution period. As we\r\nknow that revolution period was a period that was quite important for the history of the\r\nnation because many areas are involved in this important event. The research method\r\nused is historical methods that include, heuristics, criticism, interpretation, and\r\nhistoriography. Based on the research conducted that during the period of Indonesia's\r\nindependence revolution, Kuningan had a central role in the struggle to maintain the\r\nsovereignty of the country in the eastern region of West Java, especially the Karesidenan\r\nCirebon. Kuningan in particular Ciwaru has a stake in the struggle for independence\r\nwhich is the capital of refugee from the Karesidenan Cirebon government after being\r\nbombarded the center of government in Cirebon by the events of the first Dutch Military\r\nAggression. In addition there are also wars involving civilians with the formation special\r\ntroops in Kuningan. As a place of refuge in the civil administration, the Karesidenan\r\nCirebon certainly made Kuningan as a battleground that was quite powerful in the\r\neastern region of West Java",
+      "date": 2018,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16395",
+      "subjects": [
+        "D1",
+        "D839"
+      ],
+      "date_type": "published",
+      "status_changed": "2019-11-14 10:34:41",
+      "issn": "2477-2771",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publication": "Jurnal Candrasangkala",
+      "publisher": "Jurusan Pendidikan Sejarah",
+      "divisions": [
+        "FKIP24"
+      ],
+      "dir": "disk0\/00\/01\/63\/95",
+      "number": 2,
+      "userid": 2784,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-14 05:28:06",
+                  "filesize": 290270,
+                  "objectid": 29499,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/139875",
+                  "filename": "1. Susurgalur Vol. 3 No. 2  September 2015.pdf",
+                  "datasetid": "document",
+                  "fileid": 139875,
+                  "mime_type": "application\/pdf",
+                  "hash": "d35477d72f518c3721db18a6eefdf5ba"
+                }
+            ],
+            "main": "1. Susurgalur Vol. 3 No. 2  September 2015.pdf",
+            "docid": 29499,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29499",
+            "pos": 1,
+            "eprintid": 16395,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2019-11-14 10:34:41",
+      "eprint_status": "archive",
+      "eprintid": 16395,
+      "datestamp": "2019-11-14 10:34:41",
+      "pagerange": "94-106",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Rinaldo Adi",
+            "lineage": null,
+            "family": "Pratama",
+            "honourific": null
+          },
+          "id": "rinaldo.adipratama@fkip.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "KECAMUK REVOLUSI KEMERDEKAAN DI KUNINGAN (1947-1950)"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "D1",
+        "D839"
+      ],
+      "date": 2018,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19990",
+      "abstract": "This research aims to find the role of locality in the revolution period. As we\r\nknow that revolution period was a period that was quite important for the history of the\r\nnation because many areas are involved in this important event. The research method\r\nused is historical methods that include, heuristics, criticism, interpretation, and\r\nhistoriography. Based on the research conducted that during the period of Indonesia's\r\nindependence revolution, Kuningan had a central role in the struggle to maintain the\r\nsovereignty of the country in the eastern region of West Java, especially the Karesidenan\r\nCirebon. Kuningan in particular Ciwaru has a stake in the struggle for independence\r\nwhich is the capital of refugee from the Karesidenan Cirebon government after being\r\nbombarded the center of government in Cirebon by the events of the first Dutch Military\r\nAggression. In addition there are also wars involving civilians with the formation special\r\ntroops in Kuningan. As a place of refuge in the civil administration, the Karesidenan\r\nCirebon certainly made Kuningan as a battleground that was quite powerful in the\r\neastern region of West Java",
+      "volume": 4,
+      "dir": "disk0\/00\/01\/99\/90",
+      "publisher": "Jurusan Pendidikan Sejarah",
+      "publication": "Jurnal Candrasangkala",
+      "divisions": [
+        "FKIP24"
+      ],
+      "rev_number": 4,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2477-2771",
+      "status_changed": "2020-05-18 21:42:13",
+      "metadata_visibility": "show",
+      "pagerange": "94-106",
+      "datestamp": "2020-05-18 21:42:13",
+      "eprint_status": "archive",
+      "eprintid": 19990,
+      "lastmod": "2020-05-18 21:42:13",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33335",
+            "eprintid": 19990,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash": "353f6d692d646d551a504fc9d0c95472",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 189076,
+                  "filename": "Vol. 4 No. 2 2018.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/189076",
+                  "objectid": 33335,
+                  "filesize": 472846,
+                  "mtime": "2020-05-18 09:56:19",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Vol. 4 No. 2 2018.pdf",
+            "docid": 33335
+          }
+      ],
+      "userid": 2784,
+      "number": 2,
+      "title": "KECAMUK REVOLUSI KEMERDEKAAN DI KUNINGAN (1947-1950)",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Pratama",
+            "lineage": null,
+            "given": "Rinaldo Adi"
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "full_text_status": "public",
+      "issn": "2527-3868",
+      "status_changed": "2019-11-14 12:34:41",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "publisher": "Universitas Pendidikan Indonesia",
+      "divisions": [
+        "FKIP24"
+      ],
+      "publication": "Mimbar Pendidikan: Jurnal Indonesia untuk Kajian Pendidikan",
+      "dir": "disk0\/00\/01\/64\/56",
+      "abstract": "Penelitian ini menjelaskan perkembangan kesenian Angklung Buncis di Kecamatan Cigugur,\r\nKabupaten Kuningan, Jawa Barat, yang memiliki peranan penting dalam upacara Seren Taun yang diadakan oleh\r\nmasyarakat adat Paseban. Masalah utama yang dibahas adalah bagaimana perkembangan kesenian Angklung\r\nBuncis di Kecamatan Cigugur, Kabupaten Kuningan, pada tahun 1980-2010. Metode yang digunakan dalam\r\npenelitian ini adalah kualitatif dengan pendekatan studi historis dan budaya. Hasil penelitian menunjukan bahwa\r\nkesenian Angklung Buncis di Kecamatan Cigugur, Kabupaten Kuningan berada dalam lingkup masyarakat adat\r\nPaseban dan lahir melalui ide kreatif sesepuh adat, yaitu Pangeran Djatikusumah. Terdapat perkembangan\r\nfungsi dalam kesenian tradisional Angklung Buncis, yakni dari fungsi sakral berubah menjadi hiburan dan\r\nprofan. Perkembangan fungsi tersebut terjadi karena permalasahan yang terdapat dalam lingkup masyarakat\r\nadat Paseban dan tuntutan zaman. Selain itu, ada perubahan dalam aspek penampilan, lagu, jumlah pemain,\r\ndan laras dalam kesenian Angklung Buncis, dengan tujuan untuk mempertahankan keberlangsungan kesenian\r\ntradisional tersebut di tengah-tengah perkembangan teknologi yang semakin maju.",
+      "volume": 3,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16456",
+      "date": "2018-03",
+      "date_type": "published",
+      "subjects": [
+        "GN"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Saputra",
+            "given": "Muhammad Adi"
+          },
+          "id": "madisaputtra25@gmail.com"
+        },
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "given": "Rinaldo Adi",
+            "family": "Pratama",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Dari Sakral Menuju Profan: Pasang-Surut\r\nKesenian Angklung Buncis di Kabupaten\r\nKuningan, Jawa Barat, Tahun 1980-2010",
+      "refereed": "TRUE",
+      "userid": 2784,
+      "number": 1,
+      "lastmod": "2019-11-14 12:34:41",
+      "official_url": "https:\/\/ejournal.upi.edu\/index.php\/mimbardik\/article\/view\/10638",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29546",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 16456,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "2. Mimbar Pendidikan Vol. 3 No. 1 Maret 2018.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-14 12:21:35",
+                  "filesize": 1000711,
+                  "objectid": 29546,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/140611",
+                  "filename": "2. Mimbar Pendidikan Vol. 3 No. 1 Maret 2018.pdf",
+                  "datasetid": "document",
+                  "fileid": 140611,
+                  "hash": "7fba7e6ecb0bcd1fa54ddb6257d57883",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 29546,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2019-11-14 12:34:41",
+      "eprintid": 16456,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "59-72"
+    }
+]
+

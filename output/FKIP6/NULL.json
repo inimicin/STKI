@@ -1,0 +1,240 @@
+[
+    {
+      "eprintid": 35616,
+      "eprint_status": "archive",
+      "datestamp": "2021-11-09 01:24:58",
+      "metadata_visibility": "show",
+      "number": 7,
+      "userid": 685,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 156511,
+            "main": "Effect of Principal.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/414601",
+                  "filename": "Effect of Principal.pdf",
+                  "filesize": 703377,
+                  "objectid": 156511,
+                  "mtime": "2021-11-09 01:15:37",
+                  "hash_type": "MD5",
+                  "hash": "fcc835de2fa933f95c2101b0f048c170",
+                  "mime_type": "application\/pdf",
+                  "fileid": 414601,
+                  "datasetid": "document"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156511",
+            "eprintid": 35616,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2021-11-09 01:24:58",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Dea Dwi",
+            "family": "Amelia",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Hariri",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hasan"
+          },
+          "id": "hasan.hariri@staff.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Karwan",
+            "lineage": null,
+            "given": "Dedy H."
+          },
+          "id": "dhkarwan@yahoo.co.id"
+        },
+        {
+          "id": "riswanti.rini@gmail.com",
+          "name": {
+            "given": "Riswanti",
+            "family": "Rini",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Effect of Principal’s Emotional Intelligence Management on Principal’s Leadership Quality: A Literature Review",
+      "contact_email": "dedy.karwan@fkip.unila.ac.id",
+      "subjects": [
+        "L1"
+      ],
+      "volume": 4,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35616",
+      "divisions": [
+        "FKIP6"
+      ],
+      "publication": "International Journal of Current Science Research and Review",
+      "dir": "disk0\/00\/03\/56\/16",
+      "status_changed": "2021-11-09 01:24:58",
+      "full_text_status": "public",
+      "issn": "2581-8341",
+      "rev_number": 6,
+      "ispublished": "pub"
+    },
+    {
+      "subjects": [
+        "L1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22388",
+      "volume": "VII",
+      "divisions": [
+        "FKIP6"
+      ],
+      "publication": "IJRSI",
+      "dir": "disk0\/00\/02\/23\/88",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "issn": "2321-2705",
+      "full_text_status": "restricted",
+      "status_changed": "2020-06-14 00:17:56",
+      "metadata_visibility": "show",
+      "datestamp": "2020-06-14 00:17:56",
+      "eprintid": 22388,
+      "eprint_status": "archive",
+      "lastmod": "2020-06-14 00:17:56",
+      "documents": [
+          {
+            "docid": 35807,
+            "main": "The Effect of School Climate on the Teaching Performance of Vocational High School Teachers in Bandar Lampung.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "6aa6cb2250ade93b7c1f518e40da39d5",
+                  "datasetid": "document",
+                  "fileid": 205636,
+                  "mtime": "2020-06-12 15:44:38",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/205636",
+                  "filename": "The Effect of School Climate on the Teaching Performance of Vocational High School Teachers in Bandar Lampung.pdf",
+                  "objectid": 35807,
+                  "filesize": 323376
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "content": "accepted",
+            "placement": 1,
+            "eprintid": 22388,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35807",
+            "pos": 1,
+            "security": "validuser"
+          }
+      ],
+      "userid": 685,
+      "number": "II",
+      "title": "The Effect of School Climate on the Teaching Performance of Vocational High School Teachers in Bandar Lampung",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Rizka Tri",
+            "honourific": null,
+            "family": "Nurani",
+            "lineage": null
+          }
+        },
+        {
+          "id": "dhkarwan@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Karwan",
+            "lineage": null,
+            "given": "Dedy H."
+          }
+        }
+      ]
+    },
+    {
+      "lastmod": "2018-06-30 05:33:58",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21342",
+            "eprintid": 8293,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "artikel bujang new 307.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-29 10:12:19",
+                  "objectid": 21342,
+                  "filesize": 2559297,
+                  "filename": "artikel bujang new 307.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/82205",
+                  "datasetid": "document",
+                  "fileid": 82205,
+                  "hash": "b0e28409a6c8bbafc3a8b19ce4cc9868",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 21342
+          }
+      ],
+      "userid": 1079,
+      "metadata_visibility": "show",
+      "datestamp": "2018-06-30 05:33:58",
+      "eprint_status": "archive",
+      "eprintid": 8293,
+      "title": "Reframing Parental Involvement in Education:\r\nUnboxing the Stiffness of the Indonesian 2013 \r\nCurriculum for Character Building",
+      "refereed": "FALSE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "bujang.suropati@gmail.com",
+          "name": {
+            "given": "Bujang",
+            "honourific": null,
+            "family": "Rahman",
+            "lineage": null
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8293",
+      "abstract": "Abstract—An increasingly multidisciplinary research on\r\nparental involvement in education has been captured quite well\r\nin the body of literature discussing factors affecting students’\r\nlearning outcomes. Parental involvement in education is believed\r\nto benefit both students’ academic and non-academic learning\r\noutcomes. Parental involvement in improving their children\r\neducation has assisted children in enhancing their competence\r\nacross school’s levels. The current paper is intended to frame\r\nparental involvement in education, to identify their expectations\r\nin their involvement in education, as well as to reframe their\r\ninvolvement in the context 2013 Curriculum (hereafter K-13) in\r\nIndonesia. Approximately thirty schools in Kota Metro,\r\nLampung, Indonesia were identified in terms of parental\r\ninvolvements in those schools. The subject of the research\r\ncomprised of parents, school committee, as well as headmasters\r\nthat were explored to share their ideas on the parental\r\ninvolvement and expectations at school activities. The finding\r\nsuggest that parental involvement at schools had been previously\r\nrestricted to passive involvement, while expecting to be active\r\none, and has to be reframed to a more active involvement in\r\nenhancing students cognitive and affective outcomes. Further\r\nforms of parental involvement in education in intervening\r\nstudents’ learning outcomes were proposed.  \r\nKeywords---Parental involvement; Curriculum 2013; learning\r\noutcome; character building.",
+      "subjects": [
+        "AI"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2018-06-30 05:33:58",
+      "publication": "Reframing Parental Involvement in Education: Unboxing the Stiffness of the Indonesian 2013 Curriculum for Character Building",
+      "divisions": [
+        "FKIP6"
+      ],
+      "dir": "disk0\/00\/00\/82\/93"
+    }
+]
+

@@ -1,0 +1,70 @@
+[
+    {
+      "userid": 846,
+      "lastmod": "2023-04-11 00:49:30",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "4a46a309a0ba9df8e647511edafffe1e",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 542023,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542023",
+                  "filename": "SK IV_b Angka kredit yang sudah diakui .pdf",
+                  "objectid": 189824,
+                  "filesize": 232164,
+                  "mtime": "2023-04-10 11:37:49",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "SK IV_b Angka kredit yang sudah diakui .pdf",
+            "docid": 189824,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 50124,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189824",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2023-04-11 00:49:30",
+      "id_number": "16993\/S\/07\/2023",
+      "eprintid": 50124,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "creators": [
+        {
+          "id": "chatarinaniken@yahoo.com",
+          "name": {
+            "given": "Niken",
+            "honourific": null,
+            "lineage": null,
+            "family": "Chatarina"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Angka kredit yang sudah diakui",
+      "abstract": "Angka kredit yang sudah diakui",
+      "date": "2023-04-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50124",
+      "subjects": [
+        "TA"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-04-11 00:49:30",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0_bak\/00\/05\/01\/24"
+    }
+]
+

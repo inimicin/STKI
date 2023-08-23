@@ -1,0 +1,75 @@
+[
+    {
+      "event_location": "Jakarta",
+      "pres_type": "speech",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustian",
+            "given": "Joni"
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        }
+      ],
+      "event_dates": "13-14 September 2006",
+      "refereed": "TRUE",
+      "title": "Continuous Start-up Strategies of UASB Operation Degrading Tapioca Wastewater",
+      "userid": 390,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/613",
+            "eprintid": 715,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "08 Proceeding Nasional HEDS SST 2006.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "243bdb2264f5572c74aee03b75309fc4",
+                  "datasetid": "document",
+                  "fileid": 4086,
+                  "filename": "08 Proceeding Nasional HEDS SST 2006.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4086",
+                  "filesize": 2896027,
+                  "objectid": 613,
+                  "mtime": "2016-10-03 14:24:26",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 613
+          }
+      ],
+      "lastmod": "2016-10-04 01:12:54",
+      "eprintid": 715,
+      "eprint_status": "archive",
+      "datestamp": "2016-10-04 01:12:54",
+      "pagerange": "64-78",
+      "metadata_visibility": "show",
+      "status_changed": "2016-10-04 01:12:54",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/07\/15",
+      "event_type": "conference",
+      "abstract": "Treatment of tapioca wastewater physically or chemically tends to become inefficient, so that degradation of the wastewater biologically was a better alternative because its characteristics indicated that it contains high organic matters.  This research used anaerobic process of upflow sludge blanket (UASB) in order to reduce the COD content of the tapioca wastewater originated from a community based tapioca starch industry.  The results showed that reduction of COD could be as high as 90%.  This process required 2 (two) weeks to start-up.  During the continous process, the maximum condition of the COD reduction and gas production was achieved at pH of 5.2, TSS 1340 mg\/L, OLR 45 kg COD\/m3 and 6 hours of liquid resident time.  Control of pH influent between 5.0-6.5 could be carried-out to sabilise the COD reduction, however, its effect was not high.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/715",
+      "date": "2006-09",
+      "event_title": "PROSIDING HEDS Seminar on Science and Technology 2006 Bidang Ilmu Teknik",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published"
+    }
+]
+

@@ -1,0 +1,300 @@
+[
+    {
+      "lastmod": "2017-06-12 02:04:01",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3343",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3471,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "SEMNAS Ekonomi dan Metode Kuantitative 2007, DIAN KURNIASARI.pdf",
+            "files": [
+                {
+                  "hash": "7cb9486b03fc0a01978b8b672a0c34ea",
+                  "mime_type": "application\/pdf",
+                  "fileid": 24062,
+                  "datasetid": "document",
+                  "mtime": "2017-06-06 08:30:11",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/24062",
+                  "filename": "SEMNAS Ekonomi dan Metode Kuantitative 2007, DIAN KURNIASARI.pdf",
+                  "filesize": 3755532,
+                  "objectid": 3343
+                }
+            ],
+            "docid": 3343,
+            "format": "text"
+          }
+      ],
+      "userid": 752,
+      "metadata_visibility": "show",
+      "pagerange": "140-148",
+      "datestamp": "2017-06-12 02:04:01",
+      "eprintid": 3471,
+      "eprint_status": "archive",
+      "event_location": "Universitas Malahayati Lampung",
+      "title": "ANALISIS HETEROSKEDASTIK MODEL DERET WAKTU DENGAN MODEL GENERALIZED AUTOREGRESSIVE CONDITIONAL HETEROSCEDASTICITY",
+      "refereed": "TRUE",
+      "event_dates": "May 2007",
+      "creators": [
+        {
+          "name": {
+            "given": "Djulindra",
+            "family": "Djulindra",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Ruswandi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Rudi"
+          },
+          "id": null
+        },
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "date": "2007-05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3471",
+      "abstract": "Gangguan model regresi dengan varian pengamatan tidak konsatan disebut heteroskedastik. Heteroskedastik sering dijumpai dalam aplikasi data baik pada cross-section maupun data time-series. Terdapat dua pendekatan dalam variansnya. Pendekatan pertama menghasilkan bahwa varians data deret waktu konstan sedangkan pendekatan yang lain mengasumsikan bahwa varians data deret waktu berubah. Pendekatan pertama dimodelkan dengan ARMA dan ARCH mewakili pendekatan yang kedua. Kedua model pendekatan tersebut mensyaratkan data stasioner.\r\n\r\nIndeks harga merupakan suatu nilai perbandingan harga periode waktu tertentu terhadap tahun dasar. Data yang digunakan dalam penelitian ini adalah data IHSG bulan juli 2000 hingga juli 2005 dengan alamt situs http:\/\/www.fianace.yahoo.com. Dalam menganalisis data IHSG tersebut digunakan software eviews 5 dan monotab 14, dilakukan untuk mendapatkan conditional mean yang terbaik yaitu model ARIMA (1,1,0) bila variannya homogen. Bila tidak homogen perlu pengelompokan volatilitas (volatility clustering) melalui correlogram residual kuadrat untuk menndeteksi adanya ARCH(e). Selanjutnya akan diperoleh model conditional variance yaitu model ARCH(1) hingga ARCH(3), Model ARCH(2)-mean, ARCH(3)-mean dan GARCH(1,1) serta GARCH(1,1)-mean. Dari ketujuh model yang didapat, model penduga terbaik yang mendekati model observasi dengan   menggunakan indikator return yaitu model GARCH(1,1)-mean.",
+      "subjects": [
+        "QA"
+      ],
+      "event_title": "Seminar Nasional Ekonomi dan Metode Kuantitatif 2007",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2017-06-12 02:04:01",
+      "event_type": "conference",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/00\/34\/71"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "id": "dksari13@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null,
+            "given": "Dian"
+          }
+        }
+      ],
+      "title": "Analisis Heteroskedastik Model Deret Waktu dengan Model Generalized Autoregressive Conditional Heterscedasticity (GARCH)",
+      "datestamp": "2020-04-15 04:42:58",
+      "eprintid": 19204,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 752,
+      "lastmod": "2020-04-15 04:42:58",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "33. Analisis Heteroskedastik Model Deret Waktu dengan Model Generalized Autoregressive Conditional Heterscedasticity (GARCH).pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "b6c24ae84e1dfb4e5e9e75b2c8a966af",
+                  "fileid": 160942,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/160942",
+                  "filename": "33. Analisis Heteroskedastik Model Deret Waktu dengan Model Generalized Autoregressive Conditional Heterscedasticity (GARCH).pdf",
+                  "filesize": 596847,
+                  "objectid": 32441,
+                  "mtime": "2020-04-15 04:10:51",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 32441,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32441",
+            "eprintid": 19204,
+            "placement": 1
+          }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Prosiding Seminar Nasional Ekonomi dan Metode Kuantitatif 2007",
+      "dir": "disk0\/00\/01\/92\/04",
+      "full_text_status": "public",
+      "status_changed": "2020-04-15 04:42:58",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah Prosiding dan Makalah yang di Presentasikan",
+      "date": 2007,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19204"
+    },
+    {
+      "title": "INDEKS KECOCOKAN DARI BEBERAPA METODE ESTIMASI UNTUK UKURAN SAMPEL TERTENTU PADA MODEL PERSAMAAN STRUKTURAL",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Eri",
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null
+          },
+          "id": "eri.setiawan@fmipa.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 47004,
+      "datestamp": "2022-11-29 09:02:47",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 47004,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185945",
+            "pos": 1,
+            "security": "public",
+            "files": [
+                {
+                  "mtime": "2022-11-29 08:44:17",
+                  "hash_type": "MD5",
+                  "filename": "INDEKS KECOCOKAN.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/516723",
+                  "objectid": 185945,
+                  "filesize": 143113,
+                  "hash": "a049e6397b4de7024d90af8084d6470f",
+                  "mime_type": "application\/pdf",
+                  "fileid": 516723,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "INDEKS KECOCOKAN.pdf",
+            "docid": 185945,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2022-11-29 09:02:47",
+      "userid": 713,
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "J. Sains MIPA",
+      "dir": "disk0\/00\/04\/70\/04",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2022-11-29 09:02:47",
+      "full_text_status": "public",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47004",
+      "date": 2007,
+      "corp_creators": [
+        "Eri Setiawan"
+      ],
+      "abstract": "J. Sains MIPA, Desember 2007, Vol. 13, No. 3, Hal.: 211 - 216 ISSN 1978-1873"
+    },
+    {
+      "lastmod": "2017-03-24 15:07:27",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 1484,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1355",
+            "security": "public",
+            "main": "Dengan keterangan -Tabu Search Diversification Strategy for The Degree Constrained MST.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 10084,
+                  "mime_type": "application\/pdf",
+                  "hash": "27153d3158410f828fed25c3f34ff4ee",
+                  "hash_type": "MD5",
+                  "mtime": "2017-03-24 15:05:24",
+                  "filesize": 1570207,
+                  "objectid": 1355,
+                  "filename": "Dengan keterangan -Tabu Search Diversification Strategy for The Degree Constrained MST.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10084"
+                }
+            ],
+            "docid": 1355,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 7,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "61-65",
+      "datestamp": "2017-03-24 15:07:27",
+      "eprint_status": "archive",
+      "eprintid": 1484,
+      "title": "Tabu Search Diversification Strategy for The Degree\r\nConstrained Minimum Spanning Tree Problem",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null
+          }
+        }
+      ],
+      "date": 2007,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1484",
+      "volume": 13,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "1978-1873",
+      "full_text_status": "public",
+      "status_changed": "2017-03-24 15:07:27",
+      "publication": "Jurnal Sains MIPA",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/00\/14\/84"
+    }
+]
+

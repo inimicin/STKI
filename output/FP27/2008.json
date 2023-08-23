@@ -1,0 +1,102 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "family": "Fathul",
+            "lineage": null,
+            "honourific": null,
+            "given": "Farida"
+          },
+          "id": "farida.fathul@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Toharmat",
+            "lineage": null,
+            "given": "Toto"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Idath Galih",
+            "family": "Permana",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Boediono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Arief"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Keasaman Cairan Tubuh dan Rasio Kelamin Anak Domba Garut (Ovis aries)\r\nyang Diberi Kation-Anion Ransum yang Berbeda",
+      "refereed": "TRUE",
+      "userid": 1019,
+      "number": 2,
+      "lastmod": "2019-01-02 07:58:06",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 10440,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23460",
+            "security": "public",
+            "main": "Keasaman_Cairan_Tubuh_dan_Rasio_Kelamin_Anak_Domba.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 97037,
+                  "mime_type": "application\/pdf",
+                  "hash": "e420e705afe63ae35aae0225245af345",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-28 05:56:14",
+                  "objectid": 23460,
+                  "filesize": 248477,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/97037",
+                  "filename": "Keasaman_Cairan_Tubuh_dan_Rasio_Kelamin_Anak_Domba.pdf"
+                }
+            ],
+            "docid": 23460,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2019-01-02 07:58:06",
+      "eprint_status": "archive",
+      "eprintid": 10440,
+      "metadata_visibility": "show",
+      "pagerange": "87-98",
+      "full_text_status": "public",
+      "issn": "2087-4634",
+      "status_changed": "2019-01-02 07:58:06",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "Faculty of Animal Science Building, Bogor Agricultural University",
+      "publication": "Media Peternakan",
+      "dir": "disk0\/00\/01\/04\/40",
+      "divisions": [
+        "FP27"
+      ],
+      "abstract": "The objective of this research was to determine the effects of dietary cation-anion\r\ndifference (DCAD) on acidity of ration, blood, vaginal mucous, and urine, number of\r\nfetus, number of offspring, and offspring sex ratio. The treatments were rations with\r\nDCAD -28, -18, 0, +14, and +32 meq which were offered to 15 ewes. This research used\r\nrandomized complete block design. There were three groups, (I) ewes previously had\r\ntwin female offsprings; (II) ewes previously had twin male offsprings; and (III) ewes\r\npreviously had twin male and female offsprings. Results of this study showed that there\r\nwere no differences observed for blood’s pH, vaginal liquid’s pH, offspring number,\r\nand offspring sex ratio. Increasing DCAD affected ration’s pH, urine’s pH, and number\r\nof fetus for each ewe. Blood’s acidity was not affected by DCAD, but DCAD -28 meq\r\nreduced acid of blood, metabolic acidosis, and urine; the number of fetus and offspring.\r\nDCAD -28 meq might be anions excessive in the ration. DCAD 0 meq was relatively the\r\nbest of ration because gave the normality of blood, metabolic, and urine, also relatively\r\nthe highest of fetus and offspring. The offspring sex ratio related to vaginal mucose pH\r\nwhen artifi cial insemination was applied (r= 0.75) and ration’s pH (r=0.47). Ewes previously\r\nhad twin female lambs gave the number of fetus and offspring sex ratio were\r\n2.00+0.71 and 0%, respectively. Ewes previously had twin male lambs gave the number\r\nof fetus and offspring sex ratio were 2.80+1.30 and 15.00+8.50%, respectively. Ewes\r\npreviously had twin male and female lambs gave the number of fetus and offspring sex\r\nratio were 1.60+1.14 and 61.75+31.50%, respectively.\r\nKey words: DCAD, pH, offspring sex ratio, lamb, ewe",
+      "volume": 31,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10440",
+      "date": "2008-08",
+      "date_type": "published",
+      "subjects": [
+        "SF"
+      ]
+    }
+]
+

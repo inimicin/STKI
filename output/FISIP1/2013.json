@@ -1,0 +1,676 @@
+[
+    {
+      "refereed": "FALSE",
+      "title": "Pengaruh beberapa faktor fundamental dan pertumbuhan perusahaan terhadap harga saham",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad",
+            "lineage": null,
+            "family": "Efendi",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Destalia",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mediya"
+          },
+          "id": "mediya.destalia@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wulandari",
+            "given": "Jeni"
+          },
+          "id": "jeni.wulandari@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Agung",
+            "honourific": null,
+            "given": "Maulana"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "pagerange": "1-16",
+      "metadata_visibility": "show",
+      "eprintid": 23809,
+      "eprint_status": "archive",
+      "datestamp": "2020-08-31 07:30:11",
+      "official_url": "https:\/\/adoc.tips\/jurnal-perspektif-bisnis-jurnal-ilmu-administrasi-bisnis.html",
+      "lastmod": "2020-08-31 07:30:11",
+      "number": 1,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 162,
+      "divisions": [
+        "FISIP1"
+      ],
+      "publisher": "Administrasi Bisnis FISIP Universitas Lampung",
+      "publication": "Jurnal Perspektif Bisnis",
+      "dir": "disk0\/00\/02\/38\/09",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2020-08-31 07:30:11",
+      "full_text_status": "none",
+      "issn": "2338-1115",
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23809",
+      "date": "2013-06",
+      "volume": 1,
+      "abstract": "tujuan penelitian ini adalah untuk mengetahui pengaruh faktor fundamental dan pertumbuhan perusahaan terhadap harga saham. jenis penelitian ini adalah penelitian kuantitatif dengan sampel 15 perusahaan yang terdaftar di LQ45. hasil peneltiian ini menunjukkan bahwa secara simultan faktor fundamental (ROE, EPS, PER, IR, Inflasi dan TA) berpengaruh signifikan terhadap harga saham. secara parsial, ROE, EPS, PER dan IR berpengaruh signifikan terhadap harga saham, sedangkan inflasi dan TA tidak berpengaruh signifikan terhadap harga saham"
+    },
+    {
+      "date": 2013,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39501",
+      "subjects": [
+        "HB"
+      ],
+      "status_changed": "2022-02-18 09:06:11",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "Fakutas Ilmu Sosial dan Ilmu Politik UNILA",
+      "dir": "disk0\/00\/03\/95\/01",
+      "divisions": [
+        "FISIP1"
+      ],
+      "userid": 145,
+      "documents": [
+          {
+            "eprintid": 39501,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/160781",
+            "format": "text",
+            "docid": 160781,
+            "main": "Review Model.pdf",
+            "files": [
+                {
+                  "filename": "Review Model.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/443777",
+                  "objectid": 160781,
+                  "filesize": 621641,
+                  "mtime": "2022-02-18 04:31:55",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "80b2cc6f4a72aeea9ada118ab6ce06de",
+                  "datasetid": "document",
+                  "fileid": 443777
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2022-02-18 09:06:11",
+      "eprintid": 39501,
+      "eprint_status": "archive",
+      "datestamp": "2022-02-18 09:06:11",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "jeni.wulandari@fisip.unila.ac.id",
+          "name": {
+            "given": "Wulandari",
+            "lineage": null,
+            "family": "Jeni",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Penilaian Rekan Sejawat:Model Implementasi Knowledge Management Pada Perusahaan Energi ((Studi Pada PT. Pertamina (Persero) dan PT. Medco Energi Internasional Tbk.)"
+    },
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-10-27 02:16:05",
+      "publisher": "Perspektif Bisnis",
+      "divisions": [
+        "FISIP1"
+      ],
+      "dir": "disk0\/00\/02\/43\/84",
+      "date": 2013,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24384",
+      "abstract": "Peer Review",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "title": "Corporate Sustainability Reporting: A Content Analysis of CSR Reporting in Indonesia",
+      "creators": [
+        {
+          "id": "mulkhan2010@gmail.com",
+          "name": {
+            "given": "Unang Mulkhan",
+            "lineage": null,
+            "family": "Mulkhan",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "lastmod": "2020-10-27 02:16:05",
+      "documents": [
+          {
+            "eprintid": 24384,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38111",
+            "format": "text",
+            "docid": 38111,
+            "main": "reviewer unang corporate sustainable.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-10-27 01:48:28",
+                  "filesize": 1000762,
+                  "objectid": 38111,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221811",
+                  "filename": "reviewer unang corporate sustainable.pdf",
+                  "datasetid": "document",
+                  "fileid": 221811,
+                  "hash": "82c71d5607b9fe1913856e15988bc010",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 117,
+      "metadata_visibility": "show",
+      "datestamp": "2020-10-27 02:16:05",
+      "eprintid": 24384,
+      "eprint_status": "archive"
+    },
+    {
+      "publisher": "Administrasi Bisnis FISIP Universitas Lampung",
+      "divisions": [
+        "FISIP1"
+      ],
+      "publication": "Jurnal Perspektif Bisnis",
+      "dir": "disk0_bak\/00\/05\/15\/98",
+      "full_text_status": "public",
+      "issn": "2338-1115",
+      "status_changed": "2023-05-15 01:22:23",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "HB"
+      ],
+      "abstract": "The purpose of this research is to measure technical efficiency on Departements in University of Lampung periode 2009. Data were analyzed using Data Envelopment Analysis (DEA) model CRS and VRS input oriented. The input variables are percent of doctor, average education’s cost, and number of student. The output variable is average GPA. The results show that DMU 11 and DMU 17 was the best practise for CRS and VRS model. Based on CRS model, there are two best practice’s. On the other hand, based on VRS model there are six best practice’s. In general, basen on CRS model the technical efficiency in Departements are low. It is indicated that technical efficiency scores of the majority of the Departements are below average score in year of observation.\r\n\r\nKeywords: Technical efficiency, education",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 1,
+      "date": "2013-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51598",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rifa'i",
+            "honourific": null,
+            "given": "Ahmad"
+          },
+          "id": "rifaiunila@gmail.com"
+        }
+      ],
+      "title": "Pendidikan dan Efisiensi: Metode Data Envelopment Analysis",
+      "refereed": "TRUE",
+      "datestamp": "2023-05-15 01:22:23",
+      "eprintid": 51598,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "90-111",
+      "userid": 348,
+      "number": 1,
+      "lastmod": "2023-05-15 01:22:23",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/249377",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51598,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 249377,
+            "main": "Pendidikan dan Efisiensi Metode Data Envelopment Analysis.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-14 10:27:50",
+                  "objectid": 249377,
+                  "filesize": 5683749,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/611154",
+                  "filename": "Pendidikan dan Efisiensi Metode Data Envelopment Analysis.pdf",
+                  "datasetid": "document",
+                  "fileid": 611154,
+                  "mime_type": "application\/pdf",
+                  "hash": "85b71d3d1e6bb0a029007befd7858eda"
+                }
+            ],
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "corp_creators": [
+        "Ilmu Adm. Bisnis FISIP Unila"
+      ],
+      "abstract": "Salah satu wujud dari tuntutan demokrasi adalah institusionalisasi penggunaan hak suara (Pilpres\/Pemilukada\/Pileg) secara demokratis. Sehingga peran ilmu marketing dalam dunia politik semakin menunjukkan urgensi dan relevansinya. Namun dalam era baru tersebut, Partai politik selaku aktor utama belum mampu menjalankan fungsinya dengan baik. Bahkan telah terjebak pada pola-pola instant, sehingga dominasi kaum fundamentalis pasar semakin dominan. Apabila kondisi ini terlambat untuk dikoreksi, ancaman  gagalnya kita sebagai negara semakin dekat. Untuk mengatasi hal itu, salah satu upaya yang harus segera dilakukan adalah mengembalikan fungsi partai politik ke khittahnya",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10626",
+      "date": "2013-03",
+      "subjects": [
+        "HF"
+      ],
+      "date_type": "published",
+      "status_changed": "2019-01-29 04:45:43",
+      "full_text_status": "public",
+      "issn": "1907-8161",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Jurnal Maarif",
+      "divisions": [
+        "FISIP1"
+      ],
+      "dir": "disk0\/00\/01\/06\/26",
+      "userid": 539,
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/98223",
+                  "filename": "Arif Sugiono, Dominasi Kaum Fundamentalis Pasar.pdf",
+                  "objectid": 23627,
+                  "filesize": 249119,
+                  "mtime": "2019-01-24 08:29:07",
+                  "hash_type": "MD5",
+                  "hash": "0a32143d723bf16d83c23715933a0d9e",
+                  "mime_type": "application\/pdf",
+                  "fileid": 98223,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Arif Sugiono, Dominasi Kaum Fundamentalis Pasar.pdf",
+            "docid": 23627,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 10626,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23627",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2019-01-29 04:45:43",
+      "eprintid": 10626,
+      "id_number": "Vol 6. No 1",
+      "eprint_status": "archive",
+      "datestamp": "2019-01-29 04:45:43",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "arif.sugiono@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sugiono",
+            "given": "Arif"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Mengurai Dominasi Kaum Fundamentalis Pasar di Era Political Marketing"
+    },
+    {
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "given": "Arif",
+            "family": "Sugiono",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "isbn": "978-602-258-019-5",
+      "refereed": "TRUE",
+      "title": "Strategic Political Marketing : Strategi Memenangkan Setiap Pemilu (Pemilukada, PIlpres, Pemilihan Legislatif DPRD,DPR-RI, DPD) dengan Menempatkan Pemilih Sebagai Penentu Kemenangan.",
+      "place_of_pub": "Yogjakarta",
+      "eprintid": 8694,
+      "eprint_status": "archive",
+      "datestamp": "2018-07-30 08:17:28",
+      "metadata_visibility": "show",
+      "userid": 539,
+      "pages": 244,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Strategic Political Marketing.pdf",
+            "files": [
+                {
+                  "filesize": 1041399,
+                  "objectid": 21769,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/84757",
+                  "filename": "Strategic Political Marketing.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-07-30 04:06:25",
+                  "datasetid": "document",
+                  "fileid": 84757,
+                  "hash": "857907c291e85503149b0793fd2a1584",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 21769,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21769",
+            "pos": 1,
+            "eprintid": 8694,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2018-07-30 08:17:28",
+      "publisher": "Penerbit Ombak",
+      "divisions": [
+        "FISIP1"
+      ],
+      "dir": "disk0\/00\/00\/86\/94",
+      "related_url": [
+        {
+          "type": "pub"
+        }
+      ],
+      "succeeds": 8686,
+      "status_changed": "2018-07-30 08:17:28",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "ispublished": "pub",
+      "subjects": [
+        "H1",
+        "HF"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Business Administration Departement, University Of Lampung"
+      ],
+      "date": "2013-05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8694"
+    },
+    {
+      "dir": "disk0\/00\/01\/44\/87",
+      "department": "FAKULTAS ILMU SOSIAL DAN ILMU POLITIK",
+      "divisions": [
+        "FISIP1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2019-11-04 07:47:15",
+      "ispublished": "submitted",
+      "rev_number": 7,
+      "date_type": "submitted",
+      "subjects": [
+        "HG"
+      ],
+      "institution": "UNIVERSITAS LAMPUNG",
+      "abstract": "This research aims to predict the probability of variables that influence the use of derivative instruments as hedging policy in firms. The advantage of firms that knowing which variables is most influence the probability the use of derivative instruments as hedging policy, the firms could protect themselves from loss, that caused from market risk fluctuation, after that firms can increase their value as a result avoid the risk. \r\n\r\nThe population in this research are the type of firms LQ45 on the Stock Exchange Indonesia during the period 2010 to 2012. This research used logistic regressions analysis technique, to find sets of variables that affect the probability the use of derivative instruments as hedging policy. Variables used in this research are Growth Opportunity, Firm Size and Liquidity. \r\n\r\nTest results used logistic regressions method, showed that the three of variables used that affect the probability of firms to use derivative instruments for hedging policy. Those variables that affect the hedging policy are Growth Opportunity, Firm Size and Liquidity.\r\n\r\n\r\nKeywords: Financial Risk Management, Derivative Instruments, Hedging Policy",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": "2013-01-05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14487",
+      "thesis_name": "other",
+      "type": "thesis",
+      "creators": [
+        {
+          "name": {
+            "given": "Supriyanto",
+            "family": "Supriyanto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "supriyanto.1989@fisip.unila.ac.id"
+        }
+      ],
+      "title": "ANALISIS FAKTOR YANG MEMPENGARUHI INSTRUMEN DERIVATIF TERHADAP HEDGING POLICY\r\n ( Studi pada Perusahaan LQ45 yang Terdaftar di BEI Periode 2010-2012 )",
+      "datestamp": "2019-11-04 07:47:15",
+      "eprint_status": "archive",
+      "eprintid": 14487,
+      "metadata_visibility": "show",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 1247,
+      "lastmod": "2019-11-04 07:47:15",
+      "thesis_type": "other",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27561",
+            "eprintid": 14487,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "SKRIPSI SUPRIYANTO-dikonversi.pdf",
+            "docid": 27561,
+            "files": [
+                {
+                  "objectid": 27561,
+                  "filesize": 520167,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/125546",
+                  "filename": "SKRIPSI SUPRIYANTO-dikonversi.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-10-07 04:17:11",
+                  "datasetid": "document",
+                  "fileid": 125546,
+                  "mime_type": "application\/pdf",
+                  "hash": "d728b0afb345d209ad00fedd430b0c5b"
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Implementasi Multivariate Discrimanant Analysis dalam  Membandingkan Kinerja Perbankan Konvensional dengan Perbankan Syariah",
+      "creators": [
+        {
+          "name": {
+            "given": "Suripto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Suripto"
+          },
+          "id": "riptounila@gmail.com"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "eprintid": 14461,
+      "eprint_status": "archive",
+      "datestamp": "2019-11-04 02:33:42",
+      "documents": [
+          {
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "main": "Jurnal ABI-dikonversi.pdf",
+            "docid": 27549,
+            "files": [
+                {
+                  "hash": "bf6f0e8f9b6e29ff00b7fe9dc49f7ae7",
+                  "mime_type": "application\/pdf",
+                  "fileid": 125453,
+                  "datasetid": "document",
+                  "mtime": "2019-10-05 01:02:01",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/125453",
+                  "filename": "Jurnal ABI-dikonversi.pdf",
+                  "filesize": 168855,
+                  "objectid": 27549
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27549",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 14461
+          }
+      ],
+      "lastmod": "2019-11-04 02:33:42",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 639,
+      "dir": "disk0\/00\/01\/44\/61",
+      "publisher": "Perpektif Bisnis",
+      "publication": "Jurnal Ilmiah Bisnis",
+      "divisions": [
+        "FISIP1"
+      ],
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2019-11-04 02:33:42",
+      "issn": "2338-5111",
+      "full_text_status": "public",
+      "subjects": [
+        "HG"
+      ],
+      "date_type": "published",
+      "date": "2013-12-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14461",
+      "volume": 1,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk mengetahui perbedaan kinerja keuangan perbankan konvensional dan syariah. Kinerja keuangan diukur dengan menggunakan rasio-rasio : rasio modal terhadap aktiva tertimbang menurut resiko (CAR), rasio aktiva produktif yang diklasifikasikasikan terhadap aktiva produktif (KAP.I), penyisihan penghapusan aktiva produktif dibentuk terhadap penyisihan penghapusan  aktiva produktif yang wajib dibentuk (KAP.II), pendapatan operasional bersih terhadap pendapatan operasional (NPM) yang merupakan proksi dari manajemen, rasio laba  sebelum bunga dan pajak  terhadap total aktiva (ROA), rasio biaya operasional terhadap pendapatan operasional (BOPO), rasio aktiva lancar terhadap hutang lancar (LIKUIDITAS) dan rasio kredit terhadap dana yang diterima (LDR). Penelitian ini menggunakan sampel jenuh, yaitu semua bank badan usaha milik negara (BUMN) dan bank Muamalat Indonesia, dengan menggunakan data sekunder yang dipublikasikan oleh Bank Indonesia per semester,  antara periode tahun 1999 - 2003. Alat analisis yang digunakan di dalam penelitian ini adalah Multivariate Discriminant Analysis (MDA).\r\nHasil penelitian ini menunjukkan, bahwa CAMEL dapat menentukan kinerja keuangan perbankan. Berdasarkan uji statistik ternyata  ada perbedaan  kinerja keuangan antara perbankan konvensional dan syariah, dimana perbankan konvensional mempunyai kinerja keuangan lebih baik dari \r\nperbankan syariah. Penelitian menemukan bahwa kualitas aktiva (KAP.I), LDR dan ROA secara signifikan membedakan kinerja keuangan perbankan konvensional dan syariah, dengan KAP. I yang paling dominan."
+    },
+    {
+      "title": "MODEL IMPLEMENTASI KNOWLEDGE MANAGEMENT\r\nPADA PERUSAHAAN ENERGI\r\n(Studi Pada PT. Pertamina (Persero) dan PT. Medco Energi Internasional Tbk.)",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wulandari",
+            "lineage": null,
+            "given": "Jeni"
+          },
+          "id": "jeni.wulandari@fisip.unila.ac.id"
+        }
+      ],
+      "lastmod": "2022-01-24 01:16:43",
+      "official_url": "https:\/\/jpb.fisip.unila.ac.id",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159264",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 38249,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 683589,
+                  "objectid": 159264,
+                  "filename": "adoc.pub_jurnal-perspektif-bisnis-vol-1-no2-bulan-desember-.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/433954",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-23 17:06:02",
+                  "datasetid": "document",
+                  "fileid": 433954,
+                  "hash": "2820c167706d7f2847865ccfe5c07c80",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "adoc.pub_jurnal-perspektif-bisnis-vol-1-no2-bulan-desember-.pdf",
+            "docid": 159264,
+            "format": "text"
+          }
+      ],
+      "userid": 145,
+      "number": 2,
+      "metadata_visibility": "show",
+      "pagerange": "6-35",
+      "datestamp": "2022-01-24 01:16:43",
+      "eprintid": 38249,
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "issn": "2338-1115",
+      "full_text_status": "public",
+      "status_changed": "2022-01-24 01:16:43",
+      "publisher": "Administrasi Bisnis FISIP Universitas Lampung",
+      "publication": "Jurnal Perspektif Bisnis",
+      "divisions": [
+        "FISIP1"
+      ],
+      "dir": "disk0\/00\/03\/82\/49",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38249",
+      "date": 2013,
+      "abstract": "This research aims to determine the implementation of knowledge management (KM) in\r\nenergy companies such as PT. Pertamina (Persero) and PT. Medco\r\nEnergiInternasionalTbk., to know the critical success factors of KM implementation,\r\nand impact of KM implementation for the organization, and to formulate models of KM\r\nimplementation in the organization. This research is a descriptive study with a\r\nqualitative approach. The data collected was used the literature study technique. This\r\nresearch is an extension of previous research on the proposed model of Organizational\r\nKnowledge Management System (OKMS).\r\nThe results of this research indicate the implementation of KM in both energy\r\ncompanies includes: developing a corporate culture based on knowledge, innovation or\r\nproducts \/ services \/ solutions based on knowledge, maximize the company's intellectual\r\ncapital, knowledge sharing or create an environment to share the knowledge with\r\ncollaborative way, leadership-leadership factor which fully supports the KM activities,\r\nand learning- the methods of application which lead the company as a learning\r\norganization. The critical factors in the success implementation of KM is human\r\n(people), including leadership, infrastructure, process (learning), culture, and\r\ntechnology. Leadership and cultural factors are the main factors of success of KM\r\nimplementation in the organization. The KM products as a result of the KM\r\nimplementation is the process of learning (organizational learning) and the ability of\r\ninnovation which is the value for the company to be able to kept the competitiveness. It\r\nis recommended that further research through questionnaires and in-depth interviews to\r\ntest the model of KM implementation formulation.",
+      "corp_creators": [
+        "Jurusan Ilmu Administrasi Bisnis, FISIP"
+      ],
+      "volume": 1,
+      "date_type": "published",
+      "subjects": [
+        "HD",
+        "HD28"
+      ]
+    }
+]
+

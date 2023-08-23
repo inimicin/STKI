@@ -1,0 +1,581 @@
+[
+    {
+      "eprint_status": "archive",
+      "eprintid": 721,
+      "datestamp": "2016-10-06 06:57:41",
+      "pagerange": "157-166",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 7,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 620,
+            "main": "1. Cover.pdf",
+            "files": [
+                {
+                  "hash": "62f4b299d039201a207dc66572366615",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 4149,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4149",
+                  "filename": "1. Cover.pdf",
+                  "filesize": 246220,
+                  "objectid": 620,
+                  "mtime": "2016-10-06 06:53:07",
+                  "hash_type": "MD5"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/620",
+            "eprintid": 721,
+            "placement": 1
+          },
+          {
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/621",
+            "eprintid": 721,
+            "placement": 2,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 621,
+            "main": "GABUNGAN DAFTAR ISI DAN PENYUNTING JPP.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4151",
+                  "filename": "GABUNGAN DAFTAR ISI DAN PENYUNTING JPP.pdf",
+                  "objectid": 621,
+                  "filesize": 178853,
+                  "mtime": "2016-10-06 06:53:11",
+                  "hash_type": "MD5",
+                  "hash": "b11ef8e2faa01aa3601f32f71578c4bc",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 4151
+                }
+            ]
+          },
+          {
+            "security": "public",
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/622",
+            "eprintid": 721,
+            "placement": 3,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "ISI LENGKAP.pdf",
+            "docid": 622,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "d7469c04c44ff1f3574240234ddceb2c",
+                  "datasetid": "document",
+                  "fileid": 4153,
+                  "filename": "ISI LENGKAP.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4153",
+                  "objectid": 622,
+                  "filesize": 1440169,
+                  "mtime": "2016-10-06 06:53:15",
+                  "hash_type": "MD5"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2016-10-06 06:57:41",
+      "creators": [
+        {
+          "id": "loliyana@unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Loliyana",
+            "lineage": null,
+            "given": "Loliyana"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "PENINGKATAN PEMAHAMAN KONSEP IBADAH GHAIRU MAGHDAH DENGAN MENERAPKAN MODEL EXPERENTIAL LEARNING",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "volume": 3,
+      "abstract": "Tujuan penelitian ini untuk menganalisis (1) desain perencanaan pembelajaran, (2) proses pembelajaran (3) sistem evaluasi dan (4) peningkatan pemahaman konsep ibadah ghairu maghdah dengan menerapkan model Experential Learning",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/721",
+      "date": "2013-11",
+      "divisions": [
+        "FKIP19"
+      ],
+      "publication": "Jurnal Pendidikan Progresif",
+      "dir": "disk0\/00\/00\/07\/21",
+      "status_changed": "2016-10-06 06:57:41",
+      "issn": "2087-9849",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub"
+    },
+    {
+      "userid": 641,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 2,
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/index",
+      "lastmod": "2022-08-01 01:42:38",
+      "documents": [
+          {
+            "eprintid": 43712,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165644",
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 476496,
+                  "mime_type": "application\/pdf",
+                  "hash": "978cdb9b3c0d6b3a4e180a9e6c9edb2e",
+                  "filesize": 1930511,
+                  "objectid": 165644,
+                  "filename": "JPP VOL3 NO 2 NOVEMBER 2013.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/476496",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-31 04:08:17"
+                }
+            ],
+            "main": "JPP VOL3 NO 2 NOVEMBER 2013.pdf",
+            "docid": 165644,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2022-08-01 01:42:38",
+      "eprintid": 43712,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "154-164",
+      "type": "article",
+      "creators": [
+        {
+          "id": "loli.yana@fkip.unila.ac.id",
+          "name": {
+            "given": "Loliyana",
+            "honourific": null,
+            "lineage": null,
+            "family": "Loliyana"
+          }
+        }
+      ],
+      "title": "PENINGKATAN PEMAHAMAN KONSEP IBADAH GHAIRU MAGHDAH DENGAN MENERAPKAN MODEL EXPERIENTIAL LEARNING",
+      "refereed": "TRUE",
+      "abstract": "The purpose of this study is to analyze: (1) lesson plan design, (2) learning process , (3) evaluation system, and (4) the improvement of understanding the concept of ghairu maghdah worship by implementing experiential learning model . The method used is action research through 3 cycles. Cycle 1 begins with explanation and implementation of experiential learning model steps from the first step that is telling experience (experience) until the last step (apply). Cycle 2 with the same treatment as cycle 1 but the emphasis is on the third step of analyzing the experience (pross) until connecting the experience with the real situations (generalize). Cycle 3, the same treatment but the emphasis is on concluding the results of experience analysis through the application of a similar situation, but more clearly (apply). Data collecting technique was done by testing and observation. The data were analyzed by using quantitative deductive. The research concludes (1) The process of learning is done to improve the understanding of students in learning the concept of ghairu maghdah worship with experiential learning models. PGSD class in Cycle 1 (55 %), cycle 2 (75 %), and cycle 3 (87.5 %); BK class cycle 1 (57.5 %), cycle 2 (75 %), and cycle 3 (90 %). (2) Understanding the concept of ghairu maghdah worship on students: PGSD class with the average value in cycle 1 (65), cycle 2 (75), and cycle 3 (85), BK class with the average value in cycle 1 (67), cycle 2 (75), and cycle 3 (87).",
+      "volume": 3,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43712",
+      "date": "2013-11",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "issn": "2087-9849",
+      "full_text_status": "public",
+      "status_changed": "2022-08-01 01:42:38",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Jurnal Pendidikan Progresif",
+      "publisher": "Unit Database dan Publikasi Ilmiah FKIP kerjasama dengan ISPI",
+      "dir": "disk0\/00\/04\/37\/12",
+      "divisions": [
+        "FKIP19"
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38052",
+      "date": "2013-12-01",
+      "abstract": "Penelitian ini mendeskripsikan tindak ilokusi asertif, direktif, komisif, ekspresif, dan\r\ndeklaratif dilihat dari kelangsungan dan ketidaklangsungan pada dialog film Serdadu\r\nKumbang dan implikasinya terhadap pembelajaran bahasa dan sastra Indonesia di\r\nSMA. Metode penelitian ini adalah deskriptif kualitatif. Data berupa tindak ilokusi\r\npada dialog film.Teknik pengumpulan data, yakni menyimak, mencatat\/mentranskrip,\r\nklasifikasi data, memasukkan data dalam tabel pengumpulan data. Analisis data,\r\nyakni penyajian data, identifikasi data, analisis heuristik, penarikan simpulan, dan\r\npengimplikasian. Hasil penelitian menunjukkan bahwa tindak ilokusi asertif, direktif,\r\nkomisif, ekspresif, dan deklaratif disampaikan secara langsung dan tidak langsung.\r\nTindak ilokusi yang mendominasi adalah asertif menyatakan atau memberitahukan.\r\nBentuk tuturan secara verbal yang mendominasi adalah tuturan langsung. Penelitian\r\nini dapat diimplikasikan dalam menulis naskah drama.",
+      "volume": 1,
+      "date_type": "published",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "rev_number": 10,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "[e-ISSN: 2550-1313; p-ISSN: 2087-9849]",
+      "status_changed": "2022-01-20 01:35:51",
+      "divisions": [
+        "FKIP19"
+      ],
+      "publisher": "FKIP Universitas Lampung",
+      "publication": "Jurnal J-Simbol (Bahasa, Sastra, dan Pembelajarannya)",
+      "dir": "disk0\/00\/03\/80\/52",
+      "lastmod": "2022-01-20 01:35:51",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/BINDO\/article\/view\/3379",
+      "documents": [
+          {
+            "docid": 159009,
+            "main": "Artikel_jadi.pdf",
+            "files": [
+                {
+                  "mtime": "2022-01-19 10:00:46",
+                  "hash_type": "MD5",
+                  "filename": "Artikel_jadi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432436",
+                  "filesize": 640994,
+                  "objectid": 159009,
+                  "hash": "102496e39e999ab80e7ad746f1e54abc",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 432436
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "placement": 1,
+            "eprintid": 38052,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159009",
+            "security": "public",
+            "formatdesc": "Artikel"
+          },
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "format": "text",
+            "main": "r14.pdf",
+            "docid": 159011,
+            "files": [
+                {
+                  "hash": "5c5bd0a5fa55f33abb03950224222cbe",
+                  "mime_type": "application\/pdf",
+                  "fileid": 432446,
+                  "datasetid": "document",
+                  "mtime": "2022-01-19 10:22:52",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432446",
+                  "filename": "r14.pdf",
+                  "filesize": 797978,
+                  "objectid": 159011
+                }
+            ],
+            "security": "public",
+            "formatdesc": "Reviewer",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159011",
+            "pos": 2,
+            "eprintid": 38052,
+            "placement": 2
+          }
+      ],
+      "userid": 19918,
+      "number": 12,
+      "metadata_visibility": "show",
+      "pagerange": "1-8",
+      "datestamp": "2022-01-20 01:35:51",
+      "eprintid": 38052,
+      "eprint_status": "archive",
+      "title": "TINDAK ILOKUSI FILM SERDADU KUMBANG DAN IMPLIKASINYA TERHADAP PEMBELAJARAN SASTRA INDONESIA",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "siskamegadiana1@gmail.com",
+          "name": {
+            "family": "Siska Mega Diana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Siska"
+          }
+        },
+        {
+          "id": "wtarmini@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Wini Tarmini",
+            "honourific": null,
+            "given": "Wini Tarmini"
+          }
+        },
+        {
+          "name": {
+            "given": "Nurlaksana eko",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurlaksana eko"
+          },
+          "id": null
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "volume": 1,
+      "abstract": "Penelitian ini mendeskripsikan tindak ilokusi asertif, direktif, komisif, ekspresif, dan deklaratif dilihat dari kelangsungan dan ketidaklangsungan pada dialog film Serdadu\r\nKumbang dan implikasinya terhadap pembelajaran bahasa dan sastra Indonesia di SMA. Metode penelitian ini adalah deskriptif kualitatif. Data berupa tindak ilokusi pada dialog film.Teknik pengumpulan data, yakni menyimak, mencatat\/ mentranskrip, klasifikasi data, memasukkan data dalam tabel pengumpulan data. Analisis data, yakni penyajian data, identifikasi data, analisis heuristik, penarikan simpulan, dan pengimplikasian. Hasil penelitian menunjukkan bahwa tindak ilokusi asertif, direktif, komisif, ekspresif, dan deklaratif disampaikan secara langsung dan tidak langsung.\r\nTindak ilokusi yang mendominasi adalah asertif menyatakan atau memberitahukan. Bentuk tuturan secara verbal yang mendominasi adalah tuturan langsung. Penelitian ini dapat diimplikasikan dalam menulis naskah drama",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38155",
+      "date": "2013-12-01",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "status_changed": "2022-01-21 01:36:29",
+      "full_text_status": "public",
+      "issn": "2355-4061",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "publisher": "FKUP Unila",
+      "divisions": [
+        "FKIP19"
+      ],
+      "publication": "J-Simbol",
+      "dir": "disk0\/00\/03\/81\/55",
+      "number": 2,
+      "userid": 19918,
+      "documents": [
+          {
+            "main": "Artikel.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-20 13:58:17",
+                  "objectid": 159152,
+                  "filesize": 640994,
+                  "filename": "Artikel.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/433290",
+                  "fileid": 433290,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "102496e39e999ab80e7ad746f1e54abc"
+                }
+            ],
+            "docid": 159152,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "placement": 1,
+            "eprintid": 38155,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159152",
+            "pos": 1,
+            "security": "public",
+            "formatdesc": "Artikel"
+          },
+          {
+            "main": "Peer Reviewer.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "572000c9ae125701ce8ce39d4af3c902",
+                  "datasetid": "document",
+                  "fileid": 433292,
+                  "mtime": "2022-01-20 13:58:29",
+                  "hash_type": "MD5",
+                  "filename": "Peer Reviewer.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/433292",
+                  "objectid": 159153,
+                  "filesize": 134242
+                }
+            ],
+            "docid": 159153,
+            "format": "text",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 2,
+            "eprintid": 38155,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159153",
+            "formatdesc": "Reviewer",
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/BINDO\/article\/view\/3379",
+      "lastmod": "2022-01-21 01:36:29",
+      "eprint_status": "archive",
+      "eprintid": 38155,
+      "datestamp": "2022-01-21 01:36:29",
+      "pagerange": "1-11",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Siska",
+            "honourific": null,
+            "family": "Siska Mega Diana",
+            "lineage": null
+          },
+          "id": "siskamegadiana1@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Wini Tarmini",
+            "family": "Wini Tarmini",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "wtarmini@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurlaksana eko",
+            "given": "Nurlaksana eko"
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "TINDAK ILOKUSI FILM SERDADU KUMBANG DAN IMPLIKASINYA TERHADAP PEMBELAJARAN SASTRA INDONESIA"
+    },
+    {
+      "title": "Model Peer Assessment pada Pembelajaran Kolaboratif Elaborasi Peta Konsep IPS Terpadu di Sekolah Menengah Pertama",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "rochmiyatiazwardi@yahoo.co.id",
+          "name": {
+            "given": "rochmiyati",
+            "honourific": null,
+            "lineage": null,
+            "family": "rochmiyati"
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "333-347",
+      "datestamp": "2021-08-20 01:38:01",
+      "eprintid": 33505,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/anjasmara.uny.ac.id\/Record\/eprints-13412",
+      "lastmod": "2021-08-20 01:38:01",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "docid": 153520,
+            "main": "4. Model Peer-Assessment pada Pembelajaran Kaloboratif Elaborasi Peta Konsep IPS Terpadu di Sekolah Menengah Pertama..pdf",
+            "files": [
+                {
+                  "mtime": "2021-08-19 03:28:47",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/397403",
+                  "filename": "4. Model Peer-Assessment pada Pembelajaran Kaloboratif Elaborasi Peta Konsep IPS Terpadu di Sekolah Menengah Pertama..pdf",
+                  "objectid": 153520,
+                  "filesize": 419475,
+                  "mime_type": "application\/pdf",
+                  "hash": "feb088c2b5817f3d0c3ef11068e570b1",
+                  "datasetid": "document",
+                  "fileid": 397403
+                }
+            ],
+            "formatdesc": "Artikel",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153520",
+            "pos": 1,
+            "eprintid": 33505,
+            "placement": 1
+          },
+          {
+            "format": "text",
+            "docid": 153521,
+            "main": "4.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-19 03:29:06",
+                  "filesize": 818099,
+                  "objectid": 153521,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/397405",
+                  "filename": "4.pdf",
+                  "fileid": 397405,
+                  "datasetid": "document",
+                  "hash": "8a63c216b2d8172762c2d18ba9053d25",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "eprintid": 33505,
+            "placement": 2,
+            "security": "public",
+            "formatdesc": "Reviewer",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153521",
+            "pos": 2
+          },
+          {
+            "eprintid": 33505,
+            "placement": 3,
+            "security": "public",
+            "formatdesc": "Similaritas",
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153522",
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2021-08-19 03:29:26",
+                  "hash_type": "MD5",
+                  "filename": "4. MODEL_PEER_ASSESSMENT_PADA_PEMBELAJARAN_KOLABORATI.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/397407",
+                  "objectid": 153522,
+                  "filesize": 4268987,
+                  "mime_type": "application\/pdf",
+                  "hash": "364d31f9ced73120d5e76ef34dbe313f",
+                  "fileid": 397407,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "4. MODEL_PEER_ASSESSMENT_PADA_PEMBELAJARAN_KOLABORATI.pdf",
+            "docid": 153522,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2
+          }
+      ],
+      "userid": 664,
+      "number": 2,
+      "publisher": "Himpunan Evaluasi Pend. Indonesia Kerjasama Dengan Program Pascasarjan  UNY.",
+      "publication": "Jurnal Penelitian dan Evaluasi Pendidikan",
+      "divisions": [
+        "FKIP19"
+      ],
+      "dir": "disk0\/00\/03\/35\/05",
+      "rev_number": 11,
+      "ispublished": "pub",
+      "issn": "1410-4725",
+      "full_text_status": "public",
+      "status_changed": "2021-08-20 01:38:01",
+      "date_type": "published",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33505",
+      "date": 2013,
+      "abstract": "Penelitian ini bertujuan untuk mengembangkan perangkat peer assessment pada pembelajaran kolaboratif IPS yang baik, valid, handal, dan fit yang dapat digunakan untuk melakukan\r\npenilaian kecakapan social siswa secara obyektif. Penelitian ini adalah untuk mengembangkan perangkat peer assessment kecakapan sosial yang disebut Rubrik Kecakapan Sosial. Perangkat pendukung adalah Jurnal Kecakapan Kognitif, Lembar Kendali Pembelajaran Kolaboratif, dan Rubrik Profil Keterlaksanaan. Subyek penelitian guru dan siswa kelas VIII (delapan) dari Sekolah Menengah Pertama. Data dianalisis dengan Structural Equation Modeling. Hasil penelitian menunjukkan bahwa Rubrik Kecakapan Sosial untuk mengukur kemampuan komunikasi, tanggung jawab individu, tanggung jawab terhadap kelompok, kerjasama dan kompetisi siswa. Hasil analisis rubrik kecakapan sosial, jurnal kecakapan kognitif dan lembar kendali pembelajaran kolaboratif dinyatakan valid dan reliabel. Hasil analisis menunjukkan bahwa konstruk Rubrik Kecakapan Sosial akurat, konstruk Jurnal Kecakapan Kognitif akurat, dan konstruk Rubrik Profil Model Peer Assessment akurat, dan model peer assessment mempunyai\r\ndampak positif pada peningkatan perolehan nilai rata-rata kelas pada kecakapan kognitif.",
+      "volume": "-"
+    }
+]
+

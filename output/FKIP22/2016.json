@@ -1,0 +1,256 @@
+[
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2021-06-23 04:53:52",
+      "eprint_status": "archive",
+      "eprintid": 32805,
+      "lastmod": "2021-06-23 04:53:52",
+      "documents": [
+          {
+            "eprintid": 32805,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/149365",
+            "format": "text",
+            "main": "Karya Tulis Artikel_Sugeng Sutiarso.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 388396,
+                  "mime_type": "application\/pdf",
+                  "hash": "a322fe39ba290d06cf4a5a03d732adeb",
+                  "filesize": 327426,
+                  "objectid": 149365,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/388396",
+                  "filename": "Karya Tulis Artikel_Sugeng Sutiarso.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-23 01:14:29"
+                }
+            ],
+            "docid": 149365,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 864,
+      "title": "Haki Artikel: Model Pembelajaran ALQURUN (Acknowledge, Literature, Quest, Unite, Refine, Use, Name)",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sutiarso",
+            "lineage": null,
+            "given": "Sugeng"
+          },
+          "id": "sugeng.sutiarso@fkip.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "date_type": "published",
+      "subjects": [
+        "LB"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32805",
+      "date": "2016-05-19",
+      "divisions": [
+        "FKIP22"
+      ],
+      "publisher": "IAIN Raden Intan Lampung",
+      "dir": "disk0\/00\/03\/28\/05",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2021-06-23 04:53:52"
+    },
+    {
+      "title": "Penggunaan Media Scaffolding pada Pembelajaran Geometri dan Pengaruhnya terhadap Aktivitas Belajar Siswa",
+      "creators": [
+        {
+          "name": {
+            "given": "Sugeng",
+            "honourific": null,
+            "family": "Sutiarso",
+            "lineage": null
+          },
+          "id": "sugeng.sutiarso@fkip.unila.ac.id"
+        },
+        {
+          "id": "m.coesamin@fkip.unila.ac.id",
+          "name": {
+            "given": "M",
+            "lineage": null,
+            "family": "Coesamin",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Nurhanurawati",
+            "family": "Nurhanurawati",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nurha.nurawati@fkip.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "documents": [
+          {
+            "eprintid": 49975,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189665",
+            "pos": 1,
+            "format": "text",
+            "docid": 189665,
+            "main": "prosiding FMIPA 2016.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-09 08:17:49",
+                  "objectid": 189665,
+                  "filesize": 12768171,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540840",
+                  "filename": "prosiding FMIPA 2016.pdf",
+                  "datasetid": "document",
+                  "fileid": 540840,
+                  "hash": "e247af8f1c57cce5ac596452ae5c689c",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-04-10 00:58:04",
+      "contributors": [
+        {
+          "name": {
+            "given": "Sugeng",
+            "honourific": null,
+            "family": "Sutiarso",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "M",
+            "lineage": null,
+            "family": "Coesamin",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nurhanurawati",
+            "lineage": null,
+            "given": "Nurhanurawati"
+          }
+        }
+      ],
+      "userid": 724,
+      "metadata_visibility": "show",
+      "eprintid": 49975,
+      "eprint_status": "archive",
+      "datestamp": "2023-04-10 00:58:04",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2023-04-10 00:58:04",
+      "full_text_status": "public",
+      "dir": "disk0_bak\/00\/04\/99\/75",
+      "publisher": "Fakultas MIPA dan Ilmu Pengetahuan Alam Universitas Lampung",
+      "divisions": [
+        "FKIP22"
+      ],
+      "date": "2016-10-27",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49975",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Scaffolding berarti ‘bantuan’; adalah salah satu cara guru membantu siswa kesulitan belajar siswa. Bantuan guru ini tidak bersifat tetap\/terus menerus, tetapi bersifat sementara dan dikurangi secara bertahap.  Beberapa jenis bantuan guru itu dapat berbentuk ungkapan\/lisan, tulisan, atau media (alat peraga, chart, visual, dan lingkungan sekitar). Penelitian ini bertujuan untuk mendeskripsikan pengaruh penggunaan media scaffolding terhadap aktivitas belajar siswa  pada pembelajaran geometri. Penelitian ini merupakan penelitian kualitatif dengan subjek penelitian siswa SD kelas V SDN 1 Gunung Terang, Bandar Lampung. Data  dikumpulkan dengan teknik observasi. Teknik observasi dilakukan untuk melihat aktivitas belajar siswa dengan menggunakan media scaffolding. Hasil penelitian menunjukkan bahwa penggunaan media scaffolding memberikan pengaruh positif terhadp aktivitas belajar siswa (76,02%).",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "submitted"
+    },
+    {
+      "userid": 1116,
+      "number": 2,
+      "official_url": "http:\/\/ojs.upy.ac.id\/ojs\/index.php\/mtk\/index",
+      "lastmod": "2017-05-31 04:45:51",
+      "documents": [
+          {
+            "eprintid": 2207,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2105",
+            "format": "text",
+            "main": "Jurnal Derivat Agung.pdf",
+            "docid": 2105,
+            "files": [
+                {
+                  "filename": "Jurnal Derivat Agung.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15320",
+                  "objectid": 2105,
+                  "filesize": 1047344,
+                  "mtime": "2017-05-30 13:52:08",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "e076412d36ca577d70f8781f16936cb1",
+                  "fileid": 15320,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2017-05-31 04:45:51",
+      "eprintid": 2207,
+      "referencetext": "Budiyono. 2009. Statistika untuk Penelitian. Surakarta: Sebelas Maret University Press.\r\n\r\nDesmita. 2009. Psikologi Perkembangan Peserta Didik. Bandung: PT. Remaja Rosdakarya.\r\n\r\nErnawati. 2003. Meningkatkan Kemampuan Pemahaman Konsep\r\nMatematika Siswa SMU Melalui Pembelajaran Berbasis Masalah.\r\nSkripsi. Bandung: Jurusan Pendidikan Matematika FPMIPA UPI.\r\n\r\nIsjoni, H. 2010. Pembelajaran Kooperatif. Yogyakarta: Pustaka Pelajar.\r\n\r\nKepner, MD. dan Neimark, ED. 1984. “Test-retest Reliability and Differential Pattern of Score Change on the Group Embedded Figures Test” dalam Journal of Personality and\r\nSocial Psychology. Vol. 46 (6). pp. 1405–1413.\r\n\r\nMoertiningsih, E.P.U. 2011. Eksperimentasi Model Pembelajaran Kooperatif Tipe Jigsaw yang Dimodifikasi Ditinjau dari Gaya Kognitif Siswa Kelas VIII SMP Negeri\r\ndi Kabupaten Grobogan Tahun 2010\/2011. Tesis. Surakarta:\r\nUniversitas Sebelas Maret.\r\n\r\nMulyasa, E. 2003. Kurikulum Berbasis Kompetensi. Bandung: Remaja Rosda Karya.\r\n\r\nNasution, S. 2008. Berbagai Pendekatan dalam Proses Belajar & Mengajar. Jakarta: PT Bumi Aksara.\r\n\r\nPurwanto, M.N. 1994. Prinsip-prinsip dan Teknik Evaluasi Pengajaran Pendidikan. Bandung: Remaja Rosdakarya.\r\n\r\nRuseffendi, E.T. 2006. Pengantar kepada Membantu Guru Mengembangkan Kompetensinya dalam Pengajaran Matematika untuk Meningkatkan CBSA. Bandung: Tarsito.\r\n\r\nSanjaya, Wina. 2009. Strategi Pembelajaran Berorientasi Standar Proses Pendidikan. Jakarta: Kencana Prenada Media Group.\r\n\r\nSaputro, Mahardi. 2011. Analisis Kemampuan Pemecahan Masalah\r\nMatematika Berdasarkan Langkah-Langkah Polya Ditinjau dari Gaya Kognitif Siswa. Tesis. Surakarta: Universitas Sebelas Maret.\r\n\r\nSetiawan, Wawan. 2010. “Penerapan Model Pengajaran Langsung (Direct Instruction) untuk Meningkatkan Pemahaman Belajar Siswa dalam Pembelajaran Rekayasa Perangkat Lunak (RPL)” dalam Jurnal Pendidikan Teknologi Informasi dan Komunikasi (PTIK). Vol. 3 No. 1\/Juni 2010 Hal. 7–10.\r\n\r\nShadiq, Fadjar. 2007. Inovasi Pembelajaran Matematika dalam\r\nRangka Menyongsong Sertifikasi Guru dan Persaingan Global.\r\nMakalah disampaikan pada Seminar dan Lokakarya Pembelajaran\r\nMatematika. P4TK (PPPG) Matematika. 15–16 Maret 2007.\r\n\r\nSlameto. 2003. Belajar dan Faktor-Faktor yang Mempengaruhinya. Jakarta: PT. Asdi Mahasatya.\r\n\r\nSlavin, R.E. 2010. Cooperative Learning: Teori, Riset, dan Praktik. (Edisi terjemahan oleh Narulita Yusron). Bandung: Nusa Media.\r\n\r\nSudrajat, Akhmad. 2011. Model Pembelajaran Langsung (Direct\r\nInstruction). Diunduh di http:\/\/akhmadsudrajat.wordpress.com\r\n\/2011\/01\/27\/model-pembelajaranlangsung\/. pada 01 Juni 2013.\r\n\r\nVirlianti, Y. 2002. Analisis Pemahaman Konsep Siswa dalam Memecahkan Masalah kontekstual pada Pembelajaran Matematika Melalui Pendekatan Realistik. Skripsi. Bandung: Jurusan Pendidikan Matematika FMIPA UPI.\r\n\r\nUno, Hamzah B. 2006. Orientasi dalam Psikologi Pembelajaran. Jakarta: Bumi Aksara.",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1-13",
+      "contact_email": "agung.wijaya@fkip.unila.ac.id",
+      "type": "article",
+      "creators": [
+        {
+          "id": "agung.wijaya@fkip.unila.ac.id",
+          "name": {
+            "given": "Agung Putra",
+            "lineage": null,
+            "family": "Wijaya",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "GAYA KOGNITIF FIELD DEPENDENT DAN TINGKAT PEMAHAMAN\r\nKONSEP MATEMATIS ANTARA PEMBELAJARAN LANGSUNG DAN STAD",
+      "refereed": "TRUE",
+      "abstract": "Penelitian korelasional ini bertujuan untuk mengetahui apakah terdapat korelasi posotif antara gaya kognitif field dependent dan tingkat pemahaman konsep matematis pada siswa\r\nyang dikenai model pembelajaran langsung dan STAD. Populasi penelitian ini adalah seluruh siswa kelas VIII SMP Negeri di Lampung Selatan. Pengambilan sampel dilakukan dengan teknik cluster random sampling sehingga diperoleh dua kelas sampel penelitian. Metode tes diterapkan untuk mengumpulkan data. Instrumen penelitianini berupa GEFT dan tes pemahaman konsep matematis pada materi persamaan garis lurus. Berdasar pada\r\nhasil pengujian hipotesis, diperoleh simpulan bahwa (1) terdapat korelasi positif antara gaya kognitif field dependent dan tingkat pemahaman konsep matematis pada siswa yang dikenai model pembelajaran langsung dan (2) tidak terdapat korelasi positif antara gaya kognitif field dependent dan tingkat pemahaman konsep matematis pada siswa yang dikenai model pembelajaran STAD. Hasil ini berimplikasi bahwa model pembelajaran mempengaruhi tingkat pemahaman matematis siswa yang bergaya kognitif field dependent.\r\n\r\nKata kunci:field dependent, pemahaman konsep, pembelajaran langsung, STAD\r\n\r\nThis correlational research was aimed to find out whether there is a positive correlation between field dependent cognitive style and mathematical conceptual understanding of\r\nstudents who was taught by direct instructin and STAD model. The population of this research was all students of grade eighth of a Public Junior High School in Lampung Selatan. By cluster random sampling technique, there were two classes of research sample. The test method was applied to collect the data. The instruments of this research were GEFT and test of mathematical conceptual understanding of line equation material. Based on the result of hypotesis test, it was concluded that (1) there is a positive correlation between\r\ncognitive style and mathematical conceptual understanding on students who was taught by direct learning model and (2) there is no positive correlation between cognitive style and\r\nmathematical conceptual understanding on students who was taught by STAD learning model. This result implies that learning model affects mathematical conceptual understanding of student who has field dependent cognitive style.\r\n\r\nKeywords: field dependent, conceptual understanding, direct instruction, STAD",
+      "volume": 3,
+      "date": "2016-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2207",
+      "date_type": "published",
+      "subjects": [
+        "LB1603"
+      ],
+      "issn": "2407-3792",
+      "full_text_status": "public",
+      "status_changed": "2017-05-31 04:45:51",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/22\/07",
+      "publisher": "Program Studi Pendidikan Matematika, Fakultas Keguruan dan Ilmu Pendidikan Universitas PGRI Yogyakarta",
+      "publication": "Jurnal Derivat: Jurnal Matematika dan Pendidikan Matematika",
+      "divisions": [
+        "FKIP22"
+      ]
+    }
+]
+

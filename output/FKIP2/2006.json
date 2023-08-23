@@ -1,0 +1,84 @@
+[
+    {
+      "datestamp": "2021-03-16 01:40:02",
+      "eprintid": 28398,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "28-53",
+      "userid": 6154,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 9,
+      "official_url": "https:\/\/journals.stie-yai.ac.id\/index.php\/",
+      "lastmod": "2021-03-16 01:40:02",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "JURNAL EKONOMI TELESKOP VOL.5 EDISI 9 TAHUN 2006.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "c0d59afcec835340d9cf62117ee73d68",
+                  "fileid": 252353,
+                  "datasetid": "document",
+                  "filename": "JURNAL EKONOMI TELESKOP VOL.5 EDISI 9 TAHUN 2006.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/252353",
+                  "objectid": 42445,
+                  "filesize": 6093862,
+                  "mtime": "2021-03-15 09:12:32",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 42445,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42445",
+            "pos": 1,
+            "eprintid": 28398,
+            "placement": 1
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nurwahidin",
+            "lineage": null,
+            "given": "Muhammad"
+          },
+          "id": "muhammad.nurwahidin@fkip.unila.ac.id"
+        }
+      ],
+      "title": "KOMUNIKASI: SUATU KAJIAN DAN PENYAMPAIAN PESAN",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "HE"
+      ],
+      "abstract": "Communication happens between communicator to caominicant e.g person to person, person to groups, or groups to groups, etc. Harole Baswell emphasizes that communication element include communicator, message media, communication and effect. Comminication will be effectiveif the \r\ncommunicant follows the source of communicators. This will happen if communicators are able to present their messages based on communicants level of knowledge . In this paper it will be described several factors which determine wheter communication will be accepted or rejected by \r\ncommunicant.",
+      "volume": 5,
+      "corp_creators": [
+        "Prodi Pendidikan Bimbingan dan Konseling FKIP Unilla (2020)"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28398",
+      "date": 2006,
+      "publisher": "STIE Y.A.I",
+      "divisions": [
+        "FKIP2"
+      ],
+      "publication": "Jurnal Ekonomi Teleskop",
+      "dir": "disk0\/00\/02\/83\/98",
+      "full_text_status": "public",
+      "issn": "1411-3643",
+      "status_changed": "2021-03-16 01:40:02",
+      "ispublished": "pub",
+      "rev_number": 7
+    }
+]
+

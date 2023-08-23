@@ -1,0 +1,469 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "date": "2014-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3778",
+      "abstract": "Angiogenesis, the formation of micro-vascular network from the preexisting vascular vessels, has been studied in the connection to the normal developmental process as well as numerous diseases. In tissue engineering research,\r\nangiogenesis is also essential to promote micro-vascular network inside engineered tissue constructs, mimicking a functional blood vessel in vivo. Micro-vascular network can be used to maintain adequate tissue oxygenation, nutrient transfer and waste removal. One of the problems faced by angiogenesis researchers is to find suitable in vitro assays and methods for assessing the effect of regulators on\r\nangiogenesis and micro-vessel formation. The assay would be reliable and repeatable with easily quantifiable with physiologically relevant. This review aims to highlights\r\nrecent advanced and future challenges in developing and using an in vitro angiogenesis assay for the application on biomedical and tissue engineering research.",
+      "volume": 58,
+      "publisher": "IOP Publishing",
+      "publication": "IOP Conference Series: Materials Science and Engineering",
+      "divisions": [
+        "FT14"
+      ],
+      "dir": "disk0\/00\/00\/37\/78",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "1757-899X",
+      "status_changed": "2017-08-14 03:04:19",
+      "metadata_visibility": "show",
+      "pagerange": "1-6",
+      "datestamp": "2017-08-14 03:04:19",
+      "eprintid": 3778,
+      "eprint_status": "archive",
+      "lastmod": "2017-08-14 03:04:19",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "232b9fc53e987fc43fda3136f8f390b4",
+                  "datasetid": "document",
+                  "fileid": 26461,
+                  "mtime": "2017-08-04 03:49:34",
+                  "hash_type": "MD5",
+                  "filename": "14. 042014_INT.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26461",
+                  "objectid": 3633,
+                  "filesize": 875171
+                }
+            ],
+            "main": "14. 042014_INT.pdf",
+            "docid": 3633,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3633",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3778
+          }
+      ],
+      "userid": 464,
+      "number": 1,
+      "title": "Angiogenesis in tissue engineering: from concept to the\r\nvascularization of scaffold construct",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ishak",
+            "given": "Siti Amirah"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Djuansjah",
+            "given": "Joy Riski Pangestu"
+          }
+        },
+        {
+          "name": {
+            "given": "Mohammed Rafdiq Abdul",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kadir"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sukmana",
+            "given": "Irza"
+          },
+          "id": "irza.sukmana@gmail.com"
+        }
+      ]
+    },
+    {
+      "abstract": "Angiogenesis is the formation of new microvascular network from the pre-existing blood vessel. In tissue engineering approaches, angiogenesis is essential for the promotion of\r\nmicro-vascular network inside an engineered scaffold construct, mimicking a functional blood vessel in vivo. In the in vivo system, the formation of new blood vessels depends on the properties fibrin gel extracellular matrix. In this study, we have investigated the effect of different fibrinogen and thrombin composition on the biophysical properties of fibrin gel. Higher concentration of thrombin\r\n(4.0 Units\/milliliter) yields a shorter clotting time of the fibrin gel and result in better water uptake property while at lower concentration of thrombin (0.5 Units\/milliliter), the clotting time takes much longer. Also, at lowest concentration ratio of fibrinogen to thrombin (0.5 milligram\/milliliter to 4.0 Units\/milliliter), the turbidity study shows the lowest absorbance compared to other samples.\r\nDifferent concentration of fibrinogen and thrombin also affect the microstructure of the fibrin gel. The variation of these properties will be then manipulated to be used for in vitro angiogenesis. This study opens broader application of fibrin extracellular matrix in regenerative medicine and tissue engineering researches.",
+      "volume": 911,
+      "date": "2014-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3774",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "full_text_status": "public",
+      "issn": "1662-8985",
+      "status_changed": "2017-08-14 06:35:15",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "divisions": [
+        "FT14"
+      ],
+      "publisher": "Trans Tech Publications, Switzerland",
+      "publication": "Advanced Materials Research.",
+      "dir": "disk0\/00\/00\/37\/74",
+      "userid": 464,
+      "lastmod": "2017-08-14 06:35:15",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26443",
+                  "filename": "12. 022014_INT.pdf",
+                  "objectid": 3630,
+                  "filesize": 161114,
+                  "mtime": "2017-08-04 03:32:40",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "9dc5c3b1c81024cc6ebb4b9d5740efb0",
+                  "fileid": 26443,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "12. 022014_INT.pdf",
+            "docid": 3630,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 3774,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3630"
+          }
+      ],
+      "datestamp": "2017-08-14 06:35:15",
+      "eprintid": 3774,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "342-346",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Siti Amirah",
+            "family": "Ishak",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sukmana"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Modulation of Fibrin Gel Extracellular Matrix Properties by Fibrinogen and Thrombin Concentrations for Angiogenesis Assay",
+      "refereed": "TRUE"
+    },
+    {
+      "date": "2014-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3779",
+      "volume": 8,
+      "abstract": "Penelitian ini bertujuan mengetahui gambaran darah merah pada tikus yang diimplan porous tantalum berlapis hidroksiapatit. Dalam penelitian ini digunakan 12 ekor tikus jantan, galur Sprague Dawley, umur ±3 bulan yang dibagi dalam tiga kelompok yaitu kelompok kontrol tanpa implant (K1), kelompok implan porous tantalum (K2), dan kelompok implan porous tantalum berlapis hidroksiapatit (K3). Pengambilan darah dilakukan melalui vena pada ekor di hari ke-0 sebelum pemasangan implan, ke-14, dan ke-30 setelah pemasangan implan. Pengamatan data parameter darah merah meliputi jumlah sel darah merah, kadar hemoglobin (Hb), dan persentase hematokrit. Hasil perhitungan jumlah sel darah merah, kadar Hb, dan hematokrit menunjukkan perbedaan yang tidak nyata (P>0,05) pada masing-masing kelompok perlakuan kecuali jumlah sel darah merah pada kelompok tikus yang yang diimplan dengan porous tantalum tanpa lapis meningkat pada hari ke-30 dan menunjukkan perbedaan dibandingkan kelompok lainnya (P<0,05). Dari hasil penelitian disimpulkan bahwa implan porous tantalum berlapis hidroksiapatit in vivo memengaruhi jumlah sel darah merah tetapi tidak memengaruhi kadar hemoglobin dan persentase hematokrit pada tikus Sprague Dawley.",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2017-08-14 03:06:44",
+      "issn": "1978 – 225X",
+      "full_text_status": "public",
+      "publisher": "Jurnal Kedokteran Hewan",
+      "publication": "Jurnal Kedokteran Hewan.",
+      "divisions": [
+        "FT14"
+      ],
+      "dir": "disk0\/00\/00\/37\/79",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3634",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3779,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 3634,
+            "main": "15. 012014_NAS.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26467",
+                  "filename": "15. 012014_NAS.pdf",
+                  "filesize": 129218,
+                  "objectid": 3634,
+                  "mtime": "2017-08-04 03:56:52",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "08118c95d3816506a899993c5153b773",
+                  "datasetid": "document",
+                  "fileid": 26467
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2017-08-14 03:06:44",
+      "number": 2,
+      "userid": 464,
+      "pagerange": "151-153",
+      "metadata_visibility": "show",
+      "eprintid": 3779,
+      "eprint_status": "archive",
+      "datestamp": "2017-08-14 03:06:44",
+      "refereed": "TRUE",
+      "title": "PENGARUH IMPLANTASI POROUS TANTALUM BERLAPIS HIDROKSIAPATIT TERHADAP GAMBARAN DARAH MERAH TIKUS SPRAGUE DAWLEY",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Budianto",
+            "honourific": null,
+            "family": "Panjaitan",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "-",
+            "honourific": null,
+            "lineage": null,
+            "family": "Gunanti"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Deni",
+            "honourific": null,
+            "lineage": null,
+            "family": "Noviana"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Mokhamed Fakhrul",
+            "family": "Ulum",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "lineage": null,
+            "family": "Sukmana",
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "volume": 6,
+      "abstract": "Scaffold vascularisation is a prevalent challenge in order to develop a mature and functionalize engineering tissue construct. Vascularisation problem is one of the major hurdles in development of thick and complex engineered tissue. Bioreactors have been used to overcome complex interplay influencing tissue vascularisation. In this study we have designed and optimized our dynamic culture system for the angiogenesis development in a 3D environment. Testing with human umbilical vein endothelial cells shows that the cells are able to develop angiogenesis within two days of culture.",
+      "date": "2014-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3773",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "status_changed": "2017-08-14 06:34:58",
+      "issn": "( Print ) : 2164 - 6627 ( Online ) : 2164 - 6635",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "divisions": [
+        "FT14"
+      ],
+      "publisher": "American Scientific Publishers",
+      "publication": "Advanced Science, Engineering and Medicine.",
+      "dir": "disk0\/00\/00\/37\/73",
+      "number": 1,
+      "userid": 464,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3629",
+            "pos": 1,
+            "eprintid": 3773,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 3629,
+                  "filesize": 357527,
+                  "filename": "11. 012014_INT.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26437",
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-04 03:26:53",
+                  "fileid": 26437,
+                  "datasetid": "document",
+                  "hash": "f34af347111605b8d544502e64499d56",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "11. 012014_INT.pdf",
+            "docid": 3629
+          }
+      ],
+      "lastmod": "2017-08-14 06:34:58",
+      "eprintid": 3773,
+      "eprint_status": "archive",
+      "datestamp": "2017-08-14 06:34:58",
+      "pagerange": "97-99",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Mohd.",
+            "lineage": null,
+            "family": "Ramdan",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Irza",
+            "honourific": null,
+            "family": "Sukmana",
+            "lineage": null
+          },
+          "id": "irza.sukmana@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Three-Dimensional Dynamic Bioreactor Culture System Supports the Angiogenesis Directional of Human Umbilical Vein Endothelial Cells."
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Porous tantalum has been used as an orthopedic implant for bone defects as it has a good corrosion resistance and fatigue behaviour properties. However, there are some reports on the rejection of porous Ta after the implantation. Those clinical cases refer to the less bioactivity of metallic-based materials. This study aims to evaluate hydroxyapatite coated and uncoated\r\nporous Tantalum in order to improve the biocompatibility of porous tantalum implant and osseointegration. Porous tantalum was used as metallic-base substrate and hydroxyapatite coating has been done using plasma-spraying technique. Scanning Electron Microscopy (SEM) and Field\r\nEmission Scanning Electron Microscopy (FESEM) techniques were utilizes to investigate the coating characteristics while Confocal Raman Microscopy to investigate the interface and image. The effect of coating to the corrosion behaviour was assessed by employing potentiodynamic polarization tests in simulated body fluid at 37±1 °C. Based on SEM and FESEM results, the morphologies as well the weight element consists in the uncoated and hydroxyapatite coated\r\nporous tantalum were revealed. The results indicated that the decrease in corrosion current density for HA coated porous Ta compared to the uncoated porous Ta. This study concluded that by coating porous tantalum with HA supports to decrease the corrosion rate of pure porous",
+      "volume": 495,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3776",
+      "date": "2014-01",
+      "publisher": "IOP Publishing",
+      "divisions": [
+        "FT14"
+      ],
+      "publication": "Journal of Physics: Conference Series",
+      "dir": "disk0\/00\/00\/37\/76",
+      "full_text_status": "public",
+      "issn": "1742-6588 (Print) 1742-6596 (Online)",
+      "status_changed": "2017-08-14 06:35:37",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "datestamp": "2017-08-14 06:35:37",
+      "eprintid": 3776,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1-7",
+      "userid": 464,
+      "lastmod": "2017-08-14 06:35:37",
+      "documents": [
+          {
+            "format": "text",
+            "main": "13. 032014_INT.pdf",
+            "docid": 3632,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "ffbc84bca53e1929afad5e1e5b98f7b9",
+                  "fileid": 26454,
+                  "datasetid": "document",
+                  "filename": "13. 032014_INT.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26454",
+                  "objectid": 3632,
+                  "filesize": 590088,
+                  "mtime": "2017-08-04 03:40:01",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 3776,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3632",
+            "pos": 1
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sufuan",
+            "given": "Nadia"
+          },
+          "id": null
+        },
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "honourific": null,
+            "family": "Sukmana",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Mohammed Rafiq Abdul",
+            "family": "Kadir",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Noviana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Deni"
+          }
+        }
+      ],
+      "title": "The evaluation of hydroxyapatite (HA) coated and uncoated porous tantalum for biomedical material applications,",
+      "refereed": "TRUE"
+    }
+]
+

@@ -1,0 +1,2661 @@
+[
+    {
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 30601,
+            "main": "Rancang Bangun Alat Monitoring Arus dan Tegangan Berbasis Mikrokontroler dengan SMS Gateway.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-01-03 07:31:26",
+                  "objectid": 30601,
+                  "filesize": 790147,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147785",
+                  "filename": "Rancang Bangun Alat Monitoring Arus dan Tegangan Berbasis Mikrokontroler dengan SMS Gateway.pdf",
+                  "datasetid": "document",
+                  "fileid": 147785,
+                  "hash": "9a7479632f563a3596585ef9895660c7",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30601",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 17474
+          }
+      ],
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/215",
+      "lastmod": "2020-02-17 03:43:29",
+      "number": 2,
+      "userid": 484,
+      "pagerange": "87-98",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 17474,
+      "datestamp": "2020-02-17 03:43:29",
+      "refereed": "TRUE",
+      "title": "Rancang Bangun Alat Monitoring Arus dan Tegangan Berbasis Mikrokontroler dengan SMS Gateway",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Afrizal",
+            "given": "Fitriandi"
+          }
+        },
+        {
+          "name": {
+            "given": "Komalasari",
+            "honourific": null,
+            "lineage": null,
+            "family": "Endah"
+          },
+          "id": "endah.komalasari@eng.unila.ac.id"
+        },
+        {
+          "id": "herri.gusmedi@eng.unila.ac.id",
+          "name": {
+            "given": "Gusmedi",
+            "lineage": null,
+            "family": "Herri",
+            "honourific": null
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17474",
+      "date": "2016-05",
+      "volume": 10,
+      "abstract": "Intisari—Banyak daerah di Indonesia yang belum terjangkau PLN terutama daerah terpencil. Kondisi ini yang mendorong masyarakat untuk membangun sistem pembangkit listrik sendiri seperti Pembangkit Listrik Tenaga Mikrohidro dan Pembangkit Listrik Tenaga Surya. Oleh karena pembangkit ini memanfaatkan kondisi alam maka energi yang dihasilkan juga sangat bergantung dengan alam, maka dibutuhkan alat untuk menggabungkan pembangkit listrik alternatif ini menjadi satu jaringan untuk menambah kehandalan jaringan. Dengan cara menghibridkan pembangkit alternatif maka menambah kehandalan dari jaringan, namun jaringan yang sudah hibrid butuh dimonitoring untuk memantau arus dan tegangan yang ada pada jaringan tersebut.Monitoring arus dan tegangan dari system hybrid dibuatlah alat monitoring arus dan tegangan berbasis mikrokontroler dengan sms gateway untuk mempermudah monitoring arus dan tegangan. Arus dan tegangan akan dimonitoring secara berkala melalui jaringan telekomunikasi melewati sms setiap 5 menit.Kata kunci —SMS, PLN, PLTMH, PLTS, Monitoring. Abstract —Many areas in Indonesia which have not been reached PLN particularly remote areas. These conditions which encourage people to build their own power generation systems such as micro hydro power plant and Solar Power. Therefore, these plants utilize natural conditions, the energy generated is also very dependent on the nature, it is necessary tool to combine alternative power generation is becoming one network to increase network reliability. By way of an alternative plant menghibridkan then add to the reliability of the network, but the network already hybrids need to be monitored to the current and voltage monitor that exist on the network.Monitoring current and voltage in a hybrid system made of current and voltage monitoring tool based microcontroller with sms gateway to facilitate monitoring of current and voltage. Current and voltage to be monitored on a regular basis via telecommunications networks pass through sms every 5 minutes.Keywords—SMS, PLN, Solar Power Plant, Micro Hydro Power Plant, Monitoring.",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2020-02-17 03:43:29",
+      "full_text_status": "public",
+      "issn": "1978-6042",
+      "publisher": "Universitas Lampung",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/01\/74\/74"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Intisari---Penyulang Katu GI Menggala PT. PLN (Persero) Distribusi Lampung memiliki panjang saluran sekitar 158 km dengan maksimum beban yang terukur dari GI Menggala sekitar 4,6 MW dan terdiri dari 119 Bus. Kondisi ini mengakibatkan penyulang ini mengalami profil tegangan yang melanggar ketentuan +\/- 5% sebagaimana yang dinyatakan dalam Aturan Penyambungan atau Grid Code. Untuk memperbaiki kondisi ini, salah satunya adalah dengan pemasangan step voltage regulator. Dalam penelitian ini, SVR dimodelkan sebagai injeksi daya yang kemudian dikombinasikan dengan persamaan aliran daya. SVR yang dijadikan obyek dalam penelitian ini adalah dari Type B dimana pemasangan SVR Type B dipasang di dekat sumber. Metode analisa aliran daya yang digunakan dalam penelitian ini adalah Metode Newton-Raphson. Hasil penelitian menunjukkan peningkatan tegangan akibat kontrol yang dilakukan oleh SVR. Sebelum pemasangan SVR, tegangan pada Bus 5 Penyulang Katu adalah 16,9828 kV. Setelah pemasangan SVR, terdapat peningkatan sebesar 1,3837 kV sehingga menjadi 18,3665 kV. Namun demikian, pemasangan SVR saja belum dapat memperbaiki profil tegangan secara keseluruhan akibat terlalu jauhnya drop tegangan di Penyulang Katu ini. Sehingga posisi tap maksimum SVR tidak mampu mengkompensasi tegangan yang jauh di bawah 0.95 p.u. yang terjadi di Penyulang Katu. Hasil perhitungan dilakukan dengan menggunakan perangkat lunak yang dikembangkan sendiri dan dibandingkan dengan perangkat lunak komersil yaitu ETAP. Selisih hasil perhitungan berada dalam kisaran 0.0108%.Kata kunci---aliran daya, step voltage regulator, tegangan jatuh , tap SVR . Abstract---Katu feeder of GI Menggala PT. PLN (Persero) Distribusi Lampung is about 158 km length with a maximum measured load from GI Menggala of about 4.6 MW and consists of 119 Buses. These conditions make the feeder suffers voltage profile that violates the limit of +\/- 5% as stated in the Connection Code or the Grid Code. In order to correct this condition, installation of a step voltage regulator (SVR) is required. In this thesis, the SVR is modeled as a power injection and combined into the power flow equations. SVR of this research is of Type B where installation this type of SVR is near the source. Power flow analysis method used in this research is the Newton-Raphson method. The results showed an increase in voltage due to the control exercised by the SVR. Before mounting SVR, the voltage on Bus 5 of feeder Katu is 16.9828 kV. After SVR installation, the voltage becomes 18.3665 kV. However, the installation of SVR alone can not fix the overall voltage profile due to the large voltage drop along this feeder although the SVR was set to maximum tap position. The result of the calculation is done by using a self-developed software and compared to a commercial software i.e. ETAP. The difference in calculation results are within the range of 0.0108%.Keywords---power flow, step voltage regulators, voltage drop, tap SVR.",
+      "volume": 10,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17475",
+      "date": "2016-05",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "dir": "disk0\/00\/01\/74\/75",
+      "full_text_status": "public",
+      "issn": "1978-6042",
+      "status_changed": "2020-02-17 03:43:26",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "datestamp": "2020-02-17 03:43:26",
+      "eprint_status": "archive",
+      "eprintid": 17475,
+      "metadata_visibility": "show",
+      "pagerange": "130-139",
+      "userid": 484,
+      "number": 2,
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/218",
+      "lastmod": "2020-02-17 03:43:26",
+      "documents": [
+          {
+            "eprintid": 17475,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30602",
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147791",
+                  "filename": "Studi Pemasangan Step Voltage Regulator dengan Model Injeksi Daya pada Jaringan Menengah 20 KV Penyulang Katu Gardu Induk Menggala.pdf",
+                  "filesize": 490100,
+                  "objectid": 30602,
+                  "mtime": "2020-01-03 07:35:45",
+                  "hash_type": "MD5",
+                  "hash": "fdf28b76e23b79ea61e5e4601c4fd9f4",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 147791
+                }
+            ],
+            "main": "Studi Pemasangan Step Voltage Regulator dengan Model Injeksi Daya pada Jaringan Menengah 20 KV Penyulang Katu Gardu Induk Menggala.pdf",
+            "docid": 30602,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Daniel Sandi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Binsar"
+          }
+        },
+        {
+          "id": "plgsekip@eng.unila.ac.id",
+          "name": {
+            "given": "Hakim",
+            "honourific": null,
+            "family": "Lukmanul",
+            "lineage": null
+          }
+        },
+        {
+          "id": "herri.gusmedi@eng.unila.ac.id",
+          "name": {
+            "given": "Gusmedi",
+            "honourific": null,
+            "family": "Herri",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Studi Pemasangan Step Voltage Regulator dengan Model Injeksi Daya pada Jaringan Menengah 20 KV Penyulang Katu Gardu Induk Menggala",
+      "refereed": "TRUE"
+    },
+    {
+      "publication": "JITET Jurnal Informatika dan Teknik Elektro",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/29\/85",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2017-06-05 01:49:51",
+      "full_text_status": "public",
+      "issn": "2303-0577",
+      "subjects": [
+        "TK"
+      ],
+      "date": "2016-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2985",
+      "corp_creators": [
+        "Arya Wiguna B"
+      ],
+      "abstract": "Abstrak – Sistem kelistrikan merupakan salah satu kebutuhan bagi kehidupan masyarakat modern\r\ndalam mendukung keberlangsungan aktifitas masyarakat. Peningkatan beban pada sistem tenaga\r\nlistrik dapat menimbulkan jatuh tegangan dan nilai rugi daya yang besar. Dalam tugas akhir ini\r\ndigunakan SVC (Static Var Compensator) yang merupakan salah satu FACTS devices, yang\r\nberfungsi menyerap atau menginjeksikan daya reaktif untuk memperbaiki profil tegangan pada\r\nsistem transmisi. Tugas akhir ini adalah studi kasus yang diterapkan pada saluran transmisi PLN\r\n24 bus wilayah Lampung dengan menggunakan metode Newton-Raphson pada simulasi\r\nMATLAB.\r\nHasil penelitian menunjukkan bahwa dengan menerapkan SVC pada weak bus pada sistem\r\ntransmisi maka profil tegangan dapat diperbaiki dalam batas yang diizinkan. Penempatan SVC\r\npada weak bus 7 (Manggala) memperbaiki profil tegangan pada weak bus 7 (Manggala) dan bus 8\r\n(Gumawang) naik sebesar 1.35% dan 1.45% dari 0.9283p.u dan 0.9012p.u menjadi 0.941p.u dan 0.9145p.u, penempatan SVC pada weak bus bus 8 (Gumawang) memperbaiki profil tegangan pada weak bus 7 (Manggala) dan bus 8 (Gumawang) naik sebesar 6.18% dan 9,88% dari 0.9283p.u dan\r\n0.9012p.u menjadi 0.9895p.u dan 1p.u.\r\n\r\nKata kunci : SVC (Static Var Compensator), Flexible AC Transmission Systems (FACTS), Metode Newton-Raphson, Perbaikan Profil Tegangan, Transmisi PLN Lampung",
+      "refereed": "FALSE",
+      "title": "PENEMPATAN SVC (STATIC VAR COMPENSATOR) UNTUK\r\nMEMPERBAIKI PROFIL TEGANGAN PADA JARINGAN TRANSMISI\r\nPT. PLN LAMPUNG",
+      "creators": [
+        {
+          "id": "despa@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Despa",
+            "given": "Dikpride"
+          }
+        },
+        {
+          "name": {
+            "given": "Herri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Gusmedi"
+          },
+          "id": "herri.gusmedi@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "eprintid": 2985,
+      "eprint_status": "archive",
+      "datestamp": "2017-06-05 01:49:51",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "542-1052-1-SM.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 03:33:40",
+                  "objectid": 2877,
+                  "filesize": 811410,
+                  "filename": "542-1052-1-SM.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20692",
+                  "datasetid": "document",
+                  "fileid": 20692,
+                  "mime_type": "application\/pdf",
+                  "hash": "895a4811d3e78fa86fc77ce380e93d42"
+                }
+            ],
+            "docid": 2877,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2877",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2985
+          }
+      ],
+      "lastmod": "2017-06-05 01:49:51",
+      "userid": 656
+    },
+    {
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/01\/74\/73",
+      "issn": "1978-6042",
+      "full_text_status": "public",
+      "status_changed": "2020-02-17 03:43:31",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Intisari — Salah satu hal yang mempengaruhi tahanan pentanahan adalah tahanan jenis tanah. Tahanan jenis tanah dipengaruhi oleh beberapa hal yaitu struktur tanah, temperatur, pengaruh kandungan air (kelembaban), dan pengaruh kandungan kimia dalam tanah. Dalam penelitian ini untuk menurunkan tahanan pentanahan dilakukan penambahan bentonit kedalam tanah, tetapi sebelum digunakan bentonit terlebih dulu diaktivasi. Tujuan dari penelitian ini adalah untuk Mengetahui perubahan besar tahanan pentanahan yang diberikan bentonit yang belum teraktivasi dan sudah teraktivasi. Pentanahan yang diberikan bentonit teraktivasi memiliki nilai tahanan pentanahan lebih kecil dibandingkan saat diberikan bentonit yang belum teraktivasi. Persentasi perubahan bentonit yang telah teraktivasi yaitu sebesar 79,97%-85,24% sedangkan persentasi perubahan tahanan pentanahan saat diberikan bentonit yang belum teraktivasi sebesar 22,84%-85,25%. Kata kunci — Tahanan pentanahan, tahanan jenis tanah, aktivasi bentonit Abstract — One of the things that affect the grounding resistance is soil resistivity. Soil resistivity is influenced by several things: the structure of the soil, the temperature, the influence of the water content (moisture), and the effect of chemical constituents in the soil. In this research to lose custody grounding the addition of bentonite into the ground, but before use bentonite first in activation. The aim of this study is to know the major changes grounding given bentonite which has not been activated and has been activated .Grounding were given activated bentonite has a grounding resistance value is smaller than when given bentonite which has not been activated .Percentage changes that have been activated bentonite in the amount of 79,97%-85,24% whereas the percentage change in resistance grounding when given bentonite which has not been activated by 22,84%-85,25%. Keywords— Grounding, Soil Resistivity, Activation of bentonite",
+      "volume": 10,
+      "date": "2016-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17473",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Andini",
+            "family": "Devy",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "yul.martin@eng.unila.ac.id",
+          "name": {
+            "given": "Martin",
+            "family": "Yul",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Gusmedi",
+            "honourific": null,
+            "family": "Herri",
+            "lineage": null
+          },
+          "id": "herri.gusmedi@eng.unila.ac.id"
+        }
+      ],
+      "title": "Perbaikan Tahanan Pentanahan dengan Menggunakan Bentonit Teraktivasi",
+      "refereed": "TRUE",
+      "datestamp": "2020-02-17 03:43:31",
+      "eprint_status": "archive",
+      "eprintid": 17473,
+      "metadata_visibility": "show",
+      "pagerange": "44-53",
+      "userid": 484,
+      "number": 1,
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/193",
+      "lastmod": "2020-02-17 03:43:31",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30600",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 17473,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Perbaikan Tahanan Pentanahan dengan Menggunakan Bentonit Teraktivasi.pdf",
+            "docid": 30600,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147778",
+                  "filename": "Perbaikan Tahanan Pentanahan dengan Menggunakan Bentonit Teraktivasi.pdf",
+                  "filesize": 520127,
+                  "objectid": 30600,
+                  "mtime": "2020-01-03 07:26:21",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "6d32efbef9aa5c12dbc063062411499a",
+                  "datasetid": "document",
+                  "fileid": 147778
+                }
+            ],
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "date": "2016-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25422",
+      "subjects": [
+        "TK"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2020-11-16 03:07:15",
+      "full_text_status": "public",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "dir": "disk0\/00\/02\/54\/22",
+      "divisions": [
+        "FT5"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "11. Penilaian_Karya_Ilmiah_Design of Frequency Generator and Amplifier Level Converter.pdf",
+            "files": [
+                {
+                  "fileid": 229530,
+                  "datasetid": "document",
+                  "hash": "08e0afc17d44086534809e04e0b06117",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-16 02:58:22",
+                  "objectid": 39211,
+                  "filesize": 1778867,
+                  "filename": "11. Penilaian_Karya_Ilmiah_Design of Frequency Generator and Amplifier Level Converter.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/229530"
+                }
+            ],
+            "docid": 39211,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39211",
+            "pos": 1,
+            "eprintid": 25422,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/ieeexplore.ieee.org\/document\/7886751",
+      "lastmod": "2020-11-16 03:07:15",
+      "userid": 663,
+      "metadata_visibility": "show",
+      "eprintid": 25422,
+      "eprint_status": "archive",
+      "datestamp": "2020-11-16 03:07:15",
+      "contact_email": "helmy.fitriawan@eng.unila.ac.id",
+      "title": "Penilaian Karya Ilmiah Untuk Artikel \"Design of Frequency Generator and Amplifier Level Converter Using 300nm CMOS Technology for Electro Capacitive Cancer Therapy (ECCT) Standard Operation Mode System\"",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fitriawan",
+            "given": "Helmy"
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "datestamp": "2020-11-16 02:56:53",
+      "eprintid": 25415,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 663,
+      "lastmod": "2020-11-16 02:56:53",
+      "official_url": "https:\/\/ieeexplore.ieee.org\/document\/7808365",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 25415,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39204",
+            "security": "public",
+            "main": "9. Penilaian_Karya_Ilmiah_Neural Networks for Lampung Characters Handwritten Recognition.pdf",
+            "docid": 39204,
+            "files": [
+                {
+                  "filename": "9. Penilaian_Karya_Ilmiah_Neural Networks for Lampung Characters Handwritten Recognition.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/229477",
+                  "filesize": 1711229,
+                  "objectid": 39204,
+                  "mtime": "2020-11-16 02:50:03",
+                  "hash_type": "MD5",
+                  "hash": "704effd9826dc3e7db348a01a456c1ab",
+                  "mime_type": "application\/pdf",
+                  "fileid": 229477,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fitriawan",
+            "given": "Helmy"
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        }
+      ],
+      "title": "Penilaian Karya Ilmiah Untuk Artikel \"Neural Networks for Lampung Characters Handwritten Recognition\"",
+      "contact_email": "helmy.fitriawan@eng.unila.ac.id",
+      "subjects": [
+        "TK"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25415",
+      "date": "2016-07",
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "dir": "disk0\/00\/02\/54\/15",
+      "full_text_status": "public",
+      "status_changed": "2020-11-16 02:56:53",
+      "ispublished": "pub",
+      "rev_number": 7
+    },
+    {
+      "contact_email": "helmy.fitriawan@eng.unila.ac.id",
+      "title": "Similarity Index Untuk Artikel \"Design of Frequency Generator and Amplifier Level Converter Using 300nm CMOS Technology for Electro Capacitive Cancer Therapy (ECCT) Standard Operation Mode System\"",
+      "creators": [
+        {
+          "id": "helmy.fitriawan@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Fitriawan",
+            "honourific": null,
+            "given": "Helmy"
+          }
+        }
+      ],
+      "type": "other",
+      "documents": [
+          {
+            "docid": 38683,
+            "main": "11. Design_of_Frequency_Generator_and_Amplifier_Level_.pdf",
+            "files": [
+                {
+                  "filename": "11. Design_of_Frequency_Generator_and_Amplifier_Level_.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/225832",
+                  "filesize": 1194711,
+                  "objectid": 38683,
+                  "mtime": "2020-11-11 07:31:26",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "29d071ed54882b2883351be4c9cb371c",
+                  "datasetid": "document",
+                  "fileid": 225832
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 24940,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38683",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/ieeexplore.ieee.org\/document\/7886751",
+      "lastmod": "2020-11-11 07:40:48",
+      "userid": 663,
+      "metadata_visibility": "show",
+      "eprintid": 24940,
+      "eprint_status": "archive",
+      "datestamp": "2020-11-11 07:40:48",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2020-11-11 07:40:48",
+      "full_text_status": "public",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/02\/49\/40",
+      "date": "2016-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24940",
+      "subjects": [
+        "TK"
+      ]
+    },
+    {
+      "subjects": [
+        "TK"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24929",
+      "date": "2016-07",
+      "dir": "disk0\/00\/02\/49\/29",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "divisions": [
+        "FT5"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2020-11-11 07:40:31",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 24929,
+      "datestamp": "2020-11-11 07:40:31",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38672",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 24929,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-11 06:49:47",
+                  "objectid": 38672,
+                  "filesize": 1097186,
+                  "filename": "9. Neural_Networks_for_Lampung_Characters_Handwritten.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/225758",
+                  "fileid": 225758,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "41a98719d912942651f1adc086363376"
+                }
+            ],
+            "main": "9. Neural_Networks_for_Lampung_Characters_Handwritten.pdf",
+            "docid": 38672,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2020-11-11 07:40:31",
+      "official_url": "https:\/\/ieeexplore.ieee.org\/document\/7808365",
+      "userid": 663,
+      "title": "Similarity Index Untuk Artikel \"Neural Networks for Lampung Characters Handwritten Recognition\"",
+      "creators": [
+        {
+          "id": "helmy.fitriawan@eng.unila.ac.id",
+          "name": {
+            "given": "Helmy",
+            "family": "Fitriawan",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "contact_email": "helmy.fitriawan@eng.unila.ac.id"
+    },
+    {
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Helmy",
+            "family": "Fitriawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ariyanto",
+            "honourific": null,
+            "given": "Ariyanto"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Setiawan",
+            "lineage": null,
+            "given": "Hendri"
+          }
+        }
+      ],
+      "event_dates": "26-27 Juli 2016",
+      "refereed": "TRUE",
+      "title": "Neural Networks for Lampung Characters Handwritten Recognition",
+      "event_location": "Kuala Lumpur, Malaysia",
+      "eprintid": 25461,
+      "eprint_status": "archive",
+      "datestamp": "2020-11-16 06:06:36",
+      "pagerange": "485-488",
+      "metadata_visibility": "show",
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Helmy Fitriawan",
+            "honourific": null,
+            "given": "Helmy"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Helmy Fitriawan",
+            "lineage": null,
+            "given": "Helmy Fitriawan"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Helmy Fitriawan",
+            "lineage": null,
+            "given": "Helmy Fitriawan"
+          }
+        },
+        {
+          "name": {
+            "family": "Helmy Fitriawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Helmy Fitriawan"
+          }
+        }
+      ],
+      "userid": 663,
+      "documents": [
+          {
+            "eprintid": 25461,
+            "placement": 7,
+            "security": "public",
+            "pos": 7,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39263",
+            "format": "text",
+            "docid": 39263,
+            "main": "9. Neural Networks for Lampung Characters_2016.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 229829,
+                  "hash": "232f044251c7a168d57aae9178801073",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-16 05:19:17",
+                  "objectid": 39263,
+                  "filesize": 3101081,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/229829",
+                  "filename": "9. Neural Networks for Lampung Characters_2016.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2020-11-16 06:06:36",
+      "dir": "disk0\/00\/02\/54\/61",
+      "divisions": [
+        "FT5"
+      ],
+      "event_type": "conference",
+      "succeeds": 2842,
+      "status_changed": "2020-11-16 06:06:36",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "event_title": "2016 International Conference on Computer & Communication Engineering",
+      "subjects": [
+        "QA75",
+        "TK"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Faculty of Engineering, University of Lampung"
+      ],
+      "abstract": "Character recognition technique associates a symbolic identity with the image of a character. Different characters and languages have different structures and features. Lampung character and language are different with any other languages. We have developed Lampung handwritten character recognition using back-propagation neural networks. However since some Lampung characters have similar features, hierarchical network system was performed to optimize the training and recognition algorithm. The experiment results give reasonable results of the recognition rate for the training set. 86.5% of basic characters and more than 97% for characters with tone marks can be recognised.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25461",
+      "date": 2016
+    },
+    {
+      "funders": [
+        "Kementrian Riset, Teknologi, dan Pendidikan Tinggi"
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "ARPN Journal of Engineering and Applied Sciences",
+      "dir": "disk0\/00\/00\/10\/72",
+      "rev_number": 8,
+      "status_changed": "2016-11-07 01:17:31",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1072",
+      "volume": 11,
+      "title": "A STUDY ON REACTIVE POWER ALLOCATION FOR ELECTRICAL POWER DISTRIBUTION SYSTEM WITH LOW VOLTAGE PROFILE",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hakim",
+            "lineage": null,
+            "given": "Lukmanul"
+          },
+          "id": "plgsekip@eng.unila.ac.id"
+        },
+        {
+          "id": "umi.murdika@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Murdika",
+            "lineage": null,
+            "given": "Umi"
+          }
+        },
+        {
+          "id": "herri.gusmedi@eng.unila.ac.id",
+          "name": {
+            "given": "Herri",
+            "family": "Gusmedi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Syamsuri",
+            "family": "Zaini",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "contact_email": "plgsekip@eng.unila.ac.id",
+      "metadata_visibility": "show",
+      "lastmod": "2016-11-07 01:17:31",
+      "publisher": "Asian Research Publishing Network",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.arpnjournals.org\/jeas\/research_papers\/rp_2016\/jeas_0416_4022.pdf"
+        }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "1819-6608",
+      "date": "2016-04-10",
+      "projects": [
+        "Hibah Fundamental"
+      ],
+      "abstract": "Due to its long feeder line with high R\/X ratio, a distribution system suffers from low voltage profile at its load nodes. This work studies reactive power allocation for this type of problem. A linear programming-based optimal power flow is proposed to solve this problem by finding minimal amount of installation of new reactive power support devices while maintaining voltage at each load bus within the ±5% deviation. The proposed approach was tested on 11-bus test system and a real-world distribution feeder in Indonesia with 119 buses and 106 load points. This actual feeder experiences voltage magnitude below the 0.95 p.u limit. Simulation results show that some load points of this feeder require installation of new reactive power support devices to maintain their voltage to be above the 0.95 p.u. limit.",
+      "refereed": "TRUE",
+      "pagerange": "4767-4771",
+      "eprint_status": "archive",
+      "id_number": "jeas_0416_4022",
+      "eprintid": 1072,
+      "datestamp": "2016-11-07 01:17:31",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/963",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1072,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "content": "published",
+            "files": [
+                {
+                  "fileid": 7089,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "bd9419d643394cf93de46293c14b2ab5",
+                  "objectid": 963,
+                  "filesize": 407630,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7089",
+                  "filename": "jeas_0416_4022.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-06 13:42:16"
+                }
+            ],
+            "main": "jeas_0416_4022.pdf",
+            "docid": 963,
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/www.arpnjournals.com\/jeas\/",
+      "number": 7,
+      "userid": 610,
+      "contributors": [
+        {
+          "id": "plgsekip@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hakim",
+            "given": "Lukmanul"
+          }
+        },
+        {
+          "name": {
+            "family": "Murdika",
+            "lineage": null,
+            "honourific": null,
+            "given": "Umi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "umi.murdika@eng.unila.ac.id"
+        },
+        {
+          "id": "herri.gusmedi@eng.unila.ac.id",
+          "name": {
+            "given": "Herri",
+            "honourific": null,
+            "family": "Gusmedi",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Syamsuri",
+            "family": "Zaini",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.mdpi.com"
+        }
+      ],
+      "issn": "2076-3417",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Lampung University",
+        "Kyushu Institute of Technology"
+      ],
+      "abstract": "This paper proposes proportional-integral\/proportional gain controller parameter tuning in \r\na two-degrees-of-freedom (2DOF) control system using the fictitious reference iterative tuning (FRIT)\r\nmethod for permanent magnet synchronous motor (PMSM) speed control using a field-programmable\r\ngate array (FPGA) for a high-frequency SiC MOSFET (metal oxide semiconductor field-effect\r\ntransistor) inverter. The PI-P (proportional-integral\/proportional) controller parameters can be\r\ntuned using the FRIT method from one-shot experimental data without using a mathematical model\r\nof the plant. Particle swarm optimization is used for FRIT optimization. An inverter that uses a\r\nSiC MOSFET is presented to achieve high-frequency operation at up to100 kHz using a switching\r\npulse-width modulation (PWM) technique. As a result, a high-responsivity and high-stability PMSM\r\n(permanent magnet synchronous motor) control system is achieved, where the speed response\r\nfollows the ideal response characteristic for both the step response and the disturbance response.\r\nHigh-responsivity and optimal disturbance rejection can be achieved using the 2DOF control system.\r\nFPGA-based digital hardware control is used to maximize the switching frequency of the SiC MOSFET\r\ninverter. Finally, an experimental system is set up, and experimental results are presented to prove\r\nthe viability of the proposed method.",
+      "date": "2016-11-28",
+      "refereed": "FALSE",
+      "eprintid": 4612,
+      "eprint_status": "archive",
+      "id_number": "10.3390\/app6120387",
+      "datestamp": "2017-11-16 03:16:59",
+      "pagerange": "1-20",
+      "number": 12,
+      "userid": 450,
+      "contributors": [
+        {
+          "id": "charles.harahap69@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Harahap",
+            "lineage": null,
+            "given": "Charles Ronald"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hanamoto",
+            "given": "Tsuyoshi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "hanamoto@life.kyutech.ac.jp"
+        }
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash": "e9688d0d10939f832172234398d00f93",
+                  "mime_type": "application\/pdf",
+                  "fileid": 45312,
+                  "datasetid": "document",
+                  "filename": "applsci-06-00387.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/45312",
+                  "objectid": 17520,
+                  "filesize": 8263241,
+                  "mtime": "2017-11-04 07:13:05",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "applsci-06-00387.pdf",
+            "docid": 17520,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17520",
+            "eprintid": 4612,
+            "placement": 1
+          }
+      ],
+      "official_url": "http:\/\/www.mdpi.com\/journal\/applsci",
+      "publication": "Applied Sciences",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/46\/12",
+      "funders": [
+        "self funding"
+      ],
+      "status_changed": "2017-11-16 03:16:59",
+      "rev_number": 7,
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "volume": 6,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4612",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Charles Ronald",
+            "family": "Harahap",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "charles.harahap69@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Tsuyoshi",
+            "lineage": null,
+            "family": "Hanamoto",
+            "honourific": null
+          },
+          "id": "hanamoto@life.kyutech.ac.jp"
+        }
+      ],
+      "title": "Fictitious Reference Iterative Tuning-Based\r\nTwo-Degrees-of-Freedom Method for Permanent\r\nMagnet Synchronous Motor Speed Control Using\r\nFPGA for a High-Frequency SiC MOSFET Inverter",
+      "contact_email": "charles.harahap69@gmail.com",
+      "metadata_visibility": "show",
+      "lastmod": "2017-11-16 03:16:59"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Jefrianto",
+            "honourific": null,
+            "given": "Simamora"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yul",
+            "given": "Martin"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Gusmedi",
+            "family": "Herri",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "herri.gusmedi@eng.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Pengaruh Penambahan Asam Sulfat (H2SO4) pada Bentonit untuk Penurunan Nilai Tahanan Pentanahan",
+      "number": 1,
+      "userid": 484,
+      "documents": [
+          {
+            "eprintid": 17472,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30599",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 147772,
+                  "mime_type": "application\/pdf",
+                  "hash": "59ba41ae30c550506a1cb8fa37a81943",
+                  "objectid": 30599,
+                  "filesize": 269559,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/147772",
+                  "filename": "Pengaruh Penambahan Asam sulft (H2SO4) pada Bentonit untuk Penurunan Nilai Tahanan Pentanahan.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-01-03 07:22:08"
+                }
+            ],
+            "main": "Pengaruh Penambahan Asam sulft (H2SO4) pada Bentonit untuk Penurunan Nilai Tahanan Pentanahan.pdf",
+            "docid": 30599,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2020-02-17 03:43:33",
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/191",
+      "eprint_status": "archive",
+      "eprintid": 17472,
+      "datestamp": "2020-02-17 03:43:33",
+      "pagerange": "31-37",
+      "metadata_visibility": "show",
+      "status_changed": "2020-02-17 03:43:33",
+      "issn": "1978-6042",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publisher": "Universitas Lampung",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/01\/74\/72",
+      "volume": 10,
+      "abstract": "Intisari — Sistem pentanahan merupakan salah satu bagian penting yang harus diperhatikan untuk menjamin keamanan dan keandalan operasi sistem tenaga listrik. Pada saat terjadi gangguan di sistem tenaga listrik, dengan adanya sistem pentanahan menyebabkan arus gangguan dapat dengan cepat dialirkan kedalam tanah dan disebarkan kesegala arah. Tahanan pentanahan yang baik sesuai dengan standar yang berlaku tidak boleh lebih dari 5 Ω. Keadaan tanah yang akan ditanam dengan sistem pentanahannya sering kali tidak sesuai dengan yang diharapkan.Untuk mengatasi hal tersebut, salah satu cara yang dapat memperbaiki nilai tahanan pentanahan adalah dengan mengunakan zat adiktif berupa bentonit pada tanah pentanahan. Bentonit diuji pada jenis tanah lempung dan ladang. Bentonit yang digunakan adalah bentonit yang telah diaktivasi dengan asam sulfat (H2SO4) 0,8M, 1M, dan 1,2M. Nilai tahanan pentanahan diukur mengunakan earth resistace tester selama 14 hari berturut-turut. Hasil pengujian pada tanah lempung tanpa bentonit didapatkan rata-rata nilai tanahan penatanahannya sebesar 329,89 Ω, dengan bentonit tanpa aktivasi 122,54 Ω, Bentonit teraktivasi 0,8M sebesar 101,64 Ω, bentonit teraktivasi 1M sebesar 96,71 Ω dan bentonit teraktivasi 1,2M sebesar 85,5 Ω. Sedangkan pada tanah ladang tanpa bentonit didapatkan 124,89 Ω, dengan bentonit tanpa aktivasi 70,24 Ω, bentonit teraktivasi 0,8 M sebesar 37,96 Ω, bentonit teraktivasi 1M sebesar 28,07 Ω dan bentonit teraktivasi 1,2M sebesar 85,5 Ω. Dari hasil penelitian dapat disimpulkan konsentrasi terbaik untuk aktivasi bentonit adalah 1,2 M. Kata kunci — Tahanan pentanahan, bentonit teraktivasi, asam sulfat. Abstract — Grounding system is one of the important part which must be considered to ensure the safety and reliability of electric operating system. When the disruption happened in electric power system, Grounding system can divert the uncontrolled current from disruption quickly into the ground and spread it everywhere. The resistance of good grounding which according the regulation, must not be more than 5 Ω. The condition of ground that will be planted with grounding system, sometimes does not fit the expectation. To solve this problem, we need to fix the resistance's value by adding addictive substance that is bentonit in ground. Grounding is tested on the type of clay and fields. Bentonit that is used by us, has been activated with sulfuric acid (H2SO4) 0,8M, 1M, dan 1,2M.  Earthing resistance values measured using earth resistance tester for 14 days in row. The result of testing in clay without bentonit, we got the average value of grounding is 329,89 Ω, bentonit without activation, we got 122,54 Ω, 0,8M  Activated Bentonit changed the resistance to 101,64 Ω, 1M Activated Bentonit changed the resistance to 96.71 Ω. Meanwhile, in the fields without bentonit, we got 124.89 Ω, Non-activated bentonit changed the resistance to 70.24  Ω, 0.8 M activated bentonit changed the resistance to 37.96 Ω, 1M activated bentonit changed the resistance to 28.07 Ω, and 1.2 M activated bentonit changed the resistance to 85.5 Ω. From the observation, we can conclude that the best concentration for activating bentonit is 1.2 M. Keywords— Grounding Resistance, Activated Bentonit, Sulfuric acid.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17472",
+      "date": "2016-01",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published"
+    },
+    {
+      "datestamp": "2016-09-23 07:32:25",
+      "eprintid": 650,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "21-26",
+      "userid": 504,
+      "number": 1,
+      "lastmod": "2016-09-23 07:32:25",
+      "official_url": "http:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/211\/pdf",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash": "fe73d5e146a60bcd82465a297702ec85",
+                  "mime_type": "application\/pdf",
+                  "fileid": 3602,
+                  "datasetid": "document",
+                  "filename": "16_Jurnal Nasional Electrician Vol.10 No.1_Januari 2016.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3602",
+                  "objectid": 555,
+                  "filesize": 599064,
+                  "mtime": "2016-09-23 06:07:20",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "16_Jurnal Nasional Electrician Vol.10 No.1_Januari 2016.pdf",
+            "docid": 555,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/555",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 650
+          }
+      ],
+      "creators": [
+        {
+          "id": "ahmad.saudi@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Samosir",
+            "given": "Ahmad Saudi"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Implementasi Alat Ukur Kapasitansi Digital  (Digital Capacitance Meter) berbasis Mikrokontroler",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Karya Ilmiah ini mepresentasikan tentang Implementasi Alat Ukur Kapasitansi Digital berbasis Mikrokontroler. Kapasitansi Meter merupakan alat yang penting bagi seorang perancang elektronika, karena sangat berguna dalam perancangan dan pembuatan suatu rangkaian elektronika yang membutuhkan keakuratan nilai kapasitansi dari kapasitor yang digunakan. Pada tulisan ini dilakukan perancangan dan implementasi sebuah alat ukur kapasitansi secara digital (digital capacitance meter) menggunakan mikrokontroler.",
+      "volume": 10,
+      "date": "2016-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/650",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "ELECTRICIAN– Jurnal Rekayasa dan Teknologi Elektro",
+      "dir": "disk0\/00\/00\/06\/50",
+      "full_text_status": "public",
+      "issn": "1978-6042",
+      "status_changed": "2016-09-23 07:32:25",
+      "rev_number": 6,
+      "ispublished": "pub"
+    },
+    {
+      "date": "2016-08-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/394",
+      "abstract": "This paper presents the simulation and evaluation of Switched Inductor Boost Converter for PV Application under MATLAB \/Simulink software. This paper introduces a boost converter with high dc gain to increase the low output voltage of photovoltaic (PV) module. The inductor of the conventional boost converter is replaced with the switched inductor branch. As a result, the conversion gain ratio of the boost converter can be increased. Simulation results and analyses are provided to evaluate the operation of the converter.",
+      "volume": 11,
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "issn": "1819-6608",
+      "full_text_status": "public",
+      "status_changed": "2016-08-23 01:40:36",
+      "publisher": "Asian Research Publishing Network",
+      "publication": "ARPN Journal of Engineering and Applied Sciences",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/03\/94",
+      "official_url": "http:\/\/www.arpnjournals.org\/jeas\/research_papers\/rp_2016\/jeas_0816_4730.pdf",
+      "lastmod": "2016-08-23 01:40:36",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/359",
+            "eprintid": 394,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 359,
+            "main": "jeas_0816_4730.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-22 14:44:49",
+                  "filesize": 225146,
+                  "objectid": 359,
+                  "filename": "jeas_0816_4730.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/2159",
+                  "datasetid": "document",
+                  "fileid": 2159,
+                  "mime_type": "application\/pdf",
+                  "hash": "e5d2cc49e9a58a3a16f2b9286fd9af8c"
+                }
+            ]
+          }
+      ],
+      "userid": 504,
+      "number": 15,
+      "metadata_visibility": "show",
+      "pagerange": "9103-9109",
+      "datestamp": "2016-08-23 01:40:36",
+      "eprintid": 394,
+      "eprint_status": "archive",
+      "title": "SIMULATION AND EVALUATION OF SWITCHED INDUCTOR BOOST DC-DC CONVERTER FOR PV APPLICATION",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad Saudi",
+            "family": "Samosir",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ahmad.saudi@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "status_changed": "2020-02-20 06:48:50",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/81\/40",
+      "divisions": [
+        "FT5"
+      ],
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "patent_applicant": "Sri Ratna Sulistiyanti, FX. Arinto Setyawan, Afri Yudamson",
+      "abstract": "Mata kuliah Dasar Sistem Kendali ini dirancang untuk memberikan pemahaman tentang berbagai konsep sistem kendali; model- model sistem; tanggapan-tanggapan sistem; alihragam Laplace; model-model system dinamik; model- model diagram kotak; galat kondisi- tunak; kutub, nol, dan stabilitas, analisis Root-Locus; pengendali-pengendali; tanggapan frekuensi; perangkat keras sistem kendali; proses-proses diskret kendali; kendali digital langsung, alihragam z.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18140",
+      "date": "2016-10",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "family": "Setyawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "FX. Arinto"
+          }
+        },
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "given": "Sri Ratna"
+          }
+        },
+        {
+          "name": {
+            "given": "Afri",
+            "honourific": null,
+            "family": "Yudamson",
+            "lineage": null
+          },
+          "id": "afri.yudamson@eng.unila.ac.id"
+        }
+      ],
+      "type": "patent",
+      "title": "Buku Dasar Sistem Kendali",
+      "userid": 586,
+      "pages": 2,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31278",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18140,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "sertifikat_EC00201802038_DSK.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-20 05:09:38",
+                  "filesize": 3749792,
+                  "objectid": 31278,
+                  "filename": "sertifikat_EC00201802038_DSK.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/152773",
+                  "fileid": 152773,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "f160afa9ca011864b00c16651f7c8a54"
+                }
+            ],
+            "docid": 31278,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2020-02-20 06:48:50",
+      "eprintid": 18140,
+      "id_number": "EC00201802038",
+      "eprint_status": "archive",
+      "datestamp": "2020-02-20 06:48:50",
+      "metadata_visibility": "show"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "379-379",
+      "datestamp": "2021-03-05 09:24:39",
+      "eprint_status": "archive",
+      "eprintid": 28210,
+      "official_url": "https:\/\/ieeexplore.ieee.org\/document\/7886751",
+      "lastmod": "2021-03-05 09:24:39",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 42256,
+            "main": "11. Design of Frequency Generator and Amplifier Level Converter_2016.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "2e2caa0e3b75c26d27d6dc5f63e5a51d",
+                  "fileid": 251001,
+                  "datasetid": "document",
+                  "filename": "11. Design of Frequency Generator and Amplifier Level Converter_2016.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251001",
+                  "filesize": 40356313,
+                  "objectid": 42256,
+                  "mtime": "2021-03-05 08:57:41",
+                  "hash_type": "MD5"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42256",
+            "pos": 1,
+            "eprintid": 28210,
+            "placement": 1
+          }
+      ],
+      "userid": 663,
+      "title": "Design of Frequency Generator and Amplifier Level Converter Using 300nm CMOS Technology for Electro Capacitive Cancer Therapy (ECCT) Standard Operation Mode System",
+      "event_dates": "29-30 November 2016",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sinaga",
+            "honourific": null,
+            "given": "Febry Ramos"
+          }
+        },
+        {
+          "name": {
+            "given": "Syaiful",
+            "family": "Alam",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Komarudin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhamad"
+          }
+        },
+        {
+          "name": {
+            "given": "Helmy",
+            "honourific": null,
+            "lineage": null,
+            "family": "Fitriawan"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Bandung, Indonesia",
+      "subjects": [
+        "TK"
+      ],
+      "event_title": "2016 International Symposium on Electronics and Smart Devices (ISESD)",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28210",
+      "date": 2016,
+      "abstract": "Electro capacitive cancer therapy (ECCT) system are constructed by six sub-systems, in this paper presented design and simulation for two sub-system in ECCT namely frequency generator and amplifier level converter. Design of two sub-system become first study for ECCT system can be applying to the IC technology. Design process begins with understand ECCT standard operation mode signal specification like input signal voltage, output signal voltage, form and frequency. Then using ring oscillator, negative clamper biased, two stage operational amplifier (op amp) circuits that estimated can produce those signal specification and layout them based on BSIM 3.1 MOSFET model using 300nm CMOS technology. Simulation result show that the system layout can produce 19Vpp, 100 kHz and asymmetric output signal from 5 volt DC input signal.",
+      "event_type": "conference",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/02\/82\/10",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2021-03-05 09:24:39"
+    },
+    {
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2844",
+      "corp_creators": [
+        "Department of Electrical Engineering University of Lampung"
+      ],
+      "abstract": "Electro capacitive cancer therapy (ECCT) system are constructed by six sub-systems, in this paper presented design and simulation for two sub-system in ECCT namely frequency generator and amplifier level converter. Design of two sub-system become first study for ECCT system can be applying to the IC technology. Design process begins with understand ECCT standard operation mode signal specification like input signal voltage, output signal voltage, form and frequency. Then using ring oscillator, negative clamper biased, two stage operational amplifier (op amp) circuits that estimated can produce those signal specification and layout them based on BSIM 3.1 MOSFET model using 300nm CMOS technology. Simulation result show that the system layout can produce 19Vpp, 100 kHz and asymmetric output signal from 5 volt DC input signal.",
+      "subjects": [
+        "TK"
+      ],
+      "event_title": "2016 International Symposium on Electronics and Smart Devices (ISESD)",
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2017-06-02 20:46:32",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "dir": "disk0\/00\/00\/28\/44",
+      "divisions": [
+        "FT5"
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2702",
+            "pos": 1,
+            "eprintid": 2844,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "07886751.pdf",
+            "docid": 2702,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "6d7135dfbebbb71d88b5ffac123adc3b",
+                  "fileid": 19489,
+                  "datasetid": "document",
+                  "mtime": "2017-06-01 12:42:21",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19489",
+                  "filename": "07886751.pdf",
+                  "filesize": 977135,
+                  "objectid": 2702
+                }
+            ]
+          }
+      ],
+      "lastmod": "2017-06-02 20:46:32",
+      "official_url": "http:\/\/ieeexplore.ieee.org\/document\/7886751\/",
+      "userid": 663,
+      "pagerange": "376-379",
+      "metadata_visibility": "show",
+      "eprintid": 2844,
+      "eprint_status": "archive",
+      "datestamp": "2017-06-02 20:46:32",
+      "event_location": "Bandung, Indonesia",
+      "event_dates": "29-30 November 2016",
+      "refereed": "TRUE",
+      "title": "Design of Frequency Generator and Amplifier Level Converter Using 300nm CMOS Technology for Electro Capacitive Cancer Therapy (ECCT) Standard Operation Mode System",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sinaga",
+            "lineage": null,
+            "given": "Febry Ramos"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Komarudin",
+            "lineage": null,
+            "given": "Muhammad"
+          }
+        },
+        {
+          "name": {
+            "family": "Alam",
+            "lineage": null,
+            "honourific": null,
+            "given": "Syaiful"
+          }
+        },
+        {
+          "name": {
+            "given": "Helmy",
+            "lineage": null,
+            "family": "Fitriawan",
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "volume": 23,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1032",
+      "publication": "IEEE Transactions on Dielectrics and Electrical Insulation",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/10\/32",
+      "status_changed": "2016-11-02 01:14:18",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "lastmod": "2016-11-02 01:14:18",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sitorus",
+            "honourific": null,
+            "given": "Henry B.H."
+          },
+          "id": "hbhstr@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setiabudy",
+            "given": "Rudy"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Bismo",
+            "lineage": null,
+            "given": "Setijo"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Beroual",
+            "given": "Abderrahmane"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "title": "Jatropha Curcas Methyl Ester Oil Obtaining as Vegetable \r\nInsulating Oil",
+      "contact_email": "hbhstr@gmail.com",
+      "corp_creators": [
+        "Electrical Engineering Department, Engineering Faculty,   Universitas Lampung (Unila), Bandar Lampung, Indonesia",
+        "Engineering Faculty, Universitas Indonesia (UI), Depok, Indonesia",
+        "Ecole Centrale de Lyon, University of Lyon, Ampere CNRS UMR 5005,  36 avenue Guy Collongue, 69134 Ecully, France"
+      ],
+      "abstract": "This paper presents a new vegetable oil that is jatropha curcas seeds oil as a substitute \r\nfor  mineral  oil.  This  product  has  several  advantages  among  which  the  fact  that  it  is \r\nnon-food crops and may be grown on low fertile soils and areas where annual rainfall \r\nlevels are significantly lower than those required by other plants used to extract other \r\nvegetable  oils  such  as  rape-seeds,  sunflower,  corn,  soybeans,  grape-seeds  and  sesame. \r\nThe  considered  natural  ester  oil  is  processed  by  alkali  base  catalyzed  esterification \r\nprocess using potassium hydroxide (KOH) to produce jatropha curcas methyl ester oil \r\n(JMEO). The physicochemical (water content, relative density, viscosity, acidity, visual \r\nexamination,  color,  iodine  number,  corrosivity,  flash  point,  pour  point)  and  electrical \r\n(breakdown  voltage  under  ac,  dc  and  impulse  voltages)  properties  of  JMEO  are \r\npresented  and  discussed.  A  gas  chromatography  (GC)  analysis  is  also  achieved  to \r\nidentify  the  methyl  ester  components  in  JMEO.  The  breakdown  voltage  of  JMEO  is \r\ncompared to that of mineral oil (MO). It is found that the average breakdown voltage \r\nof JMEO and MO under different voltage waveforms are too close.",
+      "date": "2016-08",
+      "publisher": "IEEE",
+      "related_url": [
+        {
+          "url": "http:\/\/www.ieee.org\/index.html",
+          "type": "org"
+        }
+      ],
+      "full_text_status": "public",
+      "issn": "1070-9878",
+      "ispublished": "pub",
+      "keywords": "New  vegetable  oil,  Physicochemical  and  electrical  properties, \r\nbreakdown voltage, water content, viscosity, acidity.",
+      "referencetext": "REFERENCES \r\n[1]    T.  V.  Oommen,  C.  C.  Claiborne,  and  J.  T.  Mullen,  “Biodegradable \r\nelectrical  insulation  fluids,”  IEEE  Int'l.  Sympos.  Electr.  Insul.,  Illinois, \r\nUSA, pp. 465 - 468, 1997. \r\n[2]    C.  P.  McShane,  “Natural  and  synthetic  ester  dielectric  fluids:  their \r\nrelative  environmental,  fire  safety,  and  electrical  performance,”  IEEE \r\nIndustrial and Commercial Power Systems Technical Conf., p. 8, 1999. \r\n[3]    C.  P.  McShane,  “New  dielectric  coolant  concepts  for  distribution  and \r\npower transformers,” Pulp and Paper, Industry Technical Conf., pp. 55 –\r\n62, 1999. \r\n[4]    T.  V.  Oommen,  “Vegetable  oils  for  liquid-filled  transformers,”  IEEE \r\nElectr. Insul. Mag., Vol. 18, No. 1, pp. 6 –11, 2002. \r\n[5]    S.  Tenbohlen,  D.  Vukovic,  J.  Hathun,  S.  Barker,  and  R.  Frotscher, \r\n“Application  of  vegetable  oil-based  insulating  fluids  to  hermetically \r\nsealed power transformers,” Cigre, Paris, France, pp. A2–102, 2008. \r\n[6]    K.   Longva,   “Natural   Ester   Distribution   Transformers:   Improved \r\nReliability  and  Environmental  Safety,”  Nordic  Insul.  Sympos.–  Nord  - \r\nIS 05, Trondheim, Norway, pp. 293–295, 2005. \r\n[7]    A. K. M. A. Islam, Z. Yaakob, and N. Anuar, “Jatropha: A multipurpose \r\nplant  with  considerable  potential  for  the  tropics,”  Scientific  Research \r\nand Essays, Vol. 6, No. 13, pp. 2597–2605, 2011. \r\n[8]    B.  Reubens,  W.  M.  J.  Achten,  W.  H.  Maes,  F.  Danjon,  R.  Aerts,  J. \r\nPoesen, and B. Muys, “More than biofuel? Jatropha curcas root system \r\nsymmetry and potential for soil erosion control,” J. Arid Environ., Vol. \r\n75, No. 2, pp. 201–205, 2011. \r\n[9]    P.  Beerens,  Screw-pressing  of  Jatropha  seeds  for  fuelling  purposes  in \r\nless  developed  countries,  Thesis  for  The  Master  Sustainable  Energy \r\nTechnology at Eindhoven University, The Netherlands, 2007. \r\n[10]  S. Sepidar, Z. Abidin, R. Yunus and A. Muhammad, \"Extraction of oil \r\nfrom  Jatropha  Seeds-  Optimization  and  Kinetics\",  Am.  J.  Appl.  Sci., \r\nVol. 6, No. 7, pp. 1390-1395, 2009. \r\n[11]  A. Srivastava and R. Prasad, “Triglycerides-based diesel fuels,” Renew. \r\nSustain. Energy Rev., Vol. 4, No. 2, pp. 111–133, 2000. \r\n[12]  G. M. Gübitz, M. Mittelbach, and M. Trabi, “Exploitation of the tropical \r\noil seed plant Jatropha curcas L.,” Bioresour. Technol., Vol. 67, No. 1, \r\npp. 73–82, 1999. \r\n[13]  H.B.H.  Sitorus,  D.  Permata,  and  T.  Hariyadi,  “Pengaruh  Penyaringan \r\n(Filtering) terhadap Karakteristik Minyak Jarak Pagar sebagai Alternatif \r\nMinyak  Isolasi  Transformator  Daya,”  Seminar  Nasional  Sains  dan \r\nTeknologi III, Lampung - Indonesia, pp. 259–279, 2010. \r\n[14]  J.O. Olusola, M.M. Adediran, A.K. Oluseyi, and U.L. Ajao, “Processing \r\nOf   Triglycerides   To   Diesel   Range   Hydrocarbon   Fuels:   Easily \r\nPracticable Small Scale Approach,” Energy  Environment, Vol. 20, No. \r\n8, 2009 and Vol. 21, No. 1, pp. 1325–1341, 2010. \r\n[15]  M. A. Khan, S. Yusup, and M. M. Ahmad, “Acid esterification of a high \r\nfree  fatty  acid  crude  palm  oil  and  crude  rubber  seed  oil  blend: \r\nOptimization and parametric analysis,” Biomass Bioenergy, Vol. 34, No. \r\n12, pp. 1751–1756, 2010. \r\n[16]  H.  J.  Berchmans  and  S.  Hirata,  “Biodiesel  production  from  crude \r\nJatropha  curcas  L.  seed  oil  with  a  high  content  of  free  fatty  acids,” \r\nBioresour. Technol., Vol. 99, No. 6, pp. 1716–1721, 2008. \r\n[17]  A.  Kumar  Tiwari,  A.  Kumar,  and  H.  Raheman,  “Biodiesel  production \r\nfrom  jatropha  oil  (Jatropha  curcas)  with  high  free  fatty  acids:  An \r\noptimized  process,”  Biomass  Bioenergy,  Vol.  31,  No.  8,  pp.  569–575, \r\n2007. \r\n[18]  F.  Guo,  Z.  Fang,  X.-F.  Tian,  Y.-D.  Long,  and  L.-Q.  Jiang,  “‘One-step \r\nproduction of biodiesel from Jatropha oil with high-acid value in ionic \r\nliquids’, Bioresour. Technol., Vol. 102, No. 11, 2011, \r\n [19] IEEE Standard C57.147, IEEE Guide for Acceptance and Maintenance \r\nof Natural Ester Fluids in Transformers. pp. 1 –31, 2008. \r\n[20]  IEC   60156   Standard,   Insulating   Liquids   –   Determination   of   the \r\nBreakdown Voltage at Power Frequency – Test Method.  \r\n[21]  W. J. Dixon and A. M. Mood, “A Method for Obtaining and Analyzing \r\nSensitivity  Data,”  Am.  Stat.  Assoc.,  Vol.  43,  No.  241,  pp.  109–126, \r\n1948. \r\n[22]  ASTM D1298, Standard Test Method for Density, Relative Density, or \r\nAPI  Gravity  of  Crude  Petroleum  and  Liquid  Petroleum  Products  by \r\nHydrometer Method.  \r\n[23]  ASTM  D1500,  Standard  Test  Method  for  ASTM  Color  of  Petroleum \r\nProducts (ASTM Color Scale). . \r\n[24]  ASTM D130, Standard Test Method for Corrosiveness to Copper from \r\nPetroleum Products by Copper Strip Test.  \r\n[25]  ASTM  D97,  Standard  Test  Method  for  Pour  Point  of  Petroleum \r\nProducts.  \r\n[26]  ASTM  D92,  Standard  Test  Method  for  Flash  and  Fire  Points  by \r\nCleveland Open Cup Tester.  \r\n[27]  IEEE Standard 637, IEEE  Guide for the Reclamation of Insulating Oil \r\nand Criteria for Its Use.  \r\n[28]  S. Ketaren, “Pengantar  Teknologi  Minyak  dan  Lemak  Pangan, Edisi  \r\n1. Jakarta: Universitas Indonesia pers, 1986. \r\n[29]  V.  Dang,  A.  Beroual,  and  C.  Perrier,  “Comparative  study  of  statistical \r\nbreakdown  in  mineral,  synthetic  and  natural  ester  oils  under  AC \r\nvoltage,”  IEEE  Trans.  Dielectr.  Electr.  Insulation,  Vol.  19,  No.  5,  pp. \r\n1508–1513, 2012. \r\n[30]  C.  Perrier  and  A.  Beroual,  “Experimental  investigations  on  insulating \r\nliquids for power transformers: Mineral, ester, and silicone oils,” IEEE \r\nElectr. Insul. Mag., Vol. 25, No. 6, pp. 6 –13, 2009.",
+      "eprintid": 1032,
+      "eprint_status": "archive",
+      "datestamp": "2016-11-02 01:14:18",
+      "pagerange": "2021-2028",
+      "number": 4,
+      "userid": 1158,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 1032,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/922",
+            "security": "public",
+            "main": "IEEE TEDEI Vol 23 No 4_Henry_Only page 1.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 6663,
+                  "mime_type": "application\/pdf",
+                  "hash": "ed67f6d4316bc8021a2528e414cf2be4",
+                  "objectid": 922,
+                  "filesize": 644706,
+                  "filename": "IEEE TEDEI Vol 23 No 4_Henry_Only page 1.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6663",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-01 10:30:15"
+                }
+            ],
+            "docid": 922,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "official_url": "http:\/\/ieeexplore.ieee.org\/document\/7556474\/",
+      "refereed": "TRUE"
+    },
+    {
+      "date_type": "published",
+      "event_title": "Seminar Nasional Teknologi Informasi dan Aplikasinya",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Motor dc atau motor arus searah secara luas digunakan untuk berbagai aplikasi. Dalam beberapa aplikasi, kontrol\r\nkecepatan motor dc memegang peranan penting. Pengendalian kecepatan motor dc dapat dilakukan dengan\r\nmengubah tegangan masukan. Salah satu metode yang digunakan adalah untuk mengatur tegangan masukan\r\ndengan menggunakan pulse-width modulation (PWM) dan mikrokontroler memiliki fitur PWM di rangkaiannya.\r\nMakalah ini menyajikan sistem pengendalian kecepatan motor dc menggunakan perintah suara berbasis\r\nmikrokontroler Arduino. Dengan menggunakan sensor pengenalan suara EasyVR, hasil perbandingan suara yang\r\ndiucapkan dengan data suara yang telah direkam dikirim ke mikrokontroler dalam bentuk sinyal digital dengan\r\nnilai tertentu. Mikrokontroler kemudian akan mengirimkan sinyal ke rangkaian penggerak motor untuk\r\nmenggerakkan motor dc. Hasil penelitian menunjukkan bahwa untuk setiap kata yang diucapkan dapat\r\nmenggerakkan motor dc dengan kecepatan yang tidak jauh berbeda dengan kecepatan yang telah ditetapkan.\r\nDesain kata untuk setiap kecepatan 900 rpm, 1050 rpm, 1100 rpm dan 1150 rpm masing-masing dapat\r\nmenghasilkan kecepatan motor dc 900 rpm, 1048 rpm, 1096 rpm dan 1147 rpm",
+      "date": "2016-08-25",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3033",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/30\/33",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2017-06-05 01:48:08",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "datestamp": "2017-06-05 01:48:08",
+      "eprintid": 3033,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "C56-C60",
+      "userid": 412,
+      "lastmod": "2017-06-05 01:48:08",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Makalah SENTIA 2016 Noer dkk.pdf",
+            "docid": 2907,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "a34f40eafd135440e649287c88f54cb3",
+                  "fileid": 20947,
+                  "datasetid": "document",
+                  "mtime": "2017-06-02 04:26:03",
+                  "hash_type": "MD5",
+                  "filename": "Makalah SENTIA 2016 Noer dkk.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20947",
+                  "objectid": 2907,
+                  "filesize": 572470
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2907",
+            "pos": 1,
+            "eprintid": 3033,
+            "placement": 1
+          }
+      ],
+      "type": "conference_item",
+      "pres_type": "speech",
+      "creators": [
+        {
+          "id": "noersoedjarwanto@gmail.com",
+          "name": {
+            "given": "Noer",
+            "honourific": null,
+            "lineage": null,
+            "family": "Soedjarwanto"
+          }
+        },
+        {
+          "id": "oseaz2009@gmail.com",
+          "name": {
+            "family": "Zebua",
+            "lineage": null,
+            "honourific": null,
+            "given": "Osea"
+          }
+        }
+      ],
+      "title": "DESAIN DAN IMPLEMENTASI PENGENDALIAN KECEPATAN\r\nMOTOR DC MENGGUNAKAN SUARA",
+      "event_dates": "25-26 Agustus 2017",
+      "refereed": "TRUE",
+      "event_location": "Politeknik Negeri Malang"
+    },
+    {
+      "corp_creators": [
+        "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Perikanan, Fakultas Pertanian, Universitas Lampung",
+        "Jurusan Perikanan, Fakultas Pertanian, Universitas Lampung",
+        "Jurusan Teknologi Pertanian, Politeknik Negeri Lampung"
+      ],
+      "abstract": "Ikan teri (Stolephorus sp) merupakan sumberdaya alam yang melimpah di Indonesia. Seperti halnya produk ikan\r\nasin lainnya, mikroba merupakan faktor utama penyebab kerusakan dan menjadi permasalahan yang harus\r\nditanggulangi. Sebagian besar produsen ikan teri kering tidak memperhatikan cara penjemuran yang higienis.\r\nOleh karena itu dibuat TLD yang mempunyai spesifikasi dimensi 4 m x 7,5 m, menggunakan dua sistem blower yaitu turbin ventilator dan exhaust fan. Hasil pengeringan menggunakan TLD kadar air ikan teri 33,47%, kapasitas pengering 60kg. Selisih hasil pengeringan sebesar 40kg\/hari, jika dalam satu bulan (20 hari kerja), maka selisihnya 800kg\/bulan. Untuk harga netto ikan teri kering Rp 10.000,00\/kg, maka dalam satu bulan terjadi peningkatan pendapatan sebesar Rp 8.000.000,00. Selain terdapat peningkatan pendapatan sebesar 100%, penggunaan TLD lebih higienis.",
+      "date": "2016-07-30",
+      "projects": [
+        "HiLink yang berjudul Optimalisasi Produksi Dan Peningkatan Kualitas Produk Perikanan Dalam Mendukung Program Minapolitan Pulau Pasaran, Kota Bandar Lampung, tahun 2016"
+      ],
+      "publisher": "LPM Universitas Negeri Medan  Jalan Willem Iskandar, Pasar V Medan Estate, Kec.Medan Tembung, Sumatera Utara 20221",
+      "issn": "ISSN (cetak) : 0852-2715  ISSN (online) : 2502-7220",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "eprintid": 2979,
+      "eprint_status": "archive",
+      "datestamp": "2018-05-04 04:36:55",
+      "pagerange": "110-113",
+      "number": 3,
+      "userid": 586,
+      "documents": [
+          {
+            "format": "text",
+            "main": "Artikel JPKM SRS 2016.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 20593,
+                  "mime_type": "application\/pdf",
+                  "hash": "ef1e93c1cea3652939b8d00a0d1e96a5",
+                  "filesize": 902436,
+                  "objectid": 2860,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20593",
+                  "filename": "Artikel JPKM SRS 2016.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 03:22:08"
+                }
+            ],
+            "docid": 2860,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 2979,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2860",
+            "pos": 1
+          }
+      ],
+      "official_url": "http:\/\/jurnal.unimed.ac.id\/2012\/index.php\/jpkm\/issue\/view\/756",
+      "refereed": "TRUE",
+      "subjects": [
+        "T1"
+      ],
+      "date_type": "published",
+      "volume": 22,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2979",
+      "publication": "Jurnal Pengabdian Kepada Masyarakat",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/29\/79",
+      "funders": [
+        "DRPM Kemristekdikti"
+      ],
+      "status_changed": "2018-05-04 04:36:55",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "lastmod": "2018-05-04 04:36:55",
+      "creators": [
+        {
+          "name": {
+            "family": "Sulistiyanti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sri Ratna"
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ali",
+            "given": "Mahrus"
+          },
+          "id": "pakmahrusali@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Eko",
+            "honourific": null,
+            "family": "Efendi",
+            "lineage": null
+          },
+          "id": "idnefeocke@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Winarto",
+            "family": "Winarto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "win412to@polinela.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "PENGERINGAN LAPIS TIPIS (THIN LAYER DRYING\/TLD) IKAN TERI\r\nBERBASIS TENAGA SURYA",
+      "contact_email": "sr_sulistiyanti@eng.unila.ac.id"
+    },
+    {
+      "eprintid": 2976,
+      "eprint_status": "archive",
+      "datestamp": "2018-05-28 03:59:10",
+      "metadata_visibility": "show",
+      "userid": 586,
+      "documents": [
+          {
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19839",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 2976,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "05-Buku Ajar Pengolahan Citra.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-05-04 03:10:38",
+                  "filesize": 4552606,
+                  "objectid": 19839,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63055",
+                  "filename": "05-Buku Ajar Pengolahan Citra.pdf",
+                  "fileid": 63055,
+                  "datasetid": "document",
+                  "hash": "dec0dadd36ae4659eede40b5be9c5207",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 19839,
+            "format": "text"
+          }
+      ],
+      "pages": 0,
+      "lastmod": "2018-05-28 03:59:10",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "given": "Sri Ratna",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sulistiyanti"
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "given": "F.X. Arinto",
+            "lineage": null,
+            "family": "Setyawan",
+            "honourific": null
+          }
+        },
+        {
+          "id": "m.komarudin@eng.unila.ac.id",
+          "name": {
+            "given": "Muhamad",
+            "family": "Komarudin",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "isbn": "978-602-6324-12-2",
+      "refereed": "TRUE",
+      "title": "Pengolahan Citra, Dasar dan Contoh Penerapannya",
+      "place_of_pub": "Yogyakarta",
+      "contact_email": "sr_sulistiyanti@eng.unila.ac.id",
+      "subjects": [
+        "T1"
+      ],
+      "series": "Teknosain",
+      "corp_creators": [
+        "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung"
+      ],
+      "abstract": "Pengolahan Citra merupakan topic yang sangat menarik dan telah diaplikasikan dalam banyak hal. Hal penting yang dipelajari dalam topic ini antara lain: asal mula pengolahan citra, dasar-dasar citra digital, transformasi intensitas dan penapisan, pemulihan citra, pemampatan citra, dasar-dasar rekonstruksi citra, dan penguraian citra. Buku ini dirancang dengan pendekatan konsep sederhana pengolahan citra, dan dapat digunakan untuk mendukung perkuliahan pengolahan citra, dan bagi masyarakat yang ingin mempelajari secara cepat.",
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2976",
+      "projects": [
+        "Penelitian Fundamental 2015-2016"
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "Teknosain",
+      "dir": "disk0\/00\/00\/29\/76",
+      "funders": [
+        "DRPM Kemristekdikti"
+      ],
+      "status_changed": "2018-05-28 03:59:10",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 10
+    },
+    {
+      "pages": 2,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 8766,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21848",
+            "pos": 1,
+            "security": "public",
+            "docid": 21848,
+            "main": "sertifikat_EC00201802038.pdf",
+            "files": [
+                {
+                  "filesize": 3740750,
+                  "objectid": 21848,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85369",
+                  "filename": "sertifikat_EC00201802038.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-08-29 06:26:56",
+                  "fileid": 85369,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "de202e3db8b916a1c8d13f57c86120c9"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "content": "published"
+          }
+      ],
+      "lastmod": "2020-02-20 06:48:33",
+      "userid": 586,
+      "metadata_visibility": "show",
+      "id_number": 100940,
+      "eprintid": 8766,
+      "eprint_status": "archive",
+      "datestamp": "2020-02-20 06:48:33",
+      "title": "Dasar Sistem Kendali",
+      "type": "patent",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sulistiyanti",
+            "lineage": null,
+            "given": "Sri Ratna"
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setyawan",
+            "given": "FX. Arinto"
+          },
+          "id": "fx.arinto@eng.unila.ac.id"
+        },
+        {
+          "id": "afri.yudamson@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Yudamson",
+            "honourific": null,
+            "given": "Afri"
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8766",
+      "date": 2016,
+      "patent_applicant": "Sri Ratna Sulistiyanti",
+      "corp_creators": [
+        "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung"
+      ],
+      "abstract": "Buku Ajar Dasar Sistem Kendali",
+      "subjects": [
+        "T201"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2020-02-20 06:48:33",
+      "full_text_status": "public",
+      "dir": "disk0\/00\/00\/87\/66",
+      "divisions": [
+        "FT5"
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2021-01-18 01:06:21",
+      "full_text_status": "public",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/02\/73\/22",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27322",
+      "date": "2016-10-01",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "patent_applicant": "LPPM Universitas Lampung",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "title": "Surat pencatatan ciptaan buku DSK dan karya yang dinilai",
+      "creators": [
+        {
+          "name": {
+            "given": "Sri Ratna",
+            "honourific": null,
+            "family": "Sulistiyanti",
+            "lineage": null
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "FX. Arinto",
+            "family": "Setyawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "fx.arinto@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Yudamson",
+            "lineage": null,
+            "honourific": null,
+            "given": "Afri"
+          },
+          "id": "afri.yudamson@eng.unila.ac.id"
+        }
+      ],
+      "type": "patent",
+      "documents": [
+          {
+            "eprintid": 27322,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41328",
+            "format": "text",
+            "docid": 41328,
+            "main": "Ciptaan DSK dan lampiran.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-01-15 02:37:18",
+                  "objectid": 41328,
+                  "filesize": 5783091,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/244509",
+                  "filename": "Ciptaan DSK dan lampiran.pdf",
+                  "fileid": 244509,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "7817e9134d848c41ffb1d0b24b8dbf59"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2021-01-18 01:06:21",
+      "userid": 586,
+      "metadata_visibility": "show",
+      "id_number": "EC00201802038",
+      "eprint_status": "archive",
+      "eprintid": 27322,
+      "datestamp": "2021-01-18 01:06:21"
+    },
+    {
+      "pagerange": "4810-4816",
+      "eprintid": 1105,
+      "eprint_status": "archive",
+      "datestamp": "2016-11-09 06:58:01",
+      "documents": [
+          {
+            "eprintid": 1105,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/987",
+            "format": "text",
+            "docid": 987,
+            "main": "Melvi Ulvan.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7287",
+                  "filename": "Melvi Ulvan.pdf",
+                  "objectid": 987,
+                  "filesize": 461220,
+                  "mtime": "2016-11-09 05:16:04",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "b952c7b06e31e9f475d44524b8a288fb",
+                  "datasetid": "document",
+                  "fileid": 7287
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "http:\/\/www.arpnjournals.org\/jeas\/",
+      "number": 7,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CRP"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 534,
+      "refereed": "TRUE",
+      "date": "2016-04-11",
+      "projects": [
+        "SMARTMOB: Smartcity - Smart Mobility"
+      ],
+      "corp_creators": [
+        "University of Lampung",
+        "University of Lampung",
+        "University of Lampung",
+        "State Polytechnic of Medan"
+      ],
+      "abstract": "This  paper presented  the  analysis  of  communication  process  and determine  the   performance  parameters  of \r\nintegrated IMS, i.e., jitter, max delta, and delay. An IMS core network testbed based on OpenIMSCore is developed, in \r\nwhich the clients have access through wired LAN and WiFi access points. The characteristics and performance of both \r\naccess methods are compared and studied.  The OpenIMSCore served clients well and produce communication processes \r\nin accordance with the SIP standards of RFC 3261. Based on the results of comparison testing using wired LAN and WiFi \r\naccess  points,  it  can  be  concluded  that  the  QoS  through  wired  LAN  access  fulfilled  the  QoS requirements  and recommendation of standards set by the ITU-T, whereas the QoS through WiFi access does not meet the ITU-T standards.",
+      "publisher": "Asian Research Publishing Network",
+      "related_url": [
+        {
+          "url": "http:\/\/www.arpnjournals.org\/jeas\/research_papers\/rp_2016\/jeas_0416_4029.pdf",
+          "type": "pub"
+        }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "1819-6608",
+      "metadata_visibility": "show",
+      "lastmod": "2016-11-09 06:58:01",
+      "title": "THE ANALYSIS OF SIGNALLING PROCESS OF THE SERVICES IN INTEGRATED IMS",
+      "creators": [
+        {
+          "id": "melvi@eng.unila.ac.id",
+          "name": {
+            "given": "Melvi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ulvan"
+          }
+        },
+        {
+          "name": {
+            "family": "Ulvan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ardian"
+          },
+          "id": "ardian.ulvan@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Damayanti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Oktaviana"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Pranoto",
+            "given": "Heru"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "contact_email": "melvi@eng.unila.ac.id",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1105",
+      "volume": 11,
+      "funders": [
+        "MP3EI  Research Grant 2015 No: 164\/UN26\/8\/LPPM\/2015"
+      ],
+      "publication": "ARPN Journal of Engineering and Applied Sciences",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/11\/05",
+      "rev_number": 9,
+      "status_changed": "2016-11-09 06:58:01"
+    },
+    {
+      "datestamp": "2020-06-12 04:04:31",
+      "eprintid": 22293,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 586,
+      "lastmod": "2020-06-12 04:04:31",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 35712,
+            "main": "Meet Quality Classification (P).pdf",
+            "files": [
+                {
+                  "objectid": 35712,
+                  "filesize": 918112,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/205007",
+                  "filename": "Meet Quality Classification (P).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-11 11:06:26",
+                  "fileid": 205007,
+                  "datasetid": "document",
+                  "hash": "38faadb053642eda377baec1d86a67ea",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35712",
+            "eprintid": 22293,
+            "placement": 1
+          }
+      ],
+      "creators": [
+        {
+          "id": "titin.yulianti@eng.unila.ac.id",
+          "name": {
+            "family": "Yulianti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Titin"
+          }
+        },
+        {
+          "name": {
+            "given": "Afri",
+            "family": "Yudamson",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "afri.yudamson@eng.unila.ac.id"
+        },
+        {
+          "id": "hery@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Septama",
+            "lineage": null,
+            "given": "Hery Dian"
+          }
+        },
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "given": "Sri Ratna",
+            "lineage": null,
+            "family": "Sulistiyanti",
+            "honourific": null
+          }
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setyawan",
+            "given": "FX. Arinto"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Peer Review Karya Ilmiah : Prosiding dengan judul Meet Quality Classification Based on Color Intensity Measurement Method",
+      "subjects": [
+        "TK"
+      ],
+      "date": "2016-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22293",
+      "publisher": "Institut Teknologi Bandung",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/02\/22\/93",
+      "full_text_status": "public",
+      "status_changed": "2020-06-12 04:04:31",
+      "rev_number": 8,
+      "ispublished": "pub"
+    },
+    {
+      "date": "2016-11-29",
+      "abstract": "The fresh and defective beef identification by consumers is subjectively through visual observation. However,\r\nidentifying beef quality manually has disadvantage, there is human visual limitations, differences in human perception in assessing the quality of an object, and ability of each individual knowledge are different. Therefore, we need a technological device that can be applied to identify the quality of beef that can be used by people. The aim of this research is measuring the\r\npercentage of color intensity average from R, G, and B channel. The fresh and defective beef is identified using feature of the beef image. That feature is percentages of intensity average value from R (red), G (green), and B (blue) channel. The optimal feature is gotten based on the percentage values. The feature is gotten by using image processing method. The percentage of R channel intensity average value is defined, which can be used\r\nto classify the fresh and defective beef. The percentage of R channel intensity is consecutively decrease on every 4 hours. It is shown on each beef sample. The R channel of the fresh image has higher percentage of intensity average value than the defective beef. The fresh beef has 56.38% to 66.33% of the R channel intensity average. whereas the defective beef has 37.76% to 51.71% of the R channel intensity.\r\n\r\nKeywords—percentage of intensity average, beef quality\r\nclassification, image pocessing.",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "related_url": [
+        {
+          "type": "org"
+        }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "pagerange": "248-252",
+      "datestamp": "2018-05-28 03:57:43",
+      "eprint_status": "archive",
+      "eprintid": 2849,
+      "official_url": "http:\/\/isesd.stei.itb.ac.id",
+      "documents": [
+          {
+            "eprintid": 2849,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2725",
+            "format": "text",
+            "main": "Meat Quality Classification Based on Color Intensity Measurement Method(1).pdf",
+            "docid": 2725,
+            "files": [
+                {
+                  "filesize": 1957301,
+                  "objectid": 2725,
+                  "filename": "Meat Quality Classification Based on Color Intensity Measurement Method(1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19580",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-01 13:14:40",
+                  "datasetid": "document",
+                  "fileid": 19580,
+                  "mime_type": "application\/pdf",
+                  "hash": "5ada27e485e57ec50aeb8e1ac1134d0b"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 586,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Yulianti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Titin"
+          },
+          "id": "titin.yulianti@eng.unila.ac.id"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Afri",
+            "honourific": null,
+            "family": "Yudamson",
+            "lineage": null
+          },
+          "id": "afri.yudamson@eng.unila.ac.id"
+        },
+        {
+          "id": "hery@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Hery Dian",
+            "honourific": null,
+            "lineage": null,
+            "family": "Septama"
+          }
+        },
+        {
+          "id": "sriratnasulistiyanti@eng.unila.ac.id",
+          "name": {
+            "family": "Sulistiyanti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sri Ratna"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "FX Arinto",
+            "honourific": null,
+            "family": "Setyawan",
+            "lineage": null
+          }
+        },
+        {
+          "id": "mareli.talaumbanua@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Talaumbanua",
+            "given": "Mareli"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "event_dates": "29-30 November 2016",
+      "refereed": "FALSE",
+      "pres_type": "paper",
+      "event_location": "Bandung",
+      "date_type": "published",
+      "event_title": "International Symposium on Electronics and Smart Devices",
+      "subjects": [
+        "QA75"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2849",
+      "event_type": "conference",
+      "dir": "disk0\/00\/00\/28\/49",
+      "divisions": [
+        "FT5"
+      ],
+      "rev_number": 15,
+      "status_changed": "2018-05-28 03:57:43",
+      "metadata_visibility": "show",
+      "lastmod": "2018-05-28 03:57:43",
+      "title": "Meat Quality Classification Based on Color Intensity\r\nMeasurement Method",
+      "creators": [
+        {
+          "id": "titin.yulianti@eng.unila.ac.id",
+          "name": {
+            "given": "Titin",
+            "honourific": null,
+            "family": "Yulianti",
+            "lineage": null
+          }
+        },
+        {
+          "id": "afri.yudamson@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yudamson",
+            "given": "Afri"
+          }
+        },
+        {
+          "name": {
+            "family": "Septama",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hery Dian"
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "id": "sriratnasulistiyanti@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sulistiyanti",
+            "given": "Sri Ratna"
+          }
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setyawan",
+            "given": "FX. Arinto"
+          }
+        },
+        {
+          "name": {
+            "family": "Telaumbanua",
+            "lineage": null,
+            "honourific": null,
+            "given": "Marely"
+          },
+          "id": "telaumbanua.mareli@fp.unila.ac.id"
+        }
+      ],
+      "type": "conference_item"
+    },
+    {
+      "number": 3,
+      "userid": 412,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 2894,
+            "main": "325-1002-2-PB.pdf",
+            "files": [
+                {
+                  "objectid": 2894,
+                  "filesize": 1041998,
+                  "filename": "325-1002-2-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20866",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 04:08:19",
+                  "fileid": 20866,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "d20568c533893b320c987ce71c28251d"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2894",
+            "eprintid": 3018,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2017-06-05 01:46:11",
+      "official_url": "http:\/\/jnte.ft.unand.ac.id\/index.php\/jnte",
+      "eprintid": 3018,
+      "eprint_status": "archive",
+      "datestamp": "2017-06-05 01:46:11",
+      "pagerange": "405-413",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Zebua",
+            "lineage": null,
+            "honourific": null,
+            "given": "Osea"
+          },
+          "id": "oseaz2009@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Setiawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Angga Hidson"
+          },
+          "id": "hidsonsetiawan@gmail.com"
+        },
+        {
+          "id": "noersoedjarwanto@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Soedjarwanto",
+            "honourific": null,
+            "given": "Noer"
+          }
+        },
+        {
+          "id": "aharis@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Haris",
+            "lineage": null,
+            "given": "Abdul"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "RANCANG BANGUN ALAT MONITORING KETIDAKSEIMBANGAN BEBAN PADA JARINGAN TEGANGAN MENENGAH",
+      "volume": 5,
+      "abstract": "Ketidakseimbangan beban merupakan gangguan yang dapat merusak transformator daya di jaringan tegangan menengah. Ketidakseimbangan beban atau ketidakseimbangan arus yang besar menyebabkan pemanasan pada belitan transformator dan menyebabkan kerusakan fatal bila berlangsung pada waktu yang lama. Salah satu cara untuk mencegah kerusakan ini adalah dengan memonitoring persentase ketidakseimbangan beban atau ketidakseimbangan arus di jaringan tegangan menengah. Makalah ini menyajikan perancangan dan pembuatan alat monitoring ketidakseimbangan beban pada jaringan tegangan menengah. Mikrokontroler Arduino digunakan sebagai pengendali utama. Sensor arus dan sensor tegangan digunakan untuk memperoleh data arus dan tegangan setiap saat. Hasil monitoring ketidakseimbangan beban yang melebihi nilai yang sudah ditentukan dikirim ke sistem peringatan dan handphone. Hasil pengujian pada sisi sekunder transformator daya menunjukkan bahwa peralatan dapat memonitoring ketidakseimbangan beban (arus) dengan perbedaan maksimum 0,17%, ketidakseimbangan tegangan dengan perbedaan maksimum 0,033% dan arus netral dengan perbedaan maksimum 3,29A dibandingkan dengan nilai-nilai sebenarnya. Alat monitoring juga mampu mengirimkan data arus ke sistem peringatan bunyi dan ke handphone bila persentase ketidakseimbangan beban (arus) melebihi nilai yang sudah ditentukan, yakni 30%.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3018",
+      "date": "2016-11",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "status_changed": "2017-06-05 01:46:11",
+      "full_text_status": "public",
+      "issn": "2302-2949",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publisher": "Jurusan Teknik Elektro Fakultas Teknik Universitas Lampung",
+      "publication": "Jurnal Nasional Teknik Elektro",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/30\/18"
+    }
+]
+

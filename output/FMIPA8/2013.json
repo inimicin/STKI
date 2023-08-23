@@ -1,0 +1,258 @@
+[
+    {
+      "event_title": "Prosiding Seminar dan Rapat Tahunan BKS PTN Barat 2013",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "date": "2013-05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/699",
+      "abstract": "Permasalahan Chinese Postman Problem adalah bagaimana seorang tukang pos akan mengantarkan surat\r\nke alamat-alamat sepanjang jalan di suatu daerah dan bagaimana ia merencanakan rute perjalanannya supaya ia\r\nmelewati setiap jalan tepat sekali dan kembali lagi ke tempat awal keberangkatannya dengan jarak \/ waktu \/ ongkos\r\nseminimal mungkin. Lintasan dan sirkuit yang digunakan dalam penelitian ini adalah lintasan dan sirkuit Euler. Pada\r\npenelitian ini algoritma Greedy dibandingkan dengan Program Dinamis untuk menyelesaikan permasalahan Chinese\r\nPostman dengan menggunakan peta wilayah kelurahan Kedaton Bandar Lampung sebagai contoh. Hasil penelitian\r\nmenunjukan bahwa metode Program Dinamis menghasilkan nilai yang lebih baik.\r\n\r\nKata Kunci. Chinese Postman Problem, Sirkuit Euler, algortima Greedy, program dinamis.",
+      "event_type": "conference",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "dir": "disk0\/00\/00\/06\/99",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2016-10-03 01:22:39",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 699,
+      "datestamp": "2016-10-03 01:22:39",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/594",
+            "eprintid": 699,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Prosiding BKS BTN B 2013 Yudi Wamil Fitriani.pdf",
+            "docid": 594,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 3931,
+                  "hash": "9a21d9ee224233cff5b35a46dd6e210d",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-30 08:20:48",
+                  "objectid": 594,
+                  "filesize": 1096554,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3931",
+                  "filename": "Prosiding BKS BTN B 2013 Yudi Wamil Fitriani.pdf"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2016-10-03 01:22:39",
+      "userid": 791,
+      "refereed": "TRUE",
+      "title": "PERBANDINGAN PROGRAM DINAMIS DAN ALGORITMA GREEDY\r\nDALAM MENYELESAIKAN MASALAH CHINESE POSTMAN PROBLEM",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Munthe",
+            "honourific": null,
+            "given": "Yudhi P"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wamiliana",
+            "lineage": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Fitriani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Fitriani"
+          },
+          "id": "."
+        }
+      ],
+      "event_location": "Bandarlampung"
+    },
+    {
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "projects": [
+        "Seminar dan Rapat Tahunan"
+      ],
+      "date": "2013-05-10",
+      "abstract": "We proved an orthogonality property of the solution found by deriving exact solution of the unsteady slip flow Newtonian fluid through rectangular micro-channels.",
+      "corp_creators": [
+        "Jurusan Matematika FMIPA Unila"
+      ],
+      "event_location": "Universitas Lampung, Bandar Lampung",
+      "refereed": "TRUE",
+      "event_dates": "10 - 12 Mei 2013",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21824",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 8739,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "75d0156f7f720dc5d350eeb8d7208cac",
+                  "fileid": 85217,
+                  "datasetid": "document",
+                  "mtime": "2018-08-24 02:19:55",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85217",
+                  "filename": "ORTOGONALITAS SOLUSI ANALITIK.pdf",
+                  "objectid": 21824,
+                  "filesize": 3576988
+                }
+            ],
+            "main": "ORTOGONALITAS SOLUSI ANALITIK.pdf",
+            "docid": 21824,
+            "format": "text"
+          }
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 845,
+      "pagerange": "611-613",
+      "datestamp": "2018-10-29 04:15:44",
+      "eprintid": 8739,
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "status_changed": "2018-10-29 04:15:44",
+      "event_type": "conference",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "divisions": [
+        "FMIPA8"
+      ],
+      "dir": "disk0\/00\/00\/87\/39",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8739",
+      "date_type": "published",
+      "event_title": "Seminar Nasional dan Rapat Tahunan Bidang MIPA BKS PTN Barat",
+      "subjects": [
+        "QA"
+      ],
+      "title": "ORTOGONALITAS SOLUSI ANALITIK MASALAH NILAI BATAS MODEL ALIRAN FLUIDA PADA SALURAN MICRO SEGI-EMPAT",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suharsono",
+            "lineage": null,
+            "given": "Suharsono"
+          },
+          "id": "suharsono.1962@fmipa.unila.ac.id"
+        }
+      ],
+      "lastmod": "2018-10-29 04:15:44",
+      "metadata_visibility": "show"
+    },
+    {
+      "divisions": [
+        "FMIPA8"
+      ],
+      "publisher": "Universitas Bandar Lampung",
+      "publication": "International Journal of Engineering and Technology Development",
+      "dir": "disk0\/00\/00\/03\/16",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2337-3180",
+      "status_changed": "2016-08-18 04:57:21",
+      "subjects": [
+        "Q1"
+      ],
+      "date": "2013-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/316",
+      "abstract": "Given edge weighted graph G (all weights are nonnegative),\r\nThe Degree Constrained Minimum Spanning Tree Problem is concerned with finding the minimum weight spanning tree T satisfying specified degree restrictions on the vertices. This problem arises naturally in communication networks where the degree of a vertex represents the number of\r\nline interfaces available at a terminal (center). The\r\napplications of the Degree Constrained Minimum Spanning\r\nTree problems that may arise in real-life include: the design of telecommunication, transportation, and energy networks. It is also used as a subproblem in the design of networks for computer communication, transportation, sewage and plumbing. Since, apart from some trivial cases, the problem is computationally difficult (NP-complete), a number of heuristics have been proposed. In this paper we will discuss the modification of CW1 Algorithm that already proposed by Wamiliana and Caccetta (2003). The results on540 random table problems will be discussed. \r\n\r\nKeywords— Minimum spanning tree; CW1 Algorithm ; \r\nDegree constrained",
+      "volume": 1,
+      "title": "The Modified CW1 Algorithm\r\nFor The Degree Restricted Minimum Spanning Tree Problem",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wamiliana",
+            "given": "Wamiliana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Louis",
+            "honourific": null,
+            "family": "Caccetta",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "32-36",
+      "datestamp": "2016-08-18 04:57:21",
+      "eprintid": 316,
+      "eprint_status": "archive",
+      "lastmod": "2016-08-18 04:57:21",
+      "official_url": "http:\/\/id.portalgaruda.org\/?ref=browse&mod=viewjournal&journal=4024",
+      "documents": [
+          {
+            "eprintid": 316,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/309",
+            "format": "text",
+            "main": "ipi158418_2, IJEST paper.pdf",
+            "docid": 309,
+            "files": [
+                {
+                  "fileid": 1804,
+                  "datasetid": "document",
+                  "hash": "e689c619dc0499eba134f2678140f7f2",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-18 02:40:09",
+                  "objectid": 309,
+                  "filesize": 285506,
+                  "filename": "ipi158418_2, IJEST paper.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1804"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 791,
+      "number": 2
+    }
+]
+

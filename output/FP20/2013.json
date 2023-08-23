@@ -1,0 +1,222 @@
+[
+    {
+      "publisher": "Bioflux Publishing House",
+      "publication": "AACL Bioflux",
+      "dir": "disk0_bak\/00\/04\/81\/70",
+      "divisions": [
+        "FP20"
+      ],
+      "status_changed": "2023-01-30 06:58:53",
+      "issn": "ISSN 1844-9166 (online)  ISSN 1844-8143 (print)",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "subjects": [
+        "Q1"
+      ],
+      "date_type": "published",
+      "volume": 16,
+      "abstract": "The water quality index (WQI) is a widely used metric for assessing the quality of water. However, the current WQI is primarily used for freshwater, and no particular study has been conducted for estuarine waters, particularly for tidal lakes (or coastal lakes). In this study, the Siombak Water Quality Index (SWQI) is a composite of the characteristics of tide-influenced lake waters and estuaries, and it was developed by following 4 steps: 1) selection of key parameters that were adjusted to the characteristics of Lake Siombak waters, 2) determination of weight (wi) in order to ascertain the relative importance (influence) of parameters in determining the water quality via PCA, 3) determination of subindex values, and 4) determination of the aggregate index. In Lake Siombak, 14 physical and chemical parameters were selected and measured throughout the year. Organic matter, dissolved and suspended matter, phosphate, and discharge are the most significant variables in Lake Siombak, both at high and low tides. As a result, Lake Siombak's primary pollutants are organic matter, suspended matter, and nutrients. According to the SWQI analysis, the water quality in Lake Siombak is better at high tide than at low tide. Water conditions are worse during the dry season (February-August) than during the rainy season (Septrmber-January).",
+      "date": "2013-01-28",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48170",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Muhtadi",
+            "lineage": null,
+            "given": "Muhtadi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulianda",
+            "given": "Fredinan"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Mennofatria",
+            "lineage": null,
+            "family": "Boer",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Krisanti",
+            "honourific": null,
+            "given": "Majariana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Etty",
+            "lineage": null,
+            "family": "Riani",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "LEIDONALD",
+            "honourific": null,
+            "given": "RUSDI"
+          }
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "name": {
+            "given": "Qadar",
+            "honourific": null,
+            "family": "Hasani",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Cordova",
+            "given": "Muhammad R"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Assessment of pollution status of tropical coastal lakes using modified Water Quality Index (WQI) based on physio-chemical parameters",
+      "eprint_status": "archive",
+      "id_number": "http:\/\/www.bioflux.com.ro\/docs\/2023.356-370.pdf",
+      "eprintid": 48170,
+      "datestamp": "2023-01-30 06:58:53",
+      "pagerange": "356-370",
+      "metadata_visibility": "show",
+      "number": 1,
+      "contributors": [
+        {
+          "id": null,
+          "name": {
+            "given": "Ahmad",
+            "honourific": null,
+            "lineage": null,
+            "family": "Muhtadi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Fredinan",
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulianda"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Mennofatria",
+            "lineage": null,
+            "family": "Boer",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Majariana",
+            "honourific": null,
+            "lineage": null,
+            "family": "Krisanti"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Etty",
+            "family": "Riani",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Leidonald",
+            "given": "Rusdi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hasani",
+            "honourific": null,
+            "given": "Qadar"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Cordova",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhammad R"
+          }
+        }
+      ],
+      "userid": 535,
+      "documents": [
+          {
+            "main": "2023. AACL Bioflux Muhtadi 356-370 (Q3).pdf",
+            "files": [
+                {
+                  "fileid": 526521,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "278366c73de1124fca5ae6645aef6dbb",
+                  "objectid": 187403,
+                  "filesize": 482637,
+                  "filename": "2023. AACL Bioflux Muhtadi 356-370 (Q3).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526521",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-30 04:55:03"
+                }
+            ],
+            "docid": 187403,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 48170,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187403",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-01-30 06:58:53",
+      "official_url": "http:\/\/www.bioflux.com.ro\/home\/volume-16-1-2023\/"
+    }
+]
+

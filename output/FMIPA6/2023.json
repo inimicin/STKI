@@ -1,0 +1,389 @@
+[
+    {
+      "ispublished": "pub",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "issn": "1661-9897",
+      "status_changed": "2023-05-08 02:07:58",
+      "publisher": "Trans Tech Publications",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "publication": "Journal of Nano Research",
+      "dir": "disk0_bak\/00\/05\/11\/82",
+      "date": "2023-04-19",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51182",
+      "abstract": "In this study, silver-silica (Ag\/SiO2) was synthesized using the sol-gel method by silica from rice husks. Silica derived from rice husk waste was previously synthesized using the sol-gel method. In addition, the Ag material used in this study was also performed into silver nanoparticles (AgNPs). This method was chosen to obtain an Ag\/SiO2 composite with nano size and high purity. AgNPs were synthesized using silver nitrate (AgNO3) by reduction method at 90 oC. The reducing agent and stabilizer used is trisodium citrate. UV-Vis, FTIR, XRD, and SEM-EDX were used to analyze Ag\/SiO2 composites. Uv-Vis analysis results Ag\/SiO2 has an absorption peak at a wavelength of 412 nm with a bandgap energy of 2.25 eV. These peaks indicate that AgNPs have formed in the SiO2 membrane. The FTIR results revealed the Si-O-Si bonds which indicated the presence of silica\r\nand the Ag-O functional group, and the presence of AgNPs. The results of XRD analysis showed that the silica structure formed was cristobalite and silver crystals in the face center cubic (fcc) shape. The results of the SEM-EDX morphological analysis showed that the Ag\/SiO2 nanocomposite was shaped like sharp stone chips and the presence of small granules (granules) with different particle sizes and shapes, slightly porous and the composition of the compounds in the Ag\/SiO2 nanocomposite indicated the presence of various chemical elements in the sample, including carbon, oxygen, sodium, silica, and silver.",
+      "volume": 78,
+      "date_type": "published",
+      "subjects": [
+        "QC"
+      ],
+      "title": "Synthesis and Characterization of Ag\/SiO2 Nanocomposite Based on Rice Husk Silica Using Sol-Gel Method",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Junaidi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Junaidi"
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "id": "iqbal.firdaus@fmipa.unila.ac.id",
+          "name": {
+            "given": "I.F",
+            "family": "Iqbal Firdaus",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Posman Manurung",
+            "honourific": null,
+            "given": "Posman"
+          },
+          "id": "posman65@unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Pulung",
+            "lineage": null,
+            "family": "Karo Karo",
+            "honourific": null
+          },
+          "id": "pulung.karokaro@gmail.com"
+        }
+      ],
+      "lastmod": "2023-05-08 02:07:58",
+      "official_url": "https:\/\/www.scientific.net\/JNanoR.78.31",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/550008",
+                  "filename": "JNanoR.78.31.pdf",
+                  "objectid": 190908,
+                  "filesize": 1546992,
+                  "mtime": "2023-05-08 01:03:20",
+                  "hash_type": "MD5",
+                  "hash": "b51397be931e058c21bb682dfb79c348",
+                  "mime_type": "application\/pdf",
+                  "fileid": 550008,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "JNanoR.78.31.pdf",
+            "docid": 190908,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 51182,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190908",
+            "security": "public"
+          }
+      ],
+      "userid": 181,
+      "number": 2,
+      "metadata_visibility": "show",
+      "pagerange": "31-42",
+      "datestamp": "2023-05-08 02:07:58",
+      "id_number": "https:\/\/doi.org\/10.4028\/p-54swgk",
+      "eprint_status": "archive",
+      "eprintid": 51182
+    },
+    {
+      "lastmod": "2023-05-08 02:05:08",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/2698",
+      "documents": [
+          {
+            "main": "2698-21590-2-PB.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "75191102ab280fe0e453fe0c8ff17f5d",
+                  "fileid": 549785,
+                  "datasetid": "document",
+                  "filename": "2698-21590-2-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/549785",
+                  "objectid": 190872,
+                  "filesize": 684177,
+                  "mtime": "2023-05-07 01:22:18",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 190872,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 51150,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190872",
+            "security": "public"
+          }
+      ],
+      "userid": 181,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "123-130",
+      "datestamp": "2023-05-08 02:05:08",
+      "eprintid": 51150,
+      "id_number": "http:\/\/dx.doi.org\/10.23960%2Fjtaf.v11i1.2698",
+      "eprint_status": "archive",
+      "title": "Pengaruh Pencampuran Etilen Glikol dan Propilen Glikol Terhadap Sifat Optik Kawat Nano Perak yang Disintesis Menggunakan Metode Polyol",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Junaidi",
+            "given": "Junaidi"
+          },
+          "id": "junaidi.1982@fmipa.unila.ac.id"
+        },
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "family": "Sembiring",
+            "lineage": null,
+            "honourific": null,
+            "given": "Simon"
+          }
+        },
+        {
+          "id": "roniyus.1977@fmipa.unila.ac.id",
+          "name": {
+            "given": "Roniyus",
+            "lineage": null,
+            "family": "Marjunus",
+            "honourific": null
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51150",
+      "date": "2023-01-31",
+      "abstract": "Telah dilakukan penelitian yang bertujuan untuk melihat pengaruh dari pencampuran etilen glikol (EG) dan propilen glikol (PG) terhadap sifat optik kawat nano perak (AgNWs) yang didintesis menggunakan metode polyol. Sintesis dilakukan selama ±5 jam pada suhu 130 ºC di dalam tabung erlenmeyer. Bahan yang digunakan berupa perak (Ag) yang didapatkan dari AgNO3, larutan campuran  EG\/PG dengan perbandingan konsentrasi  100:0%;  75:25%;  50:50%;  25:75%;  dan  0:100%,  FeCl3.6H2O,  serta  capping  agent  berupa Polivynil  Phyrolidone  (PVP).  Karakteristik  sifat  optik  AgNWs  diamati  melalui  uji  UV-Vis,  FTIR,  dan distribusi  ukuran  panjang  melalui  mikroskop  optik.  Hasil  analisis  UV-Vis  menunjukkan  adanya  empat puncak serapan yaitu pada panjang gelombang disekitaran 340, 350, 360 dan pada panjang gelombang 390 nm serta adanya perubahan nilai absorbansi. Sedangkan hasil uji mikroskop optik juga menunjukkan bahwa ukuran  panjang  AgNWs  meningkat  pada  sampel  EG\/PG  25:75%  dan  50:50%.  Berdasarkan  hasil  tersebut, dapat disimpulkan bahwa pencampuran EG dan PG dapat mempengaruhi karakteristik sifat optik AgNWs.",
+      "volume": 11,
+      "date_type": "published",
+      "subjects": [
+        "QC"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2303-016X",
+      "status_changed": "2023-05-08 02:05:08",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "dir": "disk0_bak\/00\/05\/11\/50"
+    },
+    {
+      "creators": [
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "given": "Junaidi",
+            "family": "Junaidi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "dsimon.sembiring@fmipa.unila.ac.id",
+          "name": {
+            "given": "Sembiring",
+            "honourific": null,
+            "family": "Simon",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Karakteristik Komposit Aspal Karbosil Dari Limbah Sekam Padi",
+      "refereed": "TRUE",
+      "datestamp": "2023-05-08 02:05:00",
+      "id_number": "http:\/\/dx.doi.org\/10.23960%2Fjtaf.v11i1",
+      "eprint_status": "archive",
+      "eprintid": 51148,
+      "metadata_visibility": "show",
+      "pagerange": "115-122",
+      "userid": 181,
+      "number": 1,
+      "lastmod": "2023-05-08 02:05:00",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/2854",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190870",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51148,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "filename": "2854-21588-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/549772",
+                  "objectid": 190870,
+                  "filesize": 587325,
+                  "mtime": "2023-05-07 01:09:13",
+                  "hash_type": "MD5",
+                  "hash": "90aded713d58803db715749ddcb8dc06",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 549772
+                }
+            ],
+            "main": "2854-21588-1-PB.pdf",
+            "docid": 190870,
+            "format": "text"
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "dir": "disk0_bak\/00\/05\/11\/48",
+      "full_text_status": "public",
+      "issn": "2303-016X",
+      "status_changed": "2023-05-08 02:05:00",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "date_type": "published",
+      "subjects": [
+        "QC"
+      ],
+      "abstract": "Pada penelitian ini dilakukan karakterisasi komposit aspal karbosil dengan variasi komposisi yaitu\r\n1:9; 1,5:8,5; 2:8; 2,5:7,5; 3:7 dan perbandingan untu karbosil murni tanpa penambahan aspal. Karbosil\r\ndidapatkan dari  limbah sekam padi dengan menggunakan metode pirolisis. Penelitian ini dilakukan untuk\r\nmengetahui pengaruh suhu terhadap mikrosuktur, struktur dan gugus fungsi komposit aspal karbosil. Analisis\r\nXRD diperoleh fasa yang terbentuk dari setiap variasi komposisi adalah fasa amorf. Analisis DTA\/TGA\r\nmenunjukkan terjadinya perubahan energi akibat penambahan panas dengan ditandai adanya penyusustan\r\nmassa pada sampel. Hasil kuat  tekan  yang  menunjukkan bahwa  kekuatan  komposit aspal karbosil dengan\r\nberbeda komposisi bahan mempengaruhi ketahanan terhadap keretakan.",
+      "volume": 11,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51148",
+      "date": "2023-01-31"
+    },
+    {
+      "id_number": "http:\/\/dx.doi.org\/10.23960%2Fjtaf.v11i1",
+      "eprint_status": "archive",
+      "eprintid": 51149,
+      "datestamp": "2023-05-08 02:05:04",
+      "pagerange": "63-72",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 181,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190871",
+            "pos": 1,
+            "eprintid": 51149,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "3164-19213-3-PB.pdf",
+            "docid": 190871,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 549778,
+                  "mime_type": "application\/pdf",
+                  "hash": "4449cc45013c0b453bdec72913fb6a1a",
+                  "filesize": 486005,
+                  "objectid": 190871,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/549778",
+                  "filename": "3164-19213-3-PB.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-07 01:14:36"
+                }
+            ]
+          }
+      ],
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/3164",
+      "lastmod": "2023-05-08 02:05:04",
+      "creators": [
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "family": "Junaidi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Junaidi"
+          }
+        },
+        {
+          "id": "arif.surtono@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Surtono",
+            "honourific": null,
+            "given": "Arif"
+          }
+        },
+        {
+          "id": "roniyus.1977@fmipa.unila.ac.id",
+          "name": {
+            "given": "Roniyus",
+            "lineage": null,
+            "family": "Marjunus",
+            "honourific": null
+          }
+        },
+        {
+          "id": "yanti.yulianti@fmipa.unila.ac.id",
+          "name": {
+            "given": "yanti",
+            "lineage": null,
+            "family": "yulianti",
+            "honourific": null
+          }
+        },
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "given": "Sri Ratna",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sulistiyanti"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Penerapan Jaringan Saraf Tiruan \/ JST (Backpropagation) untuk Prakiraan Cuaca di Bandar Udara Radin Inten II Lampung",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "volume": 11,
+      "abstract": "Prediksi cuaca diperlukan dalam perencanaan kehidupan sehari-hari, salah satunya untuk membuat keputusan. Jaringan Syaraf Tiruan (JST) merupakan algoritma yang secara umum sangat baik dalam permasalahan pengenalan pola. Parameter maksimum dalam pengembangan perancangan informasi prakiraan cuaca berbasis Jaringan Saraf Tiruan\/JST (Backpropagation) dengan menambah inputan data curah hujan, suhu, kelembaban, penyinaran matahari, tekanan udara, arah angin dan kecepatan angin. Penelitian ini dilakukan di wilayah Bandar Udara Radin Inten II Lampung. Data yang digunakan dalam penelitian ini adalah berupa data harian kondisi meteorologi di wilayah Bandar Udara Radin Inten II Lampung dari Stasiun Meteorologi Radin Inten II selama 3 tahun terakhir yaitu dari tahun 2017 hingga tahun 2019. Data tersebut dibutuhkan sebagai data\r\nmasukan untuk algoritma yang akan digunakan dalam penelitian. Berdasarkan pada hasil penelitian, diperoleh akurasi pelatihan terbaik sebesar 100% pada arsitektur jaringan syaraf tiruan dengan parameter fungsi pelatihan levenberg-marquardt (trainlm) dan scaled conjugate gradient (trainscg), fungsi aktivasi sigmoid biner dan sigmoid bipolar, dan jumlah neuron 20, 40, 60, 80, dan 100. Sedangkan akurasi pengujian terbaik sebesar 74.359% pada arsitektur jaringan syaraf tiruan dengan parameter fungsi pelatihan gradient descent wit momentum and adaptive learning rate (traingdx) dan fungsi aktivasi sigmoid biner (logsig) dan jumlah neuron 20 dan 80.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51149",
+      "date": "2023-01-31",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "divisions": [
+        "FMIPA6"
+      ],
+      "dir": "disk0_bak\/00\/05\/11\/49",
+      "status_changed": "2023-05-08 02:05:04",
+      "full_text_status": "public",
+      "issn": "2303-016X",
+      "rev_number": 7,
+      "ispublished": "pub"
+    }
+]
+

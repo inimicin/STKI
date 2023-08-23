@@ -1,0 +1,76 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "rudy.tahan@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Situmeang",
+            "honourific": null,
+            "given": "Rudy T.M"
+          }
+        }
+      ],
+      "title": "NiO\/LaCrO3 PREPARED BY CITRIC ACID – FREEZE DRYING METHOD FOR NO2 CONVERSION",
+      "refereed": "TRUE",
+      "datestamp": "2018-11-06 03:07:14",
+      "eprintid": 9523,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "144-148",
+      "userid": 882,
+      "number": 2,
+      "lastmod": "2018-11-06 03:07:14",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/sains",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 9523,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22564",
+            "security": "public",
+            "docid": 22564,
+            "main": "316-945-1-PB.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-05 05:40:50",
+                  "objectid": 22564,
+                  "filesize": 105765,
+                  "filename": "316-945-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/90701",
+                  "fileid": 90701,
+                  "datasetid": "document",
+                  "hash": "4f2138c9018bd27ee1b2411731469b57",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "publication": "Jurnal Sains MIPA",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "dir": "disk0\/00\/00\/95\/23",
+      "issn": "1978-1873",
+      "full_text_status": "public",
+      "status_changed": "2018-11-06 03:07:14",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "QD"
+      ],
+      "abstract": "NiO\/LaCrO3 catalyst was prepared using citric acid \r\nfreeze drying method from its  precursor of nitrates. The\r\npreparation steps consist of wet impregnation of 6% (b\/b) NiO to LaCrO3, evaporation by freeze drying and calcination.\r\nThe calcinated solid was then grinded into fine powder before application. To examine its activity, the catalyst was used in NO2 conversion experiment at different temperatures. The experimental results indicated the dependency of NO2 \r\nconversion on temperature, with the highest conversion (90 % or 1,98 ppm) was achieved at 400 C. X-ray diffraction\r\nexamination proved that its crystalline phases consist of NiO cubic structure in a bulk crystalline of LaCrO3\r\nperovskite structure.  Furthermore, FTIR analysis appeared to indicate that both the Lewis and Brønsted-Lowry acid sites were involved in the catalytic conversion of NO2\r\nand gravimetric analysis showed that.",
+      "volume": 13,
+      "date": 2007,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9523"
+    }
+]
+

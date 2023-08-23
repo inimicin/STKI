@@ -1,0 +1,328 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40501",
+      "date": 2005,
+      "subjects": [
+        "J1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-03-24 07:07:55",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FISIP4"
+      ],
+      "publisher": "Pusat Studi Informasi dan Stategi Pembangunan",
+      "dir": "disk0\/00\/04\/05\/01",
+      "userid": 357,
+      "lastmod": "2022-03-24 07:07:55",
+      "documents": [
+          {
+            "main": "AGAR DPRD TIDAK ANARKI.pdf",
+            "docid": 161828,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-24 04:39:01",
+                  "objectid": 161828,
+                  "filesize": 8453843,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/451454",
+                  "filename": "AGAR DPRD TIDAK ANARKI.pdf",
+                  "datasetid": "document",
+                  "fileid": 451454,
+                  "hash": "595ea5bb13afdf9df28a4a93c3660283",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 40501,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161828",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2022-03-24 07:07:55",
+      "eprint_status": "archive",
+      "eprintid": 40501,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "family": "Nanang Trenggono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nanang Trenggono"
+          }
+        }
+      ],
+      "type": "book",
+      "title": "Agar DPRD Tidak Anarki? Gunakan Kecerdasan! Analisis Kritis terhadap Keputusan DPRD Lampung No. 15 Tahun 2005",
+      "refereed": "TRUE"
+    },
+    {
+      "rev_number": 21,
+      "status_changed": "2020-12-01 01:05:17",
+      "dir": "disk0\/00\/02\/68\/32",
+      "divisions": [
+        "FISIP4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26832",
+      "volume": 1,
+      "subjects": [
+        "JS"
+      ],
+      "date_type": "published",
+      "contact_email": "nanang.trenggono@fisip.unila.ac.id",
+      "title": "Agar DPRD Tidak Anarki? Gunakan Kecerdasan! Analisis Kritis terhadap Keputusan DPRD Lampung No. 15 Tahun 2005",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "given": "Nanang Trenggono"
+          }
+        }
+      ],
+      "type": "book_section",
+      "lastmod": "2020-12-01 01:05:17",
+      "metadata_visibility": "show",
+      "editors": [
+        {
+          "name": {
+            "given": "Nanang Trenggono",
+            "family": "Nanang Trenggono",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "publisher": "Pusat Kajian Informasi dan Strategi Pembangunan",
+      "date": "2005-09",
+      "corp_creators": [
+        "Jurusan Ilmu Komunikasi Fakultas Ilmu Sosial dan Ilmu Politik (FISIP) Universitas Lampung"
+      ],
+      "abstract": "Ini buku kedua yang menyoroti perilaku aktor politik di DPRD Provinsi Lampung. Buku Pertama berjudul \"Pola Money Politics: Kontroversi Pemilihan Gubernur Lampung (2003).\" Buku ini masih bisa disebut sebagai buntut gaya kontroversial para aktor di DPRD Lampung. Bahwa DPRD Provinsi Lampung keliru dan salah dalam keputusannya No. 15 Tahun 2005 yang tidak mengakui eksistensi pasangan Gubernur dan Wakil Gubernur Lampung yakni Sjachroedin dan Syamsurya Ryacudu.",
+      "book_title": "Agar DPRD Tidak Anarki? Gunakan Kecerdasan! Analisis Kritis terhadap Keputusan DPRD Lampung No. 15 Tahun 2005",
+      "place_of_pub": "Bandar Lampung",
+      "refereed": "FALSE",
+      "isbn": "979-25-1090-7",
+      "pages": 73,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2020-11-28 17:15:01",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/241007",
+                  "filename": "BUKU AGAR DPRD TIDAK ANARKI.pdf",
+                  "filesize": 2352762,
+                  "objectid": 40831,
+                  "hash": "47292953c8b6849170c03b065c57fcfd",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 241007
+                }
+            ],
+            "main": "BUKU AGAR DPRD TIDAK ANARKI.pdf",
+            "docid": 40831,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40831",
+            "pos": 1,
+            "eprintid": 26832,
+            "placement": 1
+          }
+      ],
+      "userid": 357,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Nanang Trenggono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nanang Trenggono"
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ],
+      "pagerange": "60-62",
+      "eprint_status": "archive",
+      "eprintid": 26832,
+      "datestamp": "2020-12-01 01:05:17"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39929",
+      "date": 2005,
+      "subjects": [
+        "J1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-03-08 07:21:15",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publisher": "Pusat Studi Informasi dan Stategi Pembangunan",
+      "divisions": [
+        "FISIP4"
+      ],
+      "dir": "disk0\/00\/03\/99\/29",
+      "userid": 357,
+      "lastmod": "2022-03-08 07:21:15",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2022-03-08 04:29:31",
+                  "hash_type": "MD5",
+                  "filename": "Agar DPRD Tidak Anarki.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447043",
+                  "filesize": 591888,
+                  "objectid": 161219,
+                  "hash": "5d1f14970c121dadfd408a9f8b7e702a",
+                  "mime_type": "application\/pdf",
+                  "fileid": 447043,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Agar DPRD Tidak Anarki.pdf",
+            "docid": 161219,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161219",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 39929
+          }
+      ],
+      "datestamp": "2022-03-08 07:21:15",
+      "eprintid": 39929,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "given": "Nanang Trenggono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nanang Trenggono"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Pinilaian Rekan Sejawat : Anarki dalam Gedung Dewan"
+    },
+    {
+      "datestamp": "2020-03-30 02:07:32",
+      "eprint_status": "archive",
+      "eprintid": 18915,
+      "metadata_visibility": "show",
+      "userid": 774,
+      "official_url": "http:\/\/repository.unila.ac.id",
+      "lastmod": "2020-03-30 02:07:32",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 32152,
+            "main": "WANATANI KOPI 2005 FIX.pdf",
+            "files": [
+                {
+                  "mtime": "2020-03-30 01:28:25",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/158720",
+                  "filename": "WANATANI KOPI 2005 FIX.pdf",
+                  "objectid": 32152,
+                  "filesize": 3408382,
+                  "mime_type": "application\/pdf",
+                  "hash": "96bcdcabd22e130ef7c07e2c674b148c",
+                  "fileid": 158720,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32152",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18915
+          }
+      ],
+      "type": "other",
+      "creators": [
+        {
+          "id": "ida.nurhaida@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "nurhaida",
+            "lineage": null,
+            "given": "Ida"
+          }
+        },
+        {
+          "id": "sugeng.prayitno@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Harianto",
+            "honourific": null,
+            "given": "Sugeng Prayitno"
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "lineage": null,
+            "family": "Junaidi",
+            "honourific": null,
+            "given": "Akmal"
+          }
+        },
+        {
+          "name": {
+            "given": "Samsul",
+            "lineage": null,
+            "family": "Bakri",
+            "honourific": null
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        }
+      ],
+      "title": "Melestarikam Wilayah Resapan dengan Menerapkan Wanatni Kopi",
+      "place_of_pub": "Bandar Lampung",
+      "subjects": [
+        "J1",
+        "L1",
+        "SD"
+      ],
+      "abstract": "Booklet ini ini disusun atas dasar hasil riset yang dibiayai oleh Direktorat Jenderal Penguatan Riset dan Pengembangan, Kemenristekdikti Tahun 2004 sampai 2006 serta dilandasai oleh hasil-hasil riset para tahun pertama dan tahun ke dua.  Booklet ini terbukti handal untuk digunakan sebagai Media Komunikasi Penyuluhan di wilayah resapan pada masyarakat yang sangat rendah kemampuan literasinya  yaitu sekitar 88 kata per menit: bandingkang unbtuk mahasiswa paling rensh sekitar 300-400 kata per menit(Nurhaida dkk, 2007).  Dapat diperbanyak untuk mengakomodasi keterbatasan tenga penyuluh diperdesaan.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18915",
+      "date": 2005,
+      "publisher": "LPM Unila",
+      "divisions": [
+        "FISIP4"
+      ],
+      "dir": "disk0\/00\/01\/89\/15",
+      "full_text_status": "public",
+      "status_changed": "2020-03-30 02:07:32",
+      "rev_number": 10,
+      "ispublished": "unpub"
+    }
+]
+

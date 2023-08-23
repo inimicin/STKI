@@ -1,0 +1,125 @@
+[
+    {
+      "datestamp": "2021-06-03 07:58:30",
+      "eprintid": 31879,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 573,
+      "lastmod": "2021-06-03 07:58:30",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "main": "Sejarah Eropa-HKI.pdf",
+            "files": [
+                {
+                  "filesize": 56491747,
+                  "objectid": 144354,
+                  "filename": "Sejarah Eropa-HKI.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377366",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-03 07:33:16",
+                  "fileid": 377366,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "103bfb70e2a8f49e0ce1971dfa96882f"
+                }
+            ],
+            "docid": 144354,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144354",
+            "pos": 1,
+            "formatdesc": "Artikel",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 31879
+          },
+          {
+            "formatdesc": "Sertifikat",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144355",
+            "pos": 2,
+            "eprintid": 31879,
+            "placement": 2,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 144355,
+            "main": "sertifikat_SEJARAH EROPA.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377369",
+                  "filename": "sertifikat_SEJARAH EROPA.pdf",
+                  "objectid": 144355,
+                  "filesize": 2177862,
+                  "mtime": "2021-06-03 07:33:30",
+                  "hash_type": "MD5",
+                  "hash": "124b34d681dc17d4b1ce1b21f26d49a3",
+                  "mime_type": "application\/pdf",
+                  "fileid": 377369,
+                  "datasetid": "document"
+                }
+            ]
+          },
+          {
+            "formatdesc": "Reviewer",
+            "security": "public",
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144356",
+            "eprintid": 31879,
+            "placement": 3,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash": "6420779f1796b5e027aaf2bc5ad51e04",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 377372,
+                  "mtime": "2021-06-03 07:33:47",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377372",
+                  "filename": "7 hki SEJARAH EROPA.pdf",
+                  "objectid": 144356,
+                  "filesize": 565890
+                }
+            ],
+            "main": "7 hki SEJARAH EROPA.pdf",
+            "docid": 144356
+          }
+      ],
+      "type": "other",
+      "creators": [
+        {
+          "id": "muhammad.basri@fkip.unila.ac.id",
+          "name": {
+            "family": "Muhammad Basri",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhammad Basri"
+          }
+        }
+      ],
+      "title": "Sejarah Eropa",
+      "subjects": [
+        "L1",
+        "LC5201"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31879",
+      "date": "2008-02-16",
+      "publisher": "PDKI Indonesia",
+      "dir": "disk0\/00\/03\/18\/79",
+      "divisions": [
+        "FKIP24"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2021-06-03 07:58:30",
+      "rev_number": 11,
+      "ispublished": "pub"
+    }
+]
+

@@ -1,0 +1,102 @@
+[
+    {
+      "userid": 7,
+      "documents": [
+          {
+            "docid": 560,
+            "main": "IJLLALW.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "2a7cd486753b7d96f81f5affd8de4966",
+                  "datasetid": "document",
+                  "fileid": 3654,
+                  "filename": "IJLLALW.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3654",
+                  "objectid": 560,
+                  "filesize": 7239637,
+                  "mtime": "2016-09-23 07:43:07",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 655,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/560",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2016-09-23 08:55:48",
+      "eprint_status": "archive",
+      "eprintid": 655,
+      "datestamp": "2016-09-23 08:55:48",
+      "pagerange": "168-177",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ariyani",
+            "given": "Farida"
+          },
+          "id": "dulifarida@gmail.corn"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Tadjuddin",
+            "lineage": null,
+            "given": "Moh."
+          },
+          "id": "."
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sobarna",
+            "given": "Cece"
+          },
+          "id": "."
+        },
+        {
+          "name": {
+            "given": "Wahya",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wahya"
+          },
+          "id": null
+        }
+      ],
+      "pres_type": "paper",
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Verb Affixation Of Lampung Language In Kuntara\r\nRaja Niti Book And Text Books: A Morphology Study",
+      "volume": 4,
+      "abstract": "This research explains morphologically theverb affixation of Lampung Language in Kuntara Raja Niti book (1901) and textbooks. In the explanation, the data which contain verb affixes in Kuntara Raja Niti book and textbooks are collected, analyzed and determined in order to find the types of the affixes. As results, this research has found six prefixes, seventeen circumfixes and two infixes of Lampung language verbs.\r\nKEYWORDS: Verb Affixation, Lampung Language, Morph, 1.-igy, Affixes, Qualitative",
+      "date": "2013-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/655",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "status_changed": "2016-09-23 08:55:48",
+      "issn": "2289-2737",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "publisher": "www.ijllaw.org",
+      "publication": "The International Journal of Language Learning and Applied Linguistics World",
+      "divisions": [
+        "FKIP7"
+      ],
+      "dir": "disk0\/00\/00\/06\/55"
+    }
+]
+

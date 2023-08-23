@@ -1,0 +1,16 @@
+,creators,type,title,contact_email,metadata_visibility,lastmod,publication,divisions,dir,status_changed,rev_number,subjects,date_type,volume,uri,refereed,eprint_status,eprintid,id_number,datestamp,pagerange,number,userid,documents,official_url,publisher,related_url,issn,full_text_status,ispublished,abstract,date
+0,"[{'name': {'given': 'Annisa', 'honourific': None, 'family': 'Resty', 'lineage': None}, 'id': 'resty.annisa@eng.unila.ac.id'}]",article,Pengembangan Sistem ERP HRD PT. Queen Network Nusantara Menggunakan Framework React,resty.annisa@eng.unila.ac.id,show,2023-04-06 07:24:49,Pengembangan Sistem ERP HRD PT. Queen Network Nusantara Menggunakan Framework React,['FT8'],disk0_bak/00/04/97/64,2023-04-06 07:24:49,9,"['T1', 'TK', 'ZA4050', 'ZA4450']",published,17,http://repository.lppm.unila.ac.id/id/eprint/49764,TRUE,archive,49764,https://doi.org/10.23960/elc.v17n1.2439,2023-04-06 07:24:49,120-127,1,2822,"[{'placement': 1, 'eprintid': 49764, 'pos': 1, 'uri': 'http://repository.lppm.unila.ac.id/id/document/189404', 'security': 'public', 'main': 'Jurnal 1_Electrician-1-23.pdf', 'files': [{'filesize': 477397, 'objectid': 189404, 'uri': 'http://repository.lppm.unila.ac.id/id/file/539127', 'filename': 'Jurnal 1_Electrician-1-23.pdf', 'hash_type': 'MD5', 'mtime': '2023-04-06 05:33:31', 'datasetid': 'document', 'fileid': 539127, 'hash': 'abe1d2f0a26728647d493903bd21fef1', 'mime_type': 'application/pdf'}], 'docid': 189404, 'format': 'text', 'language': 'en', 'mime_type': 'application/pdf', 'rev_number': 1}]",https://electrician.unila.ac.id/index.php/ojs/article/view/2439,Jurusan Teknik Elektro Fakultas Teknik Universitas Lampung,"[{'url': 'https://electrician.unila.ac.id/index.php/ojs/article/view/2439', 'type': 'pub'}]",2549-3442,public,pub,"Di era industri 4.0 saat ini tentu sudah tidak asing lagi dengan hal yang berhubungan dengan 
+teknologi informasi. Teknologi web saat ini banyak sekali digunakan, terutama untuk memudahkan pekerjaan
+suatu instansi atau perusahaan. PT. Queen Network Nusantara membutuhkan suatu sistem yang dapat
+mengintegrasikan dan melakukan pemantauan terhadap seluruh sumber daya perusahaan. Sistem yang dapat
+memenuhi kebutuhan perusahaan ini adalah sistem ERP (Enterprise Resource Planning). PT. Queen Network
+Nusantara membutuhkan sistem ERP yang dapat mengelola data pegawai. Membangun Website sistem ERP
+HRD yang digunakan untuk mengelola data pegawai. Pengembangan sistem menggunakan metode Extreme
+Programming dengan gambaran sistem ERP HRD QNN dan Absensi ERP HRD QNN berbasis website dengan
+salah satu fiturnya adalah mengawasi kehadiran pegawai dan absensi online pegawai. Pengujian sistem ERP
+HRD QNN dilakukan menggunakan metode Sistem Usability Scale (SUS) dengan skor 76 dan dapat
+dikategorikan Acceptable dan pengujian fungsional menggunakan metode Black Box Testing dengan
+menghasilkan bahwa sistemberjalan dengan baik. Sistem yang dikembangkan ini diharapkan mampu
+mengotomatisasi banyak proses SDM dan membuat pengelolaan karyawan menjadi lebih efisien dan
+membantu organisasi melacak kinerja karyawan. 
+Kata kunci — Teknologi Informasi, Enterprise Resource Planning, React",2023-01-31

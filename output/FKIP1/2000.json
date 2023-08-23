@@ -1,0 +1,92 @@
+[
+    {
+      "official_url": "https:\/\/drive.google.com\/file\/d\/1gGQkWMPQTDG6o7Ik71Ktty0U02o0TPfc\/view",
+      "lastmod": "2020-05-20 02:48:36",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "text\/html",
+            "rev_number": 2,
+            "format": "text",
+            "main": "index.html",
+            "docid": 33521,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190366",
+                  "filename": "index.html",
+                  "objectid": 33521,
+                  "filesize": 32556,
+                  "mtime": "2020-05-20 02:18:47",
+                  "hash_type": "MD5",
+                  "hash": "5d11d06d99978a178904e331c7a661d3",
+                  "mime_type": "text\/html",
+                  "fileid": 190366,
+                  "datasetid": "document"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33521",
+            "pos": 1,
+            "eprintid": 20180,
+            "placement": 1
+          }
+      ],
+      "userid": 383,
+      "metadata_visibility": "show",
+      "pagerange": "596-603",
+      "datestamp": "2020-05-20 02:48:36",
+      "eprint_status": "archive",
+      "eprintid": 20180,
+      "title": "Analisis Kesalahan Pelafalan Bunyi Vokal Bahasa Prancis pada Mahasiswa Bahasa Prancis Tingkat Awal",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "family": "Yanti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Riska Luvita"
+          },
+          "id": "riskaluvita26@gmail.com"
+        },
+        {
+          "id": "muhammad_sukirlan@yahoo.co.id",
+          "name": {
+            "family": "Sukirlan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhammad"
+          }
+        },
+        {
+          "name": {
+            "given": "Nani",
+            "lineage": null,
+            "family": "Kusrini",
+            "honourific": null
+          },
+          "id": "nani.kusrini7@gmail.com"
+        }
+      ],
+      "date": "2000-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20180",
+      "abstract": "Penelitian ini bertujuan untuk mendeskripsikan bentuk kesalahan pelafalan bunyi vokal yang dilakukan oleh mahasiswa bahasa Prancis semester II dan mengidentifikasi faktor penyebab kesalahan tersebut.  Hasil penelitian menunjukkan bahwa kesalahan bunyi vokal yang dilakukan oleh mahasiswa bahasa Prancis terletak pada bunyi [œ],[ɔ̃],[ø], [œ̃],[ɑ̃] dan [ɛ̃].  Faktor penyebab terjadinya kesalahan pelafalan yang paling dominan adalah faktor interlingual, dalam hal ini pengaruh bahasa pertama (B1).  Sedangkan untuk faktor intralingual, kesalahan yang paling banyak disebabkan karena penerapan kaidah bahasa yang tidak sempurna.",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "event_title": "Semnas Pendidikan FKIP 2019",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-05-20 02:48:36",
+      "event_type": "conference",
+      "divisions": [
+        "FKIP1"
+      ],
+      "dir": "disk0\/00\/02\/01\/80"
+    }
+]
+

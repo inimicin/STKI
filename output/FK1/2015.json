@@ -1,0 +1,3212 @@
+[
+    {
+      "rev_number": 10,
+      "ispublished": "pub",
+      "status_changed": "2019-01-02 08:02:10",
+      "full_text_status": "public",
+      "dir": "disk0\/00\/01\/04\/28",
+      "divisions": [
+        "FK1"
+      ],
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10428",
+      "corp_creators": [
+        "Fakultas Kedokteran Universitas Lampung",
+        "Fakultas Kedokteran Universitas Lampung",
+        "Fakultas Kedokteran Universitas Lampung",
+        "Fakultas Kedokteran Universitas Lampung"
+      ],
+      "subjects": [
+        "RG"
+      ],
+      "date_type": "published",
+      "title": "PENINGKATAN PENGETAHUAN IBU USIA REPRODUKTIF MELALUI PENYULUHAN DAN SIMULASI TENTANG ASI EKSKLUSIF UNTUK MENINGKATKAN DERAJAT KESEHATAN IBU DAN ANAK DI PUSKESMAS WAY KANDIS BANDAR LAMPUNG",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Aditya",
+            "lineage": null,
+            "given": "Muhammad"
+          }
+        },
+        {
+          "name": {
+            "family": "Trijayanthi Utama",
+            "lineage": null,
+            "honourific": null,
+            "given": "Winda"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Dewi Puspita Sari",
+            "lineage": null,
+            "given": "Ratna"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nareswari",
+            "lineage": null,
+            "given": "Shinta"
+          }
+        }
+      ],
+      "type": "experiment",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23448",
+            "eprintid": 10428,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 23448,
+            "main": "dr Ratna DPS (Laporan Pengabdian dg dr M Aditya).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/96952",
+                  "filename": "dr Ratna DPS (Laporan Pengabdian dg dr M Aditya).pdf",
+                  "filesize": 4815109,
+                  "objectid": 23448,
+                  "mtime": "2018-11-27 04:32:01",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "99ac12097a0001044793a765cc1c80d2",
+                  "fileid": 96952,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2019-02-12 02:27:19",
+      "userid": 1197,
+      "contributors": [
+        {
+          "id": null,
+          "name": {
+            "given": "Muhammad",
+            "family": "Aditya",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Winda",
+            "lineage": null,
+            "family": "Trijayanthi Utama",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Dewi Puspita Sari",
+            "given": "Ratna"
+          },
+          "id": "ratnadps@gmail.com"
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Shinta",
+            "family": "Nareswari",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "referencetext": "1. World Health Organization. Complementary feeding of young children in developing countries: a review of current scientific knowledge. Geneva:WHO; 1998.\r\n2. Institute of Medicine. Nutrition during lactation.Washington DC: National Academic Press; 1991.\r\n3. Saarinen UM, Kajosari M. Breastfeeding asprophylaxis against atopic disease; prospectivefollow-up study until 17 years old. Lancet 1995;346: 1065-9.\r\n4. Roesli U. Mitos menyusui. Seminar Telaah Mutakhir tentang ASI. Bali:FAOPS-Perinasia; 2001.\r\n5. Anderson JW, Johnstone BM, Remley DT. Breastfeeding and cognitive development: a metaanalysis. Am J Clin Nutr. 1999; 70:525-35.\r\n6. Uauy R, de Andraca I. Human milk and breastfeeding for optimal mental development. J Nutr. 1995; 125:2278S-80S.\r\n7. Besar DS. Metode amenorea laktasi. Seminar Telaah Mutakhir tentang ASI. Bali: FAOPS-Perinasia; 2001.\r\n8. Davies-Adetugbo A, Ojofeitimi EO. Maternal education, breastfeeding behaviours, and lactational amenorrhea: studies among two ethnic communities in Ile Ife, Nigeria. Nutrition and Health. 1996; 11:115-26.\r\n9. UNICEF-RI. The situation of women and childrenin Indonesia. Jakarta: Unicef-RI; 2000.\r\n10. Sub-Committee on Nutrition. Nutrition throughout the life cycle, 4th report on the world nutrition situation. Geneva: ACC\/SCN-IFPRI; 2000.\r\n11. Roesli U. Mengenal asi eksklusif. Jakarta: Trubus Agriwidya; 2000.\r\n12. Republik Indonesia. Rancangan program pembangunan nasional tahun 2001-2005. Jakarta: Republik Indonesia; 2000.\r\n13. Simanjuntak D. Faktor-faktor yang berhubungan dengan pemberian makanan pendamping asi dini pada bayi di Kecamatan Pasar Rebo, Jakarta Timur tahun 2001 [tesis]. Depok: Universitas Indonesia; 2002.\r\n21\r\n14. Utomo B. The slowing progress of breastfeeding promotion program in Indonesia: causes and recommendation. Diskusi Pakar Bidang Gizi tentang ASI MP-ASI, Antropometri, dan BBLR. Cipanas: Depkes-RI; 19-21 Januari 2001.",
+      "eprintid": 10428,
+      "datestamp": "2019-01-02 08:02:10"
+    },
+    {
+      "dir": "disk0\/00\/02\/16\/32",
+      "publisher": "SCIENCEDOMAIN international",
+      "publication": "British Journal of Medicine & Medical Research",
+      "divisions": [
+        "FK1"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2231-0614",
+      "status_changed": "2020-06-03 07:14:35",
+      "date_type": "published",
+      "subjects": [
+        "RF"
+      ],
+      "date": "2015-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21632",
+      "abstract": "This work was carried out in collaboration between all authors. Author AF managed the experimental process, analyses of the study, performed the histomorphometry analysis. Author AFKdesignedthe study, wrote the protocol and wrote the manuscript. AuthorAKmanaged theliterature searches,provide scientific support andauthorEKperformed the immunohistochemistry analyses. All authors read and approved the final manuscript",
+      "volume": 8,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "title": "Role of Sildenafil in Acceleration of Delayed Union Fracture Healing on Sprague-Dawley Rats Model",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Fauzi",
+            "family": "Ahmad",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ahmad.fauzi@fk.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "419-428",
+      "datestamp": "2020-06-03 07:14:35",
+      "eprintid": 21632,
+      "eprint_status": "archive",
+      "official_url": "https:\/\/www.researchgate.net\/profile\/Aryadi_Kurniawan2\/publication\/332571072_2015_Role_of_SIldenafil_in_accelerationof_delayed_union_fracture_healing_on_Sprague_Dawley_Rats_Model_BJMMR\/links\/5cbeb299299bf1209778d739\/2015-Role-of-SIldenafil-in-accelerationof-delayed-union-fracture-healing-on-Sprague-Dawley-Rats-Model-BJMMR.pdf",
+      "lastmod": "2020-06-03 07:14:35",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "2015RoleofSIldenafilinaccelerationofdelayedunionfracturehealingonSpragueDawleyRatsModelBJMMR.pdf",
+            "files": [
+                {
+                  "mtime": "2020-06-03 05:51:32",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200323",
+                  "filename": "2015RoleofSIldenafilinaccelerationofdelayedunionfracturehealingonSpragueDawleyRatsModelBJMMR.pdf",
+                  "filesize": 9645004,
+                  "objectid": 35020,
+                  "hash": "bc00eb83f6251f06c15c9707b1d7f82a",
+                  "mime_type": "application\/pdf",
+                  "fileid": 200323,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 35020,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35020",
+            "eprintid": 21632,
+            "placement": 1
+          }
+      ],
+      "userid": 285,
+      "number": 5
+    },
+    {
+      "publisher": "Fakultas Kedokteran Universitas Lampung dan IDI WIlayah Lampung",
+      "dir": "disk0\/00\/02\/16\/36",
+      "publication": "JUKE",
+      "divisions": [
+        "FK1"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "ISSN 2088-9348",
+      "full_text_status": "public",
+      "status_changed": "2020-06-03 07:14:53",
+      "subjects": [
+        "RF"
+      ],
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21636",
+      "abstract": "Trigger finger adalah penyakit yang umum terjadi pada jari, yang disebabkan oleh peradangan dan penyempitan pulley A-1, menyebabkan rasa sakit, terkunci dan hilangnya gerakan jari yang terkena. Meskipun dapat terjadi pada siapa saja, trigger finger lebih sering terdapat pada penderita diabetes dan wanita, umumnya pada dekade kelima dan keenam. Diagnosis penyakit ini cukup mudah, karena sebagian besar pasien mengeluh clicking atau jari terkunci, namun proses patologis lain seperti fraktur, tumor, atau cedera jaringan lunak lainnya harus disingkirkan. Penatalaksanaan konservatif antara lain splinting, injeksi kortikosteroid dan terapi adjuvant. Penatalaksanaan bedah terdiri dari pembedahan pulley A-1 dengan teknik terbuka atau perkutaneus. Komplikasi pembedahan jarang terjadi, meliputi bowstringing, cedera saraf interdigitalis, dan triggering yang tidak sembuh. Beberapa pasien memerlukan prosedur yang lebih ekstensif untuk mengurangi ukuran tendon fleksor. Kondisi komorbid mempengaruhi penatalaksanaan trigger finger. Pemahaman tentang pathomekanik, faktor risiko, dan variasi penatalaksanaan trigger finger, sangat penting untuk perawatan yang tepat. [JuKe Unila 2015; 5(9):134-140]\r\n\r\nKata Kunci: penatalaksanaan konservatif, penatalaksanaan bedah, trigger finger",
+      "volume": 5,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "title": "Trigger Finger",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "ahmad.fauzi@fk.unila.ac.id",
+          "name": {
+            "given": "Fauzi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ahmad"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "134-140",
+      "datestamp": "2020-06-03 07:14:53",
+      "eprintid": 21636,
+      "eprint_status": "archive",
+      "lastmod": "2020-06-03 07:14:53",
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/juke\/issue\/view\/MA",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "8f17ef8b093ae1732da35812bd41e952",
+                  "fileid": 200336,
+                  "datasetid": "document",
+                  "filename": "647-1335-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200336",
+                  "filesize": 371714,
+                  "objectid": 35023,
+                  "mtime": "2020-06-03 06:02:07",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "647-1335-1-PB.pdf",
+            "docid": 35023,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35023",
+            "pos": 1,
+            "eprintid": 21636,
+            "placement": 1
+          }
+      ],
+      "userid": 285,
+      "number": 9
+    },
+    {
+      "subjects": [
+        "RB"
+      ],
+      "date_type": "published",
+      "volume": 4,
+      "abstract": "Hepatitis C is a disease that can be contagious inflammation of the liver caused by the hepatitis C virus. Viral hepatitis consists of five types of hepatitis such as hepatitis A, hepatitis B, hepatitis C, hepatitis D, and hepatitis E. This disease become a mayor problem in Indonesia. Therapy of hepatitis C virus in Indonesia by providing antivirus and pegilated interferon. Alanine\r\nAminotransferase\/Aspartate Aminotransferase (ALT\/AST) and bilirubin are products of the liver which in case of liver damage, there will be the result in abnormalities in liver enzymes and bilirubin. This study aimed to determine the effect of increased levels of ALT\/AST with total bilirubin levels in hepatitis C patients at Internal Medicine Department of Dr. H Abdul Moeloek Lampung Province from January to December 2014. The result showed that when there is an increased bilirubin levels so liver enzymes will be increased too. But increased liver enzymes and bilirubin levels do not specify that individual is infected by\r\nhepatitis C.\r\n\r\nKeywords: ALT\/AST, bilirubin, hepatitis C.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1389",
+      "date": 2015,
+      "publisher": "Khairun Nisa",
+      "publication": "Majority",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/00\/13\/89",
+      "status_changed": "2017-01-16 01:58:48",
+      "full_text_status": "public",
+      "issn": "2337-3776",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 1389,
+      "datestamp": "2017-01-16 01:58:48",
+      "pagerange": "135-139",
+      "metadata_visibility": "show",
+      "number": 9,
+      "userid": 575,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1264",
+            "eprintid": 1389,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 1264,
+            "main": "25.pdf",
+            "files": [
+                {
+                  "mtime": "2017-01-14 02:52:03",
+                  "hash_type": "MD5",
+                  "filename": "25.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9387",
+                  "objectid": 1264,
+                  "filesize": 526265,
+                  "mime_type": "application\/pdf",
+                  "hash": "60580ce43b6df1946434b4545b95f6dd",
+                  "datasetid": "document",
+                  "fileid": 9387
+                }
+            ]
+          }
+      ],
+      "official_url": "http:\/\/jukeunila.com\/majority\/edisi-4-no-9\/",
+      "lastmod": "2017-01-16 01:58:48",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Aleya",
+            "family": "Aleya",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Nisa Berawi",
+            "honourific": null,
+            "family": "Khairun",
+            "lineage": null
+          },
+          "id": "nisaberawi0226@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Correlation of ALT\/AST and Bilirubin Levels in Hepatitis C Patients at Internal Medicine Department of Dr. H Abdul Moeloek Lampung Province along January - December 2014"
+    },
+    {
+      "datestamp": "2017-01-16 01:59:43",
+      "eprint_status": "archive",
+      "eprintid": 1390,
+      "metadata_visibility": "show",
+      "pagerange": "121-126",
+      "userid": 575,
+      "number": 8,
+      "official_url": "http:\/\/jukeunila.com\/majority\/majority-volume-4-no-8\/",
+      "lastmod": "2017-01-16 01:59:43",
+      "documents": [
+          {
+            "eprintid": 1390,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1265",
+            "format": "text",
+            "main": "121-126-ALYSSA.pdf",
+            "files": [
+                {
+                  "mtime": "2017-01-14 03:03:40",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9393",
+                  "filename": "121-126-ALYSSA.pdf",
+                  "filesize": 464877,
+                  "objectid": 1265,
+                  "mime_type": "application\/pdf",
+                  "hash": "2a71af3f4f7cf3fda9bfc6ef11b7325f",
+                  "datasetid": "document",
+                  "fileid": 9393
+                }
+            ],
+            "docid": 1265,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "id": "farlyssa@gmail.com",
+          "name": {
+            "family": "Allyssa",
+            "lineage": null,
+            "honourific": null,
+            "given": "Fairudz"
+          }
+        },
+        {
+          "id": "nisaberawi0226@gmail.com",
+          "name": {
+            "given": "Nisa Berawi",
+            "lineage": null,
+            "family": "Khairun",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Effects of Dietary Fiber to Cholesterol Level on Overweight Patients",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "RB"
+      ],
+      "abstract": "Overweight incidence in worldwide is tend to increase, including in Indonesia. It happens because change of lifestyle of Indonesian people. Overweight is influenced by consumption factor, sedentary life, genetic and social determinant such as family economy. Overweight that can lead to obesity could create diseases such as metabolic syndrome, type 2 diabetes mellitus, atherosclerosis, coronary heart disease and cancer. Lots of medications for obesity with hypercholesterolemia have been found, but if this condition is treated just in curative side, it still could create serious health problems. One of the effort that we can do is modify consumption factors as risk factor with increase fibrous food. Dietary fiber is a form of complex carbohydrate which commonly get from plants. In common, dietary fiber, like lignin, inulin and B-glucan can help to lower blood cholesterol level by ensnare the fat in intestine and bind bile acids and increase the excretion of bile acids to stool.\r\nKeywords: cholesterol, dietary fiber, HDL (High Density Lipoprotein), LDL(Low Density Lipoprotein) , obesity, overweight",
+      "volume": 4,
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1390",
+      "divisions": [
+        "FK1"
+      ],
+      "publisher": "Khairun Nisa",
+      "publication": "Majority",
+      "dir": "disk0\/00\/00\/13\/90",
+      "issn": "2337-3776",
+      "full_text_status": "public",
+      "status_changed": "2017-01-16 01:59:43",
+      "rev_number": 6,
+      "ispublished": "pub"
+    },
+    {
+      "status_changed": "2016-09-01 01:18:31",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "JURNAL KEDOKTERAN DAN KESEHATAN",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/00\/05\/00",
+      "volume": 2,
+      "abstract": "Chronic renal failure patients undergoing hemodialysis are at risk of malnutrition, especially protein energy\r\nmalnutrition. Adequate protein intake in hemodialysis patients aims to compensate for the loss of protein due to the\r\nhemodialysis process and to fullfill of basic physiological functions of the body. Malnutrition can increase the risk of\r\nmorbidity and mortality. This study aims to determine the differences between the mean intake of protein in\r\nhemodialysis patients are malnourished and not malnourished. This study is an observational analytic with cross\r\nsectional design, in 43 patients with chronic renal failure undergoing hemodialysis in hemodialysis installation dr. H.\r\nAbdoel Moeloek in October to December 2013, taken with consecutive sampling technique. Malnutrition was the\r\nunderweight status based on assessment of body mass index (BMI). Protein intake was obtained by the method of\r\nassessment of food consumption using semiquantitative food frequency questionnaire quesionaire (SQ-FFQ) that\r\nexplores history of the patient ate during the last week. The results showed that subjects who were malnourished as\r\nmuch as 16.3%, and less protein intake was 36.5%. The mean intake of protein malnourished subjects (54 grams \/ day)\r\nlower than in subjects who are not malnourished (60.4 g \/ day). There were no differences between the mean protein\r\nintake was statistically significant between the groups malnourished and not malnourished (p = 0.163). Conclusion:\r\nthere are no differences between the mean protein intake was statistically significant in subjects who are malnourished\r\nor not malnourished.\r\nKeywords: CRF-HD patients, malnutrition, protein inta",
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/500",
+      "subjects": [
+        "R1"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "id": "riditie@gmail.com",
+          "name": {
+            "family": "Angraini",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dian Isti"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "The Different of Protein Intake Between Chronic Renal Failure Patients with Malnutrition and Not Malnutrition in Hemodialysis Unit at dr. Abdul Moeloek Hospital Bandar Lampung",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 183,
+      "documents": [
+          {
+            "format": "text",
+            "main": "DIA_JKK unsri_2015.pdf",
+            "docid": 417,
+            "files": [
+                {
+                  "objectid": 417,
+                  "filesize": 148334,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/2659",
+                  "filename": "DIA_JKK unsri_2015.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-31 04:09:56",
+                  "datasetid": "document",
+                  "fileid": 2659,
+                  "mime_type": "application\/pdf",
+                  "hash": "6e2c1ac284dcae0e7ba67cfa4bad0cf5"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 500,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/417",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2016-09-01 01:18:31",
+      "official_url": "http:\/\/ejournal.unsri.ac.id\/index.php\/jkk",
+      "eprint_status": "archive",
+      "eprintid": 500,
+      "datestamp": "2016-09-01 01:18:31",
+      "pagerange": "163-168",
+      "metadata_visibility": "show"
+    },
+    {
+      "event_type": "conference",
+      "publication": "Prosiding Seminar Presentasi Artikel Ilmiah Dies Natalis FK Unila ke 13",
+      "dir": "disk0\/00\/00\/04\/98",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2016-09-01 01:14:02",
+      "full_text_status": "public",
+      "event_title": "Seminar Presentasi Artikel Ilmiah Dies Natalis FK Unila ke 13",
+      "subjects": [
+        "R1"
+      ],
+      "date_type": "published",
+      "date": "2015-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/498",
+      "abstract": "Underweight or overweight were nutritional problem in developing countries such as Indonesia and this is a double burden.\r\nNutritional problems can be caused by many factors such as unhealthy lifestyle (diet and exercise), socioeconomic\r\nconditions, stress and others. Changes in diet such as low consumption of fruits and vegetables, as well as behavioral risk foods can cause a person to experience more nutritional problems. \r\nThis study was an observational analytic study with cross sectional approach in 52 patients who came to the clinic Unila in September 2015 and more than 18 years old.\r\nSamples taken by total sampling. Behavioral risk foods comsumption obtained by the results of a questionnaire containing 13 questions and the determination of categories by using the receiver operating characteristic (ROC) graph. Nutritional status was assessed using anthropometric measurements using body mass index (BMI). The results showed that the respondents did not have behavioral risk foodscomsumption (51.9%) and has the nutritional status of obesity (44.3%).\r\nThere is a significant relationship between behavioral risk foods with nutritional status (p = 0.012). Respondents with behavioral risk foods comsumption have a 12 times greater risk to overweight nutritional status than those who do not behave risk foods comsumption (OR = 12). Conclusion: behavioral risk food consumption associated with nutrition status.\r\nKeywords : behavioral risk foods comsumption, nutritional status, Unila clinic patients.",
+      "refereed": "TRUE",
+      "event_dates": "Oktober 2015",
+      "title": "Perilaku Konsumsi Makanan Berisiko Berhubungan dengan Status Gizi pada Pasien Poliklinik Universitas Lampung",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "riditie@gmail.com",
+          "name": {
+            "given": "Dian Isti",
+            "honourific": null,
+            "family": "Angraini",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Bandar lampung",
+      "pagerange": "26-30",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 498,
+      "datestamp": "2016-09-01 01:14:02",
+      "documents": [
+          {
+            "eprintid": 498,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/414",
+            "pos": 1,
+            "format": "text",
+            "main": "DIA_prosiding_2015.pdf",
+            "docid": 414,
+            "files": [
+                {
+                  "hash": "14b8d781cc4b84b244b314754c198c32",
+                  "mime_type": "application\/pdf",
+                  "fileid": 2640,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/2640",
+                  "filename": "DIA_prosiding_2015.pdf",
+                  "filesize": 106639,
+                  "objectid": 414,
+                  "mtime": "2016-08-31 03:56:23",
+                  "hash_type": "MD5"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2016-09-01 01:14:02",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 183
+    },
+    {
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/article\/view\/1493",
+      "lastmod": "2020-05-22 05:20:04",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Medical Journal of Lampung University_Melly Reni Aditya.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-22 04:36:41",
+                  "filesize": 447529,
+                  "objectid": 33692,
+                  "filename": "Medical Journal of Lampung University_Melly Reni Aditya.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/191570",
+                  "datasetid": "document",
+                  "fileid": 191570,
+                  "mime_type": "application\/pdf",
+                  "hash": "a2113cd398bc712d4dbde15e521a7b14"
+                }
+            ],
+            "docid": 33692,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33692",
+            "pos": 1,
+            "eprintid": 20350,
+            "placement": 1
+          }
+      ],
+      "userid": 616,
+      "number": 8,
+      "metadata_visibility": "show",
+      "pagerange": "167-176",
+      "datestamp": "2020-05-22 05:20:04",
+      "eprintid": 20350,
+      "eprint_status": "archive",
+      "title": "Hubungan Pengetahuan Ibu, Sikap dan Perilaku terhadap Status Gizi Balita pada Komunitas Nelayan di Kota Karang Raya Teluk Betung Timur Bandar Lampung",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Anida",
+            "given": "Melly"
+          },
+          "id": null
+        },
+        {
+          "id": "reni.zuraida@fk.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Zuraida",
+            "lineage": null,
+            "given": "Reni"
+          }
+        },
+        {
+          "name": {
+            "given": "Muhammad",
+            "honourific": null,
+            "lineage": null,
+            "family": "Aditya"
+          },
+          "id": null
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20350",
+      "date": "2015-06",
+      "abstract": "Status gizi merupakan prediktor kualitas sumber daya manusia di masa depan. Beberapa faktor yang mempengaruhi status\r\ngizi balita yaitu pendidikan, pengetahuan, pekerjaan ibu, sosial ekonomi, pendapatan keluarga, dan jumlah anggota\r\nkeluarga. Penelitian ini bertujuan mengetahui hubungan pengetahuan, sikap, dan perilaku gizi ibu terhadap status gizi balita. Penelitian ini adalah analitik observasional dengan pendekatan cross-sectional. Jumlah sampel dalam penelitian ini yaitu 128 ibu dan balitanya yang berusia 6-24 bulan. Pengumpulan data melalui wawancara menggunakan kuesioner. Untuk mengetahui pengaruh antar variabel menggunakan uji regresi logistik. Hasilnya terdapat hubungan pengetahuan gizi ibu (p=0,000), sikap gizi ibu (p=0,000), dan perilaku gizi ibu (p=0,01) terhadap status gizi balita. Sikap gizi ibu merupakan faktor yang paling berpengaruh terhadap status gizi balita (OR=0,161). \r\nKata kunci: Pengetahuan gizi ibu, perilaku gizi ibu, sikap gizi ibu, status gizi balita",
+      "volume": 4,
+      "date_type": "published",
+      "subjects": [
+        "RA"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "issn": "2337-3776",
+      "full_text_status": "public",
+      "status_changed": "2020-05-22 05:20:04",
+      "publisher": "Juke Unila",
+      "publication": "Majority",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/02\/03\/50"
+    },
+    {
+      "divisions": [
+        "FK1"
+      ],
+      "publication": "Medical Journal of Lampung University",
+      "dir": "disk0\/00\/00\/02\/36",
+      "status_changed": "2016-07-22 03:39:39",
+      "rev_number": 6,
+      "date_type": "published",
+      "subjects": [
+        "RB"
+      ],
+      "volume": 4,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/236",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Azmy H",
+            "honourific": null,
+            "lineage": null,
+            "family": "Azhar"
+          }
+        },
+        {
+          "id": "nisaberawi0226@gmail.com",
+          "name": {
+            "given": "Khairun Nisa",
+            "family": "Berawi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "The Relationship of Gymnastic Asthma Routinity to Lung Function At Asthma Patient",
+      "contact_email": "nisaberawi0226@gmail.com",
+      "metadata_visibility": "show",
+      "lastmod": "2016-07-22 03:39:39",
+      "related_url": [
+        {
+          "url": "http:\/\/jukeunila.com\/majority\/edisi-4-no-9\/",
+          "type": "pub"
+        }
+      ],
+      "publisher": "Medical Journal of Lampung Univerisity",
+      "issn": "2337 3776",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "abstract": "Abstract\r\nLung disease is a health problem in Indonesia, one of them is asthma. WHO data showed 300 million people worldwide are\r\ndiagnosed with asthma, and is expected to increase to 400 million people in 2025. In asthma, there’s bronchiolus muscle spasms that cause the shortness of breath, difficulty in expiration, decreased lung capacity and weakened physical condition. Asthma treatment efforts have been implemented pharmacologically with drugs that are controller nor reliever.\r\nSuccessful treatment of asthma should be supported from the physical factors such as physical exercise and education, one of the efforts is asthma gymnastic, it is necessary to reinforce the respiratory muscles. Lung function measurements used to assess airway obstruction, lung function abnormalities reversibiliti and lung function variability. Asthma is an reversible obstructive lung disease. The dominant clinical symptoms is a history of episodes the shortness of breath, especially at night\r\nare often accompanied by a cough. One way to relieve the obstruction is doing some physical sports such as gymnastics\r\nasthma. Gymnastics asthma is considered capable of reducing obstruction and increase the elasticity of bronchial and\r\nrespiratory muscles. It found that people who do gymnastics asthma were able to reduce the recurrence of asthma\r\nexacerbation. Lung function results can be better if patients routinely doing gymnastics asthma.\r\nKeywords: asthma, gymnastic asthma, lung function, shortness of breath, treatment",
+      "date": "2015-12",
+      "refereed": "TRUE",
+      "datestamp": "2016-07-22 03:39:39",
+      "referencetext": "1. Riset Kesehatan Dasar (RISKESDAS).\r\nEpidemiologi asma. Jakarta: Badan\r\nPenelitian dan Pengembangan Kesehatan\r\nKementerian Indonesia; 2013.\r\n2. Global Initiative for Asthma (GINA). Global\r\nstrategy for asthma management and\r\nprevention. Ontario: NIH Publication;\r\n2007.\r\n3. Daru KCJ. Pengaruh pemberian senam\r\nasma terhadap frekwensi kekambuhan\r\nasma bronkial [skripsi]. Surakarta: Fakultas\r\nIlmu Kesehatan Universitas\r\nMuhammadiyah; 2008.\r\n4. Yayasan Asma Indonesia (YAI). Senam\r\nasma. Jakarta: Yayasan Asma\r\nIndone;2006.\r\n5. Yunus F, Anwar J, Fachrurodji H, Wiyono\r\nWH, Jusuf A. Pengaruh senam asma\r\nIndonesia terhadappenderita asma. J\r\nRespir Indo. 2002; 22(3):118-24.\r\n6. Snell, R. Anatomi klinik untuk mahasiswa\r\nkedokteran. Edisi ke-6. Jakarta: EGC; 2006.\r\n7. Guyton, AC. Buku ajar fisiologi kedokteran.\r\nEdisi ke-11. Jakarta: EGC; 2007.\r\n8. Sherwood, LL. Fisiologi manusia: dari sel\r\nke sistem. Edisi ke- 6. Jakarta: EGC; 2011.\r\n9. Alsagaff, Hood, Abdul M. Dasar-dasar ilmu\r\npenyakit paru. Surabaya: Universitas\r\nAirlangga; 2005.\r\n10. Bernstein JA. Asthma in handbook of\r\nallergic disorders. Philadelphia: Lipincott\r\nWilliams & Wilkins; 2007.\r\n11. Eapen SS, Busse WW. Asthma in\r\ninflammatory mechanisms in allergic\r\ndiseases. USA: Marcel Dekker; 2006.\r\n12. Price SA, Wilson LM. Patofisiologi konsep\r\nklinis proses-proses penyakit. Edisi ke-4.\r\nEGC: Jakarta; 1995.\r\n13. Rengganis I. Diagnosis dan tatalaksana\r\nasma bronkial. Jakarta: FKUI; 2008.\r\n14. Perhimpunan Dokter Paru Indonesia\r\n(PDPI). Asma diagnosis dan\r\npenatalaksanaan di indonesia. Jakarta:\r\nPDPI; 2006.\r\n15. Katzung BG. Basic and clinical\r\npharmacology. Edisi ke-10. EGC: Jakarta;\r\n2007.\r\n16. Harahap F, Aryastuti E. Uji fungsi paru.\r\nJakarta: IDI; 2012.\r\n17. Amin M. Olahraga pada penyakit paru\r\nobstruktif. J Respir Indo.2006; 1(1): 5\r\nhalaman.\r\n18. Handari M. Hubungan antara sebelum dan\r\nsetelah mengikuti senam asma dengan\r\nfrekuensi kekambuhan penyakit asma. J\r\nKes Surya Medika Yogyakarta. 2004; 1(1):\r\n5 halaman.\r\n19. Ari E. Persepsi pasien asma tentang\r\nefektivitas senam asma dalam\r\nmeminimalkan kejadian ulang serangan\r\nasma [tesis]. Bandung: Stikes Santo\r\nBorromeus; 2011.\r\n20. Camalia SS, Dewi I, Sutanto PH.\r\nPeningkatan kekuatan otot pernapasan\r\ndan fungsi paru melalui senam asma pada\r\npasien asma. J Kep Indo. 2011; 14(2):101-6",
+      "eprint_status": "archive",
+      "eprintid": 236,
+      "pagerange": "103-107",
+      "userid": 575,
+      "number": 9,
+      "official_url": "http:\/\/jukeunila.com",
+      "documents": [
+          {
+            "eprintid": 236,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/228",
+            "pos": 1,
+            "format": "text",
+            "main": "khairunnisa berawi4.pdf",
+            "docid": 228,
+            "files": [
+                {
+                  "mtime": "2016-07-21 08:11:41",
+                  "hash_type": "MD5",
+                  "filename": "khairunnisa berawi4.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1345",
+                  "filesize": 364634,
+                  "objectid": 228,
+                  "hash": "2fd91fca1fcd174d83034a7fd2da8fe2",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 1345
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Virgita Pasya",
+            "honourific": null,
+            "lineage": null,
+            "family": "Azzren"
+          },
+          "id": "azzrenpasya@gmail.com"
+        },
+        {
+          "id": "nisaberawi0226@gmail.com",
+          "name": {
+            "given": "Nisa Berawi",
+            "family": "Khairun",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "The Effect of Sweet Star Fruit Juice (Averrhoa carambola L) for Lowering Blood Pressure",
+      "eprintid": 1395,
+      "eprint_status": "archive",
+      "datestamp": "2017-01-16 01:59:53",
+      "pagerange": "23-27",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 575,
+      "documents": [
+          {
+            "main": "5-1.pdf",
+            "docid": 1270,
+            "files": [
+                {
+                  "filename": "5-1.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9423",
+                  "objectid": 1270,
+                  "filesize": 458388,
+                  "mtime": "2017-01-14 03:57:14",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "2f5e575c2ecf7ec6cdbaee2a60949df1",
+                  "datasetid": "document",
+                  "fileid": 9423
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 1395,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1270",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2017-01-16 01:59:53",
+      "official_url": "http:\/\/jukeunila.com\/majority\/majority-volume-5-no-1\/",
+      "publisher": "Khairun Nisa",
+      "dir": "disk0\/00\/00\/13\/95",
+      "publication": "Majority",
+      "divisions": [
+        "FK1"
+      ],
+      "status_changed": "2017-01-16 01:59:53",
+      "full_text_status": "public",
+      "issn": "2337-3776",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "R1"
+      ],
+      "date_type": "published",
+      "volume": 5,
+      "abstract": "Hypertension or high blood pressure is one of the diseases that becomes one of the public health problems in Indonesia.\r\nThe prevalence of hypertension in Indonesia is pretty high namely 26,5% corresponding to Riskesdas 2013 data. Hypertension is often called the silent killer because sometimes it is unrecognized but triggered another disease such as stroke, kidney failure, heart failure and coronary heart disease. Hypertension treatment is done by administering antihypertension drugs. However, administration of these drugs often cause side effects for hypertension. Add by the lifelong dependence to the drug which caused the cost of therapy is relatively expensive. Therefore, it is necessary to find a safe, practical, and cheap antihypertension medications that can lower blood pressure. One alternative is to use the sweet star fruit (Averrhoa carambola L) juice because of its high potassium and fiber also low sodium contents. This review focused on the effect of sweet star fruit juice on blood pressure in human. Conclusion, the sweet star fruit juice can be an\r\nalternative in lowering blood pressure.\r\nKeywords: Averrhoa carambola L, blood pressure, hypertension, sweet star fruit juice",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1395",
+      "date": 2015
+    },
+    {
+      "title": "Factors - Factors Influencing the Incidence of Genesis Shortness of Breath Bronchial Asthma Sufferers",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "M. Aria",
+            "family": "Laksana",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Berawi",
+            "honourific": null,
+            "given": "Khairun Nisa"
+          }
+        }
+      ],
+      "contact_email": "nisaberawi0226@gmail.com",
+      "metadata_visibility": "show",
+      "lastmod": "2016-07-22 03:39:47",
+      "divisions": [
+        "FK1"
+      ],
+      "publication": "MAJORITY",
+      "dir": "disk0\/00\/00\/02\/37",
+      "rev_number": 6,
+      "status_changed": "2016-07-22 03:39:47",
+      "date_type": "published",
+      "subjects": [
+        "RB"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/237",
+      "volume": 4,
+      "refereed": "TRUE",
+      "pagerange": "64-68",
+      "datestamp": "2016-07-22 03:39:47",
+      "eprint_status": "archive",
+      "referencetext": "1. Price SA, Wilson LM. Patofisiologi Konsep\r\nKlinis Proses-Proses Penyakit. Edisi ke-6..\r\nJakarta: EGC; 2006.\r\n2. Bakta IM, Suastika IK. Gawat Darurat di\r\nBidang Penyakit Dalam. Jakarta: EGC; 2006.\r\n3. Beasley B, Holt S, Fabian D, Masoli M.\r\nGINA (Global Initiative for Asthma). Global\r\nStrategy For Asthma Management And\r\nPrevention. New Zealand: Medical\r\nResearch Institute of New Zealand; 2012.\r\n4. Rahajoe, Nastiti N, Supriyatno. Buku Ajar\r\nRespirologi Anak. Jakarta: IDAI; 2008.\r\n5. Hadibroto, Iwan, Alam S. Asma. Jakarta:\r\nPT. Gramedia Pustaka Utama; 2006.\r\n6. PDPI (Perhimpunan Dokter Paru\r\nIndonesia). Asma Pedoman Diagnosis Dan\r\nPenatalaksanaan Di Indonesia. Jakarta:\r\nFKUI; 2004\r\n7. Guyton AC, John EH. Buku Ajar Fisiologi\r\nKedokteran. Jakarta: EGC; 2007.\r\n8. Price SA, Wilson LM. Patofisiologi, Konsep\r\nKlinis Proses-Proses\r\n9. Sudoyo AW, Setiyohadi B, Alwi IK, Setiati S.\r\nIlmu Penyakit Dalam. Edisi ke-5. Jakarta:\r\nInternal Publishing; 2009.\r\n10. Greenberg MI. Teks Atlas Kedokteran\r\nKedaruratan. Jakarta: Erlangga; 2008.",
+      "eprintid": 237,
+      "official_url": "http:\/\/jukeunila.com",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/229",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 237,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1351",
+                  "filename": "Khairunnisa berawi5.pdf",
+                  "objectid": 229,
+                  "filesize": 364493,
+                  "mtime": "2016-07-21 08:21:40",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "650d35a7fc2ad3212af06f475165964a",
+                  "fileid": 1351,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Khairunnisa berawi5.pdf",
+            "docid": 229,
+            "format": "text"
+          }
+      ],
+      "userid": 575,
+      "number": 9,
+      "related_url": [
+        {
+          "url": "http:\/\/jukeunila.com\/majority\/edisi-4-no-9\/"
+        }
+      ],
+      "publisher": "Medical Journal of Lampung Univerisity",
+      "ispublished": "pub",
+      "issn": "2337 3776",
+      "full_text_status": "public",
+      "date": "2015-12",
+      "abstract": "Abstract\r\nBronchial asthma is a chronic inflammatory disorder of the airways that involves many cells and cellular elements. Until now, the death is caused by an asthma attack such as shortness of breath, wheezing, and others. According to World Health Organization (WHO), in 2008 there were 300 million people suffer from asthma and 225 thousand people die from asthma worldwide. The prevalence of asthma worldwide is equal to 8-10% of children and 3-5% in adults. In 2007, Riset Kesehatan Dasar (Riskesda) notes the prevalence of asthma is not known with certainty, but an estimated 5-7% of the Indonesian population suffer from asthma. Due to the high attack rate is causing a lot of research directed research on risk factors for\r\nasthma. Genetic and environmental factors has been known to affect the onset of symptoms and risk factors for asthma.\r\nThere are various other factors that influence the prevalence of this disease include age, gender, race, socio - economic and environmental factors. These factors affect the rate of occurrence of asthma attacks, the degree of asthma and deaths caused asthma.\r\nKeywords: Asthma, wheezing, shortness of breath"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2894",
+      "date": "2015-11-17",
+      "abstract": "Latar belakang. Peta pikiran merupakan salah satu alat yang dapat digunakan untuk belajar bagi mahasiswa kedokteran. Peta pikiran membantu mahasiswa untuk memproses informasi dan menyimpan informasi. Peta pikiran membantu mahasiswa membayangkan dan mengasosiasikan antara konsep. Peta pikiran bermanfaat dalam pemecahan masalah, berfikir kritis, mengingat kembali informasi, serta mengetahui keseluruhan konsep yang dipelajari serta digunakan sebagai penilaian. Tujuan Penelitian. Untuk melihat pengaruh peta pikiran terhadap pengetauan mahasiswa. Metode Penelitian. Penelitian ini merupakan penelitian quasi eksperimental.  Penelitian dilaksanakan di Fakultas Kedokteran Universitas Lampung. Populasi penelitian adalah mahasiswa tahun pertama angkatan 2014 kelas A sebanyak 115 orang. Kemudian Mahasiswa dibagi secara random menjadi dua kelompok. Kelompok pertama adalah kelompok yang menggunakan peta pikiran dan kelompok tanpa peta pikiran pada pembelajaran penyakit dalam. Nilai pengetahuan yang diukur dengan MCQ mahasiswa yang menggunakan peta pikiran dibandingkan dengan tidak menggunakan peta pikiran dengan menggunakan uji t-test. Dilihat apakah p valuae < 0,05, maka perbedaannya signifikan. Hasil Penelitian. Uji beda dengan independent t-test antara pos tes kelompok kontrol dan kelompok eksperimen berbeda secara signifikan yaitu 0,00 p<0,005. Nilai pos tes kelompok kontrol lebih tinggi dibanding kelompok eksperimen. Kesimpulan. Mahasiswa yang menggunakan peta pikiran menunjukan rata-rata nilai mcq yang lebih rendah secara bermakna dibandingkan mahasiswa yang mendapat pengalaman belajar tanpa menggunakan peta pikiran. Keyword: mind mapping, mahasiswa kedokteran, pengetahuan",
+      "date_type": "published",
+      "event_title": "IASHE 4 TH INTERNATIONAL CONFERENCE",
+      "subjects": [
+        "R1"
+      ],
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2017-06-02 20:52:52",
+      "event_type": "conference",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/00\/28\/94",
+      "lastmod": "2017-06-02 20:52:52",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2775",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2894,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 2775,
+            "main": "Rika L.pdf",
+            "files": [
+                {
+                  "objectid": 2775,
+                  "filesize": 536038,
+                  "filename": "Rika L.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19912",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-01 23:26:52",
+                  "fileid": 19912,
+                  "datasetid": "document",
+                  "hash": "75c58b57a7947eebefc1c3d0c866f0bc",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 367,
+      "metadata_visibility": "show",
+      "pagerange": "1-5",
+      "datestamp": "2017-06-02 20:52:52",
+      "eprint_status": "archive",
+      "eprintid": 2894,
+      "title": "PENGARUH PETA PIKIRAN TERHADAP PENGETAHUAN  MAHASISWA KEDOKTERAN",
+      "refereed": "TRUE",
+      "pres_type": "speech",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "rika_lisiswanti@yahoo.com",
+          "name": {
+            "family": "Lisiswanti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Rika"
+          }
+        }
+      ]
+    },
+    {
+      "status_changed": "2020-06-19 19:16:03",
+      "full_text_status": "public",
+      "issn": "2337-3776",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publication": "Majority",
+      "publisher": "Juke Unila",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/02\/24\/15",
+      "volume": 4,
+      "abstract": "Cisplatin merupakan salah satu obat yang digunakan untuk terapi berbagai jenis tumor solid dengan penggunaannya yang \r\nluas dan efektif. Akan tetapi, cisplatin memiliki efek samping terkait dosis pada ginjal, koklea, gastrointestinal dan sumsum \r\ntulang.  Nefrotoksisitas  merupakan  efek  samping  yang  paling  sering  dan  penting  secara  klinis.  Beberapa  penelitian  telah \r\nmenunjukkan beberapa mekanisme, di antaranya stres oksidatif, kerusakan DNA, dan respon inflamasi, yang dikaitkan erat \r\ndengan nefrotoksisitas yang diinduksi cisplatin. Walaupun efek samping kerusakan ginjal akibat cisplatin dapat dikurangi \r\ndengan  pemberian  diuretik  dan  pre-hidrasi  pasien,  prevalensi  nefrotoksisitas  akibat  penggunaan  cisplatin  masih  tetap \r\ntinggi. Oleh karena itu, terapi yang dapat memperbaiki nefrotoksisitas cisplatin menjadi penting untuk dikembangkan. Di \r\nsisi lain, hesperidin, flavonoid utama pada jeruk dan lemon, mempunyai nefroprotektif yang telah terbukti baik secara in \r\nvitro  maupun  in  vivo.  Bioaktivitas  yang  dimiliki  hesperidin  antara  lain  adalah  aktivitas  antioksidan,  antiinflamasi, \r\nantimikroba, antikarsinogenik, inhibisi agregasi sel, antialergi, radioproteksi, dan lain sebagainya. Dengan berbagai aktivitas \r\ntersebut,  hesperidin  merupakan  alternatif  potensial  untuk  mencegah  toksisitas  ginjal  akibat  penggunaan  cisplatin  tanpa \r\nmenurunkan aktivitas tumorisidalnya",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22415",
+      "date": 2015,
+      "subjects": [
+        "RC"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Idzni",
+            "honourific": null,
+            "family": "Mardhiyah",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Yonata",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ade"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Efek Protektif Hesperidin terhadap Nefrotoksisitas akibat Penggunaan Cisplatin",
+      "number": 9,
+      "userid": 112,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/208056",
+                  "filename": "1402-1997-1-PB.pdf",
+                  "filesize": 363340,
+                  "objectid": 36162,
+                  "mtime": "2020-06-19 14:10:01",
+                  "hash_type": "MD5",
+                  "hash": "6582fd22584a271078646ea959429859",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 208056
+                }
+            ],
+            "main": "1402-1997-1-PB.pdf",
+            "docid": 36162,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36162",
+            "pos": 1,
+            "eprintid": 22415,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2020-06-19 19:16:03",
+      "eprintid": 22415,
+      "eprint_status": "archive",
+      "datestamp": "2020-06-19 19:16:03",
+      "pagerange": "13-19",
+      "metadata_visibility": "show"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "RM",
+        "RS"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/199",
+      "volume": 6,
+      "divisions": [
+        "FK1"
+      ],
+      "publication": "Internasional Journal Of Research In Ayurveda & Pharmacy",
+      "dir": "disk0\/00\/00\/01\/99",
+      "rev_number": 8,
+      "status_changed": "2016-08-28 13:05:12",
+      "metadata_visibility": "show",
+      "lastmod": "2016-08-28 13:05:12",
+      "title": "HONEY AS AN ALTERNATIVE HEALING FOR BURNS ON WHITE RATS (RATTUS NORVEGICUS) STRAIN SPRAQUE DAWLEY",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Muhartono",
+            "family": "Muhartono",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "asepsukohar@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Sukohar",
+            "honourific": null,
+            "given": "Asep"
+          }
+        },
+        {
+          "name": {
+            "given": "Hendra",
+            "lineage": null,
+            "family": "T Sibero",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Widarti",
+            "honourific": null,
+            "given": "Indri"
+          }
+        }
+      ],
+      "date": "2015-01-06",
+      "abstract": "Burns is a serious health problem that can lead to morbidity, disability, and death. One of the standard treatment of burns is hydrogel. Hydrogel is\r\ngood for burn but quite expensive, so it is necessary to look for the cheaper, easier with less side effects like honey. The aim of this study was to determine whether honey can act as better alternative treatment for burns than hydrogel in Spraque Dawley rat strain. This study was a comparative experimental study in anatomical pathology laboratory medical faculty of Lampung University using 15 white rats divided into 3 groups: 5 rats control group which was only given burns (group 1), 5 rats that was given burns and honey topically (group 2) and 5 rats that was given burns and hydrogel topically (group 3). The clinical healing and histopathologic picture were performed. Statistical analysis performed using One Way Anova test and Post Hoc LSD test. The test results showed no significant difference between the honey and the hydrogel group (p = 0.861 and p = 0.502). As conclusion, honey can be used as an alternative drug for treatment of burns on White rats (Rattus norvegicus) Spraque Dawley strain",
+      "related_url": [
+        {
+          "url": "http:\/\/www.ijrap.net\/archives.php",
+          "type": "pub"
+        }
+      ],
+      "publisher": "Volume 6, Issue 1, Jan - Feb 2015",
+      "ispublished": "pub",
+      "issn": "2229-3566",
+      "full_text_status": "public",
+      "pagerange": "101-104",
+      "datestamp": "2016-08-28 13:05:12",
+      "eprint_status": "archive",
+      "eprintid": 199,
+      "id_number": "10.7897\/2277-4343.06122",
+      "official_url": "http:\/\/www.ijrap.net\/archives.php",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/203",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 199,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 1178,
+                  "datasetid": "document",
+                  "hash": "406b7aecac9444efefadc0392c45cd29",
+                  "mime_type": "application\/pdf",
+                  "filesize": 2101950,
+                  "objectid": 203,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1178",
+                  "filename": "1308_pdf.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-19 01:23:59"
+                }
+            ],
+            "main": "1308_pdf.pdf",
+            "docid": 203,
+            "format": "text"
+          }
+      ],
+      "userid": 151,
+      "contributors": [
+        {
+          "id": null,
+          "name": {
+            "given": "Muhartono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Muhartono"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "asepsukohar@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Asep",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sukohar"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "T Sibero",
+            "honourific": null,
+            "given": "Hendra"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Indri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Widarti"
+          }
+        }
+      ],
+      "number": 1,
+      "refereed": "TRUE"
+    },
+    {
+      "number": 6,
+      "userid": 575,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 1393,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1268",
+            "security": "public",
+            "files": [
+                {
+                  "mtime": "2017-01-14 03:30:35",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9411",
+                  "filename": "Neola-Amanda.pdf",
+                  "filesize": 108860,
+                  "objectid": 1268,
+                  "hash": "aa58187870c56ee76d1d0ef3e349f909",
+                  "mime_type": "application\/pdf",
+                  "fileid": 9411,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Neola-Amanda.pdf",
+            "docid": 1268,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "http:\/\/jukeunila.com\/uncategorized\/volume-4-no-6-suplemen\/",
+      "lastmod": "2017-01-16 01:59:49",
+      "eprint_status": "archive",
+      "eprintid": 1393,
+      "datestamp": "2017-01-16 01:59:49",
+      "pagerange": "1-4",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Amanda MZ",
+            "honourific": null,
+            "lineage": null,
+            "family": "Neola"
+          },
+          "id": "neolaamanda@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Nisa Berawi",
+            "lineage": null,
+            "family": "Khairun",
+            "honourific": null
+          },
+          "id": "nisaberawi0226@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Tiwuk",
+            "lineage": null,
+            "given": "s"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "THE EFFECT OF NUTRITIONAL STATUS TO PHYSICAL FITNESS OF KARATE ATHLETES IN BANDAR LAMPUNG",
+      "volume": 4,
+      "abstract": "can be measured with certain methods. Nutritional status that abnormal or low will have an impact on the level of physical fitness. One of the factors that influence physical fitness is nutrients or food. The purpose of this study was to examine the effect of nutritional status to fitness level in karate athletes in the city of Bandar Lampung. This research type is analytic study with cross sectional approach. The sampel obtained were 18 people using purposive sampling technique. Nutritional\r\nstatus variables measured by using anthropometric using index IMT\/U and fitness levels measured with multistage fitness test. Obtained that majority karate athlete's nutritional status is normal with a percentage of 61.1%, average of karate athlete's fitness level is enough that is 37.61. Nutritional status have a significant effect to fitness level in karate athletes in the city of Bandar Lampung (p=0.005).\r\nKeywords: athletes, health, nutritional status, physical fitness",
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1393",
+      "subjects": [
+        "RB"
+      ],
+      "date_type": "published",
+      "status_changed": "2017-01-16 01:59:49",
+      "full_text_status": "public",
+      "issn": "2337-3776",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "divisions": [
+        "FK1"
+      ],
+      "publisher": "Khairun Nisa",
+      "publication": "mAJORITY",
+      "dir": "disk0\/00\/00\/13\/93"
+    },
+    {
+      "issn": "2337-3776",
+      "full_text_status": "public",
+      "status_changed": "2016-08-28 13:06:19",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/jukeunila.com\/majority\/"
+        }
+      ],
+      "publication": "Medical Journal of Lampung University",
+      "publisher": "Volume 4, Nomor 9, Desember 2015",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/00\/02\/47",
+      "abstract": "Dismenore merupakan nyeri perut yang dirasakan wanita yang mengalami menstruasi, keluhan ini sering kali akan mengganggu aktivitas dan memerlukan istirahat. Nyeri saat haid menyebabkan ketidaknyamanan dalam aktivitas fisik sehari-hari. Keluhan ini berhubungan dengan ketidakhadiran berulang di kampus ataupun di tempat kerja, sehingga dapat mengganggu produktivitas. Wanita normal setiap bulan secara periodik akan mengalami peristiwa reproduksi yang disebut menstruasi yaitu meluruhnya jaringan endometrium karena tidak adanya telur matang yang dibuahi oleh sperma. Peristiwa itu wajar dan alami sehingga dapat dipastikan bahwa semua wanita yang normal pasti akan mengalami proses ini, akan tetapi pada kenyataannya banyak wanita mengalami masalah menstruasi diantaranya nyeri haid atau biasa disebut dismenore. Dismenore dapat diklasifikasikan menjadi dua, yaitu dismenore primer dan dismenore sekunder. Dismenore primer yaitu nyeri pada saat menstruasi yang dijumpai tanpa adanya kelainan pada alat-alat genitalia yang nyata, sedangkan dismenore sekunder yaitu nyeri pada saat menstruasi yang disebabkan oleh kelainan ginekologi seperti salpingitis kronika, endometriosis,adenomiosis uteri, stenosis servitis uteri.Faktor-faktor yang dapat mempengaruhi nyeri saat menstruasi diantaranya menarche pada usia dini, siklus haid yang panjang, merokok atau alkohol, aktivitas atau olahraga yang kurang, gizi atau obesitas, dan stress. Gizi atau obesitas merupakan faktor yang mempengaruhi terjadinya nyeri perut atau dismenore. hal ini didukung dengan kebiasaan mengkonsumsi makanan yang tidak sesuai seperti kudapan atau junk food. Mengkonsumsi yang berlemak dapat meningkatkan hormon prostaglandin yang dapat menyebabkan nyeri di bagian perut bawah atau dismenore.",
+      "volume": 4,
+      "date": "2015-12-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/247",
+      "date_type": "published",
+      "subjects": [
+        "RG"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Hani",
+            "lineage": null,
+            "family": "Pratiwi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rodiani",
+            "honourific": null,
+            "given": "Rodiani"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Obesitas sebagai Resiko Pemberat Dismenore pada Remaja",
+      "refereed": "TRUE",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Hani",
+            "family": "Pratiwi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rodiani",
+            "lineage": null,
+            "given": "Rodiani"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 556,
+      "number": 9,
+      "lastmod": "2016-08-28 13:06:19",
+      "official_url": "http:\/\/jukeunila.com\/majority\/",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "17-1dr. Rodiani (Majority).pdf",
+            "files": [
+                {
+                  "mtime": "2016-07-22 07:19:59",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1419",
+                  "filename": "17-1dr. Rodiani (Majority).pdf",
+                  "objectid": 239,
+                  "filesize": 383756,
+                  "mime_type": "application\/pdf",
+                  "hash": "85c586bfaa890fea0401124f8451a1f1",
+                  "datasetid": "document",
+                  "fileid": 1419
+                }
+            ],
+            "docid": 239,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/239",
+            "pos": 1,
+            "eprintid": 247,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2016-08-28 13:06:19",
+      "eprint_status": "archive",
+      "eprintid": 247,
+      "metadata_visibility": "show",
+      "pagerange": "108-112"
+    },
+    {
+      "eprintid": 219,
+      "eprint_status": "archive",
+      "datestamp": "2016-07-22 03:39:02",
+      "metadata_visibility": "show",
+      "contributors": [
+        {
+          "id": "ratnadps@gmail.com",
+          "name": {
+            "given": "Ratna Dewi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Puspita Sari"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 1197,
+      "documents": [
+          {
+            "format": "text",
+            "main": "ARTIKEL REVIEW RATNA DPS.doc",
+            "files": [
+                {
+                  "filesize": 108032,
+                  "objectid": 218,
+                  "filename": "ARTIKEL REVIEW RATNA DPS.doc",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1295",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-21 06:46:23",
+                  "datasetid": "document",
+                  "fileid": 1295,
+                  "hash": "08c7e8015f50b4374294305fa8f47d0f",
+                  "mime_type": "application\/msword"
+                }
+            ],
+            "docid": 218,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/msword",
+            "eprintid": 219,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/218",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2016-07-22 03:39:02",
+      "creators": [
+        {
+          "name": {
+            "given": "Ratna Dewi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Puspita Sari"
+          },
+          "id": "ratnadps@gmail.com"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Uterine Rupture",
+      "subjects": [
+        "RG"
+      ],
+      "date_type": "published",
+      "abstract": "Abstract\r\n\r\nHemorrhage is majority cause of maternal mortality in addition preeclampsia\/eclampsia and infections. Uterine rupture is the tearing of the uterine wall during pregnancy or during labour more than 28 weeks gestational age. Maternal mortality due to hemorrhagic caused by uterine rupture ranged from 17.9% to 62.6%. At the first stage and the second stage of labour, boundary between the lower uterine segment and the upper uterine segment is called physiological retraction, if the lower part of uterine is not progress it became pathological retraction (Bandl's Ring). When the lower uterine segment is still no progress at delivery time it cause uterine rupture and complications such as maternal mortality. It required accuracy in diagnosis of uterine rupture and treatment can be done properly and quickly, so shock and infection can be prevented. \r\n\r\nKeywords:  Uterine Rupture, Hemorrhage, Lower Uterine Segment",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/219",
+      "date": "2015-06",
+      "dir": "disk0\/00\/00\/02\/19",
+      "publication": "JKK Unila",
+      "divisions": [
+        "FK1"
+      ],
+      "status_changed": "2016-07-22 03:39:02",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 13
+    },
+    {
+      "contact_email": "nisaberawi0226@gmail.com",
+      "title": "Four Pillars of Management of Type 2 Diabetes Mellitus Patients",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Putra",
+            "lineage": null,
+            "given": "I Wayan A"
+          }
+        },
+        {
+          "name": {
+            "given": "Khairun Nisa",
+            "honourific": null,
+            "lineage": null,
+            "family": "Berawi"
+          }
+        }
+      ],
+      "lastmod": "2016-07-22 03:39:33",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "status_changed": "2016-07-22 03:39:33",
+      "dir": "disk0\/00\/00\/02\/35",
+      "publication": "MAJORITY",
+      "divisions": [
+        "FK1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/235",
+      "volume": 4,
+      "date_type": "published",
+      "subjects": [
+        "RB"
+      ],
+      "refereed": "TRUE",
+      "official_url": "http:\/\/jukeunila.com",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "khairunnisa berawi3.pdf",
+            "docid": 227,
+            "files": [
+                {
+                  "fileid": 1339,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "5704a093d45312c2cc31082fb3fc9bcc",
+                  "objectid": 227,
+                  "filesize": 362669,
+                  "filename": "khairunnisa berawi3.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1339",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-21 07:55:14"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/227",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 235
+          }
+      ],
+      "userid": 575,
+      "number": 9,
+      "pagerange": "8-12",
+      "datestamp": "2016-07-22 03:39:33",
+      "eprint_status": "archive",
+      "eprintid": 235,
+      "referencetext": "1. Dunning MB. 2009. A Manual of\r\nLaboratory and Diagnostic Test. 8 th Ed.\r\nLippincott Williams & Wilkins.\r\n2. Kementrian Kesehatan Republik\r\nIndonesia. Riset Kesehatan Dasar. Jakarta:\r\nLaporan Riskesdas. Badan Penelitian dan\r\nPengembangan Kesehatan Kementerian\r\nKesehatan; 2010.\r\n3. Lind M, Odén A, Fahlén M, Eliasson B. The\r\nTrue Value of HbA1c as a Predictor of\r\nDiabetic Complications: Simulations of\r\nHbA1c Variables. PLoS ONE. 2009; 4(2):\r\n4412.\r\n4. Fauci, AS., et al., Harrison’s Principles of\r\nInternal Medicine. 17th ed. USA: The\r\nMcGraw-Hill Companies, Inc. 2008; pp.\r\n338.\r\n5. American Diabetes Association. Diagnosis\r\nand Classification of Diabetes Mellitus.\r\nAmerica: Diabetes Care. 2011; hlm. 34.\r\n6. Perkumpulan Endokrinologi Indonesia.\r\nKonsensus Pengendalian dan Pencegahan\r\nDiabetes Mellitus Tipe2 di Indonesia.\r\nJakarta: Perkeni; 2011.\r\n7. American Diabetes Association. 2013.\r\nDiabetes Basics. Alexandria. [diakses\r\ntanggal 21 juli 2015]. Tersedia dari:\r\nfrom:http:\/\/www.diabetes.org\/diabetesbasics\/\r\n8. Goldstein DE., et al. Tests of Glycaemia in\r\nDiabetes. Diabetes Care. 2004; 27:1761–\r\n1773.\r\n9. Gunton JE., et al., Cigarette smoking\r\naffects glycemic control in diabetes.\r\nDiabetes care. 2002; 25(4). 796-7.\r\n10. Guyton AC, Hall JE. Textbook of Medical\r\nPhysiology. 11th ed. Pennsylvania: Elsevier\r\nSaunders; 2006: 78: 971-2.\r\n11. Holt, Kumar. ABC of Diabetes. Sixth\r\nedition. UK: Wiley-Blackwell; 2010.\r\n12. International Diabetes Federation, 2013.\r\n[diakses tanggal 21 Juli 2015]. Tersedia\r\ndari: http:\/\/www.idf.org\/about-insulin-0\/\r\n13. Lind M, Odén A, Fahlén M, Eliasson B. The\r\nTrue Value of HbA1c as a Predictor of\r\nDiabetic Complications: Simulations of\r\nHbA1c Variables. PLoS ONE; 2009: 4(2):\r\n4412.\r\n14. Semiardji G. Pendidikan\r\nBerkesinambungan Patologi Klinik.\r\nJakarta: Bagian Patologi Klinik Fakultas\r\nKedokteran Universitas Indonesia; 2003.",
+      "ispublished": "pub",
+      "issn": "2337-3776",
+      "full_text_status": "public",
+      "related_url": [
+        {
+          "url": "http:\/\/jukeunila.com\/majority\/edisi-4-no-9\/"
+        }
+      ],
+      "publisher": "Medical Journal of Lampung Univerisity",
+      "date": "2015-12",
+      "abstract": "Diabetes mellitus (DM) is a group of metabolic diseases characterized by hyperglycemia resulting from defects in insulin secretion, insulin action or both. Insulin is a hormone produced by the pancreas that play a role in incorporating the glucose from food into body cells, where the glucose to be converted into energy needed by muscles and tissues to function.\r\nDiabetes is not able to absorb glucose properly and glucose increases in the blood (hyperglycemia) and tissue damage over time. The management of patients with diabetes mellitus are known four pillars essential in controlling the course of the disease and complications. The four pillars are education, nutrition therapy, physical activity and pharmacology.\r\nKeywords: diabetes melitus, the four pillars of the management of diabetes melitus"
+    },
+    {
+      "publication": "Seminar Nasional Sains dan Teknologi VI UNILA",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/00\/05\/29",
+      "issn": "1098-6596",
+      "full_text_status": "none",
+      "status_changed": "2016-09-03 08:08:22",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "R1",
+        "RS"
+      ],
+      "abstract": "Predicting the binding mode of flexible polypeptides to proteins is an important task that falls outside the domain of applicability of most small molecule and protein−protein docking tools. Here, we test the small molecule flexible ligand docking program Glide on a set of 19 non-α-helical peptides and systematically improve pose prediction accuracy by enhancing Glide sampling for flexible polypeptides. In addition, scoring of the poses was improved by post-processing with physics-based implicit solvent MM- GBSA calculations. Using the best RMSD among the top 10 scoring poses as a metric, the success rate (RMSD ≤ 2.0 Å for the interface backbone atoms) increased from 21% with default Glide SP settings to 58% with the enhanced peptide sampling and scoring protocol in the case of redocking to the native protein structure. This approaches the accuracy of the recently developed Rosetta FlexPepDock method (63% success for these 19 peptides) while being over 100 times faster. Cross-docking was performed for a subset of cases where an unbound receptor structure was available, and in that case, 40% of peptides were docked successfully. We analyze the results and find that the optimized polypeptide protocol is most accurate for extended peptides of limited size and number of formal charges, defining a domain of applicability for this approach.",
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/529",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ramadhian",
+            "honourific": null,
+            "given": "Muhammad Ricky"
+          },
+          "id": "rickyramadhian@gmail.com"
+        }
+      ],
+      "type": "article",
+      "title": "Telmisartan menghambat peningkatan kadar TGF-β1 aorta tikus (Rattus norvegicus) yang diinduksi NaCl 8%",
+      "refereed": "TRUE",
+      "contact_email": "rickyramadhian@gmail.com",
+      "datestamp": "2016-09-03 08:08:22",
+      "eprintid": 529,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 154,
+      "lastmod": "2016-09-15 03:17:17"
+    },
+    {
+      "number": 9,
+      "userid": 112,
+      "documents": [
+          {
+            "main": "DM vs Ginjal Kronik.pdf",
+            "files": [
+                {
+                  "fileid": 208035,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "8409bf63fce4bdf6577b8dadea738ad3",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-19 07:45:32",
+                  "objectid": 36160,
+                  "filesize": 517956,
+                  "filename": "DM vs Ginjal Kronik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/208035"
+                }
+            ],
+            "docid": 36160,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 22414,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36160",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2020-06-19 07:50:13",
+      "eprintid": 22414,
+      "eprint_status": "archive",
+      "datestamp": "2020-06-19 07:50:13",
+      "pagerange": "27-34",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Janis",
+            "honourific": null,
+            "family": "Rivandi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yonata",
+            "lineage": null,
+            "given": "Ade"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Hubungan diabetes melitus dengan kejadian gagal ginjal kronik",
+      "volume": 4,
+      "abstract": "Ginjal merupakan organ vital yang berperan sangat penting dalam mempertahankan kestabilan lingkungan dalam  tubuh. \r\nGinjal mengatur keseimbangan cairan tubuh, elektrolit dan asam basa dengan cara menyaring darah yang melalui ginjal, \r\nreabsorbsi  selektif  air,  serta  mengekresi  kelebihannya  sebagai  kemih  serta  mengeluarkan  sampah  metabolisme  (urea, \r\nkreatinin dan asam urat) dan zat kimia asing.  Nefropati diabetik adalah kelainan degeneratif vaskuler ginjal, mempunyai \r\nhubungan    dengan  gangguan  metabolisme  karbohidrat  atau  intoleransi  gula  (Diabetes  Melitus).  Didefinisikan  sebagai \r\nsindrom klinis pada pasien DM yang ditandai dengan albuminuria menetap (>300 mg\/24 jam atau >200 mikrogram\/menit) \r\npada minimal dua kali pemeriksaan dalam kurun waktu 3 sampai 6 bulan. Diabetes Melitus adalah suatu kelompok penyakit \r\nmetabolik dengan karakteristik hiperglikemia yang terjadi karena kelainan sekresi insulin,kerja insulin atau kedua-duanya. \r\nKelainan yang terjadi pada ginjal penyandang diabetes melitus dimulai dengan adanya mikroalbuminuria. Mikroalbuminuria \r\numumnya didefinisikan sebagai ekskresi albumin lebih dari 30 mg per hari dan dianggap penting untuk timbulnya nefropati \r\ndiabetik  yang  jika  tidak  terkontrol  kemudian  akan  berkembang  menjadi  proteinuria  secara  klinis  dan  berlanjut  dengan \r\npenurunan fungsi laju filtrasi glomerular dan berakhir dengan keadaan gagal ginjal.   Diperkirakan 30-40% penderita DM tipe \r\n1 dan 20-30% penderita DM tipe 2 akan menderita nefropati diabetik suatu saat yang dapat berakhir dengan keadaan gagal \r\nginjal.",
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22414",
+      "subjects": [
+        "RC"
+      ],
+      "status_changed": "2020-06-19 07:50:13",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "divisions": [
+        "FK1"
+      ],
+      "publication": "Jurnal Majority",
+      "dir": "disk0\/00\/02\/24\/14"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Rodiani",
+            "family": "Rodiani",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Skrining Ultrasonografi pada Sindroma Down",
+      "refereed": "TRUE",
+      "userid": 556,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Rodiani",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rodiani"
+          }
+        }
+      ],
+      "official_url": "http:\/\/fk.unila.ac.id\/prosiding-seminar-presentasi",
+      "lastmod": "2016-08-28 13:07:01",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/242",
+            "pos": 1,
+            "eprintid": 250,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Prosiding.pdf",
+            "files": [
+                {
+                  "filename": "Prosiding.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1434",
+                  "objectid": 242,
+                  "filesize": 578215,
+                  "mtime": "2016-07-22 07:57:16",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "00dc8dac4f38451a5d153867b118c90f",
+                  "datasetid": "document",
+                  "fileid": 1434
+                }
+            ],
+            "docid": 242
+          }
+      ],
+      "datestamp": "2016-08-28 13:07:01",
+      "eprint_status": "archive",
+      "eprintid": 250,
+      "metadata_visibility": "show",
+      "pagerange": "43-51",
+      "issn": "978-602-73961-0-4",
+      "full_text_status": "public",
+      "status_changed": "2016-08-28 13:07:01",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/fk.unila.ac.id\/prosiding-seminar-presentasi"
+        }
+      ],
+      "publisher": "24 Oktober 2015",
+      "divisions": [
+        "FK1"
+      ],
+      "publication": "Prosiding Seminar Presentasi Artikel Ilmiah Dies Natalis FK Unila ke-13",
+      "dir": "disk0\/00\/00\/02\/50",
+      "abstract": "Sindroma Down adalah kondisi keterbelakangan fisik dan mental yang diakibatkan oleh abnormalitas kromosom. Di\r\nIndonesia ditemukan hingga sekitar 300 ribu kasus dan ditemukan semakin meningkat seiring peningkatan usia ibu. Dalam\r\ndeteksi sindroma Down dapat dilakukan deteksi dini sejak dalam kehamilan. Dalam tes diagnostik, hasil positif berarti\r\nkemungkinan besar pasien menderita penyakit atau kondisi yang memprihatinkan. Sedangkan skrining bertujuan untuk\r\nmemperkirakan risiko pasien yang memiliki penyakit. Tes diagnostik cenderung lebih mahal dan memerlukan prosedur yang\r\nrumit, sedangkan tes skrining cepat dan mudah dilakukan. Namun, tes skrining memiliki lebih banyak peluang untuk salah,\r\nbaik falsepositive\r\nmaupun falsenegative.\r\nKegunaan utama ultrasonografi (USG) sebagai alat skrining untuk mendeteksi\r\nsindroma Down dilakukan pada trimester pertama dan kedua kehamilan. Beberapa marker yang dapat dijumpai pada\r\nskrining trimester pertama kehamilan antara lain nuchal translucency, kista higroma, hipoplasia atau tidak adanya os nasal,\r\ndoppler duktus venosus, serta adanya regurgitasi tricuspid. Marker pada trimester kedua yang ditemukan antara lain\r\nthickness nuchal fold, short long bones, hiperekoik pada usus, echogenic intracardiac focus, dilatasi ginjal, serta choroid\r\nplexus cysts. Penanda yang lebih spesifik adalah pengukuran os nasal janin namun belum ada teknik standar untuk\r\nmengukur os nasal. Marker tambahan yang ditemukan berupa increased iliac wing angle, ear length, dan single umbilical\r\nartery serta klinodaktili. Apabila markermarker\r\nsesuai per trimester ditemukan dengan skor>2 maka bernilai sensitifitas\r\n82% untuk sindroma Down. Simpulan : USG merupakan modalitas yang sensitif pada proses penegakan diagnostik sindroma\r\nDown.",
+      "date": "2015-10-24",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/250",
+      "date_type": "published",
+      "subjects": [
+        "RG"
+      ]
+    },
+    {
+      "subjects": [
+        "SD"
+      ],
+      "date_type": "published",
+      "volume": 3,
+      "abstract": "Kawasan Dengan Tujuan Istimewa atau KDTI (SK Menhut No.47\/Kpts-II\/1998)hutan adat Repong Damar seluas 29.000 ha yang merupakan best practice dalam manajemen hutan\r\nberbasis masyarakat di Provinsi Lampung Bagian Barat belum diketahui tentang kapasitasnya dalam menjamin kebersinambungan pembangunan sumberdaya manusia utamanya yang kritis mulai pada usia balita.  Penelitian ini dilakukan mulai bulan Maret-April 2014 di Desa\r\nPahmungan Kecamatan Pesisir Tengah Kabupaten Pesisir Barat.  Tujuan dari penilitian ini adalah untuk mengetahui pengaruh simultan antara populasi kepemilikan pohon damar\r\ndengan pendapatan, pengeluaran pangan rumah tangga, asupan makan balita, dan status gizi balita.  Akuisisi data dilakukan melalui wawancara untuk menjaring data populasi\r\nkepemilikan pohon damar [PHN], pendapatan [YI], pengeluaran pangan [YII], asupan makan (food recall)balita sebagai dasar penentuan status gizi balita [YIII] yang dihitung dengan\r\nmetode antropometri (Kemenkes, 2010), khususnya berat badan menurut tinggi badan(BB\/TB).  Untuk menguji hipotesis digunakan persamaan simultan 4 tahap. Optimasi parameter menggunakan piranti lunak minitab 16. Simpulan, telah dibuktikan ada tautan yang nyata antara peranan sistem repong damar terhadap pendapatan, status kesehatan, dan\r\nstatus gizi balita.  Ditemukan relasi\/hubungan nyata antara pendapatan repong damar [YI][YI]i= -0.1770+0.023150 [PHN]i.  Selanjutnya secara simultan ditemukan hubungan  nyata\r\nantara pengeluaran pangan (YII) dengan [YII] seperti digambarkan dengan model [YII]i=1.1546+0.438 [YI].  Lebih lanjut secara simultan ditemukan hubungan nyata antara asupan makan balita [YIII] dengan pengeluaran pangan [YII] dengan model [YIII]i= 17.012 +3.703[YII].\r\nKata kunci: Repong damar, pendapatan, status kesehatan dan status gizi balita.",
+      "date": "2015-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20345",
+      "publication": "Sylva Lestari",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/02\/03\/45",
+      "status_changed": "2020-05-22 05:19:49",
+      "full_text_status": "public",
+      "issn": "2339-0913",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 20345,
+      "datestamp": "2020-05-22 05:19:49",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 616,
+      "documents": [
+          {
+            "main": "Jurnal Silva Lestari_Jan 2015_Desmayanti dan Samsul Bahri dan Reni Zuraida.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "91bf2a1fc9707ef290892a92c8d5ef22",
+                  "fileid": 191544,
+                  "datasetid": "document",
+                  "mtime": "2020-05-22 03:57:40",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal Silva Lestari_Jan 2015_Desmayanti dan Samsul Bahri dan Reni Zuraida.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/191544",
+                  "objectid": 33689,
+                  "filesize": 98407
+                }
+            ],
+            "docid": 33689,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 20345,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33689",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2020-05-22 05:19:49",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Saputri",
+            "honourific": null,
+            "given": "D E"
+          },
+          "id": null
+        },
+        {
+          "id": "samsul.bakri@fp.unila.ac.id",
+          "name": {
+            "given": "Samsul",
+            "family": "Bakri",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Zuraida",
+            "honourific": null,
+            "given": "Reni"
+          },
+          "id": "reni.zuraida@fk.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "PERANAN SISTEM REPONG DAMAR TERHADAP PENDAPATAN, ASUPAN\r\nMAKAN DAN STATUS GIZI BALITA: STUDI KASUS DI DESA PAHMUNGAN\r\nKECAMATAN PESISIR TENGAH KABUPATEN PESISIR BARAT"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Hubungan Tingkat Pengetahuan Ibu terhadap Penggunaan Alat Kontrasepsi\r\ndalam Rahim (AKDR)",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Noviana Hartika",
+            "lineage": null,
+            "family": "Sari",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rodiani",
+            "given": "Rodiani"
+          }
+        }
+      ],
+      "pagerange": "108-112",
+      "metadata_visibility": "show",
+      "eprintid": 248,
+      "eprint_status": "archive",
+      "datestamp": "2016-08-28 13:06:28",
+      "documents": [
+          {
+            "eprintid": 248,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/240",
+            "format": "text",
+            "main": "20 dr. Rodiani (Majority).pdf",
+            "files": [
+                {
+                  "mtime": "2016-07-22 07:35:50",
+                  "hash_type": "MD5",
+                  "filename": "20 dr. Rodiani (Majority).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1424",
+                  "filesize": 481194,
+                  "objectid": 240,
+                  "mime_type": "application\/pdf",
+                  "hash": "986c8cf4a8e7cacb6fd8697de9a9bd8a",
+                  "fileid": 1424,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 240,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "http:\/\/jukeunila.com\/majority\/",
+      "lastmod": "2016-08-28 13:06:28",
+      "number": 9,
+      "userid": 556,
+      "contributors": [
+        {
+          "name": {
+            "given": "Noviana Hartika",
+            "family": "Sari",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Rodiani",
+            "family": "Rodiani",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "Volume 4, Nomor 9, Desember 2015",
+      "dir": "disk0\/00\/00\/02\/48",
+      "publication": "Medical Journal of Lampung University",
+      "divisions": [
+        "FK1"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/jukeunila.com\/majority\/",
+          "type": "pub"
+        }
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2016-08-28 13:06:28",
+      "full_text_status": "public",
+      "issn": "2337-3776",
+      "subjects": [
+        "RG"
+      ],
+      "date_type": "published",
+      "date": "2015-12-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/248",
+      "volume": 4,
+      "abstract": "Kontrasepsi adalah salah satu solusi dalam menghadapi laju pertumbuhan penduduk di Indonesia yang mengalami\r\npeningkatan dari 1,45 persen (1990–2000) menjadi 1,49 persen (2000-2010). Kontrasepsi bertujuan untuk tercapainya\r\nkesehatan reproduksi yang berkualitas, menurunkan angka kematian ibu dan bayi, dan penanggulangan masalah kesehatan\r\nreproduksi dalam rangka membangun keluarga kecil berkualitas. Beberapa metode kontrasepsi modern yang dapat\r\ndigunakan seperti oral kontrasepsi, suntikan, implant, IUD, dan sterilisasi.penggunaan Alat Kontrasepsi Alat Dalam Rahim\r\n(AKDR). Alat Kontrasepsi Alat Dalam Rahim adalah suatu alat atau benda kontrasepsi yang dimasukkan ke dalam rahim yang\r\nmencegah kehamilan dengan baik, reversibel dan berjangka panjang, dapat dipakai oleh semua perempuan usia reproduktif\r\nuntuk tujuan kontrasepsi sehingga menjadi salah satu rekomendasi kuat sebagai kontrasepsi efektif. Namun, kontrasepsi\r\nAKDR tidak serta merta menjadi pilihan utama karena pemilihan metode kontrasepsi ini dipengaruhi oleh banyak faktor,\r\nsalah satunya adalah pengetahuan pengguna kontrasepsi mengenai manfaat, efektivitas, indikasi hingga efek samping dari\r\nkontrasepsi. Pengetahuan terbagi menjadi 6 tingkatan yaitu tahu, memahami, aplikasi, analisis, sintesis dan evaluasi. Faktor\r\nyang mempengaruhi pengetahuan meliputi umur, intelegensia, lingkungan, sosial budaya, pendidikan, informasi, dan\r\npengalaman. Berdasarkan faktor yang mempengaruhi beserta materi mengenai penggunaan AKDR tersebut dapat menjadi\r\nalat ukur melalui wawancara atau angket dengan menanyakan pertanyaan keresponden sehingga didapatkan suatu korelasi\r\natau hubungan pengetahuan ibu terhadap penggunaan AKDR."
+    },
+    {
+      "publisher": "Khairun Nisa",
+      "divisions": [
+        "FK1"
+      ],
+      "publication": "Majority",
+      "dir": "disk0\/00\/00\/13\/97",
+      "issn": "2337-3776",
+      "full_text_status": "public",
+      "status_changed": "2017-01-16 01:59:57",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "R1",
+        "RB"
+      ],
+      "abstract": "Obesity is excessive fat accumulation in the body. Obesity is caused due to an imbalance between calorie intake and calorie output so the excess calories are stored as fat. If obesity is taking place in the long term, it can lead to hyperglycemia and hypercholesterolemia. Hyperglycemia is an increase blood glucose levels while hypercholesterolemia is an increase blood total cholesterol, LDL, and triglyceride and a decrease of blood HDL levels. Tamarillo (Cyphomandra betaceae) has efficacy in lowering blood glucose levels (hypoglycemic), blood cholesterol levels (hypocholesterolemic) and body weight. Tamarillo\r\nextract , especially polyphenols, can restore the regulation of adipokines in obese patients so can decrease the risk of insulin resistance and triglycerides production in adipose tissue. The results showed that Tamarillo extract in 200-300 mg\/kg dose cause a decrease of blood glucose levels, blood LDL cholesterol levels and body weight in adultmale Sprague-Dawley rats obesity who induced by high fat diet.\r\nKeywords : hypercholesterolemia, hyperglycemia, obesity, tamarillo",
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1397",
+      "date": 2015,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Silvia",
+            "given": "Mara Asvita"
+          },
+          "id": "silviamara1305@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Khairun",
+            "honourific": null,
+            "given": "Nisa Berawi"
+          },
+          "id": "nisaberawi0226@gmail.com"
+        }
+      ],
+      "type": "article",
+      "title": "Effectiveness of Tamarillo Extract for Decreasing Blood Glucose and LDL Cholesterol Levels in Obese Patient",
+      "refereed": "TRUE",
+      "datestamp": "2017-01-16 01:59:57",
+      "eprintid": 1397,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "102-106",
+      "userid": 575,
+      "number": 1,
+      "official_url": "http:\/\/jukeunila.com\/majority\/majority-volume-5-no-1\/",
+      "lastmod": "2017-01-16 01:59:57",
+      "documents": [
+          {
+            "format": "text",
+            "main": "20-1.pdf",
+            "docid": 1272,
+            "files": [
+                {
+                  "filename": "20-1.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9436",
+                  "filesize": 485652,
+                  "objectid": 1272,
+                  "mtime": "2017-01-14 06:02:46",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "c86c420f4d6762979f5ce3dd33f59feb",
+                  "fileid": 9436,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 1397,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1272"
+          }
+      ]
+    },
+    {
+      "abstract": "Objective: Detection of hepatocellular cancer cells(HCC) in vitro has reached the smallest level, that is miRNA(micro RNA) in particular miRNA146A. This study was conducted from February to May2013 at the Department of Molecular Biology, Dharmais Cancer Hospital. The purpose of this study was to compare the value of Cq and expression ofmicroRNA(miRNA\/mir) on Hep-G2 and PLC5.\r\n\r\nMethods: In vitro study were performed in Hep-G2 series 1886 and PLC5. The study used on 33 samples consisting of 5 groups of mir (miRNA146A, miR-423-3p, miR-103, miR-21and miR-16) in Hep-G2 and 5 groups of mirinPLC5 with 3 times repetition, 1 NTC and 2 spike.\r\n\r\nResults: MiRNA146 A expressionin Hep-G2against mir-423-3p, mir-103, mir-21, mir-16resulted in values as follows in consecutive order: (0.05), (0.03), (0.01), and (0.55). The highest expression was: miRNA146 Aagainst mir-16 and the smallest expression miRNA146 Aagainst mir-21in Hep-G2. MiRNA146 A expressionincell linesPLC5against mir-423-3p, mir-103, mir-21, mir-16resulted in values as follows: (0.01), (0.00), (0.00), and(0.02). The highest expression: miRNA146 A against mir-16, and the smallest expression: miRNA146 Aagainstmir-103 and mir-21 in PLC5.\r\n\r\nConclusion: MiRNA 146 A, mir-423-3p, mir-103, mir-21, and mir-16 were expressed in Hep-G2 series 1886 and PLC5. The highest gene expression in miRNA146 A against mir-16 was found inHep-G2 andPLC5. The lowest gene expression in miRNA 146 A against mir-103 andmir-16 was found in PLC5.",
+      "volume": 7,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/184",
+      "date": "2015-02-02",
+      "date_type": "published",
+      "subjects": [
+        "RM"
+      ],
+      "full_text_status": "public",
+      "issn": "0975-1491",
+      "status_changed": "2016-07-18 08:26:38",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.ijppsjournal.com\/contents.htm"
+        }
+      ],
+      "divisions": [
+        "FK1"
+      ],
+      "publisher": "Vol 7, Issue 2, ( Feb 2015 )",
+      "publication": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "dir": "disk0\/00\/00\/01\/84",
+      "userid": 151,
+      "contributors": [
+        {
+          "id": "asepsukohar@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "SUKOHAR",
+            "given": "ASEP"
+          }
+        },
+        {
+          "name": {
+            "given": "HENING",
+            "honourific": null,
+            "family": "HERAWATI",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "WITARTO B",
+            "lineage": null,
+            "given": "ARIEF"
+          },
+          "id": null
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "HENDRA",
+            "family": "SIBERO T",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "SUTYARSO",
+            "given": "SUTYARSO"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        }
+      ],
+      "number": 2,
+      "lastmod": "2016-08-31 02:30:14",
+      "official_url": "http:\/\/www.ijppsjournal.com\/contents.htm",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 189,
+            "main": "3347-15317-1-Publish_Dr Asep.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 1068,
+                  "hash": "10edb1f544874cee64886db67ea88332",
+                  "mime_type": "application\/pdf",
+                  "objectid": 189,
+                  "filesize": 407002,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1068",
+                  "filename": "3347-15317-1-Publish_Dr Asep.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-18 07:50:29"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 184
+          }
+      ],
+      "datestamp": "2016-07-18 08:26:38",
+      "eprint_status": "archive",
+      "eprintid": 184,
+      "metadata_visibility": "show",
+      "pagerange": "76-79",
+      "creators": [
+        {
+          "id": "asepsukohar@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Sukohar",
+            "lineage": null,
+            "given": "Asep"
+          }
+        },
+        {
+          "name": {
+            "family": "HERAWATI",
+            "lineage": null,
+            "honourific": null,
+            "given": "HENING"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "ARIEF",
+            "family": "WITARTO  B",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "HENDRA",
+            "honourific": null,
+            "family": "SIBERO T",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "SUTYARSO",
+            "family": "SUTYARSO",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "title": "COMPARISON OF GENES EXPRESSION; MIRNA 146 A, MIR-103, MIR-423-3P, MIR-21, MIR-16\r\n\r\nIN CELL LINES HEP-G2 SERIES 1886 AND PLC5",
+      "refereed": "TRUE"
+    },
+    {
+      "status_changed": "2016-08-28 13:04:50",
+      "full_text_status": "public",
+      "issn": "0975-7384",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "publisher": "Volume 7 Issue 1 2015",
+      "publication": "Journal of Chemical and Pharmaceutical Research",
+      "dir": "disk0\/00\/00\/01\/91",
+      "divisions": [
+        "FK1"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/jocpr.com",
+          "type": "pub"
+        }
+      ],
+      "volume": 7,
+      "abstract": "Based on reports from the International Agency for Research on Cancer (IARC) in 2008, it has been found more than 12 million new cancer cases in the world. We need an effort to discover new anticancer drugs from natural substance origin. Chlorogenic acid was isolated from Lampung Robusta coffee(Coffea Robusta). Pure experimental design in vitro using a Cell Lines Hep-G2 was conducted in the Department of Molecular Biology Cancer Hospital Dharmais. The aim of this study was to know the action mechanism of chlorogenic acid. In vitro study was using Hep-G2 cells and samples were divided into four groups; 2 control group treatment, 1 experiment group exposed to 727µM chlorogenic acid, 1 experiment group exposed to doxorubicin 1.5µM, and group treatment have been treated with 3times repetition. The expression of caspase 3 was examined at 0,8, 18 and 24. Data were analyzed with livaks method and repeated measurement. This study shows an increasing expression of caspase 3 from 0-8 hours. Caspase 3 shows the highest expression at 8 hours after doxorubicin exposure, with expression value 4.36 followed by chlorogenc acid it expression value 0.74. The caspase 3 expression was decreased after 8 hours up to 24 hours after either doxorubicin or chlorogenic acid exposure. Conclusion, IC50 doxorubicin (1.5µM) is moretoxic than chlorogenic acid (727µM). At 8 hours after doxorubicin and chlorogenic acid exposure, caspase 3 expression with doxorubicin (4,36) higher than chlorogenic acid (0.74).",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/191",
+      "date": "2015-09-16",
+      "subjects": [
+        "RM"
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sukohar",
+            "lineage": null,
+            "given": "Asep"
+          },
+          "id": "asepsukohar@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Muhartono",
+            "lineage": null,
+            "family": "Muhartono",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Comparative effects of chlorogenic acid and doxorubic in against expression of caspase3 in cell lines Hep-G2",
+      "number": 1,
+      "userid": 151,
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sukohar",
+            "lineage": null,
+            "given": "ASEP"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "asepsukohar@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Muhartono",
+            "family": "Muhartono",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": null
+        }
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/194",
+            "eprintid": 191,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "JCPR-2015-7-1-187-192_Publish_Dr Asep.pdf",
+            "docid": 194,
+            "files": [
+                {
+                  "fileid": 1115,
+                  "datasetid": "document",
+                  "hash": "04f8a996935e10ffc4ab1aa4696db819",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-18 09:22:56",
+                  "filesize": 227241,
+                  "objectid": 194,
+                  "filename": "JCPR-2015-7-1-187-192_Publish_Dr Asep.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1115"
+                }
+            ]
+          }
+      ],
+      "official_url": "http:\/\/jocpr.com",
+      "lastmod": "2016-08-28 13:04:50",
+      "eprintid": 191,
+      "eprint_status": "archive",
+      "datestamp": "2016-08-28 13:04:50",
+      "pagerange": "187-192",
+      "metadata_visibility": "show"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "71-74",
+      "datestamp": "2016-08-28 13:05:29",
+      "eprintid": 241,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/jurnal.fk.unila.ac.id",
+      "lastmod": "2016-08-28 13:05:29",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 241,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/234",
+            "security": "public",
+            "docid": 234,
+            "main": "17 DR ASEP.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 1382,
+                  "mime_type": "application\/pdf",
+                  "hash": "8e728b3699a986c064f963ad2d959456",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-22 03:07:28",
+                  "objectid": 234,
+                  "filesize": 117053,
+                  "filename": "17 DR ASEP.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1382"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 151,
+      "contributors": [
+        {
+          "name": {
+            "given": "Asep",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sukohar"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "asepsukohar@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Sibero",
+            "honourific": null,
+            "given": "Hendra Tarigan"
+          },
+          "type": null
+        },
+        {
+          "type": null,
+          "name": {
+            "family": "Ratna",
+            "lineage": null,
+            "honourific": null,
+            "given": "Maya Ganda"
+          },
+          "id": null
+        }
+      ],
+      "number": 1,
+      "title": "Penyuluhan Mediasi Sengketa Medik pada Dokter yang akan\r\nDiambil Sumpah di Fakultas Kedokteran Unila",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "asepsukohar@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Sukohar",
+            "lineage": null,
+            "given": "Asep"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sibero",
+            "given": "Hendra Tarigan"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ratna",
+            "given": "Maya Ganda"
+          }
+        }
+      ],
+      "type": "article",
+      "date_type": "published",
+      "subjects": [
+        "RM"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/241",
+      "date": "2015-10-02",
+      "abstract": "Semakin banyaknya pengaduan kasus Malpraktik kedokteran di Indonesia sebagai bentuk ketidakpuasan\r\nterhadap pelayanan kedokteran yang diterima pasien. Dengan banyaknya pengaduan kasus Malpraktik\r\nkedokteran maka kasus di Pengadilan bertambah sehingga Mahkamah Agung mengeluarkan Peraturan\r\nMahkamah Agung (PerMA) Nomor 2 Tahun 2003 tentang Prosedur Mediasi di Pengadilan. Mediasi sengketa\r\nmedik sebagai satu bentuk penyelesaian sengketa medik di luar pengadilan dan mempunyai kekuatan hukum.\r\nMetode yang dilakukan pada kegiatan ini adalah penyuluhan dengan metode ceramah dan role play. Khalayak\r\nsasaran pada kegiatan ini adalah 18 dokter yang baru lulus ujian UKMPPD yang akan disumpah. Hasil post test\r\nyang dilakukan menunjukan adanya peningkatan nilai rerata peserta. Hasil post test didapatkan 6 peserta\r\n(33,33%) masuk kategori cukup paham dan sebanyak 12 peserta (66,67%) dapat dikategorikan paham terhadap\r\nmateri yang diberikan. Terjadi peningkatan pengetahuan yang siginifikan pada 18 dokter yang baru lulus\r\nUKMPPD setelah mendapat penyuluhan materi tentang Penyelesaian Sengketa Medik Kedokteran",
+      "volume": 1,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/jurnal.fk.unila.ac.id"
+        }
+      ],
+      "publication": "Jurnal Pengabdian Masyarakat Ruwa Jurai",
+      "publisher": "VOLUME 1, NOMOR 1, OKTOBER TAHUN 2015",
+      "dir": "disk0\/00\/00\/02\/41",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "issn": "2503-2615",
+      "status_changed": "2016-08-28 13:05:29"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "R1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1394",
+      "date": 2015,
+      "abstract": "Skin aging is a biological process that occurs naturally and coincides with increase of the age. But skin aging actually happens depends on the human genetic structure , environment and lifestyle. The aging process is divided into two different concepts, they are Intrinsic aging and extrinsic aging (photoaging, radiation, pollution). Extrinsic aging is the basis for the discussion of aging skin because the sunlight. Sun's UV radiation produce oxidation photo reaction that occurs due to release of Reactive Oxygen Species (ROS) then cause decrease of skin collagen. Public usually use some method as anti aging treatment, they are cosmetic surgery and laser technology method to eliminate the wrinkles because skin aging. However, both methods are expensive and difficult to do, so the method by relying antioxidants sourced from food and beverages become choice. The tomato (Lycopersicum Esculentum Mill) acts as an antioxidant that can prevent skin cell damage caused by free radicals. The tomato has compound of lycopene, polyphenols, and vitamin C as antioxidant that can decrease the release of free radicals such as ROS therefore inhibiting collagen damage that causes wrinkles. Tomatoes are made into juice and its contents can be used as an alternative method of anti-aging skin.\r\nKeywords: free radical, skin aging, tomato",
+      "volume": 5,
+      "publisher": "Khairun Nisa",
+      "publication": "Majority",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/00\/13\/94",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2337-3776",
+      "status_changed": "2017-01-16 01:59:51",
+      "metadata_visibility": "show",
+      "pagerange": "73-78",
+      "datestamp": "2017-01-16 01:59:51",
+      "eprintid": 1394,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/jukeunila.com\/majority\/majority-volume-5-no-3\/",
+      "lastmod": "2017-01-16 01:59:51",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 1394,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1269",
+            "security": "public",
+            "main": "Erisa-Senthrya-BR.pdf",
+            "docid": 1269,
+            "files": [
+                {
+                  "mtime": "2017-01-14 03:36:42",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9417",
+                  "filename": "Erisa-Senthrya-BR.pdf",
+                  "filesize": 726800,
+                  "objectid": 1269,
+                  "hash": "c7b144b68dae0c3a57df1da861ff394a",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 9417
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 575,
+      "number": 3,
+      "title": "Tomato (Lycopersicum esculentum Mill.) As Anti Aging Skin",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "surbaktierisa@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Surbakti",
+            "lineage": null,
+            "given": "Erisa Senthya B"
+          }
+        },
+        {
+          "id": "nisaberawi0226@gmail.com",
+          "name": {
+            "given": "Nisa Berawi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Khairun"
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Pemeriksaan Kadar Asam Urat dan Penyuluhan tentang Penyakit\r\nGout pada Masyarakat di Desa Kalisari Kecamatan Natar Kabupaten\r\nLampung Selatan",
+      "type": "article",
+      "creators": [
+        {
+          "id": "susiantiglb@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Susianti",
+            "honourific": null,
+            "given": "Susianti"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kurniawan",
+            "honourific": null,
+            "given": "Betta"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Reni",
+            "honourific": null,
+            "lineage": null,
+            "family": "Zuraida"
+          },
+          "id": "reni.zuraida@fk.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hanna",
+            "honourific": null,
+            "family": "Mutiara",
+            "lineage": null
+          },
+          "id": "hanna_dr@yahoo.com"
+        }
+      ],
+      "pagerange": "64-66",
+      "metadata_visibility": "show",
+      "eprintid": 37814,
+      "eprint_status": "archive",
+      "datestamp": "2022-01-11 01:19:03",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "JPM1149-1751-1-PB.pdf",
+            "files": [
+                {
+                  "filename": "JPM1149-1751-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/430725",
+                  "filesize": 426437,
+                  "objectid": 158744,
+                  "mtime": "2022-01-10 16:19:12",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "2e573aa9767523c89a42136d871f9de4",
+                  "fileid": 430725,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 158744,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158744",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 37814
+          }
+      ],
+      "lastmod": "2022-01-11 01:19:03",
+      "number": 1,
+      "userid": 421,
+      "divisions": [
+        "FK1"
+      ],
+      "publisher": "FK Unila",
+      "publication": "JPM Ruwa Jurai",
+      "dir": "disk0\/00\/03\/78\/14",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2022-01-11 01:19:03",
+      "issn": "2503-2615",
+      "full_text_status": "public",
+      "subjects": [
+        "R1",
+        "RA"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37814",
+      "date": "2015-10",
+      "volume": 1,
+      "abstract": "Penyakit gout adalah salah satu tipe dari arthritis (rematik) yang disebabkan terlalu banyaknya atau tidak\r\nnormalnya kadar asam urat di dalam tubuh. Di masyarakat beredar mitos bahwa ngilu sendi berarti penyakit\r\nasam urat. Pengertian ini perlu diluruskan, sehingga dirasa perlu untuk melakukan penyuluhan dan perlu\r\ndilakukan pemeriksaan kadar asam urat. Kegiatan dilaksanakan pada tanggal 15 November 2015 pukul 15.30 s.d.\r\n17.30 WIB di Desa Kalisari Kecamatan Natar Kabupaten Lampung Selatan dan dihadiri 31 orang warga yang\r\ndidominasi oleh ibu-ibu rumah tangga. Metode yang digunakan dalam kegiatan ini adalah penyuluhan yang\r\ndilanjutkan dengan diskusi. Evaluasi yang dilakukan terdiri dari evaluasi awal (pre-test), evaluasi proses\r\n(pertanyaan saat diskusi) dan evaluasi akhir (post-test). Berdasarkan data hasil pengamatan diperoleh rata-rata\r\nnilai pre-test peserta 45,61 dan post-test 65,37. Setelah mendapatkan penyuluhan mengenai penyakit gout,\r\nterdapat peningkatan pengetahuan masyarakat di Desa Kalisari Kecamatan Natar Kabupaten Lampung Selatan\r\ntentang penyakit gout. Setelah dilakukan penyuluhan, masing-masing peserta diperiksa kadar asam urat dalam\r\ndarah yang diambil dari darah perifer dan diperiksa menggunakan stick. Dari hasil pemeriksaan didapatkan\r\nbahwa dari 31 orang peserta dan 10 orang yang memiliki kadar asam urat di atas normal. Itu berarti angka\r\nkejadian gout di desa Kalisari cukup tinggi. Terdapat peningkatan pengetahuan masyarakat di Desa Kalisari\r\nKecamatan Natar Kabupaten Lampung Selatan tentang penyakit gout. Angka kejadian penyakit gout di Desa\r\nKalisari Kecamatan Natar Kabupaten Lampung Selatan sendiri cukup tinggi."
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wulan",
+            "lineage": null,
+            "given": "ANggraeni Janar"
+          },
+          "id": "ajwulan@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Iyos",
+            "given": "Rekha Nova"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Muhammad",
+            "lineage": null,
+            "family": "Aditya",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Perbedaan Kemampuan Memori Kerja pada Tikus Paska Paparan Gelombang Elektromagnetik dari Handphone Selama 14 hari",
+      "eprint_status": "archive",
+      "eprintid": 499,
+      "datestamp": "2016-09-01 01:17:51",
+      "pagerange": "13-17",
+      "metadata_visibility": "show",
+      "number": 9,
+      "userid": 286,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/416",
+            "eprintid": 499,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "filename": "naskah publikasi 2.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/2647",
+                  "objectid": 416,
+                  "filesize": 113212,
+                  "mtime": "2016-08-31 03:59:22",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "c1bf1feaeee2585b4a38c15cd94fc290",
+                  "datasetid": "document",
+                  "fileid": 2647
+                }
+            ],
+            "main": "naskah publikasi 2.pdf",
+            "docid": 416
+          }
+      ],
+      "official_url": "http:\/\/juke.kedokteranunila.ac.id",
+      "lastmod": "2016-09-01 01:17:51",
+      "publisher": "Fakultas Kedokteran Universitas Lampung dan IDI WIlayah Lampung",
+      "publication": "JUKE",
+      "dir": "disk0\/00\/00\/04\/99",
+      "divisions": [
+        "FK1"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/juke.kedokteranunila.ac.id"
+        }
+      ],
+      "status_changed": "2016-09-01 01:17:51",
+      "issn": "ISSN 2088-9348",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "subjects": [
+        "R1",
+        "RZ"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Bagian Anatomi, Fakultas kedokteran Universitas Lampung",
+        "Bagian Anatomi, Fakultas kedokteran Universitas Lampung",
+        "Bagian Ilmu kedokteran Komunitas, FK Unila"
+      ],
+      "volume": 5,
+      "abstract": "Penggunaan handphone sudah menjadi bagian dari gaya hidup masyarakat. Hal ini merupakan sebuah ancaman serius untuk kesehatan manusia. Paparan gelombang Elektromagnetik (EM) dapat menyebabkan gangguan pada otak manusia balk pada struktur, fungsi maupun aspek biokimiawinya. Stres akibat paparan gelombang EM dapat mengganggu fungsi memori. Penelitian ini bertujuan untuk mengetahui ada atau tidaknya perbedaan nilai memori kerja pada tikus putih (Rattus norvegicus) jantan galur Sprague dawley. Pada penelitian ini digunakan 18 ekor tikus putih (Rattus norvegicus) galur Sprague dawley, berusia 2-3 minggu dibagi ke dalam 3 kelompok, yaitu kelompok kontrol (K), kelompok perlakuan 1 (P1) dipaparkan dengan gelombang EM dari handphone 1 jam\/hari (P1), dan P2 dipaparkan dengan durasi 3 jann\/hari selama 14 hari. Pengujian memori kerja menggunakan radial arm maze. Hasil rerata memori kerja pada masing-masing kelompok adalah sebagai berikut K: 2%, P1: 1,33%, P2: 2,33%. Dari hasil analisa One Way ANOVA didapatkan nilai p=0,55 (p>0,05). Simpulan, paparan gelombang EM handphone selama 14 hari tidak mempengaruhi kemampuan memori kerja tikus putih (Rattus norvegicus) jantan galur Sprague dawley",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/499",
+      "date": "2015-03"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "S88-S88",
+      "datestamp": "2020-06-19 19:16:16",
+      "eprintid": 22418,
+      "eprint_status": "archive",
+      "lastmod": "2020-06-19 19:16:16",
+      "official_url": "https:\/\/www.sciencedirect.com\/journal\/international-journal-of-antimicrobial-agents",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36164",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 22418,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "ISAAR 2015_Abstract Book.pdf",
+            "docid": 36164,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-19 14:57:07",
+                  "filesize": 186961,
+                  "objectid": 36164,
+                  "filename": "ISAAR 2015_Abstract Book.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/208071",
+                  "fileid": 208071,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "db670c3ddcc4c7a0d7da25b12f707098"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 112,
+      "title": "Risk factors of MDR Gram negative bacteremia among hospitalized patients",
+      "event_dates": "May, 14-15, 2015",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "A",
+            "honourific": null,
+            "family": "Yonata",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Chen",
+            "given": "K"
+          }
+        },
+        {
+          "name": {
+            "given": "T",
+            "honourific": null,
+            "family": "Loho",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Abdullah",
+            "given": "M"
+          }
+        }
+      ],
+      "pres_type": "poster",
+      "type": "conference_item",
+      "event_location": "Incheon, Korea",
+      "date_type": "published",
+      "subjects": [
+        "RC"
+      ],
+      "event_title": "10 th  International Symposium on Antimicrobial Agents and Resistance",
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22418",
+      "volume": 45,
+      "event_type": "conference",
+      "dir": "disk0\/00\/02\/24\/18",
+      "divisions": [
+        "FK1"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-06-19 19:16:16"
+    },
+    {
+      "pagerange": "69-75",
+      "metadata_visibility": "show",
+      "eprintid": 22416,
+      "eprint_status": "archive",
+      "datestamp": "2020-06-19 19:16:07",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36163",
+            "pos": 1,
+            "eprintid": 22416,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "a1b3f7b63a5870b6e9a03c5940b43049",
+                  "fileid": 208062,
+                  "datasetid": "document",
+                  "mtime": "2020-06-19 14:16:28",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/208062",
+                  "filename": "637-1295-1-PB.pdf",
+                  "filesize": 132658,
+                  "objectid": 36163
+                }
+            ],
+            "main": "637-1295-1-PB.pdf",
+            "docid": 36163
+          }
+      ],
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/juke",
+      "lastmod": "2020-06-19 19:16:07",
+      "number": 9,
+      "userid": 112,
+      "refereed": "TRUE",
+      "title": "Diagnosis dan Tatalaksana Polymyositis",
+      "creators": [
+        {
+          "name": {
+            "family": "Yonata",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ade"
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "RC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22416",
+      "date": 2015,
+      "volume": 5,
+      "publication": "Juke Unila",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/02\/24\/16",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2020-06-19 19:16:07",
+      "full_text_status": "public",
+      "issn": "2088-9348"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "RB"
+      ],
+      "abstract": "Sexual dysfunctionin women is an important reproductive health issues as its relate to the continuity of a woman's reproductive function and influence on the harmony of marriage. More than half of women in a country may experience sexual dysfunction. Epidemiologic data in the United States reported the incidents of sexual dysfunction in women is 43%, with complaints of sexual desire disorder 10 - 46%, disorders of sexual arousal disorder 4 - 7%, orgasm disorder 5 - 42%, pain is 3 - 18% and 30% vaginismus. Use of hormonal contraception method is one of the risk factors that may affect the incidence of sexual dysfunction in users. The use of hormonal contraceptive methods is one of the risk factors that may affect the incidence of sexual dysfunction in users because the content contained therein affect physiological function of hormonal women that can lead to various sexual disorders such as disorders of interest, orgasm disorders and disorders lust.\r\nKeywords: Hormonal Contraception, Sexual Dysfunction",
+      "volume": 4,
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1392",
+      "publisher": "Khairun Nisa",
+      "divisions": [
+        "FK1"
+      ],
+      "publication": "Majority",
+      "dir": "disk0\/00\/00\/13\/92",
+      "full_text_status": "public",
+      "issn": "2337-3776",
+      "status_changed": "2017-01-16 01:59:47",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "datestamp": "2017-01-16 01:59:47",
+      "eprintid": 1392,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "103-107",
+      "userid": 575,
+      "number": 7,
+      "official_url": "http:\/\/jukeunila.com\/majority\/majority-volume-4-no-7\/",
+      "lastmod": "2017-01-16 01:59:47",
+      "documents": [
+          {
+            "main": "103-108-ZAHRA-Z.pdf",
+            "files": [
+                {
+                  "filename": "103-108-ZAHRA-Z.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9405",
+                  "filesize": 368011,
+                  "objectid": 1267,
+                  "mtime": "2017-01-14 03:22:01",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "85cd5782bb926f48893455eab963bdef",
+                  "datasetid": "document",
+                  "fileid": 9405
+                }
+            ],
+            "docid": 1267,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 1392,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1267",
+            "security": "public"
+          }
+      ],
+      "creators": [
+        {
+          "id": "Rharha_smanda@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Zahra",
+            "given": "Zettira"
+          }
+        },
+        {
+          "id": "nisaberawi0226@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Khairun",
+            "lineage": null,
+            "given": "Nisa Berawi"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Analysis of the Relationship of Hormonal Contraceptive Use in Women with Sexual Dysfunction",
+      "refereed": "TRUE"
+    },
+    {
+      "userid": 616,
+      "number": 9,
+      "lastmod": "2020-05-22 05:19:57",
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/juke\/article\/view\/628",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 33690,
+            "main": "JUKE UNILA_2015_Reni Zuraida.pdf",
+            "files": [
+                {
+                  "filename": "JUKE UNILA_2015_Reni Zuraida.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/191553",
+                  "objectid": 33690,
+                  "filesize": 114801,
+                  "mtime": "2020-05-22 04:15:27",
+                  "hash_type": "MD5",
+                  "hash": "f8ccbf2d0f63cf269673e9b65d101cd5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 191553,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 20347,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33690",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2020-05-22 05:19:57",
+      "eprint_status": "archive",
+      "eprintid": 20347,
+      "metadata_visibility": "show",
+      "pagerange": "18-22",
+      "creators": [
+        {
+          "name": {
+            "family": "Zuraida",
+            "lineage": null,
+            "honourific": null,
+            "given": "Reni"
+          },
+          "id": "reni.zuraida@fk.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "Faktor Risiko Pola Makan dan Hubungannya dengan Penyakit Jantung pada Pria dan Wanita Dewasa di Provinsi Lampung",
+      "refereed": "TRUE",
+      "abstract": "Penyakit jantung adalah penyebab utama kematian di seluruh dunia termasuk Indonesia. Perubahan gaya hidup seperti pola makan yang menjurus ke sajian siap santap yang tidak sehat dan tidak seimbang karena mengandung kalori, lemak, protein, dan garam tinggi tapi rendah serat pangan disinyalir menjadi faktor risiko meningkatnya prevalensi penyakit jantung. Tujuan penelitian adalah untuk menganalisis faktor risiko pola makan dan hubungannya dengan penyakit jantung pada pria dan wanita dewasa di Provinsi Lampung. Penelitian ini menggunakan disain penelitian cross-sectional. Penelitian ini menganalisis  faktor risiko pola makan yang berhubungan dengan penyakit jantung antara lain kebiasaan konsumsi sayur dan buah, kebiasaan konsumsi makanan berlemak, kebiasaan makanan asin, kebiasaan konsumsi alkohol pada pria dan wanita dewasa di Provinsi Lampung. Data yang digunakan dalam penelitian ini merupakan data sekunder yang diambil dari data Riset Kesehatan Dasar 2007 Provinsi Lampung oleh Badan Penelitian dan Pengembangan Kesehatan, Kementerian Kesehatan Indonesia. Prevalensi penyakit jantung pada pria dan wanita dewasa di Provinsi Lampung adalah 3,8 %. Terdapat hubungan antara konsumsi makanan asin dengan penyakit jantung (OR=1,17). Tidak terdapat hubungan antara riwayat konsumsi alkohol dalam 12 bulan terakhir dengan penyakit jantung (p=0,226). Didapatkan konsumsi sayur dan buah merupakan faktor protektif terhadap penyakit jantung (OR=0,83). Simpulan, penderita jantung Provinsi Lampung harus memperhatikan pola makan meliputi mengurangi konsumsi makanan asin dan meningkatkan konsumsi sayur dan buah.",
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20347",
+      "date": 2015,
+      "date_type": "published",
+      "subjects": [
+        "RC"
+      ],
+      "issn": "2088-9348",
+      "full_text_status": "public",
+      "status_changed": "2020-05-22 05:19:57",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "related_url": [
+        {
+          "url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/juke\/article\/view\/628"
+        }
+      ],
+      "divisions": [
+        "FK1"
+      ],
+      "publication": "Juke Unila",
+      "dir": "disk0\/00\/02\/03\/47"
+    },
+    {
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JHT\/article\/view\/783"
+        }
+      ],
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FK1"
+      ],
+      "publication": "Jurnal Sylva Lestari",
+      "dir": "disk0\/00\/02\/12\/54",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "issn": "ISSN 2339-0913",
+      "full_text_status": "public",
+      "status_changed": "2020-05-31 05:03:21",
+      "date_type": "published",
+      "subjects": [
+        "RA0421",
+        "S1",
+        "SH"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21254",
+      "date": "2015-05",
+      "abstract": "Salah satu fungsi ekologi hutan mangrove adalah sebagai habitat berbagai nyamuk termasuk\r\nnyamuk penyebab penyakit malaria (Anopheles sp.).  Wabah penyakit malaria bisa meningkat\r\nakibat terdegradasinya hutan mangrove. Kondisi hutan mangrove yang buruk menstimulasi\r\nnyamuk Anopheles sp. untuk bermigrasi  ke habitat lain seperti pemukiman, yang selanjutnya\r\nmenjadi vektor penyakit malaria. Tujuan dari penelitian ini adalah untuk menentukan\r\npengaruh ekosistem hutan mangrove baik faktor instrinsik maupun faktor ekstrinsik pada\r\nimunitas masyarakat terhadap malaria.  Penelitian ini dilakukan pada bulan Juni 2014 di Desa\r\nMuara Gading Mas, Bandar Negeri, Sriminosari, dan Margasari, Kecamatan Labuhan\r\nMaringgai, Kabupaten Lampung Timur.  Pengumpulan data dilakukan melalui wawancara\r\ndan metode survai\/observasi lapang.  Untuk mengetahui pengaruh setiap variabel digunakan\r\nmodel regresi logistik biner.  Optimasi parameter menggunakan piranti lunak Minitab 16.\r\nHasil penelitian menunjukan bahwa faktor yang dapat meningkatkan imunitas adalah: (a)jenis kelamin, laki-laki 37,42 kali perempuan, (b) umur, setiap bertambah tua 1 tahun berlipat\r\nmenjadi 1,17 kali semula, (c) pendidikan, semakin tinggi maka berkurang menjadi 0,001 kali\r\nsemula, (d) mata pencaharian, selain nelayan 0,001 kali nelayan, (e) jarak rumah terhadap\r\nfasilitas kesehatan, setiap berkurang 1 meter berlipat menjadi 0,09 kali semula, (f) jarak\r\nrumah terhadap mangrove, setiap bertambah 1 meter berlipat menjadi 1,001 kali semula, (g)tempat sampah, ada tempat sampah 239,71 daripada tidak ada, (h) program malaria, berlipat\r\n3,71E+05 kali semula daripada tidak ada, (i) luas mangrove, setiap bertambah 1 m\r\nmenjadi\r\n1,001 kali semula, dan (j) kerapatan vegetasi mangrove, setiap bertambah 1 populasi\/ha\r\nberlipat 1,18 kali semula.\r\nKata kunci: Hutan mangrove, imunitas terhadap malaria, Anopheles sp.",
+      "volume": 3,
+      "title": "PERANAN EKOSISTEM HUTAN MANGROVE PADA IMUNITAS TERHADAP\r\nMALARIA: STUDI DI KECAMATAN LABUHAN MARINGGAI\r\nKABUPATEN LAMPUNG TIMUR",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "family": "putra",
+            "lineage": null,
+            "honourific": null,
+            "given": "agung kartika"
+          },
+          "id": null
+        },
+        {
+          "id": "samsul.bakri@fp.unila.ac.id",
+          "name": {
+            "given": "Samsul",
+            "honourific": null,
+            "family": "Bakri",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Kurniawan",
+            "lineage": null,
+            "given": "Betta"
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "67-78",
+      "datestamp": "2020-05-31 05:03:21",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jsl2367-78",
+      "eprint_status": "archive",
+      "eprintid": 21254,
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id",
+      "lastmod": "2020-05-31 05:03:21",
+      "documents": [
+          {
+            "eprintid": 21254,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34645",
+            "pos": 1,
+            "format": "text",
+            "main": "SYLVA 783-2125-1-PB.pdf",
+            "files": [
+                {
+                  "fileid": 197797,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "3090d67a57c8f2e6be8bd3d3a82dfa5a",
+                  "filesize": 136751,
+                  "objectid": 34645,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197797",
+                  "filename": "SYLVA 783-2125-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-31 04:53:05"
+                }
+            ],
+            "docid": 34645,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 421,
+      "number": 2
+    }
+]
+

@@ -1,0 +1,3361 @@
+[
+    {
+      "userid": 737,
+      "lastmod": "2023-05-03 07:36:05",
+      "documents": [
+          {
+            "eprintid": 51012,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190724",
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 548728,
+                  "hash": "1a426fde063606e73930d08bc4c52343",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1062367,
+                  "objectid": 190724,
+                  "filename": "Korespondensi Jurnal Biologi Papua.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548728",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-03 07:32:32"
+                }
+            ],
+            "main": "Korespondensi Jurnal Biologi Papua.pdf",
+            "docid": 190724,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2023-05-03 07:36:05",
+      "eprintid": 51012,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustrina",
+            "given": "Rochmah"
+          },
+          "id": "rochmah.agustrina@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "Perbaikan Korespondensi Produksi Cabai Merah (Capsicum annuum L.) dari Benih yang Diinduksi Medan Magnet 0,2 mT dan Diinfeksi Jamur Fusarium sp",
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51012",
+      "subjects": [
+        "Q1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-05-03 07:36:05",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "publisher": "Jurnal Biologi Papua",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/10\/12"
+    },
+    {
+      "lastmod": "2023-05-03 07:35:56",
+      "documents": [
+          {
+            "eprintid": 51006,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190718",
+            "pos": 1,
+            "format": "text",
+            "docid": 190718,
+            "main": "Korespodensi ICST.pdf",
+            "files": [
+                {
+                  "hash": "7ee6a98fb2a8a81c2209a983a3315905",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 548697,
+                  "filename": "Korespodensi ICST.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548697",
+                  "filesize": 1624597,
+                  "objectid": 190718,
+                  "mtime": "2023-05-03 07:09:50",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 737,
+      "metadata_visibility": "show",
+      "datestamp": "2023-05-03 07:35:56",
+      "eprint_status": "archive",
+      "eprintid": 51006,
+      "title": "Perbaikan Korespondensi Tomato Generative Growth from the Seeds Exposed to 0,2 mT of Magnetic Field and Infected by Fusarium sp.",
+      "type": "other",
+      "creators": [
+        {
+          "id": "rochmah.agustrina@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rochmah",
+            "family": "Agustrina",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51006",
+      "date": 2023,
+      "subjects": [
+        "QK"
+      ],
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "status_changed": "2023-05-03 07:35:56",
+      "dir": "disk0_bak\/00\/05\/10\/06",
+      "publisher": "SEMIRATA- International Conference on Science and Technology",
+      "divisions": [
+        "FMIPA2"
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51237",
+      "date": 2023,
+      "subjects": [
+        "Q1"
+      ],
+      "status_changed": "2023-05-08 08:45:07",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "publisher": "IOSR",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/12\/37",
+      "userid": 737,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 191009,
+            "main": "Perbaikan Korespondensi Jurnal IOSR.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/550484",
+                  "filename": "Perbaikan Korespondensi Jurnal IOSR.pdf",
+                  "objectid": 191009,
+                  "filesize": 2163632,
+                  "mtime": "2023-05-08 08:20:53",
+                  "hash_type": "MD5",
+                  "hash": "70e6fda09a7539692a6915d4a62ec292",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 550484
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/191009",
+            "pos": 1,
+            "eprintid": 51237,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-05-08 08:45:07",
+      "eprintid": 51237,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-08 08:45:07",
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustrina",
+            "given": "Rochmah"
+          },
+          "id": "rochmah.agustrina@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "Perbaikan korespondensi The Germination and Growth of Induced F1 Tomato Seeds By Exposure To 0.2mt of Magnetic Field And Fusarium Sp. Infection"
+    },
+    {
+      "date": "2023-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50885",
+      "volume": 6,
+      "abstract": "Kajian tentang miskonsepsi yang ditemukan pada buku ajar pernah dilaporkan dalam\r\nberbagai penelitian. Ajang pertemuan ilmiah yang diikuti oleh guru dan calon guru bisa mendukung\r\npeningkatan kompetensi keilmuan sehingga bisa memperkuat pengetahuan yang diperlukan untuk\r\nmenyaring buku ajar yang baik untuk digunakan dalam pembelajarannya. Kegiatan pengabdian ini\r\nmenggunakan bentuk bedah buku memaparkan hasil kajian isi materi genetika dalam tiga buku Biologi\r\nuntuk siswa di kelas XII SMA yang banyak digunakan di Kota Pontianak menurut hasil survei di 27\r\nSMA pada semester gazal TA 2021\/2022. Aspek yang dikaji dari ketiga buku ajar meliputi 1) kesesuaian\r\ndengan kurikulum dan kompetensi dasar, 2) urutan\/ sistematika dalam memahami konsep, 3) konten\/\r\nkebenaran konsep, 4) tata bahasa dan penulisan, 5) tampilan dan kemenarikan, dan 6) tuntutan dalam\r\nsoal latihan. Kegiatan ini diikuti oleh 34 peserta yang terdiri atas 6 orang dosen, 16 guru, 11\r\nmahasiswa, dan 1 umum. Pemaparan materi berjalan dengan lancar oleh keempat narasumber, diawali\r\ndengan topik Miskonsepsi pada Materi Genetika, dilanjutkan dengan hasil kajian isi dari Materi\r\nGenetik, Pembelahan Sel, dan Pola Pewarisan Sifat pada Hukum Mendel, Pola-pola Hereditas, Pautan\r\ndan Pindah Silang, dan Mutasi, Dampak dan Benefit, serta Hereditas pada Manusia. Peserta menilai\r\nbahwa kegiatan ini penting untuk menggali pengetahuan yang lebih dalam dan lebih luas dalam\r\nmemahami konsep pada materi genetika yang sebenarnya.",
+      "subjects": [
+        "QK"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2023-05-02 01:42:43",
+      "full_text_status": "public",
+      "issn": "ISSN : 2620-4673 (online) ISSN : 2620-4665 (print)",
+      "publication": "Jurnal Pengabdi",
+      "publisher": "Lembaga Penelitian dan Pengabdian kepada Masyarakat  Universitas Tanjungpura, Pontianak",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/08\/85",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "59262-75676688962-1-PB.pdf",
+            "docid": 190598,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 547777,
+                  "mime_type": "application\/pdf",
+                  "hash": "9b04c5c7b4fd56f7719b5124b2172a6a",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-01 08:57:42",
+                  "objectid": 190598,
+                  "filesize": 433986,
+                  "filename": "59262-75676688962-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547777"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190598",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50885
+          }
+      ],
+      "lastmod": "2023-05-02 01:42:43",
+      "official_url": "http:\/\/jurnal.untan.ac.id\/index.php\/JPLP2KM",
+      "number": 1,
+      "userid": 1126,
+      "pagerange": "14-23",
+      "metadata_visibility": "show",
+      "id_number": "http:\/\/dx.doi.org\/10.26418\/jplp2km.v6i1.59262",
+      "eprint_status": "archive",
+      "eprintid": 50885,
+      "datestamp": "2023-05-02 01:42:43",
+      "refereed": "TRUE",
+      "title": "Bedah Buku Ajar Biologi Kelas XII SMA pada Materi\r\nGenetika: Upaya Peningkatan Kompetensi Materi Pada\r\nGuru dan Calon Guru Biologi",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Wolly",
+            "honourific": null,
+            "lineage": null,
+            "family": "Candramila"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Suhara",
+            "family": "Suhara",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Mardiyyaningsih",
+            "honourific": null,
+            "given": "Asriah Nurdini"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Zubaidah",
+            "lineage": null,
+            "given": "Siti"
+          }
+        },
+        {
+          "id": "mahfut.mipa@fmipa.unila.ac.id",
+          "name": {
+            "family": "Mahfut",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mahfut"
+          }
+        },
+        {
+          "name": {
+            "family": "Sofiana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Marinda Sari"
+          },
+          "id": null
+        }
+      ]
+    },
+    {
+      "subjects": [
+        "QK"
+      ],
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50162",
+      "publisher": "SJAVS",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/01\/62",
+      "full_text_status": "public",
+      "status_changed": "2023-04-11 01:55:04",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "datestamp": "2023-04-11 01:55:04",
+      "eprintid": 50162,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 463,
+      "lastmod": "2023-04-11 01:55:04",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 00:52:26",
+                  "objectid": 189863,
+                  "filesize": 209732,
+                  "filename": "korespondensi Germplasm diversity of banana (Musa spp.) in the City of Bandar.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542330",
+                  "datasetid": "document",
+                  "fileid": 542330,
+                  "mime_type": "application\/pdf",
+                  "hash": "c0c43f138d669dad4a117c542d96097e"
+                }
+            ],
+            "main": "korespondensi Germplasm diversity of banana (Musa spp.) in the City of Bandar.pdf",
+            "docid": 189863,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 50162,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189863"
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Eti",
+            "lineage": null,
+            "family": "Ernawiati",
+            "honourific": null
+          },
+          "id": "eti.ernawiat@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "Korespondensi Germplasm diversity of banana (Musa spp.) in the City of Bandar"
+    },
+    {
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "Jurnal Buletin Kebun Raya",
+      "dir": "disk0_bak\/00\/05\/01\/63",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2023-04-11 01:55:29",
+      "subjects": [
+        "QK"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50163",
+      "date": 2023,
+      "title": "Korespondensi Karakterisasi Struktur Morfologi dan Viabilitas Polen dari Lima Kultivar Pisang Kepok (Musa paradisiaca L)",
+      "creators": [
+        {
+          "id": "eti.ernawiat@fmipa.unila.ac.id",
+          "name": {
+            "given": "Eti",
+            "lineage": null,
+            "family": "Ernawiati",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "datestamp": "2023-04-11 01:55:29",
+      "eprint_status": "archive",
+      "eprintid": 50163,
+      "lastmod": "2023-04-11 01:55:29",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189864",
+            "eprintid": 50163,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 189864,
+            "main": "korespondensi Karakterisasi Struktur Morfologi dan Viabilitas Polen dari Lima Kultivar Pisang Kepok (Musa paradisiaca L).pdf",
+            "files": [
+                {
+                  "mtime": "2023-04-11 00:54:10",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542337",
+                  "filename": "korespondensi Karakterisasi Struktur Morfologi dan Viabilitas Polen dari Lima Kultivar Pisang Kepok (Musa paradisiaca L).pdf",
+                  "filesize": 533639,
+                  "objectid": 189864,
+                  "hash": "07de1739b120b2fae0a458c7202a1714",
+                  "mime_type": "application\/pdf",
+                  "fileid": 542337,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "userid": 463
+    },
+    {
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "SJAVS",
+      "dir": "disk0_bak\/00\/05\/01\/56",
+      "status_changed": "2023-04-11 00:51:12",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "rev_number": 8,
+      "subjects": [
+        "QK"
+      ],
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50156",
+      "creators": [
+        {
+          "id": "eti.ernawiat@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Ernawiati",
+            "lineage": null,
+            "given": "Eti"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Peer Review Germplasm Diversity of Banana (Musa Spp) in The City of Bandar Lampung, Indonesia by Type of Genome and Number of Chromosome",
+      "eprintid": 50156,
+      "eprint_status": "archive",
+      "datestamp": "2023-04-11 00:51:12",
+      "metadata_visibility": "show",
+      "userid": 463,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189857",
+            "eprintid": 50156,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Peer Review Germplasm Diversity of Banana (Musa Spp) in The City of Bandar Lampung, Indonesia by Type of Genome and Number of Chromosome.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 00:38:18",
+                  "objectid": 189857,
+                  "filesize": 857229,
+                  "filename": "Peer Review Germplasm Diversity of Banana (Musa Spp) in The City of Bandar Lampung, Indonesia by Type of Genome and Number of Chromosome.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542253",
+                  "datasetid": "document",
+                  "fileid": 542253,
+                  "hash": "dc423f9ded8db74b053955f5c16dbb39",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 189857
+          }
+      ],
+      "lastmod": "2023-04-11 00:51:12"
+    },
+    {
+      "publisher": "Jurnal Buletin Kebun Raya",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/01\/58",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2023-04-11 00:51:21",
+      "subjects": [
+        "QK"
+      ],
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50158",
+      "title": "Peer Review Karakterisasi Struktur Morfologi dan Viabilitas Polen dari Lima Kultivar Pisang Kepok (Musa paradisiaca L)",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "family": "Ernawiati",
+            "lineage": null,
+            "honourific": null,
+            "given": "Eti"
+          },
+          "id": "eti.ernawiat@fmipa.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2023-04-11 00:51:21",
+      "eprint_status": "archive",
+      "eprintid": 50158,
+      "lastmod": "2023-04-11 00:51:21",
+      "documents": [
+          {
+            "eprintid": 50158,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189859",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 542265,
+                  "mime_type": "application\/pdf",
+                  "hash": "ceff201e979f2344df9260dc8b378a56",
+                  "objectid": 189859,
+                  "filesize": 876541,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542265",
+                  "filename": "Peer Review Karakterisasi Struktur Morfologi dan Viabilitas Polen dari Lima Kultivar Pisang Kepok (Musa paradisiaca L)..pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 00:41:41"
+                }
+            ],
+            "main": "Peer Review Karakterisasi Struktur Morfologi dan Viabilitas Polen dari Lima Kultivar Pisang Kepok (Musa paradisiaca L)..pdf",
+            "docid": 189859,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 463
+    },
+    {
+      "title": "Korespondensi The use of cellulolytic Aspergillus sp. inoculum to improve the quality of Pineapple compost",
+      "creators": [
+        {
+          "id": "bambang.irawan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Bambang",
+            "honourific": null,
+            "lineage": null,
+            "family": "Irawan"
+          }
+        }
+      ],
+      "type": "other",
+      "lastmod": "2023-05-09 03:06:07",
+      "documents": [
+          {
+            "eprintid": 51254,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/191025",
+            "format": "text",
+            "main": "Correspondence with AIMS Microbiology.pdf",
+            "files": [
+                {
+                  "fileid": 550621,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "70487c8689ef88762f7501ed65243943",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-08 23:18:33",
+                  "filesize": 649022,
+                  "objectid": 191025,
+                  "filename": "Correspondence with AIMS Microbiology.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/550621"
+                }
+            ],
+            "docid": 191025,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 730,
+      "metadata_visibility": "show",
+      "datestamp": "2023-05-09 03:06:07",
+      "eprint_status": "archive",
+      "eprintid": 51254,
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2023-05-09 03:06:07",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "AIMS Press",
+      "dir": "disk0_bak\/00\/05\/12\/54",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51254",
+      "date": 2023,
+      "subjects": [
+        "Q1"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 51253,
+      "datestamp": "2023-05-09 03:07:02",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 191024,
+            "main": "SI_Irawan et al_AIMS_10.3934_microbiol.2023003.pdf.pdf",
+            "files": [
+                {
+                  "mtime": "2023-05-08 23:14:32",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/550614",
+                  "filename": "SI_Irawan et al_AIMS_10.3934_microbiol.2023003.pdf.pdf",
+                  "filesize": 411817,
+                  "objectid": 191024,
+                  "hash": "0edd9a0143e7850200d7ca180d445464",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 550614
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 51253,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/191024",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2023-05-09 03:07:02",
+      "userid": 730,
+      "title": "Similarity Check The use of cellulolytic Aspergillus sp. inoculum to improve the quality of Pineapple compost",
+      "creators": [
+        {
+          "id": "bambang.irawan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Bambang",
+            "honourific": null,
+            "lineage": null,
+            "family": "Irawan"
+          }
+        }
+      ],
+      "type": "other",
+      "subjects": [
+        "Q1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51253",
+      "date": 2023,
+      "dir": "disk0_bak\/00\/05\/12\/53",
+      "publisher": "AIMS Press",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "status_changed": "2023-05-09 03:07:02",
+      "full_text_status": "public"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2023-05-09 03:06:09",
+      "eprintid": 51255,
+      "eprint_status": "archive",
+      "lastmod": "2023-05-09 03:06:09",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/191026",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51255,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash": "9fce00e39ac62cb423a4accbecd281dc",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 550628,
+                  "mtime": "2023-05-08 23:20:18",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/550628",
+                  "filename": "SI_Yandri and Hadi_2022_1305-4241-1-PB.pdf.pdf",
+                  "objectid": 191026,
+                  "filesize": 1432329
+                }
+            ],
+            "main": "SI_Yandri and Hadi_2022_1305-4241-1-PB.pdf.pdf",
+            "docid": 191026,
+            "format": "text"
+          }
+      ],
+      "userid": 730,
+      "title": "Similarity check Immobilization and Stabilization of Aspergillus Fumigatus α-Amylase by Adsorption on a Chitin",
+      "type": "other",
+      "creators": [
+        {
+          "id": "bambang.irawan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Bambang",
+            "honourific": null,
+            "lineage": null,
+            "family": "Irawan"
+          }
+        }
+      ],
+      "subjects": [
+        "Q1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51255",
+      "date": 2023,
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "Emerging Science Journal",
+      "dir": "disk0_bak\/00\/05\/12\/55",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2023-05-09 03:06:09"
+    },
+    {
+      "subjects": [
+        "Q1"
+      ],
+      "volume": 9,
+      "abstract": "Pineapple litter has a complex polymer of cellulose, hemicellulose, and lignin, which makes them difficult to decompose. However, pineapple litter has great potential to be a good organic material source for the soil when completely decomposed. The addition of inoculants can facilitate the\r\ncomposting process. This study investigated whether the addition of cellulolytic fungi inoculants to\r\npineapple litters improves the efficiency of the composting processes. The treatments were KP1 = pineapple leaf litter: cow manure (2:1), KP2 = pineapple stem litter: cow manure (2:1), KP3 = pineapple leaf litter: pineapple stem litter: cow manure P1 (leaf litter and 1% inoculum), P2 (stem litter\r\nand 1% inoculum), and P3 (leaf + stem litters and 1% inoculum). The result showed that the number of Aspergillus sp. spores on corn media was 5.64 x 107 spores\/mL, with viability of 98.58%.\r\nAspergillus sp. inoculum improved the quality of pineapple litter compost, based on the enhanced contents of C, N, P, K, and the C\/N ratio, during the seven weeks of composting. Moreover, the best treatment observed in this study was P1. The C\/N ratios of compost at P1, P2, and P3 were within the\r\nrecommended range of organic fertilizer which was 15–25%, with a Carbon\/Nitrogen proportion of 11.3%, 11.8%, and 12.4% (P1, P2, and P3), respectively.\r\nKeywords: Aspergillus sp; cellulolytic; decomposition inoculum; pineapple litter",
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51262",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publication": "AIMS Microbiology",
+      "dir": "disk0_bak\/00\/05\/12\/62",
+      "status_changed": "2023-05-09 03:09:39",
+      "issn": "2471-1888",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 51262,
+      "datestamp": "2023-05-09 03:09:39",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 730,
+      "documents": [
+          {
+            "main": "7951.pdf",
+            "docid": 191033,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "86cf2fd0049f72aef8a86664206bb71b",
+                  "datasetid": "document",
+                  "fileid": 550673,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/550673",
+                  "filename": "7951.pdf",
+                  "filesize": 396799,
+                  "objectid": 191033,
+                  "mtime": "2023-05-08 23:52:22",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 51262,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/191033",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/www.aimspress.com\/article\/doi\/10.3934\/microbiol.2023003",
+      "lastmod": "2023-05-09 03:09:39",
+      "creators": [
+        {
+          "name": {
+            "given": "Bambang",
+            "family": "Irawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "bambang.irawan@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Saputra",
+            "given": "Andi"
+          },
+          "id": null
+        },
+        {
+          "id": "alfarisi.mdr@gmail.com",
+          "name": {
+            "family": "Farisi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Salman"
+          }
+        },
+        {
+          "id": "yoelisoeradji@yahoo.co.id",
+          "name": {
+            "given": "yuli",
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulianty"
+          }
+        },
+        {
+          "name": {
+            "given": "Sri",
+            "lineage": null,
+            "family": "Wahyuningsih",
+            "honourific": null
+          },
+          "id": "wahyu6125@yahoo.co.id"
+        },
+        {
+          "id": "noviany@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Noviany",
+            "honourific": null,
+            "given": "Noviany"
+          }
+        },
+        {
+          "name": {
+            "given": "Yandri",
+            "lineage": null,
+            "family": "Yandri",
+            "honourific": null
+          },
+          "id": "yandri.as@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hadi",
+            "given": "Sutopo"
+          },
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "The use of cellulolytic Aspergillus sp. inoculum to improve the quality of Pineapple compost"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Edukasi Penanggulangan Limbah Organik dan Anorganik Bagi Siswa\r\nSMA 1 Bandar Lampung",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Kanedi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mohammad"
+          },
+          "id": "wegayendi@yahoo.com"
+        }
+      ],
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188886",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49341,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 535692,
+                  "mime_type": "application\/pdf",
+                  "hash": "b51c2d7dd9fc3e02ff0d57c0f337bb8f",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-28 15:10:54",
+                  "objectid": 188886,
+                  "filesize": 271773,
+                  "filename": "PUBlIKASI PENGABDIAN -2.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535692"
+                }
+            ],
+            "main": "PUBlIKASI PENGABDIAN -2.pdf",
+            "docid": 188886,
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/jurnal.ibnus.ac.id\/index.php\/jurdian\/index",
+      "lastmod": "2023-03-29 01:40:58",
+      "number": 2,
+      "userid": 833,
+      "contributors": [
+        {
+          "id": "kusumahandayani@yahoo.co.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Handayani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Kusuma"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ekowati",
+            "honourific": null,
+            "given": "CN"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "ecoli.lacto@gmail.com"
+        },
+        {
+          "id": "wawan.a.setiawan@gmail.com",
+          "name": {
+            "family": "Setiawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Wawan"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pagerange": "45-50",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "id_number": "-",
+      "eprintid": 49341,
+      "datestamp": "2023-03-29 01:40:58",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2023-03-29 01:40:58",
+      "full_text_status": "public",
+      "issn": "-",
+      "publication": "JURDIAN: Jurnal Pengabdian Bakti Nusantara",
+      "publisher": "Institut Bakti Nusantara",
+      "dir": "disk0_bak\/00\/04\/93\/41",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.ibnus.ac.id\/index.php\/jurdian\/article\/view\/16\/12"
+        }
+      ],
+      "date": "2023-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49341",
+      "volume": 1,
+      "abstract": "Upaya pelestarian dan pemeliharaan lingkungan agar terbebas dari limbah yaitu dengan cara pengolahan limbah\r\ndengan pola 3R (Reduce, Reuse, Recycle). Konsep 3R mendorong masyarakat melakukan penanganan limbah\r\ndari sumbernya seperti pemilahan limbah dan pengemasan limbah dengan benar, mendorong penerapan konsep\r\npemanfaatan sampah yang memiliki nilai ekonomi. Pengabdian ini merupakan kegiatan yang dilakukan utk\r\nmengedukasi siswa mengenai pengolahan limbah organik dan limbah anorganik yang bertujuan untuk meningkatkan keterampilan dan kreatifitas siswa SMA dalam penanganan limbah sehingga menambah wawasan terhadap limbah yang dapat dijadikan kerajinan dan mempunyai nilai ekonomi. Limbah organik diolah menjadi ecoenzim dan sabun cuci, sedangkan limbah anorganik diolah menjadi ecobrick. Selama kegiatan berlangsung dapat dilihat atensi atau perhatian siswa terhadap materi yang disampaikan cukup tinggi. Hal ini dapat dilihat dari banyaknya pertanyaan yang diajukan, bahkan beberapa guru juga ikut bertanya.",
+      "subjects": [
+        "Q1"
+      ]
+    },
+    {
+      "full_text_status": "public",
+      "issn": "2582-4597",
+      "status_changed": "2023-03-29 01:40:51",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "url": "https:\/\/gsconlinepress.com\/journals\/gscarr\/sites\/default\/files\/GSCARR-2023-0082.pdf"
+        }
+      ],
+      "publication": "GSC Advanced Research and Reviews",
+      "publisher": "GSC Online Press",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/04\/93\/39",
+      "abstract": "The testes are two glandular organs in the male reproductive system responsible for producing gametes called sperm\r\nand synthesizing androgen hormone called testosterone. The two functions of the testes are used as parameters for\r\nfertility and sexual performance in males. This paper presents the results of research to find plant-derived ingredients\r\nthat are potential to treat disorders related to testicular function carried out in Indonesia in the last two decades. The\r\ninclusions criteria of the papers compiled are: containing the results of research conducted in Indonesia, by Indonesian\r\nresearchers; have been published both in national and international journals that can be accessed using Google search\r\nengine. The results indicated there are numerous plant species that were revealed to have potentials to be developed as contraceptive or anti-fertility agent, pro-fertility ingredient and sexual activity enhancer herbs in males. Given fertility, infertility, and sexual behavior in males are all determined by the function of testes, it can be concluded that the Indonesian medicinal plants studied are containing active substance that have an effect on the testes.",
+      "volume": 14,
+      "date": "2023-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49339",
+      "subjects": [
+        "Q1"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Mohammad",
+            "honourific": null,
+            "family": "Kanedi",
+            "lineage": null
+          },
+          "id": "wegayendi@yahoo.com"
+        }
+      ],
+      "title": "Indonesian medicinal plants that have the potential to affect testicular function: A\r\nReview",
+      "refereed": "TRUE",
+      "userid": 833,
+      "contributors": [
+        {
+          "name": {
+            "given": "Sutyarso",
+            "honourific": null,
+            "family": "Sutyarso",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "sutyarso@yahoo.co.id"
+        },
+        {
+          "id": "amrina.izzatika@fkip.unila.ac.id",
+          "name": {
+            "given": "Amrina",
+            "honourific": null,
+            "family": "Izzatika",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 3,
+      "lastmod": "2023-03-29 01:40:51",
+      "official_url": "https:\/\/gsconlinepress.com\/journals\/gscarr\/content\/indonesian-medicinal-plants-have-potential-affect-testicular-function-review",
+      "documents": [
+          {
+            "format": "text",
+            "main": "91.Medicinal plants that affect testicular function_GSCARR-2023-0082.pdf",
+            "files": [
+                {
+                  "objectid": 188884,
+                  "filesize": 866495,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535680",
+                  "filename": "91.Medicinal plants that affect testicular function_GSCARR-2023-0082.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-28 14:38:35",
+                  "fileid": 535680,
+                  "datasetid": "document",
+                  "hash": "a801564f882e93e9db15fe877a1b4567",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 188884,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49339,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188884"
+          }
+      ],
+      "datestamp": "2023-03-29 01:40:51",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.30574\/gscarr.2023.14.3.0082",
+      "eprintid": 49339,
+      "metadata_visibility": "show",
+      "pagerange": "163-172"
+    },
+    {
+      "subjects": [
+        "Q1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49338",
+      "date": "2023-03",
+      "volume": 22,
+      "abstract": "Prolonged use of pesticides was known to have a negative impact on the environment, health, and living organisms.\r\nTherefore alternative pest control techniques need to be developed continuously. One pest eradication techniques that\r\nis believed to be safe for the environment is biological control. This study intended to evaluate the toxicity properties\r\nof 7 different isolates suspension of Bacillus sp. isolated from soil in a botanical garden in West Lampung against\r\nSpodoptera frugiperda larvae. Morphological characterization of protein crystals which are toxic to insects contained in\r\nthe suspension was carried out microscopically at a magnification of 1000x. Then, each isolate suspension was tested\r\nfor its toxicity properties on the 3rd instar larvae of S. frugiverda. The protein crystal morphology of the Bacillus sp\r\nisolate coded TB7 was similar to that of L. sphaericus. While the other six isolates (TMA 26, TBA 4, TBA 7, TB 5, BP 14,\r\nand TSR 6) had morphological characteristics similar to that found in the B. thuringiensis. The results of larvicide test\r\nshowed that Bacillus sp isolates coded TMA 26, TBA 7, BP 14 and TB 5 caused mortality on day 3. TBA 4 isolates killed\r\nlarvae on day 4, while isolates coded TSR 6 and TB 7 killed larvae on day 5. In conclusion, Bacillus sp isolate isolated\r\nfrom soil has toxic properties to the larvae of S rugiperda. So it is suggested that the bacterial isolate Bacillus sp can be used as a biological control agent for insect pests.",
+      "publication": "GSC Biological and Pharmaceutical Sciences,",
+      "publisher": "GSC Online Press",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/04\/93\/38",
+      "related_url": [
+        {
+          "url": "https:\/\/gsconlinepress.com\/journals\/gscbps\/sites\/default\/files\/GSCBPS-2023-0088.pdf"
+        }
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2023-03-29 01:40:53",
+      "issn": "2581-3250",
+      "full_text_status": "public",
+      "pagerange": "028-034",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.30574\/gscbps.2023.22.3.0088",
+      "eprintid": 49338,
+      "datestamp": "2023-03-29 01:40:53",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188883",
+            "pos": 1,
+            "eprintid": 49338,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2023-03-28 14:28:28",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535674",
+                  "filename": "90.Larvicide effect of Bacillus -GSCBPS-2023-0088.pdf",
+                  "filesize": 868438,
+                  "objectid": 188883,
+                  "mime_type": "application\/pdf",
+                  "hash": "0e1a5c1175c7cc7d72e9a621fbad9bdc",
+                  "datasetid": "document",
+                  "fileid": 535674
+                }
+            ],
+            "main": "90.Larvicide effect of Bacillus -GSCBPS-2023-0088.pdf",
+            "docid": 188883
+          }
+      ],
+      "lastmod": "2023-03-29 01:40:53",
+      "official_url": "https:\/\/gsconlinepress.com\/journals\/gscbps\/content\/larvicide-effects-bac...",
+      "number": 3,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Kusuma",
+            "honourific": null,
+            "lineage": null,
+            "family": "Handayani"
+          },
+          "id": "kusumahandayani@yahoo.co.id"
+        },
+        {
+          "id": "ecoli.lacto@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ekowati",
+            "given": "CN"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 833,
+      "refereed": "TRUE",
+      "title": "Larvicide effects of Bacillus sp isolated from soil against fall armyworm Spodoptera\r\nfrugiperda (Lepidoptera: Noctuidae)",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Kanedi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mohammad"
+          },
+          "id": "wegayendi@yahoo.com"
+        }
+      ]
+    },
+    {
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.ibnus.ac.id\/index.php\/jurdian\/article\/view\/17\/13"
+        }
+      ],
+      "publisher": "Institut Bakti Nusantara",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publication": "JURDIAN: Jurnal Pengabdian Bakti Nusantara",
+      "dir": "disk0_bak\/00\/04\/93\/40",
+      "full_text_status": "public",
+      "issn": "-",
+      "status_changed": "2023-03-29 01:40:56",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "subjects": [
+        "Q1"
+      ],
+      "abstract": "The intercropping system is a cropping system that is carried out by planting two or more different types of plants\r\nsimultaneously at relatively the same time. One of the combinations in intercropping is coffee and chili plants\r\nwith coffee plants as the main crop and chili plants as intercrops. This activity was carried out in the Pekon Pagar\r\nDewa coffee area, Pagar Dewa District, West Lampung Regency. The purpose of this activity is to provide\r\ndirection to farmer residents that the intercropping system can be relied upon as a side income and increase public\r\nknowledge about the intercropping system of coffee plants on chili plants. Writing this article uses a qualitative\r\napproach with a descriptive-explanative model. The method used is assistance in the form of counseling and training. The results of this activity showed a positive response from coffee farmers, some of them immediately practiced making tumpeng sari plants among the coffee plants in their gardens.",
+      "volume": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49340",
+      "date": "2023-03",
+      "creators": [
+        {
+          "id": "wegayendi@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Kanedi",
+            "lineage": null,
+            "given": "Mohammad"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Pemberdayaan Masyarakat Petani Kopi Melalui Budidaya Tumpang\r\nSari Tanaman Cabai Pada Perkebunan Kopi di Pekon Pagar Dewa\r\nKabupaten Lampung Barat",
+      "refereed": "TRUE",
+      "datestamp": "2023-03-29 01:40:56",
+      "eprint_status": "archive",
+      "id_number": "-",
+      "eprintid": 49340,
+      "metadata_visibility": "show",
+      "pagerange": "51-56",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Wawan",
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null
+          },
+          "id": "wawan.a.setiawan@gmail.com"
+        },
+        {
+          "id": "kusumahandayani@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Handayani",
+            "given": "Kusuma"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 833,
+      "number": 2,
+      "official_url": "https:\/\/jurnal.ibnus.ac.id\/index.php\/jurdian\/issue\/view\/2",
+      "lastmod": "2023-03-29 01:40:56",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "filename": "PUBLKASI JURNAL PENGABSIAN.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535686",
+                  "objectid": 188885,
+                  "filesize": 451576,
+                  "mtime": "2023-03-28 14:54:35",
+                  "hash_type": "MD5",
+                  "hash": "d7519cd7a744164ac016430202f8eab4",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 535686
+                }
+            ],
+            "main": "PUBLKASI JURNAL PENGABSIAN.pdf",
+            "docid": 188885,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188885",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49340
+          }
+      ]
+    },
+    {
+      "subjects": [
+        "Q1"
+      ],
+      "date": "2023-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49336",
+      "abstract": "Avoiding the bites of Aedes aegypti is the best way to prevent transmission of dengue hemorrhagic fever (DHF). One\r\neffective way to avoid mosquito bites is to apply a repellent lotion. This research is an effort to find natural ingredients\r\nfor mosquito repellent lotions. The purpose of this research is to determine the repellent effect of the ethanol extract of\r\ntomato (Solanum lycopersicum L.) leaves, known to rich in alkaloids and saponin, against Aedes mosquitoes. The\r\nrepellent lotion of tomato leaves extract was prepared in five concentration levels namely 0% (control), 10%, 20%,\r\n30%, 40% and 50%. By applying a completely randomized design, five cages were prepared with 25 mosquitoes each,\r\ninto which volunteers were asked to put their bare hands.The results showed that tomato leaf extract had a repellent\r\neffect on Aedes aegypti mosquito in a concentration-dependent manner.At the concentration of 10% the extract repels mosquito bites by 36%, while the extract with a concentration of 50% able to repel mosquito bites by up to 83%. It can be concluded that tomato leaf extract has a repellent effect on Aedes aegypti mosquitoes and has the potential to be developed as a mosquito repellent lotion.",
+      "volume": 13,
+      "related_url": [
+        {
+          "url": "https:\/\/wjbphs.com\/content\/repellent-effect-plant-leaves-extract-tomato-solanum-lycopersicum-l-against-aedes-aegypti"
+        }
+      ],
+      "publication": "World Journal of Biology Pharmacy and Health Sciences",
+      "publisher": "World Journal of Advanced Research and Reviews",
+      "dir": "disk0_bak\/00\/04\/93\/36",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "issn": "2582-5542",
+      "status_changed": "2023-03-29 01:40:45",
+      "metadata_visibility": "show",
+      "pagerange": "198-202",
+      "datestamp": "2023-03-29 01:40:45",
+      "id_number": "https:\/\/doi.org\/10.30574\/wjbphs.2023.13.1.0024",
+      "eprint_status": "archive",
+      "eprintid": 49336,
+      "official_url": "https:\/\/wjarr.com\/",
+      "lastmod": "2023-03-29 01:40:45",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 188881,
+            "main": "88. Repellent effect of Tomato-WJBPHS-2023-0024.pdf",
+            "files": [
+                {
+                  "fileid": 535662,
+                  "datasetid": "document",
+                  "hash": "c4b6a49992ea1e5abde7054c60e9fcb3",
+                  "mime_type": "application\/pdf",
+                  "objectid": 188881,
+                  "filesize": 812331,
+                  "filename": "88. Repellent effect of Tomato-WJBPHS-2023-0024.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535662",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-28 14:02:41"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188881",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49336
+          }
+      ],
+      "contributors": [
+        {
+          "id": "endahsetyaningrum375@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Setyaningrum",
+            "honourific": null,
+            "given": "Endah"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Pratami",
+            "lineage": null,
+            "honourific": null,
+            "given": "Gina Dania"
+          },
+          "id": "ginadaniapratami@gmail.com"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Unih",
+            "lineage": null,
+            "family": "HS",
+            "honourific": null
+          },
+          "id": "unihas9343@gmail.com"
+        }
+      ],
+      "userid": 833,
+      "number": 1,
+      "title": "Repellent effect of plant leaves extract of tomato (Solanum lycopersicum L.) against\r\nAedes aegypti mosquitoes",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kanedi",
+            "given": "Mohammad"
+          },
+          "id": "wegayendi@yahoo.com"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "abstract": "The positive impact of the discovery of antibiotics coupled with advances in the development of antimicrobial drugs has\r\nimproved human health. Unfortunately, prolonged use of antibiotics has increased microbial resistance. That is why\r\nresearch to find natural ingredients that have the potential to be developed into plant-derived antimicrobial drugs\r\ncontinues to be carried out throughout the world. Among the plants that have been intensively studied for their\r\nantimicrobial properties are bananas of the Genus Musa (family Musaceae). In Indonesia, in the last decade there have\r\nbeen quite a lot of studies on the antimicrobial properties of banana plant extracts. Bananas are known to contain a\r\nvariety of bioactive compounds that are antimicrobial, such as: lycopene, saponins, alkaloids, flavonoids, tannins,\r\nphenols, terpenoids, anthocyanins. Microbes that have been proven to be affected with crude extracts of banana plants\r\nare fungi such as Trichophyton rubrum, Candida albicans and Pityrosporum ovale and bacteria such as Enterococcus\r\nfaecalis, Porphyromonas gingivalis, Staphylococcus aureus, Escherichia coli, Lactobacillus plantarum, Klebsiella\r\npneumonia, and Enterococcus faecalis. Therefore it can be concluded that banana plants can be used as a source of plantderived antimicrobial medicine.",
+      "volume": 13,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49337",
+      "date": "2023-02",
+      "subjects": [
+        "Q1"
+      ],
+      "full_text_status": "public",
+      "issn": "2581-9615",
+      "status_changed": "2023-03-29 01:40:48",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "related_url": [
+        {
+          "url": "https:\/\/wjarr.com\/sites\/default\/files\/WJARR-2023-0252.pdf"
+        }
+      ],
+      "publisher": "World Journal of Advanced Research and Reviews",
+      "publication": "World Journal of Advanced Research and Reviews,",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/04\/93\/37",
+      "userid": 833,
+      "contributors": [
+        {
+          "id": "kusumahandayani@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Handayani",
+            "given": "Kusuma"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "wawan.a.setiawan@gmail.com",
+          "name": {
+            "family": "Setiawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Wawan"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 2,
+      "official_url": "https:\/\/wjarr.com\/",
+      "lastmod": "2023-03-29 01:40:48",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 49337,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188882",
+            "security": "public",
+            "files": [
+                {
+                  "filename": "89. Antimicrobial of banana plant extract-WJARR-2023-0252.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535668",
+                  "filesize": 761992,
+                  "objectid": 188882,
+                  "mtime": "2023-03-28 14:17:00",
+                  "hash_type": "MD5",
+                  "hash": "3813c9eee443d6ee43ac9fbccdce280a",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 535668
+                }
+            ],
+            "main": "89. Antimicrobial of banana plant extract-WJARR-2023-0252.pdf",
+            "docid": 188882,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2023-03-29 01:40:48",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.30574\/wjarr.2023.17.2.0252",
+      "eprintid": 49337,
+      "metadata_visibility": "show",
+      "pagerange": "386-392",
+      "type": "article",
+      "creators": [
+        {
+          "id": "wegayendi@yahoo.com",
+          "name": {
+            "family": "Kanedi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mohammad"
+          }
+        }
+      ],
+      "title": "Studies on the antimicrobial potential of plant extract of banana (Genus Musa) in\r\nIndonesia",
+      "refereed": "TRUE"
+    },
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2023-05-11 03:22:56",
+      "related_url": [
+        {
+          "url": "https:\/\/www.pusakamedia.my.id\/2023\/04\/pengembangan-sdm-untuk-meningkatkan.html"
+        }
+      ],
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "Pusaka Media",
+      "dir": "disk0_bak\/00\/05\/13\/89",
+      "date": "2023-04-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51389",
+      "abstract": "Pembangunan Kebun Raya Liwa sejalan dengan komitmen\r\nPemerintah Kabupaten Lampung Barat dalam hal mencanangkan\r\ndaerahnya sebagai kabupaten konservasi. Pembangunan Kebun Raya\r\nLiwa sebagai kawasan konservasi ex situ ini sesuai dengan agenda 21\r\nPemerintah Kabupaten Lampung Barat dan merupakan tindak nyata\r\ndalam upaya pelestarian keanekaragaman flora, khususnya flora\r\nendemik daerah.Kebun Raya Liwa mengangkat konsep konservasi\r\ntumbuhan Penelitian ini bertujuan untuk mengexprolasi konservasi\r\ntumbuhan eks-situ, pusat penelitian flora, pendidikan lingkungan,\r\nwisata, dan jasa lingkungan di kebun raya Liwa.",
+      "book_title": "Pengembangan SDM Untuk meningkatkan Daya Saing Lampung",
+      "date_type": "published",
+      "subjects": [
+        "QK"
+      ],
+      "place_of_pub": "Bandar Lampung",
+      "title": "Konsep Konservasi Anggrek Alam Di Kebun Raya Liwa\r\nBerbasis Tiga Bidang Ilmu (Biologi, Proteksi Tanaman, Dan\r\nKecerdasan Buatan)",
+      "refereed": "TRUE",
+      "isbn": "978-623-418-198-2",
+      "creators": [
+        {
+          "id": "mahfut.mipa@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Mahfut",
+            "lineage": null,
+            "given": "Mahfut"
+          }
+        }
+      ],
+      "type": "book_section",
+      "lastmod": "2023-05-11 03:22:56",
+      "official_url": "https:\/\/www.pusakamedia.my.id\/",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Bunga Rampai - Chapter 9 Mahfut.pdf",
+            "docid": 248317,
+            "files": [
+                {
+                  "filesize": 4301657,
+                  "objectid": 248317,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/608790",
+                  "filename": "Bunga Rampai - Chapter 9 Mahfut.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-10 11:40:22",
+                  "fileid": 608790,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "45f4ad3a3bf56213ce761142daeb70e4"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248317",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51389
+          }
+      ],
+      "pages": 155,
+      "userid": 1126,
+      "metadata_visibility": "show",
+      "pagerange": "113-133",
+      "datestamp": "2023-05-11 03:22:56",
+      "eprintid": 51389,
+      "eprint_status": "archive"
+    },
+    {
+      "publisher": "Science Alert",
+      "publication": "Asian Journal of Plant Sciences",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/08\/90",
+      "full_text_status": "public",
+      "issn": "eISSN: 1812-5697 pISSN: 1682-3974",
+      "status_changed": "2023-05-02 01:43:00",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "date_type": "published",
+      "subjects": [
+        "QK"
+      ],
+      "abstract": "Background and Objective: Phalaenopsis amabilis and Dendrobium discolor are orchids that are widely cultivated in Indonesia. Orchid cultivation has several problems, one of which is infection with Odontoglossum ringspot virus (ORSV). Rhizoctonia can be used in the induction of orchid resistance by triggering lignification in roots and leaves. However, there is little information about the induction of mycorrhizal resistance. It is necessary to study to determine of orchids resistance to virus through analysis of anatomical character on root and leave. Materials and Methods: Factorial block random design. The factor I: Orchids types: P. amabilis (A1) dan D. discolor (A2). Factor II: Inoculation treatment: Control (K), Mycorrhiza (M), Virus (V) and Mycorrhiza-Virus (MV). Parameters observed were root anatomical structure includes lignification and the presence of peloton and leaf anatomical structure includes leaf damage and thickness. Results: All types of experimental plants experienced root and leaf tissue damage due to virus inoculation and mycorrhiza. The anatomy of the treated roots had differences in the thickness of the epidermal lignin and the thickness of the carrier bundle lignin. Meanwhile, changes in the anatomical character of leaves as a result of virus inoculation showed damage to the epidermis and stomata tissue. Conclusion: Based on the anatomical observations of roots and leaves, D. discolor was more resistant to ORSV infection than P. amabilis. The results of this study become a recommendation for the types of orchids cultivated in ORSV endemic area.",
+      "volume": 22,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50890",
+      "date": "2023-04",
+      "type": "article",
+      "creators": [
+        {
+          "id": "mahfut.mipa@fmipa.unila.ac.id",
+          "name": {
+            "given": "Mahfut",
+            "lineage": null,
+            "family": "Mahfut",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hidayat",
+            "lineage": null,
+            "given": "Mauli Maro"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Arifannisa",
+            "lineage": null,
+            "given": "Sahira Josy"
+          },
+          "id": null
+        }
+      ],
+      "title": "Study of Orchid Resistance Induction Using Rhizoctonia Against ORSV Infection Based on Anatomical Characters of Roots and Leaves",
+      "refereed": "TRUE",
+      "datestamp": "2023-05-02 01:43:00",
+      "id_number": "10.3923\/ajps.2023.239.249",
+      "eprint_status": "archive",
+      "eprintid": 50890,
+      "metadata_visibility": "show",
+      "pagerange": "239-249",
+      "userid": 1126,
+      "number": 2,
+      "lastmod": "2023-05-02 01:43:00",
+      "documents": [
+          {
+            "docid": 190604,
+            "main": "239-249.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "686ee5cb21d2b5c1912522994aa03c3d",
+                  "fileid": 547808,
+                  "datasetid": "document",
+                  "mtime": "2023-05-01 10:15:18",
+                  "hash_type": "MD5",
+                  "filename": "239-249.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547808",
+                  "filesize": 1497246,
+                  "objectid": 190604
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 50890,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190604",
+            "pos": 1,
+            "security": "public"
+          }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248279",
+            "eprintid": 51381,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "204-211+MAHFUT.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-10 08:44:51",
+                  "objectid": 248279,
+                  "filesize": 694654,
+                  "filename": "204-211+MAHFUT.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/608683",
+                  "fileid": 608683,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "748e36e419bfb759eb0e940c06cc82df"
+                }
+            ],
+            "docid": 248279
+          }
+      ],
+      "lastmod": "2023-05-10 10:29:32",
+      "official_url": "https:\/\/journal.uhamka.ac.id\/index.php\/solma\/index",
+      "number": 1,
+      "userid": 1126,
+      "pagerange": "204-211",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.22236\/solma.v12i1.10201",
+      "eprint_status": "archive",
+      "eprintid": 51381,
+      "datestamp": "2023-05-10 10:29:32",
+      "refereed": "TRUE",
+      "title": "Peningkatan Kualitas Pemahaman Konten dan Teknik Pengajaran Mata Pelajaran Fisika, Kimia, Matematika, Biologi, dan Teknologi Informasi Komputer (TIK)",
+      "creators": [
+        {
+          "id": "roniyus.1977@fmipa.unila.ac.id",
+          "name": {
+            "family": "Marjunus",
+            "lineage": null,
+            "honourific": null,
+            "given": "Roniyus"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Pandiangan",
+            "honourific": null,
+            "given": "Kamisah Delilawati"
+          },
+          "id": "kamisahdelilawati@yahoo.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Amanto",
+            "honourific": null,
+            "given": "Amanto"
+          },
+          "id": "amanto.1973@fmipa.unila.ac.id"
+        },
+        {
+          "id": "mahfut.mipa@fmipa.unila.ac.id",
+          "name": {
+            "family": "Mahfut",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mahfut"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Heningtyas",
+            "given": "Yunda"
+          },
+          "id": "yundaheningtyas@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "date": "2023-04-30",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51381",
+      "volume": 12,
+      "abstract": "Pembelajaran Fisika, Kimia, Matematika, Biologi dan Teknologi\r\nInformasi-Komputer (TIK) atau disingkat MIPA-TIK di level Sekolah Menengah Atas\r\n(SMA) merupakan salah satu bagian dari komponen pendidikan tersebut. Pemahaman\r\nyang baik dan benar dari siswa SMA tentang MIPA-TIK diperlukan agar siswa SMA\r\ntidak lagi memandang mata pelajaran tersebut sebagai ilmu pengetahuan yang sukar.\r\nOleh karena itu tingkat kualitas pemahaman guru-guru mata pelajaran tersebut di\r\nProvinsi Lampung umumnya dan Kabupaten Lampung Selatan khususnya, memegang\r\nperanan yang sangat penting. Metode: Evaluasi dilakukan pada awal kegiatan (pretest) dan akhir kegiatan (post-test) untuk melihat keberhasilan dari kegiatan ini. Hasil:\r\nHasil post-test dibanding pre-test sebesar 45,8%. Kesimpulan: terjadi peningkatan\r\nkemampuan atau kompetensi guru-guru dalam menyampaikan materi mata pelajaran\r\ntersebut secara baik dan benar.",
+      "subjects": [
+        "QA",
+        "QA75",
+        "QC",
+        "QD",
+        "QK"
+      ],
+      "date_type": "published",
+      "rev_number": 11,
+      "ispublished": "pub",
+      "status_changed": "2023-05-10 10:29:32",
+      "full_text_status": "public",
+      "issn": "2614-1531",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "Universitas Muhammadiyah Prof. DR. HAMKA",
+      "publication": "Jurnal SOLMA",
+      "dir": "disk0_bak\/00\/05\/13\/81"
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "issn": "2540-8224",
+      "status_changed": "2023-05-22 02:01:20",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.fmipa.unila.ac.id\/analit\/article\/view\/9238\/2197"
+        }
+      ],
+      "publication": "Analit: Analytical and Environmental Chemistry",
+      "publisher": "Jurusan Kima FMIPA Unila",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/19\/38",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51938",
+      "date": "2023-04-30",
+      "abstract": "One of the production constraints in the cultivation of vanilla (Vanilla planifolia Andrews) is stem rot\r\ndisease is caused by the fungus Fusarium oxysporum f. sp. vanillae. The solutions used to treat this\r\ndisease is by using irritating agents, namely fusaric acid with various concentrations. The use of vanilla\r\ncultivars that are resistant to stem rot with high yields is expected to be an important disease control\r\nalternative. The purpose of this study was to determine the activity of the peroxidase enzyme in vanilla\r\nplants induced by various concentrations of fusaric acid. The study was conducted using a completely\r\nrandomized design (CRD) with one factor, namely fusaric acid concentrations of 0 ppm (control), 115\r\nppm, 125 ppm, and 135 ppm. The data that has been obtained is analyzed using Analysis of Variance\r\n(ANOVA) then a further test is carried out with the Honest Significant Difference (BNJ) with a level\r\nof 5%. The results showed that the higher the concentration of fusaric acid, the higher the activity of\r\nthe peroxidase enzyme. At a fusaric acid concentration of 135 ppm, the highest activity of the\r\nperoxidase enzyme was 0.74 U\/mg\/min.",
+      "volume": 8,
+      "date_type": "published",
+      "subjects": [
+        "Q1"
+      ],
+      "title": "ANALISIS AKTIVITAS ENZIM PEROKSIDASE TANAMAN VANILI\r\n(Vanilla planifolia Andrews) HASIL PENGIMBASAN ASAM FUSARAT\r\nSECARA IN VIVO",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "endang_nurcahyani@yahoo.com",
+          "name": {
+            "given": "Endang",
+            "honourific": null,
+            "family": "Nurcahyani",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ratna",
+            "honourific": null,
+            "lineage": null,
+            "family": "Oktaviani"
+          }
+        },
+        {
+          "name": {
+            "given": "T.T.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Handayani"
+          },
+          "id": "tundjungtripeni@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Irawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Bambang"
+          },
+          "id": "bambang.irawan@fmipa.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/analit\/article\/view\/9238\/2197",
+      "lastmod": "2023-05-22 02:01:20",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251249",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51938,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "ENDANG.NURCAHYANI_RATNA.OCTAVIANI_ANALIT_APRIL 2023.pdf",
+            "docid": 251249,
+            "files": [
+                {
+                  "filesize": 176580,
+                  "objectid": 251249,
+                  "filename": "ENDANG.NURCAHYANI_RATNA.OCTAVIANI_ANALIT_APRIL 2023.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/615412",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-22 01:45:02",
+                  "fileid": 615412,
+                  "datasetid": "document",
+                  "hash": "15bd365d132b30d2a7a11e0abf4aedae",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 696,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "68-76",
+      "datestamp": "2023-05-22 02:01:20",
+      "id_number": "http:\/\/dx.doi.org\/10.23960%2Faec.v8i01.2023.p68-76",
+      "eprint_status": "archive",
+      "eprintid": 51938
+    },
+    {
+      "refereed": "TRUE",
+      "title": "SELEKSI DAN KARAKTERISASI PLANLET BAWANG MERAH (Allium ascalonicum L.) TERHADAP CEKAMAN GARAM NATRIUM KLORIDA (NaCl) SECARA IN VITRO",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Prastiwi",
+            "given": "H. P."
+          }
+        },
+        {
+          "id": "endang_nurcahyani@yahoo.com",
+          "name": {
+            "given": "Endang",
+            "honourific": null,
+            "family": "Nurcahyani",
+            "lineage": null
+          }
+        },
+        {
+          "id": "tundjungtripeni@yahoo.com",
+          "name": {
+            "family": "Handayani",
+            "lineage": null,
+            "honourific": null,
+            "given": "T.T."
+          }
+        },
+        {
+          "id": "wahyu6125@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wahyuningsih",
+            "given": "Sri"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 50997,
+      "datestamp": "2023-05-03 06:57:38",
+      "documents": [
+          {
+            "eprintid": 50997,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190710",
+            "pos": 1,
+            "format": "text",
+            "docid": 190710,
+            "main": "Spreadsheet Agros 25(2)-1383-1392_Herlina dkk.pdf",
+            "files": [
+                {
+                  "hash": "d518a9429b1b78375f24196a0098a26f",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 548613,
+                  "mtime": "2023-05-03 04:00:52",
+                  "hash_type": "MD5",
+                  "filename": "Spreadsheet Agros 25(2)-1383-1392_Herlina dkk.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548613",
+                  "filesize": 1541101,
+                  "objectid": 190710
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-05-03 06:57:38",
+      "number": 2,
+      "userid": 957,
+      "publisher": "Fakultas Pertanian Universitas Janabadra Yogyakarta",
+      "publication": "Jurnal Pertanian Agros",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/09\/97",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2023-05-03 06:57:38",
+      "issn": "2528-1488",
+      "full_text_status": "public",
+      "subjects": [
+        "QK"
+      ],
+      "date_type": "published",
+      "date": "2023-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50997",
+      "volume": 25,
+      "abstract": "Onion (Allium ascalonicum L.) is a spice commodity that has many benefits and high economic value. One of the factors causing low onion production is due to less productive land due to salt stress or salinity. This study aims to determine the specific character and effective concentration of NaCl for selection of onion plantlets under salt stress conditions in vitro. The research design was in the form of a completely randomized design (CRD) consisting of 1 factor, namely NaCl concentration: 0%, 0.15%, 0.30%, 0.45%, 0.60% with 5 replications. The homogeneity of the data was analyzed by Levene's test and continued with the oneway Anova test and Tukey's test at 5% significance level. The results showed that the effective concentration of NaCl for selection of onion plantlets under salt stress conditions in vitro was 0.15%. The higher the concentration of NaCl, the smaller the size of the plantlets with the lower the height of the plantlets, the visualization of the leaf color becomes yellowish green to brown, and the decreased content of chlorophyll a, b, and total chlorophyll."
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2023-05-02 01:39:49",
+      "full_text_status": "public",
+      "issn": "2528-1488",
+      "publisher": "Fakultas Pertanian Universitas Janabadra Yogyakarta",
+      "dir": "disk0_bak\/00\/05\/08\/44",
+      "publication": "Jurnal Pertanian Agros",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/e-journal.janabadra.ac.id\/index.php\/JA\/article\/view\/2761"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50844",
+      "date": "2023-04-30",
+      "volume": 25,
+      "abstract": "Onion (Allium ascalonicum L.) is a spice commodity that has many benefits and high economic value. One of the factors causing low onion production is due to less productive land due to salt stress or salinity. This study aims to determine the specific character and effective concentration of NaCl for selection of onion plantlets under salt stress conditions in vitro. The research design was in the form of a completely randomized design (CRD) consisting of 1 factor, namely NaCl concentration: 0%, 0.15%, 0.30%, 0.45%, 0.60% with 5 replications. The homogeneity of the data was analyzed by Levene's test and continued with the oneway Anova test and Tukey's test at 5% significance level. The results showed that the effective concentration of NaCl for selection of onion plantlets under salt stress conditions in vitro was 0.15%. The higher the concentration of NaCl, the smaller the size of the plantlets with the lower the height of the plantlets, the visualization of the leaf color becomes yellowish green to brown, and the decreased content of chlorophyll a, b, and total chlorophyll.",
+      "subjects": [
+        "Q1",
+        "QK"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "SELEKSI DAN KARAKTERISASI PLANLET BAWANG MERAH\r\n(Allium ascalonicum L.) TERHADAP CEKAMAN GARAM NATRIUM KLORIDA (NaCl) SECARA IN VITRO",
+      "type": "article",
+      "creators": [
+        {
+          "id": "hlinaputrii@gmail.com",
+          "name": {
+            "given": "Herlina",
+            "honourific": null,
+            "family": "Putri P",
+            "lineage": null
+          }
+        },
+        {
+          "id": "endang_nurcahyani@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Nurcahyani",
+            "honourific": null,
+            "given": "Endang"
+          }
+        },
+        {
+          "name": {
+            "given": "Tripeni Handayani",
+            "family": "Tundjung",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "tundjungtripenihandayani@gmail.com"
+        },
+        {
+          "id": "wahyu6125@yahoo.co.id",
+          "name": {
+            "family": "Wahyuningsih",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sri"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 50844,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190554",
+            "pos": 1,
+            "security": "public",
+            "main": "Herlina Putri P_ENDANG NURCAHYANI_JURNAL AGROS_APRIL 2023.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "599144bb1f3384670f56e8de823502f0",
+                  "fileid": 547507,
+                  "datasetid": "document",
+                  "mtime": "2023-04-29 10:04:29",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547507",
+                  "filename": "Herlina Putri P_ENDANG NURCAHYANI_JURNAL AGROS_APRIL 2023.pdf",
+                  "objectid": 190554,
+                  "filesize": 917733
+                }
+            ],
+            "docid": 190554,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-05-02 01:39:49",
+      "official_url": "http:\/\/e-journal.janabadra.ac.id\/index.php\/JA\/article\/view\/2761",
+      "number": 2,
+      "userid": 696,
+      "pagerange": "1383-1392",
+      "metadata_visibility": "show",
+      "eprintid": 50844,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-02 01:39:49"
+    },
+    {
+      "related_url": [
+        {
+          "url": "http:\/\/e-journal.janabadra.ac.id\/index.php\/JA\/article\/view\/2745"
+        }
+      ],
+      "publication": "Jurnal Pertanian Agros",
+      "publisher": "FP Universitas Janabadra",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/08\/42",
+      "full_text_status": "public",
+      "issn": "e-2528-1488, p-1411-0172",
+      "status_changed": "2023-05-02 01:39:41",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "Q1",
+        "QK"
+      ],
+      "abstract": "Bananas are one of the horticultural commodities that are consumed by many people. The increase in banana cultivation is inseparable from various obstacles, one of which is salt stress. Salt stress is an environmental condition that is harmful to plants because it can increase osmotic pressure so that the roots are unable to take water from the environment. The development of biotechnology that can be used to improve the character and resistance of a plant is by using in vitro techniques. The purpose of this study was to determine the tolerant concentration of NaCl in cavendish banana plantlets resistant to salt stress and the expression characteristics of cavendish banana plantlets in the form of chlorophyll and carbohydrate analysis. This study used a completely randomized design (CRD) method with the addition of 5 levels of NaCl concentration treatment on MS medium (0%), (0.25%), (0.50%), (0.75%), (1%) with 5 repetitions. Quantitative data for each parameter were statistically analyzed by one way ANOVA, then TUKEY tested at 5% level of significance. The results showed that the tolerant concentration of NaCl for cavendish banana growth was 1% NaCl. The results of specific expression characters with increasing concentration of NaCl in the form of decreased content of chlorophyll a, b and total and increased carbohydrates.",
+      "volume": 25,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50842",
+      "date": "2023-04-30",
+      "creators": [
+        {
+          "name": {
+            "family": "Rizqika A.P",
+            "lineage": null,
+            "honourific": null,
+            "given": "Khairunnisa"
+          },
+          "id": "khairunnisa2001.rip@gmial.com"
+        },
+        {
+          "name": {
+            "given": "Endang",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurcahyani"
+          },
+          "id": "endang_nurcahyani@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wahyuningsih"
+          },
+          "id": "wahyu6125@yahoo.co.id"
+        },
+        {
+          "id": "bambang.irawan@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Irawan",
+            "lineage": null,
+            "given": "Bambang"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "STUDI IN VITRO: KARAKTERISASI PLANLET PISANG CAVENDISH\r\n(Musa acuminata Colla) TAHAN CEKAMAN GARAM (NaCl)",
+      "refereed": "TRUE",
+      "datestamp": "2023-05-02 01:39:41",
+      "eprintid": 50842,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1318-1326",
+      "userid": 696,
+      "number": 2,
+      "official_url": "http:\/\/e-journal.janabadra.ac.id\/index.php\/JA\/article\/view\/2745",
+      "lastmod": "2023-05-02 01:39:41",
+      "documents": [
+          {
+            "main": "Khairunnisa RAP_ENDANG NURCAHYANI_JURNAL AGROS.pdf",
+            "files": [
+                {
+                  "objectid": 190552,
+                  "filesize": 901334,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547492",
+                  "filename": "Khairunnisa RAP_ENDANG NURCAHYANI_JURNAL AGROS.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-29 09:25:37",
+                  "fileid": 547492,
+                  "datasetid": "document",
+                  "hash": "35abf6bc353c2f6675400859bb50d468",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 190552,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 50842,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190552",
+            "security": "public"
+          }
+      ]
+    },
+    {
+      "title": "Penyuluhan Tempat Perindukan Alami Nyamuk Aedes aegypti Vektor DBD di Dusun Pal 6, Kabupaten Lampung Selatan",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Emantis",
+            "lineage": null,
+            "family": "Rosa",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Yulianty",
+            "lineage": null,
+            "family": "Yulianty",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "endang_nurcahyani@yahoo.com",
+          "name": {
+            "family": "Nurcahyani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Endang"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Linirin",
+            "given": "Endang"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Selvi",
+            "lineage": null,
+            "given": "Marcelia"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Linda",
+            "honourific": null,
+            "given": "Septiani"
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "118-123",
+      "datestamp": "2023-05-02 01:39:46",
+      "eprintid": 50845,
+      "eprint_status": "archive",
+      "lastmod": "2023-05-02 01:39:46",
+      "official_url": "https:\/\/journal.mediapublikasi.id\/index.php\/amma\/article\/view\/2176",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Emantis Rosa_ENDANG NURCAHYANI_Jurnal Pengabdian AMMA_Februari2023.pdf",
+            "files": [
+                {
+                  "mtime": "2023-04-29 10:20:20",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547514",
+                  "filename": "Emantis Rosa_ENDANG NURCAHYANI_Jurnal Pengabdian AMMA_Februari2023.pdf",
+                  "objectid": 190555,
+                  "filesize": 434784,
+                  "hash": "e8a9fd92394a8eee96c8eecb4a57d760",
+                  "mime_type": "application\/pdf",
+                  "fileid": 547514,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 190555,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 50845,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190555",
+            "pos": 1
+          }
+      ],
+      "userid": 696,
+      "number": 1,
+      "related_url": [
+        {
+          "url": "https:\/\/journal.mediapublikasi.id\/index.php\/amma\/article\/view\/2176"
+        }
+      ],
+      "publisher": "CV. Multi Kreasi Media",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publication": "AMMA : Jurnal Pengabdian Masyarakat",
+      "dir": "disk0_bak\/00\/05\/08\/45",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "issn": "2828-6634",
+      "full_text_status": "public",
+      "status_changed": "2023-05-02 01:39:46",
+      "date_type": "published",
+      "subjects": [
+        "Q1"
+      ],
+      "date": "2023-02-28",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50845",
+      "abstract": "The breeding places that are known to the public are still limited to the breeding places that are inside the house, even though there are still many breeding places outside, such as plants that can accommodate stagnant water which are used by mosquitoes as breeding places, are still not widely known by the public. The purpose of this community service activity is to introduce and increase public knowledge of mosquito breeding places as an effort to control DHF vector insects in order to reduce DHF cases in the community. The results of the activity showed that there was an increase in public knowledge about the natural breeding places for the DHF vector by 34.83% of (46.30% - 81.13%).",
+      "volume": 2
+    },
+    {
+      "subjects": [
+        "QK"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49319",
+      "date": "2023-03-22",
+      "volume": 1,
+      "abstract": "Compost is a type of organic fertilizer that has been around for a long time. The definition of compost is \r\norganic materials that have undergone a weathering process due to interactions between microorganisms or\r\ndecomposing bacteria that work in the organic matter. Compost induced by fungal inoculums is able to produce\r\norganic fertilizers relatively quickly and contains high plant nutrients. The prospect of the need for organic\r\nfertilizer is quite high in supporting organic farming so it is necessary to disseminate information on science and\r\ntechnology and training to the public about the manufacture of organic fertilizer by inducing the inoculum of the\r\nfungus Trichoderma sp. Fungal isolate Trichoderma sp. this has the potential to be developed into composting\r\ninoculum in the manufacture of organic fertilizer. The results of this activity showed that there was an increase in the knowledge and understanding of the training participants in making compost from leaf litter. The average\r\nincrease in the knowledge of training participants is 30%.",
+      "publisher": "JURDIAN: Jurnal Pengabdian Bakti Nusantara",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publication": "Jurnal Pengabdian Bakti Nusantara",
+      "dir": "disk0_bak\/00\/04\/93\/19",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2023-03-28 03:14:22",
+      "full_text_status": "public",
+      "pagerange": "66-71",
+      "metadata_visibility": "show",
+      "id_number": "http:\/\/jurnal.ibnus.ac.id\/index.php\/jurdian\/index",
+      "eprint_status": "archive",
+      "eprintid": 49319,
+      "datestamp": "2023-03-28 03:14:22",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188865",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49319,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-28 01:30:02",
+                  "objectid": 188865,
+                  "filesize": 257051,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535544",
+                  "filename": "Sutyarso_Pengabdian_Publikasi.pdf",
+                  "fileid": 535544,
+                  "datasetid": "document",
+                  "hash": "086700849df76462c19f4a8819b7cce1",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Sutyarso_Pengabdian_Publikasi.pdf",
+            "docid": 188865,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2023-03-28 03:14:22",
+      "official_url": "http:\/\/jurnal.ibnus.ac.id\/index.php\/jurdian\/index",
+      "number": 2,
+      "userid": 618,
+      "refereed": "TRUE",
+      "title": "Sosialisasi dan Praktik Pembuatan Kompos Dari Serasah Limbah\r\nPertanian Dengan Inducer Fungi Trichoderma sp. di Desa Negeri Agung, Kec. Gunung Pelindung, Kab. Lampung Timur",
+      "type": "article",
+      "creators": [
+        {
+          "id": "alfarisi.mdr@gmail.com",
+          "name": {
+            "given": "Farisi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Salman"
+          }
+        },
+        {
+          "name": {
+            "family": "Bambang",
+            "lineage": null,
+            "honourific": null,
+            "given": "Irawan"
+          },
+          "id": "bambang.irawan@fmipa.unila.ac.id"
+        },
+        {
+          "id": "mamanumar@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suratman",
+            "given": "Suratman"
+          }
+        },
+        {
+          "name": {
+            "given": "Busman",
+            "lineage": null,
+            "family": "Hendri",
+            "honourific": null
+          },
+          "id": "hendri.busman@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "SUTYARSO",
+            "family": "SUTYARSO",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sutyarso@yahoo.co.id"
+        }
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "eprintid": 49278,
+      "datestamp": "2023-03-27 03:28:04",
+      "pagerange": "51-56",
+      "metadata_visibility": "show",
+      "number": 2,
+      "contributors": [
+        {
+          "id": "wegayendi@yahoo.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "family": "Kanedi",
+            "honourific": null,
+            "given": "M."
+          }
+        },
+        {
+          "id": "kusumahandayani@yahoo.co.id",
+          "name": {
+            "given": "Kusuma",
+            "lineage": null,
+            "family": "Handayani",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 293,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "2.+Wawan+Abdullah+Setiawan+(51-56).pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-27 02:34:36",
+                  "objectid": 188828,
+                  "filesize": 451576,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535245",
+                  "filename": "2.+Wawan+Abdullah+Setiawan+(51-56).pdf",
+                  "fileid": 535245,
+                  "datasetid": "document",
+                  "hash": "d7519cd7a744164ac016430202f8eab4",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 188828,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188828",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49278
+          }
+      ],
+      "lastmod": "2023-03-27 03:28:04",
+      "official_url": "https:\/\/jurnal.ibnus.ac.id\/index.php\/jurdian\/article\/view\/17\/13",
+      "creators": [
+        {
+          "id": "wawan.a.setiawan@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null,
+            "given": "Wawan Abdullah"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": null,
+            "honourific": null,
+            "given": null
+          },
+          "id": "wegayendi@yahoo.com"
+        },
+        {
+          "name": {
+            "given": null,
+            "lineage": null,
+            "family": null,
+            "honourific": null
+          },
+          "id": "kusumahandayani@yahoo.co.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Pemberdayaan Masyarakat Petani Kopi Melalui Budidaya Tumpang \r\nSari Tanaman Cabai Pada Perkebunan Kopi di Pekon Pagar Dewa\r\n Kabupaten Lampung Barat",
+      "subjects": [
+        "QH301"
+      ],
+      "volume": 1,
+      "abstract": "The intercropping system is a cropping system that is carried out by planting two or more different types of plants \r\nsimultaneously at relatively the same time. One of the combinations in intercropping is coffee and chili plants \r\nwith coffee plants as the main crop and chili plants as intercrops. This activity was carried out in the Pekon Pagar \r\nDewa coffee area, Pagar Dewa District, West Lampung Regency. The purpose of this activity is to provide \r\ndirection to farmer residents that the intercropping system can be relied upon as a side income and increase public \r\nknowledge about the intercropping system of coffee plants on chili plants. Writing this article uses a qualitative \r\napproach with a descriptive-explanative model. The method used is assistance in the form of counseling and \r\ntraining. The results of this activity showed a positive response from coffee farmers, some of them immediately \r\npracticed making tumpeng sari plants among the coffee plants in their gardens.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49278",
+      "date": "2023-03",
+      "publisher": "Institut Bakti Nusantara",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publication": "Jurnal Pengabdian Bakti Nusantara",
+      "dir": "disk0_bak\/00\/04\/92\/78",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.ibnus.ac.id\/index.php\/jurdian\/article\/view\/17\/13"
+        }
+      ],
+      "status_changed": "2023-03-27 03:28:04",
+      "issn": "2963-4237",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51408",
+      "date": 2023,
+      "volume": 16,
+      "abstract": "Seabass (Lates calcarifer) is a widely distributed species with high economic potential in fish culture. However, death in the cultivation of seabass is often caused by Photobacterium damselae bacteria. Fish can be protected from disease by providing the feed with synbiotics and natural herbal substances. The study examines the internal histological organs of seabass exposed to P. damselae to determine the impact of administering synbiotics and various herbs. The study was carried out at the Lampung Marine\r\nAquaculture and Fishery Center with a completely randomized design method, consisting of 5 treatments and 4 replications. The treatments included commercial feed (- control), commercial feed + synbiotics (+ control), synbiotics, commercial feed + some herbs (herbs), and commercial feed + herbs + synbiotics (mixed), which was given to seabass fry with a mean length of 7.7±0.8 cm. The challenge test was\r\nconducted by infecting the fish with P. damselae bacteria through intra-peritoneal injection. The results\r\nindicated that the mixed treatment maintained the lowest mortality rate during the challenge test with P.\r\ndamselae. Meanwhile, internal organ histopathology observations in each treatment showed no differences.\r\nAccording to histological findings, all treatments resulted in organ necrosis, congestion, hemorrhaging, melanomacrophage centers (MMCs), inclusion bodies, and fat degradation. Clinical symptoms appear in fish, such as flaking on the caudal and anal fin, body, and abdomen necrosis with red spots, loose scales, and distended head and abdomen.",
+      "subjects": [
+        "Q1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2023-05-11 03:23:46",
+      "full_text_status": "public",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publication": "AACL Bioflux",
+      "dir": "disk0_bak\/00\/05\/14\/08",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248417",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51408,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "The effects of synbiotics and various herbs during.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "b3822adb02bcc9742ed078b06c001892",
+                  "fileid": 609005,
+                  "datasetid": "document",
+                  "mtime": "2023-05-11 03:01:44",
+                  "hash_type": "MD5",
+                  "filename": "The effects of synbiotics and various herbs during.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/609005",
+                  "filesize": 940217,
+                  "objectid": 248417
+                }
+            ],
+            "docid": 248417,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2023-05-11 03:23:46",
+      "official_url": "http:\/\/www.bioflux.com.ro\/docs\/2023.864-877.pdf",
+      "number": 2,
+      "userid": 819,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 51408,
+      "datestamp": "2023-05-11 03:23:46",
+      "refereed": "TRUE",
+      "title": "The effects of synbiotics and various herbs during\r\nthe Photobacterium damselae challenge test on the histopathology of seabass (Lates calcarifer) internal organs",
+      "creators": [
+        {
+          "name": {
+            "family": "Susanto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Gregorius Nugroho"
+          },
+          "id": "gnugrohos@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Budi",
+            "lineage": null,
+            "given": "Khrisna L"
+          }
+        },
+        {
+          "name": {
+            "given": "Suci",
+            "honourific": null,
+            "family": "Antoro",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Rini",
+            "honourific": null,
+            "family": "Purnomowati",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Sutopo",
+            "family": "Hadi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutyarso",
+            "given": "Sutyarso"
+          },
+          "id": "sutyarso@yahoo.co.id"
+        },
+        {
+          "id": "wegayendi@yahoo.com",
+          "name": {
+            "given": "Mohammad",
+            "honourific": null,
+            "family": "Kanedi",
+            "lineage": null
+          }
+        },
+        {
+          "id": "amrina.izzatika@fkip.unila.ac.id",
+          "name": {
+            "given": "Izzatika",
+            "honourific": null,
+            "lineage": null,
+            "family": "Amrina"
+          }
+        }
+      ],
+      "title": "Indonesian medicinal plants that have the potential to affect testicular function: A Review",
+      "refereed": "TRUE",
+      "userid": 618,
+      "number": 3,
+      "lastmod": "2023-03-24 01:28:57",
+      "official_url": "https:gsconlinepress.com\/journals\/gscaar",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 533906,
+                  "datasetid": "document",
+                  "hash": "a801564f882e93e9db15fe877a1b4567",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-22 00:10:03",
+                  "objectid": 188559,
+                  "filesize": 866495,
+                  "filename": "Indonesian medicinal plants that have the potential to affect testicular function.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/533906"
+                }
+            ],
+            "main": "Indonesian medicinal plants that have the potential to affect testicular function.pdf",
+            "docid": 188559,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 49120,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188559",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2023-03-24 01:28:57",
+      "eprint_status": "archive",
+      "id_number": "DOI: https:\/\/doi.org\/10.30574\/gscarr.2023.14.3.0082",
+      "eprintid": 49120,
+      "metadata_visibility": "show",
+      "pagerange": "163-172",
+      "issn": "eISSN:2582-4597",
+      "full_text_status": "public",
+      "status_changed": "2023-03-24 01:28:57",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "url": "https:gsconlinepress.com\/journals\/gscaar"
+        }
+      ],
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "GSC Advanced Research and Reviews",
+      "publication": "GSC Advanced Research and Reviews, 2023, 14(03), 163–172",
+      "dir": "disk0_bak\/00\/04\/91\/20",
+      "abstract": "The testes are two glandular organs in the male reproductive system responsible for producing gametes called sperm\r\nand synthesizing androgen hormone called testosterone. The two functions of the testes are used as parameters for\r\nfertility and sexual performance in males. This paper presents the results of research to find plant-derived ingredients that are potential to treat disorders related to testicular function carried out in Indonesia in the last two decades. The inclusions criteria of the papers compiled are: containing the results of research conducted in Indonesia, by Indonesian researchers; have been published both in national and international journals that can be accessed using Google search engine. The results indicated there are numerous plant species that were revealed to have potentials to be developed as contraceptive or anti-fertility agent, pro-fertility ingredient and sexual activity enhancer herbs in males. Given fertility, infertility, and sexual behavior in males are all determined by the function of testes, it can be concluded that the Indonesian medicinal plants studied are containing active substance that have an effect on the testes.",
+      "volume": 14,
+      "date": "2023-03-17",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49120",
+      "date_type": "published",
+      "subjects": [
+        "QL"
+      ]
+    },
+    {
+      "status_changed": "2023-08-02 01:23:57",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "publisher": "FMIPA",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/23\/38",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52338",
+      "date": 2023,
+      "subjects": [
+        "Q1"
+      ],
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Tugiyono",
+            "lineage": null,
+            "given": "Tugiyono"
+          },
+          "id": "tugiyono.1964@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "Korespondensi Evaluation of the Water Quality Status and Pollution Load Carrying Capacity of Way Umpu River, Way Kanan District, Lampung Province, Indonesia, Based on Land Use",
+      "userid": 920,
+      "documents": [
+          {
+            "format": "text",
+            "docid": 253472,
+            "main": "Korespondensi_Final Revised_Tugiyono et al., 2022 International Journal of Ecology.pdf",
+            "files": [
+                {
+                  "filename": "Korespondensi_Final Revised_Tugiyono et al., 2022 International Journal of Ecology.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620335",
+                  "objectid": 253472,
+                  "filesize": 785812,
+                  "mtime": "2023-08-02 00:56:04",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "18707cafe6bb559fe8dd22ea877d55c8",
+                  "fileid": 620335,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 52338,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253472"
+          }
+      ],
+      "lastmod": "2023-08-02 01:23:57",
+      "eprintid": 52338,
+      "eprint_status": "archive",
+      "datestamp": "2023-08-02 01:23:57",
+      "metadata_visibility": "show"
+    },
+    {
+      "subjects": [
+        "Q1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52339",
+      "date": 2023,
+      "publisher": "FMIPA",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/23\/39",
+      "status_changed": "2023-08-02 01:23:58",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "eprintid": 52339,
+      "datestamp": "2023-08-02 01:23:58",
+      "metadata_visibility": "show",
+      "userid": 920,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253483",
+            "eprintid": 52339,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Korespondensi JPS.pdf",
+            "docid": 253483,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 620352,
+                  "mime_type": "application\/pdf",
+                  "hash": "456c29dd4e654dbe2c4aeceac431aefa",
+                  "objectid": 253483,
+                  "filesize": 579108,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620352",
+                  "filename": "Korespondensi JPS.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-02 01:06:50"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2023-08-02 01:23:58",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Tugiyono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Tugiyono"
+          },
+          "id": "tugiyono.1964@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "Korespondensi Nilai Nutrition Value Coefficient (NVC) ikan sebagai indikator biologi tingkat pencemaran Sungai Way Umpu Kecamatan Way Kanan Provinsi Lampung"
+    },
+    {
+      "full_text_status": "public",
+      "status_changed": "2023-08-02 01:23:53",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "FMIPA Unila",
+      "dir": "disk0_bak\/00\/05\/23\/35",
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52335",
+      "subjects": [
+        "Q1"
+      ],
+      "creators": [
+        {
+          "id": "tugiyono.1964@fmipa.unila.ac.id",
+          "name": {
+            "given": "Tugiyono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Tugiyono"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Similarity check Evaluation of the Water Quality Status and Pollution Load Carrying Capacity of Way Umpu River, Way Kanan District, Lampung Province, Indonesia, Based on Land Use",
+      "userid": 920,
+      "lastmod": "2023-08-02 01:23:53",
+      "documents": [
+          {
+            "eprintid": 52335,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253454",
+            "format": "text",
+            "main": "Evaluation of the Water Quality Status and Pollution Load Carrying Capacity of Way Umpu River, Way K.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "2570de6091ac972d429b60244cea6731",
+                  "fileid": 620299,
+                  "datasetid": "document",
+                  "mtime": "2023-08-02 00:43:29",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620299",
+                  "filename": "Evaluation of the Water Quality Status and Pollution Load Carrying Capacity of Way Umpu River, Way K.pdf",
+                  "filesize": 2217362,
+                  "objectid": 253454
+                }
+            ],
+            "docid": 253454,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2023-08-02 01:23:53",
+      "eprintid": 52335,
+      "eprint_status": "archive",
+      "metadata_visibility": "show"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Tugiyono",
+            "family": "Tugiyono",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "tugiyono.1964@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "Similarity check Extract Of Mangosteen Peel (Garcinia mangostana L.) As Calcium Carbonate Scale Inhibitor",
+      "userid": 920,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253456",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52337,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "EXTRACT OF MANGOSTEEN PEEL (Garcinia mangostana L.) AS CALCIUM CARBONATE SCALE INHIBITOR.pdf.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-02 00:47:21",
+                  "filesize": 1284767,
+                  "objectid": 253456,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620313",
+                  "filename": "EXTRACT OF MANGOSTEEN PEEL (Garcinia mangostana L.) AS CALCIUM CARBONATE SCALE INHIBITOR.pdf.pdf",
+                  "fileid": 620313,
+                  "datasetid": "document",
+                  "hash": "af31c7ec96b216295ebcf46ecf389806",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 253456,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2023-08-02 01:23:55",
+      "eprint_status": "archive",
+      "eprintid": 52337,
+      "datestamp": "2023-08-02 01:23:55",
+      "metadata_visibility": "show",
+      "status_changed": "2023-08-02 01:23:55",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "FMIPA Unila",
+      "dir": "disk0_bak\/00\/05\/23\/37",
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52337",
+      "subjects": [
+        "Q1"
+      ]
+    },
+    {
+      "userid": 920,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253455",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52336,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Fractal Dimension Analysis and Earthquake Repeated Period Estimation in the Southern Part of Sumatra.pdf",
+            "files": [
+                {
+                  "fileid": 620306,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "b6bf563fe8ede64046932b7805a8d49d",
+                  "objectid": 253455,
+                  "filesize": 3417710,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620306",
+                  "filename": "Fractal Dimension Analysis and Earthquake Repeated Period Estimation in the Southern Part of Sumatra.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-02 00:45:41"
+                }
+            ],
+            "docid": 253455,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2023-08-02 01:23:48",
+      "eprintid": 52336,
+      "eprint_status": "archive",
+      "datestamp": "2023-08-02 01:23:48",
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "family": "Tugiyono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Tugiyono"
+          },
+          "id": "tugiyono.1964@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "Similarity check Fractal Dimension Analysis and Earthquake Repeated Period Estimation in the Southern Part of Sumatra Subduction Zone (Bengkulu-Lampung-Sunda Segment)",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52336",
+      "date": 2023,
+      "subjects": [
+        "Q1"
+      ],
+      "status_changed": "2023-08-02 01:23:48",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "FMIPA Unila",
+      "dir": "disk0_bak\/00\/05\/23\/36"
+    },
+    {
+      "userid": 920,
+      "lastmod": "2023-08-02 01:23:45",
+      "documents": [
+          {
+            "docid": 253448,
+            "main": "Plankton diversity and its heavy metal content in Ratai Bay of Pesawaran district, Lampung, Indonesi.pdf",
+            "files": [
+                {
+                  "mtime": "2023-08-02 00:40:58",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620287",
+                  "filename": "Plankton diversity and its heavy metal content in Ratai Bay of Pesawaran district, Lampung, Indonesi.pdf",
+                  "objectid": 253448,
+                  "filesize": 505106,
+                  "mime_type": "application\/pdf",
+                  "hash": "3aa91830696c48e908c8e21f8728ba33",
+                  "fileid": 620287,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 52334,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253448",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2023-08-02 01:23:45",
+      "eprint_status": "archive",
+      "eprintid": 52334,
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "id": "tugiyono.1964@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Tugiyono",
+            "honourific": null,
+            "given": "Tugiyono"
+          }
+        }
+      ],
+      "title": "Similarity check Plankton diversity and its heavy metal content in Ratai Bay of Pesawaran district, Lampung, Indonesia",
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52334",
+      "subjects": [
+        "Q1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-08-02 01:23:45",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "publisher": "FMIPA Unila",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/23\/34"
+    },
+    {
+      "subjects": [
+        "Q1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51261",
+      "date": 2023,
+      "abstract": "In this research, immobilization of A. fumigatus α-amylase on chitin was studied with the main purpose to improve the characteristics of the enzyme. A series of experiments were carried out to study stability improvement, thermodynamic parameters, include ki, ΔGi, and t½, and reusability of\r\nthe immobilized enzyme. The experimental results indicate that significant thermal stability was achieved, as indicates by the ability of the enzyme to retain its relative activity above 39% after 80 min of incubation at 60oC. Thermodynamic parameters, include ki, ΔGi, and t½, indicate that the immobilized enzyme is more rigid, stable, and less flexible in the water, resulting in increased stability up to 1.5 times compared to that of the native enzyme. Furthermore, the immobilized\r\nenzyme was able to retain over 46% of its initial activity after six consecutive applications for starch hydrolysis, confirming the potential of chitin for the production of immobilized enzymes on an industrial scale.",
+      "volume": 7,
+      "publication": "Emerging Science Journal",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/12\/61",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "issn": "2610-9182",
+      "status_changed": "2023-05-09 03:07:15",
+      "metadata_visibility": "show",
+      "datestamp": "2023-05-09 03:07:15",
+      "eprint_status": "archive",
+      "eprintid": 51261,
+      "lastmod": "2023-05-09 03:07:15",
+      "official_url": "https:\/\/www.ijournalse.org\/index.php\/ESJ\/article\/view\/1305",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 191032,
+                  "filesize": 1358751,
+                  "filename": "7953.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/550666",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-08 23:49:28",
+                  "fileid": 550666,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "b2fb8a7875ee0d854e401597fb8eb20e"
+                }
+            ],
+            "main": "7953.pdf",
+            "docid": 191032,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 51261,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/191032"
+          }
+      ],
+      "userid": 730,
+      "number": 1,
+      "title": "Immobilization and Stabilization of Aspergillus Fumigatus α-Amylase by Adsorption on a Chitin",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yandri",
+            "given": "Yandri"
+          },
+          "id": "yandri.as@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Tiarsa",
+            "honourific": null,
+            "given": "Ezra Rheinsky"
+          }
+        },
+        {
+          "id": "tati.suhartati@fmipa.unila.ac.id",
+          "name": {
+            "given": "Tati",
+            "honourific": null,
+            "lineage": null,
+            "family": "Suhartati"
+          }
+        },
+        {
+          "id": "bambang.irawan@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Irawan",
+            "honourific": null,
+            "given": "Bambang"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null,
+            "given": "Sutopo"
+          },
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "related_url": [
+        {
+          "url": "http:\/\/e-journal.janabadra.ac.id\/index.php\/JA\/article\/view\/2772"
+        }
+      ],
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "Fakultas Pertanian Universitas Janabadra Yogyakarta",
+      "publication": "Jurnal Pertanian Agros",
+      "dir": "disk0_bak\/00\/05\/08\/43",
+      "issn": "2528-1488",
+      "full_text_status": "public",
+      "status_changed": "2023-05-02 01:39:38",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "Q1",
+        "QK"
+      ],
+      "abstract": "Pea (Pisum sativum L.) is a pod-producing plant which is consumed as a vegetable. Increasing the quality and production of peas needs to be done to meet market demand. Availability of water and soil fertility are important factors in the success of the productivity of a plant. One effort to overcome drought stress is to use nutrients in the form of potassium. This research used Murashige and Skoog (MS) medium which had been treated with 20% Poly Ethylene Glycol (PEG) 6000 as a drought stress simulation agent and KCl in various concentrations. The purpose of this research is to: (1) determine the effective concentration of KCl for the growth of pea plantlets under drought stress conditions, (2) analyze the content of chlorophyll a, b, and total in pea plantlets resistant to drought stress compared to controls. The research design used was a completely randomized design (CRD) with one factor, namely the administration of KCl at 5 concentration levels: 0%, 0.25%, 0.5%, 0.75% and 1%. The resulting data were analyzed by ANOVA and tested further with the Honest Significant Difference (BNJ) test at the 5% level. The results showed that the effective concentration of KCl for the growth of drought-stressed pea plantlets was 1%; increased content of chlorophyll a, chlorophyll b and total chlorophyll in pea plantlets given potassium compared to control.",
+      "volume": 25,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50843",
+      "date": "2023-04-30",
+      "creators": [
+        {
+          "id": "zalzabilamaania@gmail.com",
+          "name": {
+            "given": "Ma'ania",
+            "honourific": null,
+            "family": "Zalzabila",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nurcahyani",
+            "lineage": null,
+            "given": "Endang"
+          },
+          "id": "endang_nurcahyani@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Tundjung",
+            "given": "Tripeni Handayani"
+          },
+          "id": "tundjungtripenihandayani@gmail.com"
+        },
+        {
+          "id": "bambang.irawan@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Irawan",
+            "honourific": null,
+            "given": "Bambang"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "EFEK INDUKSI KALIUM PADA PLANLET KACANG ERCIS (Pisum sativum L.) DALAM KONDISI CEKAMAN KEKERINGAN SECARA IN VITRO",
+      "refereed": "TRUE",
+      "datestamp": "2023-05-02 01:39:38",
+      "eprint_status": "archive",
+      "eprintid": 50843,
+      "metadata_visibility": "show",
+      "pagerange": "1434-1442",
+      "userid": 696,
+      "number": 2,
+      "lastmod": "2023-05-02 01:39:38",
+      "official_url": "http:\/\/e-journal.janabadra.ac.id\/index.php\/JA\/article\/view\/2772",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 50843,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190553",
+            "pos": 1,
+            "security": "public",
+            "docid": 190553,
+            "main": "Maania Zalzabila_ENDANG NURCAHYANI_JURNAL AGROS_APRIL 2023.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-29 09:48:54",
+                  "filesize": 775135,
+                  "objectid": 190553,
+                  "filename": "Maania Zalzabila_ENDANG NURCAHYANI_JURNAL AGROS_APRIL 2023.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547500",
+                  "fileid": 547500,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "1c3c31a55e2a3cd51b9d162f85523e7c"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ]
+    }
+]
+

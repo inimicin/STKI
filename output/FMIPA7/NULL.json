@@ -1,0 +1,201 @@
+[
+    {
+      "divisions": [
+        "FMIPA7"
+      ],
+      "publication": "the 2nd International Conference on Applied Sciences, Mathematics and Informatics",
+      "dir": "disk0\/00\/00\/96\/98",
+      "ispublished": "submitted",
+      "rev_number": 7,
+      "status_changed": "2018-11-12 01:13:09",
+      "full_text_status": "public",
+      "subjects": [
+        "QD"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9698",
+      "abstract": "Piperine was isolated from black pepper by soxhletation method using a technical ethanol solvent. This compound is used as precursor for the synthesis of 4-piperoilmorholine. The synthesis was carried out via a pre-target piperoilchloride, where the piperine was initially hydrolyzed using KOH ethanolate for 24 hours, added SOCl2 and then mixed with morpholine at 0-5 ° C. The result of synthesis was obtained 4-piperoilmorpholine with yield of 40,80%.\r\nKeywords: 4-piperoilmorpholine, piperine, soxhletation, hydrolysis",
+      "refereed": "FALSE",
+      "title": "Synthesis 4-piperoilmorpholine from piperine",
+      "type": "article",
+      "creators": [
+        {
+          "id": "syaiful.bahri@fmipa.unila.ac.id",
+          "name": {
+            "given": "Syaiful",
+            "lineage": null,
+            "family": "Bahri",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Ambarwati",
+            "lineage": null,
+            "honourific": null,
+            "given": "Yuli"
+          },
+          "id": "yuli.ambarwati@fmipa.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 9698,
+      "eprint_status": "archive",
+      "datestamp": "2018-11-12 01:13:09",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Paper ICASMI 2.pdf",
+            "docid": 22712,
+            "files": [
+                {
+                  "mtime": "2018-11-10 06:27:50",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/91842",
+                  "filename": "Paper ICASMI 2.pdf",
+                  "objectid": 22712,
+                  "filesize": 607768,
+                  "hash": "6b027524fc9461b4cddcfdae9682e1c1",
+                  "mime_type": "application\/pdf",
+                  "fileid": 91842,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22712",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 9698
+          },
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22713",
+            "pos": 2,
+            "eprintid": 9698,
+            "placement": 2,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Paper ICASMI 2.pdf",
+            "docid": 22713,
+            "files": [
+                {
+                  "filesize": 607768,
+                  "objectid": 22713,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/91844",
+                  "filename": "Paper ICASMI 2.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-10 06:28:19",
+                  "datasetid": "document",
+                  "fileid": 91844,
+                  "hash": "6b027524fc9461b4cddcfdae9682e1c1",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2018-11-12 01:13:09",
+      "userid": 305
+    },
+    {
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158012",
+            "pos": 1,
+            "eprintid": 37100,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 158012,
+            "main": "LOA dan Abstract ICCPM 2021(Bengkulu-Indonesia) Widyastuti.pdf",
+            "files": [
+                {
+                  "filename": "LOA dan Abstract ICCPM 2021(Bengkulu-Indonesia) Widyastuti.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/425447",
+                  "objectid": 158012,
+                  "filesize": 425734,
+                  "mtime": "2021-12-01 04:17:06",
+                  "hash_type": "MD5",
+                  "hash": "206596a52a5a9ef4f6fe436f7542d522",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 425447
+                }
+            ]
+          }
+      ],
+      "lastmod": "2021-12-03 01:06:13",
+      "userid": 945,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 37100,
+      "datestamp": "2021-12-03 01:06:13",
+      "refereed": "TRUE",
+      "title": "Solid State Fermentation of Shrimp Shell Waste by Actinomycetes to \r\nProducing Glucosamine",
+      "creators": [
+        {
+          "name": {
+            "given": "Widyastuti",
+            "honourific": null,
+            "lineage": null,
+            "family": "Widyastuti"
+          },
+          "id": "widyaa58@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Ni Luh Gede Ratna",
+            "family": "Juliasih",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "niluhratna.juliasih@fmipa.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hendri",
+            "lineage": null,
+            "given": "John"
+          },
+          "id": "john.hendri@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null,
+            "given": "Andi"
+          },
+          "id": "andi.setiawan@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37100",
+      "corp_creators": [
+        "Lampung University"
+      ],
+      "abstract": "Shrimp shell is one of the potential sources for the production of chitin which can be converted into its \r\nderivative products, namely glucosamine and oligosaccharides. This study aims to study the \r\ndegradation of shrimp shells by actinomycetes into chitin derivative products. Actinomycetes \r\n19C38A1 were obtained from the UPT LTSIT deposit. Furthermore, actinomycetes were cultured \r\nusing a solid state fermentation method using shrimp shell media. The fermentation process on the \r\nsurface of the shrimp shells was observed using the Scanning Electron Microscopy (SEM) technique. \r\nThe fermentation results were analyzed using High Performance Liquid Chromatography (HPLC). The \r\nresults of the observation of the surface morphology of the shrimp shells showed that there was \r\ndegradation of the shrimp shells. The interpretation of the analysis data of fermented products \r\nshowed the formation of glucosamine of 29 mg. Further analysis on days 6 and 8 showed a decrease \r\nin glucosamine levels by 20 mg and 15 mg, respectively. Based on the results obtained, it can be \r\nconcluded that 19C38A1 isolate was able to convert shrimp shells into derivative products of \r\nglucosamine and chitin through solid fermentation using shrimp shells. This basic information is very \r\nimportant for further studies related to the development of fermentation methods.",
+      "subjects": [
+        "Q1"
+      ],
+      "ispublished": "unpub",
+      "rev_number": 6,
+      "status_changed": "2021-12-03 01:06:13",
+      "full_text_status": "public",
+      "issn": "-",
+      "publisher": "-",
+      "publication": "The 2 nd International Conference on Chemistry, Pharmacy and Medical Sciences (ICCPM)",
+      "dir": "disk0\/00\/03\/71\/00",
+      "divisions": [
+        "FMIPA7"
+      ]
+    }
+]
+

@@ -1,0 +1,70 @@
+[
+    {
+      "full_text_status": "public",
+      "status_changed": "2021-05-27 02:39:58",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "PUSKA MEDIA Anggota IKAPI",
+      "dir": "disk0\/00\/03\/09\/29",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "date": "0202-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30929",
+      "subjects": [
+        "K1"
+      ],
+      "book_title": "Covid 19 & Disrupsi Tatanan Sosial Budaya, Ekonomi, Politik dan Muti",
+      "isbn": "978-623-6569-62-7",
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null,
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          }
+        }
+      ],
+      "title": "Covid 19 & Disrupsi Tatanan Sosial Budaya, Ekonomi, Politik dan Muti",
+      "refereed": "FALSE",
+      "userid": 69,
+      "lastmod": "2021-05-27 02:39:58",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Reviewe Irzal Covid 19.pdf",
+            "docid": 139603,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 366658,
+                  "hash": "25f3c288214cf2fd3d295b43b9295692",
+                  "mime_type": "application\/pdf",
+                  "objectid": 139603,
+                  "filesize": 359636,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/366658",
+                  "filename": "Reviewe Irzal Covid 19.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-27 02:00:04"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139603",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 30929
+          }
+      ],
+      "datestamp": "2021-05-27 02:39:58",
+      "eprint_status": "archive",
+      "eprintid": 30929,
+      "metadata_visibility": "show"
+    }
+]
+

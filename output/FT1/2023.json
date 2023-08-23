@@ -1,0 +1,1060 @@
+[
+    {
+      "full_text_status": "public",
+      "issn": "2541-1713",
+      "status_changed": "2023-05-02 01:40:32",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "publisher": "Jurnal Fisika Flux",
+      "publication": "Jurnal Fisika Flux",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/08\/52",
+      "abstract": "Pemetaan bahaya longsor menggunakan sistem informasi geografis (SIG) sangat penting karena \r\nmembantu mengurangi risiko bencana dan melindungi masyarakat dari dampaknya. Dalam pemetaan \r\nkerawanan longsor, metode skoring dan pembobotan serta analisis overlay membantu menentukan tingkat \r\nkerawanan longsor. Data penelitian ini menggunakan beberapa parameter antara lain jenis tanah, geologi, \r\ncurah hujan, tutupan lahan, kemiringan lereng. Kemiringan lereng dibuat berdasarkan data dari Digital \r\nElevation Model Shuttle Radar Topography Mission (DEM SRTM). Alat yang digunakan adalah perangkat lunak \r\nArcGIS v10.8 dan Microsoft Office 2019. Kabupaten Lebak memiliki curah hujan yang cukup banyak terutama \r\npada musim hujan dengan intensitas kemarau hingga sedang berkisar antara 1501-2.000 mm\/tahun dan 2001-\r\n2.500 mm\/tahun. Batu yang mudah aus dan terkorosi lebih rentan. Lereng yang terjal dapat meningkatkan \r\nrisiko longsor, terutama di daerah dengan jenis tanah licin. Tutupan lahan yang dikonversi menjadi \r\nperkebunan atau pemukiman cenderung lebih rentan dibandingkan lahan utuh. Kabupaten Lebak terdiri dari \r\n3 longsoran yaitu rendah, sedang dan tinggi. Luas daerah risiko rendah 3.854,57 ha, luas daerah risiko sedang \r\n160884,09 ha, dan luas daerah risiko tinggi 164.993,60 ha. Daerah kerawanan longsor dengan dominasi tingkat \r\nkerawanan longsor rendah ditunjukkan di Kecamatan Wanasalam luas 2800.91 ha atau 0,08%, sedang terdapat \r\ndi Kecamatan Cileles 14.001,21 ha atau 0,042%, dan tinggi ditunjukkan di Kecamatan Cibeber luas 32.501,61 \r\nha atau 0,098%.",
+      "volume": 20,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50852",
+      "date": "2023-02-01",
+      "date_type": "published",
+      "subjects": [
+        "QE",
+        "T1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Sandri",
+            "lineage": null,
+            "family": "Erfani",
+            "honourific": null
+          },
+          "id": "sandri.erfani@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Naimullah",
+            "given": "Muhammad"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Winardi",
+            "given": "Denta"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "title": "SIG Metode Skoring dan Overlay untuk Pemetaan Tingkat \r\nKerawanan Longsor di Kabupaten Lebak, Banten",
+      "refereed": "TRUE",
+      "userid": 3256,
+      "number": 1,
+      "official_url": "https:\/\/ppjp.ulm.ac.id\/journal\/index.php\/f\/article\/view\/15057",
+      "lastmod": "2023-05-02 01:40:32",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190562",
+            "pos": 1,
+            "eprintid": 50852,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "15057-45985-1-PB (1).pdf",
+            "docid": 190562,
+            "files": [
+                {
+                  "mtime": "2023-04-29 23:45:27",
+                  "hash_type": "MD5",
+                  "filename": "15057-45985-1-PB (1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547557",
+                  "filesize": 999174,
+                  "objectid": 190562,
+                  "mime_type": "application\/pdf",
+                  "hash": "5bbcf99c2cf25d906996a005504068dc",
+                  "datasetid": "document",
+                  "fileid": 547557
+                }
+            ]
+          }
+      ],
+      "datestamp": "2023-05-02 01:40:32",
+      "eprintid": 50852,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "61-79"
+    },
+    {
+      "date": "2023-06",
+      "abstract": "The Sunda Asri Basin is dominated by normal faults and has little compressional structure.\r\nThis basin consists of several depocenters with a thickness of up to 6000 m. Among the geophysical\r\nmethods, gravity analysis has proven to be effective in determining the bedrock configuration and\r\nidentifying sedimentary basins. This study aims to analyze sedimentary sub-basin patterns, basement height\r\nstructures, faults, and bedrock configuration using trend surface analysis of polynomial filters. The analysis\r\nof polynomial filter show that a 10th-order anomaly yields optimal results. The high correlation value of\r\n0.990925 provides the suitability of a 10th-order anomaly for qualitative interpretation. Spectral analysis\r\nresults indicate an average bedrock depth of about 2.75 km within the Sunda Asri Basin. Furthermore, this\r\nanalysis reveals the presence of 14 sedimentary sub-basin patterns in this area. The gravity modeling results\r\nindicate that the top layer has a density value of 2.37 g\/cc, which interpreted as Pleistocene Tertiary\r\nsediment. The second layer consists of Tertiary-Miocene sediment with a density value of 2.28 g\/cc, while\r\nthe third layer comprises of Pre-Tertiary sedimentary rock at a density of 2.02 g \/cc. The bottom layer of the\r\nmodel corresponds to metamorphic bedrock with a density 2.7 g\/cc. SVD (Second Vertical Derivative)\r\nanalysis successfully identified the presence of normal and thrust fault structures",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/ejournal.mgi.esdm.go.id\/index.php\/bomg\/article\/view\/833"
+        }
+      ],
+      "publisher": "Marine Geological Institute of Indonesia",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "1410-6175",
+      "pagerange": "33-41",
+      "datestamp": "2023-07-31 09:40:21",
+      "eprint_status": "archive",
+      "eprintid": 52318,
+      "id_number": "http:\/\/dx.doi.org\/10.32693\/bomg.38.1.2023.833",
+      "official_url": "http:\/\/ejournal.mgi.esdm.go.id\/index.php\/bomg\/article\/view\/833",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "FullPaperBuletinMarineGeology-Sarkowi.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 620089,
+                  "mime_type": "application\/pdf",
+                  "hash": "1228c7328dfb11f92a9fe061ed9a0074",
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-31 07:22:59",
+                  "objectid": 253358,
+                  "filesize": 5193621,
+                  "filename": "FullPaperBuletinMarineGeology-Sarkowi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620089"
+                }
+            ],
+            "docid": 253358,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253358",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52318
+          }
+      ],
+      "userid": 816,
+      "number": 1,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52318",
+      "volume": 38,
+      "dir": "disk0_bak\/00\/05\/23\/18",
+      "publication": "Bulletin of the Marine Geology",
+      "divisions": [
+        "FT1"
+      ],
+      "rev_number": 8,
+      "status_changed": "2023-07-31 09:40:21",
+      "metadata_visibility": "show",
+      "lastmod": "2023-07-31 09:40:21",
+      "title": "Subsurface Geological Interpretation of the North Sunda Asri Basin Based on SVD Analysis and Gravity Anomaly Modeling.",
+      "creators": [
+        {
+          "name": {
+            "family": "Hayu",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nurfaedah"
+          },
+          "id": null
+        },
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sarkowi",
+            "given": "Muh"
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "documents": [
+          {
+            "main": "FullPaperJGE-Sarkowi.pdf",
+            "docid": 253339,
+            "files": [
+                {
+                  "fileid": 620044,
+                  "datasetid": "document",
+                  "hash": "81bcfc9c9fececb515ff6c723af4af53",
+                  "mime_type": "application\/pdf",
+                  "filesize": 5783284,
+                  "objectid": 253339,
+                  "filename": "FullPaperJGE-Sarkowi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620044",
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-31 06:57:11"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 52314,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253339",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-07-31 09:40:10",
+      "official_url": "https:\/\/jge.eng.unila.ac.id\/index.php\/geoph\/article\/view\/303",
+      "number": 2,
+      "userid": 816,
+      "pagerange": "150-160",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.23960\/jge.v9i2.303",
+      "eprint_status": "archive",
+      "eprintid": 52314,
+      "datestamp": "2023-07-31 09:40:10",
+      "refereed": "TRUE",
+      "title": "Identifikasi Struktur Iliran High Sumatera Selatan Berdasarkan Analisa Anomaly Gravity",
+      "creators": [
+        {
+          "name": {
+            "given": "Sarkowi",
+            "family": "Muh",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "muhsarkowi@gmail.com"
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52314",
+      "date": "2023-07",
+      "volume": 9,
+      "abstract": "Penelitian gayaberat di Lapangan Iliran High Sumatera Selatan dilakukan untuk mengetahui struktur bawah permukaan di daerah tersebut, khususnya adanya sesar naik dan naiknya batuan dasar di daerah ini berdasarkan pengolahan dan pemodelan data gayaberat. Lapangan Iliran High terletak 40 km barat laut Palembang. Lapangan Iliran High merupakan bagian dari struktur Blok Rimau. Hasil studi menemukan adanya pola anomali Bouguer tinggi di bagian tengah yang memanjang dari NW-SE sesuai dengan struktur tinggi di daerah tersebut. Sedangkan pola anomali rendah di bagian utara dengan garis kontur yang padat menunjukkan adanya struktur sesar. Anomali Bouguer residual tinggi di bagian tengah berarah NW-SE sesuai dengan struktur tinggian dan prospek minyak berat di Formasi Telisa yang muncul pada kedalaman <55 meter (Sumur Tala dan Sumur Taba). Analisis turunan vertikal kedua dan pemodelan ke depan menunjukkan adanya sesar naik dan batuan dasar tinggi di bagian Utara daerah penelitian memanjang dari NW-SE. Adanya sesar naik dan batuan dasar tinggi di bagian Utara konsisten dengan data geologi, seismik dan sumur.",
+      "subjects": [
+        "T1"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2023-07-31 09:40:10",
+      "full_text_status": "public",
+      "issn": "2356-1599\/ 2685-6182",
+      "publisher": "Geophysical Engineering Department, Engineering Faculty, Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "publication": "JGE (Jurnal Geofisika Eksplorasi)",
+      "dir": "disk0_bak\/00\/05\/23\/14"
+    },
+    {
+      "metadata_visibility": "show",
+      "eprintid": 52315,
+      "eprint_status": "archive",
+      "datestamp": "2023-07-31 09:40:12",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253340",
+            "pos": 1,
+            "eprintid": 52315,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "KorespdensiPaperJGE.pdf",
+            "files": [
+                {
+                  "mtime": "2023-07-31 07:06:39",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620052",
+                  "filename": "KorespdensiPaperJGE.pdf",
+                  "filesize": 4367393,
+                  "objectid": 253340,
+                  "hash": "2321754a2eccb1ed2517289edee34e33",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 620052
+                }
+            ],
+            "docid": 253340
+          }
+      ],
+      "lastmod": "2023-07-31 09:40:12",
+      "userid": 816,
+      "title": "Korespondensi JGE",
+      "creators": [
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Muh",
+            "lineage": null,
+            "given": "Sarkowi"
+          }
+        }
+      ],
+      "type": "other",
+      "subjects": [
+        "AC"
+      ],
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52315",
+      "abstract": "Korespondensi JGE",
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "Universitas Lampung",
+      "dir": "disk0_bak\/00\/05\/23\/15",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "status_changed": "2023-07-31 09:40:12",
+      "full_text_status": "public"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "MS",
+            "honourific": null,
+            "lineage": null,
+            "family": "Muh Sarkowi"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Similirity JGE",
+      "userid": 816,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253346",
+            "pos": 1,
+            "eprintid": 52316,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-31 07:10:12",
+                  "filesize": 1770768,
+                  "objectid": 253346,
+                  "filename": "Similirity-JGE.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620064",
+                  "datasetid": "document",
+                  "fileid": 620064,
+                  "mime_type": "application\/pdf",
+                  "hash": "45cba4ca7dc9479be0ebae1e183635ea"
+                }
+            ],
+            "main": "Similirity-JGE.pdf",
+            "docid": 253346
+          }
+      ],
+      "lastmod": "2023-07-31 09:40:15",
+      "eprint_status": "archive",
+      "eprintid": 52316,
+      "datestamp": "2023-07-31 09:40:15",
+      "metadata_visibility": "show",
+      "status_changed": "2023-07-31 09:40:15",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "dir": "disk0_bak\/00\/05\/23\/16",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Similirity JGE",
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52316",
+      "subjects": [
+        "AC"
+      ]
+    },
+    {
+      "volume": 2601,
+      "abstract": "Indonesia's territory has a high level of risk of landslides. One of them is Batu Keramat Village, Tanggamus district with steep topographical undulation, making it a landslide-prone area. This research aims to analyze landslide- prone zones based on Structure from Motion (SfM) and the method of electrical resistivity tomography (ERT). The research location has very potential for landslides, supported by signs on the surface and clarified with a subsurface image. From\r\nthe SfM analysis, the research location has a steep slope (> 600) with a slope height of about 30 m. Young volcanic rocks dominate in the study area in breccias, lava, and tuff with andesite-basalt composition. There are several Tertiary-aged andesite rocks exposed which are thought to be bedrock at this location. Based on the ERT model, the resistivity distribution value is in the range of 70-2100 ohm.m. The subsurface model has three layers divided into topsoil in the upper part, which\r\nis indicated by a resistivity value of 350 - 500 ohm.m. The clay layer is indicated by a resistivity value of 70 - 120 ohm.m,and bedrock (andesite) is indicated by 1000 - 2100 ohm.m. The clay layer can become a slip surface and cause the study area to be prone to landslides.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52322",
+      "date": "2023-06",
+      "subjects": [
+        "T1"
+      ],
+      "date_type": "published",
+      "status_changed": "2023-07-31 09:40:22",
+      "full_text_status": "public",
+      "issn": "1551-7616",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "AIP Publishing",
+      "publication": "The 7th International Conference of Science, Technology, and Interdisciplinary Research (IC-STAR 2021)",
+      "dir": "disk0_bak\/00\/05\/23\/22",
+      "number": 20001,
+      "userid": 816,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 253382,
+            "main": "Paper-AIP-Kotaagung-Full.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-31 07:59:00",
+                  "filesize": 1402235,
+                  "objectid": 253382,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620140",
+                  "filename": "Paper-AIP-Kotaagung-Full.pdf",
+                  "datasetid": "document",
+                  "fileid": 620140,
+                  "hash": "35b6f2f2b2866c756bcfe24b24dd2aca",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253382",
+            "eprintid": 52322,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-07-31 09:40:22",
+      "official_url": "https:\/\/pubs.aip.org\/aip\/acp\/article-abstract\/2601\/1\/020001\/2894111\/A-combined-of-electrical-resistivity-tomography?redirectedFrom=PDF",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.1063\/5.0129571",
+      "eprintid": 52322,
+      "datestamp": "2023-07-31 09:40:22",
+      "pagerange": "020001-1-020001-8",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "rahmat.caturwibowo@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rahmat",
+            "lineage": null,
+            "given": "C. Wibowo"
+          }
+        },
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "given": "Sarkowi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Muh"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "A combined of electrical resistivity tomography and\r\nstructure from motion method for landside-prone zone\r\nanalysis in East Kota Agung Region"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51102",
+      "date": 2023,
+      "abstract": "Informasi Kegiatan Tambahan Calon Guru Besar an. Muh Sarkowi",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "completed",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "status_changed": "2023-05-05 09:11:04",
+      "full_text_status": "public",
+      "publisher": "sarkowi",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/11\/02",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "hash": "4e2e9ba2167d5cf16eaea7f07132a906",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "datasetid": "document",
+                  "fileid": 549437,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/549437",
+                  "filename": "INFORMASI KEGIATAN TAMBAHAN-Sarkowi.docx",
+                  "objectid": 190819,
+                  "filesize": 41108616,
+                  "mtime": "2023-05-05 09:07:47",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "INFORMASI KEGIATAN TAMBAHAN-Sarkowi.docx",
+            "docid": 190819,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 51102,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190819",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2023-05-05 09:11:04",
+      "userid": 816,
+      "metadata_visibility": "show",
+      "eprintid": 51102,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-05 09:11:04",
+      "title": "Informasi Kegiatan Tambahan an. Muh Sarkowi",
+      "creators": [
+        {
+          "name": {
+            "given": "Muh",
+            "family": "Sarkowi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "muhsarkowi@gmail.com"
+        }
+      ],
+      "type": "other"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51103",
+      "date": 2023,
+      "abstract": "Informasi Kegiatan Tambahan an. Sarkowi",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "completed",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "status_changed": "2023-05-05 09:16:14",
+      "full_text_status": "public",
+      "publisher": "sarkowi",
+      "dir": "disk0_bak\/00\/05\/11\/03",
+      "divisions": [
+        "FT1"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 549446,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "c51031405fdb6bd1a75776848dff4d4a",
+                  "objectid": 190820,
+                  "filesize": 5290662,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/549446",
+                  "filename": "INFORMASI KEGIATAN TAMBAHAN-Sarkowi.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-05 09:12:21"
+                }
+            ],
+            "main": "INFORMASI KEGIATAN TAMBAHAN-Sarkowi.pdf",
+            "docid": 190820,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190820",
+            "pos": 1,
+            "eprintid": 51103,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-05-05 09:16:14",
+      "userid": 816,
+      "metadata_visibility": "show",
+      "eprintid": 51103,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-05 09:16:14",
+      "title": "Informasi Kegiatan Tambahan an. Sarkowi",
+      "creators": [
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "given": "Muh",
+            "family": "Sarkowi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other"
+    },
+    {
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Informasi tambahan untuk syarat pengusulan Gurubesar an. Muh Sarkowi",
+      "corp_creators": [
+        "Fakultas Teknik Universitas Lampung"
+      ],
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48889",
+      "dir": "disk0_bak\/00\/04\/88\/89",
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-03-09 08:46:13",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "datestamp": "2023-03-09 08:46:13",
+      "eprint_status": "archive",
+      "eprintid": 48889,
+      "metadata_visibility": "show",
+      "userid": 816,
+      "lastmod": "2023-03-09 08:46:13",
+      "documents": [
+          {
+            "eprintid": 48889,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188329",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 532203,
+                  "hash": "e18af101cc1489b7b521bc13ca5018a7",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-09 06:54:21",
+                  "filesize": 4379308,
+                  "objectid": 188329,
+                  "filename": "INFORMASI KEGIATAN TAMBAHAN.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/532203"
+                }
+            ],
+            "main": "INFORMASI KEGIATAN TAMBAHAN.pdf",
+            "docid": 188329,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "type": "other",
+      "creators": [
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "given": "Muh",
+            "family": "Sarkowi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Informasi tambahan untuk syarat pengusulan Gurubesar an. Muh Sarkowi"
+    },
+    {
+      "title": "Muh Sarkowi, Rahmi Mulyasari, I Gede Boy Darmawan, and Rahmat Catur Wibowo* Similirity Jurnal SJST dengan judul : Identification of the Semangko Fault in Sumatra, Indonesia,\r\nbased on gradient gravity data analysis",
+      "creators": [
+        {
+          "name": {
+            "given": "Muh",
+            "lineage": null,
+            "family": "Sarkowi",
+            "honourific": null
+          },
+          "id": "muhsarkowi@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Rahmi Mulyasari",
+            "family": "Rahmi Mulyasari",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rahmi.mulyasari@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "I Gede Boy",
+            "honourific": null,
+            "family": "Darmawan",
+            "lineage": null
+          },
+          "id": "igedeboy@staff.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Rahmat Catur",
+            "honourific": null,
+            "family": "Wibowo",
+            "lineage": null
+          },
+          "id": "rahmat.caturwibowo@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 48482,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187775",
+            "security": "public",
+            "main": "Similarity Check Sarkowi SJST 2023.pdf",
+            "docid": 187775,
+            "files": [
+                {
+                  "filename": "Similarity Check Sarkowi SJST 2023.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/528966",
+                  "objectid": 187775,
+                  "filesize": 667353,
+                  "mtime": "2023-02-22 03:34:40",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "b44d3367ba3b0770238df61a34abb1c4",
+                  "fileid": 528966,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2023-02-22 06:35:56",
+      "userid": 816,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 48482,
+      "datestamp": "2023-02-22 06:35:56",
+      "ispublished": "unpub",
+      "rev_number": 8,
+      "status_changed": "2023-02-22 06:35:56",
+      "full_text_status": "public",
+      "dir": "disk0_bak\/00\/04\/84\/82",
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "date": "2023-02-17",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48482",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Muh Sarkowi, Rahmi Mulyasari, I Gede Boy Darmawan, and Rahmat Catur Wibowo* Similirity Jurnal SJST dengan judul : Identification of the Semangko Fault in Sumatra, Indonesia,\r\nbased on gradient gravity data analysis",
+      "subjects": [
+        "AC",
+        "Z719"
+      ],
+      "date_type": "completed"
+    },
+    {
+      "issn": "2615-1278",
+      "full_text_status": "public",
+      "status_changed": "2023-04-27 09:50:48",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "Physics Departement, Faculty of Mathematics and Natural Sciences, Universitas Mataram.",
+      "publication": "Indonesian PhysicalReview",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/07\/95",
+      "abstract": "idada  area,  Panjang  sub-district, Bandar  Lampung  city,  located  on Barisan Hill complex,has  been  affected  bythe  Sumatran  fault movement and the Lampung-Panjang fault so that the morphological condition  is  hilly  with  steep  slopes,which  causes  the  risk  of  natural disasters  such  as  landslides.  In  this article,  the  identification  of subsurface rock lithology and sliding planein the landslide-prone zone is   carried   out   using the   Wenner-Schlumberger   configuration geoelectric method. Based on the Wenner-Schlumberger configuration,thetop layer has lithology clay tuff and sandy tuff, whichpredicted a weathered rock with a resistivity of 1 -133 ohm.m.Coarse-grained tuff and fine-grained tuff with resistivity values of 135 -250 ohm.min the middle. The bottomlayer  has  a resistivity  ofmore  than  250 ohm.m, that  predictedtohave  a  lithology  breccia  (igneous  rock)Tarahan Formation.The sandy clay layer (81-90 ohm.m) predict as a sliding planein  this  area,  at depthsof 8.2  to  16  m. The  type  of  landslide developed in the  research area is a crawling soil landslide, with very steep slope characteristics (80–350).",
+      "volume": 6,
+      "date": "2023-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50795",
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "creators": [
+        {
+          "id": "rahmat.caturwibowo@eng.unila.ac.id",
+          "name": {
+            "family": "Wibowo",
+            "lineage": null,
+            "honourific": null,
+            "given": "Rahmat Catur"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Ikram",
+            "lineage": null,
+            "given": "Maulia"
+          }
+        },
+        {
+          "id": "nandi.haerudin@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Haerudin",
+            "given": "Nandi"
+          }
+        },
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Sarkowi",
+            "lineage": null,
+            "given": "Muh"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "SlidingPlaneIdentificationforLandslideHazardMitigationwithElectricalResistivityTomographyMethod",
+      "refereed": "TRUE",
+      "userid": 816,
+      "number": 1,
+      "official_url": "https:\/\/ipr.unram.ac.id\/index.php\/ipr\/article\/view\/181\/80",
+      "lastmod": "2023-04-27 09:50:48",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "6-181-Article Text-1349-1-10-20221109.pdf",
+            "docid": 190505,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "ffea1e828707988f77321605942144d3",
+                  "fileid": 547165,
+                  "datasetid": "document",
+                  "mtime": "2023-04-27 09:31:10",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547165",
+                  "filename": "6-181-Article Text-1349-1-10-20221109.pdf",
+                  "filesize": 589572,
+                  "objectid": 190505
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190505",
+            "pos": 1,
+            "eprintid": 50795,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2023-04-27 09:50:48",
+      "id_number": "https:\/\/doi.org\/10.29303\/ipr.v6i1.181",
+      "eprint_status": "archive",
+      "eprintid": 50795,
+      "metadata_visibility": "show",
+      "pagerange": "1-10"
+    },
+    {
+      "abstract": "Pidada  area,  Panjang  sub-district, Bandar  Lampung  city,  located  on Barisan Hill complex,has  been  affected  bythe  Sumatran  fault movement and the Lampung-Panjang fault so that the morphological condition  is  hilly  with  steep  slopes,which  causes  the  risk  of  natural disasters  such  as  landslides.  In  this article,  the  identification  of subsurface rock lithology and sliding planein the landslide-prone zone is   carried   out   using the   Wenner-Schlumberger   configuration geoelectric method. Based on the Wenner-Schlumberger configuration,thetop layer has lithology clay tuff and sandy tuff, whichpredicted a weathered rock with a resistivity of 1 -133 ohm.m.Coarse-grained tuff and fine-grained tuff with resistivity values of 135 -250 ohm.min the middle. The bottomlayer  has  a resistivity  ofmore  than  250 ohm.m, that  predictedtohave  a  lithology  breccia  (igneous  rock)Tarahan Formation.The sandy clay layer (81-90 ohm.m) predict as a sliding planein  this  area,  at depthsof 8.2  to  16  m. The  type  of  landslide developed in the  research area is a crawling soil landslide, with very steep slope characteristics (80–350).",
+      "volume": 6,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48531",
+      "date": "2023-01",
+      "date_type": "published",
+      "subjects": [
+        "T201"
+      ],
+      "full_text_status": "public",
+      "issn": "2615-1278",
+      "status_changed": "2023-02-24 02:42:39",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "Indonesian PhysicalReview",
+      "publisher": "Physics Departement, Faculty of Mathematics and Natural Sciences, Universitas Mataram",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/04\/85\/31",
+      "userid": 816,
+      "number": 1,
+      "official_url": "https:\/\/ipr.unram.ac.id\/index.php\/ipr\/article\/view\/181\/80",
+      "lastmod": "2023-02-24 02:42:39",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 48531,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187828",
+            "pos": 1,
+            "security": "public",
+            "main": "PaperFul-IPR-Sarkowi.pdf",
+            "docid": 187828,
+            "files": [
+                {
+                  "fileid": 529356,
+                  "datasetid": "document",
+                  "hash": "e038eddb78d4eb80ff836452e505b53c",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-23 04:43:55",
+                  "objectid": 187828,
+                  "filesize": 2193068,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/529356",
+                  "filename": "PaperFul-IPR-Sarkowi.pdf"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2023-02-24 02:42:39",
+      "id_number": "https:\/\/doi.org\/10.29303\/ipr.v6i1.181",
+      "eprint_status": "archive",
+      "eprintid": 48531,
+      "metadata_visibility": "show",
+      "pagerange": "1-10",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wibowo",
+            "given": "Rahmat Catur"
+          },
+          "id": "rahmat.caturwibowo@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Maulia",
+            "given": "Ikram"
+          }
+        },
+        {
+          "name": {
+            "given": "Nandi",
+            "family": "Haerudin",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nandi.haerudin@eng.unila.ac.id"
+        },
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "given": "Muh",
+            "family": "Sarkowi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "SlidingPlaneIdentificationforLandslideHazardMitigationwithElectricalResistivityTomographyMethod",
+      "refereed": "TRUE"
+    },
+    {
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253389",
+            "pos": 1,
+            "eprintid": 52324,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 253389,
+            "main": "Paper-AIP-SEMFull-Sarkowi.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-31 08:16:46",
+                  "filesize": 957736,
+                  "objectid": 253389,
+                  "filename": "Paper-AIP-SEMFull-Sarkowi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620158",
+                  "datasetid": "document",
+                  "fileid": 620158,
+                  "hash": "1fec155bf1b3dcf3b30725639b0a8933",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "official_url": "https:\/\/pubs.aip.org\/aip\/acp\/article-abstract\/2601\/1\/020003\/2894113\/Source-rock-analysis-related-with-the-change-of?redirectedFrom=PDF",
+      "lastmod": "2023-07-31 09:40:26",
+      "number": 20003,
+      "userid": 816,
+      "pagerange": "020003-1",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.1063\/5.0142725",
+      "eprintid": 52324,
+      "datestamp": "2023-07-31 09:40:26",
+      "refereed": "TRUE",
+      "title": "Source rock analysis related with the change of organic substances using SEM and TGA method",
+      "creators": [
+        {
+          "id": "bagus.sapto@eng.unila.ac.id",
+          "name": {
+            "given": "sapto",
+            "lineage": null,
+            "family": "bagus",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sarkowi",
+            "lineage": null,
+            "given": "Muh"
+          },
+          "id": "muhsarkowi@gmail.com"
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52324",
+      "date": "2023-06",
+      "volume": 2601,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Several preliminary studies on oil shale have motivated researchers to find out several methods and parametersthat underlie the process of converting oil shale into fuel. This process requires several appropriate parameters to react to physical  and  chemical  changes  as  desired.  One  related  to  organic  maturity  in  oil  and  shale  is  Tmax, the maximum temperature to release hydrocarbon from the cracking process of oil shale during pyrolysis. Tmax value is used to determine\r\nthe maturity level of oil shale turning into oil fluid. The time needed to obtain the Tmax value and the character of this converting is influenced by lithology. This study aims to determine the effect of lithology on Tmax in oil shale. This study begins by selecting the type of oil shale according to the purpose, clay, and nature carbonate at a certain depth. After obtaining several oil shale samples, characterization and several tests were carried out using SEM and TGA tools. By knowing the value of Tmax, type of carbonate oil shale, and clay in oil shale, the conversion of oil shale into oil in terms\r\nof temperature control can be determined as needed, so there are no errors during the heating process. Something that greatly affects the maximum temperature of oil shale (Tmax) is lithology. Clay is more influential than carbonate and will speed up the change from oil shale to oil and natural gas.",
+      "subjects": [
+        "T1"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2023-07-31 09:40:26",
+      "full_text_status": "public",
+      "issn": "1551-7616",
+      "publisher": "AIP Publishing",
+      "publication": "The 7th International Conference of Science, Technology, and Interdisciplinary Research (IC-STAR 2021)",
+      "dir": "disk0_bak\/00\/05\/23\/24",
+      "divisions": [
+        "FT1"
+      ]
+    }
+]
+

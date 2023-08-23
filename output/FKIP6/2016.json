@@ -1,0 +1,73 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33968",
+      "date": 2016,
+      "date_type": "published",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-07-25 01:56:12",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "publisher": "Media Akademi",
+      "dir": "disk0\/00\/03\/39\/68",
+      "divisions": [
+        "FKIP6"
+      ],
+      "userid": 968,
+      "lastmod": "2022-07-25 01:56:12",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154216",
+            "pos": 1,
+            "eprintid": 33968,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash": "48a28aca1832e02efd0e3c65aa206623",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 401352,
+                  "mtime": "2021-09-18 10:42:19",
+                  "hash_type": "MD5",
+                  "filename": "Buku Kepemimpinan Kepsek.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/401352",
+                  "objectid": 154216,
+                  "filesize": 707237
+                }
+            ],
+            "main": "Buku Kepemimpinan Kepsek.pdf",
+            "docid": 154216
+          }
+      ],
+      "pages": 80,
+      "datestamp": "2022-07-25 01:56:12",
+      "eprintid": 33968,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "isbn": "978-602-6435-25-5",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sowiyah",
+            "lineage": null,
+            "given": "Sowiyah"
+          },
+          "id": "Sowiyah.unila@gmail.com"
+        }
+      ],
+      "type": "book",
+      "title": "Kepemimpinan Kepala sekolah",
+      "refereed": "TRUE"
+    }
+]
+

@@ -1,0 +1,1260 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "radhoalkausar@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Alkausar",
+            "honourific": null,
+            "given": "Radho"
+          }
+        },
+        {
+          "id": "niluhratna.juliasih@fmipa.unila.ac.id.",
+          "name": {
+            "given": "Ni L G R",
+            "honourific": null,
+            "lineage": null,
+            "family": "Juliasih"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Buhani",
+            "lineage": null,
+            "given": "Buhani"
+          },
+          "id": "buhani@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Syafei",
+            "honourific": null,
+            "family": "Syafei",
+            "lineage": null
+          },
+          "id": "bbpbl.lampung@gmail.com"
+        },
+        {
+          "id": "zeily@chem.itb.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurachman",
+            "given": "Zeily"
+          }
+        },
+        {
+          "id": "andi.setiawan@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setiawan",
+            "given": "Andi"
+          }
+        }
+      ],
+      "title": "Chromatographic isolation of ß-phycoerythrin\r\nfrom Porphyridium cruentum using ceramic \r\nhydroxyapatite",
+      "metadata_visibility": "show",
+      "lastmod": "2021-06-03 01:05:37",
+      "dir": "disk0\/00\/03\/17\/62",
+      "publication": "AACL Bioflux",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "status_changed": "2021-06-03 01:05:37",
+      "rev_number": 8,
+      "date_type": "published",
+      "subjects": [
+        "QD"
+      ],
+      "volume": 14,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31762",
+      "refereed": "TRUE",
+      "datestamp": "2021-06-03 01:05:37",
+      "eprintid": 31762,
+      "eprint_status": "archive",
+      "pagerange": "1351-1358",
+      "userid": 945,
+      "number": 3,
+      "official_url": "http:\/\/www.bioflux.com.ro\/home\/volume-14-3-2021\/",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "2021.1351-1358.pdf",
+            "docid": 143842,
+            "files": [
+                {
+                  "objectid": 143842,
+                  "filesize": 679489,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/376263",
+                  "filename": "2021.1351-1358.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-02 13:25:47",
+                  "datasetid": "document",
+                  "fileid": 376263,
+                  "mime_type": "application\/pdf",
+                  "hash": "b8bd83f95d431f99d3c0ac848f1589df"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/143842",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 31762
+          }
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/www.bioflux.com.ro\/aacl"
+        }
+      ],
+      "publisher": "Bioflux",
+      "full_text_status": "public",
+      "issn": "1844-9166",
+      "ispublished": "pub",
+      "abstract": "Abstract. The pigment ß-phycoerythrin is useful as a natural pigment in food and cosmetics, and also serves as a fluoroprobe for laboratory analyses. This study evaluated the effectiveness of ceramic hydroxyapatite as a stationary phase to purify ß-phycoerythrin using medium-pressure liquid chromatography. The microalga, Porphyridium cruentum, was cultivated in artificial sea water consisting of 20% effluent biogas of tapioca waste water, as well as in modified F2 nutrient medium consisting of NaH2PO4 2H2O and NaNO3, stock solution of trace elements (Na2EDTA, NaMoO4 2H2O, CoCl2 6H2O, FeCl3 6H2O, CuSO4 5H2O, ZnSO4 7H2O, MnCl2 4H2O), and stock solution of vitamins (biotin, cyanocobalamin, and thiamine HCl). P. cruentum biomass was harvested after 8 days by centrifuging at 8000 g for 10 min at 4oC. Fresh biomass was resuspended in buffer solution and sonicated for 30 min. Then the slurry was centrifuged at 12000 g for 4 min. ß-phycoerythrin-rich supernatants were pooled and treated as a crude extract. The crude extract was then passed over a ceramic hydroxyapatite column at medium pressure. Ceramic hydroxyapatite was prepared using a precipitation method and sintering at 1200oC. The composition and microstructures of the ceramic were characterized with a scanning electron microscope equipped with an energy dispersive X-ray spectrometer. The purity of ß-phycoerythrin was confirmed using UV-Vis spectroscopy. Ceramic hydroxyapetite offers a scalable method for isolation of ß-phycoerythrin. Moreover, effluent biogas of tapioca waste water should be considered as an alternative cultivation medium for sustainable production of microalgae. This study succeeded in cultivating P. cruentum in modified F2 media with 20% biogas waste and utilizing ceramic hydroxyapatite to recover 60% of ß-phycoerythrin with an A546\/A280 ratio of 3.995.\r\nKey Words: ion chromatography, microalgae, phycobiliprotein, waste water.",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Balai Budidaya Laut, Lampung",
+        "Institute Teknologi Bnadung"
+      ],
+      "projects": [
+        "Program Magister"
+      ],
+      "date": 2021
+    },
+    {
+      "abstract": "Masyarakat Desa Legundi Kecamatan Ketapang Lampung Selatan sebagian besar membudidayakan rumput laut sebagai mata pencaharian kedua selain sebagai nelayan. Selama ini masyarakat menjual rumput laut dalam bentuk mentah tidak diolah terlebih dahulu, sehingga kurang menambah nilai jual dari rumput laut tersebut. Tim pengabdian Kimia MIPA tertarik untuk membantu masyarakat petani nelayan Desa Legundi dengan memberikan pelatihan “mengubah rumput laut menjadi produk pasta gigi dan masker wajah”, sehingga dapat meningkatkan nilai ekonomis dari rumput laut tersebut. Kegiatan pengabdian ini dilaksanakan bekerjasama dengan Kelompok Tani Nelayan “Sinar Legundi” Desa Legundi. Diawali dengan kegiatan sosialisasi, dan pelaksanaan pelatihan pembuatan pasta gigi dan masker wajah rumput dan monitoring evaluasi, yang dilaksanakan dari bulan Juli-September 2020. Hasil monitoring dan evaluasi pengabdian kepada masyarakat menunjukkan terdapat peningkatan pengetahuan dan ketrampilan dalam pembuatan pasta gigi dan masker wajah berbahan dasar rumput laut sebesar 60,4% dari data TIK yang diukur. Hal ini menunjukkan bahwa pengetahuan masyarakat tentang rumput laut dan permasalahannya serta pengolahannya telah meningkat secara signifikan",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52096",
+      "date": "2021-07",
+      "date_type": "published",
+      "subjects": [
+        "QD"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-06-08 01:36:44",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publisher": "https:\/\/tabikpun.fmipa.unila.ac.id\/index.php\/jpkm_tp",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "dir": "disk0_bak\/00\/05\/20\/96",
+      "userid": 305,
+      "lastmod": "2023-06-08 01:36:44",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252094",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52096,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Pemanfaatan Rumput Laut (Euchema Sp).pdf",
+            "files": [
+                {
+                  "mtime": "2023-06-07 13:46:27",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/617280",
+                  "filename": "Pemanfaatan Rumput Laut (Euchema Sp).pdf",
+                  "objectid": 252094,
+                  "filesize": 753353,
+                  "mime_type": "application\/pdf",
+                  "hash": "0fb2e55a3c6177ea7888fd07842e0aa6",
+                  "datasetid": "document",
+                  "fileid": 617280
+                }
+            ],
+            "docid": 252094,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2023-06-08 01:36:44",
+      "id_number": "DOI: 10.23960\/jpkmt.v2i2.40",
+      "eprint_status": "archive",
+      "eprintid": 52096,
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "id": "yuli.ambarwati@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Ambarwati",
+            "honourific": null,
+            "given": "Yuli"
+          }
+        },
+        {
+          "name": {
+            "given": "Aspita",
+            "honourific": null,
+            "family": "Laila",
+            "lineage": null
+          },
+          "id": "aspita.laila@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "John",
+            "family": "Hendri",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "john.hendri@fmipa.unila.ac.id"
+        },
+        {
+          "id": "marina_setyorini@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setyarini",
+            "given": "M."
+          }
+        }
+      ],
+      "title": "Pemanfaatan Rumput Laut (Euchema Sp) Manjadi Pasta Gigi Dan\r\nMasker Wajah di Desa Legundi Lampung Selatan"
+    },
+    {
+      "funders": [
+        "BRIN"
+      ],
+      "publisher": "IOP Publishing",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "publication": "Journal of Physics: Conference Series 1751",
+      "dir": "disk0\/00\/02\/84\/75",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "1742-6596",
+      "status_changed": "2021-03-18 09:53:26",
+      "date_type": "published",
+      "subjects": [
+        "QD"
+      ],
+      "projects": [
+        "the Competitive Research Grant, with research contract No. 289 \/ SP2H \/ LT \/ DRPM \/ 2020"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28475",
+      "date": "2021-02-27",
+      "abstract": "Perovskite compounds show great potential in a variety of applications due to their diverse and unique properties and can be modified. Nanomaterial LaCr0.99Fe0.01O3 has been prepared using sol-gel and freeze drying methods. The nanomaterial was then calcined at 700°C for 10 hours and characterized by the analysis techniques of X-Ray Diffraction (XRD), Fourier Transform Infrared (FTIR), Diffuse Reflectance UV-Vis Spectroscopy (DRS UV-Vis), and Transmission Electron Microscopy (TEM). The result of XRD analysis showed that two main crystal phases were formed from the ABO3 perovskite structure, namely LaCrO3 and LaFeO3 which were superimpossed and the crystalline phase size based on the Scherrer method was 23.5 nm. Furthermore, the TEM analysis result shows that there are various forms and hollows. Then, the FTIR spectrum states that there is an interaction between transition metals, and the band gap energy is 2.71 eV.",
+      "volume": 1751,
+      "title": "Preparation and Characterization of LaCr0.99Fe0.01O3 Nanomaterial",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "mahlianie12@gmail.com",
+          "name": {
+            "given": "Mahliani",
+            "honourific": null,
+            "family": "Erianti",
+            "lineage": null
+          }
+        },
+        {
+          "id": "rudy.tahan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rudy T.M",
+            "lineage": null,
+            "family": "Situmeang",
+            "honourific": null
+          }
+        },
+        {
+          "id": "simon.sembiring@fmipa.",
+          "name": {
+            "given": "Simon",
+            "lineage": null,
+            "family": "Sembiring",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "1-11",
+      "datestamp": "2021-03-18 09:53:26",
+      "id_number": "10.1088\/1742-6596\/1751\/1\/012087",
+      "eprintid": 28475,
+      "eprint_status": "archive",
+      "lastmod": "2021-03-18 09:53:26",
+      "official_url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1742-6596\/1751\/1\/012087\/pdf",
+      "documents": [
+          {
+            "main": "Erianti_2021_J._Phys.__Conf._Ser._1751_012087.pdf",
+            "files": [
+                {
+                  "filename": "Erianti_2021_J._Phys.__Conf._Ser._1751_012087.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/252916",
+                  "filesize": 5144992,
+                  "objectid": 42523,
+                  "mtime": "2021-03-18 06:44:44",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "a305259b5fbae9cd168d4ce1308d786a",
+                  "fileid": 252916,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 42523,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 28475,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42523",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "userid": 882
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hardoko",
+            "given": "Insan Qudus"
+          },
+          "id": "hardoko.insan@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Purwadi",
+            "honourific": null,
+            "family": "Purwadi",
+            "lineage": null
+          },
+          "id": "mutubpomlpg@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Holilah",
+            "honourific": null,
+            "family": "Iis",
+            "lineage": null
+          },
+          "id": "naisyaparis@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutopo",
+            "given": "Hadi"
+          },
+          "id": "sutopohadi@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "Analysis of Mercury in Skin Lightening Cream by Microwave Plasma Atomic Emission Spectroscopy (MP-AES)",
+      "number": 3130,
+      "userid": 726,
+      "documents": [
+          {
+            "eprintid": 33246,
+            "placement": 2,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/151870",
+            "pos": 2,
+            "format": "text",
+            "main": "MOLECULES-HARDOKO INSAN QUDUS.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 393897,
+                  "mime_type": "application\/pdf",
+                  "hash": "159f55bb422cb3699ced8c4108c0ee30",
+                  "objectid": 151870,
+                  "filesize": 4497836,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/393897",
+                  "filename": "MOLECULES-HARDOKO INSAN QUDUS.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-07-23 06:32:45"
+                }
+            ],
+            "docid": 151870,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2021-07-25 13:18:03",
+      "official_url": "https:\/\/www.mdpi.com\/1420-3049\/26\/11\/3130\/htm",
+      "eprint_status": "archive",
+      "eprintid": 33246,
+      "datestamp": "2021-07-25 13:18:03",
+      "pagerange": "1-10",
+      "metadata_visibility": "show",
+      "status_changed": "2021-07-25 13:18:03",
+      "issn": "1420-3049",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/32\/46",
+      "publisher": "MDPI AG",
+      "publication": "Molecules",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "volume": 26,
+      "abstract": "This research aimed at developing an analysis method, which was optimized and validated\r\nto determine the content of mercury in skin lightening cream discovered in the market in Bandar\r\nLampung, Indonesia, through the use of microwave plasma atomic emission spectroscopy (MP�AES). The optimization on the analysis method was conducted on pump rate, viewing position, and\r\nreductant concentration in order to obtain the highest mercury emission intensity, while the solution\r\nstability was optimized to know the stability of mercury in the solution. The result showed that\r\nthe method developed had precision with a relative standard deviation of 2.67%, recovery value of\r\n92.78%, and linearity with an r value of 0.993, respectively. The sensitivity of the instrument detection\r\nhad a limit of analysis method detection and quantification of 0.59 and 1.98 µg\/L, respectively. The\r\nresults of the test of the lightening cream (8 of 16 samples) positively contained mercury in the range\r\nof 422.61–44,960.79 ng\/g. Therefore the method of analysis developed may be used for routine\r\nanalysis of chemicals in any cosmetics products.\r\n\r\nKeywords: analytical method validation; mercury; MP-AES; skin lightening cream",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33246",
+      "date": "2021-05-24",
+      "subjects": [
+        "QD"
+      ],
+      "date_type": "published"
+    },
+    {
+      "subjects": [
+        "QD"
+      ],
+      "date_type": "published",
+      "volume": 10,
+      "abstract": "Low molecular weight 4-vinylpyridine oligomer or O(4-VP) has been synthesized using 0.25 M \r\nhydrogen peroxide as the initiator. The resulting O(4-VP) was characterized by Fourier \r\ntransform infrared (FTIR) spectroscopy for identification of functional groups, and mass \r\nspectroscopy (MS) for determination of molecular weights. O(4-VP) was tested as a corrosion \r\ninhibitor of mild steel in a corrosive solution saturated with carbon dioxide using wheel test and \r\nelectrochemical methods, i.e., electrochemical impedance spectroscopy (EIS) and Tafel plots. \r\nMild steel surface analysis was performed by scanning electron microscopy (SEM). The product \r\nof the synthesis is a viscous orange compound. The mass spectrum showed that O(4-VP) had a \r\nmass (m\/z) of 100–900, which is in accordance with the chain length of 1–9 monomer units, \r\nwhere the chain length of 4 (tetramer) is the most abundant fraction. The FTIR results show no \r\nsignificant difference between the monomer and O(4-VP). The wheel test as a screening test \r\nshowed that O(4-VP) exhibited corrosion inhibitor activity. This activity was confirmed by the \r\nresults of EIS and Tafel analyses, which also demonstrated that protection increased with \r\nincreasing concentration of O(4-VP) and temperature. At temperature 70°C and a concentration \r\nof 150 mg L\r\n–1\r\n, the protection by O(4-VP) reached 81.9% (based on EIS) and 87.8% (based on \r\nTafel plots). Protection of mild steel was also confirmed by the surface morphology of the \r\nsample obtained by SEM characterization.",
+      "date": "2021-02-26",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30109",
+      "publication": "International Journal of Corrosion and Scale Inhibition",
+      "publisher": "The Creative Commons.",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "dir": "disk0\/00\/03\/01\/09",
+      "status_changed": "2021-05-10 05:56:01",
+      "issn": "2305-6894",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "id_number": "10.17675\/2305-6894-2021-10-1-16",
+      "eprintid": 30109,
+      "eprint_status": "archive",
+      "datestamp": "2021-05-10 05:56:01",
+      "pagerange": "284-301",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 967,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/135212",
+            "pos": 1,
+            "eprintid": 30109,
+            "license": "cc_by_nc_nd_4",
+            "placement": 1,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 3,
+            "format": "text",
+            "docid": 135212,
+            "main": "Ilim_ijcsi-2021_v10-n1-p16 (1).pdf",
+            "files": [
+                {
+                  "hash": "8b74a159e5d4f2266515036d6ebbb49c",
+                  "mime_type": "application\/pdf",
+                  "fileid": 356945,
+                  "datasetid": "document",
+                  "mtime": "2021-05-10 04:04:47",
+                  "hash_type": "MD5",
+                  "filename": "Ilim_ijcsi-2021_v10-n1-p16 (1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/356945",
+                  "objectid": 135212,
+                  "filesize": 848340
+                }
+            ]
+          }
+      ],
+      "lastmod": "2021-05-10 05:56:01",
+      "official_url": "http:\/\/ijcsi.pro\/papers\/molecular-weight-distribution-and-corrosion-inhibitor-activity-of-4-vinylpyridine-oligomer-synthesized-using-low-concentration-hydrogen-peroxide-as-the-initiator\/",
+      "type": "article",
+      "creators": [
+        {
+          "id": "ilim@fmipa.unila.ac.id",
+          "name": {
+            "family": "Ilim",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ilim"
+          }
+        },
+        {
+          "name": {
+            "given": "Rafika",
+            "honourific": null,
+            "lineage": null,
+            "family": "Fitriani"
+          },
+          "id": "rafikafitriani735@gmail.com"
+        },
+        {
+          "id": "bowotria.1997@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Prabowo",
+            "given": "Tria"
+          }
+        },
+        {
+          "id": "syaiful.bahri@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Bahri",
+            "given": "Syaiful"
+          }
+        },
+        {
+          "id": "roniyus.1977@fmipa.unila.ac.id",
+          "name": {
+            "given": "Roniyus",
+            "honourific": null,
+            "lineage": null,
+            "family": "Marjunus"
+          }
+        },
+        {
+          "name": {
+            "given": "Wasinton",
+            "honourific": null,
+            "lineage": null,
+            "family": "Simanjuntak"
+          },
+          "id": "wasinton.simanjuntak@fmipa.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Molecular weight distribution and corrosion inhibitor activity \r\nof 4-vinylpyridine oligomer synthesized using low \r\nconcentration hydrogen peroxide as the initiator"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Noviany",
+            "lineage": null,
+            "family": "Noviany",
+            "honourific": null
+          },
+          "id": "noviany@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hasnah",
+            "honourific": null,
+            "family": "Osman",
+            "lineage": null
+          },
+          "id": "ohasnah@usm.my"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Structure Elucidation of Betulinic Acid from Sesbania grandiflora Root",
+      "number": 12090,
+      "userid": 564,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41527",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 27519,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-01-28 03:38:13",
+                  "filesize": 2146798,
+                  "objectid": 41527,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/245949",
+                  "filename": "Noviany_2021_J._Phys. _Conf._Ser._1751_012090.pdf",
+                  "fileid": 245949,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "cd35f75b22b0929956b39cf70f164cf8"
+                }
+            ],
+            "main": "Noviany_2021_J._Phys. _Conf._Ser._1751_012090.pdf",
+            "docid": 41527,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2021-02-01 04:51:00",
+      "eprintid": 27519,
+      "eprint_status": "archive",
+      "datestamp": "2021-02-01 04:51:00",
+      "pagerange": "1-7",
+      "metadata_visibility": "show",
+      "status_changed": "2021-02-01 04:51:00",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publisher": "IOP Publishing",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "publication": "Journal of Physics, Proceeding Conference Series ICASMI 2020",
+      "dir": "disk0\/00\/02\/75\/19",
+      "related_url": [
+        {
+          "url": "doi:10.1088\/1742-6596\/1751\/1\/012090"
+        }
+      ],
+      "volume": 1751,
+      "abstract": "Betulinic acid, a known triterpene compound that has been successfully isolated from the ethyl acetate extract of the root of Sesbania grandiflora. The structure elucidation of betulinic acid was performed using one- and two-dimensional nuclear magnetic resonance, ultraviolet and infrared spectroscopy, and fast atomic bombardment mass spectrometry as well as by comparing with the literature data. This compound was found for the first time from the Fabaceae family, in\r\nparticular Sesbania grandiflora.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27519",
+      "date": 2021,
+      "subjects": [
+        "QD"
+      ],
+      "date_type": "published"
+    },
+    {
+      "publisher": "Turkish Chemical Society",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "publication": "Journal of the Turkish Chemical Society",
+      "dir": "disk0\/00\/02\/77\/17",
+      "related_url": [
+        {
+          "url": "https:\/\/doi.org\/10.18596\/jotcsa.831054"
+        }
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2021-02-05 01:45:52",
+      "full_text_status": "public",
+      "issn": "2149-0120",
+      "subjects": [
+        "QD"
+      ],
+      "date_type": "published",
+      "date": "2021-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27717",
+      "volume": 8,
+      "abstract": "Infectious diseases caused by bacteria has become a global health issue, especially antibacterial\r\ndrug resistance. The most serious concern with antibacterial resistance is that some bacteria became\r\nresistant to almost all antibacterial drugs, which makes them less effective. Archidendron jiringa is one of the\r\nmost potent medicinal plants to be developed as a new source of antibacterial components. In current study,\r\nbased on the antibacterial assay-guided approach, the separation of bioactive fractions of A. jiringa stem\r\nroots was carried out through several stages including isolation, fractionation, and characterization. The\r\nstages of isolation of secondary metabolites were conducted by gradually extraction followed by\r\nfractionation using chromatographic methods. The antibacterial potential of extracts was evaluated by the\r\ndisc diffusion and microdilution methods employing the resazurin assay against one Gram-negative resistant\r\nbacteria, Escherichia coli, and one Gram-positive bacteria, Bacillus subtilis. Among three extracts obtained,\r\nethyl acetate and methanol extracts demonstrated to be the most significant antibacterial effects, while no\r\nantibacterial activity was shown on the n-hexane extract. The fractionation of ethyl acetate extract led to the\r\nisolation of the most bioactive fractions (E2815 and E2816) with the MIC’s values ranging of 12.5–25 μg\/mL for\r\nboth resistant bacteria. Due to the low amount, only the fraction E2816 was subjected to analysis by 1H-NMR\r\nspectroscopy. The results exhibited that the bioactive fraction was obtained as a mixture of at least three\r\nmajor constituents. However, the purification of the bioactive fraction is required, to further clarify the\r\nantibacterial compound that can be utilized as a new promising antibacterial agent. The bioassay-guided separation approach and the dye resazurin as an indicator of the growth of bacteria are applied for the first time for the phytopharmacological investigation from this plant. The present study represented the most effective method for subsequent finding and isolation of potential novel antibacterial constituents from A.jiringa stem roots, in particular against the multi-drug resistant strains.",
+      "refereed": "TRUE",
+      "title": "Bioassay-Guided Separation Approach for Characterization of New Antibacterial Fractions from the Stem Roots Extracts of Archidendron jiringa",
+      "type": "article",
+      "creators": [
+        {
+          "id": "noviany@fmipa.unila.ac.id",
+          "name": {
+            "family": "Noviany",
+            "lineage": null,
+            "honourific": null,
+            "given": "Noviany"
+          }
+        },
+        {
+          "name": {
+            "family": "Sialdian",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dicky"
+          },
+          "id": null
+        },
+        {
+          "id": "andi.setiawan@fmipa.unila.ac.id",
+          "name": {
+            "given": "Andi",
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Bambang",
+            "family": "Irawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Azmi",
+            "lineage": null,
+            "given": "Mohamad Nurul"
+          }
+        },
+        {
+          "id": "sutopo.hadi@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null,
+            "given": "Sutopo"
+          }
+        }
+      ],
+      "pagerange": "393-404",
+      "metadata_visibility": "show",
+      "eprintid": 27717,
+      "eprint_status": "archive",
+      "datestamp": "2021-02-05 01:45:52",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 27717,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41686",
+            "security": "public",
+            "files": [
+                {
+                  "filesize": 933480,
+                  "objectid": 41686,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/247266",
+                  "filename": "10.18596-jotcsa.831054-1414340.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-04 23:37:26",
+                  "fileid": 247266,
+                  "datasetid": "document",
+                  "hash": "7165d5d6b054399f840085969fe220e2",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "10.18596-jotcsa.831054-1414340.pdf",
+            "docid": 41686,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2021-02-05 01:45:52",
+      "official_url": "https:\/\/dergipark.org.tr\/en\/pub\/jotcsa\/issue\/60129",
+      "number": 2,
+      "userid": 564
+    },
+    {
+      "subjects": [
+        "QD"
+      ],
+      "date_type": "published",
+      "date": 2021,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27520",
+      "volume": 1751,
+      "abstract": "In the present study, endophytic fungi associated with Indonesian Sesbania\r\ngrandiflora plant were isolated and identified for the first time. The objective of this study was\r\nto report new data regarding the endophytic fungi found in S. grandiflora as one of Indonesian\r\nmedicinal plant. Six isolates of endophytic fungi were isolated from the leaves, bark, seed,\r\nflower, and root of S. grandiflora collected from Labuhan Ratu, Kedaton, Bandar Lampung,\r\nIndonesia. Based on the prediction of their morphological characteristics visually, four isolates\r\nfrom all parts of plant were identified as Fusarium sp, while two isolates obtained from the\r\nbark and the seed were identified as Hormiscium sp and Penicillium sp, respectively. In\r\naddition, TLC profile result of secondary metabolites extract of endophytic fungi indicated that\r\nmore than one major compound was observed. Furthermore, the antibacterial screening of isolated endophytic fungi did not show inhibition growth against resistant E. coli. However, the phytopharmacological study on the isolated fungi associated with S. grandiflora as well as their biological properties are still in progress. The results of this study revealed that S. grandiflora plant is reliable source of endophytic fungi for the future investigation.",
+      "publisher": "IOP Publishing",
+      "dir": "disk0\/00\/02\/75\/20",
+      "publication": "Journal of Physics: ICASMI 2020 Conference Series",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "related_url": [
+        {
+          "url": "doi:10.1088\/1742-6596\/1751\/1\/012090"
+        }
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2021-02-01 04:51:03",
+      "full_text_status": "public",
+      "issn": "Print : 1742-6588 Online : 1742-6596",
+      "pagerange": "1-7",
+      "metadata_visibility": "show",
+      "eprintid": 27520,
+      "eprint_status": "archive",
+      "datestamp": "2021-02-01 04:51:03",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Nurhidayat_2021_J._Phys. _Conf._Ser._1751_012093.pdf",
+            "docid": 41528,
+            "files": [
+                {
+                  "hash": "422d298eac32915fdf4e2bcadb02b747",
+                  "mime_type": "application\/pdf",
+                  "fileid": 245955,
+                  "datasetid": "document",
+                  "mtime": "2021-01-28 03:46:50",
+                  "hash_type": "MD5",
+                  "filename": "Nurhidayat_2021_J._Phys. _Conf._Ser._1751_012093.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/245955",
+                  "objectid": 41528,
+                  "filesize": 942200
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 27520,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41528"
+          }
+      ],
+      "lastmod": "2021-02-01 04:51:03",
+      "number": 12093,
+      "userid": 564,
+      "refereed": "TRUE",
+      "title": "Isolation and Identification of Endophytic Fungi Associated\r\nwith Indonesian Sesbania grandiflora Plant",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurhidayat",
+            "given": "Arief"
+          }
+        },
+        {
+          "id": "noviany@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Noviany",
+            "given": "Noviany"
+          }
+        },
+        {
+          "id": "andi.setiawan@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Setiawan",
+            "lineage": null,
+            "given": "Andi"
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "datestamp": "2021-11-09 01:16:24",
+      "eprintid": 35606,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "73-73",
+      "userid": 489,
+      "lastmod": "2021-11-09 01:16:24",
+      "documents": [
+          {
+            "format": "text",
+            "main": "view_usp=sharing",
+            "docid": 156498,
+            "files": [
+                {
+                  "mtime": "2021-11-08 22:36:28",
+                  "hash_type": "MD5",
+                  "filename": "view_usp=sharing",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/414504",
+                  "objectid": 156498,
+                  "filesize": 67860,
+                  "hash": "7c0dfc7c594a122caac881f0de663176",
+                  "mime_type": "text\/html",
+                  "datasetid": "document",
+                  "fileid": 414504
+                }
+            ],
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "text\/html",
+            "eprintid": 35606,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156498",
+            "pos": 1
+          },
+          {
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156499",
+            "eprintid": 35606,
+            "placement": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 156499,
+            "main": "Abstrak Seminar Bersama_Rinawati.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/414506",
+                  "filename": "Abstrak Seminar Bersama_Rinawati.pdf",
+                  "filesize": 215545,
+                  "objectid": 156499,
+                  "mtime": "2021-11-08 22:41:45",
+                  "hash_type": "MD5",
+                  "hash": "0986f3475f01b760743e9bfa948ba6dc",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 414506
+                }
+            ]
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Rinawati",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rinawati"
+          },
+          "id": "rinawati@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Buhani",
+            "honourific": null,
+            "given": "Buhani"
+          },
+          "id": "buhani@fmipa.unila.ac.id"
+        },
+        {
+          "id": "agung.abadi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Agung Abadi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kiswandono"
+          }
+        },
+        {
+          "name": {
+            "family": "Widiarto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sonny"
+          },
+          "id": "sonny@fmipa.unila.ac.id"
+        },
+        {
+          "id": "rinawati03@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kasih",
+            "given": "Yessy Oktiara"
+          }
+        }
+      ],
+      "pres_type": "speech",
+      "type": "conference_item",
+      "title": "POTENSI KARBON AKTIF BERBASIS KULIT\r\nSINGKONG SEBAGAI ADSORBEN PADA TEKNIK\r\nDISPERSIVE SOLID PHSE EXTRACTION (DSPE)\r\nUNTUK PENENTUAN ANTIBIOTIK TETRASIKLIN",
+      "event_dates": "8-9 September 2021",
+      "refereed": "TRUE",
+      "event_location": "Bandar Lampung",
+      "subjects": [
+        "QD"
+      ],
+      "event_title": "Seminar Nasional Bersama FMIPA Unila Tahun 2021",
+      "abstract": "Penyalahgunaan dan pemakaian berlebihan antibiotik di masa\r\npandemic Covid-19 semakin memicu peningkatan jumlah residu\r\nantibiotik di lingkungan. Residu antibiotik berada pada rentang konsentrasi yang renik dan matriks sampel yang kompleks sehingga tahapan preparasi sampel dalam penentuan kadarnya sangat penting. Dalam penelitian ini telah dilakukan uji potensipenggunaan karbon aktif dari kulit singkong sebagai material adsorben untuk teknik DSPE magnetit. sebagai teknik ektraksi dalam penentuan antibiotik tetrasiklin. Adsorben dikarakterisasi menggunakan Scanning Electron Microscopy (SEM), Fourier Transform Infrared Spectrophotometry (FT-IR) dan X‐ray diffraction serta optimasi parameter yang mempengaruhinya. Hasil karakterisasi menunjukkan bahwa permukaan adsorben memiliki struktur tidak beraturan, kasar, dan berpori serta bersifat magnet. Hasil optimasi menunjukkan bahwa waktu kesetimbangan pada antibiotik tetrasiklin diperoleh pada pH 6 selama 10 menit dengan konsentrasi adsorbat 1 mg\/L dan massa adsorben 20 mg. Studi ini menunjukkan bahwa karbon aktif magnetik dari kulit singkong memiliki potensi yang tinggi sebagai adsorben efektif unutuk menentukan antibiotik tetrasiklin dari\r\nlingkungan perairan.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35606",
+      "date": "2021-09",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "dir": "disk0\/00\/03\/56\/06",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2021-11-09 01:16:24",
+      "ispublished": "unpub",
+      "rev_number": 13
+    },
+    {
+      "subjects": [
+        "Q1"
+      ],
+      "date_type": "published",
+      "volume": 7,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34733",
+      "dir": "disk0\/00\/03\/47\/33",
+      "publication": "Fermentation",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "funders": [
+        "This research was funded by The Deputy of Research Strengthening and Development,  The Ministry of Research and Technology\/National Agency for Research and Innovation of the  Republic of Indonesia, Basic Research with grand no. 139\/SP2H\/ADM\/LT\/DRPM\/2020,"
+      ],
+      "status_changed": "2021-11-01 01:08:23",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "lastmod": "2021-11-01 01:08:23",
+      "creators": [
+        {
+          "name": {
+            "given": "Andi",
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null
+          },
+          "id": "andi.setiawan@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Widyastuti",
+            "lineage": null,
+            "given": "Widyastuti"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "arik",
+            "family": "irawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Oklis",
+            "honourific": null,
+            "lineage": null,
+            "family": "Syahrin Wijaya"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Aspita",
+            "lineage": null,
+            "family": "Laila",
+            "honourific": null
+          },
+          "id": "aspita.laila@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Setiawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Wawan Abdullah"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Ni Luh Gede Ratna",
+            "honourific": null,
+            "family": "Juliasih",
+            "lineage": null
+          },
+          "id": "niluhratna.juliasih@fmipa.ac.id"
+        },
+        {
+          "id": "ken@lisci.kitasato-u.ac.jp",
+          "name": {
+            "family": "Nonaka",
+            "lineage": null,
+            "honourific": null,
+            "given": "Kenichi"
+          }
+        },
+        {
+          "name": {
+            "given": "Masayoshi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Arai"
+          },
+          "id": "araim@phs.osaka-u.ac.jp"
+        },
+        {
+          "id": "john.hendri@fmipa.unila.ac.id",
+          "name": {
+            "given": "John",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hendri"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Fermentation Shrimp Shell Waste in Solid State Using \r\nPseudonocardia carboxydivorans 18A13O1 to Produce \r\nBioactive Metabolites",
+      "corp_creators": [
+        "Lampung University",
+        "Kitasato University",
+        "Osaka University"
+      ],
+      "abstract": "Marine actinomycetes are prolific microorganisms; however, knowledge of their diver�sity, distribution, and secondary metabolites is limited. Marine actinomycetes represent an un�tapped source of novel bioactive compounds. In this study, we investigated shrimp shell as sub�strates for model production bioactive metabolites from actinomycetes under solid state fermenta�tion (SSF) conditions. A total of fifteen actinomycetes were isolated from six sponges and one tu�nicate. The isolated actinomycetes were grown on solid shrimp shells. Cultures of actinomycetes \r\nwere extracted with ethyl acetate (EtOAc) and extracts were bioassayed for activity against Staph�ylococcus aureus. One isolate 18A13O1 from the sponge, Rhabdastrella globostellata, exhibited anti�bacterial activity on primary screening compared to the other samples and was chosen for further \r\nstudy. Visualization using SEM showed aerial and substrate mycelia. Through phylogenetic anal�ysis, it was confirmed that isolate 18A13O1 is a Pseudonocardia carboxydivorans. Purification of an \r\nEtOAc extract yielded A13B2, which showed a minimum inhibition concentration against S. aureus\r\nat 15.6 μg\/mL. It can be concluded that this basic information is very important for further studies \r\nrelated to the development of the production of bioactive secondary metabolites through the solid \r\nstate fermentation process.",
+      "date": "2021-10-29",
+      "projects": [
+        "research collaboration"
+      ],
+      "publisher": "MDPI Multidisciplinary Digital Publishing Institute",
+      "issn": 23115637,
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "eprintid": 34733,
+      "eprint_status": "archive",
+      "datestamp": "2021-11-01 01:08:23",
+      "pagerange": "1-11",
+      "number": 247,
+      "userid": 945,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155398",
+            "eprintid": 34733,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "fermentation-07-00247.pdf",
+            "files": [
+                {
+                  "objectid": 155398,
+                  "filesize": 646090,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/407666",
+                  "filename": "fermentation-07-00247.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-10-30 07:56:40",
+                  "fileid": 407666,
+                  "datasetid": "document",
+                  "hash": "06ddac3f389168e2e10bf78d30110322",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 155398
+          }
+      ],
+      "official_url": "https:\/\/www.mdpi.com\/2311-5637\/7\/4\/247",
+      "refereed": "TRUE"
+    },
+    {
+      "userid": 882,
+      "documents": [
+          {
+            "eprintid": 28479,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42528",
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 252960,
+                  "mime_type": "application\/pdf",
+                  "hash": "41463c637b16cc6e8fde9348c0013bba",
+                  "filesize": 3875244,
+                  "objectid": 42528,
+                  "filename": "Situmeang_2021_J._Phys.__Conf._Ser._1751_012.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/252960",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-18 07:56:32"
+                }
+            ],
+            "main": "Situmeang_2021_J._Phys.__Conf._Ser._1751_012.pdf",
+            "docid": 42528,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2021-03-18 09:53:28",
+      "official_url": "https:\/\/iopscience.iop.org\/journal\/1742-6596",
+      "id_number": "doi:10.1088\/1742-6569\/1751\/1\/012104",
+      "eprint_status": "archive",
+      "eprintid": 28479,
+      "datestamp": "2021-03-18 09:53:28",
+      "pagerange": "1-7",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Situmeang",
+            "honourific": null,
+            "given": "Rudy T.M"
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        },
+        {
+          "id": "ahmad.ammar1557@students.unila.ac.id",
+          "name": {
+            "given": "Ahmad Ammar",
+            "lineage": null,
+            "family": "Saputra",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Andayani",
+            "honourific": null,
+            "given": "Yarti"
+          },
+          "id": "yartiandayani97@gmail.com"
+        },
+        {
+          "id": "muhammad.ilhan1078@students.unila.ac.id",
+          "name": {
+            "given": "M. Ilhan",
+            "family": "Imanudin",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Simon",
+            "honourific": null,
+            "family": "Sembiring",
+            "lineage": null
+          },
+          "id": "simon.sembiring@fmipa."
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "The effect of Vanadium dopant on Bandgap Energy of Ni1-xVxFe2O4 nanospinel",
+      "volume": 1751,
+      "abstract": "Vn+ doped NiFe2O4, Ni1-xVxFe2O4 (where x = 0.1, 0.3, and 0.5) nanomaterials were synthesized by sol-gel and freeze drying method simultaneously using nitrates of iron, and nickel, and ammonium vanadate as the starting materials. Powder X-ray Difraction (XRD) showed that all composition was found to have cubic spinel, hexagonal and monoclinic structure. The average crystallite size using scherrer calculation was found to be in the range of 20 - 42 nm. The band gap energy (Eg) of undoped NiFe2O4 was estimated to be 1.9 eV from UV-Vis diffuse reflectance spectroscopy (DRS). With the increase of Vn+ dopant, the Eg value both decreased and increased from 1.6 eV to 2.0 eV, due to the difference of particle size of the samples.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28479",
+      "date": "2021-02-27",
+      "subjects": [
+        "QD"
+      ],
+      "date_type": "published",
+      "status_changed": "2021-03-18 09:53:28",
+      "issn": "1742-6596",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publication": "Journal of Physics: Conference Series",
+      "publisher": "IOP Publishing",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "dir": "disk0\/00\/02\/84\/79"
+    }
+]
+

@@ -1,0 +1,412 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Syafriadi",
+            "family": "Syafriadi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "syafriadifisikamipa@gmail.com"
+        },
+        {
+          "id": "alimuddin.geofisika@eng.unila.ac.id",
+          "name": {
+            "given": "Alimuddin",
+            "lineage": null,
+            "family": "Muchtar",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "ANALISIS REDUKSI TOPOGRAFI DATA GAYABERAT DENGAN PENDEKATAN\r\nMETODE LA FEHR DAN WHITMAN PADA PENENTUAN ANOMALI BOUGUER",
+      "contact_email": "alimuddin.geofisika@eng.unila.ac.id",
+      "metadata_visibility": "show",
+      "lastmod": "2020-06-24 06:15:59",
+      "publication": "Jurnal MIPA FMIPA Universitas Lampung",
+      "dir": "disk0\/00\/02\/27\/02",
+      "divisions": [
+        "FT1"
+      ],
+      "status_changed": "2020-06-24 06:15:59",
+      "rev_number": 29,
+      "date_type": "published",
+      "subjects": [
+        "Q1",
+        "QC",
+        "QE"
+      ],
+      "volume": 12,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22702",
+      "refereed": "TRUE",
+      "datestamp": "2020-06-24 06:15:59",
+      "referencetext": "1. Alimuddin. 2002. Penyelidikan Struktur Bawah\r\nPermukaan Gunungapi Ungaran Dengan Analisis\r\nAnomali Medan gravitasi, Universitas Gadjah\r\nMada. Yogyakarta.\r\n2. Blakely, R.J. 1995. Potensial Theory in Gravity and\r\nMagnetic Applications. Cambridge University\r\nPress. USA.\r\n3. Grant, F.S., and West, G.F. 1965. Interpretations\r\nTheory in Applied Geophysics. Mc Graw-Hill. New\r\nYork.\r\n4. Karl, J.H. 1971. The Bouguer Correction for the\r\nSpherical Earth. Geophisics. vol.36. no.8, p. 761-\r\n762.\r\n5. La Fehr, T.R. 1991. An Exact Solution for The\r\nGravity Curvature (Bullard B) Correction.\r\nGeophisics. vol.56, no.8, p. 1179-1184.\r\n6. Telford, M.W., Geldart, L.P., Sheriff, R.E., and\r\nKeys, D.A. 1990. Applied Geophysiscs. Cambridge\r\nUniversity Press.\r\n7. Whitman, W.W. 1991. A Microgal Approximation for\r\nThe Bullard B Earth Curvature Gravity Correction.\r\nGepphysics. 52 (12): 1980 – 1985.",
+      "eprintid": 22702,
+      "eprint_status": "archive",
+      "pagerange": "179-184",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Syafriadi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Syafriadi"
+          },
+          "id": "syafriadifisikamipa@gmail.com"
+        },
+        {
+          "id": "alimuddin.geofisika@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muchtar",
+            "lineage": null,
+            "given": "Alimuddin"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 642,
+      "number": 3,
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/sains\/article\/view\/164",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "rev_number": 9,
+            "content": "published",
+            "files": [
+                {
+                  "mtime": "2020-06-22 06:37:08",
+                  "hash_type": "MD5",
+                  "filename": "2006_Analisis Reduksi Topografi Data Gaya Berat.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/208342",
+                  "filesize": 361219,
+                  "objectid": 36198,
+                  "hash": "e0565b4c548f1b2ad2cdcf159e99d694",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 208342
+                }
+            ],
+            "main": "2006_Analisis Reduksi Topografi Data Gaya Berat.pdf",
+            "docid": 36198,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36198",
+            "pos": 2,
+            "formatdesc": "pdf",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 22702
+          }
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fmipa.unila.ac.id\/sains\/article\/view\/164"
+        }
+      ],
+      "publisher": "Fakultas MIPA UNIVERSITAS LAMPUNG",
+      "full_text_status": "public",
+      "issn": "0853-733X",
+      "ispublished": "pub",
+      "keywords": "topography reduction data, Bouguer anomaly, La Fehr and Whitman.method",
+      "abstract": "Analysis of the gravity topography reduction data to determine of the anomaly Bouguer has been conducted. The results\r\nshow that the values of the anomaly correction were difference, i.e. 0.010-0.1.045 mgal for La Fehr approach and 0.00-0.01 mgal for Whitman approach. The anomaly pattern obtained from both approach were equal, this results can be attributed to the difference of the regional topography that is only 500-1000 m.",
+      "corp_creators": [
+        "Jurusan Fisika FMIPA Universitas Lampung",
+        "Jurusan Teknik Geofisika Universitas Lampung"
+      ],
+      "date": "2006-12"
+    },
+    {
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2019-09-20 08:15:17",
+      "full_text_status": "public",
+      "issn": "979-98933-2-1",
+      "publisher": "PIT HAGI",
+      "publication": "Geophysics for sustainable development: Shallow Prospect And Brownfield",
+      "dir": "disk0\/00\/01\/40\/83",
+      "divisions": [
+        "FT1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14083",
+      "date": "2006-11-15",
+      "corp_creators": [
+        "Universias Lampung"
+      ],
+      "abstract": "Daerah Lampung dan sekitarnya merupakan daerah dengan tatanan tektonik yang kompleks dan cukup menarik untuk dijadikan daerah penelitian guna mengetahui pola kegempaannya. dengan mengetahui pola kegempaan suatu wilayah, akan dapat dilakukan langkah-langkah antisipasi dalam perencanaan infrastruktur di wilayah tersebut dimasa mendatang. Dari hasil perhitungn diperoleh bahwa pada kelas D yaitu pada koordiant 4.6 - 5.5 LS dan 99 - 106.5 BT memiliki harga b terbesar, sedangkan pada kelas C, yaitu pada koordinat 3.6 - 4.5 LS dan 99 -106.5 BT memiliki harga b terkecil. untuk gempa yang terjadi di kerak samudera, dengan harga b tertinggi, yaitu 1.1866. dari hasil pemetaan distribusi mekanisme sumber gempa pada gempa dangkal yang memiliki kedalaman 0 -  60 km. jenis patahannya lebih dominan patahan naik (thrust fault), yaitu 75%, sedangkan patahan turun (normal fault) yaitu 21.43 % dan patahan geser mendatar (strike-slip fault), yaitu 3.57%. pada gempa menengah dengan kedalaman 61-450 km, jenis patahannya lebih dominan patahan naik, yaitu 58.07%, sedangkan patahan turun 35.48% dan patahan geser mendatar 6.56%",
+      "subjects": [
+        "QE"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "ANALISIS POLA KEGEMPAAN DAERAH LAMPUNG BERDASARKAN PARAMETER TEKTONIK DAN MODEL FOCAL MECHANISM",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "bagus",
+            "lineage": null,
+            "given": "sapto"
+          },
+          "id": "bagus.sapto@eng.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27115",
+            "pos": 1,
+            "eprintid": 14083,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "geophysics for sustainable development shallow prospect and brownfield.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "0e5cff6a76c119a045cecdd45dfbe189",
+                  "datasetid": "document",
+                  "fileid": 122482,
+                  "mtime": "2019-09-06 11:53:09",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122482",
+                  "filename": "geophysics for sustainable development shallow prospect and brownfield.pdf",
+                  "objectid": 27115,
+                  "filesize": 24254700
+                }
+            ],
+            "docid": 27115
+          }
+      ],
+      "lastmod": "2019-09-20 08:15:17",
+      "userid": 566,
+      "pagerange": "400-409",
+      "metadata_visibility": "show",
+      "eprintid": 14083,
+      "eprint_status": "archive",
+      "datestamp": "2019-09-20 08:15:17"
+    },
+    {
+      "datestamp": "2019-09-20 08:16:03",
+      "eprint_status": "archive",
+      "eprintid": 14271,
+      "metadata_visibility": "show",
+      "pagerange": "649-657",
+      "userid": 566,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "lastmod": "2019-09-20 08:16:03",
+      "documents": [
+          {
+            "eprintid": 14271,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27328",
+            "pos": 1,
+            "format": "text",
+            "main": "proceedingswarm005.pdf",
+            "docid": 27328,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "9dd4aff80806afa2f555628231aa3404",
+                  "datasetid": "document",
+                  "fileid": 123874,
+                  "mtime": "2019-09-17 05:07:18",
+                  "hash_type": "MD5",
+                  "filename": "proceedingswarm005.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/123874",
+                  "filesize": 3614048,
+                  "objectid": 27328
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "creators": [
+        {
+          "id": "bagus.sapto@eng.unila.ac.id",
+          "name": {
+            "given": "sapto",
+            "family": "bagus",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "suharno@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suharno",
+            "given": "Suharno"
+          }
+        },
+        {
+          "name": {
+            "given": "Rustadi",
+            "family": "Rustadi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rustadi_2007@yahoo.com"
+        }
+      ],
+      "type": "article",
+      "title": "ANALISIS GEOFISIKA GEMPA SWARM KEMILING",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "QE"
+      ],
+      "abstract": "Telah dilakukan penelitian yang terjadi di wilayah Bandar Lampung dan sekitarnya pada tanggal 17 Juni hingga 26 Juli 2006. Penelitian bertujuan untuk mengetahui posisi dan pola penyebaran episenter, magnetudo, kedalaman hiposenter, jenis gempa yang terjadi serta bahwa distribusi episenter gempa menyebar di sekitar Gunung Betung membentang pada lintang -4.96o LS hingga -5.59o LS dan bujur 105.13o BT hingga 105.25o BT, sedangkan kedalaman pusat - pusat gempa mulai 6 km hingga 15 km. Kekuatan gempa bervariasi mulai dari skala 1 hingga 4 skala Ritcher, dimana 333 kali dapat dirasakan dan 1611 kali tak dapat dirasakan. Hasil analisis sinyal gelombang, mengindikasikan bahwa gempa Kemiling yang terjadi kali ini termasuk gempa Swarm Vulkano-Tektonik,  sebagai akibat naiknya dyke (intrusi magma) ke atas dan membelah bagian dalam tubuh Gunung Betung. Gempa Swarm ini tidak berbahaya.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14271",
+      "date": "2006-10",
+      "dir": "disk0\/00\/01\/42\/71",
+      "publisher": "Lembaga Penelitian Unila",
+      "publication": "ANALISIS GEOFISIKA GEMPA SWARM KEMILING",
+      "divisions": [
+        "FT1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2019-09-20 08:16:03",
+      "ispublished": "pub",
+      "rev_number": 6
+    },
+    {
+      "title": "PENELITIAN AMBLESAN TANAH DI KAWASAN INDUSTRI KALIGAWE SEMARANG MENGGUNAKAN METODE GAYABERATMIKRO 4D",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "supriyadi",
+            "given": "supriyadi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Djoko",
+            "given": "Santoso"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wawan",
+            "given": "Gunawan A. Kadir"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Muhamad",
+            "given": "Sarkowi"
+          }
+        },
+        {
+          "name": {
+            "family": "Ahmad",
+            "lineage": null,
+            "honourific": null,
+            "given": "Zaenudin"
+          },
+          "id": "zaenudin7209@gmail.com"
+        }
+      ],
+      "type": "article",
+      "lastmod": "2019-04-29 07:55:08",
+      "documents": [
+          {
+            "format": "text",
+            "main": "JURNAL SAINTEK VOL.12 (2006).pdf",
+            "docid": 24117,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "8de4d3b06b63a05bef08a4e9239026ed",
+                  "fileid": 101670,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/101670",
+                  "filename": "JURNAL SAINTEK VOL.12 (2006).pdf",
+                  "filesize": 8770505,
+                  "objectid": 24117,
+                  "mtime": "2019-04-10 04:18:23",
+                  "hash_type": "MD5"
+                }
+            ],
+            "content": "published",
+            "rev_number": 3,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 11119,
+            "placement": 1,
+            "formatdesc": "Jurnal Sains dan Teknologi Lampung, Terakreditasi Dirjen DIKTI No.:56\/DIKTI\/Kep\/2005, volume 12, No. 2, Agustus 2006",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24117",
+            "pos": 1
+          }
+      ],
+      "userid": 662,
+      "number": 2,
+      "metadata_visibility": "show",
+      "pagerange": "83-90",
+      "datestamp": "2019-04-29 07:55:08",
+      "eprintid": 11119,
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "issn": "0853-733X",
+      "full_text_status": "public",
+      "status_changed": "2019-04-29 07:55:08",
+      "publisher": "Fakultas Matematika dan llmu Pengetahuan Alam, Universitas Lampung.",
+      "divisions": [
+        "FT1"
+      ],
+      "publication": "Jurnal Sains dan Teknologi Lampung, Terakreditasi Dirjen DIKTI No.:56\/DIKTI\/Kep\/2005",
+      "dir": "disk0\/00\/01\/11\/19",
+      "date": "2006-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11119",
+      "abstract": "The microgravity 4D research has been canied out in Kaligawe indushial area Semarang to identify subsidence. The research has been carried out two times, namely on Jun 04, Feb 05 using Lacoste & Romberg G1158 gravitymeter which is equipped by alliod to measure gravity on each station and Lacoste & Romberg G508 gravitymeter to observe he tide, The research findings indicate that the research area experience subsidence. This is indicated by time lapse microgravity value that has positive value on Jun 04 - Feb 05. Based on the vertical gradient of gravity time lapse value showed that the subsidence caused by pumping groundwater for industry will give a negative anomaly. The results of gravity measurement show that it's an effective method to identify the subsidence.\r\n\r\nKeywords : microgravity 4D, subsidence",
+      "volume": 12,
+      "corp_creators": [
+        "Jurusan Fisika Universitas Negeri Semarang",
+        "Departemen Teknik Geofisika lTB",
+        "Jurusan Fisika FMIPA Universitas Lampung"
+      ],
+      "date_type": "published",
+      "subjects": [
+        "QE"
+      ]
+    }
+]
+

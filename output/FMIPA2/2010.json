@@ -1,0 +1,1671 @@
+[
+    {
+      "event_location": "Lampung",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "hendri_busman@yahoo.com",
+          "name": {
+            "given": "Hendri",
+            "honourific": null,
+            "family": "Busman",
+            "lineage": null
+          }
+        }
+      ],
+      "title": "PEMERIKSAAN STRUKTUR HISTOLOGIS DAN FUNGSI HATI MENCIT YANG TERPAPAR MEDAN LISTRIK TEGANGAN TINGGI",
+      "refereed": "TRUE",
+      "event_dates": "8-19 Oktober 2010",
+      "userid": 703,
+      "lastmod": "2019-07-16 09:21:40",
+      "documents": [
+          {
+            "main": "Pemeriksaan Struktur Histologis dan Fungsi Hati Mencit yang Terpapar Medan Listrik Tegangan Tinggi.pdf",
+            "files": [
+                {
+                  "mtime": "2019-07-16 07:49:31",
+                  "hash_type": "MD5",
+                  "filename": "Pemeriksaan Struktur Histologis dan Fungsi Hati Mencit yang Terpapar Medan Listrik Tegangan Tinggi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/118492",
+                  "filesize": 134224,
+                  "objectid": 26576,
+                  "mime_type": "application\/pdf",
+                  "hash": "5c862cc164ab5ef3525179ed4a8b26c3",
+                  "fileid": 118492,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 26576,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 13566,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26576",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2019-07-16 09:21:40",
+      "eprintid": 13566,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "297-304",
+      "full_text_status": "public",
+      "status_changed": "2019-07-16 09:21:40",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/01\/35\/66",
+      "event_type": "conference",
+      "abstract": "Hasil penilaian sejawat sebidang atau peer review karya ilmiah: prosiding dan makalah yang dipresentasikan",
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13566",
+      "date_type": "published",
+      "subjects": [
+        "QP"
+      ],
+      "event_title": "EMINAR NASIONAL SAINS DAN TEKNOLOGI III"
+    },
+    {
+      "refereed": "TRUE",
+      "event_dates": "18-19 Oktober 2010",
+      "title": "PEMERIKSAAN STRUKTUR HISTOLOGIS DAN FUNGSI HATI MENCIT YANG TERPAPAR MEDAN LISTRIK TEGANGAN TINGGI",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "family": "Busman",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hendri"
+          },
+          "id": "hendri_busman@yahoo.com"
+        }
+      ],
+      "event_location": "Universitas Lampung",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 13644,
+      "datestamp": "2019-07-23 04:16:44",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26660",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13644,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "28. Prosiding_Saintek_III_M_Kanedi2010.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "4ca7e06528215c9b58a0db3f50ea0603",
+                  "fileid": 119081,
+                  "datasetid": "document",
+                  "mtime": "2019-07-23 02:46:04",
+                  "hash_type": "MD5",
+                  "filename": "28. Prosiding_Saintek_III_M_Kanedi2010.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119081",
+                  "filesize": 7973547,
+                  "objectid": 26660
+                }
+            ],
+            "docid": 26660,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2019-07-23 04:16:44",
+      "userid": 703,
+      "event_type": "conference",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/01\/36\/44",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2019-07-23 04:16:44",
+      "full_text_status": "public",
+      "subjects": [
+        "QP"
+      ],
+      "event_title": "Seminar Nasional Sains & TeknologiIII",
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13644",
+      "date": 2010,
+      "abstract": "similarity"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ernawiati",
+            "lineage": null,
+            "given": "Eti"
+          },
+          "id": "eti.ernawiat@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "Peer Review Efek Biomutagen Ekstrak Umbi Kembang Sungsang (Gloriosa superba L) Terhadap Viabilitas Polen dan Produksi Cabai Keriting (Capsicum annuum L)",
+      "datestamp": "2022-01-06 01:14:17",
+      "eprintid": 37650,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 463,
+      "lastmod": "2022-01-06 01:14:17",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158578",
+            "pos": 1,
+            "eprintid": 37650,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "19. Efek Biomutagen Ekstrak Umbi Kembang Sungsang (Gloriosa superba L) Terhadap Viabilitas Polen dan.pdf",
+            "docid": 158578,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/429519",
+                  "filename": "19. Efek Biomutagen Ekstrak Umbi Kembang Sungsang (Gloriosa superba L) Terhadap Viabilitas Polen dan.pdf",
+                  "filesize": 1110976,
+                  "objectid": 158578,
+                  "mtime": "2022-01-05 13:43:10",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "04ea52f18739d6f80136aeed6b190b0f",
+                  "fileid": 429519,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "publisher": "Prosiding SN SMAP 2010",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/03\/76\/50",
+      "full_text_status": "public",
+      "status_changed": "2022-01-06 01:14:17",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "QK"
+      ],
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37650"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ernawiati",
+            "honourific": null,
+            "given": "Eti"
+          },
+          "id": "eti.ernawiat@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "Peer Review Efek Biomutagen Terhadap Mitosis Sel Akar Kecambah Cabai Merah (Capsicum annum L)",
+      "datestamp": "2022-01-06 01:14:12",
+      "eprint_status": "archive",
+      "eprintid": 37647,
+      "metadata_visibility": "show",
+      "userid": 463,
+      "lastmod": "2022-01-06 01:14:12",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158575",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 37647,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "16. Efek Biomutagen Terhadap Mitosis Sel Akar Kecambah Cabai Merah (Capsicum annum L).pdf",
+            "docid": 158575,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 429498,
+                  "mime_type": "application\/pdf",
+                  "hash": "25b893c844ab3d1e366bad106607eb9c",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-05 13:35:10",
+                  "filesize": 1075753,
+                  "objectid": 158575,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/429498",
+                  "filename": "16. Efek Biomutagen Terhadap Mitosis Sel Akar Kecambah Cabai Merah (Capsicum annum L).pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "Prosiding Seminar Nasional Sains dan Teknologi-III",
+      "dir": "disk0\/00\/03\/76\/47",
+      "full_text_status": "public",
+      "status_changed": "2022-01-06 01:14:12",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "QK"
+      ],
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37647"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Eti",
+            "family": "Ernawiati",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "eti.ernawiat@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "Peer Review Keanekaragaman Dan Potensi Tumbuhan Paku Di Kampus Unila",
+      "userid": 463,
+      "documents": [
+          {
+            "format": "text",
+            "main": "17. Keanekaragaman Dan Potensi Tumbuhan Paku Di Kampus Unila.pdf",
+            "docid": 158576,
+            "files": [
+                {
+                  "hash": "3d8113616f29fac10b3f568d4eb5e3d6",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 429505,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/429505",
+                  "filename": "17. Keanekaragaman Dan Potensi Tumbuhan Paku Di Kampus Unila.pdf",
+                  "objectid": 158576,
+                  "filesize": 1084207,
+                  "mtime": "2022-01-05 13:37:23",
+                  "hash_type": "MD5"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 37648,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158576"
+          }
+      ],
+      "lastmod": "2022-01-06 01:14:14",
+      "eprint_status": "archive",
+      "eprintid": 37648,
+      "datestamp": "2022-01-06 01:14:14",
+      "metadata_visibility": "show",
+      "status_changed": "2022-01-06 01:14:14",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "Prosiding Seminar Nasional Sains dan Teknologi-III",
+      "dir": "disk0\/00\/03\/76\/48",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37648",
+      "date": 2010,
+      "subjects": [
+        "QK"
+      ]
+    },
+    {
+      "subjects": [
+        "QK"
+      ],
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37646",
+      "publisher": "Prosiding Seminar Nasional Sains dan Teknologi-III",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/03\/76\/46",
+      "status_changed": "2022-01-06 01:14:09",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 37646,
+      "datestamp": "2022-01-06 01:14:09",
+      "metadata_visibility": "show",
+      "userid": 463,
+      "documents": [
+          {
+            "eprintid": 37646,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158574",
+            "format": "text",
+            "docid": 158574,
+            "main": "15. Kelainan Mitosis Sel Akar Umbi Bawang Bombay Akibat Perendaman Dalam Ekstrak Umbi Kembang Sungsa.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-05 13:31:49",
+                  "objectid": 158574,
+                  "filesize": 1070300,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/429491",
+                  "filename": "15. Kelainan Mitosis Sel Akar Umbi Bawang Bombay Akibat Perendaman Dalam Ekstrak Umbi Kembang Sungsa.pdf",
+                  "datasetid": "document",
+                  "fileid": 429491,
+                  "hash": "ea6d62b90a474079c592ac8457ce8953",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2022-01-06 01:14:09",
+      "creators": [
+        {
+          "id": "eti.ernawiat@fmipa.unila.ac.id",
+          "name": {
+            "family": "Ernawiati",
+            "lineage": null,
+            "honourific": null,
+            "given": "Eti"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Peer Review Kelainan Mitosis Sel Akar Umbi Bawang Bombay Akibat Perendaman Dalam Ekstrak Umbi Kembang Sungsang (Gloriosa superba L)"
+    },
+    {
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37649",
+      "subjects": [
+        "QK"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-01-06 01:14:16",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "Prosiding SN SMAP 2010",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/03\/76\/49",
+      "userid": 463,
+      "lastmod": "2022-01-06 01:14:16",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 37649,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158577",
+            "pos": 1,
+            "security": "public",
+            "docid": 158577,
+            "main": "18. Pemanfaatan Umbi Kembang Sungsang (Gloriosa superba L) Dalam Menekan Perkembangan Jamur Colletot.pdf",
+            "files": [
+                {
+                  "filesize": 1080646,
+                  "objectid": 158577,
+                  "filename": "18. Pemanfaatan Umbi Kembang Sungsang (Gloriosa superba L) Dalam Menekan Perkembangan Jamur Colletot.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/429512",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-05 13:39:51",
+                  "datasetid": "document",
+                  "fileid": 429512,
+                  "mime_type": "application\/pdf",
+                  "hash": "efbc73a66a70d9cec4332c03f116dbb8"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2022-01-06 01:14:16",
+      "eprintid": 37649,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "id": "eti.ernawiat@fmipa.unila.ac.id",
+          "name": {
+            "given": "Eti",
+            "honourific": null,
+            "family": "Ernawiati",
+            "lineage": null
+          }
+        }
+      ],
+      "title": "Peer Review Pemanfaatan Umbi Kembang Sungsang (Gloriosa superba L) Dalam Menekan Perkembangan Jamur Colletotricum Capsici Penyebab Penyakit Antraknosa Pada Tanaman Cabai Keriting (Capsicum annuum L)"
+    },
+    {
+      "title": "Peer Review Pengaruh Ekstrak Daun Kembang Sungsang (Gloriosa superba L) Terhadap Indeks Mitosis Sel Akar Kecambah Produksi Cabai Merah (Capsicum annuum L)",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ernawiati",
+            "honourific": null,
+            "given": "Eti"
+          },
+          "id": "eti.ernawiat@fmipa.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 37651,
+      "datestamp": "2022-01-06 01:14:19",
+      "documents": [
+          {
+            "format": "text",
+            "main": "20. Pengaruh Ekstrak Daun Kembang Sungsang (Gloriosa superba L) Terhadap Indeks Mitosis Sel Akar Kec.pdf",
+            "docid": 158579,
+            "files": [
+                {
+                  "mtime": "2022-01-05 13:46:31",
+                  "hash_type": "MD5",
+                  "filename": "20. Pengaruh Ekstrak Daun Kembang Sungsang (Gloriosa superba L) Terhadap Indeks Mitosis Sel Akar Kec.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/429526",
+                  "objectid": 158579,
+                  "filesize": 1081824,
+                  "mime_type": "application\/pdf",
+                  "hash": "21490a6fb42eca4dd3bc8f88eb308760",
+                  "fileid": 429526,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 37651,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158579"
+          }
+      ],
+      "lastmod": "2022-01-06 01:14:19",
+      "userid": 463,
+      "publisher": "Prosiding SN SMAP 2010",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/03\/76\/51",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2022-01-06 01:14:19",
+      "full_text_status": "public",
+      "subjects": [
+        "QK"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37651",
+      "date": 2010
+    },
+    {
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "mailto:etiernawiati@gmail.com",
+          "name": {
+            "given": "Eti",
+            "lineage": null,
+            "family": "Eti Ernawiati",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Wahyu",
+            "honourific": null,
+            "family": "Sri Wahyuningsih",
+            "lineage": null
+          },
+          "id": "mailto:wahyu6125@yahoo.co.id"
+        },
+        {
+          "id": "yoelisoeradji@yahoo.co.id",
+          "name": {
+            "family": "Yulianty",
+            "lineage": null,
+            "honourific": null,
+            "given": "yuli"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "title": "EFEK BIOMUTAGEN TERHADAP MITOSIS SEL  \r\nAKAR KECAMBAH CABAI MERAH(CAPSICUM ANNUM L.)",
+      "event_dates": "18-19 Oktober 2010",
+      "refereed": "TRUE",
+      "event_location": "Lembaga Penelitian – Universitas Lampung Bandar Lampung",
+      "datestamp": "2020-11-16 01:52:55",
+      "eprint_status": "archive",
+      "eprintid": 25268,
+      "metadata_visibility": "show",
+      "pagerange": "137-140",
+      "userid": 463,
+      "lastmod": "2020-11-16 01:52:55",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39048",
+            "pos": 1,
+            "eprintid": 25268,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "STK1017_ Eti E_Bio.pdf",
+            "docid": 39048,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "7df63d2913a908418eb840dacad490b4",
+                  "datasetid": "document",
+                  "fileid": 228309,
+                  "mtime": "2020-11-14 20:43:46",
+                  "hash_type": "MD5",
+                  "filename": "STK1017_ Eti E_Bio.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/228309",
+                  "filesize": 185541,
+                  "objectid": 39048
+                }
+            ]
+          }
+      ],
+      "dir": "disk0\/00\/02\/52\/68",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "event_type": "other",
+      "full_text_status": "public",
+      "status_changed": "2020-11-16 01:52:55",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "event_title": "Seminar Nasional Sains & Teknologi – III",
+      "subjects": [
+        "QK"
+      ],
+      "abstract": "Umbi kembang sungsang (Gloriosa superba L) mengandung senyawa aktif\r\nalkaloid kollkisin yang cukup besar, sekitar 0,1 – 0,8 %,  Kandungan kolkisin yang\r\ncukup besar ini dapat dimanfaatkan sebagai biomutagen yang sangat prosepktif\r\ndalam menghambat proses mitosis dan  terbentuknya sel poliploid. Penelitian ini\r\nbertujuan untuk mendapatkan kombinasi konsentrasi dan waktu perendaman\r\nyang optimum untuk menghambat mitosis (antimitosis). Metode pembuatan\r\nekstrak menggunakan metode ekstraksi dan pembuatan larutan untuk perlakuan\r\ndengan metode pengenceran.  Preparasi mitosis menggunakan metode squash.\r\nPenelitian disusun secara faktorial dalam rancangan acak kelompok (RAK)\r\ndengan 4 ulangan. Faktor pertama adalah konsentrasi ekstrak, 20, 40, 60 , 80 %\r\ndan 0 % digunakan sebagai kontrol, faktor kedua yaitu waktu perendaman, 24,\r\n48 dan 72 jam. Data yang terkumpul dianalisis menggunakan ANARA dan\r\ndilanjutkan dengan Uji DMRT. Hasil penelitian diperoleh bahwa indeks mitosis\r\ntertinggi dijumpai pada konsentrasi ekstrak 80 % dengan perendaman selama 72\r\njam, dan indeks mitosis terendah terdapat pada konsentrasi 60 % dengan\r\nperendaman selama 48 jam. Dari hasil tersebut dapat disimpulkan bahwa\r\nkonsentrasi ekstrak 60 % selama 48 jam merupakan kombinasi terbaik dalam\r\nmenghambat mitosis (antimitosis) sel akar kecambah cabai merah.\r\n\r\nKata Kunci:  Mitosis, Kolkisin, Gloriosa Superba L.",
+      "date": "2010-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25268"
+    },
+    {
+      "subjects": [
+        "QK"
+      ],
+      "event_title": "Prosiding SN SMAP 2010",
+      "date_type": "published",
+      "abstract": "Kembang sungsang (\r\nGloriosa superba L.) merupakan tanaman yang mengandung\r\nalkaloid kolkisin yang dapat digunakan sebagai biomutagen alami. Senyawa kolkisin\r\ndapat digunakan untuk menginduksi tanaman poliploid yang mempunyai ciri di antaranya\r\nukuran sel, organ, serta produksi tanamannya meningkat. Tujuan penelitian ini untuk\r\nmengetahui pengaruh ekstrak umbi kembang sungsang terhadap viabilitas polen dan\r\nproduksi buah. Selain itu juga untuk menentukan konsentrasi dan  lama perendaman\r\nbenih dalam ekstrak umbi kembang sungsang yang optimum, yang dapat meningkatkan\r\nviabilitas polen dan produksi buah cabai merah. Penelitian ini menggunakan Rancangan\r\nAcak Kelompok (RAK) dengan pola faktorial. Faktor pertama yaitu konsentrasi yang\r\nterdiri dari 5 taraf (0%, 20%, 40%, 60%, 80%) dan faktor kedua yaitu lama perendaman\r\nyang terdiri dari 3 taraf (24 jam, 48 jam, 72 jam). Masing-masing perlakuan dilakukan\r\nsebanyak 4 kali ulangan. Semua data yang diperoleh  dianalisis ragam kemudian\r\ndilanjutkan  dengan uji  DMRT pada taraf 5 %.\r\nHasil penelitian ini menunjukkan bahwa perlakuan kombinasi konsentrasi ekstrak umbi\r\nkembang sungsang 40% dan lama perendaman 24 jam yang optimum untuk\r\nmenghasilkan diameter polen terbesar dan produksi buah tertinggi atau dapat dikatakan\r\npaling meningkatkan viabilitas polen dan produksi tanaman cabai merah.\r\n\r\nKata kunci: Gloriosa superba, tanaman cabai, kolkisin",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25264",
+      "date": "2010-12",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/02\/52\/64",
+      "event_type": "other",
+      "status_changed": "2020-11-16 01:52:26",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 25264,
+      "datestamp": "2020-11-16 01:52:26",
+      "pagerange": "143-148",
+      "metadata_visibility": "show",
+      "userid": 463,
+      "documents": [
+          {
+            "eprintid": 25264,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39044",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-14 20:29:23",
+                  "objectid": 39044,
+                  "filesize": 173543,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/228281",
+                  "filename": "PROSIDING SN-SMAP 2011 _Eti.pdf",
+                  "fileid": 228281,
+                  "datasetid": "document",
+                  "hash": "585aee0d30ff23416f430fe81d1217f6",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "PROSIDING SN-SMAP 2011 _Eti.pdf",
+            "docid": 39044,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2020-11-16 01:52:26",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Eti",
+            "honourific": null,
+            "family": "Eti Ernawiati",
+            "lineage": null
+          },
+          "id": "mailto:etiernawiati@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Wahyu",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sri Wahyuningsih"
+          },
+          "id": "mailto:wahyu6125@yahoo.co.id"
+        },
+        {
+          "id": "yoelisoeradji@yahoo.co.id",
+          "name": {
+            "given": "yuli",
+            "honourific": null,
+            "family": "Yulianty",
+            "lineage": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "PENGARUH EKSTRAK DAUN KEMBANG SUNGSANG (Glorisa superb L) TERHADAP INDEKS MITOSIS SEL AKAR KECAMBAH\r\nCABAI MERAH ( Capsicum annum L)"
+    },
+    {
+      "abstract": "Sudah banyak hasil penelitian yang mengungkapkan adanya pengaruh medan listrik dan\/atau medan magnet terhadap parameter hematologis yang terkait dengan fungsi hati. Dalam rangka mengungkapkan ada tidaknya pengaruh medan elektrostatik terhadap kesehatan, yang disebabkan oleh adanya kelainan struktur dan fungsi hati, telah dilakukan percobaan menggunakan hewn uji mencit (Mus musculus L). Dua puluh empat ekor mencit jantan berumur 3 bulan\r\ndengan berat badan 30-40 gram, dibagi secara acak menjadi empat kelompok.  Keempat kelompok mencit uji itu secara berturut-turut dipaparkan pada medan listrik statik 0kV\/m (kontrol), 5kV\/m, 6kV\/m dan 7kV\/m selama 8 jam sehari\r\nuntuk 35 hari. Setelah itu, mencit didekapitasi untuk diambil darahnya, lalu dibedah untuk diambil organ hatinya. Parameter biokimia darah yang mengindikasikan fungsi hati, yaitu SGPT (Serum Glutamic-Pyruvic Transaminase) dan SGOT (Serum Glutamic-Oxalocetic Transaminase), serta hemoglobin diukur menggunakan teknik spektrofotometri. Struktur histologis organ hati dianalisis melalui preparat jaringan hati menggunakan mikroskop cahaya. Jumlah pembuluh vena yang mengalami kongesti dan proporsinya terhadap jumlah pembuluh vena total yang teramati dicatat sebagai parameter histologis hati. Data yang diperoleh memperlihatkan bahwa semua parameter biokimia darah (SGPT, SGOT, dan hemoglobin) dan parameter histologis hati (jumlah dan proporsi kongesti vena) mencit yang dipaparkan pada medan listrik 5kV\/m,\r\n6kV\/m, dan 7kV\/m tidak berbeda dengan kontrol. Dengan demikian dapat disimpulkan bahwa medan listrik tegangan tinggi tidak menimbulkan gangguan berarti pada struktur dan fungsi organ hati mencit.",
+      "corp_creators": [
+        "Jurusan Biologi Fakultas MIPA Unila",
+        "Jurusan Biologi Fakultas MIPA Unila",
+        "Jurusan Biologi Fakultas MIPA Unila"
+      ],
+      "projects": [
+        "Peran Strategis Sains dan Teknologi Dalam Mencapai Kemandirian Bangsa"
+      ],
+      "date": "2010-10-18",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 703,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 6639,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19604",
+            "security": "public",
+            "main": "25-Pemeriksaan Struktur Histologis dan Fungsi Hati Mencit Yang Terpapar Medan Listrik Tegangan Tinggi.pdf",
+            "files": [
+                {
+                  "hash": "17d7ac8657d7c484c16c178336c79910",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 61205,
+                  "mtime": "2018-03-26 02:24:09",
+                  "hash_type": "MD5",
+                  "filename": "25-Pemeriksaan Struktur Histologis dan Fungsi Hati Mencit Yang Terpapar Medan Listrik Tegangan Tinggi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61205",
+                  "filesize": 2042566,
+                  "objectid": 19604
+                }
+            ],
+            "docid": 19604,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2018-03-27 03:05:45",
+      "eprint_status": "archive",
+      "eprintid": 6639,
+      "pagerange": "297-304",
+      "event_location": "Universitas Lampung",
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "event_dates": "18 - 19 Oktober 2010",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6639",
+      "date_type": "published",
+      "event_title": "SEMINAR NASIONAL SAINS DAN TEKNOLOGI III",
+      "subjects": [
+        "QL",
+        "R1"
+      ],
+      "status_changed": "2018-03-27 03:05:45",
+      "rev_number": 10,
+      "dir": "disk0\/00\/00\/66\/39",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "funders": [
+        "Universitas Lampung",
+        "Kementerian Pendidikandan Kebudayaan",
+        "Pemerintah Provinsi Lampunng"
+      ],
+      "event_type": "conference",
+      "lastmod": "2018-03-27 03:05:45",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "wegayendi@yahoo.com",
+          "name": {
+            "given": "Mohammad",
+            "honourific": null,
+            "family": "Kanedi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Hendri",
+            "lineage": null,
+            "family": "Busman",
+            "honourific": null
+          },
+          "id": "hendri_busman@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Sutyarso",
+            "lineage": null,
+            "family": "Sutyarso",
+            "honourific": null
+          },
+          "id": "sutyarso@yahoo.co.id"
+        }
+      ],
+      "type": "conference_item",
+      "title": "PEMERIKSAAN STRUKTUR HISTOLOGIS DAN FUNGSI HATI MENCIT\r\nYANG TERPAPAR MEDAN LISTRIK TEGANGAN TINGGI"
+    },
+    {
+      "eprintid": 13468,
+      "eprint_status": "archive",
+      "datestamp": "2019-07-16 09:20:09",
+      "pagerange": "297-304",
+      "metadata_visibility": "show",
+      "userid": 703,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 13468,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26477",
+            "security": "public",
+            "main": "24..Prosiding Saintek III M Kanedi2010.pdf",
+            "docid": 26477,
+            "files": [
+                {
+                  "mtime": "2019-07-04 04:27:05",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117803",
+                  "filename": "24..Prosiding Saintek III M Kanedi2010.pdf",
+                  "filesize": 2042566,
+                  "objectid": 26477,
+                  "mime_type": "application\/pdf",
+                  "hash": "17d7ac8657d7c484c16c178336c79910",
+                  "fileid": 117803,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2019-07-16 09:20:09",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "wegayendi@yahoo.com",
+          "name": {
+            "given": "Mohammad",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kanedi"
+          }
+        },
+        {
+          "name": {
+            "given": "Hendri",
+            "family": "Busman",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "hendri_busman@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Sutyarso",
+            "family": "Sutyarso",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sutyarso@yahoo.co.id"
+        }
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "event_dates": "18-19 Oktober 2010",
+      "title": "PEMERIKSAAN STRUKTUR HISTOLOGIS DAN FUNGSI HATI MENCIT \r\nYANG TERPAPAR MEDAN LISTRIK TEGANGAN TINGGI",
+      "event_location": "Lembaga Penelitian – Universitas Lampung Bandar Lampung",
+      "event_title": "Seminar Nasional Sains & Teknologi – III",
+      "subjects": [
+        "QL"
+      ],
+      "date_type": "published",
+      "abstract": "ABSTRAK\r\n \r\nSudah banyak hasil penelitian yang mengungkapkan adanya pengaruh medan\r\nlistrik dan\/atau medan magnet terhadap parameter hematologis yang terkait\r\ndengan fungsi hati. Dalam rangka mengungkapkan ada tidaknya pengaruh\r\nmedan elektrostatik terhadap kesehatan, yang disebabkan oleh adanya kelainan\r\nstruktur dan fungsi hati, telah dilakukan percobaan menggunakan hewn uji\r\nmencit (Mus musculus L). Dua puluh empat ekor mencit jantan berumur 3 bulan\r\ndengan berat badan 30-40 gram, dibagi secara acak menjadi empat kelompok.\r\nKeempat kelompok mencit uji itu secara berturut-turut dipaparkan pada medan\r\nlistrik statik 0kV\/m (kontrol), 5kV\/m, 6kV\/m dan 7kV\/m selama 8 jam sehari\r\nuntuk 35 hari. Setelah itu, mencit didekapitasi untuk diambil darahnya, lalu\r\ndibedah untuk diambil organ hatinya. Parameter biokimia darah yang\r\nmengindikasikan fungsi hati, yaitu SGPT (Serum Glutamic-Pyruvic Transaminase)\r\ndan SGOT (Serum Glutamic-Oxalocetic Transaminase), serta hemoglobin diukur\r\nmenggunakan teknik spektrofotometri. Struktur histologis organ hati dianalisis\r\nmelalui preparat jaringan hati menggunakan mikroskop cahaya. Jumlah\r\npembuluh vena yang mengalami kongesti dan proporsinya terhadap jumlah\r\npembuluh vena total yang teramati dicatat sebagai parameter histologis hati.\r\nData yang diperoleh memperlihatkan bahwa semua parameter biokimia darah\r\n(SGPT, SGOT, dan hemoglobin) dan parameter histologis hati (jumlah dan\r\nproporsi kongesti vena) mencit yang dipaparkan pada medan listrik 5kV\/m,\r\n6kV\/m, dan 7kV\/m tidak berbeda dengan kontrol. Dengan demikian dapat\r\ndisimpulkan bahwa medan listrik tegangan tinggi tidak menimbulkan gangguan\r\nberarti pada struktur dan fungsi organ hati mencit.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13468",
+      "date": "2010-10",
+      "publisher": "Lembaga Penelitian Universitas Lampung",
+      "publication": "Seminar Nasional Sains & Teknologi – III",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/01\/34\/68",
+      "event_type": "conference",
+      "status_changed": "2019-07-16 09:20:09",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 10
+    },
+    {
+      "date": "2010-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50973",
+      "abstract": "The application of organic substance (manure) and crop diversity have positive impact on improving soil organic matter to promote plant growth and the life of soil biota. Earthworm is a member of soil biota important to enhance soil fertility and known as indicator of soil quality. The objective of this study was to know the effect of goat manure and vegetable crop rotation on the population and\r\nbiomass of earthworm. The research was conducted in privately owned young coffee plantation in Sumberjaya area, West Lampung from December 2007 to June 2009. Treatments were arranged in a split plot design where dosages of goat\r\nmanure (0, 5, and 7.5 ton\/ha) as main plot and vegetable crop rotation as subplot. The three cropping patterns were continuous planting of legume vegetable, legume followed by non legume vegetables, and continuous non legume\r\nvegetables for four consecutive seasons. Results showed that dosages of goat manure at 7.5 ton\/ha significantly increased the number and biomass of earthworm. We found three earthworm species, namely Pontoscolex corethrurus (anesic\/endogeic), Malabiria levis (endogeic) and Drawina sp. (endogeic). Continuous planting of legume vegetable (bean and yard-long bean) promoted highest number of earthworm population and biomass. The benefit of goat\r\nmanure application was not only to improve soil structure and plant nutrient absorption but also to bring in food source for earthworm.",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "SEMINAR NASIONAL KERAGAMAN HAYATI TANAH – I",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2023-05-03 06:50:27",
+      "event_type": "conference",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/09\/73",
+      "lastmod": "2023-05-03 06:50:27",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190686",
+            "eprintid": 50973,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 190686,
+            "main": "PROSIDING KEHATII 2010_murwani agus.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548462",
+                  "filename": "PROSIDING KEHATII 2010_murwani agus.pdf",
+                  "filesize": 1742399,
+                  "objectid": 190686,
+                  "mtime": "2023-05-03 02:28:35",
+                  "hash_type": "MD5",
+                  "hash": "c381de29592a5e7efac794d429397bd0",
+                  "mime_type": "application\/pdf",
+                  "fileid": 548462,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "userid": 671,
+      "metadata_visibility": "show",
+      "pagerange": "126-136",
+      "datestamp": "2023-05-03 06:50:27",
+      "eprint_status": "archive",
+      "eprintid": 50973,
+      "event_location": "Bandar Lampung",
+      "title": "PENGARUH PUPUK KANDANG DAN POLA TANAM SAYURAN DI\r\nSELA KOPI MUDA TERHADAP POPULASI DAN BIOMASSA CACING\r\nTANAH",
+      "refereed": "TRUE",
+      "event_dates": "29-30 Juni 2010",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Murwani",
+            "honourific": null,
+            "given": "Sri"
+          },
+          "id": "sri.murwani@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "lineage": null,
+            "family": "Karyanto",
+            "honourific": null
+          },
+          "id": "agus.karyanto@fp.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sri Wahyuningsih",
+            "given": "Wahyu"
+          },
+          "id": "mailto:wahyu6125@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Eti",
+            "honourific": null,
+            "lineage": null,
+            "family": "Eti Ernawiati"
+          },
+          "id": "mailto:etiernawiati@gmail.com"
+        },
+        {
+          "id": "yoelisoeradji@yahoo.co.id",
+          "name": {
+            "given": "yuli",
+            "lineage": null,
+            "family": "Yulianty",
+            "honourific": null
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "title": "EFEK BIOMUTAGEN EKSTRAK UMBI KEMBANG SUNGSANG \r\n(Gloriosa superba L.) TERHADAP VIABILITAS POLEN  DAN \r\n PRODUKSI CABAI MERAH (CAPSICUM ANNUM L.)",
+      "refereed": "TRUE",
+      "userid": 463,
+      "lastmod": "2020-11-16 01:52:19",
+      "documents": [
+          {
+            "main": "PROSIDING SN-SMAP 2011 _ Wahyu.pdf",
+            "docid": 39043,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "33c495072067263be71df298d1fad39f",
+                  "fileid": 228274,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/228274",
+                  "filename": "PROSIDING SN-SMAP 2011 _ Wahyu.pdf",
+                  "objectid": 39043,
+                  "filesize": 135733,
+                  "mtime": "2020-11-14 20:25:55",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 25263,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39043",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2020-11-16 01:52:19",
+      "eprint_status": "archive",
+      "eprintid": 25263,
+      "metadata_visibility": "show",
+      "pagerange": "143-148",
+      "full_text_status": "public",
+      "status_changed": "2020-11-16 01:52:19",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/52\/63",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "event_type": "other",
+      "abstract": "Kembang sungsang (\r\nGloriosa superba L.) merupakan tanaman yang mengandung\r\nalkaloid kolkisin yang dapat digunakan sebagai biomutagen alami. Senyawa kolkisin\r\ndapat digunakan untuk menginduksi tanaman poliploid yang mempunyai ciri di antaranya\r\nukuran sel, organ, serta produksi tanamannya meningkat. Tujuan penelitian ini untuk\r\nmengetahui pengaruh ekstrak umbi kembang sungsang terhadap viabilitas polen dan\r\nproduksi buah. Selain itu juga untuk menentukan konsentrasi dan  lama perendaman\r\nbenih dalam ekstrak umbi kembang sungsang yang optimum, yang dapat meningkatkan\r\nviabilitas polen dan produksi buah cabai merah. Penelitian ini menggunakan Rancangan\r\nAcak Kelompok (RAK) dengan pola faktorial. Faktor pertama yaitu konsentrasi yang\r\nterdiri dari 5 taraf (0%, 20%, 40%, 60%, 80%) dan faktor kedua yaitu lama perendaman\r\nyang terdiri dari 3 taraf (24 jam, 48 jam, 72 jam). Masing-masing perlakuan dilakukan\r\nsebanyak 4 kali ulangan. Semua data yang diperoleh  dianalisis ragam kemudian\r\ndilanjutkan  dengan uji  DMRT pada taraf 5 %.\r\nHasil penelitian ini menunjukkan bahwa perlakuan kombinasi konsentrasi ekstrak umbi\r\nkembang sungsang 40% dan lama perendaman 24 jam yang optimum untuk\r\nmenghasilkan diameter polen terbesar dan produksi buah tertinggi atau dapat dikatakan\r\npaling meningkatkan viabilitas polen dan produksi tanaman cabai merah.\r\n\r\nKata kunci: Gloriosa superba, tanaman cabai, kolkisin",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25263",
+      "date": "2010-12",
+      "date_type": "published",
+      "subjects": [
+        "QK"
+      ],
+      "event_title": "Prosiding SN SMAP 2010"
+    },
+    {
+      "subjects": [
+        "SF"
+      ],
+      "date_type": "published",
+      "volume": 16,
+      "abstract": "ABSTRACT\r\nThis research aims to know the presence and characterization of bacteria of Bacillus which produce\r\ncellulase in the alimentary canal of village chicken. The samples were taken from the food which has been\r\nsoftened in the proventriculus, gizzard, ampela, and food nutrients in the small intestine and feces from colon.\r\nThe result showed that the bacterium isolated was Bacillus sp AIS-1 which has the highest cellulotic index,\r\nwhich is 480. However, the enzyme activity test showed that no cellulase enzymatic activity was found when it\r\nwas growth in CMC broth media.\r\nKeywords: cellulase, chicken village, Bacillus sp AIS-1\r\nABSTRAK\r\nPenelitian ini bertujuan untuk mengetahui keberadaan bakteri Bacillus penghasil selulase pada saluran\r\npencernaan ayam kampung dan karakterisasinya. Sampel diambil dari pakan yang telah mengalami\r\npelunakan di proventrikulus, tembolok, ampela, sari-sari makanan dari usus halus dan kotoran yang berasal\r\ndari usus besar ayam kampung. Hasil isolasi menunjukkan terdapat bakteri Bacillus sp AIS-1 yang memiliki\r\nindeks selulolitik paling tinggi yaitu sebesar 480. Namun dari dari hasil uji aktivitas enzimnya ternyata tidak\r\nditemukan aktivitas enzim selulase.ketika ditumbuhkan dalam media CMC broth.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7482",
+      "date": "2010-04",
+      "publisher": "FMIPA Unila",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publication": "J. Sains MIPA",
+      "dir": "disk0\/00\/00\/74\/82",
+      "status_changed": "2018-06-22 03:53:45",
+      "issn": "1978-1873",
+      "full_text_status": "none",
+      "ispublished": "pub",
+      "rev_number": 5,
+      "eprintid": 7482,
+      "id_number": 1,
+      "eprint_status": "archive",
+      "datestamp": "2018-06-22 03:53:45",
+      "pagerange": "62-68",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 965,
+      "lastmod": "2018-06-22 03:53:45",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/sains\/article\/view\/237\/pdf",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sumardi",
+            "lineage": null,
+            "given": "Sumardi"
+          },
+          "id": "sumardi_bio@yahoo.co.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ekowati",
+            "given": "Christina Nugroho"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Dwi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Haryani"
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "ISOLASI Bacillus PENGHASIL SELULASE DARI SALURAN PENCERNAAN AYAM KAMPUNG"
+    },
+    {
+      "official_url": "http:\/\/jurnal.uajy.ac.id\/biota\/2011\/08\/05\/volume-15-no-1-tahun-2010\/",
+      "lastmod": "2016-11-18 07:42:50",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 1217,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1094",
+            "security": "public",
+            "main": "10. Sutyarso_Jurnal Biota Vol 15 No 1 2010.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "11892dfb761e761fa408ac0069cf2ede",
+                  "datasetid": "document",
+                  "fileid": 8145,
+                  "mtime": "2016-11-18 06:18:42",
+                  "hash_type": "MD5",
+                  "filename": "10. Sutyarso_Jurnal Biota Vol 15 No 1 2010.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8145",
+                  "objectid": 1094,
+                  "filesize": 3314858
+                }
+            ],
+            "docid": 1094,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 618,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "31-40",
+      "datestamp": "2016-11-18 07:42:50",
+      "eprint_status": "archive",
+      "eprintid": 1217,
+      "title": "PENGARUH TEPUNG KEDELAI KAYA ISOFLAVON TERHADAP TESTOSTERON SERUM, JUMLAH SEL LEYDIG DAN JUMLAH SEL SPERMATOGENIC PADA TUBULI SEMINIFERI TESTIS TIKUS (Rattus norvegicus)",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "astuti_thp@unila.ac.id",
+          "name": {
+            "family": "Sussy",
+            "lineage": null,
+            "honourific": null,
+            "given": "Astuti"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutyarso",
+            "given": "Sutyarso"
+          },
+          "id": "sutyarso@yahoo.co.id"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1217",
+      "date": "2010-11-30",
+      "abstract": "The objective of this experiment was to evaluate the effects of isoflavone-riched soybean flour with different levels of isoflavone on testosterone level, total Leydig cells, and total spermatogenic cells in the seminiferous tubules of female rats.  Dies was given as isonitrogen \r\nand isocaloric with 10% of dietary protein from casein.  Twenty five male of Sprague Dawley weaning rats (21 day old) were divided into five groups and treated with isoflavone-riched soybean flour by oral administration with different levels (dosages).  The treatment was conducted \r\nfor 2 months.  The treatment of isoflavone-riched soybean floyr with higher dosage of isoflavone increased the Testosterone levels in the serum and the total Leydig cells in the seminiferous tubules of male rats.  The optimum dosage of isoflavone was 1.5 mg\/day resulted in the highest total spermatogenic celss of rats testes.  The treatment isoflavone-riched soybean flour with 1.5 mg isoflavone\/day on male rats resulted in the testosterone level of 2.6±0.45 mg\/ml, total Leydig celss 70.22±9.34; while the number of spermatogonia, spermatocytes, early spermatids, late spermatids, and total spermatogenic cells were 44.44±4.82, 60.00±3.43, 221.56±16.12, 164.33±17.94, and 494.33±32.984 respectively.",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Fakultas MIPA Universitas Lampung"
+      ],
+      "volume": 15,
+      "date_type": "completed",
+      "subjects": [
+        "R1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "issn": "0853-8670",
+      "status_changed": "2016-11-18 07:42:50",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "publisher": "Universitas Atma Jaya Yogyakarta",
+      "publication": "Biota",
+      "dir": "disk0\/00\/00\/12\/17"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Hubungan Antara Lama Manggunakan Ponsel Dengan Jumlah dan Kualitas Spermatozoa pada Laki-laki Fertil.",
+      "type": "article",
+      "creators": [
+        {
+          "id": "sutyarso@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Sutyarso",
+            "lineage": null,
+            "given": "Sutyarso"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "eprintid": 1344,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1220",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filename": "11. Sutyarso_Majalah Kedokteran Indonesia 2010_SCAN.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9031",
+                  "objectid": 1220,
+                  "filesize": 2234557,
+                  "mtime": "2016-12-28 01:49:25",
+                  "hash_type": "MD5",
+                  "hash": "d6f7464aa2db15a7cd3aae415a265fce",
+                  "mime_type": "application\/pdf",
+                  "fileid": 9031,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "11. Sutyarso_Majalah Kedokteran Indonesia 2010_SCAN.pdf",
+            "docid": 1220,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2016-12-29 01:06:37",
+      "official_url": "http:\/\/mki.idionline.org\/",
+      "number": 3,
+      "userid": 618,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pagerange": "119-125",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 1344,
+      "datestamp": "2016-12-29 01:06:37",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2016-12-29 01:06:37",
+      "issn": "0377-1121",
+      "full_text_status": "public",
+      "publisher": "Yayasan Penerbit Ikatan Dokter Indonesia (YPIDI) Jakarta",
+      "publication": "Majalah Kedokteran Indonesia",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/00\/13\/44",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1344",
+      "date": 2010,
+      "corp_creators": [
+        "Jurusan Biologi Fakultas MIPA Universitas Lampung"
+      ],
+      "volume": 60,
+      "abstract": "Studi ini bertujuan mempelajari hubungan antara lamanya menggunakan ponsel dengan jumlah dan kualitas spermatozoa dari laki-laki fertil pengguna ponsel. Studi ini mensurvei 90 laki-laki fertil pengguna ponsel antara 1-15 tahun, yang sebelumnya telah dijelaskan tentang tujuan dan manfaat serta menyatakan bersedia dalam penelitian. Subjek\r\nkemudian dikelompokkan ke dalam tiga kelompok berdasarkan lamanya menggunakan ponsel, masing-masing 30 laki-laki fertil. Kelompok pertama, yang telah menggunakan ponsel antara 1-5 tahun; kelompok kedua, menggunakan ponsel antara 6-10 tahun; dan kelompok ketiga, menggunakan ponsel antara 11-15 tahun. Studi deskriptif ini dilakukan dengan pendekatan cross-sectional. Subjek kemudian diminta\/diambil semennya untuk keperluan analisis semen yaitu jumlah spermatozoa, dan kualitas spermatozoa yang meliputi viabilitas, motilitas, morfologi, dan integritas membran spermatozoa. Hasil studi menunjukkan bahwa tidak ada korelasi antara lama menggunakan ponsel dengan volume semen (r = 0,02; P>0,05); ada korelasi lemah antara lama menggunakan ponsel dengan menurunnya jumlah spermatozoa (r = -0,31; P<0,05), dan viabilitas spermatozoa (r = -0,30; P<0,05). Sebaliknya terdapat korelasi yang kuat dengan\r\nmotilitas spermatozoa (r = -0,47; P<0,01); morfologi spermatozoa (r = -0,49; P<0,01) dan integritas membran spermatozoa (r = -0,52; P<0,01). Dengan demikian dapat disimpulkan bahwa radiasi gelombang elektromagnetik dari ponsel dapat mengakibatkan menurunnya jumlah dan kualitas spermatozoa pada laki-laki fertil pengguna ponsel, tetapi tidak sampai menyebabkan infertil. Pada laki-laki fertil yang lebih lama menggunakan ponsel, jumlah dan kualitas spermatozoanya lebih rendah dibandingkan laki-laki fertil yang lebih baru menggunakan ponsel.",
+      "subjects": [
+        "R1"
+      ],
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "QK"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1429",
+      "date": "2010-10-18",
+      "abstract": "Penelitian keanekaragaman tumbuhan paku telah dilakukan di kampus Universitas Lampung dengan melakukan eksplorasi langsung di tempat tersebut. Penelitian ini beertujuan untuk mengetahui keanekaragaman jenis tumbuhan paku dan menggali potensinya. Hasil penelitian ini telah diperoleh dan teridentifikasi 14 jenis tumbuhan paku, yang terdiri atas 5 bangsa, 7 suku yaitu Thelypteridaceae (4 jenis), suku Pteridaceae (2 jenis), Adiantaceae (2jenis),\r\nSchizaeaceae (1 jenis), Polipodiaceae (3 jenis), dan Davalliaceae (1 jenis). Jenisjenis tumbuhan paku yang ditemukan di kampus Universitas Lampung berpotensi\r\nsebagai tanaman obat dan tanaman hias.",
+      "corp_creators": [
+        "Jurusan Biologi Fakultas MIPA Unila",
+        "Jurusan Biologi Fakultas MIPA Unila",
+        "Jurusan Biologi Fakultas MIPA Unila"
+      ],
+      "publication": "Prosiding Bagian I Seminar Nasional Sains dan Teknologi III",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/00\/14\/29",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "978-979-8510-20-5",
+      "full_text_status": "public",
+      "status_changed": "2017-02-09 09:00:00",
+      "metadata_visibility": "show",
+      "pagerange": "503-507",
+      "datestamp": "2017-02-09 09:00:00",
+      "eprintid": 1429,
+      "eprint_status": "archive",
+      "lastmod": "2017-02-09 09:00:00",
+      "documents": [
+          {
+            "eprintid": 1429,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1302",
+            "pos": 1,
+            "format": "text",
+            "main": "KEANEKARAGAMAN DAN POTENSI TUMBUHAN PAKU DI KAMPUS UNILA 2010.pdf",
+            "docid": 1302,
+            "files": [
+                {
+                  "hash": "7a9908da92a6471f054f51d9bcd246f5",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 9667,
+                  "mtime": "2017-02-07 07:32:22",
+                  "hash_type": "MD5",
+                  "filename": "KEANEKARAGAMAN DAN POTENSI TUMBUHAN PAKU DI KAMPUS UNILA 2010.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9667",
+                  "objectid": 1302,
+                  "filesize": 3233224
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 483,
+      "title": "KEANEKARAGAMAN DAN POTENSI TUMBUHAN PAKU DI KAMPUS UNILA",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "yulianti.1963@fmipa.unila.ac.id",
+          "name": {
+            "given": "Yulianty",
+            "lineage": null,
+            "family": "Yulianty",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Eti",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ernawiati"
+          },
+          "id": "eti.ernawiat@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Lande",
+            "lineage": null,
+            "honourific": null,
+            "given": "Martha L."
+          },
+          "id": "martha_lande@yahoo.com"
+        }
+      ]
+    },
+    {
+      "title": "PEMANFAATAN UMBI KEMBANG SUNGSANG ( Gloriosa superba\r\nL.) DALAM MENEKAN PERKEMBANGAN JAMUR Colletotricum\r\ncapsici PENYEBAB PENYAKIT ANTRAKNOSA PADA TANAMAN CABAI KERITING ( Capsicum annuum L.)",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "yoelisoeradji@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulianty",
+            "given": "yuli"
+          }
+        },
+        {
+          "id": "eti.ernawiat@fmipa.unila.ac.id",
+          "name": {
+            "given": "Eti",
+            "family": "Ernawiati",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "family": "Wahyuningsih",
+            "lineage": null
+          },
+          "id": "wahyu6125@yahoo.co.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2022-02-24 03:17:59",
+      "eprint_status": "archive",
+      "eprintid": 39784,
+      "lastmod": "2022-02-24 03:17:59",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161062",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 39784,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "2010_PROSIDING SN-SMAP_yuli.pdf",
+            "docid": 161062,
+            "files": [
+                {
+                  "hash": "a03942bc21d9f5d61ce32c7fbab9c719",
+                  "mime_type": "application\/pdf",
+                  "fileid": 446070,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/446070",
+                  "filename": "2010_PROSIDING SN-SMAP_yuli.pdf",
+                  "filesize": 148489,
+                  "objectid": 161062,
+                  "mtime": "2022-02-24 02:46:27",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 463,
+      "event_type": "conference",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/03\/97\/84",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2022-02-24 03:17:59",
+      "event_title": "SN SMAP 2010",
+      "subjects": [
+        "QK"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39784",
+      "date": 2010,
+      "abstract": "Penyakit antraknosa adalah penyakit yang banyak menyerang cabai, penyebab penyakit ini adalah jamur Colletotrichum capsici . Untuk mengendalikan penyakit ini banyak digunakan fungisida sintetik, namun penggunaan fungisida sintetik ini dikuatirkan dapat menimbulkan dampak negatif terhadap lingkungan. Untuk mengendalikan penyakit antraknosa dapat digunakan ekstrak botani seperti ekstrak umbi kembang sungsang.\r\nPenelitian ini bertujuan untuk mengetahui pengaruh dan mengetahui konsentrasi serta lama perendaman ekstrak umbi kembang sungsang yang optimum untuk menekan perkembangan jamur C. capsici. Analisis Statistika dilakukan terhadap Diameter Bercak, Intensitas Serangan dan Jumlah Konidia. Rancangan yang digunakan adalah Rancangan Acak Kelompok (RAK) dengan pola faktroial yang teridiri dari dua faktor yaitu faktor A (konsentrasi) terdiri atas 5 taraf konsentrasi (0, 20%, 40%, 60%, dan 80%) dan faktor B(lama perendaman) terdiri atas 3 taraf (24 jam, 48 jam, 72 jam). Berdasarkan analisis ragam dan Uji Duncan untuk Diameter Bercak yang terkecil\r\ndiperoleh dari kombinasi perlakuanA3B2 ( konsentrasi 60% dengan lama perendaman 48 jam) yaitu sebesar 0,24 cm. Untuk Intensitas Serangan lama perendaman yang terbaik adalah lama perendaman 24 jam ( B1 )sebesar 47,92%, sedangkan untuk jumlah konidia\r\nkombinasi perlakuan yang terbaik terdapat pada A3B3 (konsentrasi 60% dengan lama perendaman 72 jam) sebesar 2,07 sel\/ml (antilog 117,49 sel\/ml)"
+    },
+    {
+      "full_text_status": "public",
+      "status_changed": "2020-11-16 01:53:02",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/02\/52\/69",
+      "event_type": "other",
+      "abstract": "Penelitian keanekaragaman tumbuhan paku telah dilakukan di kampus Universitas Lampung dengan melakukan eksplorasi langsung di tempat tersebut. Penelitian ini beertujuan untuk mengetahui keanekaragaman jenis tumbuhan paku dan menggali potensinya. Hasil penelitian ini telah diperoleh dan teridentifikasi 14 jenis tumbuhan paku, yang terdiri atas 5 bangsa, 7 suku yaitu Thelypteridaceae (4 jenis), suku Pteridaceae (2 jenis), Adiantaceae (2jenis), Schizaeaceae (1 jenis), Polipodiaceae (3 jenis), dan Davalliaceae (1 jenis). Jenisjenis tumbuhan paku yang ditemukan di kampus Universitas Lampung berpotensi sebagai tanaman obat dan tanaman hias.\r\n\r\n\r\nKata Kunci: Keanekaragaman,TumbuhanPaku,Universitas Lampung",
+      "date": "2010-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25269",
+      "date_type": "published",
+      "subjects": [
+        "QK"
+      ],
+      "event_title": "Seminar Nasional Sains & Teknologi – III",
+      "event_location": "Lembaga Penelitian – Universitas Lampung Bandar Lampung",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "yoelisoeradji@yahoo.co.id",
+          "name": {
+            "given": "yuli",
+            "family": "Yulianty",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Eti Ernawiati",
+            "given": "Eti"
+          },
+          "id": "mailto:etiernawiati@gmail.com"
+        },
+        {
+          "id": "marthaluluslande@gmai.com",
+          "name": {
+            "family": "Martha",
+            "lineage": null,
+            "honourific": null,
+            "given": "Lulus Lande"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "title": "KEANEKARAGAMAN DAN POTENSI TUMBUHAN PAKU DI KAMPUS UNILA",
+      "event_dates": "18-19 Oktober 2010",
+      "refereed": "TRUE",
+      "userid": 463,
+      "lastmod": "2020-11-16 01:53:02",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 39049,
+            "main": "STK1054_Yuli_Bio.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "cf057def04bd63efb635e34e855efbda",
+                  "fileid": 228316,
+                  "datasetid": "document",
+                  "mtime": "2020-11-14 20:47:08",
+                  "hash_type": "MD5",
+                  "filename": "STK1054_Yuli_Bio.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/228316",
+                  "filesize": 171296,
+                  "objectid": 39049
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39049",
+            "pos": 1,
+            "eprintid": 25269,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2020-11-16 01:53:02",
+      "eprintid": 25269,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "503-507"
+    },
+    {
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "yoelisoeradji@yahoo.co.id",
+          "name": {
+            "given": "yuli",
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulianty"
+          }
+        },
+        {
+          "id": "mailto:etiernawiati@gmail.com",
+          "name": {
+            "given": "Eti",
+            "honourific": null,
+            "lineage": null,
+            "family": "Eti Ernawiati"
+          }
+        },
+        {
+          "name": {
+            "given": "Wahyu",
+            "family": "Sri Wahyuningsih",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "mailto:wahyu6125@yahoo.co.id"
+        }
+      ],
+      "type": "conference_item",
+      "title": "PENGARUH EKSTRAK DAUN KEMBANG SUNGSANG (Glorisa superb L) TERHADAP INDEKS MITOSIS SEL AKAR KECAMBAH\r\nCABAI MERAH ( Capsicum annum L)",
+      "refereed": "TRUE",
+      "userid": 463,
+      "lastmod": "2020-11-16 01:52:34",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39045",
+            "eprintid": 25265,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 39045,
+            "main": "PROSIDING SN-SMAP 2011_yuli.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "a03942bc21d9f5d61ce32c7fbab9c719",
+                  "datasetid": "document",
+                  "fileid": 228288,
+                  "mtime": "2020-11-14 20:31:42",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/228288",
+                  "filename": "PROSIDING SN-SMAP 2011_yuli.pdf",
+                  "filesize": 148489,
+                  "objectid": 39045
+                }
+            ]
+          }
+      ],
+      "datestamp": "2020-11-16 01:52:34",
+      "eprint_status": "archive",
+      "eprintid": 25265,
+      "metadata_visibility": "show",
+      "pagerange": "143-148",
+      "full_text_status": "public",
+      "status_changed": "2020-11-16 01:52:34",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/02\/52\/65",
+      "event_type": "other",
+      "abstract": "Penyakit antraknosa adalah penyakit yang banyak menyerang cabai, penyebab penyakit\r\nini adalah jamur Colletotrichum capsici . Untuk mengendalikan penyakit ini banyak\r\ndigunakan fungisida sintetik, namun penggunaan fungisida sintetik ini dikuatirkan dapat\r\nmenimbulkan dampak negatif terhadap lingkungan. Untuk mengendalikan penyakit\r\nantraknosa dapat digunakan ekstrak botani seperti ekstrak umbi kembang sungsang.\r\nPenelitian ini bertujuan untuk  mengetahui pengaruh dan mengetahui konsentrasi serta \r\nlama perendaman  ekstrak umbi kembang sungsang yang optimum untuk  menekan\r\nperkembangan jamur\r\nC. capsici. Analisis Statistika dilakukan terhadap Diameter Bercak,\r\nIntensitas Serangan dan Jumlah Konidia. Rancangan yang digunakan adalah Rancangan\r\nAcak Kelompok (RAK) dengan pola faktroial yang teridiri dari dua faktor yaitu faktor A\r\n(konsentrasi) terdiri atas 5 taraf konsentrasi (0, 20%, 40%, 60%, dan 80%) dan faktor\r\nB(lama perendaman) terdiri atas 3 taraf (24 jam, 48 jam, 72 jam).   \r\nBerdasarkan analisis ragam dan Uji Duncan untuk Diameter Bercak yang terkecil \r\ndiperoleh dari kombinasi perlakuanA3B2 ( konsentrasi 60% dengan lama perendaman 48\r\njam) yaitu sebesar 0,24 cm. Untuk Intensitas Serangan lama perendaman yang terbaik\r\nadalah lama perendaman 24 jam ( B1 )sebesar 47,92%, sedangkan untuk jumlah konidia\r\nkombinasi perlakuan yang terbaik terdapat pada A3B3 (konsentrasi 60% dengan lama\r\nperendaman 72 jam) sebesar 2,07 sel\/ml  (antilog 117,49 sel\/ml) \r\n \r\nKata Kunci :  Capsicum annuum, Colletotrichum capsici, Kembang sungsang.",
+      "date": "2010-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25265",
+      "date_type": "published",
+      "event_title": "Prosiding SN SMAP 2010",
+      "subjects": [
+        "QK"
+      ]
+    }
+]
+

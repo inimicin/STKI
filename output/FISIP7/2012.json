@@ -1,0 +1,908 @@
+[
+    {
+      "pagerange": "117-224",
+      "metadata_visibility": "show",
+      "eprintid": 13378,
+      "eprint_status": "archive",
+      "datestamp": "2019-06-14 08:07:35",
+      "documents": [
+          {
+            "main": "10.pdf",
+            "files": [
+                {
+                  "mtime": "2019-06-14 07:49:12",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117200",
+                  "filename": "10.pdf",
+                  "filesize": 1128828,
+                  "objectid": 26394,
+                  "mime_type": "application\/pdf",
+                  "hash": "8733a58b34dc7439c7b7bbe279480122",
+                  "fileid": 117200,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 26394,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 13378,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26394",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2019-06-14 08:07:35",
+      "number": 6,
+      "userid": 792,
+      "refereed": "TRUE",
+      "title": "Mediasi dalam Penyelesaian Sengketa Tanah Perkebunan Antara Perusahaan dengan Masyarakat Sekitar",
+      "creators": [
+        {
+          "id": "htyiluh@yahoo.co.id",
+          "name": {
+            "given": "Hartoyo",
+            "lineage": null,
+            "family": "Hartoyo",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13378",
+      "volume": 2,
+      "abstract": "Hasil Penilaian Sejawat Sebidang Atau Per Review Karya Ilmiah: Jurnal Ilmiah Nasional",
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "divisions": [
+        "FISIP7"
+      ],
+      "publication": "Praevia",
+      "dir": "disk0\/00\/01\/33\/78",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2019-06-14 08:07:35",
+      "full_text_status": "public",
+      "issn": "1907-8714"
+    },
+    {
+      "place_of_pub": "Bandar Lampung",
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "family": "Hartoyo",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hartoyo"
+          },
+          "id": "htyiluh@yahoo.co.id"
+        }
+      ],
+      "isbn": "978-602-17314-0-6",
+      "refereed": "TRUE",
+      "title": "Memutus Mata Rantai Konflik di Bumi Lampung",
+      "userid": 792,
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 23199,
+                  "filesize": 2005406,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/95249",
+                  "filename": "2012-Buku-Merajut Jurnalisme Damai di Lampung (10) sudah.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-16 17:07:31",
+                  "fileid": 95249,
+                  "datasetid": "document",
+                  "hash": "2dd4d7e0a7fe2f8576375fda41480ca1",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "2012-Buku-Merajut Jurnalisme Damai di Lampung (10) sudah.pdf",
+            "docid": 23199,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 10196,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23199",
+            "security": "public"
+          }
+      ],
+      "pages": 202,
+      "lastmod": "2018-11-16 17:28:53",
+      "eprintid": 10196,
+      "eprint_status": "archive",
+      "datestamp": "2018-11-16 17:28:53",
+      "pagerange": "34-53",
+      "metadata_visibility": "show",
+      "status_changed": "2018-11-16 17:28:53",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "AJI Bandar Lampung",
+      "divisions": [
+        "FISIP7"
+      ],
+      "dir": "disk0\/00\/01\/01\/96",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10196",
+      "subjects": [
+        "HM",
+        "HN"
+      ],
+      "date_type": "published",
+      "book_title": "Merajut Jurnalisme Damai di Lampung"
+    },
+    {
+      "event_title": "Seminar Hasil Penelitian dan Pengabdian masyarakat",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Hasil Penilaian Sejawat Sebidang Atau Per Review Karya Ilmiah: Prosiding dan makalah Yang Dipersentasikan",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13379",
+      "date": 2012,
+      "divisions": [
+        "FISIP7"
+      ],
+      "dir": "disk0\/00\/01\/33\/79",
+      "event_type": "conference",
+      "status_changed": "2019-06-14 08:07:58",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "eprintid": 13379,
+      "eprint_status": "archive",
+      "datestamp": "2019-06-14 08:07:58",
+      "pagerange": "94-102",
+      "metadata_visibility": "show",
+      "userid": 792,
+      "documents": [
+          {
+            "eprintid": 13379,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26395",
+            "format": "text",
+            "main": "11.pdf",
+            "docid": 26395,
+            "files": [
+                {
+                  "hash": "b7b07171d6d4299f0b827e5559f0d76b",
+                  "mime_type": "application\/pdf",
+                  "fileid": 117207,
+                  "datasetid": "document",
+                  "mtime": "2019-06-14 07:56:37",
+                  "hash_type": "MD5",
+                  "filename": "11.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117207",
+                  "objectid": 26395,
+                  "filesize": 1179119
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2019-06-14 08:07:58",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "htyiluh@yahoo.co.id",
+          "name": {
+            "given": "Hartoyo",
+            "family": "Hartoyo",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Penguatan Model Sosial Dalam Pelestarian hutan Mangrove Di Pulau Pahawang, Kecamatan Punduh Pidada, Kabupaten Pesawaran"
+    },
+    {
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13373",
+      "abstract": "Hasil penilaian Sejawat Sebidang Atau Per Review Karya Ilmiah: Jurnal Ilmiah Internasional",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "2086-7050",
+      "full_text_status": "public",
+      "status_changed": "2019-06-14 05:47:39",
+      "publication": "Jurnal masyarakat, kebudayaan dan Politik",
+      "dir": "disk0\/00\/01\/33\/73",
+      "divisions": [
+        "FISIP7"
+      ],
+      "lastmod": "2019-06-14 05:47:39",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "filesize": 1093155,
+                  "objectid": 26389,
+                  "filename": "07.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117162",
+                  "hash_type": "MD5",
+                  "mtime": "2019-06-14 05:42:06",
+                  "fileid": 117162,
+                  "datasetid": "document",
+                  "hash": "d0f07ec0c78561c9e91c248a0d2b7aa3",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "07.pdf",
+            "docid": 26389,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26389",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13373
+          }
+      ],
+      "userid": 792,
+      "metadata_visibility": "show",
+      "pagerange": "214-222",
+      "datestamp": "2019-06-14 05:47:39",
+      "eprintid": 13373,
+      "eprint_status": "archive",
+      "title": "Urgensi Kepemimpinan, Model Sosial dan Kerja Kolektif dalam Pemberdayaan Desa Mandiri Energi (Leadership Urgency, Social Capital and Collective Work of Empowemwnt of Independent Energy Village)",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Hartoyo",
+            "lineage": null,
+            "family": "Hartoyo",
+            "honourific": null
+          },
+          "id": "htyiluh@yahoo.co.id"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "divisions": [
+        "FISIP7"
+      ],
+      "publisher": "Universitas Airlangga",
+      "publication": "masyarakat, kebudayaan dan politik",
+      "dir": "disk0\/00\/01\/02\/09",
+      "status_changed": "2018-11-17 03:43:38",
+      "issn": "2086-7050",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "ispublished": "pub",
+      "subjects": [
+        "HM",
+        "HN"
+      ],
+      "date_type": "published",
+      "volume": 25,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Menariknya studi ini adalah keberhasilan komunitas desa Pesawaran Indah dalam membangun desa mandiri energi.\r\nSeperangkat sumber daya lokal dimanfaatkan secara optimal menggunakan strategi pemberdayaan Integrated\r\nCommunity Development\/ICD untuk meningkatkan kesejahteraan. Penelitian ini bertujuan, pertama, menjelaskan urgensi\r\nkepemimpinan, modal sosial dan kerja kolektif dalam pemberdayaan desa mandiri energi, dan kedua, menjelaskan\r\nbagaimana ketiga faktor tersebut dapat diperkuat menjadi lebih produktif berkaitan dengan pengembangan model\r\npemberdayaan masyarakat desa mandiri energi. Metode penelitian kualitatif digunakan dengan teknik wawancara\r\nmendalam, observasi, dokumentasi, dan diskusi kelompok terfokus. Hasil penelitian menemukan bahwa pertama,\r\nkeberhasilan dalam pemberdayaan desa mandiri energi dilakukan melalui beberapa strategi integrative dalam satu kesatuan\r\nkekuatan komunitas, yaitu menggali sumber daya alam, ﬁ sik, ﬁ nansial, dan sosial sebagai modal; mengnyinergikan\r\nsemua sumber daya untuk mewujudkan manfaat utamanya bagi kehidupan melalui pengembangan produk; meningkatkan\r\nkapasitas kerja kolektif dalam pembangunan; pengoptimalkan bekerjanya modal sosial (keanggotaan kelompok, jejaring\r\nsosial, kepercayaan dan norma sosial); dan memperkuat kapasitas kepemimpinan desa. Kedua, pengembangan model\r\npemberdayaan desa mandiri energi perlu dilakukan dengan mengembangkan pendekatan linking social capital.\r\nKata kunci: desa, pemberdayaan, kepemimpinan, modal sosial, kerja kolektif",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10209",
+      "date": 2012,
+      "creators": [
+        {
+          "id": "htyiluh@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hartoyo",
+            "given": "Hartoyo"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Krisbintoro",
+            "honourific": null,
+            "given": "Sigit"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Murdapa",
+            "honourific": null,
+            "given": "Fauzan"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Dwi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Haryono"
+          },
+          "id": "dwih_unila@yahoo.com"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Urgensi Kepemimpinan, Modal Sosial dan Kerja Kolektif dalam\r\nPemberdayaan Desa Mandiri Energi",
+      "eprintid": 10209,
+      "eprint_status": "archive",
+      "datestamp": "2018-11-17 03:43:38",
+      "pagerange": "214-222",
+      "metadata_visibility": "show",
+      "number": 3,
+      "userid": 792,
+      "documents": [
+          {
+            "format": "text",
+            "main": "Jurnal Urgensi Kepemimpinan, Modal Sosial.pdf",
+            "files": [
+                {
+                  "objectid": 27745,
+                  "filesize": 1986283,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/126845",
+                  "filename": "Jurnal Urgensi Kepemimpinan, Modal Sosial.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-10-28 06:09:04",
+                  "fileid": 126845,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "adafc4bf01a425716cf565d736a3812c"
+                }
+            ],
+            "docid": 27745,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 10209,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27745"
+          }
+      ],
+      "lastmod": "2019-10-28 06:09:04"
+    },
+    {
+      "userid": 792,
+      "lastmod": "2019-06-14 09:45:09",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26403",
+            "eprintid": 13389,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "paper.pdf",
+            "docid": 26403,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-06-14 09:42:56",
+                  "objectid": 26403,
+                  "filesize": 3809643,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117273",
+                  "filename": "paper.pdf",
+                  "datasetid": "document",
+                  "fileid": 117273,
+                  "mime_type": "application\/pdf",
+                  "hash": "8fdb8a2be68e51a42c99d0d07bcbb039"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2019-06-14 09:45:09",
+      "eprintid": 13389,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "94-103",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "htyiluh@yahoo.co.id",
+          "name": {
+            "given": "Hartoyo",
+            "lineage": null,
+            "family": "Hartoyo",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Rochana",
+            "honourific": null,
+            "given": "Erna"
+          }
+        },
+        {
+          "name": {
+            "given": "Bintang",
+            "lineage": null,
+            "family": "Wirawan",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "title": "Penguatan Model Sosial Dalam Pelestarian hutan Mangrove Di Pulau Pahawang, Kecamatan Punduh Pidada, Kabupaten Pesawaran",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13389",
+      "date": 2012,
+      "date_type": "published",
+      "event_title": "Seminar HAsil Penelitian dan Pengabdian",
+      "subjects": [
+        "AC"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2019-06-14 09:45:09",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP7"
+      ],
+      "dir": "disk0\/00\/01\/33\/89",
+      "event_type": "conference"
+    },
+    {
+      "subjects": [
+        "HM",
+        "HN"
+      ],
+      "event_title": "Seminar Hasil Penelitian dan Pengabdian Kepada Masyarakat (Dies Natalis ke 27 FISIP Universitas Lampung)",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10197",
+      "date": 2012,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "event_type": "conference",
+      "dir": "disk0\/00\/01\/01\/97",
+      "divisions": [
+        "FISIP7"
+      ],
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2018-11-16 17:34:54",
+      "full_text_status": "public",
+      "pagerange": "58-68",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 10197,
+      "datestamp": "2018-11-16 17:34:54",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23200",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 10197,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "2012- Proseding Seminar Hasil Penelitian-Penguatan Kelembagaan Lokal (6) sudah.pdf",
+            "docid": 23200,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/95257",
+                  "filename": "2012- Proseding Seminar Hasil Penelitian-Penguatan Kelembagaan Lokal (6) sudah.pdf",
+                  "filesize": 676499,
+                  "objectid": 23200,
+                  "mtime": "2018-11-16 17:14:24",
+                  "hash_type": "MD5",
+                  "hash": "c9683374d32c0c7fd6fd147daa24ce82",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 95257
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2018-11-16 17:34:54",
+      "userid": 792,
+      "event_dates": "Desember 2012",
+      "refereed": "TRUE",
+      "title": "Penguatan Kelembagaan Lokal Dalam Pengembangan Pertanian Organik di Kecamatan Metro Kibang Kabupaten Lampung Timur",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "i Gede",
+            "honourific": null,
+            "family": "Sidemen",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Hartoyo",
+            "lineage": null,
+            "family": "Hartoyo",
+            "honourific": null
+          },
+          "id": "htyiluh@yahoo.co.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Gunawan",
+            "lineage": null,
+            "family": "Budikahono",
+            "honourific": null
+          }
+        }
+      ],
+      "event_location": "Bandar Lampung"
+    },
+    {
+      "title": "Peran Ayah dalam Perkembangan Anak Balita (Studi pada Keluarga yang Memiliki Anak Balita di Kelurahan Labuhan Ratu Kecamatan Kedaton Bandar Lampung)",
+      "event_dates": "Desember 2012",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Susetyo",
+            "lineage": null,
+            "given": "Susetyo"
+          }
+        },
+        {
+          "id": "iickmaniez@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "yuni ratnasari",
+            "honourific": null,
+            "given": "YR"
+          }
+        },
+        {
+          "id": "dewiayu.hidayati@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "dewi ayu hidayati",
+            "honourific": null,
+            "given": "DAH"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "pagerange": "104-109",
+      "datestamp": "2019-04-09 02:30:54",
+      "eprintid": 10978,
+      "eprint_status": "archive",
+      "lastmod": "2019-04-09 02:30:54",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 23978,
+            "main": "peran ayah-min_compressed.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 100664,
+                  "mime_type": "application\/pdf",
+                  "hash": "b5bcbdff922d545f87de9bfb202b0fd1",
+                  "hash_type": "MD5",
+                  "mtime": "2019-03-21 08:45:33",
+                  "filesize": 2683565,
+                  "objectid": 23978,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/100664",
+                  "filename": "peran ayah-min_compressed.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 10978,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23978"
+          }
+      ],
+      "userid": 763,
+      "event_type": "conference",
+      "divisions": [
+        "FISIP7"
+      ],
+      "dir": "disk0\/00\/01\/09\/78",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "status_changed": "2019-04-09 02:30:54",
+      "date_type": "published",
+      "subjects": [
+        "HM"
+      ],
+      "event_title": "Prosiding Seminar Hasil Penelitian dan Pengabdian kepada Masyarakat",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10978",
+      "date": "2012-12",
+      "abstract": "Abstrak",
+      "corp_creators": [
+        "Jurusan Sosiologi",
+        "Jurusan Sosiologi",
+        "Jurusan Sosiologi"
+      ]
+    },
+    {
+      "pagerange": "1-3",
+      "metadata_visibility": "show",
+      "eprintid": 13169,
+      "eprint_status": "archive",
+      "datestamp": "2019-05-22 06:22:15",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2019-05-22 05:36:09",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/115639",
+                  "filename": "konstruksi.pdf",
+                  "objectid": 26170,
+                  "filesize": 554350,
+                  "mime_type": "application\/pdf",
+                  "hash": "a0ec2850a55ade68c71dbe30a0335386",
+                  "fileid": 115639,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "konstruksi.pdf",
+            "docid": 26170,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26170",
+            "pos": 1,
+            "eprintid": 13169,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2019-05-22 06:22:15",
+      "number": 1,
+      "userid": 950,
+      "refereed": "TRUE",
+      "title": "Konstruksi gender dan kesehatan reproduksi di kalangan remaja pondok pesantren",
+      "type": "article",
+      "creators": [
+        {
+          "id": "sindungharyanto@yahoo.co.id",
+          "name": {
+            "given": "sindung",
+            "lineage": null,
+            "family": "haryanto",
+            "honourific": null
+          }
+        }
+      ],
+      "subjects": [
+        "HM"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13169",
+      "date": 2012,
+      "volume": 5,
+      "abstract": "peer review",
+      "publisher": "Jurusan Sosiologi FISIP Unair",
+      "dir": "disk0\/00\/01\/31\/69",
+      "publication": "Dialektika",
+      "divisions": [
+        "FISIP7"
+      ],
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2019-05-22 06:22:15",
+      "issn": "1858-0890",
+      "full_text_status": "public"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2019-09-17 02:36:39",
+      "eprintid": 14252,
+      "eprint_status": "archive",
+      "lastmod": "2019-09-17 02:36:39",
+      "documents": [
+          {
+            "main": "Peran Ayah 1 Pak Benjamin-digabungkan.pdf",
+            "files": [
+                {
+                  "hash": "3aad82e657a17d92dc104ecb91417d46",
+                  "mime_type": "application\/pdf",
+                  "fileid": 123722,
+                  "datasetid": "document",
+                  "mtime": "2019-09-16 14:17:31",
+                  "hash_type": "MD5",
+                  "filename": "Peran Ayah 1 Pak Benjamin-digabungkan.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/123722",
+                  "objectid": 27311,
+                  "filesize": 7214073
+                }
+            ],
+            "docid": 27311,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 14252,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27311",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "userid": 976,
+      "title": "Peran Ayah dalam Perkembangan Anak Balita",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Yuni",
+            "honourific": null,
+            "family": "ratnasari",
+            "lineage": null
+          },
+          "id": "iickmaniez@yahoo.com"
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "HM"
+      ],
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14252",
+      "abstract": "Penilaian Rekan Sejawat",
+      "publication": "Prosiding Seminar Hasil Penelitian dan Pengabdian Kepada Masyarakat",
+      "publisher": "Lembaga Penelitian Universitas Lampung",
+      "divisions": [
+        "FISIP7"
+      ],
+      "dir": "disk0\/00\/01\/42\/52",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "978-602-7509-48-1",
+      "status_changed": "2019-09-17 02:36:39"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Yuni",
+            "honourific": null,
+            "family": "ratnasari",
+            "lineage": null
+          },
+          "id": "iickmaniez@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rochana",
+            "given": "Erna"
+          }
+        },
+        {
+          "id": "dewiayu.hidayati@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "HIDAYATI",
+            "given": "DEWI AYU"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Gunawan",
+            "honourific": null,
+            "family": "Budikahono",
+            "lineage": null
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "event_dates": "September 2012",
+      "refereed": "TRUE",
+      "title": "Penyuluhan Budaya sebagai Upaya Pengembangan Industri Kreatif Berbasis Kearifan Lokal (Studi di Kelurahan Pringsewu Selatan, Kecamatan Pringsewu, Kabupaten Pringsewu)",
+      "event_location": "Universitas Lampung",
+      "eprintid": 10987,
+      "eprint_status": "archive",
+      "datestamp": "2019-05-02 04:17:22",
+      "pagerange": "45-50",
+      "metadata_visibility": "show",
+      "userid": 976,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23986",
+            "pos": 1,
+            "eprintid": 10987,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 23986,
+            "main": "penyuluhan.pdf",
+            "files": [
+                {
+                  "fileid": 100721,
+                  "datasetid": "document",
+                  "hash": "2526d1c59d8d9a9d318b2b117103dcdf",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-03-22 03:49:20",
+                  "objectid": 23986,
+                  "filesize": 3120162,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/100721",
+                  "filename": "penyuluhan.pdf"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2019-05-02 04:17:22",
+      "dir": "disk0\/00\/01\/09\/87",
+      "divisions": [
+        "FISIP7"
+      ],
+      "event_type": "conference",
+      "status_changed": "2019-05-02 04:17:22",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "subjects": [
+        "HM"
+      ],
+      "event_title": "Prosiding Seminar Hasil-hasil Penelitian",
+      "corp_creators": [
+        "Jurusan Sosiologi",
+        "Jurusan Sosiologi",
+        "Jurusan Sosiologi",
+        "Jurusan Sosiologi"
+      ],
+      "abstract": "Creative industries can craeate positive business in context of people who change and improve lives.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10987",
+      "date": "2012-09"
+    }
+]
+

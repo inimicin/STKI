@@ -1,0 +1,630 @@
+[
+    {
+      "datestamp": "2023-04-06 00:53:19",
+      "eprint_status": "archive",
+      "eprintid": 49695,
+      "metadata_visibility": "show",
+      "userid": 946,
+      "lastmod": "2023-04-06 00:53:19",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189335",
+            "pos": 1,
+            "eprintid": 49695,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "UNDANGAN-SERTIFIKAT, ESTIMASI CADANGAN HIDROKARBON PADA BATUAN (08).pdf",
+            "docid": 189335,
+            "files": [
+                {
+                  "fileid": 538608,
+                  "datasetid": "document",
+                  "hash": "4f3a5ae4f6da31303ab45b0ad05f6aca",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-05 08:21:52",
+                  "filesize": 1285401,
+                  "objectid": 189335,
+                  "filename": "UNDANGAN-SERTIFIKAT, ESTIMASI CADANGAN HIDROKARBON PADA BATUAN (08).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538608"
+                }
+            ]
+          }
+      ],
+      "creators": [
+        {
+          "id": "ordas.dewanto@eng.unila.ac.id",
+          "name": {
+            "given": "Ordas",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dewanto"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "ESTIMASI CADANGAN HIDROKARBON PADA BATUAN RESERVOIR BERSIH \r\nMENGGUNAKAN METODE INTERPRETASI DAN ANALISA LOG",
+      "date_type": "published",
+      "subjects": [
+        "Q1",
+        "QE"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49695",
+      "date": "2008-09",
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat, Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/04\/96\/95",
+      "full_text_status": "public",
+      "status_changed": "2023-04-06 00:53:19",
+      "ispublished": "pub",
+      "rev_number": 8
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "Q1",
+        "QE"
+      ],
+      "date": "2008-09-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42962",
+      "abstract": "Sejarah penelitian di bidang evaluasi formasi menunjukkan banyaknya usaha dan pendekatan \r\nyang telah dilakukan untuk menciptakan suatu metode yang handal dengan tujuan mendapatkan \r\ninformasi model reservoir (misal: distribusi porositas dan saturasi fluida). Para ahli minyak \r\nmenyatakan bahwa metode logging dapat mendukung perkembangan eksplorasi hidrokarbon dan \r\ndapat mengetahui gambaran yang lengkap dari lingkungan bawah permukaan tanah, tepatnya \r\ndapat mengetahui dan menilai batuan-batuan yang mengelilingi lubang bor tersebut. Selain itu \r\nmetode ini juga dapat memberikan keterangan ke dalam lapisan yang mengandung hidrokarbon \r\nserta sejauh mana penyebaran hidrokarbon pada suatu lapisan. \r\nRiset ini menghasilkan model dua buah sumur log yang menggambarkan kondisi sumur minyak. \r\nSumur-1 dan Sumur-2 adalah merupakan dua sumur yang sama-sama produktif, karena kedua \r\nsumur tersebut memiliki lapisan permeabel yang produktif mengandung hidrokarbon. Hasil \r\nanalisis menunjukkan bahwa Sumur-1 diperkirakan memiliki cadangan hidrokarbon yang lebih \r\nbesar dibandingkan Sumur-2, yaitu dengan melihat ketebalan interval daerah yang mengandung \r\nhidrokarbon (migas). Sepanjang kedalaman 5805 ft s\/d 6995 ft pada Sumur-1, didominasi oleh \r\nbeberapa lapisan produktif yang mengandung hidrokarbon (migas). Sedangkan untuk Sumur-2, \r\nhanya memiliki dua lapisan produktif yang mengandung hidrokarbon (migas), dan juga kondisi \r\nlapisan tersebut tipis (tidak terlalu tebal atau besar). Sumur-1 mempunyai nilai saturasi fluida \r\ndan porositas yang bagus, yaitu Sw=(30.4% s\/d 90.3%), φ=(15% s\/d 40%).",
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat, Universitas Lampung",
+      "dir": "disk0\/00\/04\/29\/62",
+      "divisions": [
+        "FT1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "status_changed": "2022-07-06 01:14:54",
+      "metadata_visibility": "show",
+      "datestamp": "2022-07-06 01:14:54",
+      "eprintid": 42962,
+      "eprint_status": "archive",
+      "official_url": "https:\/\/prosidingpenelitianpengabdiansep2008.000webhostapp.com\/Prosiding_Penelitian_Pengabdian_Sep_2008.pdf",
+      "lastmod": "2022-07-06 01:14:54",
+      "documents": [
+          {
+            "eprintid": 42962,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164774",
+            "pos": 1,
+            "format": "text",
+            "main": "29. Plagiarism Checker X, PROSIDING ORDAS DEWANTO, Seminar Hasil Penelitian & Pengabdian Kepada Masyarakat September 2008.pdf",
+            "docid": 164774,
+            "files": [
+                {
+                  "fileid": 470352,
+                  "datasetid": "document",
+                  "hash": "f781c7d2b78c10297af6482685d8c7d2",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-05 09:07:10",
+                  "objectid": 164774,
+                  "filesize": 162786,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/470352",
+                  "filename": "29. Plagiarism Checker X, PROSIDING ORDAS DEWANTO, Seminar Hasil Penelitian & Pengabdian Kepada Masyarakat September 2008.pdf"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 946,
+      "title": "ESTIMASI CADANGAN HIDROKARBON PADA BATUAN RESERVOIR BERSIH \r\nMENGGUNAKAN METODE INTERPRETASI DAN ANALISA LOG",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Dewanto",
+            "honourific": null,
+            "given": "Ordas"
+          },
+          "id": "ordasdewanto@gmail.com"
+        }
+      ],
+      "type": "other"
+    },
+    {
+      "full_text_status": "public",
+      "status_changed": "2021-08-18 01:18:07",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/03\/34\/57",
+      "event_type": "conference",
+      "abstract": "Sejarah penelitian di bidang evaluasi formasi menunjukkan banyaknya usaha dan pendekatan \r\nyang telah dilakukan untuk menciptakan suatu metode yang handal dengan tujuan mendapatkan \r\ninformasi model reservoir (misal: distribusi porositas dan saturasi fluida). Para ahli minyak \r\nmenyatakan bahwa metode logging dapat mendukung perkembangan eksplorasi hidrokarbon dan \r\ndapat mengetahui gambaran yang lengkap dari lingkungan bawah permukaan tanah, tepatnya \r\ndapat mengetahui dan menilai batuan-batuan yang mengelilingi lubang bor tersebut. Selain itu \r\nmetode ini juga dapat memberikan keterangan ke dalam lapisan yang mengandung hidrokarbon \r\nserta sejauh mana penyebaran hidrokarbon pada suatu lapisan. \r\nRiset ini menghasilkan model dua buah sumur log yang menggambarkan kondisi sumur minyak. \r\nSumur-1 dan Sumur-2 adalah merupakan dua sumur yang sama-sama produktif, karena kedua \r\nsumur tersebut memiliki lapisan permeabel yang produktif mengandung hidrokarbon. Hasil \r\nanalisis menunjukkan bahwa Sumur-1 diperkirakan memiliki cadangan hidrokarbon yang lebih \r\nbesar dibandingkan Sumur-2, yaitu dengan melihat ketebalan interval daerah yang mengandung \r\nhidrokarbon (migas). Sepanjang kedalaman 5805 ft s\/d 6995 ft pada Sumur-1, didominasi oleh \r\nbeberapa lapisan produktif yang mengandung hidrokarbon (migas). Sedangkan untuk Sumur-2, \r\nhanya memiliki dua lapisan produktif yang mengandung hidrokarbon (migas), dan juga kondisi \r\nlapisan tersebut tipis (tidak terlalu tebal atau besar). Sumur-1 mempunyai nilai saturasi fluida \r\ndan porositas yang bagus, yaitu Sw=(30.4% s\/d 90.3%), φ=(15% s\/d 40%).",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33457",
+      "date": "2008-09-18",
+      "date_type": "published",
+      "subjects": [
+        "Q1",
+        "QC",
+        "QE"
+      ],
+      "event_title": "Seminar Hasil Penelitian & Pengabdian Kepada Masyarakat, September 2008",
+      "type": "conference_item",
+      "pres_type": "lecture",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Dewanto",
+            "given": "Ordas"
+          },
+          "id": "ordas.dewanto@eng.unila.ac.id"
+        }
+      ],
+      "title": "ESTIMASI CADANGAN HIDROKARBON PADA BATUAN RESERVOIR BERSIH \r\nMENGGUNAKAN METODE INTERPRETASI DAN ANALISA LOG",
+      "refereed": "TRUE",
+      "userid": 946,
+      "lastmod": "2021-08-18 01:18:07",
+      "official_url": "https:\/\/prosidingpenelitianpengabdiansep2008.000webhostapp.com\/Prosiding_Penelitian_Pengabdian_Sep_2008.pdf",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "29. PROSIDING ORDAS DEWANTO, Seminar Hasil Penelitian & Pengabdian Kepada Masyarakat September 2008.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-17 23:23:54",
+                  "objectid": 153258,
+                  "filesize": 1155396,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/396833",
+                  "filename": "29. PROSIDING ORDAS DEWANTO, Seminar Hasil Penelitian & Pengabdian Kepada Masyarakat September 2008.pdf",
+                  "fileid": 396833,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "010ef1cdc4bb0e4dc4c44f81daefe929"
+                }
+            ],
+            "docid": 153258,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153258",
+            "eprintid": 33457,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2021-08-18 01:18:07",
+      "eprintid": 33457,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "143-153"
+    },
+    {
+      "status_changed": "2022-07-18 07:34:49",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat, Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/04\/33\/50",
+      "abstract": "Sejarah penelitian di bidang evaluasi formasi menunjukkan banyaknya usaha dan pendekatan \r\nyang telah dilakukan untuk menciptakan suatu metode yang handal dengan tujuan mendapatkan \r\ninformasi model reservoir (misal: distribusi porositas dan saturasi fluida). Para ahli minyak \r\nmenyatakan bahwa metode logging dapat mendukung perkembangan eksplorasi hidrokarbon dan \r\ndapat mengetahui gambaran yang lengkap dari lingkungan bawah permukaan tanah, tepatnya \r\ndapat mengetahui dan menilai batuan-batuan yang mengelilingi lubang bor tersebut. Selain itu \r\nmetode ini juga dapat memberikan keterangan ke dalam lapisan yang mengandung hidrokarbon \r\nserta sejauh mana penyebaran hidrokarbon pada suatu lapisan. \r\nRiset ini menghasilkan model dua buah sumur log yang menggambarkan kondisi sumur minyak. \r\nSumur-1 dan Sumur-2 adalah merupakan dua sumur yang sama-sama produktif, karena kedua \r\nsumur tersebut memiliki lapisan permeabel yang produktif mengandung hidrokarbon. Hasil \r\nanalisis menunjukkan bahwa Sumur-1 diperkirakan memiliki cadangan hidrokarbon yang lebih \r\nbesar dibandingkan Sumur-2, yaitu dengan melihat ketebalan interval daerah yang mengandung \r\nhidrokarbon (migas). Sepanjang kedalaman 5805 ft s\/d 6995 ft pada Sumur-1, didominasi oleh \r\nbeberapa lapisan produktif yang mengandung hidrokarbon (migas). Sedangkan untuk Sumur-2, \r\nhanya memiliki dua lapisan produktif yang mengandung hidrokarbon (migas), dan juga kondisi \r\nlapisan tersebut tipis (tidak terlalu tebal atau besar). Sumur-1 mempunyai nilai saturasi fluida \r\ndan porositas yang bagus, yaitu Sw=(30.4% s\/d 90.3%), φ=(15% s\/d 40%).",
+      "date": "2008-09-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43350",
+      "subjects": [
+        "Q1",
+        "QE"
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "ordasdewanto@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Dewanto",
+            "lineage": null,
+            "given": "Ordas"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Estimasi Cadangan Hidrokarbon Pada Batuan Reservoir Bersih Menggunakan Metode Interpretasi Dan Analisa Log",
+      "userid": 946,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "29. PROSIDING ORDAS DEWANTO, Seminar Hasil Penelitian & Pengabdian Kepada Masyarakat September 2008.pdf",
+            "docid": 165216,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-18 04:07:59",
+                  "objectid": 165216,
+                  "filesize": 1548193,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/473539",
+                  "filename": "29. PROSIDING ORDAS DEWANTO, Seminar Hasil Penelitian & Pengabdian Kepada Masyarakat September 2008.pdf",
+                  "datasetid": "document",
+                  "fileid": 473539,
+                  "hash": "c43246ff1ae8e76f9ca28e77211f1993",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165216",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 43350
+          }
+      ],
+      "official_url": "https:\/\/prosidingpenelitianpengabdiansep2008.000webhostapp.com\/Prosiding_Penelitian_Pengabdian_Sep_2008.pdf",
+      "lastmod": "2022-07-18 07:34:49",
+      "eprint_status": "archive",
+      "eprintid": 43350,
+      "datestamp": "2022-07-18 07:34:49",
+      "metadata_visibility": "show"
+    },
+    {
+      "dir": "disk0_bak\/00\/04\/96\/98",
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat, Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-04-06 00:53:34",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "Q1",
+        "QE"
+      ],
+      "date": 2008,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49698",
+      "creators": [
+        {
+          "id": "ordas.dewanto@eng.unila.ac.id",
+          "name": {
+            "given": "Ordas",
+            "family": "Dewanto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "MENENTUKAN KONDISI BATUAN ORGANIK DI DAERAH ‘X’ \r\nSUMATERA TENGAH, BERDASARKAN ESTIMASI \r\nKAPASITAS TERMAL BATUAN RESERVOAR",
+      "datestamp": "2023-04-06 00:53:34",
+      "eprint_status": "archive",
+      "eprintid": 49698,
+      "metadata_visibility": "show",
+      "userid": 946,
+      "lastmod": "2023-04-06 00:53:34",
+      "documents": [
+          {
+            "eprintid": 49698,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189338",
+            "pos": 1,
+            "format": "text",
+            "main": "UNDANGAN DAN SERTIFIKAT, MENENTUKAN KONDISI BATUAN ORGANIK DI DAERAH ‘X’ SUMATERA TENGAH, BERDASARKAN ESTIMASI (08).pdf",
+            "docid": 189338,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "1bdadf241a117afefa9c3029072a37c1",
+                  "datasetid": "document",
+                  "fileid": 538637,
+                  "mtime": "2023-04-05 08:42:36",
+                  "hash_type": "MD5",
+                  "filename": "UNDANGAN DAN SERTIFIKAT, MENENTUKAN KONDISI BATUAN ORGANIK DI DAERAH ‘X’ SUMATERA TENGAH, BERDASARKAN ESTIMASI (08).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538637",
+                  "objectid": 189338,
+                  "filesize": 4868757
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153210",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 33449,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "33. Prosiding Ordas Dewanto, Seminar Nasional Sains dan Teknologi, 17- 18 November 2008.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-08-17 12:58:49",
+                  "objectid": 153210,
+                  "filesize": 3394021,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/396731",
+                  "filename": "33. Prosiding Ordas Dewanto, Seminar Nasional Sains dan Teknologi, 17- 18 November 2008.pdf",
+                  "fileid": 396731,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "ec74527c2db3f311e39e42288e30146c"
+                }
+            ],
+            "docid": 153210,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2021-08-18 01:17:48",
+      "official_url": "https:\/\/prosidingsemnassainsdanteknologi17-18nov2008.000webhostapp.com\/Prosiding_Semnas_Sains_dan_Teknologi_17-18_Nov_2008.pdf",
+      "userid": 946,
+      "pagerange": "132-141",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 33449,
+      "datestamp": "2021-08-18 01:17:48",
+      "refereed": "TRUE",
+      "title": "MENENTUKAN KONDISI BATUAN ORGANIK DI DAERAH ‘X’ \r\nSUMATERA TENGAH, BERDASARKAN ESTIMASI \r\nKAPASITAS TERMAL BATUAN RESERVOAR",
+      "creators": [
+        {
+          "id": "ordas.dewanto@eng.unila.ac.id",
+          "name": {
+            "given": "Ordas",
+            "family": "Dewanto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "pres_type": "lecture",
+      "type": "conference_item",
+      "date": "2008-11-17",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33449",
+      "abstract": "Usaha membangun sebuah metodologi atas penggunaan data akustik laboratorium \r\nuntuk tujuan estimasi kondisi batuan reservoar di cekungan-cekungan sedimen di Indonesia \r\ntelah dilaksanakan dengan baik. Penelitian tersebut mendasari riset yang dilakukan ini, yaitu \r\ndengan menggunakan konsep dasar aliran panas bumi (terrestrial heat flow), yang didukung \r\ndengan data-data geologi, data core (petrofisika), data log dan data geokimia. Dari hasil \r\npengukuran dan analisa perubahan sifat-sifat fisika dan kimia batuan di laboratorium, dapat \r\nditurunkan beberapa metode penentu perubahan material organik dan parameter sifat-sifat \r\nelastik yang akan dipakai sebagai indikator untuk memprediksi kondisi batuan oragnik dan \r\nmembantu kegiatan eksplorasi. Diharapkan dari penelitian ini akan diperoleh hasil yang cukup \r\nakurat dan lebih jelas dalam memahami persoalan-persoalan pada kegiatan eksplorasi \r\nhidrokarbon. Peneliti menghitung kapasitas termal yang dimodifikasi dengan memasukkan \r\nparameter termal, sehingga total termal pada suatu ruang batuan ini menjadi dasar untuk \r\nmengetahui kondisi batuan organik tersebut. Pada setiap sumur diperoleh dua harga kapasitas \r\ntermal, yaitu berdasarkan konduktivitas panas batuan hasil pengukuran di laboratorium dan \r\nberdasarkan konduktivitas panas batuan hasil perhitungan menggunakan parameter petrofisika \r\n(φ)",
+      "subjects": [
+        "Q1",
+        "QC",
+        "QE"
+      ],
+      "event_title": "Seminar Nasional Sains dan Teknologi II, 17-18 Nov 2008",
+      "date_type": "published",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "status_changed": "2021-08-18 01:17:48",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "dir": "disk0\/00\/03\/34\/49",
+      "divisions": [
+        "FT1"
+      ]
+    },
+    {
+      "publisher": "Lembaga Penelitian, Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/04\/29\/16",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "status_changed": "2022-07-05 02:22:16",
+      "full_text_status": "public",
+      "subjects": [
+        "QC",
+        "QE"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42916",
+      "date": "2008-11-17",
+      "abstract": "Usaha membangun sebuah metodologi atas penggunaan data akustik laboratorium untuk tujuan estimasi kondisi batuan reservoar di cekungan-cekungan sedimen di Indonesia telah dilaksanakan dengan baik.  Penelitian tersebut mendasari riset yang dilakukan ini, yaitu dengan menggunakan konsep dasar aliran panas bumi (terrestrial heat flow), yang didukung dengan data-data geologi, data core (petrofisika), data log dan data geokimia. Dari hasil pengukuran dan analisa perubahan sifat-sifat fisika dan kimia batuan di laboratorium, dapat diturunkan beberapa metode penentu perubahan material organik dan parameter sifat-sifat elastik yang akan dipakai sebagai indikator untuk memprediksi kondisi batuan oragnik dan membantu kegiatan eksplorasi.  Diharapkan dari penelitian ini akan diperoleh hasil yang cukup akurat dan lebih jelas dalam memahami persoalan-persoalan pada kegiatan eksplorasi hidrokarbon. Peneliti menghitung kapasitas termal yang dimodifikasi dengan memasukkan parameter termal, sehingga total termal pada suatu ruang batuan ini menjadi dasar untuk mengetahui kondisi batuan organik tersebut.  Pada setiap sumur diperoleh dua harga kapasitas termal, yaitu berdasarkan konduktivitas panas batuan hasil pengukuran di laboratorium dan berdasarkan konduktivitas panas batuan hasil perhitungan menggunakan parameter petrofisika (φ).",
+      "title": "MENENTUKAN KONDISI BATUAN ORGANIK DI DAERAH ‘X’ SUMATERA TENGAH, BERDASARKAN ESTIMASI  KAPASITAS TERMAL BATUAN RESERVOAR",
+      "creators": [
+        {
+          "name": {
+            "given": "Ordas",
+            "family": "Dewanto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ordasdewanto@gmail.com"
+        }
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "eprintid": 42916,
+      "eprint_status": "archive",
+      "datestamp": "2022-07-05 02:22:16",
+      "documents": [
+          {
+            "format": "text",
+            "main": "33. Prosiding Ordas Dewanto, Seminar Nasional Sains dan Teknologi, 17- 18 November 2008.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-05 01:02:56",
+                  "objectid": 164701,
+                  "filesize": 161901,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/469941",
+                  "filename": "33. Prosiding Ordas Dewanto, Seminar Nasional Sains dan Teknologi, 17- 18 November 2008.pdf",
+                  "datasetid": "document",
+                  "fileid": 469941,
+                  "hash": "c9d0b8f00150c342cfbb89953b1cfa00",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 164701,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 42916,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164701"
+          }
+      ],
+      "lastmod": "2022-07-05 02:22:16",
+      "official_url": "https:\/\/prosidingsemnassainsdanteknologi17-18nov2008.000webhostapp.com\/Prosiding_Semnas_Sains_dan_Teknologi_17-18_Nov_2008.pdf",
+      "userid": 946
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2022-07-22 01:04:52",
+      "eprint_status": "archive",
+      "eprintid": 43574,
+      "official_url": "https:\/\/prosidingsemnassainsdanteknologi17-18nov2008.000webhostapp.com\/Prosiding_Semnas_Sains_dan_Teknologi_17-18_Nov_2008.pdf",
+      "lastmod": "2022-07-22 01:04:52",
+      "documents": [
+          {
+            "eprintid": 43574,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165519",
+            "format": "text",
+            "docid": 165519,
+            "main": "33. Prosiding Ordas Dewanto, Seminar Nasional Sains dan Teknologi, 17- 18 November 2008.pdf",
+            "files": [
+                {
+                  "hash": "f9ff731d3e7fbd5ad30bca59df894e3f",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 475413,
+                  "mtime": "2022-07-21 08:22:25",
+                  "hash_type": "MD5",
+                  "filename": "33. Prosiding Ordas Dewanto, Seminar Nasional Sains dan Teknologi, 17- 18 November 2008.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475413",
+                  "filesize": 1533599,
+                  "objectid": 165519
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 946,
+      "title": "Menentukan Kondisi Batuan Organik Di Daerah ‘x’ Sumatera Tengah, Berdasarkan Estimasi Kapasitas Termal Batuan Reservoar",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Dewanto",
+            "honourific": null,
+            "given": "Ordas"
+          },
+          "id": "ordas.dewanto@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "subjects": [
+        "Q1",
+        "QE"
+      ],
+      "date": "2008-11-17",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43574",
+      "abstract": "Usaha membangun sebuah metodologi atas penggunaan data akustik laboratorium \r\nuntuk tujuan estimasi kondisi batuan reservoar di cekungan-cekungan sedimen di Indonesia \r\ntelah dilaksanakan dengan baik. Penelitian tersebut mendasari riset yang dilakukan ini, yaitu \r\ndengan menggunakan konsep dasar aliran panas bumi (terrestrial heat flow), yang didukung \r\ndengan data-data geologi, data core (petrofisika), data log dan data geokimia. Dari hasil \r\npengukuran dan analisa perubahan sifat-sifat fisika dan kimia batuan di laboratorium, dapat \r\nditurunkan beberapa metode penentu perubahan material organik dan parameter sifat-sifat \r\nelastik yang akan dipakai sebagai indikator untuk memprediksi kondisi batuan oragnik dan \r\nmembantu kegiatan eksplorasi. Diharapkan dari penelitian ini akan diperoleh hasil yang cukup \r\nakurat dan lebih jelas dalam memahami persoalan-persoalan pada kegiatan eksplorasi \r\nhidrokarbon. Peneliti menghitung kapasitas termal yang dimodifikasi dengan memasukkan \r\nparameter termal, sehingga total termal pada suatu ruang batuan ini menjadi dasar untuk \r\nmengetahui kondisi batuan organik tersebut. Pada setiap sumur diperoleh dua harga kapasitas \r\ntermal, yaitu berdasarkan konduktivitas panas batuan hasil pengukuran di laboratorium dan \r\nberdasarkan konduktivitas panas batuan hasil perhitungan menggunakan parameter petrofisika \r\n(φ).",
+      "dir": "disk0\/00\/04\/35\/74",
+      "publisher": "Lembaga Penelitian, Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2022-07-22 01:04:52"
+    },
+    {
+      "subjects": [
+        "QE"
+      ],
+      "date_type": "published",
+      "date": "2008-11-17",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14273",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "It has been done an investigation to determined of earthquake magnitude scale of lampung region. Investigation method is seismic earthquake used to seismograph SPS-3 telementry in Kotabumi Geophysics Station - North Lampung. Result of investigation showed that earthquake magnitude in Lampung region from 1992 to 2001 approximately 2 to 6.2 in Richter scale. The region which frequently attacked by earthquake : Liwa, Kotaagung, Teluk Semangka, Kotabumi and Tanjungkarang. The result further more can be used to plan of city layout.",
+      "dir": "disk0\/00\/01\/42\/73",
+      "publisher": "Lembaga Penelitian Unila",
+      "publication": "Penentuan Magnitudo dan Distribusi Kedalaman Gempabumi Daerah Lampung Untuk Perencanaan Tata Ruang Kota",
+      "divisions": [
+        "FT1"
+      ],
+      "rev_number": 9,
+      "ispublished": "pub",
+      "status_changed": "2019-09-20 08:16:21",
+      "full_text_status": "public",
+      "issn": "978-979-1165-0-74-7",
+      "pagerange": "V-232",
+      "metadata_visibility": "show",
+      "eprintid": 14273,
+      "eprint_status": "archive",
+      "datestamp": "2019-09-20 08:16:21",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "proceedingnmagnitudo008.pdf",
+            "docid": 27330,
+            "files": [
+                {
+                  "filesize": 2811567,
+                  "objectid": 27330,
+                  "filename": "proceedingnmagnitudo008.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/123886",
+                  "hash_type": "MD5",
+                  "mtime": "2019-09-17 05:32:58",
+                  "fileid": 123886,
+                  "datasetid": "document",
+                  "hash": "8cdbb9bed01a35b7b35f5143a81e79f0",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27330",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 14273
+          }
+      ],
+      "lastmod": "2019-09-20 08:16:22",
+      "userid": 566,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Penentuan Magnitudo dan Distribusi Kedalaman Gempabumi Daerah Lampung Untuk Perencanaan Tata Ruang Kota",
+      "type": "article",
+      "creators": [
+        {
+          "id": "bagus.sapto@eng.unila.ac.id",
+          "name": {
+            "given": "sapto",
+            "lineage": null,
+            "family": "bagus",
+            "honourific": null
+          }
+        }
+      ]
+    }
+]
+

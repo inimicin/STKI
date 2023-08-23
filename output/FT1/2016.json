@@ -1,0 +1,2640 @@
+[
+    {
+      "place_of_pub": "Jakarta",
+      "creators": [
+        {
+          "id": "ordasdewanto@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Dewanto",
+            "given": "Ordas"
+          }
+        },
+        {
+          "id": "bagusyosodiharjo@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Mulyatno",
+            "given": "Bagus Sapto"
+          }
+        },
+        {
+          "id": "sririzky1563@gmail.com",
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "family": "Rizky",
+            "lineage": null
+          }
+        },
+        {
+          "id": "alimuddin72@gmail.com",
+          "name": {
+            "given": "Alimuddin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Alimuddin"
+          }
+        }
+      ],
+      "type": "book",
+      "title": "Petrophysical Properties Analysis of Reservoir Rock Using\r\nCore Analysis and Interpretation Log Data Method To\r\nEstimated The Water Saturation (Sw) at OD-1 and OD-2\r\nWells in The X-Area",
+      "refereed": "TRUE",
+      "userid": 566,
+      "lastmod": "2017-06-05 02:29:01",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3021",
+            "pos": 1,
+            "eprintid": 3135,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 3021,
+            "main": "PITHAGI2016-218 (ORDAS DEWANTO - PROCEEDING PIT HAGI 41).pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 08:52:20",
+                  "filesize": 299467,
+                  "objectid": 3021,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21788",
+                  "filename": "PITHAGI2016-218 (ORDAS DEWANTO - PROCEEDING PIT HAGI 41).pdf",
+                  "datasetid": "document",
+                  "fileid": 21788,
+                  "mime_type": "application\/pdf",
+                  "hash": "aa5081440f8f53a9ded978ea7c5ac1c9"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2017-06-05 02:29:01",
+      "eprintid": 3135,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "status_changed": "2017-06-05 02:29:01",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "HAGI Pusat",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/00\/31\/35",
+      "abstract": "The technology developments of reservoir characterization show importance of understanding the relationships between\r\npetrophysical properties of rocks, reservoir parameters and seismic wave parameters. The goal of this study is the\r\nevaluation of reservoir condition by analyzing petrophysical properties change in reservoir rock to see the amount of Sw\r\noil and gas in OD1 and OD2 wells by using log interpretation and core analysis method. The porosity () is determined\r\nby the results of cross-plot between density log (RHOB) and porosity log (NPHI) when Sw was simply determined by\r\nusing the Archie equation. The core analysis data showed value of tortuosity factor a=1, and saturation exponent n=2 as a\r\nparameter in Sw-Archie equation. Porosity value of reservoir rock in OD1 well is 5.5% to 20%, while OD2 well is 4% to\r\n36%. This study used pickett plot method as the determination of water resistivity (Rw, Rt, Ro) on water bearing area.\r\nThe results of this research shows OD1 well with =35%, Rw=0.11m and cementation factor m=2 obtained Rt=1m\r\nand Sw=100%, Rt=1.2m and Sw=90%, Rt=1.6m and Sw=80%, Rt=4m and Sw=50%, Rt=11m and Sw=30%.\r\nWhile on OD2 well with =42%, Rw=0.13m and cementation factor m=2.3 obtained Rt=1m and Sw=100%, Rt=2m\r\nand Sw=70%, Rt=5m and Sw=45%, Rt=20m and Sw=22.4% and so on. If there is a petrophysical parameters (, Rt,\r\nRw, m or a) change, there will be also a change in the fluid saturation (Sw). The conclusion is the changes in the\r\npetrophysical properties of rocks affects Sw and Sw distribution is very important to predict the oil and gas reserve in the\r\nreservoir rock.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3135",
+      "date": "2016-09-27",
+      "date_type": "published",
+      "subjects": [
+        "QE"
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Dewanto",
+            "lineage": null,
+            "given": "Ordas"
+          },
+          "id": "ordasdewanto@gmail.com"
+        },
+        {
+          "id": "bagusyosodiharjo@yahoo.com",
+          "name": {
+            "given": "Bagus",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sapto Mulyatno"
+          }
+        },
+        {
+          "name": {
+            "given": "Sri",
+            "family": "Rizky",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sririzky1563@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Alimuddin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Alimuddin"
+          },
+          "id": "alimuddin72@gmail.com"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Petrophysical Properties Analysis of Reservoir Rock Using\r\nCore Analysis and Interpretation Log Data Method To\r\nEstimated The Water Saturation (Sw) at OD-1 and OD-2\r\nWells in The X-Area",
+      "eprintid": 3149,
+      "eprint_status": "archive",
+      "datestamp": "2017-06-05 02:25:53",
+      "metadata_visibility": "show",
+      "userid": 946,
+      "documents": [
+          {
+            "eprintid": 3149,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3040",
+            "format": "text",
+            "docid": 3040,
+            "main": "PITHAGI2016-218 (ORDAS DEWANTO - PROCEEDING PIT HAGI 41).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21883",
+                  "filename": "PITHAGI2016-218 (ORDAS DEWANTO - PROCEEDING PIT HAGI 41).pdf",
+                  "objectid": 3040,
+                  "filesize": 299467,
+                  "mtime": "2017-06-02 09:29:26",
+                  "hash_type": "MD5",
+                  "hash": "aa5081440f8f53a9ded978ea7c5ac1c9",
+                  "mime_type": "application\/pdf",
+                  "fileid": 21883,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2017-06-05 02:25:53",
+      "publisher": "PIT HAGI 41",
+      "divisions": [
+        "FT1"
+      ],
+      "publication": "Petrophysical Properties Analysis of Reservoir Rock Using Core Analysis and Interpretation Log Data Method To Estimated The Water Saturation (Sw) at OD-1 and OD-2 Wells in The X-Area",
+      "dir": "disk0\/00\/00\/31\/49",
+      "status_changed": "2017-06-05 02:25:53",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "QE"
+      ],
+      "date_type": "published",
+      "abstract": "The technology developments of reservoir characterization show importance of understanding the relationships between\r\npetrophysical properties of rocks, reservoir parameters and seismic wave parameters. The goal of this study is the\r\nevaluation of reservoir condition by analyzing petrophysical properties change in reservoir rock to see the amount of Sw\r\noil and gas in OD1 and OD2 wells by using log interpretation and core analysis method. The porosity () is determined\r\nby the results of cross-plot between density log (RHOB) and porosity log (NPHI) when Sw was simply determined by\r\nusing the Archie equation. The core analysis data showed value of tortuosity factor a=1, and saturation exponent n=2 as a\r\nparameter in Sw-Archie equation. Porosity value of reservoir rock in OD1 well is 5.5% to 20%, while OD2 well is 4% to\r\n36%. This study used pickett plot method as the determination of water resistivity (Rw, Rt, Ro) on water bearing area.\r\nThe results of this research shows OD1 well with =35%, Rw=0.11m and cementation factor m=2 obtained Rt=1m\r\nand Sw=100%, Rt=1.2m and Sw=90%, Rt=1.6m and Sw=80%, Rt=4m and Sw=50%, Rt=11m and Sw=30%.\r\nWhile on OD2 well with =42%, Rw=0.13m and cementation factor m=2.3 obtained Rt=1m and Sw=100%, Rt=2m\r\nand Sw=70%, Rt=5m and Sw=45%, Rt=20m and Sw=22.4% and so on. If there is a petrophysical parameters (, Rt,\r\nRw, m or a) change, there will be also a change in the fluid saturation (Sw). The conclusion is the changes in the\r\npetrophysical properties of rocks affects Sw and Sw distribution is very important to predict the oil and gas reserve in the\r\nreservoir rock.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3149",
+      "date": "2016-09-27"
+    },
+    {
+      "status_changed": "2017-06-02 06:44:58",
+      "full_text_status": "public",
+      "issn": "eISSN: 2502-8588",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "LPPM-UNILA",
+      "divisions": [
+        "FT1"
+      ],
+      "publication": "INSIST",
+      "dir": "disk0\/00\/00\/27\/66",
+      "volume": 1,
+      "abstract": "Changes in land use have occurred quite significant in\r\nthe city of Pekanbaru. The increasing of building spaces, the\r\ndecreasing of plantations and forests are continues to grow with the\r\nincreasing of population and industries. This means, it can cause\r\nimpact on groundwater resources. This condition shall continue in\r\neffect, along with the population and industrial growth. This means,\r\nit can cause impact on groundwater resources of Pekanbaru City,\r\nthus the analysis of groundwater zone of Pekanbaru city is needed.\r\nThe data used in this research is related with the biophysical and\r\nsocial economic. Data analysis method was using numeric\r\nsimulation programming using finite difference method. The results\r\nshowed that in 2016, its depth ranges between 16-46 m, this\r\nindicates that the unconfined aquifer was in trapped position but not\r\nincluded to the confined aquifer system. In 2017, it was predicted\r\nthat the depth is about 6-38 m, and in 2018 the depth of unconfined\r\naquifer will go deeper to 31,4-34 m. This is influenced by the\r\nchanges of population and industrial and the automation of\r\nextraction of groundwater by those population and industrial is\r\ngetting bigger. While in 2019 and 2020, the depth of the unconfined\r\naquifer will be between 41,8-44,4 m and 44-46,8 m. It was predicted\r\nthat the growth of population and industries will grow rapidly in the\r\nfuture. This rapid growth will cause the damage of the aquifer.\r\nKeywords—Zone, groundwater, numerical method.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2766",
+      "date": "2016-10",
+      "subjects": [
+        "T1"
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Muhammad",
+            "family": "Juandi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "sarkov323@yahoo.com",
+          "name": {
+            "given": "Muh",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sarkowi"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "2D Groundwater Depth for Analysis of The Zone Unconfined Aquifer",
+      "number": 1,
+      "userid": 816,
+      "documents": [
+          {
+            "eprintid": 2766,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2623",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "776a8ffd007bcd911643b1576e476c92",
+                  "mime_type": "application\/pdf",
+                  "fileid": 18923,
+                  "datasetid": "document",
+                  "mtime": "2017-06-01 07:09:48",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/18923",
+                  "filename": "Paper-Juandi-Sarkowi.pdf",
+                  "objectid": 2623,
+                  "filesize": 116005
+                }
+            ],
+            "main": "Paper-Juandi-Sarkowi.pdf",
+            "docid": 2623,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "http:\/\/insist.unila.ac.id\/index.php\/ojs\/article\/view\/10\/22",
+      "lastmod": "2017-06-02 06:44:58",
+      "id_number": "eISSN: 2502-8588",
+      "eprint_status": "archive",
+      "eprintid": 2766,
+      "datestamp": "2017-06-02 06:44:58",
+      "pagerange": "16-19",
+      "metadata_visibility": "show"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20609",
+      "date": "2016-10-01",
+      "abstract": "Changes in land use have occurred quite significant in\r\nthe city of Pekanbaru. The increasing of building spaces, the decreasing of plantations and forests are continues to grow with the increasing of population and industries. This means, it can cause impact on groundwater resources. This condition shall continue in effect, along with the population and industrial growth. This means, it can cause impact on groundwater resources of Pekanbaru City, thus the analysis of groundwater zone of Pekanbaru city is needed.\r\nThe data used in this research is related with the biophysical and social economic. Data analysis method was using numeric simulation programming using finite difference method. The results showed that in 2016, its depth ranges between 16-46 m, this indicates that the unconfined aquifer was in trapped position but not\r\nincluded to the confined aquifer system. In 2017, it was predicted that the depth is about 6-38 m, and in 2018 the depth of unconfined aquifer will go deeper to 31,4-34 m. This is influenced by the changes of population and industrial and the automation of extraction of groundwater by those population and industrial is getting bigger. While in 2019 and 2020, the depth of the unconfined aquifer will be between 41,8-44,4 m and 44-46,8 m. It was predicted\r\nthat the growth of population and industries will grow rapidly in the future. This rapid growth will cause the damage of the aquifer.",
+      "volume": 1,
+      "related_url": [
+        {
+          "url": "https:\/\/docs.google.com\/viewerng\/viewer?url=https:\/\/insist.unila.ac.id\/index.php\/ojs\/article\/viewFile\/10\/22"
+        }
+      ],
+      "divisions": [
+        "FT1"
+      ],
+      "publication": "INSIST",
+      "dir": "disk0\/00\/02\/06\/09",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2502-8588",
+      "status_changed": "2020-05-27 01:43:43",
+      "metadata_visibility": "show",
+      "pagerange": "16-19",
+      "datestamp": "2020-05-27 01:43:43",
+      "eprint_status": "archive",
+      "id_number": "DOI:10.23960\/ins.v1i1.10",
+      "eprintid": 20609,
+      "official_url": "https:\/\/insist.unila.ac.id\/index.php\/ojs\/article\/view\/10\/22",
+      "lastmod": "2020-05-27 01:43:43",
+      "documents": [
+          {
+            "eprintid": 20609,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33961",
+            "format": "text",
+            "main": "viewer_url=https_%2F%2Finsist.unila.ac.id%2Findex.php%2Fojs%2Farticle%2FviewFile%2F10%2F22",
+            "files": [
+                {
+                  "mtime": "2020-05-26 23:57:27",
+                  "hash_type": "MD5",
+                  "filename": "viewer_url=https_%2F%2Finsist.unila.ac.id%2Findex.php%2Fojs%2Farticle%2FviewFile%2F10%2F22",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/193380",
+                  "objectid": 33961,
+                  "filesize": 7780,
+                  "hash": "cf116c427cffbe3300681b425bdaddb5",
+                  "mime_type": "text\/html",
+                  "datasetid": "document",
+                  "fileid": 193380
+                }
+            ],
+            "docid": 33961,
+            "language": "en",
+            "mime_type": "text\/html",
+            "rev_number": 2
+          }
+      ],
+      "userid": 816,
+      "number": 1,
+      "title": "2D Groundwater Depth for Analysis of The Zone Unconfined Aquifer",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Juandi",
+            "given": "Muhammad"
+          },
+          "id": null
+        },
+        {
+          "id": "sarkov323@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sarkowi",
+            "given": "Muh"
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "metadata_visibility": "show",
+      "editors": [
+        {
+          "name": {
+            "given": "Safe'i",
+            "lineage": null,
+            "family": "Rahmat",
+            "honourific": null
+          },
+          "id": "mat_ane@yahoo.com"
+        }
+      ],
+      "eprintid": 2999,
+      "eprint_status": "archive",
+      "datestamp": "2017-06-05 01:24:58",
+      "pages": 15,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2879",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2999,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 2879,
+            "main": "Prosiding pengabdian nandi.pdf",
+            "files": [
+                {
+                  "hash": "cfb6d55f4ad1a246f2e6184afefb1580",
+                  "mime_type": "application\/pdf",
+                  "fileid": 20711,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20711",
+                  "filename": "Prosiding pengabdian nandi.pdf",
+                  "objectid": 2879,
+                  "filesize": 9800188,
+                  "mtime": "2017-06-02 03:36:24",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2017-06-05 01:24:58",
+      "official_url": "http:\/\/www.lppm.unila.ac.id",
+      "userid": 827,
+      "refereed": "TRUE",
+      "title": "PELATIHAN PEMBUATAN BRIKET ARANG SEKAM UNTUK KETAHANAN ENENRGI DI GABUNGAN KELOMPOK TANI DESA SIDODADI DAN WARGOMULYO KABUPATEN PRINGSEWU LAMPUNG",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nandi",
+            "given": "Haerudin"
+          },
+          "id": "nandi.haerudin@eng.unila.ac.id"
+        },
+        {
+          "id": "Karyantodjon@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Karyanto",
+            "lineage": null,
+            "given": "Karyanto"
+          }
+        }
+      ],
+      "isbn": "978-602-0860-12-1",
+      "place_of_pub": "Bandar Lampung",
+      "contact_email": "lppm@kpa.unila.ac.id",
+      "subjects": [
+        "S1",
+        "TA"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2999",
+      "date": "2016-12-01",
+      "projects": [
+        "HIBAH IBM"
+      ],
+      "abstract": "Dengan adanya program elpiji 3 kg bersubsidi, masyarakat Indonesia menjadi tergantung pada pasokan gas elpiji. Daerah pedesaan merupakan rantai terakhir pasokan elpiji, sehingga jika terjadi kelangkaan pasokan elpigi 3 kg, maka daerah pedesaan lah yang paling lama mengalami dampaknya. Hal ini karena elpiji bukan merupakan sumber energi yang berasal dari potensi yang ada di pedesaan. Untuk mengantisipasi keadaan tersebut, harus dibangun ketahan energi di pedesaan. Ketahanan energi akan terwujud jika setidaknya 60% kebutuhan energi, disediakan dari potensi yang ada di desa tersebut. Kegiatan pengabdian yang dilakukan di desa Sidodadi dan Wargomulyo ditujukan untuk bisa menyediakan energi dari potensi yang ada di desa tersebut. Potensi yang ada di kedua desa tersebut yaitu sekam padi yang keberadaannya melimpah dan akan menjadi limbah jika tidak dimanfaatkan.  Kegiatan dilaksanakan dengan cara pelatihan pembuatan briket arang sekan padi. Setelah itu diserahkan alat pembakar sekam padi dan alat press pembuat briket. Peserta pelatihan adalah petani yang tergabung dalam Gabungan Kelompok Tani. Berdasarkan pre test yang dilakukan, para petani sebagian besar sangat buta dengan teknologi pembakaran sekam padi dan pembuatan briket arang sekam. Nilai rata-rata tentang pengetahuan apa dan bagaiamana membuat briket arang sekam hanya 5%. Setelah dilakukan pelatihan, Nilai pengetahuan petani tentang briket arang sekam sekitar 75%. Ada peningkatan sebesar 70% dari kondisi awal. Setelah 2 kali monitoring, masyarakat desa Sidodadi dan Wargomulyo telah mampu membakar sekam menjadi arang sekam (bukan abu) dan membuat briket arang sekam dengan alat press yang diberikan.",
+      "funders": [
+        "DIKTI"
+      ],
+      "publisher": "LPPM Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/00\/29\/99",
+      "ispublished": "pub",
+      "rev_number": 11,
+      "status_changed": "2017-06-05 01:24:58",
+      "full_text_status": "public"
+    },
+    {
+      "funders": [
+        "RISTEK-DIKTI indonesia"
+      ],
+      "divisions": [
+        "FT1"
+      ],
+      "publication": "ARPN Journal of Engineering and Applied Sciences",
+      "dir": "disk0\/00\/00\/10\/60",
+      "rev_number": 13,
+      "status_changed": "2016-11-04 02:48:40",
+      "subjects": [
+        "QE",
+        "TA",
+        "TK"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1060",
+      "volume": 11,
+      "title": "RADON AND THORON MAPPING TO DELINEATE THE LOCAL-FAULT IN THE WAY RATAI GEOTHERMAL FIELD LAMPUNG INDONESIA",
+      "type": "article",
+      "creators": [
+        {
+          "id": "nandi.haerudin@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nandi",
+            "honourific": null,
+            "given": "Haerudin"
+          }
+        },
+        {
+          "name": {
+            "given": "Karyanto",
+            "honourific": null,
+            "family": "Karyanto",
+            "lineage": null
+          },
+          "id": "Karyantodjon@yahoo.com"
+        },
+        {
+          "id": "ardiraja@gmail.com",
+          "name": {
+            "given": "Kuntoro",
+            "family": "Yudi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "contact_email": "arpn@arpnjournals.com",
+      "metadata_visibility": "show",
+      "lastmod": "2016-11-04 02:48:40",
+      "publisher": "Asian Research Publishing Network",
+      "ispublished": "pub",
+      "keywords": "radon measurement, delineation, high permeability, fault.",
+      "full_text_status": "public",
+      "issn": "1819-6608",
+      "date": "2016-04",
+      "projects": [
+        "Hibah Bersaing"
+      ],
+      "corp_creators": [
+        "Department of Geophysical Engineering, Faculty of Engineering, University of Lampung, Indonesia",
+        "Department of Geophysical Engineering, Faculty of Engineering, University of Lampung, Indonesia",
+        "Research and Development Center for Oil and Gas “LEMIGAS”, Indonesia"
+      ],
+      "abstract": "The Survey in the area of geothermal Way Ratai Lampung has been conducted to measure the concentration of\r\nRadon and Thoron. The Radon detector RAD 7 used to get field data. The measurement points are 70 stations. These were\r\ntaken with 200 m - 400 m spacing stations which cover an area of 10 km2. Study area covered four hot spring geothermal\r\nmanifestations namely Bambu Kuning, Padok, Margodadi and Way Asin. The aim of this study is to determine the local\r\nfault based on the profile of Radon concentration. The observation data were taken in 15 minutes for each station\r\nmeasurement to obtain the value of the Radon concentration accurately. After the Radon concentration values are obtained,\r\nit made a contour map. The peaks of contour were connected by a line to get the delineation of the local fault. The result\r\nshowed three lineament anomalies through geothermal manifestations that indicating as the local fault, namely F1, F2, and\r\nF3. The first delineation fault (F1) connected Bambu Kuning and Margodadi hot springs in the northwest to southeast\r\ndirection. The second (F2) connected Padok and Way Asin hot springs in the southwest to northeast directions. The third\r\n(F3) passed Margodadi hot spring in the same direction with F2. Based on the Radon to Thoron ratio, F1 and F2 were\r\nsuggested as the fault that extends to depth. Both are suggested as the conduit of geothermal fluid.",
+      "refereed": "TRUE",
+      "pagerange": "4804-4809",
+      "eprintid": 1060,
+      "eprint_status": "archive",
+      "referencetext": "[1] Phuong N. K., Harijoko A., Itoi R., and Unoki Y.\r\n2012. Journal of Volcanology and Geothermal\r\nResearch. 229–230: 23-33.\r\n[2] Sudarman S., Suroto, Pudyastuti K., Aspiyo S. 2000.\r\nGeothermal development progress in Indonesia:country update 1995–2000. Proceedings of the WGC\r\n2000, Japan. pp. 455–460.\r\n[3] Hochstein M.P., Sudarman S. 2008. History of\r\ngeothermal exploration in Indonesia from 1970 to\r\n2000. Geothermics. 37: 220–266.\r\n[4] Suharno, Amukti R., Hidayatika A., and Putroi M. K.\r\n2015. Geothermal Prospect of Padang Cermin\r\nPesawaran Lampung Province, Indonesia.\r\nProceedings World Geothermal Congress 2015,\r\nMelbourne, Australia. 19-25 April.\r\n[5] Karyanto. 2002. Mapping Deployment Hot Springs in\r\nRegion Geothermal Way Ratai, Lampung with MiseA-La-Masse Method, Jurnal Sains dan Teknologi,\r\nFMIPA Unila, 8(2): 81-86.\r\n[6] Karyanto. 2003. Subsurface Imaging Regional The\r\nGeothermal Way Ratai Lampung by 2 Dimensional\r\nResistivity Method, Jurnal Sains dan Teknologi,\r\nFMIPA Unila, 9(3): 20-26.\r\n[7] Karyanto and Haerudin N. 2013. A Qualitative\r\nInterpretation of Surface Temperature on Geothermal\r\nWay Ratai Lampung. Seminar Nasional SATEK V 19\r\n– 20 November, Bandar Lampung.\r\n[8] J. E. Gingrich. 1984. Journal of Geochemical\r\nExploration. 21: 19-39.\r\n[9] R.W. Klusman. 1993. Gas and Related Methods for\r\nNatural Resource Exploration, England. John Wiley\r\n& Son Ltd. pp. 483.\r\n[10]Haerudin, N., Wahyudi and Suryanto, W. 2013.\r\nRadon and Thoron Analysis of Soil Gas Survey Case\r\nStudy of Rajabasa Geothermal Field. AIP Proceeding\r\nconference, USA. 1554: 218-221.\r\n[11]Ioannides K., Papachristodoulou C., Stamoulis K.,\r\nKaramanis D., Pavlides S., Hatzipetros A., and\r\nKarakala E. 2003. Applied Radiation and Isotopes. 59\r\n(2-3): 205–213.\r\n[12]Swakon J., Kozak K., Paszkowski M., Gradzin'ski R.,\r\nLoskiewicz J., Mazur J., Janik M., Bogacz J.,\r\nHorwacik T., and Olko P. 2004. Journal of\r\nEnvironmental Radioactivity. 78(2): 137 – 149.\r\n[13]Jönsson G. 1995. Radiation Measurements. 25(1-4):\r\n537-546.\r\n[14]Fu C. C., Walia Y. F., and Chen C. H. 2005.\r\nGeochemical Journal. 39: 427-439.",
+      "datestamp": "2016-11-04 02:48:40",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/950",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1060,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "jeas_0416_4028.pdf",
+            "docid": 950,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "f9a63d90215565f9419738edffea86d2",
+                  "datasetid": "document",
+                  "fileid": 6905,
+                  "filename": "jeas_0416_4028.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6905",
+                  "objectid": 950,
+                  "filesize": 1749710,
+                  "mtime": "2016-11-04 01:44:42",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/www.arpnjournals.com",
+      "number": 7,
+      "userid": 827
+    },
+    {
+      "title": "PELATIHAN PEMBUATAN BRIKET ARANG SEKAM UNTUK KETAHANAN ENENRGI DI GABUNGAN KELOMPOK TANI DESA SIDODADI DAN WARGOMULYO KABUPATEN PRINGSEWU LAMPUNG",
+      "creators": [
+        {
+          "id": "nandi.haerudin@eng.unila.ac.id",
+          "name": {
+            "given": "NH",
+            "honourific": null,
+            "family": "Nandi Haerudin",
+            "lineage": null
+          }
+        },
+        {
+          "id": "Karyantodjon@yahoo.com",
+          "name": {
+            "family": "Karyanto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Karyanto"
+          }
+        }
+      ],
+      "type": "book",
+      "contact_email": "lppm@kpa.unila.ac.id",
+      "metadata_visibility": "show",
+      "editors": [
+        {
+          "id": "mat_ane@yahoo.com",
+          "name": {
+            "given": "Safe'i",
+            "family": "Rahmat",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sri",
+            "given": "ratna"
+          },
+          "id": "srYulistyanti@eng.unila.ac.id"
+        }
+      ],
+      "lastmod": "2017-06-05 01:25:26",
+      "funders": [
+        "DIKTI"
+      ],
+      "dir": "disk0\/00\/00\/28\/59",
+      "divisions": [
+        "FT1"
+      ],
+      "rev_number": 12,
+      "status_changed": "2017-06-05 01:25:26",
+      "subjects": [
+        "S1",
+        "TJ"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2859",
+      "refereed": "TRUE",
+      "isbn": "978-602-0860-12-1",
+      "place_of_pub": "Bandar Lampung",
+      "pagerange": "249-256",
+      "eprintid": 2859,
+      "eprint_status": "archive",
+      "datestamp": "2017-06-05 01:25:26",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 2731,
+            "main": "Prosiding pengabdian nandi.pdf",
+            "files": [
+                {
+                  "hash": "cfb6d55f4ad1a246f2e6184afefb1580",
+                  "mime_type": "application\/pdf",
+                  "fileid": 19637,
+                  "datasetid": "document",
+                  "filename": "Prosiding pengabdian nandi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19637",
+                  "filesize": 9800188,
+                  "objectid": 2731,
+                  "mtime": "2017-06-01 14:05:23",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2731",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2859
+          }
+      ],
+      "official_url": "http:\/\/www.lppm.unila.ac.id",
+      "userid": 827,
+      "publisher": "LPPM Universitas Lampung",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "book_title": "Prosiding Seminar Nasional Hasil Hasil Pengabdian Kepada Masyarkat Universitas Lampung 2016",
+      "date": "2016-12-01",
+      "projects": [
+        "Hibah Pengabdian IBM"
+      ],
+      "abstract": "Dengan adanya program elpiji 3 kg bersubsidi, masyarakat Indonesia menjadi tergantung pada pasokan gas elpiji. Daerah pedesaan merupakan rantai terakhir pasokan elpiji, sehingga jika terjadi kelangkaan pasokan elpigi 3 kg, maka daerah pedesaan lah yang paling lama mengalami dampaknya. Hal ini karena elpiji bukan merupakan sumber energi yang berasal dari potensi yang ada di pedesaan. Untuk mengantisipasi keadaan tersebut, harus dibangun ketahan energi di pedesaan. Ketahanan energi akan terwujud jika setidaknya 60% kebutuhan energi, disediakan dari potensi yang ada di desa tersebut. Kegiatan pengabdian yang dilakukan di desa Sidodadi dan Wargomulyo ditujukan untuk bisa menyediakan energi dari potensi yang ada di desa tersebut. Potensi yang ada di kedua desa tersebut yaitu sekam padi yang keberadaannya melimpah dan akan menjadi limbah jika tidak dimanfaatkan.  Kegiatan dilaksanakan dengan cara pelatihan pembuatan briket arang sekan padi. Setelah itu diserahkan alat pembakar sekam padi dan alat press pembuat briket. Peserta pelatihan adalah petani yang tergabung dalam Gabungan Kelompok Tani. Berdasarkan pre test yang dilakukan, para petani sebagian besar sangat buta dengan teknologi pembakaran sekam padi dan pembuatan briket arang sekam. Nilai rata-rata tentang pengetahuan apa dan bagaiamana membuat briket arang sekam hanya 5%. Setelah dilakukan pelatihan, Nilai pengetahuan petani tentang briket arang sekam sekitar 75%. Ada peningkatan sebesar 70% dari kondisi awal. Setelah 2 kali monitoring, masyarakat desa Sidodadi dan Wargomulyo telah mampu membakar sekam menjadi arang sekam (bukan abu) dan membuat briket arang sekam dengan alat press yang diberikan."
+    },
+    {
+      "status_changed": "2017-06-05 02:26:57",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "HAGI Pusat",
+      "publication": "Sand Reservoir Characterization Using Seismic Attributes and Log Interpretation in “T” Field, Southern Sub Basin, East Java Basin",
+      "dir": "disk0\/00\/00\/31\/44",
+      "abstract": "Amplitude and frequency are the seismic signal that is commonly used to obtain reservoir information. RMS amplitude\r\nis the root of the amount of energy in the time domain or simply, the average of amplitude. RMS amplitude is very sensitive to\r\nextreme value and may also be useful for tracking changes in lithology and spreading horizontally. Instantaneous frequency gives\r\ninformation about seismic waves that make frequency changes, for example absorption effect, fractures and thickness of\r\ndeposition system. Attenuation of seismic waves, when passing through the gas reservoir can be detected as a decrease\r\noffrequency. Interpretation of log data used to know reservoir vertically characterization. In the Field \"T\", there are three wells\r\nwith gamma ray, LLD, NPHI, and RHOB log data. Based on interpretation of log data, it is known that the reservoir zone is\r\npermeable zones, based on the low value of gamma rays. Sparation existence between the density-neutron log and resistivity\r\nvalues more than 100 (μs\/f) on T1 indicates gas content, T2 has resisitivity value 20-100 (μs\/f) indicate the presence of oil, and\r\nT3 has resistivity values more than 100 (μs\/f) indicate the presence of gas. Distribution of high RMS amplitude anomalies in the\r\nstudy area leads from the Northeast to the Southwest with value 0,4-0,7, and low frequencies value, 0-15 Hz.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3144",
+      "date": "2016-09-27",
+      "subjects": [
+        "QE"
+      ],
+      "date_type": "published",
+      "type": "article",
+      "creators": [
+        {
+          "id": "titisetianingr@gmail.com",
+          "name": {
+            "given": "Titi Setianing",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rahayu"
+          }
+        },
+        {
+          "name": {
+            "given": "Ordas",
+            "honourific": null,
+            "family": "Dewanto",
+            "lineage": null
+          },
+          "id": "ordasdewanto@gmail.com"
+        },
+        {
+          "id": "bagusyosodiharjo@yahoo.co.id",
+          "name": {
+            "given": "Bagus",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sapto Mulyatno"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Sand Reservoir Characterization Using Seismic Attributes\r\nand Log Interpretation in “T” Field, Southern Sub Basin,\r\nEast Java Basin",
+      "userid": 566,
+      "documents": [
+          {
+            "eprintid": 3144,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3031",
+            "pos": 1,
+            "format": "text",
+            "docid": 3031,
+            "main": "PITHAGI2016-063 (POSTER PIT HAGI 41).pdf",
+            "files": [
+                {
+                  "mtime": "2017-06-02 09:18:50",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21845",
+                  "filename": "PITHAGI2016-063 (POSTER PIT HAGI 41).pdf",
+                  "objectid": 3031,
+                  "filesize": 537694,
+                  "mime_type": "application\/pdf",
+                  "hash": "786683608efc46c240310b347a078da1",
+                  "fileid": 21845,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2017-06-05 02:26:57",
+      "eprint_status": "archive",
+      "eprintid": 3144,
+      "datestamp": "2017-06-05 02:26:57",
+      "metadata_visibility": "show"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "title": "ANALISIS KECEPATAN GELOMBANG GESER (Vs30) MENGGUNAKAN \r\nMETODE SEISMIK MULTICHANNEL ANALYSIS OF SURFACE WAVE\r\n(MASW) UNTUK MENENTUKAN RESIKO BENCANA GEMPABUMI \r\nDI KOTA BANDAR LAMPUNG",
+      "datestamp": "2022-07-06 01:15:10",
+      "eprintid": 42970,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 886,
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "lastmod": "2022-07-06 01:15:10",
+      "documents": [
+          {
+            "eprintid": 42970,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164784",
+            "format": "text",
+            "main": "2016 IABI Analisis Kecepatan-X.pdf",
+            "files": [
+                {
+                  "filesize": 6540451,
+                  "objectid": 164784,
+                  "filename": "2016 IABI Analisis Kecepatan-X.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/470420",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-05 09:36:32",
+                  "datasetid": "document",
+                  "fileid": 470420,
+                  "mime_type": "application\/pdf",
+                  "hash": "72352c1611819bf0dd786810562164d2"
+                }
+            ],
+            "docid": 164784,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "IKATAN AHLI KEBENCANAAN INDONESIA",
+      "dir": "disk0\/00\/04\/29\/70",
+      "full_text_status": "public",
+      "status_changed": "2022-07-06 01:15:10",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "subjects": [
+        "TA",
+        "TN"
+      ],
+      "abstract": "Telah  dilakukan  penelitian  analisis  kecepatan  gelombang  geser  (Vs30)  untuk  mendapatkan  indicator \r\nnilai  pergerakan  tanah  sebagai  upaya  mitigasi  bencana  gempabumi  pada  beberapa  lokasi  di  wilayah \r\nBandar  Lampung. Penelitian ini menggunakan metoda seismik Multi-channel Analysis of  Surface Wave \r\n(MASW)  aktif.  Prinsip  dasar  metode  MASW  adalah  menentukan  kecepatan  gelombang  geser  dari \r\nperlapisan  batuan  dekat  permukaan  (subsurf ace).  Lokasi  penelitian  meliputi;  (1).  Kedaton  yang \r\nmewakili  zona  pendidikan,  perdagangan,  dan  fasilitas  umum,  (2).  Kemiling  yang  mewakili  zona \r\nperumahan,  (3).  Teluk  Betung  Utara  yang  mewakili  zona  pusat  perkantoran\/pemerintahan  dan  (4). \r\nPanjang mewakili zona industri. Pemilihan lokasi didasarkan pada level urgensi -nya terhadap kerawanan \r\ngempabumi berdasarkan klasifikasi jenis batuan bawah permukaan. Tahapan penelitian ini meliputi; (i). \r\nPengukuran data pada empat lokasi  tersebut, (ii). Pengolahan data meliputi edit geometri, FFT, picking \r\nkurva  frekuensi  vs  phase-velocity,  (iii).  Perhitungan  inversi  Vs30  vs  kedalaman,  (iv).  Analisis  dan \r\nKesimpulan. Berdasarkan hasil analisis data diperoleh kecepatan gelombang geser Vs30 rata -rata pada \r\nkeempat  wilayah  tersebut  antara  lain;  Kedaton  (215  m\/dtk),  Kemiling  (160  m\/dtk)  dan  Panjang  (135 \r\nm\/dtk) yang diidentifikasi sebagai lapisan batuan endapan dan merupakan hasil pelapukan batuan yang \r\nbelum  mengalami  kompaksi.  Sedangkan  wilayah  Teluk  Betung  Utara  dengan  kecepatan  gelombang \r\ngeser sebesar 550 m\/dtk diidentif ikasi hanya memiliki lapisan top soil sangat tipis  yang berada di  atas \r\nbatuan  keras  atau  batuan  kompak  dan  merupakan  produk  dari  gunung  Betung.  Sehingga  wilayah \r\nKedaton, Kemiling dan Panjang yang mewakili zona fasilitas umum, perumahan dan industry merupakan \r\nwilayah yang  memiliki resiko kerusakan tinggi  saat terjadi gempabumi. \r\nKata kunci:  MASW,  gempabumi, amplifikasi, bencana,  seismik",
+      "corp_creators": [
+        "Teknik Geofisika, FT UNILA"
+      ],
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42970"
+    },
+    {
+      "subjects": [
+        "TA",
+        "TN"
+      ],
+      "abstract": "Telah  dilakukan  desain  alat  ukur  intensitas  medan  magnet  total  bumi  menggunakan  tipe \r\nsensor Adafruit-HMC5883 dan dilengkapi dengan global positioning system untuk pengukuran \r\nposisi. Alat ukur tersebut diberi nama DronMAG-1216T. DronMAG-1216T dihubungkan dengan \r\nmicro-controller  sehingga  memungkinkan  dilakukan  pengukuran  intensitas  medan  magnet \r\nbumi  secara  otomatis  dan  tersimpan  pada  memori.  DronMAG-1216T  juga  digerakkan  oleh \r\nwahana  drone  sehingga  memungkinkan  untuk  bergerak  bebas  di  udara,  dengan  sistem \r\nremote control untuk mengatur pergerakan dan arah pengukuran DronMAG-1216T tersebut. \r\nDronMAG-1216T didesain untuk mengefektifkan pengukuran intensitas medan magnet bumi. \r\nSalah  satu  obyek  penerapan  DronMAG-1216T  adalah  pengukuran  intensitas  kemagnetan \r\nbumi  di  daerah  gunungapi,  dimana  perubahan  intensitas  kemagnetan  bumi  menjadi  salah \r\nsatu parameter dalam monitoring aktivitas magma pada gunungapi. Penggunaan DronMAG-1216T  sangat  efektif  untuk  diterapkan  karena  akan  mempermudah  akuisisi  data  magnetik \r\npada  wilayah  gunungapi  aktif,  sehingga  dapat  dilakukan  langkah-langkah  mitigasi  bencana \r\ngunungapi untuk memperkecil risiko yang dapat ditimbulkan.",
+      "corp_creators": [
+        "Teknik Geofisika, FT UNILA"
+      ],
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42969",
+      "dir": "disk0\/00\/04\/29\/69",
+      "publisher": "IKATAN AHLI KEBENCANAAN INDONESIA",
+      "divisions": [
+        "FT1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-07-06 01:15:07",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "datestamp": "2022-07-06 01:15:07",
+      "eprint_status": "archive",
+      "eprintid": 42969,
+      "metadata_visibility": "show",
+      "userid": 886,
+      "contributors": [
+        {
+          "name": {
+            "given": "Syamsurijal",
+            "family": "Rasimeng",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "lastmod": "2022-07-06 01:15:07",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164782",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 42969,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "2016 IABI Desain Gab-X.pdf",
+            "files": [
+                {
+                  "fileid": 470406,
+                  "datasetid": "document",
+                  "hash": "9033de14cf3c3f2c6794c409ff3602b9",
+                  "mime_type": "application\/pdf",
+                  "filesize": 5102307,
+                  "objectid": 164782,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/470406",
+                  "filename": "2016 IABI Desain Gab-X.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-05 09:26:20"
+                }
+            ],
+            "docid": 164782,
+            "format": "text"
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Syamsurijal",
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "DESAIN DAN APLIKASI DRONMAG-1216T\r\nUNTUK MONITORING AKTIVITAS GUNUNGAPI BERDASARKAN \r\nPERUBAHAN INTENSITAS KEMAGNETAN BUMI"
+    },
+    {
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154578",
+            "pos": 7,
+            "security": "public",
+            "placement": 7,
+            "eprintid": 34099,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 154578,
+            "main": "Plagiat_2016 IABI Analisis Kecepatan.pdf",
+            "files": [
+                {
+                  "hash": "581676e132c5e0581880b1fa840df01d",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 402477,
+                  "mtime": "2021-09-22 10:39:33",
+                  "hash_type": "MD5",
+                  "filename": "Plagiat_2016 IABI Analisis Kecepatan.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/402477",
+                  "objectid": 154578,
+                  "filesize": 144775
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2021-09-22 12:24:52",
+      "contributors": [
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null,
+            "given": "Syamsurijal"
+          }
+        }
+      ],
+      "userid": 886,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 34099,
+      "datestamp": "2021-09-22 12:24:52",
+      "title": "Lembar Plagiarism: ANALISIS KECEPATAN GELOMBANG GESER (Vs30) MENGGUNAKAN METODE SEISMIK MULTICHANNEL ANALYSIS OF SURFACE WAVE(MASW) UNTUK MENENTUKAN RESIKO BENCANA GEMPABUMI DI KOTA BANDAR LAMPUNG",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rasimeng",
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34099",
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ],
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "succeeds": 32940,
+      "status_changed": "2021-09-22 12:24:52",
+      "full_text_status": "public",
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "Ikatan Ahli Kebencanaan Indonesia",
+      "dir": "disk0\/00\/03\/40\/99"
+    },
+    {
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32941",
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ],
+      "subjects": [
+        "TA"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2021-06-30 01:17:03",
+      "full_text_status": "public",
+      "publisher": "Ikatan Ahli Kebencanaan Indonesia",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/03\/29\/41",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 150179,
+                  "filesize": 456664,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/390111",
+                  "filename": "2016 IABI Analisis Resiko PLG.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-29 10:42:22",
+                  "datasetid": "document",
+                  "fileid": 390111,
+                  "hash": "44bfa92735865229ceb97881bcee786b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "2016 IABI Analisis Resiko PLG.pdf",
+            "docid": 150179,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 32941,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/150179",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2021-06-30 01:17:03",
+      "contributors": [
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "name": {
+            "given": "Syamsurijal",
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 886,
+      "metadata_visibility": "show",
+      "eprintid": 32941,
+      "eprint_status": "archive",
+      "datestamp": "2021-06-30 01:17:03",
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "title": "Lembar Plagiarism: ANALISIS RESIKO GEMPA BUMI DI DAERAH BANDAR LAMPUNG BERDASARKAN METODE HORIZONTAL TO VERTICAL SPECTRUM RATIO (HVSR) MIKROTREMOR",
+      "type": "other",
+      "creators": [
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "name": {
+            "given": "Syamsurijal",
+            "family": "Rasimeng",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "datestamp": "2021-09-22 12:24:49",
+      "eprint_status": "archive",
+      "eprintid": 34098,
+      "metadata_visibility": "show",
+      "userid": 886,
+      "contributors": [
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null,
+            "given": "Syamsurijal"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "lastmod": "2021-09-22 12:24:49",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 154571,
+            "main": "Plagiat_2016 IABI Desain_DronMag.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/402464",
+                  "filename": "Plagiat_2016 IABI Desain_DronMag.pdf",
+                  "objectid": 154571,
+                  "filesize": 154818,
+                  "mtime": "2021-09-22 10:33:43",
+                  "hash_type": "MD5",
+                  "hash": "3597b379a9f5fa8b71ca45bd560350b4",
+                  "mime_type": "application\/pdf",
+                  "fileid": 402464,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 7,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154571",
+            "security": "public",
+            "placement": 7,
+            "eprintid": 34098
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Syamsurijal",
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "Lembar Plagiarism: DESAIN DAN APLIKASI DRONMAG-1216T UNTUK MONITORING AKTIVITAS GUNUNGAPI BERDASARKAN PERUBAHAN INTENSITAS KEMAGNETAN BUMI",
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34098",
+      "date": 2016,
+      "dir": "disk0\/00\/03\/40\/98",
+      "publisher": "Ikatan Ahli Kebencanaan Indonesia",
+      "divisions": [
+        "FT1"
+      ],
+      "full_text_status": "public",
+      "succeeds": 32942,
+      "status_changed": "2021-09-22 12:24:49",
+      "ispublished": "pub",
+      "rev_number": 7
+    },
+    {
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "title": "Lembar Plagiarism: Three Dimensional Tomography Based on Microearthquake Data at Brady’s Hot Spring Geothermal Field, Nevada",
+      "creators": [
+        {
+          "name": {
+            "given": "Syamsurijal",
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 32943,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/150187",
+            "pos": 1,
+            "security": "public",
+            "main": "2016 IIGCE Three Dimensional Tomography Based PLG.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "8ecb64488439e4711e25c9cccb4d2978",
+                  "datasetid": "document",
+                  "fileid": 390131,
+                  "mtime": "2021-06-29 10:48:59",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/390131",
+                  "filename": "2016 IIGCE Three Dimensional Tomography Based PLG.pdf",
+                  "filesize": 486357,
+                  "objectid": 150187
+                }
+            ],
+            "docid": 150187,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2021-06-30 01:29:48",
+      "contributors": [
+        {
+          "name": {
+            "given": "Syamsurijal",
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "userid": 886,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 32943,
+      "datestamp": "2021-06-30 01:29:48",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2021-06-30 01:29:48",
+      "full_text_status": "public",
+      "dir": "disk0\/00\/03\/29\/43",
+      "publisher": "Indonesian Geothermal Association",
+      "divisions": [
+        "FT1"
+      ],
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32943",
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ],
+      "subjects": [
+        "TN"
+      ]
+    },
+    {
+      "title": "Peer Reviewer: Analisis Kecepatan Gelombang Geser (Vs30) Menggunakan Metode Seismik Multichannel Analysis of Surface Wave (MASW) Untuk Menentukan Resiko Bencana Gempabumi Di Kota Bandar Lampung",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "metadata_visibility": "show",
+      "datestamp": "2021-07-05 01:09:40",
+      "eprintid": 33017,
+      "eprint_status": "archive",
+      "lastmod": "2021-07-05 01:09:40",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 33017,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/150604",
+            "security": "public",
+            "main": "2016 IABI Analisis Kecepatan-X.pdf",
+            "docid": 150604,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 391053,
+                  "mime_type": "application\/pdf",
+                  "hash": "497e37703147cfdd15cf38dc88041471",
+                  "filesize": 5429382,
+                  "objectid": 150604,
+                  "filename": "2016 IABI Analisis Kecepatan-X.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/391053",
+                  "hash_type": "MD5",
+                  "mtime": "2021-07-01 23:33:55"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Syamsurijal",
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "userid": 886,
+      "publisher": "Ikatan Ahli Kebencanaan Indonesia",
+      "dir": "disk0\/00\/03\/30\/17",
+      "divisions": [
+        "FT1"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2021-07-05 01:09:40",
+      "subjects": [
+        "TA"
+      ],
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33017",
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ]
+    },
+    {
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33018",
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ],
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "Ikatan Ahli Kebencanaan Indonesia",
+      "dir": "disk0\/00\/03\/30\/18",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2021-07-05 01:09:42",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 33018,
+      "datestamp": "2021-07-05 01:09:42",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/150609",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 33018,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 150609,
+            "main": "2016 IABI Analisis Resiko-X.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-07-01 23:35:48",
+                  "objectid": 150609,
+                  "filesize": 5414933,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/391064",
+                  "filename": "2016 IABI Analisis Resiko-X.pdf",
+                  "datasetid": "document",
+                  "fileid": 391064,
+                  "hash": "5b9c0f890802fe2d69abfc60e4b170b5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2021-07-05 01:09:43",
+      "userid": 886,
+      "contributors": [
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Syamsurijal",
+            "lineage": null,
+            "family": "Rasimeng",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Peer Reviewer: Analisis Resiko Gempa Bumi Di Daerah Bandar Lampung Berdasarkan Metode Horizontal to Vertical Spectral Ratio (HVSR) Mikrotremor",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rasimeng",
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id"
+    },
+    {
+      "full_text_status": "public",
+      "status_changed": "2021-07-05 01:09:46",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publisher": "Ikatan Ahli Kebencanaan Indonesia",
+      "dir": "disk0\/00\/03\/30\/19",
+      "divisions": [
+        "FT1"
+      ],
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33019",
+      "date": 2016,
+      "subjects": [
+        "TA"
+      ],
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "type": "other",
+      "creators": [
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null,
+            "given": "Syamsurijal"
+          }
+        }
+      ],
+      "title": "Peer Reviewer: Desain dan Aplikasi DronMag-1216T Untuk Monitoring Aktivitas Gunungapi Berdasarkan Perubahan Intensitas Kemagnetan Bumi",
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rasimeng",
+            "honourific": null,
+            "given": "Syamsurijal"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "userid": 886,
+      "lastmod": "2021-07-05 01:09:46",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/150614",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 33019,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 150614,
+            "main": "2016 IABI Desain Gab-X.pdf",
+            "files": [
+                {
+                  "hash": "42c6bdb6df4d0a5c3e103a6e251f2356",
+                  "mime_type": "application\/pdf",
+                  "fileid": 391076,
+                  "datasetid": "document",
+                  "mtime": "2021-07-01 23:37:50",
+                  "hash_type": "MD5",
+                  "filename": "2016 IABI Desain Gab-X.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/391076",
+                  "objectid": 150614,
+                  "filesize": 3706341
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "datestamp": "2021-07-05 01:09:46",
+      "eprint_status": "archive",
+      "eprintid": 33019,
+      "metadata_visibility": "show"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33020",
+      "date": 2016,
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ],
+      "subjects": [
+        "TN"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2021-07-05 01:09:49",
+      "full_text_status": "public",
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "Indonesian Geothermal Association",
+      "dir": "disk0\/00\/03\/30\/20",
+      "documents": [
+          {
+            "docid": 150615,
+            "main": "2016 IIGCE Three Dimensional-X.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 391083,
+                  "hash": "41c60d7831d274fe2ceff226896b3001",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-07-01 23:39:52",
+                  "objectid": 150615,
+                  "filesize": 5422651,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/391083",
+                  "filename": "2016 IIGCE Three Dimensional-X.pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 33020,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/150615",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2021-07-05 01:09:49",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Syamsurijal",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rasimeng"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "userid": 886,
+      "metadata_visibility": "show",
+      "eprintid": 33020,
+      "eprint_status": "archive",
+      "datestamp": "2021-07-05 01:09:49",
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "title": "Peer Reviewer: Three Dimensional Tomography Based on Microearthquake Data at Brady’s Hot Spring Geothermal Field, Nevada",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rasimeng",
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "type": "other"
+    },
+    {
+      "publisher": "The 4 th Indonesia International Geothermal Convention & Exhibition",
+      "dir": "disk0\/00\/04\/29\/68",
+      "divisions": [
+        "FT1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-07-06 01:15:06",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "subjects": [
+        "TA",
+        "TN"
+      ],
+      "abstract": "Microearthquake activity in the geothermal field is related to \r\nreservoir  and  sub-surface  structure.  According  to  the  data \r\nrecorded,  Brady’s  Hot  Spring  which  is  a  non-magmatic \r\nconvection-dominated  geothermal  play  system  has  high \r\nseismicity. Three-dimensional Vp anomaly, Vs anomaly, and \r\nVp\/Vs-ratio  structure  are  presented  for  The  Brady’s  Hot \r\nSpring  geothermal  field  using  microearthquake  travel-time \r\ndata.  The  data  were  recorded  by  the  Northern  California \r\nEarthquake Data Center (NCEDC) using 8 stations seismic \r\nnetwork.  In  addition,  it  uses  1D  velocity  models  data  and \r\ncoordinates of the station as supporting data. The data proceed \r\nby  Lotos  13  consists  of  determining  preliminary  location, \r\nrelocating microearthquake source and inverting tomography \r\nby LSQR iterative method, then visualizing the model. The \r\nresults  indicate high  Vp  anomaly (5% to  25%) and  low  Vs\r\nanomaly  (0%  to  -15%)  in  high  seismicity  zone.  It  also \r\nindicates high Vp\/Vs (1.8 to 2.3) in the central section of The \r\nBrady’s around high seismicity zone and low  Vp\/Vs  (1.4 to \r\n1.7) below manifestation zone. High and low Vp\/Vs-ratios are \r\nrelated  to  water  and  steam  saturated  zones,  respectively. \r\nInterpretation  shows  that  the  reservoir  area  has  high \r\nseismicity  between  300  to  1400  meters  depth,  high \r\npermeability,  and  Brady’s  Hot  Spring  main  reservoir  is  in \r\nwater dominated. As it seen in the result, with tomography \r\ninversion  we  succeed  to  get  very  detail  seismicity  and \r\nanomaly  velocity  distribution  related  to  the  reservoir  in \r\nBrady’s Hot Spring, Nevada.",
+      "corp_creators": [
+        "Teknik Geofisika, FT UNILA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42968",
+      "date": 2016,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rasimeng",
+            "honourific": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "Three Dimensional Tomography Based on Microearthquake Data at Brady’s Hot Spring \r\nGeothermal Field, Nevada",
+      "datestamp": "2022-07-06 01:15:06",
+      "eprintid": 42968,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 886,
+      "contributors": [
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rasimeng",
+            "given": "Syamsurijal"
+          }
+        }
+      ],
+      "lastmod": "2022-07-06 01:15:06",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164781",
+            "pos": 1,
+            "eprintid": 42968,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 164781,
+            "main": "2016 IIGCE Three Dimensional-X.pdf",
+            "files": [
+                {
+                  "objectid": 164781,
+                  "filesize": 5659945,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/470398",
+                  "filename": "2016 IIGCE Three Dimensional-X.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-05 09:22:12",
+                  "datasetid": "document",
+                  "fileid": 470398,
+                  "mime_type": "application\/pdf",
+                  "hash": "1b37cd085c70e13186c6566b4b80a721"
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "volume": 3,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18256",
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "status_changed": "2020-03-04 01:13:07",
+      "rev_number": 8,
+      "publication": "Prosiding Seminar PIT Riset Kebencanaan",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/01\/82\/56",
+      "lastmod": "2020-03-04 01:13:07",
+      "metadata_visibility": "show",
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "creators": [
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rasimeng",
+            "given": "Syamsurijal"
+          }
+        },
+        {
+          "name": {
+            "given": "Titi Setianing",
+            "honourific": null,
+            "family": "Rahayu",
+            "lineage": null
+          },
+          "id": "titisetianingr@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hilda",
+            "honourific": null,
+            "family": "Ayu Utami",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Muharoroh",
+            "lineage": null,
+            "honourific": null,
+            "given": "Evi"
+          }
+        },
+        {
+          "name": {
+            "given": "Desta",
+            "lineage": null,
+            "family": "Amanda",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "title": "ANALISIS RESIKO GEMPA BUMI DI DAERAH BANDAR LAMPUNG BERDASARKAN METODE HORIZONTAL TO VERTICAL SPECTRUM RATIO (HVSR) MIKROTREMOR",
+      "abstract": "Telah dilakukan penelitian untuk menentukan nilai kerentanan bencana gempabumi di wilayah Bandar Lampung berdasarkan metode Horizontal to Vertical Spectrum Ratio (HVSR) mikrotremor. Penelitian ini dilakukan untuk menghasilkan kurva HVSR agar mendapatkan nila i frekuensi natural ( f0) dan nilai puncak perbandingan spectrum horizontal dan vertival H\/V (A0) . Pengambilan data dilakukan pada tiga lokasi pengukuran di wilayah Bandar Lampung yaitu daerah Kemiling, Kedaton, dan Panjang. Pemilihan wilayah berdasarkan zonasi berupa zona perumahan penduduk, fasilitas umum dan industry. Tahapan penelitian ini meliputi, (i) . Pengukuran data lapangan meliputi pengukuran mikrotremor tiga komponen, (ii). Pengolahan data pengukuran berupa import sinyal, pemilihan lebar window, analisis FFT, pembuatan kurva HVSR dan penentuan f rekuensi natural, (iii) Analisis dan kesimpulan. Berdasarkan hasil analis is nilai frekuensi natural pada daerah Kemiling sebesar 0.3Hz, Kedaton sebesar 0.1Hz, dan daerah Panjang sebesar 0.2Hz. Berdasarkan Sehingga ketiga wilayah tersebut membandingkan nilai tersebut kedalam referensi tabel zona kerentanan gempa bumi maka didapatkan hasil bahwa daerah tersebut berada pada zona tinggi gempa bumi karena nilai frekensi didapatkan kurang dari 1.5 Hz.",
+      "corp_creators": [
+        "Teknik Geofisika, Fakultas Teknik, Universitas Lampung"
+      ],
+      "date": "2016-09-05",
+      "issn": "978-602-74604-1-6",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/www.iabi-indonesia.org\/wp-content\/uploads\/2016\/06\/Prosiding-2016.pdf"
+        }
+      ],
+      "publisher": "Ikatan Ahli Kebencanaan",
+      "userid": 886,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 1,
+      "official_url": "https:\/\/www.iabi-indonesia.org\/wp-content\/uploads\/2016\/06\/Prosiding-2016.pdf",
+      "documents": [
+          {
+            "eprintid": 18256,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31408",
+            "format": "text",
+            "docid": 31408,
+            "main": "2016_IABI_Analisis_Resiko.pdf",
+            "files": [
+                {
+                  "hash": "2cf5cb1a6e2dc20e6604e272795b6724",
+                  "mime_type": "application\/pdf",
+                  "fileid": 153718,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153718",
+                  "filename": "2016_IABI_Analisis_Resiko.pdf",
+                  "filesize": 1053413,
+                  "objectid": 31408,
+                  "mtime": "2020-02-27 07:56:04",
+                  "hash_type": "MD5"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2020-03-04 01:13:07",
+      "eprintid": 18256,
+      "eprint_status": "archive",
+      "pagerange": "197-201",
+      "refereed": "TRUE"
+    },
+    {
+      "refereed": "TRUE",
+      "pagerange": "70-77",
+      "datestamp": "2020-03-04 01:13:00",
+      "eprint_status": "archive",
+      "eprintid": 18244,
+      "official_url": "https:\/\/www.iabi-indonesia.org",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31394",
+            "pos": 1,
+            "eprintid": 18244,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 153624,
+                  "datasetid": "document",
+                  "hash": "9ee06e13a0cdc13a867687a2d621c6f9",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1242559,
+                  "objectid": 31394,
+                  "filename": "2016_IABI_DroneMagnetic.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153624",
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-27 03:28:11"
+                }
+            ],
+            "main": "2016_IABI_DroneMagnetic.pdf",
+            "docid": 31394
+          }
+      ],
+      "contributors": [
+        {
+          "name": {
+            "given": "Syamsurijal",
+            "family": "Rasimeng",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "userid": 886,
+      "number": 1,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/www.iabi-indonesia.org\/wp-content\/uploads\/2016\/06\/Prosiding-2016.pdf"
+        }
+      ],
+      "publisher": "Ikatan Ahli Kebencanaan",
+      "ispublished": "pub",
+      "issn": "978-602-74604-1-6",
+      "full_text_status": "public",
+      "date": "2016-09-05",
+      "abstract": "Telah dilakukan desain alat ukur intensitas medan magnet total bumi menggunakan tipe sensor Adafruit-HMC5883 dan dilengkapi dengan global positioning system untuk pengukuran\r\nposisi. Alat ukur tersebut diberi nama DronMAG-1216T. DronMAG-1216T dihubungkan dengan micro-controller sehingga memungkinkan dilakukan pengukuran intensitas medan magnet\r\nbumi secara otomatis dan tersimpan pada memori. DronMAG-1216T juga digerakkan oleh wahana drone sehingga memungkinkan untuk bergerak bebas di udara, dengan sistem remote control untuk mengatur pergerakan dan arah pengukuran DronMAG-1216T tersebut. DronMAG-1216T didesain untuk mengefektifkan pengukuran intensitas medan magnet bumi. Salah satu obyek penerapan DronMAG-1216T adalah pengukuran intensitas kemagnetan bumi di daerah gunungapi, dimana perubahan intensitas kemagnetan bumi menjadi salah satu parameter dalam monitoring aktivitas magma pada gunungapi. Penggunaan DronMAG-1216T sangat efektif untuk diterapkan karena akan mempermudah akuisisi data magnetik pada wilayah gunungapi aktif, sehingga dapat dilakukan langkah-langkah mitigasi bencana gunungapi untuk memperkecil risiko yang dapat ditimbulkan.",
+      "corp_creators": [
+        "Teknik Geofisika, Fakultas Teknik, Universitas Lampung"
+      ],
+      "title": "DESAIN DAN APLIKASI DRONMAG-1216T UNTUK MONITORING AKTIVITAS GUNUNGAPI BERDASARKAN PERUBAHAN INTENSITAS KEMAGNETAN BUMI",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Rasimeng",
+            "lineage": null,
+            "honourific": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        },
+        {
+          "id": "zahidashl@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Sholehah",
+            "honourific": null,
+            "given": "Zahidah"
+          }
+        },
+        {
+          "name": {
+            "given": "Nanang",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniawan"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Windu",
+            "family": "Nur Hardiranto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Didi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ardiansyah"
+          },
+          "id": null
+        }
+      ],
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "metadata_visibility": "show",
+      "lastmod": "2020-03-04 01:13:00",
+      "publication": "Prosiding Pertemuan Ilmiah Tahunan Riset Kebencanaan",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/01\/82\/44",
+      "rev_number": 7,
+      "status_changed": "2020-03-04 01:13:00",
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18244",
+      "volume": 3
+    },
+    {
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA",
+        "Teknik Geofisika FT UNILA",
+        "Teknik Geofisika FT UNILA",
+        "Teknik Geofisika FT UNILA"
+      ],
+      "abstract": "Microearthquake activity in the geothermal field is related to reservoir and sub-surface structure. According to the data recorded, Brady’s Hot Spring which is a non-magmatic convection-dominated geothermal play system has high seismicity. Three-dimensional Vp anomaly, Vs anomaly, and Vp\/Vs-ratio structure are presented for The Brady’s Hot Spring geothermal field using microearthquake travel-time data. The data were recorded by the Northern California Earthquake Data Center (NCEDC) using 8 stations seismic network. In addition, it uses 1D velocity models data and coordinates of the station as supporting data. The data proceed by Lotos 13 consists of determining preliminary location, relocating microearthquake source and inverting tomography by LSQR iterative method, then visualizing the model. The results indicate high Vp anomaly (5% to 25%) and low Vs anomaly (0% to -15%) in high seismicity zone. It also indicates high Vp\/Vs (1.8 to 2.3) in the central section of The Brady’s around high seismicity zone and low Vp\/Vs (1.4 to 1.7) below manifestation zone. High and low Vp\/Vs-ratios are related to water and steam saturated zones, respectively. Interpretation shows that the reservoir area has high seismicity between 300 to 1400 meters depth, high permeability, and Brady’s Hot Spring main reservoir is in water dominated. As it seen in the result, with tomography inversion we succeed to get very detail seismicity and anomaly velocity distribution related to the reservoir in Brady’s Hot Spring, Nevada",
+      "date": 2016,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/inaga-api.or.id\/library\/IIGCE\/"
+        }
+      ],
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "eprintid": 32282,
+      "eprint_status": "archive",
+      "datestamp": "2021-06-08 06:35:50",
+      "pagerange": "1-8",
+      "userid": 886,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Syamsurijal",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rasimeng"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "docid": 146422,
+            "main": "2016_Paper_IIGCE.pdf",
+            "files": [
+                {
+                  "fileid": 382091,
+                  "datasetid": "document",
+                  "hash": "1147e1a3234a9be5c9a60a30dd46e6f8",
+                  "mime_type": "application\/pdf",
+                  "filesize": 2685351,
+                  "objectid": 146422,
+                  "filename": "2016_Paper_IIGCE.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/382091",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-08 04:23:37"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 32282,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/146422",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/inaga-api.or.id\/library\/IIGCE\/",
+      "pres_type": "paper",
+      "event_dates": "10-12 Agustus 2016",
+      "refereed": "TRUE",
+      "event_location": "Jakarta Convention Center",
+      "event_title": "The 4th Indonesia International Geothermal Convention & Exhibition 2016",
+      "subjects": [
+        "TA",
+        "TN"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32282",
+      "dir": "disk0\/00\/03\/22\/82",
+      "divisions": [
+        "FT1"
+      ],
+      "event_type": "conference",
+      "status_changed": "2021-06-08 06:35:50",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "lastmod": "2021-06-08 06:35:50",
+      "creators": [
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "name": {
+            "given": "Syamsurijal",
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null
+          }
+        },
+        {
+          "id": "suharno@eng.unila.ac.id",
+          "name": {
+            "given": "Suharno",
+            "family": "Suharno",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "zaenudin",
+            "lineage": null,
+            "honourific": null,
+            "given": "ahmad"
+          },
+          "id": "ahmad.zaenudin@eng.unila.ac.id"
+        },
+        {
+          "id": "nandahanyfa@gmail.com",
+          "name": {
+            "given": "Nanda Hanyfa",
+            "lineage": null,
+            "family": "Maulida",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "conference_item",
+      "title": "Three Dimensional Tomography Based on Microearthquake Data at Brady’s Hot Spring Geothermal Field, Nevada",
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id"
+    },
+    {
+      "lastmod": "2020-03-04 01:13:03",
+      "metadata_visibility": "show",
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "title": "ANALISIS KECEPATAN GELOMBANG GESER (Vs30) MENGGUNAKAN METODE SEISMIK MULTICHANNEL ANALYSIS OF SURFACE WAVE (MASW) UNTUK MENENTUKAN RESIKO BENCANA GEMPABUMI DI KOTA BANDAR LAMPUNG",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rasimeng",
+            "honourific": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Zuhelmi",
+            "given": "Eki"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Esha",
+            "honourific": null,
+            "family": "Firnanza",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Rahayu",
+            "honourific": null,
+            "given": "Titi Setianing"
+          }
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18255",
+      "volume": 3,
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "rev_number": 6,
+      "status_changed": "2020-03-04 01:13:03",
+      "publication": "ANALISIS KECEPATAN GELOMBANG GESER (Vs30) MENGGUNAKAN METODE SEISMIK MULTICHANNEL ANALYSIS OF SURFACE WAVE (MASW) UNTUK MENENTUKAN RESIKO BENCANA GEMPABUMI DI KOTA BANDAR LAMPUNG",
+      "dir": "disk0\/00\/01\/82\/55",
+      "divisions": [
+        "FT1"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 153712,
+                  "mime_type": "application\/pdf",
+                  "hash": "28ecea12aa2d019d6163e213edcf7c29",
+                  "filesize": 1217630,
+                  "objectid": 31407,
+                  "filename": "2016_IABI_Analisis_Kecepatan.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153712",
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-27 07:36:18"
+                }
+            ],
+            "main": "2016_IABI_Analisis_Kecepatan.pdf",
+            "docid": 31407,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31407",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18255
+          }
+      ],
+      "official_url": "https:\/\/www.iabi-indonesia.org\/wp-content\/uploads\/2016\/06\/Prosiding-2016.pdf",
+      "number": 1,
+      "contributors": [
+        {
+          "name": {
+            "given": "Syamsurijal",
+            "lineage": null,
+            "family": "Rasimeng",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "userid": 886,
+      "pagerange": "187-191",
+      "eprintid": 18255,
+      "eprint_status": "archive",
+      "datestamp": "2020-03-04 01:13:03",
+      "refereed": "TRUE",
+      "date": "2016-09-05",
+      "corp_creators": [
+        "Jurusan Teknik Geofisika, Fakultas Teknik, Universitas Lampung"
+      ],
+      "abstract": "Telah dilakukan penelitian analisis kecepatan gelombang geser (Vs30) untuk mendapatkan indicator nilai pergerakan tanah sebagai upaya mitigasi bencana gempabumi pada beberapa lokasi di wilayah Bandar Lampung. Penelitian ini menggunakan metoda seismik Multi -channel Analysis of Surface Wave (MASW) aktif. Prinsip dasar metode MASW adalah menentukan kecepatan gelombang geser dari perlapisan batuan dekat permukaan (subsurface). Lokasi penelitian meliputi; (1). Kedaton yang mewakili zona pendidikan, perdagangan, dan fasilitas umum, (2). Kemiling yang mewakili zona perumahan, (3). Teluk Betung Utara yang mewakili zona pusat perkantoran\/pemerintahan dan (4). Panjang mewakili zona industri. Pemilihan lokasi didasarkan pada level urgensi -nya terhadap kerawanan gempabumi berdasarkan klasifikasi jenis batuan bawah permukaan. Tahapan penelitian ini meliputi ; (i). Pengukuran data pada empat lokasi tersebut, (ii). Pengolahan data meliputi edit geometri, FFT, picking\r\nkurva frekuensi vs phase-velocity, (iii). Perhitungan inversi Vs30 vs kedalaman, (iv). Analisis dan Kesimpulan. Berdasarkan hasil analisis data diperoleh kecepatan gelombang geser Vs30 rata -rata pada keempat wilayah tersebut antara lain; Kedaton (215 m\/dtk), Kemiling (160 m\/dtk) dan Panjang (135 m\/dtk) yang diidentifikasi sebagai lapisan batuan endapan dan merupakan hasil pelapukan batuan yang belum mengalami kompaksi. Sedangkan wilayah Teluk Betung Utara dengan kecepatan gelombang geser sebesar 550 m\/dtk diidentifikasi hanya memiliki lapisan top soil sangat tipis yang berada di atas batuan keras atau batuan kompak dan merupakan produk dari gunung Betung. Sehingga wilayah\r\nKedaton, Kemiling dan Panjang yang mewakili zona fasilitas umum, perumahan dan industry merupakan wilayah yang memiliki resiko kerusakan tinggi saat terjadi gempabumi.",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "978-602-74604-1-6",
+      "publisher": "Ikatan Ahli Kebencanaan",
+      "related_url": [
+        {
+          "url": "https:\/\/www.iabi-indonesia.org\/wp-content\/uploads\/2016\/06\/Prosiding-2016.pdf",
+          "type": "pub"
+        }
+      ]
+    },
+    {
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "completed",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50925",
+      "date": 2016,
+      "abstract": "Similirity Separation method of anomaly source: The time-lapse microgravity data,",
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "Sarkowi",
+      "dir": "disk0_bak\/00\/05\/09\/25",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "status_changed": "2023-05-02 07:35:21",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 50925,
+      "datestamp": "2023-05-02 07:35:21",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "15-SeparationMethodeAnomaly-IOP.pdf[1].pdf",
+            "docid": 190639,
+            "files": [
+                {
+                  "filename": "15-SeparationMethodeAnomaly-IOP.pdf[1].pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548129",
+                  "objectid": 190639,
+                  "filesize": 583916,
+                  "mtime": "2023-05-02 03:47:11",
+                  "hash_type": "MD5",
+                  "hash": "e8bc1bd64aef7f7631605300583ed41f",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 548129
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190639",
+            "eprintid": 50925,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-05-02 07:35:21",
+      "userid": 816,
+      "title": "Similirity Separation method of anomaly source: The time-lapse microgravity data,",
+      "type": "other",
+      "creators": [
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "given": "Muh",
+            "lineage": null,
+            "family": "Sarkowi",
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "subjects": [
+        "QE"
+      ],
+      "date": "2016-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2685",
+      "abstract": "Telah dilakukan studi pendahuluan mengenai manifestasi panasbumi di daerah Way Ratai Kabupaten Pesawaran. Metode yang dilakukan untuk mengidentifikasi adanya sumber panasbumi ini dengan menggunakan pemetaan geologi permukaan yang terdiri dari penemuan silika sinter dan beberapa titik sumber mata air panas. Pemetaan geologi dan pengkajian struktur geologi dalam survei awal bertujuan sebagai pendugaan adanya prospek panas bumi di bawah permukaan yang dapat dimanfaatkan sebagai sumber energi. Dalam pola aliran fluida panasbumi  di bawah permukaan dapat diketahui berdasarkan manifestasi panasbumi yang muncul di  permukaan berupa gunungapi, mata air panas, dan geyser, serta ditemukannya teracing silika sinter yang merupakan karakteristik lain dari deposit sistem panasbumi. Adanya uap dan air panas yang muncul di permukaan melalui struktur-struktur seperti sesar dan rekahan berkaitan dengan keadaan geologis Way Ratai yang berada di zona sesar utama Sumatera.Dari hasil studi disimpulkan bahwa Way Ratai termasuk lapangan yang berpotensi untuk pengembangan panasbumi.",
+      "publication": "PERTEMUAN ILMIAH TAHUNAN HIMPUNAN AHLI GEOFISIKA INDONESIA 2016",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/00\/26\/85",
+      "rev_number": 9,
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "status_changed": "2017-06-02 06:25:51",
+      "metadata_visibility": "show",
+      "pagerange": "1-4",
+      "datestamp": "2017-06-02 06:25:51",
+      "eprintid": 2685,
+      "eprint_status": "archive",
+      "lastmod": "2017-06-02 06:25:51",
+      "documents": [
+          {
+            "docid": 2554,
+            "main": "PanasbumiWairataiSuharno.pdf",
+            "files": [
+                {
+                  "fileid": 18483,
+                  "datasetid": "document",
+                  "hash": "b44c0034b3b5f1361d45ecc62a328951",
+                  "mime_type": "application\/pdf",
+                  "filesize": 427248,
+                  "objectid": 2554,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/18483",
+                  "filename": "PanasbumiWairataiSuharno.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 16:09:09"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 2685,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2554",
+            "security": "public"
+          }
+      ],
+      "userid": 1070,
+      "title": "PENELITIAN PEDAHULUAN PANASBUMI WAIRATAI PESAWARANLAMPUNG INDONESIA",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "id": "suharno@eng.unila.ac.id",
+          "name": {
+            "given": "Suharno",
+            "lineage": null,
+            "family": "Suharno",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Putri",
+            "given": "Medi Kurnia"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Hidayatika",
+            "lineage": null,
+            "honourific": null,
+            "given": "Akroma"
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "datestamp": "2017-06-12 07:29:06",
+      "eprint_status": "archive",
+      "editors": [
+        {
+          "name": {
+            "given": "Hamzah",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          }
+        }
+      ],
+      "eprintid": 3082,
+      "metadata_visibility": "show",
+      "userid": 662,
+      "official_url": "http:\/\/www.unhas.ac.id\/geofisika\/",
+      "lastmod": "2017-06-12 07:29:06",
+      "pages": 6,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "ahmad-zaenudin_Prosiding SNGef Unhas 2016 - Fixed.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "9a33b0b895fa0368a0b2964c9646bf7f",
+                  "datasetid": "document",
+                  "fileid": 21305,
+                  "mtime": "2017-06-02 06:04:59",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21305",
+                  "filename": "ahmad-zaenudin_Prosiding SNGef Unhas 2016 - Fixed.pdf",
+                  "objectid": 2962,
+                  "filesize": 368424
+                }
+            ],
+            "docid": 2962,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2962",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3082
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "zaenudin",
+            "honourific": null,
+            "given": "ahmad"
+          },
+          "id": "ahmad.zaenudin@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Suharno",
+            "lineage": null,
+            "family": "Suharno",
+            "honourific": null
+          },
+          "id": "suharno@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "mezrin",
+            "lineage": null,
+            "honourific": null,
+            "given": "romosi"
+          },
+          "id": "mezrin@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "bagus",
+            "honourific": null,
+            "given": "sapto"
+          },
+          "id": "bagus.sapto@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "kristianto",
+            "given": "kristianto"
+          }
+        }
+      ],
+      "type": "book",
+      "title": "Deliniasi Bidang Gelincir Menggunakan Metode Geolistrik, MASW, dan Data Mekanika Tanah\r\n(Studi Kasus: Malausma-Majalengka-Jawa Barat)",
+      "refereed": "TRUE",
+      "place_of_pub": "Makassar",
+      "date_type": "published",
+      "subjects": [
+        "QE"
+      ],
+      "abstract": "Telah dilakukan penelitian gerakan tanah di Dusun\r\nCigintung Desa Cimuncang Kec. Malausma Kab.\r\nMajalengka menggunakan metode geolistrik tahanan jenis\r\nkonfigurasi Wenner-Schlumberger, MASW, dan data\r\nmekanika tanah. Penelitian ini bertujuan untuk\r\nmenganalisis hasil pemodelan bawah permukaan yang\r\nterukur. Dari hasil pemodelan geolistrik diperoleh nilai\r\ntahanan jenis <25 ohm.m diduga merupakan lapisan\r\nlempung, nilai tahanan jenis antara 25-75 ohm.m diduga\r\nmerupakan lapisan tufa dan nilai tahanan jenis >75 ohm.m\r\ndiduga merupakan lapisan breksi tak terkonsolidasi. Dari\r\npemodelan MASW diperoleh nilai kecepatan gelombang S\r\nsekitar 40-183 m\/s diduga merupakan lapisan tanah lunak\r\ndan nilai kecepatan gelombang S sekitar 183-366 m\/s\r\ndiduga merupakan lapisan tanah kaku. Dari hasil\r\npemodelan Geoslope diperoleh nilai Faktor Keamanan\r\n(FK) lintasan 1 sekitar 1,261 yang berarti lereng tersebut\r\nrelatif stabil dan lintasan 4 sekitar 0,980 yang berarti lereng\r\ntersebut termasuk lereng labil.",
+      "corp_creators": [
+        "Geofisika Universitas Hasanuddin"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3082",
+      "date": "2016-08-06",
+      "publisher": "Departemen Geofisika, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Hasanuddin",
+      "dir": "disk0\/00\/00\/30\/82",
+      "divisions": [
+        "FT1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2017-06-12 07:29:06",
+      "rev_number": 9,
+      "ispublished": "pub"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2017-06-07 09:26:24",
+      "eprintid": 2982,
+      "eprint_status": "archive",
+      "lastmod": "2017-06-07 09:26:24",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2982,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2866",
+            "pos": 1,
+            "security": "public",
+            "files": [
+                {
+                  "mtime": "2017-06-02 03:24:48",
+                  "hash_type": "MD5",
+                  "filename": "iigece_Ahmad Zaenudin.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20616",
+                  "objectid": 2866,
+                  "filesize": 1960905,
+                  "hash": "f90634d1467ab952e9e793f2be4698df",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 20616
+                }
+            ],
+            "main": "iigece_Ahmad Zaenudin.pdf",
+            "docid": 2866,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pages": 8,
+      "userid": 662,
+      "title": "Three Dimensional Tomography Based on Microearthquake Data at Brady’s Hot Spring\r\nGeothermal Field, Nevada",
+      "refereed": "TRUE",
+      "type": "book",
+      "creators": [
+        {
+          "id": "ahmad.zaenudin@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "zaenudin",
+            "lineage": null,
+            "given": "ahmad"
+          }
+        },
+        {
+          "id": "suharno@eng.unila.ac.id",
+          "name": {
+            "family": "Suharno",
+            "lineage": null,
+            "honourific": null,
+            "given": "Suharno"
+          }
+        },
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "name": {
+            "given": "rasimeng",
+            "honourific": null,
+            "lineage": null,
+            "family": "syamsurijal"
+          }
+        },
+        {
+          "name": {
+            "given": "Nanda",
+            "honourific": null,
+            "family": "Nanda Hanifa Maulida",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "place_of_pub": "Jakarta",
+      "date_type": "published",
+      "subjects": [
+        "QE"
+      ],
+      "date": "2016-08-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2982",
+      "abstract": "Microearthquake activity in the geothermal field is related to\r\nreservoir and sub-surface structure. According to the data\r\nrecorded, Brady’s Hot Spring which is a non-magmatic\r\nconvection-dominated geothermal play system has high\r\nseismicity. Three-dimensional Vp anomaly, Vs anomaly, and\r\nVp\/Vs-ratio structure are presented for The Brady’s Hot\r\nSpring geothermal field using microearthquake travel-time\r\ndata. The data were recorded by the Northern California\r\nEarthquake Data Center (NCEDC) using 8 stations seismic\r\nnetwork. In addition, it uses 1D velocity models data and\r\ncoordinates of the station as supporting data. The data proceed\r\nby Lotos 13 consists of determining preliminary location,\r\nrelocating microearthquake source and inverting tomography\r\nby LSQR iterative method, then visualizing the model. The\r\nresults indicate high Vp anomaly (5% to 25%) and low Vs\r\nanomaly (0% to -15%) in high seismicity zone. It also\r\nindicates high Vp\/Vs (1.8 to 2.3) in the central section of The\r\nBrady’s around high seismicity zone and low Vp\/Vs (1.4 to\r\n1.7) below manifestation zone. High and low Vp\/Vs-ratios are\r\nrelated to water and steam saturated zones, respectively.\r\nInterpretation shows that the reservoir area has high\r\nseismicity between 300 to 1400 meters depth, high\r\npermeability, and Brady’s Hot Spring main reservoir is in\r\nwater dominated. As it seen in the result, with tomography\r\ninversion we succeed to get very detail seismicity and\r\nanomaly velocity distribution related to the reservoir in\r\nBrady’s Hot Spring, Nevada.",
+      "publisher": "IIGCE 2016",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/00\/29\/82",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "status_changed": "2017-06-07 09:26:24"
+    },
+    {
+      "place_of_pub": "Palembang",
+      "isbn": "979-587-617-1",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "zaenudin",
+            "honourific": null,
+            "given": "ahmad"
+          },
+          "id": "ahmad.zaenudin@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "aribowo",
+            "honourific": null,
+            "family": "yoga",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Dyah Indriana",
+            "lineage": null,
+            "family": "Kusumastuti",
+            "honourific": null
+          },
+          "id": "kusumast@gmail.com"
+        },
+        {
+          "id": "yulmartin@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Martin",
+            "lineage": null,
+            "given": "Yul"
+          }
+        }
+      ],
+      "title": "PEMETAAN GEOLOGI DAN UJI SIFAT FISIKA BATUAN\r\nANDESIT DI BAKAUHENI DAN TANJUNGAN, LAMPUNG\r\nSELATAN",
+      "refereed": "TRUE",
+      "userid": 662,
+      "official_url": "http:\/\/avoer.ft.unsri.ac.id",
+      "lastmod": "2017-06-12 07:27:49",
+      "pages": 11,
+      "documents": [
+          {
+            "main": "ahmad_zaenudin_PROSIDING AVOER 8 2016.pdf",
+            "files": [
+                {
+                  "filename": "ahmad_zaenudin_PROSIDING AVOER 8 2016.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21339",
+                  "filesize": 676301,
+                  "objectid": 2965,
+                  "mtime": "2017-06-02 06:14:40",
+                  "hash_type": "MD5",
+                  "hash": "54e341560d2a9607d4ffea7a9ae28a86",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 21339
+                }
+            ],
+            "docid": 2965,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 3088,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2965",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2017-06-12 07:27:49",
+      "editors": [
+        {
+          "name": {
+            "given": "Nasir",
+            "lineage": null,
+            "family": "Subriyer",
+            "honourific": null
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "eprintid": 3088,
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "status_changed": "2017-06-12 07:27:49",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Faculty of Engineering, Universitas Sriwijaya",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/00\/30\/88",
+      "abstract": "Pemetaan geologi dan uji sifat fisika batuan andesit di Lampung Selatan ini sangat penting,\r\ndalam rangka mendukung percepatan pembangunan kawasan ini. Pemetaan dilakukan dengan\r\ncitra satelit yang ditindak lanjuti dengan survey geologi lapangan. Pengujian sifat fisika\r\nbatuan non-logam pengujian di laboratorium melalui uji keausan Los Angeles, berat jenis dan\r\npenyerapan air. Hasil pemerian geologi menunjukan bahwa batuan non-logam di daerah ini\r\nmerupakan hasil intrusi batuan vulkanik. Distribusi batuan non-logam muncul secara\r\nmengelompok di Gn. Pancong, Gn. Sepan dan sekitarnya di Bakauheni, di Tanjungan dan\r\nTarahan. Pengujian keausan menunjukan hasil antara 13% - 31%. Sedangkan berat jenis\r\nantara 2,35 – 2,68 gram\/cc dan tingkat penyerapan terhadap air antara 0,50 % - 1,17%. Sifat\r\nfisika ini menunjukan sifat fisika yang baik, yang berdasarkan SII.0378-80, dapat digunakan\r\nuntuk podasi bangunan berat. Dari hasil pemetaan dan uji sifat fisika menunjukan Kualitas\r\nbatuan di Tanjungan dan Tarahan lebih baik dan berumur lebih tua (F. Komplek Gunung\r\nKasih), sedangkan di Bakauheni dan sekitarnya berumur lebih muda dengan tingkat\r\npelakupan lebih intensif.",
+      "corp_creators": [
+        "Faculty of Engineering, Universitas Sriwijaya"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3088",
+      "date": "2016-10-20",
+      "date_type": "published",
+      "subjects": [
+        "QE"
+      ]
+    }
+]
+

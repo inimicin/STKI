@@ -1,0 +1,197 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hartono",
+            "given": "Madi"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Kualitas Semen Kambing Peranakan Boer",
+      "eprint_status": "archive",
+      "eprintid": 5865,
+      "datestamp": "2017-11-17 04:26:41",
+      "pagerange": "52-58",
+      "metadata_visibility": "show",
+      "number": 1,
+      "contributors": [
+        {
+          "name": {
+            "given": "Madi",
+            "lineage": null,
+            "family": "HartonoM",
+            "honourific": null
+          },
+          "id": "madihartono66@yahoo.co.id"
+        }
+      ],
+      "userid": 787,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 5865,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18788",
+            "security": "public",
+            "files": [
+                {
+                  "hash": "e1c9c92fdd08f8f61bb9ad486d7a2ca9",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 54649,
+                  "mtime": "2017-11-17 04:18:58",
+                  "hash_type": "MD5",
+                  "filename": "JPPT POLINELA SEMEN BOER.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54649",
+                  "objectid": 18788,
+                  "filesize": 297469
+                }
+            ],
+            "main": "JPPT POLINELA SEMEN BOER.pdf",
+            "docid": 18788,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2017-11-17 04:26:41",
+      "official_url": "http:\/\/www.jptonline.or.id",
+      "dir": "disk0\/00\/00\/58\/65",
+      "publisher": "Poloiteknik Negeri Lampung",
+      "publication": "Jurnal Penelitian Pertanian Terapan",
+      "divisions": [
+        "FP17"
+      ],
+      "status_changed": "2017-11-17 04:26:41",
+      "full_text_status": "public",
+      "issn": "1410-5020",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "subjects": [
+        "SF"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 10,
+      "abstract": "The research was aimed to study quality of semen crossbreed Boer goat. The study was conducted at Batu Kramat Village, Kota Agung Timur Subdistrict, Tanggamus District, Lampung Province during November-December 2008. A Completely Randomized Design with five replications was used with four breeds goat that were Kacang, PE, Boercang, and Boerawa. The result showed that breed of goat were  not significantly different (P>0,05) about volume, concentration, and abnormality of semen, but were significantly affected (P<0,01) with motility and live-cells. The best quality of semen was Boerawa goat i.e. volume 1,02 ml; motility 88%; concentration 2.290.000.000 cells.ml-1; live-cell\r\n89,67%; and abnormality 1,98%.\r\n\r\n\r\nKey word : quality of semen, crossbreed Boer goat",
+      "date": "2010-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5865"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Sumardi",
+            "lineage": null,
+            "family": "Sumardi",
+            "honourific": null
+          },
+          "id": "sumardi_bio@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Madi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hartono"
+          },
+          "id": "madi.hartono@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Kusuma",
+            "honourific": null,
+            "lineage": null,
+            "family": "Handayani"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "PENGARUH PEMBERIAN BIAKAN BACILLUS Sp. TERHADAP PERTUMBUHAN SALMONELA DAN ESCHERICHIA COLI PADA BROILER",
+      "eprintid": 6758,
+      "eprint_status": "archive",
+      "datestamp": "2018-04-25 07:56:10",
+      "pagerange": "415-422",
+      "metadata_visibility": "show",
+      "contributors": [
+        {
+          "name": {
+            "given": "Madi",
+            "family": "Hartono",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "userid": 787,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 19726,
+            "main": "Prosiding MH Probiotik.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 61992,
+                  "mime_type": "application\/pdf",
+                  "hash": "dd7de6d4bfd984482e0fa5e653884466",
+                  "hash_type": "MD5",
+                  "mtime": "2018-04-19 14:08:18",
+                  "objectid": 19726,
+                  "filesize": 880170,
+                  "filename": "Prosiding MH Probiotik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61992"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19726",
+            "pos": 1,
+            "eprintid": 6758,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2018-04-25 07:56:10",
+      "official_url": "hhtp:\/\/ lemlit@unila.ac.id",
+      "publisher": "LPPM Unila",
+      "publication": "PROSIDING Seminar Nasional Sains dan Teknologi III",
+      "divisions": [
+        "FP17"
+      ],
+      "dir": "disk0\/00\/00\/67\/58",
+      "related_url": [
+        {
+          "url": "hhtp:\/\/lppm@kpa.unila.ac.id"
+        }
+      ],
+      "status_changed": "2018-04-25 07:56:10",
+      "full_text_status": "public",
+      "issn": "978–979-8510-20-5",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "SF"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 1,
+      "abstract": "Tujuan penelitian ini adalah untuk mengetahui pengaruh biakan Bacillus sp. terhadap pertumbuhan Salmonella sp dan Escherichia coli pada broiler. Dari hasil penelitian dapat diketahui bahwa Bacillus dapat menekan pertumbuhan\r\nSalmonella sp (T3= 0,76 dari LogX+1), sedangkan E.coli tidak mampu memperlihatkan pengaruhnya. Efek pemberian Bacillus sp juga memperlihatkan PBT (Pertambahan Bobot Tubuh) 478 gr pada minggu ke-4 dan bobot karkas 900\r\ngr. Hasil tersebut tidak berbeda nyata pada perlakuan probiotik komersial.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6758",
+      "date": "2010-10-19"
+    }
+]
+

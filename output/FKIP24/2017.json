@@ -1,0 +1,73 @@
+[
+    {
+      "userid": 342,
+      "documents": [
+          {
+            "eprintid": 7792,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20832",
+            "format": "text",
+            "docid": 20832,
+            "main": "buku syaiful.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "ae68c671c499e5558c027cd497ed43cb",
+                  "datasetid": "document",
+                  "fileid": 69724,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69724",
+                  "filename": "buku syaiful.pdf",
+                  "filesize": 857039,
+                  "objectid": 20832,
+                  "mtime": "2018-06-26 02:19:10",
+                  "hash_type": "MD5"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "pages": 62,
+      "lastmod": "2018-06-26 02:50:02",
+      "eprint_status": "archive",
+      "eprintid": 7792,
+      "datestamp": "2018-06-26 02:50:02",
+      "metadata_visibility": "show",
+      "place_of_pub": "Indonesia",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Drs. syaiful. M., M.Si.",
+            "lineage": null,
+            "given": "Drs. syaiful. M., M.Si."
+          },
+          "id": "syaifulm50@gmail.com"
+        }
+      ],
+      "type": "book",
+      "isbn": "978-602-61902-8-4",
+      "refereed": "TRUE",
+      "title": "MITOS MASYARAKAT LAMPUNG",
+      "abstract": "Mitos kadang kala diartikan sebagai tradisi dari zaman prasejarah, yang biasanya berhubungan dengan salah satu dewa atau suatu kekuatan alam yang dipersonifikasikan, atau cerita yang tidak mengandung kebenaran dan diperlakukan kadang kala sebagai kebenaran.",
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7792",
+      "subjects": [
+        "L1",
+        "LA"
+      ],
+      "status_changed": "2018-06-26 02:50:02",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "unpub",
+      "divisions": [
+        "FKIP24"
+      ],
+      "publisher": "histokultura",
+      "dir": "disk0\/00\/00\/77\/92"
+    }
+]
+

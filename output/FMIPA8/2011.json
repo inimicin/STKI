@@ -1,0 +1,180 @@
+[
+    {
+      "title": "Pengantar Topologi",
+      "refereed": "FALSE",
+      "isbn": "978-602-98559-0-6",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Usman",
+            "given": "Mustofa"
+          },
+          "id": "usman_alfha@yahoo.com"
+        }
+      ],
+      "place_of_pub": "Bandar Lampung, Indonesia",
+      "metadata_visibility": "show",
+      "datestamp": "2016-12-02 01:36:32",
+      "eprintid": 1276,
+      "eprint_status": "archive",
+      "lastmod": "2016-12-02 01:36:32",
+      "pages": 195,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 1276,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1150",
+            "security": "public",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-29 12:40:43",
+                  "filesize": 1558179,
+                  "objectid": 1150,
+                  "filename": "TOPOLOGI_01.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8543",
+                  "datasetid": "document",
+                  "fileid": 8543,
+                  "mime_type": "application\/pdf",
+                  "hash": "432900da32da3d2ad9d0b145d9c071b6"
+                }
+            ],
+            "main": "TOPOLOGI_01.pdf",
+            "docid": 1150,
+            "format": "text",
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "rev_number": 2
+          }
+      ],
+      "userid": 701,
+      "dir": "disk0\/00\/00\/12\/76",
+      "publisher": "Gema Perkasa Abadi",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2016-12-02 01:36:32",
+      "subjects": [
+        "QA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1276",
+      "date": 2011,
+      "abstract": "Topologi sebagai cabang matematika modern merupakan alat yang sangat penting dalam memahami matematika, terutama konsep-konsep dasar matematika yang berkembang saat ini. Topologi adalah cabang matematika yang berkembang pesat setelah ditemukannya konsep Teori Himpunan serta merupakan hasil karya besar dari para seniman matematika yang telah memperkaya khasanah keilmuan kita, khususnya matematika. Topologi sendiri berkembang secara alamiah dari perkembangan Geometri dan Analisis. Topologi tidak saja merupakan alat yang sangat ampuh dalam banyak cabang matematika seperti dalam Real Analisis, Geometri dan Teori Peluang, melainkan juga subjek yang sangat penting untuk mengembangkan kemampuan berfikir para mahasiswa dan meningkatkan kemampuan berfikir secara jelas dalam melakukan pembuktian secara sistematis, teliti dan tepat.",
+      "corp_creators": [
+        "Departemen matematika, Universitas Lampung"
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6102",
+      "date": "2011-04",
+      "volume": 5,
+      "corp_creators": [
+        "Universitas Lampung",
+        "Natal University, South Africa",
+        "IIUM, Malaysia",
+        "IIUM Malaysia"
+      ],
+      "abstract": "Abstract: The application of Experimental Design nowadays is very extensive in many research areas,\r\nespecially in Engineering, Agriculture, Education and Life sciences. In many experimental designs\r\nsometimes the researchers want to compare parameters from some design of experiments. This paper\r\nwill discuss the approach to combine several RCBDs (Randomized Complete Block Designs) for the\r\nfixed effect model. The combined model is non full column rank and has constraint on its parameters.\r\nThe approach used in this paper is MRM (Model Reduction Method) to transform the constrained\r\nmodel into unconstrained model. Then the analysis of interest will be based on the unconstrained\r\nmodel.\r\n\r\nKey words: RCBDs, MRM(Model Reduction Method), orthogonal Matrix, Likelihood Ratio Test,\r\ntesting hypothesis.",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2018-04-26 02:04:34",
+      "issn": "ISSN 1991-8178",
+      "full_text_status": "public",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "publisher": "AENSI",
+      "publication": "Australian Journal of Basic and Applied Sciences",
+      "dir": "disk0\/00\/00\/61\/02",
+      "documents": [
+          {
+            "format": "text",
+            "main": "AJBAS MUSTOFA Paper.pdf",
+            "files": [
+                {
+                  "hash": "1c613d32cbd3d3582bcd7da09d896769",
+                  "mime_type": "application\/pdf",
+                  "fileid": 56196,
+                  "datasetid": "document",
+                  "mtime": "2017-11-22 01:02:41",
+                  "hash_type": "MD5",
+                  "filename": "AJBAS MUSTOFA Paper.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/56196",
+                  "objectid": 19012,
+                  "filesize": 154404
+                }
+            ],
+            "docid": 19012,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 6102,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19012"
+          }
+      ],
+      "lastmod": "2018-04-26 02:04:34",
+      "number": 4,
+      "userid": 701,
+      "pagerange": "67-75",
+      "metadata_visibility": "show",
+      "eprintid": 6102,
+      "eprint_status": "archive",
+      "datestamp": "2018-04-26 02:04:34",
+      "refereed": "TRUE",
+      "title": "The Combination of Several RCBDs",
+      "creators": [
+        {
+          "name": {
+            "given": "Mustofa",
+            "lineage": null,
+            "family": "Usman",
+            "honourific": null
+          },
+          "id": "usman_alfha@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "NJuho",
+            "given": "Peter"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Elfaki",
+            "lineage": null,
+            "given": "Faiz A. M."
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Daoud",
+            "lineage": null,
+            "honourific": null,
+            "given": "Jamal I"
+          },
+          "id": "jamalidus@yahoo.com"
+        }
+      ],
+      "type": "article"
+    }
+]
+

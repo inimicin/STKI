@@ -1,0 +1,75 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "One of the measures that can be undertaken to save energy is to recover the energy discharged. This paper presents  the investigation of  saving energy discharged from the condensor of a split air conditioning unit for heating water. From the analytical and experimental approaches applied in the present work, it was found that a paralel installation of a heat transfer helix coil to condensor can produce 50 liters of hot water at an avarage temperature of 40 oC within an avarage intermittent period of 16 minutes.",
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13483",
+      "date": "2002-10",
+      "publisher": "Jurusan Teknik Mesin Fakultas Teknik Universitas Tarumanegara",
+      "publication": "poros",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/01\/34\/83",
+      "issn": "1410 - 6841",
+      "full_text_status": "public",
+      "status_changed": "2019-08-01 07:27:25",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "datestamp": "2019-08-01 07:27:25",
+      "eprint_status": "archive",
+      "eprintid": 13483,
+      "metadata_visibility": "show",
+      "pagerange": "231-241",
+      "userid": 984,
+      "number": 4,
+      "lastmod": "2019-08-01 07:27:25",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Makalah junal poros.pdf",
+            "docid": 26493,
+            "files": [
+                {
+                  "filesize": 10301740,
+                  "objectid": 26493,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117911",
+                  "filename": "Makalah junal poros.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-07-05 06:51:15",
+                  "datasetid": "document",
+                  "fileid": 117911,
+                  "hash": "456b5dda489ac2e0fe4c38effe74dc26",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26493",
+            "eprintid": 13483,
+            "placement": 1
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sinaga",
+            "honourific": null,
+            "given": "Jorfri Boike"
+          },
+          "id": "jorfri6@yahoo.com"
+        }
+      ],
+      "title": "Pemanfaatan Energi Panas yang Dibuang dari Kondensor untuk Pemanasan Air",
+      "refereed": "TRUE"
+    }
+]
+

@@ -1,0 +1,78 @@
+[
+    {
+      "date": 207,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49697",
+      "subjects": [
+        "Q1",
+        "QE"
+      ],
+      "date_type": "published",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2023-04-06 00:53:27",
+      "full_text_status": "public",
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat, Universitas Lampung",
+      "dir": "disk0_bak\/00\/04\/96\/97",
+      "documents": [
+          {
+            "eprintid": 49697,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189337",
+            "format": "text",
+            "main": "UNDANGAN DAN SERTIFIKAT, ESTIMASI NILAI TEMPERATUR FORMASI PADA SUMUR MINYAK MENGGUNAKAN METODE CORE DAN LOG (2007).pdf",
+            "docid": 189337,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 538624,
+                  "hash": "647f98da760036e383398e143c251769",
+                  "mime_type": "application\/pdf",
+                  "objectid": 189337,
+                  "filesize": 1255775,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538624",
+                  "filename": "UNDANGAN DAN SERTIFIKAT, ESTIMASI NILAI TEMPERATUR FORMASI PADA SUMUR MINYAK MENGGUNAKAN METODE CORE DAN LOG (2007).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-05 08:31:19"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-04-06 00:53:27",
+      "userid": 946,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 49697,
+      "datestamp": "2023-04-06 00:53:27",
+      "title": "ESTIMASI NILAI TEMPERATUR FORMASI PADA SUMUR MINYAK MENGGUNAKAN \r\nMETODE CORE DAN LOG",
+      "creators": [
+        {
+          "name": {
+            "given": "Ordas",
+            "honourific": null,
+            "family": "Dewanto",
+            "lineage": null
+          },
+          "id": "ordas.dewanto@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "hermanto",
+            "honourific": null,
+            "lineage": null,
+            "family": "hermanto"
+          },
+          "id": null
+        }
+      ],
+      "type": "other"
+    }
+]
+

@@ -1,0 +1,251 @@
+[
+    {
+      "userid": 409,
+      "number": 2,
+      "lastmod": "2020-05-22 01:48:47",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "jurnAL 2020.pdf",
+            "docid": 33559,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 190632,
+                  "hash": "82a4c78f3a9843d493fc2a5735ef4d30",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1005401,
+                  "objectid": 33559,
+                  "filename": "jurnAL 2020.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190632",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-20 06:29:52"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33559",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 20219
+          }
+      ],
+      "datestamp": "2020-05-22 01:48:47",
+      "eprint_status": "archive",
+      "eprintid": 20219,
+      "metadata_visibility": "show",
+      "pagerange": "139-150",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Nugraheni",
+            "family": "Irma Lusi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "irmalusi.nugraheni@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Suwarni",
+            "family": "Nani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nani.suwarni@fkip.unila.ac.id"
+        },
+        {
+          "id": "de_miswar@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Dedy",
+            "lineage": null,
+            "given": "Miswar"
+          }
+        },
+        {
+          "id": "amaliaanisafirbudi@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Amalia Anisafira",
+            "honourific": null,
+            "given": "Budi"
+          }
+        }
+      ],
+      "title": "Kajian Geospasial Berbasis Pendidikan Mitigasi di Kecamatan\r\nKelumbayan Kabupaten Tanggamus",
+      "refereed": "TRUE",
+      "abstract": "This study aims to assess the geospatial mitigation education in the form of the level of understanding and application of mitigation education in Kelumbayan District Tanggamus Regency Lampung Province. This research uses survey and interview methods. The object of this research is the community represented by students of SMAN 1, Kelumbayan District. Data collection in research uses the method of observation, study of literature, interviews, and documentation that is supported by data from related agencies. Analysis of the data used in this research is descriptive with a spatial approach. Conclusions from the results of the study, namely: (1) The level of knowledge of the Kelumbayan Subdistrict community about disaster mitigation is still low, and (2) the Kelumbayan community has implemented disaster mitigation for themselves and their surroundings\r\n\r\nKeywords: Geospasial; bencana; pendidikan mitigasi",
+      "volume": 2,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20219",
+      "date": "2019-05-01",
+      "date_type": "completed",
+      "subjects": [
+        "G1"
+      ],
+      "issn": "2580-9423",
+      "full_text_status": "public",
+      "status_changed": "2020-05-22 01:48:47",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publisher": "UNIVERSITAS NEGERI MAKASAR",
+      "dir": "disk0\/00\/02\/02\/19",
+      "publication": "UNM GEOGRAPHIC JOURNAL",
+      "divisions": [
+        "FKIP18"
+      ]
+    },
+    {
+      "title": "EKOLOGI PENDIDIKAN",
+      "refereed": "TRUE",
+      "isbn": "978-602-5947-82-7",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "given": "Dedi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Miswar"
+          },
+          "id": "dedimiswar@yahoo.com"
+        },
+        {
+          "id": "irmalusi42@gmail.com",
+          "name": {
+            "given": "Irma Lusi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nugraheni"
+          }
+        }
+      ],
+      "place_of_pub": "LAMPUNG",
+      "metadata_visibility": "show",
+      "datestamp": "2020-11-23 07:58:00",
+      "editors": [
+        {
+          "name": {
+            "given": "Dedi",
+            "honourific": null,
+            "family": "Miswar",
+            "lineage": null
+          },
+          "id": "dedimiswar@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Irma Lusi",
+            "honourific": null,
+            "family": "Nugraheni",
+            "lineage": null
+          },
+          "id": "irmalusi42@gmail.com"
+        }
+      ],
+      "eprintid": 26706,
+      "eprint_status": "archive",
+      "lastmod": "2020-11-23 07:58:00",
+      "documents": [
+          {
+            "format": "image",
+            "files": [
+                {
+                  "fileid": 239979,
+                  "datasetid": "document",
+                  "mime_type": "image\/jpeg",
+                  "hash": "9467b600a1ee47328072cdfddf70842f",
+                  "filesize": 40383,
+                  "objectid": 40680,
+                  "filename": "EKOLOGI PENDIDIKAN(ANGGOTA.2ORANG)BOOK.jpeg",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/239979",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-23 07:44:42"
+                }
+            ],
+            "main": "EKOLOGI PENDIDIKAN(ANGGOTA.2ORANG)BOOK.jpeg",
+            "docid": 40680,
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "rev_number": 1,
+            "eprintid": 26706,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40680",
+            "pos": 1
+          }
+      ],
+      "contributors": [
+        {
+          "id": "dedimiswar@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Miswar",
+            "given": "dedi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Nugraheni",
+            "lineage": null,
+            "given": "Irma Lusi"
+          },
+          "id": "irmalusi42@gmail.com"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": null,
+            "lineage": null,
+            "given": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": null,
+            "lineage": null,
+            "given": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 264,
+      "related_url": [
+        {
+          "type": "pub"
+        }
+      ],
+      "publisher": "PUSAKA MEDIA",
+      "dir": "disk0\/00\/02\/67\/06",
+      "divisions": [
+        "FKIP18"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-11-23 07:58:00",
+      "date_type": "published",
+      "subjects": [
+        "GF"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26706",
+      "date": "2019-08-04",
+      "abstract": "The environmental crisis being faced by people is essentiallythe impact of human behavior itself.Through a process of education, ecological values that aretaught by religion can be internalized to students. The main environmentaleducation starts from the family and more emphasis on informalprocesses. Interaction which is informal and emphasize the substancewill facilitate the establishment of ecological character for learners.",
+      "corp_creators": [
+        "Dedi Miswar Universitas Lampung",
+        "Irma Lusi Nugraheni Universitas Lampung"
+      ]
+    }
+]
+

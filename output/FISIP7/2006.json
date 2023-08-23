@@ -1,0 +1,223 @@
+[
+    {
+      "publisher": "Pustaka Wirausaha Muda",
+      "divisions": [
+        "FISIP7"
+      ],
+      "dir": "disk0\/00\/01\/02\/15",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2018-11-17 03:43:46",
+      "full_text_status": "public",
+      "book_title": "Menggugat Kebijakan Agraria",
+      "subjects": [
+        "HM",
+        "HN"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10215",
+      "date": 2006,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "refereed": "TRUE",
+      "title": "GEJOLAK AGRARIA DI PEDESAAN (Kasus Implementasi Agraria di Kabupaten Lampung Timur, Propinsi Lampung",
+      "creators": [
+        {
+          "id": "htyiluh@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hartoyo",
+            "given": "Hartoyo"
+          }
+        }
+      ],
+      "type": "book_section",
+      "isbn": "979-3099-38-0",
+      "pagerange": "101-133",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 10215,
+      "datestamp": "2018-11-17 03:43:46",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 10215,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23218",
+            "pos": 1,
+            "security": "public",
+            "main": "2006- Buku Menggugat Kbjk Agraria (10) sudah.pdf",
+            "docid": 23218,
+            "files": [
+                {
+                  "hash": "a6ad5e6967fce3d62c699cab2fc6cb5e",
+                  "mime_type": "application\/pdf",
+                  "fileid": 95454,
+                  "datasetid": "document",
+                  "mtime": "2018-11-17 03:37:42",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/95454",
+                  "filename": "2006- Buku Menggugat Kbjk Agraria (10) sudah.pdf",
+                  "filesize": 1558245,
+                  "objectid": 23218
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2018-11-17 03:43:46",
+      "userid": 792
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10225",
+      "date": 2006,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 10,
+      "date_type": "published",
+      "subjects": [
+        "HM",
+        "HN"
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "issn": "0854-8455",
+      "full_text_status": "public",
+      "status_changed": "2018-11-17 04:43:57",
+      "publication": "Jurnal Penelitian Ilmu Sosial dan Budaya (KOMUNITAS)",
+      "publisher": "FISIP Universitas Lampung",
+      "divisions": [
+        "FISIP7"
+      ],
+      "dir": "disk0\/00\/01\/02\/25",
+      "lastmod": "2019-10-28 06:16:18",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "fileid": 126853,
+                  "datasetid": "document",
+                  "hash": "8399ff24a6e602bfc32ac93ff56733c3",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-10-28 06:16:18",
+                  "filesize": 6863782,
+                  "objectid": 27748,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/126853",
+                  "filename": "2006- Jurnal Komunitas-Praktek Gadai Tanah Pertanian (10) sudah (fix).pdf"
+                }
+            ],
+            "main": "2006- Jurnal Komunitas-Praktek Gadai Tanah Pertanian (10) sudah (fix).pdf",
+            "docid": 27748,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27748",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 10225
+          }
+      ],
+      "userid": 792,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "13-22",
+      "datestamp": "2018-11-17 04:43:57",
+      "eprint_status": "archive",
+      "eprintid": 10225,
+      "title": "PRAKTEK GADAI TANAH PERTANIAN PADA MASYARAKAT ADAT LAMPUNG SAIBATIN",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Hartoyo",
+            "lineage": null,
+            "family": "Hartoyo",
+            "honourific": null
+          },
+          "id": "htyiluh@yahoo.co.id"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "userid": 792,
+      "number": 10,
+      "lastmod": "2019-06-14 05:47:04",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 26384,
+            "main": "02.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-06-14 05:11:31",
+                  "filesize": 1125991,
+                  "objectid": 26384,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117131",
+                  "filename": "02.pdf",
+                  "datasetid": "document",
+                  "fileid": 117131,
+                  "hash": "38623a0f043593e193a590d6bd1682d8",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26384",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13368
+          }
+      ],
+      "datestamp": "2019-06-14 05:47:04",
+      "eprint_status": "archive",
+      "eprintid": 13368,
+      "metadata_visibility": "show",
+      "pagerange": "13-22",
+      "creators": [
+        {
+          "id": "htyiluh@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "family": "Hartoyo",
+            "honourific": null,
+            "given": "Hartoyo"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Praktek Gadai Tanah Pertanian Pada Masyarakat Adat Lampung Saibatin",
+      "refereed": "TRUE",
+      "abstract": "Hasil Penilaian Sejawat Sebidang Atau Per Review Karya Ilmiah: Jurnal Nasional",
+      "volume": 1,
+      "date": "2006-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13368",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "issn": "0854-8455",
+      "full_text_status": "public",
+      "status_changed": "2019-06-14 05:47:04",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "FISIP Universitas Lampung",
+      "publication": "Jurnal Penelitian Ilmu Sosial dan Budaya (KOMUNITAS)",
+      "divisions": [
+        "FISIP7"
+      ],
+      "dir": "disk0\/00\/01\/33\/68"
+    }
+]
+

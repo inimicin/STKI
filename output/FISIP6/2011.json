@@ -1,0 +1,81 @@
+[
+    {
+      "pagerange": "71-80",
+      "metadata_visibility": "show",
+      "eprintid": 6378,
+      "eprint_status": "archive",
+      "datestamp": "2018-01-29 04:12:05",
+      "documents": [
+          {
+            "format": "image",
+            "main": "jurnal dinamika 2011.jpg",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 59216,
+                  "hash": "d8809dd465e9657d45c8fc8e64246289",
+                  "mime_type": "image\/jpeg",
+                  "hash_type": "MD5",
+                  "mtime": "2018-01-26 14:56:07",
+                  "filesize": 164474,
+                  "objectid": 19301,
+                  "filename": "jurnal dinamika 2011.jpg",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59216"
+                }
+            ],
+            "docid": 19301,
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "rev_number": 1,
+            "eprintid": 6378,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19301",
+            "pos": 1
+          }
+      ],
+      "official_url": "https:\/\/www.slideshare.net\/ongberlian\/jurnal-ilmiah-ilmu-sosial-dan-ilmu-politik-dinamika",
+      "lastmod": "2018-01-29 04:12:05",
+      "number": 7,
+      "userid": 680,
+      "refereed": "TRUE",
+      "title": "Analisis Terhadap Dinamika Civil Society Diranah Lokal",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Cahyadi",
+            "lineage": null,
+            "given": "Robi"
+          },
+          "id": "robi_ck@yahoo.com"
+        }
+      ],
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6378",
+      "date": "2011-06-30",
+      "volume": 4,
+      "abstract": "Keberadan masyarakat sipil di tingkat lokal memerlukan perhatian yang lebih, terutama sejak era otonomi daerah tahun 2005. Masyarakat sipil di tingkat lokal masih terkooptasi oleh kepentingan global dan pengaruh politik lokal.",
+      "publication": "Dinamika",
+      "publisher": "FISIP Universitas Baturaja OKU Sumatra Selatan",
+      "divisions": [
+        "FISIP6"
+      ],
+      "dir": "disk0\/00\/00\/63\/78",
+      "related_url": [
+        {
+          "url": "https:\/\/image.slidesharecdn.com\/jurnalilmiahilmusosialdanilmupolitikdinamika-151102050645-lva1-app6891\/95\/jurnal-ilmiah-ilmu-sosial-dan-ilmu-politik-dinamika-1-638.jpg?cb=1446440887"
+        }
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2018-01-29 04:12:05",
+      "issn": "1979-0899X",
+      "full_text_status": "public"
+    }
+]
+

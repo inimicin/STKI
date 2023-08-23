@@ -1,0 +1,95 @@
+[
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2020-11-18 01:36:51",
+      "eprintid": 25935,
+      "eprint_status": "archive",
+      "lastmod": "2020-11-18 01:36:51",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 25935,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39741",
+            "pos": 1,
+            "security": "public",
+            "main": "ABSTRAK SNMK III 2020 DEVITA SARI.pdf",
+            "files": [
+                {
+                  "filesize": 2774950,
+                  "objectid": 39741,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/233105",
+                  "filename": "ABSTRAK SNMK III 2020 DEVITA SARI.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-17 15:27:58",
+                  "datasetid": "document",
+                  "fileid": 233105,
+                  "mime_type": "application\/pdf",
+                  "hash": "3e2e659f7aa7103163fe1fedc86f7f79"
+                }
+            ],
+            "docid": 39741,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 488,
+      "title": "PENCARIAN PATH TERPENDEK DALAM KASUS RUTE PENGISIAN ATM BRI KOTA BANDAR LAMPUNG DENGAN MENGGUNAKAN ALGORITMA DIJKSTRA DAN ALGORITMA FLOYD WARSHALL",
+      "event_dates": "5 November 2020",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "family": "Devita",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sari"
+          },
+          "id": null
+        },
+        {
+          "id": "notiragayu@fmipa.unila.ac.id",
+          "name": {
+            "family": "Notiragayu",
+            "lineage": null,
+            "honourific": null,
+            "given": "Notiragayu"
+          }
+        },
+        {
+          "id": "aang.nuryaman@fmipa.unila.ac.id",
+          "name": {
+            "given": "Nuryaman",
+            "honourific": null,
+            "family": "Aang",
+            "lineage": null
+          }
+        }
+      ],
+      "event_location": "Jurusan Matematika FMIPA Universitas Lampung",
+      "date_type": "submitted",
+      "subjects": [
+        "QA"
+      ],
+      "event_title": "Seminar Nasional Metode Kuantitatif III",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25935",
+      "date": "2005-11-05",
+      "abstract": "Pencarian lintasan terpendek merupakan salah satu permasalahan optimasi yang banyak dibahas dalam bidang transportasi. Lintasan yang diperoleh ditujukan untuk meminimumkan biaya atau waktu tempuh maupun jarak.. Pada artikel ini meninjau penentuan rute terpendek pengisian ATM BRI Kota Bandar Lampung dari Kantor Cabang BRI Tanjung Karang menuju semua ATM BRI yang ada di Kota Bandar Lampung sebagai masalah pencarian lintasan terpendek (shortest path problem) pada sebuah graf berbobot dimana bobot garis terkait dengan panjang jalan yang menghubungkan dua ATM BRI. Algoritma yang digunakan dalam penyelesaian masalah ini adalah algoritma Dijkstra dan algoritma Floyd Warshall. Keefisienan kedua algoritma dalam menyelesaikan masalah ini akan dikaji berdasarkan lamanya waktu running program. Hasil yang diperoleh menunjukkan algoritma Dijkstra dan Floyd Warshall memberikan lintasan terpendek dengan jarak yang sama. Namun jika dilihat dari sisi running time, algoritma Dijkstra membutuhkan waktu lebih singkat dibandingkan algoritma Floyd Warshall. Dengan kata lain algoritma Dijkstra lebih efisien dibandingkan dengan algoritma Floyd Warshall.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "event_type": "conference",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0\/00\/02\/59\/35",
+      "ispublished": "submitted",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2020-11-18 01:36:51"
+    }
+]
+

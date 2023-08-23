@@ -1,0 +1,67 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18246",
+      "date": "2015-10",
+      "monograph_type": "manual",
+      "subjects": [
+        "H1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2020-02-27 07:20:37",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "divisions": [
+        "FISIP8"
+      ],
+      "publisher": "Bulak sumur Empat",
+      "dir": "disk0\/00\/01\/82\/46",
+      "userid": 880,
+      "lastmod": "2020-02-27 07:20:37",
+      "documents": [
+          {
+            "main": "Desentralisasi atau Resentralisasi REVIEW DR. ARI D..pdf",
+            "files": [
+                {
+                  "hash": "b8c4823528c5bba700502453b305973d",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 153641,
+                  "mtime": "2020-02-27 04:39:03",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153641",
+                  "filename": "Desentralisasi atau Resentralisasi REVIEW DR. ARI D..pdf",
+                  "objectid": 31395,
+                  "filesize": 533496
+                }
+            ],
+            "docid": 31395,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 18246,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31395",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2020-02-27 07:20:37",
+      "eprint_status": "archive",
+      "eprintid": 18246,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "Ari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Darmastuti"
+          }
+        }
+      ],
+      "type": "monograph",
+      "title": "Desentralisasi atau Resentralisasi : Arah Politik Pemerintahan UU No.23 tahun 2014"
+    }
+]
+

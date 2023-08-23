@@ -1,0 +1,141 @@
+[
+    {
+      "userid": 504,
+      "lastmod": "2016-09-26 01:09:34",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 654,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/559",
+            "security": "public",
+            "main": "20_Proceeding Nasional HEDS-SST 2006.pdf",
+            "docid": 559,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 3628,
+                  "mime_type": "application\/pdf",
+                  "hash": "730fdaa82f97bdd4ce77555b41b42b27",
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-23 06:25:56",
+                  "filesize": 5185452,
+                  "objectid": 559,
+                  "filename": "20_Proceeding Nasional HEDS-SST 2006.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3628"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2016-09-26 01:09:34",
+      "eprint_status": "archive",
+      "eprintid": 654,
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad Saudi",
+            "lineage": null,
+            "family": "Samosir",
+            "honourific": null
+          },
+          "id": "ahmad.saudi@eng.unila.ac.id"
+        }
+      ],
+      "title": "Design and Implementation of Uninterruptible Power Supply (UPS) Uses Digital Control System Base on Microcontroller",
+      "refereed": "TRUE",
+      "abstract": "Karya Ilmiah ini mepresentasikan tentang desain dan Implementasi sebuah Uninterruptible Power Supply (UPS) menggunakan pengendali Digital berbasis Mikrokontroler. \r\nPembahasan dimulai dengan prinsip kerja dan konfigurasi system UPS, elemen system UPS, dilanjutkan dengan perancangan system UPS menggunakan pengendali Digital berbasis Mikrokontroler. Rancangan system UPS yang diusulkan dimodelkan dan disimulasikan menggunakan perangkat lunak Simulink. Kemudian dilakukan pembangunan Hardware untuk memverifikasi unjuk kerja rangkaian.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/654",
+      "date": "2006-09",
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2016-09-26 01:09:34",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "Proceeding Makalah Peserta HEDS Seminar on Science & Technology (HEDS-SST) 2006",
+      "dir": "disk0\/00\/00\/06\/54"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2016-08-02 04:19:04",
+      "eprint_status": "archive",
+      "eprintid": 274,
+      "lastmod": "2016-08-02 04:19:04",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 1533,
+                  "datasetid": "document",
+                  "hash": "bb502c8971932b68d03a25057d39a49d",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-02 03:48:03",
+                  "objectid": 269,
+                  "filesize": 13028390,
+                  "filename": "Paper_Seminar_HEDS-SST.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1533"
+                }
+            ],
+            "main": "Paper_Seminar_HEDS-SST.pdf",
+            "docid": 269,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 274,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/269",
+            "pos": 1
+          }
+      ],
+      "userid": 504,
+      "title": "Design and Implementation of Uniterruptible Power Supply (UPS) Uses Digital Control System Base on Microcontroller",
+      "event_dates": "13-14 September 2006",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "ahmad.saudi@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Samosir",
+            "given": "Ahmad Saudi"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Bandar Lampung",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "event_title": "HEDS Seminar on Science & Technology (HEDS-SST) 2006",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/274",
+      "date": "2006-09",
+      "abstract": "UPS merupakan bagian yang sangat penting pada penggunaan peralatan peralatan kritis. Peralatan kritis didefinisikan sebagai beban berupa peralatan elektrik atau elektronik yang tidak mengijinkan ganggunan daya listrik dan peka terhadap simpangan jala jala pencatu daya. Beberapa contoh dari peralatan kritis adalah seperti peralatan komputer pengolah data, peralatan medik di ruang gawat darurat, peralatan kendali proses kontiniu, dan peralatan sistem telekomunikasi. Penelitian ini bertujuan untuk merancang model rangkaian UPS dengan sistem pengendali digital dan mengimplementasikan rancangan rangkaian menjadi sebuah UPS dengan sistem pengendali digital berbasis mikrokontroller.",
+      "event_type": "conference",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/02\/74",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2016-08-02 04:19:04"
+    }
+]
+

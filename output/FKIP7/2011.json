@@ -1,0 +1,106 @@
+[
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 30767,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138766",
+            "security": "public",
+            "formatdesc": "Artikel",
+            "docid": 138766,
+            "main": "7..pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "ebaa3c34bf76e3f453dbd9c9101041c7",
+                  "fileid": 364871,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364871",
+                  "filename": "7..pdf",
+                  "objectid": 138766,
+                  "filesize": 2058296,
+                  "mtime": "2021-05-25 07:51:23",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2
+          },
+          {
+            "format": "text",
+            "docid": 138768,
+            "main": "7.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "16bdd112ad6c0a714996ad83e187583e",
+                  "datasetid": "document",
+                  "fileid": 364876,
+                  "mtime": "2021-05-25 07:51:38",
+                  "hash_type": "MD5",
+                  "filename": "7.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364876",
+                  "filesize": 1056328,
+                  "objectid": 138768
+                }
+            ],
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 30767,
+            "placement": 2,
+            "formatdesc": "Reviewer",
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138768"
+          }
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/article\/view\/22289",
+      "lastmod": "2021-05-27 02:32:11",
+      "number": 1,
+      "userid": 783,
+      "pagerange": "94-100",
+      "metadata_visibility": "show",
+      "eprintid": 30767,
+      "eprint_status": "archive",
+      "datestamp": "2021-05-27 02:32:11",
+      "refereed": "TRUE",
+      "title": "Desain Kurikulum dan Silabus Bahasa Inggris untuk RSNBI di Provinsi Lampung.",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Ujang Suparman",
+            "lineage": null,
+            "honourific": null,
+            "given": "Suparman"
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30767",
+      "date": "2011-04-01",
+      "volume": 1,
+      "abstract": "Penelitian ini mengkaji komponen-komponen penting tentang RSNBI yang mencerminkan pelaksanaan program pemerintah. Penelitian ini difokuskan pada kajian desain kurikulum dan silabus Bahasa Inggris di tingkat SMP di Provinsi Lampung. Penelitian ini bersilat kualitatif. Hasil penelitian menunjukkan bahwa kurikulum yang diterapkan di RSNBI Lampung masih perlu dikembangkan. Secara umum, kurikulum tersebut masih sulit untuk diterapkan karena faktor sumber daya manusianya belum siap. Mayoritas guru (75%) masih sangat lemah dalam penguasaan Bahasa Inggris yang merupakan bahasa pengantarnya. Hanya satu dari empat orang guru yang memiliki nilai TOEIC yang tinggi. Direkomendasikan bahwa pemerintah hendaknya mengembangkan kualitas SDM-nya, terutama dalam penguasaan Bahasa Inggris para guru",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "status_changed": "2021-05-27 02:32:11",
+      "issn": "2087-9849",
+      "full_text_status": "public",
+      "publisher": "Unit Database dan Publikasi Ilmiah FKIP Unila",
+      "divisions": [
+        "FKIP7"
+      ],
+      "publication": "JPP Jurnal Pendidikan Progresif",
+      "dir": "disk0\/00\/03\/07\/67"
+    }
+]
+

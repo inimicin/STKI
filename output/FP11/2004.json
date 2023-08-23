@@ -1,0 +1,75 @@
+[
+    {
+      "subjects": [
+        "SD"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6505",
+      "date": "2004-06",
+      "volume": 10,
+      "abstract": "The sustainability of the pekarangan (homegarden) to provide farmers their daily needs is one way to solve the food security problem in South Lampung district. In this study, data on 123 household units were obtainet  by field study together with bio-physical observation. The socio-economic data were gathered using an interviev schedule. The level of sustainability of the pekarangan and the variables that affect it were measured by Analytic Hierarchy Process (AHP) and logit models. The independent variables used were SAl, FI, bio-physical factors and socio-economic factors.\r\nThe binomial forms were utilized to specify logit prediction models for classification of pekarangan sustainability. The rankings of significant factors that affected pekarangan sustainability were described by AHP including the overall inconsistency index and sensitivity analysis for each ranking.\r\nAn equation in binomial logit were found to be effective because the model yielded at least 90'% correct classifications of the sustainability level of the pekarangan units. The most significant variables based on binomial logit that affected \"pekarangan sustainability were number of agroforestry activities in pekarangan, Social Acceptability Index (SAI), Farming Index (FI), Decision Making, labour adequacy, Organic Matter Content (OMC), Bulk Density Soil. and soil aggregate stability.",
+      "divisions": [
+        "FP11"
+      ],
+      "publisher": "Fakultas Pertanian, Universitas Lampung",
+      "publication": "Sosio Ekonomika",
+      "dir": "disk0\/00\/00\/65\/05",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2018-02-23 08:08:36",
+      "issn": "0853-1293",
+      "full_text_status": "public",
+      "pagerange": "1-10",
+      "metadata_visibility": "show",
+      "eprintid": 6505,
+      "eprint_status": "archive",
+      "datestamp": "2018-02-23 08:08:36",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Ranking Prioritas Faktor-faktor yang Berpengaruh terhadap Kelestarian Agroforestri-Pekarangan di Lampung Selatan.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "ff9c12187605ffe10ecd9c1bcb472149",
+                  "datasetid": "document",
+                  "fileid": 60223,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60223",
+                  "filename": "Ranking Prioritas Faktor-faktor yang Berpengaruh terhadap Kelestarian Agroforestri-Pekarangan di Lampung Selatan.pdf",
+                  "objectid": 19452,
+                  "filesize": 11138362,
+                  "mtime": "2018-02-20 08:29:19",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 19452,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19452",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6505
+          }
+      ],
+      "lastmod": "2018-02-23 08:08:36",
+      "number": 1,
+      "userid": 981,
+      "refereed": "TRUE",
+      "title": "Ranking Prioritas Faktor-faktor yang Berpengaruh terhadap Kelestarian Agroforestry-pekarangan di Lampung Selatan",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wulandari",
+            "honourific": null,
+            "given": "Christine"
+          },
+          "id": "christine.wulandari@fp.unila.ac.id"
+        }
+      ],
+      "type": "article"
+    }
+]
+

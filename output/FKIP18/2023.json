@@ -1,0 +1,1317 @@
+[
+    {
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 3,
+      "abstract": "Pada era pandemi COVID-19 saat ini, pelayanan masyarakat menjadi suatu hal yang tidak dapat dihentikan. Kegiatan pelayanan yang dilakukan oleh kantor-kantor pelayanan masyarakat harus mendatangi tempat secara langsung. Salah satunya yaitu kantor Kelurahan Kota Karang yang terletak di Kecamatan Teluk Betung Timur, Bandar Lampung. Dalam pelayanan pada kantor-kantor di Provinsi Lampung belum menggunakan sistem sehingga proses pelayanan tersebut masih dilakukan secara manual dan dilakukan secara langsung.  Pelayanan yang dilakukan secara manual dalam bentuk arsip-arsip, seringkali terjadi kesalahan bahkan ada arsip data yang hilang atau rusak karena terlalu banyaknya arsip yang ada. Jika ada arsip yang diperlukan, pencarian arsip membutuhkan waktu yang cukup lama sehingga dapat menghambat pekerjaan lain. Pelayanan yang dilakukan secara langsung juga dapat menimbulkan kemungkinan terbentuknya cluster COVID-19 yang baru. Belum adanya sistem informasi pelayanan pada Kantor Kelurahan Kota Karang, menjadikan pencatatan dan penyimpanan data pelayanan menjadi kurang efisien. Berdasarkan pemaparan diatas, maka permasalahan tersebut dapat diselesaikan dengan melakukan rancang bangun sistem informasi pelayanan Kelurahan Kota Karang berbasis Website.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49671",
+      "date": "2023-03-04",
+      "subjects": [
+        "G1"
+      ],
+      "date_type": "published",
+      "status_changed": "2023-04-05 07:16:04",
+      "issn": "P-ISSN : 2776-3749 E-ISSN : 2808-1412",
+      "full_text_status": "none",
+      "ispublished": "pub",
+      "rev_number": 5,
+      "publication": "Jurnal Buguh",
+      "publisher": "Badan Pengelola KKN UNila",
+      "dir": "disk0_bak\/00\/04\/96\/71",
+      "divisions": [
+        "FKIP18"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh\/article\/view\/2090"
+        }
+      ],
+      "number": 1,
+      "userid": 409,
+      "official_url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh",
+      "lastmod": "2023-04-05 07:16:04",
+      "eprintid": 49671,
+      "id_number": "https:\/\/doi.org\/10.23960\/buguh.v3n1.2090",
+      "eprint_status": "archive",
+      "datestamp": "2023-04-05 07:16:04",
+      "pagerange": "48-55",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "id": "aristoteles.1981@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Aristoteles",
+            "given": "Aristoteles"
+          }
+        },
+        {
+          "name": {
+            "given": "DM",
+            "lineage": null,
+            "family": "Dedy Miswar",
+            "honourific": null
+          },
+          "id": "dedy.miswar@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yarmaidi",
+            "given": "Y"
+          },
+          "id": "yarmaidi@fkip.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "RANCANG BANGUN SISTEM INFORMASI PELAYANAN KELURAHAN KOTA KARANG BERBASIS WEB"
+    },
+    {
+      "userid": 409,
+      "number": 1,
+      "lastmod": "2023-02-28 03:25:01",
+      "official_url": "https:\/\/www.iieta.org\/journals\/ijsdp\/paper\/10.18280\/ijsdp.180110",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 187981,
+                  "filesize": 1506759,
+                  "filename": "Geospatial Modeling of Environmental Carrying Capacity for Sustainable Agriculture Using GIS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530192",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-28 01:43:55",
+                  "datasetid": "document",
+                  "fileid": 530192,
+                  "hash": "76eb465fb93d6cda629922ea6d796f27",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Geospatial Modeling of Environmental Carrying Capacity for Sustainable Agriculture Using GIS.pdf",
+            "docid": 187981,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 48631,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187981",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2023-02-28 03:25:01",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.18280\/ijsdp.180110",
+      "eprintid": 48631,
+      "metadata_visibility": "show",
+      "pagerange": "99-111",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Dedy",
+            "lineage": null,
+            "given": "Miswar"
+          },
+          "id": "dedy.miswar@fkip.unila.ac.id"
+        },
+        {
+          "id": "asuyatna@yahoo.com",
+          "name": {
+            "given": "AS",
+            "family": "Agus Suyatna",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "wan_abbas@yahoo.com",
+          "name": {
+            "given": "Zakaria WA",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wan Abbas Zakaria"
+          }
+        },
+        {
+          "id": "epwahono@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Endro P Wahono",
+            "given": "Endro"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yazid",
+            "lineage": null,
+            "given": "Saleh"
+          },
+          "id": "xxxxx"
+        },
+        {
+          "name": {
+            "given": "Suhendro",
+            "family": "Suhendro",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "suhendrogeografi11@gmail.com"
+        }
+      ],
+      "type": "article",
+      "title": "Geospatial Modeling of Environmental Carrying Capacity for Sustainable Agriculture Using GIS",
+      "refereed": "TRUE",
+      "abstract": "This study aims to create a thematic spatial model of environmental carrying capacity for sustainable agriculture. The model was made with interpretation, surveys, and scoring an index for each modeling unit as the maximum level of resource for all ecosystem services using a GIS. The data analysis was carried out descriptively with an environmental approach for each unit in the entire region based on the results of ecoregion and land cover overlays. The results are in the form of thematic spatial models, environmental carrying capacity, and sustainable agriculture for each data used including the activity center model. Based on the results of this study, the future implications for the environmental carrying capacity model can be the basis for making RTRW, therefore this research can be used as one of the guidelines in making policies for an area, especially related to planning that is used as strategic land for regional development planning.",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universiti Pendidikan Sultan Idris, Perak, MALAYSIA"
+      ],
+      "volume": 18,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48631",
+      "date": "2023-01-05",
+      "date_type": "published",
+      "subjects": [
+        "GE"
+      ],
+      "full_text_status": "public",
+      "issn": "1743-7601",
+      "status_changed": "2023-02-28 03:25:01",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publication": "International Journal of Sustainable Development and Planning",
+      "publisher": "IIETA",
+      "divisions": [
+        "FKIP18"
+      ],
+      "dir": "disk0_bak\/00\/04\/86\/31"
+    },
+    {
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Strap mask atau tali pengait masker sekarang jadi tren baru di kalangan milenial untuk tetap tampil fashionable meskipun memakai masker yang jadi kewajiban di masa pandemi ini. Tren model masker yang fashionable ini tidak disia-siakan oleh para pengusaha milenial yang membaca peluang tren ini.Pengusaha konveksi, atau kerajinan-kerajinan tangan mulai membuat strap mask.Penggunaan tali pengait masker membuat penampilan lebih cantik dan menarik dan membuat minat dan daya tarik untuk membuka peluang usaha bagi ibu-ibu PKK sangatlah menarik pada masa pandemi. Apalagi jenis dan model strap mask ini bermacam-macam baik untuk laki-laki atau perempuan, mulai dari motif motif unik, kriya-kriya kecil, manik-manik lucu, mote,bebatuan etnik, mutiara, kristal, benang rajut, seperti polycherri onitsuga, dan sebagainya. Strap mask juga ada untuk kelas-kelas tinggi yaitu yang berbahan dari emas dan atau perak. Dengan demikian strap mask ini punya jenis yang simpel dan juga glamor.",
+      "date": "2023-03-05",
+      "publisher": "Badan Pengelola KKN UNila",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh\/article\/view\/707"
+        }
+      ],
+      "full_text_status": "public",
+      "issn": "P-ISSN : 2776-3749 E-ISSN : 2808-1412",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 49675,
+      "id_number": "https:\/\/doi.org\/10.23960\/buguh.v3n1.707",
+      "datestamp": "2023-04-05 07:16:17",
+      "pagerange": "68-75",
+      "number": 1,
+      "userid": 409,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "jb31-10.pdf",
+            "files": [
+                {
+                  "objectid": 189316,
+                  "filesize": 327529,
+                  "filename": "jb31-10.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538447",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-05 06:15:30",
+                  "fileid": 538447,
+                  "datasetid": "document",
+                  "hash": "148245a9df66333ccc5a5977fea69caf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 189316,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189316",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49675
+          }
+      ],
+      "official_url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh",
+      "refereed": "TRUE",
+      "subjects": [
+        "G1"
+      ],
+      "date_type": "published",
+      "volume": 3,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49675",
+      "divisions": [
+        "FKIP18"
+      ],
+      "publication": "Jurnal Buguh",
+      "dir": "disk0_bak\/00\/04\/96\/75",
+      "status_changed": "2023-04-05 07:16:17",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "lastmod": "2023-04-05 07:16:17",
+      "type": "article",
+      "creators": [
+        {
+          "id": "dedy.miswar@fkip.unila.ac.id",
+          "name": {
+            "given": "DM",
+            "lineage": null,
+            "family": "Dedy Miswar",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Aristoteles",
+            "lineage": null,
+            "given": "Aristoteles"
+          },
+          "id": "aristoteles.1981@fmipa.unila.ac.id"
+        },
+        {
+          "id": "yarmaidi@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Yarmaidi",
+            "honourific": null,
+            "given": "Y"
+          }
+        }
+      ],
+      "title": "PEMBERDAYAAN IBU-IBU PKK KELURAHAN SUKABUMI INDAH"
+    },
+    {
+      "divisions": [
+        "FKIP18"
+      ],
+      "dir": "disk0_bak\/00\/05\/09\/87",
+      "full_text_status": "public",
+      "status_changed": "2023-05-03 06:56:56",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "G1"
+      ],
+      "patent_applicant": "Dian Utami dan Rahma Kurnia Sri Utami",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50987",
+      "date": "2023-01-02",
+      "type": "patent",
+      "creators": [
+        {
+          "id": "dian.utami@fkip.unila.ac.id",
+          "name": {
+            "given": "Mrs",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dian Utami"
+          }
+        },
+        {
+          "id": "rahma.kurnia@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Rahma Kurnia",
+            "honourific": null,
+            "given": "Sri Utami"
+          }
+        }
+      ],
+      "title": "Hak Cipta Buku Model Desain Pembelajaran",
+      "datestamp": "2023-05-03 06:56:56",
+      "id_number": "EC00202300992",
+      "eprintid": 50987,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 65,
+      "lastmod": "2023-05-03 06:56:56",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2023-05-03 03:19:42",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548536",
+                  "filename": "2023-Buku Model Desain Pembalajaran.pdf",
+                  "filesize": 683587,
+                  "objectid": 190698,
+                  "mime_type": "application\/pdf",
+                  "hash": "2c68e7a065bfc2ad7b912f8788a4a98f",
+                  "datasetid": "document",
+                  "fileid": 548536
+                }
+            ],
+            "main": "2023-Buku Model Desain Pembalajaran.pdf",
+            "docid": 190698,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190698",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50987
+          }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "eprintid": 51366,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248214",
+            "pos": 1,
+            "format": "text",
+            "main": "Pemetaan Persebaran Penyakit Malaria di Kecamatan Punduh Pidada.pdf",
+            "files": [
+                {
+                  "filename": "Pemetaan Persebaran Penyakit Malaria di Kecamatan Punduh Pidada.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/608544",
+                  "filesize": 1271642,
+                  "objectid": 248214,
+                  "mtime": "2023-05-10 06:09:16",
+                  "hash_type": "MD5",
+                  "hash": "1d2f6087815a81e5098c652ba87daa33",
+                  "mime_type": "application\/pdf",
+                  "fileid": 608544,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 248214,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "official_url": "https:\/\/journal.unj.ac.id\/unj\/index.php\/spatial\/article\/view\/31708",
+      "lastmod": "2023-05-11 03:22:14",
+      "number": 1,
+      "userid": 264,
+      "pagerange": "44-57",
+      "metadata_visibility": "show",
+      "eprintid": 51366,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-11 03:22:14",
+      "refereed": "TRUE",
+      "title": "Pemetaan Persebaran Penyakit Malaria di Kecamatan Punduh Pidada, Kabupaten Pesawaran, Provinsi Lampung",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Irma Lusi",
+            "given": "Nugraheni"
+          },
+          "id": "irmalusi.nugraheni@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Usman",
+            "lineage": null,
+            "family": "Mustofa",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "STT",
+            "lineage": null,
+            "family": "Sutarto",
+            "honourific": null
+          },
+          "id": "sutarto@fk.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51366",
+      "date": 2023,
+      "volume": 23,
+      "abstract": "Malaria transmission in Pesawaran District has decreased for three consecutive years, namely 2018-2020 where it reached an API rate of 0.67 per 1000 population. In 2020 Punduh Pidada District has 28 positive cases of malaria. Factors that influence the number of cases of malaria transmission include environmental factors such as rainfall, land use, and altitude. The purpose of this study was to determine\r\nthe distribution of malaria in terms of transmission factors in the form of environmental factors in the form of land use and topography. The method used in this research is qualitative with descriptive analysis. Data analysis techniques in this study are buffering techniques and map analysis. The results of this study indicate that land use and topography have an influence on the number of cases of malaria transmission in Punduh Pidada District. The land uses that had the highest cases were mixed forest (18 cases), plantations (18 cases), settlements (20 cases), and fish ponds (20 cases). Meanwhile, the altitude\/topography of less than 200 meters above sea level covers all sample locations of malaria transmission in Punduh Pidada District in 2016-2021.",
+      "subjects": [
+        "G1"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2023-05-11 03:22:14",
+      "full_text_status": "public",
+      "issn": "PISSN : 16931408 ; EISSN: 25809830",
+      "divisions": [
+        "FKIP18"
+      ],
+      "publisher": "Fakultas Ilmu Sosial Universitas Negeri Jakarta",
+      "publication": "Spatial : Wahana Komunikasi dan Informasi Geografi",
+      "dir": "disk0_bak\/00\/05\/13\/66",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.unj.ac.id\/unj\/index.php\/spatial\/article\/view\/31708",
+          "type": "pub"
+        }
+      ]
+    },
+    {
+      "abstract": "This study aims to look at the backwardness of the region and the socio-cultural construction of the Besemah Pantauan Bunting tradition by revealing: 1) the process of the birth of the tradition, 2) the factors causing differences in the distribution of traditions in each region, and 3) existence in the tracking era of the Besemah Tribe. The research was conducted in Lahat District, South Sumatra using an interpretive paradigm, qualitative research types and ethnographic methods. Data obtained from primary and secondary sources. Data collection techniques were carried out through non-participant observation, interviews, and documentation, as well as purposive sampling techniques. Data analysis was carried out through open coding, axial coding, and selective coding, while data analysis was carried out through continuous observation, triangulation, member checks and peer reviews and reference adequacy checks. Based on the results of the analysis with Berger's social construction theory, social construction is formed through 3 (three) dialectical processes namely, the first externalization of the existence of Pantauan Bunting as part of the Besemah Tribe marriage which is intended to introduce the bride and groom to relatives and family so that a harmonious relationship is established in period after marriage. Second, the process of objectivation through the implementing regulations for the Pantauan Bunting tradition succeeded in legitimizing the existence of this tradition in society. Third, the process of internalization through primary socialization by using customary institutions to move the community to be aware of their ancestral heritage so that they continue the tradition. The distribution of the Pantauan Bunting tradition varies in each region due to geographical and social factors. Even though it has entered the modern era, the existence of this tradition is still maintained by the Besemah people and we can still find it in various areas in Lahat Regency.",
+      "date": "2023-03-31",
+      "publisher": "Universitas Negeri Gorontalo",
+      "issn": "2721-7000",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "id_number": "10.34312\/jgej.v4i1.17355",
+      "eprint_status": "archive",
+      "eprintid": 49604,
+      "referencetext": "Adams-Hutcheson, G. (2019). Farming in the troposphere: drawing together affective atmospheres and\r\nelemental geographies. Social and Cultural Geography, 20(7), 1004–1023.\r\nhttps:\/\/doi.org\/10.1080\/14649365.2017.1406982\r\nAnu, K. S. A. (2022). Kajian Geografi Budaya terhadap Tradisi Keo Rado Masyarakat Adat Tololela di Desa\r\nManubara Kecamatan Inerie Kabupaten Ngada.\r\nBa’, S. (2021). The critique of Sociology of Childhood: Human capital as the concrete ‘social construction of\r\nchildhood.’ Power and Education, 13(2), 73–87. https:\/\/doi.org\/10.1177\/17577438211011637\r\nBadan Pusat Statistik. (2018). Survei Demografi dan Kesehatan Indonesia Tahun 2018. In Badan Pusat\r\nStatistik.\r\nBadan Pusat Statistik. (2021). Kabupaten Lahat Dalam Angka. Badan Pusat Statistik.\r\nBerger, Peter & Luckmann, T. (1990). Tafsir Sosial atas Kenyataan: Risalah tentang Sosiologi Pengetahuan.\r\nLP3ES.\r\nBurr, V. (2015). Social constructionism. Routledge.\r\nDiaz-Leon, E. (2015). What is social construction? European Journal of Philosophy, 23(4), 1137–1152.\r\nhttps:\/\/doi.org\/10.1111\/ejop.12033\r\nGray, N. J., Corson, C., Campbell, L. M., Wilshusen, P. R., Gruby, R. L., & Hagerman, S. (2020). Doing\r\nStrong Collaborative Fieldwork in Human Geography*. Geographical Review, 110(1–2), 117–132.\r\nhttps:\/\/doi.org\/10.1111\/gere.12352\r\nHammersley, Martyn & Atkinson, P. (2019). Ethnography Principles in Practice. Routledge.\r\nHitchings, R., & Latham, A. (2020). Qualitative methods II: On the presentation of ‘geographical ethnography.\r\nProgress in Human Geography, 44(5), 972–980.\r\nHjelm, T. (2019). Rethinking the theoretical base of Peter L. Berger’s sociology of religion: Social\r\nconstruction, power, and discourse. Critical Research on Religion, 7(3), 223–236.\r\nhttps:\/\/doi.org\/10.1177\/2050303219874392\r\nJohn, D. R. (1999). Consumer socialization of children: A retrospective look at twenty-five years of research.\r\nJournal of Consumer Research, 26(3), 183–213. https:\/\/doi.org\/10.1086\/209559\r\nJumhari, & Hariadi. (2014). Identitas Kultural Orang Besemah di Kota Pagaralam.\r\nKardiyan. (2015). Setengah Abad Amalgamasi Antara Etnis Jawa dengan Etnis Tempatan di Desa Siabu\r\nKecamatan Salo Kabupaten Kampar. Jom FISIP, 2(2).\r\nKwok, A. O. J., & Koh, S. G. M. (2021). Deepfake: a social construction of technology perspective. Current\r\nIssues in Tourism, 24(13), 1798–1802. https:\/\/doi.org\/10.1080\/13683500.2020.1738357\r\nLestari, P. (2019). Urgensi Habituasi Nilai Karakter Kemandirian Dan Tanggung Jawab Peserta Didik Sekolah\r\nMenengah Keguruan. Jurnal Ilmiah Ilmu Sosial, 4(2), 114–119.\r\nhttps:\/\/doi.org\/10.23887\/jiis.v4i2.16525\r\nLusiani, N. (2015). Pudarnya Pernikahan Ngerorod pada Masyarakat Bali Desa Tri Mulyo Kabupaten\r\nLampung Tengah. Universitas Lampung.Novia Fitri Istiawati, Miranda Agustin Lestari, Sugeng Widodo \/ Jambura Geo Education Journal (2023) 4 (1) 35-48\r\nPublisher: Geography Educatio Study Program, FMIPA Universitas Negeri Gorontalo\r\nJournal Homepage: http:\/\/ejurnal.ung.ac.id\/index.php\/jgej 48\r\nMatthews, M. (2019). Agency and Social Construction: Practice of the Self in Art and Design. International\r\nJournal of Art and Design Education, 38(1), 18–33. https:\/\/doi.org\/10.1111\/jade.12186\r\nMoleong, Lexy, J. (2010). Metodologi Penelitian Kualitatif. Rosda.\r\nOndiba, H. A., & Matsui, K. (2019). Social attributes and factors influencing entrepreneurial behaviors among\r\nrural women in Kakamega County, Kenya. Journal of Global Entrepreneurship Research, 9(1).\r\nhttps:\/\/doi.org\/10.1186\/s40497-018-0123-5\r\nRefisrul, N. (2019). Fungsi Lemang dalam Upacara Perkawinan Suku Besemah di Kabupaten Kaur Provinsi\r\nBengkulu. Jurnal Penelitian Sejarah Dan Budaya, 5(2).\r\nSandu, A., & NISTOR, P. (2021). Individual versus social in psycho-sociology. The social construction of\r\nreality. Moldavian Journal for Education and Social Psychology, 4(2), 44–49.\r\nhttps:\/\/doi.org\/10.18662\/mjesp\/4.2\/21\r\nSari, P. I., M. S. dan S. K. (2021). Tradisi Dalam Perkawinan Masyarakat Desa Sukarami Pagaralam. Tanjak:\r\nSejarah Dan Peradaban Islam, 1(2).\r\nSari, P. I., Syawaludin, M., & Khudin, S. (2021). Tradisi Pantauan Bunting Dalam Perkawinan Masyarakat\r\nDesa Sukarami Pagaralam. Tanjak: Sejarah Dan Peradaban Islam, 1(2), 10–20.\r\nhttps:\/\/doi.org\/10.19109\/tanjak.v1i2.9370\r\nScott, J. (2012). Teori Sosial: Masalah Pokok dalam Sosiologi. Pustaka Pelajar.\r\nSulistiyo, A. B. (2019). Memahami Paradigma Interpretivisme, Kritisisme Dan Postmodernisme Dalam\r\nPenelitian Sosial Dan Akuntansi. File:\/\/Localhost\/h:\/Non POS\/Agung Budi Sulistiyo.Htm.\r\nfile:\/\/localhost\/h:\/non POS\/Agung Budi Sulistiyo.htm\r\nViani, D. (2019). Peran K. H Sayyid Umar Bin H. Mesagus Abdurrahman dalam Perkembangan Islam di Desa\r\nPagaruyung Kecamatan Kota Agung Kabupaten Lahat (1905-1969 M\/1322-1388 H). UIN Raden Fatah\r\nPalembang.\r\nYulistiana, T., Studi, P., Agama, S., Ushuluddin, F., Pemikiran, D. A. N., Islam, U., & Sunan, N. (2017).\r\nPerubahan Pemaknaan Tradisi Lokal Jawa Mendhem Ari-Ari ( Korelasi terhadap Tradisi Lokal Jawa\r\nMendhem Ari-ari di Perumahan Mutiara Persada Wonosobo)",
+      "datestamp": "2023-04-04 01:55:01",
+      "pagerange": "35-48",
+      "number": 1,
+      "userid": 3493,
+      "contributors": [
+        {
+          "id": "novia.istiawati@fkip.unila.ac.id",
+          "name": {
+            "given": "Novia Fitri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Istiawati"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "sugeng.widodo@fkip.unila.ac.id",
+          "name": {
+            "given": "Sugeng",
+            "honourific": null,
+            "family": "Widodo",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Miranda Agustin",
+            "family": "Lestari",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "17355-48881-1-PB.pdf",
+            "files": [
+                {
+                  "mtime": "2023-04-04 01:19:00",
+                  "hash_type": "MD5",
+                  "filename": "17355-48881-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537879",
+                  "filesize": 341961,
+                  "objectid": 189237,
+                  "hash": "e7dbe0b66ad925cbe2641f48db8772af",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 537879
+                }
+            ],
+            "docid": 189237,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189237",
+            "eprintid": 49604,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/ejurnal.ung.ac.id\/index.php\/JGEJ\/index",
+      "refereed": "TRUE",
+      "subjects": [
+        "G1",
+        "GF",
+        "GN",
+        "H1",
+        "L1"
+      ],
+      "date_type": "published",
+      "volume": 4,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49604",
+      "dir": "disk0_bak\/00\/04\/96\/04",
+      "publication": "JAMBURA GEO EDUCATION JOURNAL",
+      "divisions": [
+        "FKIP18"
+      ],
+      "status_changed": "2023-04-04 01:55:01",
+      "rev_number": 12,
+      "metadata_visibility": "show",
+      "lastmod": "2023-04-04 01:55:01",
+      "type": "article",
+      "creators": [
+        {
+          "id": "novia.istiawati@fkip.unila.ac.id",
+          "name": {
+            "given": "Novia Fitri",
+            "family": "Istiawati",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Widodo",
+            "given": "Sugeng"
+          },
+          "id": "sugeng.widodo@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Lestari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Miranda Agustin"
+          },
+          "id": null
+        }
+      ],
+      "title": "Keterkaitan Jarak Geografis Terhadap Eksistensi Tradisi Pantauan Bunting (Konstruksi Sosial Suku Besemah, Lahat, Indonesia)",
+      "contact_email": "novia.istiawati@fkip.unila.ac.id"
+    },
+    {
+      "official_url": "https:\/\/rjoas.com\/about-journal\/",
+      "lastmod": "2023-05-03 06:50:22",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "2023-RJOAS ISSN 226-1184.pdf",
+            "docid": 190685,
+            "files": [
+                {
+                  "hash": "c4d1c37f8835667f9368438e83bf07a0",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 548455,
+                  "mtime": "2023-05-03 02:10:09",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548455",
+                  "filename": "2023-RJOAS ISSN 226-1184.pdf",
+                  "objectid": 190685,
+                  "filesize": 473328
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190685",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50972
+          }
+      ],
+      "userid": 65,
+      "number": 136,
+      "metadata_visibility": "show",
+      "pagerange": "51-60",
+      "datestamp": "2023-05-03 06:50:22",
+      "referencetext": "1. M. Moussa, Y. Mustofa, and A.A. Elwafa, School Site Selection Process, International \r\nConference – Green Urbanism GU 2016, Procedia Environmental Sciences 37, pp. 282-\r\n293, 2017.\r\n2. J.O. Gbakeji, Location Theory and Public Facilities: A Case Study of Health-Care \r\nFacilities in Ughelli, South Local Government Area of Delta States Nigeria, Civil and \r\nEnvironment Research, vol. 6, no. 6, pp. 92-98, 2014.\r\n3. Mujahidun, Pemerataan Pendidikan Anak Bangsa: Pendidikan Gratis Versus Kapitalisme \r\nPendidikan, Jurnal Tarbiyatuna vol. 7, no. 1, pp. 53-64, Juni 2016.\r\n4. E. Rustiadi, S. Saefulhakim, and D.R. Panuju, Perencanaan dan Pengembangan \r\nWilayah. Jakarta: Yayasan Pustaka Obor Indonesia, 2018.\r\n5. Hardiyansyah, Kualitas Pelayanan Publik (Konsep, Dimensi, Indikator dan \r\nImplementasinya), Gava Media, Yogyakarta, 2018.\r\n6. D. Wahyuni, Pro Kontra Sistem Zonasi PPDB Tahun Ajaran 2018\/2019, Info Singkat \r\nBidang Kesejahteraan Sosial-Kajian Singkat terhadap Isu Aktual dan Strategis, vol. X, \r\nno. 14, pp. 13-18, July 2018.\r\n7. D.H. Prasetyo, J. Mohamada, and R. Fauzia, Discovering Public Preferences for School \r\nLocation in Surabaya, International Conference, Intelligent Planning Towards Smart \r\nCities, 3-4 November 2015, Surabaya, Indonesia. Procedia Social and Behavioral \r\nSciences 227, pp. 160–167, 2016.\r\n8. E.D. Takumansang, Kajian Penempatan Fasilitas Pendidikan Dasar dan Menengah \r\ndalam Aspek Sistem Informasi Geografis, Jurnal Tekno, vol. 08, no. 54, pp. 1-8, \r\nDesember 2010.\r\n9. Nurcahyono, I. W. Suletra, and E. Liquiddanu, Penentuan Lokasi Ideal SD dan MI se \r\nKecamatan Pejagon Kabupaten Kebumen dengan Menggunakan model P-Median, P�Center, dan Max Covering, Performa, vol. 9, no. 2, pp. 1-10, 2010.\r\n10. L.F.I.S. Sitorus, Analisis Sebaran Sekolah Menengah dalam Upaya Peningkatan \r\nAksesibilitas Pendidikan di Kota Tebing Tinggi, Sekolah Pascasarjana Universitas \r\nSumatera Utara, Medan, 2009.\r\nRJOAS: Russian Journal of Agricultural and Socio-Economic Sciences\r\nISSN 2226-1184 (Online) | Issue 4(136), April 2023\r\n60\r\n11. H.K. Smith, P.R. Harper, and C.N. Potts, Bicriteria Eficiency or Equity Hierarchical \r\nLocation Models for Public Service Application, The Journal of Operational Research \r\nSociety, vol. 64, no. 4, pp. 500-512, April 2013.\r\n12. B. Farhan, and A.T. Murray, Distance Decay and Coverage in Facility Location Planning, \r\nThe Annals of Regional Science, vol. 40, pp. 279-295, Februari 2006.\r\n13. N. Sari, S. Parman, and Sriyono, Analisis Keruangan Aksesibilitas Fasilitas Pendidikan \r\ndan Fasilitas Kesehatan di Daerah Eks-Transmigrasi Kecamatan Sungai Bahar \r\nKabupaten Muaro Jambi, Jurnal Geo-Image vol 4, no. 2, 2015.\r\n14. A.A. Safarah, and U.B. Wibowo, Program Zonasi di Sekolah Dasar sebagai Upaya \r\nPemerataan Kualitas Pendidikan di Indonesia, Lentera Pendidikan, vol 21, no. 2, pp. 206-\r\n213, Desember 2018.\r\n15. M.S. Daskin, Network and Discrete Location, Models, Algorithms and Applications, John \r\nWiley & Sons, Inc., Canada, 1952.\r\n16. W.G. Uliantoro, Perencanaan Fasilitas Pendidikan Kawasan Perkotaan, Jurnal Ilmu \r\nAdministrasi, vol. VIII, no. 3, pp. 340-353, Desember 2011.\r\n17. A.T. Murray, D. Tong, and K. Kim, Enhancing Classic Coverage Location Models, \r\nInternational Regional Science Review, vol. 33, no. 2, pp. 115-133, 2010.\r\n18. J.R. Beaumont, Towards A Comprehensive Framework for Location Allocation Models, \r\nIIASA Collaborative Paper, July 1981.\r\n19. G. Rushton, Optimal Location of Facilities, Departement of Geography, University of \r\nIowa, Wentworth, USA, 1979.\r\n20. Y. Zhu et al, Location Optimization Using Hierarchical Location-Allocation Model for \r\nTrauma Centers in Shenzhen China, International Journal of Geo-Information, vol. 5, no. \r\n190, 2016.\r\n21. G.C. Moore and C. ReVelle, The Hierarchical Service Location Problem, Management \r\nScience, vol. 28, no. 7, pp. 775-780, July 1982.\r\n22. M.J. Hodgson, An Hierarchical Location Allocation Model for Primary Health Care \r\nDelivery in a Developing Area, Social Science and Medicine, vol 8, issue 1, pp. 153-161, \r\n1988.\r\n23. J. Baray and G. Cliquet, Optimizing Locations Through a Maximum Covering\/P-median \r\nHierarchical Model: Maternity Hospitals in France, Journal of Business Research, vol. 66, \r\nno. 1, pp. 127-132, January 2013.\r\n24. M. Rashtagi et al, A Multi-objective Hierarchical Location-allocation Model for Healthcare \r\nNetwork Design Considering Referral System, International Journal of Engineering (IJE), \r\nIJE TRANSACTIONS B: Applications, vol. 31, no. 2, pp. 365-373, February 2018.\r\n25. P. Asmanto, R. Suprihardjo, and P.R. Satiawan, Permasalahan Optimalisasi Spasial \r\npada Pelayanan Fasilitas Pendidikan Sekolah Lanjutan Tingkat Pertama di Kabupaten \r\nMojokerto, Jurnal Penataan Ruang, vol. 4, no. 1, 2009.\r\n26. Y.D. Wei et al, Neighborhood, Race, and Educational Inequality, Cities vol. 73 pp. 1-13, \r\n2018.\r\n27. M.A. Marfai, Pemodelan Geografi, Penerbit Ombak, Yogyakarta, 2015.\r\n28. J.A. Tali et al, Location–Allocation Model Applied to Urban Public Services: Spatial \r\nAnalysis of Fire Stations in Mysore Urban Area Karnataka, India, International Journal of \r\nAdvanced Research and Development , vol. 2, issue 5, pp. 795-801, September 2017.\r\n29. BPS-Statistic of Yogyakarta Municipality, Yogyakarta Municipality in Figures 2020, \r\nCatalog: 1102001.3471.\r\n30. Pustek UGM and Bappeda Kota Yogyakarta, Ringkasan Eksekutif: Kajian Kebijakan \r\nSistem Zonasi Penerimaan Peserta Didik Baru (PPDB) Tingkat SMP di Kota Yogyakarta. \r\nYogyakarta: Pusat Studi Ekonomi Kerakyatan (Pustek) Universitas Gadjah Mada \r\nYogyakarta dan Badan Perencanaan Pembangunan Daerah (Bappeda) Kota \r\nYogyakarta, 2019.\r\n31. V. Jayaraman, R. Gupta, and H. Pirkul, Selecting Hierarchical Facilities in a Service�Operations Environment, Eur. J. Oper. Res. Vol. 143, pp. 613-628, 2003 [CrossRef].\r\n32. J. D. Chiara, Joseph and L. Kopelman, Urban Planning and Design Criteria, Third \r\nEdition, Van Nostrand Reihold Company Inc. 1982",
+      "eprintid": 50972,
+      "eprint_status": "archive",
+      "title": "INTEGRATED AND SUSTAINABLE SPATIAL SYSTEM OF PRIMARY EDUCATION \r\nFACILITIES WITH HIERARCHICAL LOCATION-ALLOCATION ANALYSIS\r\nIN YOGYAKARTA CITY",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "rahma.kurnia@fkip.unila.ac.id",
+          "name": {
+            "given": "Sri Utami",
+            "lineage": null,
+            "family": "Rahma Kurnia",
+            "honourific": null
+          }
+        }
+      ],
+      "date": "2023-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50972",
+      "abstract": "Yogyakarta City, which is known as the ‘City of Education’ in Indonesia, still have problem on \r\nchildren access to primary education. The number of junior high school is unable to \r\naccommodate all of elementary school graduates. This condition obstructs student’s access\r\nto continue their education to a higher level. School site planning is very pivotal for equitable \r\naccess to quality education. This research aims to guarantee integrated and sustainable \r\neducation by analyzing primary education in a hierarchical location-allocation analysis with \r\nGeographic Information Systems (GIS). Hierarchical analysis is used to solve the problem of \r\nschool spatial coverage and continuation. Educational facilities flow from low-level \r\n(elementary schools) to high-level (junior high schools). The different schools locations are \r\ntiered, interrelated, and interact significantly where each level of the hierarchy will have \r\ndifferent criteria of capacity and spatial range. This research indicates that it is very \r\nnecessary to add number of elementary school and junior high school in certain area of \r\nYogyakarta City so that the hierarchical flow of educational facilities runs more effective. The \r\nappropriate hierarchy will be able to optimize primary education facilities services. Further \r\nresearch is needed to optimize primary education services with site location analysis.",
+      "volume": 4,
+      "date_type": "published",
+      "subjects": [
+        "G1"
+      ],
+      "keywords": "Hierarchy, school, location.",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "ISSN 2226-1184 (Online)",
+      "full_text_status": "public",
+      "status_changed": "2023-05-03 06:50:22",
+      "related_url": [
+        {
+          "url": "https:\/\/rjoas.com\/issue-2023-04\/article_04.pdf"
+        }
+      ],
+      "divisions": [
+        "FKIP18"
+      ],
+      "publication": "RJOAS: Russian Journal of Agricultural and Socio-Economic Sciences",
+      "dir": "disk0_bak\/00\/05\/09\/72"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "Alat Peraga",
+      "patent_applicant": "Kementerian Hukum dan Hak Asasi Manusia",
+      "date": "2023-01-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47932",
+      "divisions": [
+        "FKIP18"
+      ],
+      "dir": "disk0_bak\/00\/04\/79\/32",
+      "full_text_status": "public",
+      "status_changed": "2023-01-20 03:16:17",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "datestamp": "2023-01-20 03:16:17",
+      "id_number": "EC00202300856",
+      "eprint_status": "archive",
+      "eprintid": 47932,
+      "metadata_visibility": "show",
+      "userid": 979,
+      "lastmod": "2023-01-20 03:16:17",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 47932,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187039",
+            "pos": 1,
+            "security": "public",
+            "main": "sertifikat_EC00202300856.pdf",
+            "docid": 187039,
+            "files": [
+                {
+                  "fileid": 524289,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "3209e17e3656c9f77916b1c7ce51915e",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-20 02:00:09",
+                  "filesize": 2091110,
+                  "objectid": 187039,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524289",
+                  "filename": "sertifikat_EC00202300856.pdf"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "type": "patent",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yarmaidi",
+            "lineage": null,
+            "given": "Y"
+          },
+          "id": "yarmaidi@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ardila Zahra",
+            "honourific": null,
+            "lineage": null,
+            "family": "Salsabila"
+          },
+          "id": "salsabillardz@gmail.com"
+        }
+      ],
+      "title": "Media Animasi Cara Membuat Histogram"
+    },
+    {
+      "abstract": "A teacher in performing his roles and duties is expected to have good pedagogic and professional competencies in the \r\nlearning process. The teacher certification program is conducted with the objective of creating professional teachers so that teacher \r\nperformance may increase. The ability to develop learning evaluation instruments is one of the competencies required to be possessed \r\nby a teacher. This study is to assess how the ability of teachers in compiling learning evaluation instruments and their relation to the \r\ncompetence and performance of the teachers. The method used was a survey using a questionnaire on high school geography teachers \r\nwho were certified educators in Bandar Lampung City. Variables assessed included pedagogical and professional competence, teacher's \r\nability to plan, implement, and evaluate learning, and teacher's ability to develop test instruments. Teacher competence and teacher \r\nperformance are related to the teacher's ability to develop test instruments. Teacher competence, both pedagogic competence and \r\nprofessional competence, characterizes the professional quality of a teacher. Good competence will affect teacher performance as well. \r\nThe teacher's performance in planning and implementing learning is a reflection of the value of his competence. The teacher's ability to \r\ndevelop test instruments is one part of the teacher's performance assessment",
+      "volume": 37,
+      "date": "2023-02-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48362",
+      "date_type": "published",
+      "subjects": [
+        "G1"
+      ],
+      "issn": "2509-0119",
+      "full_text_status": "public",
+      "status_changed": "2023-02-13 06:17:37",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP18"
+      ],
+      "publisher": "International Journals of Sciences and High Technologies",
+      "publication": "International Journal of Progressive Sciences and Technologies (IJPSAT)",
+      "dir": "disk0_bak\/00\/04\/83\/62",
+      "userid": 437,
+      "number": 1,
+      "lastmod": "2023-02-13 06:17:37",
+      "official_url": "https:\/\/ijpsat.org\/index.php\/ijpsat\/article\/view\/4975",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 528119,
+                  "mime_type": "application\/pdf",
+                  "hash": "9f346191915ba950fb69bc1b4b97ffeb",
+                  "filesize": 705753,
+                  "objectid": 187654,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/528119",
+                  "filename": "4975-12118-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-13 04:53:00"
+                }
+            ],
+            "main": "4975-12118-1-PB.pdf",
+            "docid": 187654,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 48362,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187654"
+          }
+      ],
+      "datestamp": "2023-02-13 06:17:37",
+      "eprintid": 48362,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "46-53",
+      "type": "article",
+      "creators": [
+        {
+          "id": "zulkarnain.1960@fkip.unila.ac.id",
+          "name": {
+            "family": "Zulkarnain",
+            "lineage": null,
+            "honourific": null,
+            "given": "Zulkarnain"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Annisa Salsabilla",
+            "honourific": null,
+            "given": "Mrs"
+          },
+          "id": "annisa.salsabilla@fkip.unila.ac.id"
+        },
+        {
+          "id": "sugeng.widodo@fkip.unila.ac.id",
+          "name": {
+            "family": "Sugeng",
+            "lineage": null,
+            "honourific": null,
+            "given": "Widodo"
+          }
+        },
+        {
+          "name": {
+            "given": "DM",
+            "lineage": null,
+            "family": "Dedy Miswar",
+            "honourific": null
+          },
+          "id": "dedy.miswar@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yarmaidi",
+            "given": "Y"
+          },
+          "id": "yarmaidi@fkip.unila.ac.id"
+        }
+      ],
+      "title": "Analysis Of Teacher Competence And Performance In The \r\nAbility To Develop Learning Evaluation Instruments",
+      "refereed": "TRUE"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "abstract": "A teacher in performing his roles and duties is expected to have good pedagogic and professional competencies in the learning process. The teacher certification program is conducted with the objective of creating professional teachers so that teacher performance may increase. The ability to develop learning evaluation instruments is one of the competencies required to be possessed by a teacher. This study is to assess how the ability of teachers in compiling learning evaluation instruments and their relation to the competence and performance of the teachers. The method used was a survey using a questionnaire on high school geography teachers who were certified educators in Bandar Lampung City. Variables assessed included pedagogical and professional competence, teacher's ability to plan, implement, and evaluate learning, and teacher's ability to develop test instruments. Teacher competence and teacher performance are related to the teacher's ability to develop test instruments. Teacher competence, both pedagogic competence and professional competence, characterizes the professional quality of a teacher. Good competence will affect teacher performance as well. The teacher's performance in planning and implementing learning is a reflection of the value of his competence. The teacher's ability to develop test instruments is one part of the teacher's performance assessment.",
+      "volume": 37,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48356",
+      "date": "2023-02-05",
+      "publication": "IJPSAT",
+      "publisher": "IJPSAT",
+      "divisions": [
+        "FKIP18"
+      ],
+      "dir": "disk0_bak\/00\/04\/83\/56",
+      "issn": "2509-0119",
+      "full_text_status": "public",
+      "status_changed": "2023-02-13 01:01:10",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "datestamp": "2023-02-13 01:01:10",
+      "id_number": "http:\/\/dx.doi.org\/10.52155\/ijpsat.v37.1.4975",
+      "eprintid": 48356,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "46-53",
+      "userid": 409,
+      "number": 1,
+      "lastmod": "2023-02-13 01:01:10",
+      "official_url": "https:\/\/ijpsat.org\/index.php\/ijpsat\/article\/view\/4975",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187647",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48356,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 187647,
+            "main": "4975-12118-1-PB.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/528069",
+                  "filename": "4975-12118-1-PB.pdf",
+                  "filesize": 705753,
+                  "objectid": 187647,
+                  "mtime": "2023-02-11 05:36:43",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "9f346191915ba950fb69bc1b4b97ffeb",
+                  "fileid": 528069,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Zulkarnain",
+            "given": "Zulkarnain"
+          },
+          "id": "zulkarnain.1960@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Mrs",
+            "lineage": null,
+            "family": "Annisa Salsabilla",
+            "honourific": null
+          },
+          "id": "annisa.salsabilla@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Widodo",
+            "honourific": null,
+            "family": "Sugeng",
+            "lineage": null
+          },
+          "id": "sugeng.widodo@fkip.unila.ac.id"
+        },
+        {
+          "id": "dedy.miswar@fkip.unila.ac.id",
+          "name": {
+            "given": "DM",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dedy Miswar"
+          }
+        },
+        {
+          "name": {
+            "given": "Y",
+            "honourific": null,
+            "lineage": null,
+            "family": "Yarmaidi"
+          },
+          "id": "yarmaidi@fkip.unila.ac.id"
+        }
+      ],
+      "title": "Analysis Of Teacher Competence And Performance In The Ability To Develop Learning Evaluation Instruments",
+      "refereed": "TRUE"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "G1"
+      ],
+      "volume": 11,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51360",
+      "publication": "JURNAL PENELITIAN GEOGRAFI",
+      "divisions": [
+        "FKIP18"
+      ],
+      "dir": "disk0_bak\/00\/05\/13\/60",
+      "status_changed": "2023-05-11 03:22:10",
+      "rev_number": 9,
+      "metadata_visibility": "show",
+      "lastmod": "2023-05-11 03:22:10",
+      "creators": [
+        {
+          "name": {
+            "given": "Zulkarnain",
+            "honourific": null,
+            "family": "Zulkarnain",
+            "lineage": null
+          },
+          "id": "zulkarnain.1960@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "DM",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dedy Miswar"
+          },
+          "id": "dedy.miswar@fkip.unila.ac.id"
+        },
+        {
+          "id": "irmalusi.nugraheni@fkip.unila.ac.id",
+          "name": {
+            "given": "Nugraheni",
+            "honourific": null,
+            "family": "Irma Lusi",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "PEMETAAN POLA PERSEBARAN WISATA KULINER KHAS LAMPUNG DI KOTA BANDAR LAMPUNG TAHUN 2022",
+      "abstract": "Penelitian ini bertujuan untuk mengetahui pola persebaran wisata kuliner khas Lampung di Kota Bandar Lampung pada Tahun 2022. Metode penelitian yang digunakan dalam penelitian ini adalah deskriptif kualitatif. Populasi dalam penelitian ini adalah restoran-restoran di Kota Bandar Lampung yang menyediakan menu kuliner tradisional khas Lampung yang berjumlah 10 restoran.  Kemudian penelitian  ini adalah penelitian  populasi yang  berarti seluruh populasi yang ada menjadi sampel dalam penelitian ini yaitu sebanyak 10 restoran di Kota Bandar Lampung. Lalu teknik pengumpulan data menggunakan teknik  observasi, dokumentasi  Wwancara, dan studi pustaka.  Teknik  analisis data dengan menggunakan Teknik Analisis Tetangga Terdekat. Hasil penelitian menunjukan bahwa : Berdasarkan hasil anlisis menggunakan Teknik Analisis Tetangga Terdekat, pola persebaran wisata kuliner khas Lampung di Kota Bandar Lampung memiliki pola tersebar tidak merata (random) dengan nilai T = 0.84.",
+      "corp_creators": [
+        "Jurnal Penelitian Geografi"
+      ],
+      "date": 2023,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JPG\/article\/view\/27132"
+        }
+      ],
+      "publisher": "FKIP Unila",
+      "full_text_status": "public",
+      "issn": "2746-2481",
+      "ispublished": "pub",
+      "datestamp": "2023-05-11 03:22:10",
+      "eprint_status": "archive",
+      "eprintid": 51360,
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jpg",
+      "pagerange": "88-94",
+      "userid": 264,
+      "number": 1,
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JPG\/index",
+      "documents": [
+          {
+            "format": "text",
+            "main": "27132-69099-2-PB.pdf",
+            "docid": 248175,
+            "files": [
+                {
+                  "objectid": 248175,
+                  "filesize": 1839978,
+                  "filename": "27132-69099-2-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/608478",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-10 04:44:20",
+                  "fileid": 608478,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "ecd5bf1d8a3625839344dcc9ac69ba21"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 51360,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248175"
+          }
+      ],
+      "refereed": "TRUE"
+    },
+    {
+      "id_number": "https:\/\/doi.org\/10.47814\/ijssrr.v6i1.754",
+      "eprintid": 47789,
+      "eprint_status": "archive",
+      "datestamp": "2023-01-13 08:07:27",
+      "pagerange": "44-57",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 409,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186890",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47789,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 523228,
+                  "hash": "bc990f03d8e295ffc3356341aa470c19",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-13 06:57:54",
+                  "filesize": 1528812,
+                  "objectid": 186890,
+                  "filename": "Food Security in Flood Disaster-Program Regions, Kagungan Ratu Village, Negeri Katon District, Pesawaran Regency.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523228"
+                }
+            ],
+            "main": "Food Security in Flood Disaster-Program Regions, Kagungan Ratu Village, Negeri Katon District, Pesawaran Regency.pdf",
+            "docid": 186890,
+            "format": "text"
+          }
+      ],
+      "official_url": "https:\/\/doi.org\/10.47814\/ijssrr.v6i1.754",
+      "lastmod": "2023-01-13 08:07:27",
+      "type": "article",
+      "creators": [
+        {
+          "id": "zulkarnain.1960@fkip.unila.ac.id",
+          "name": {
+            "given": "Zulkarnain",
+            "lineage": null,
+            "family": "Zulkarnain",
+            "honourific": null
+          }
+        },
+        {
+          "id": "dessy@student.unila.ac.id",
+          "name": {
+            "family": "Dessy",
+            "lineage": null,
+            "honourific": null,
+            "given": "Febriyantia"
+          }
+        },
+        {
+          "id": "dedy.miswar@fkip.unila.ac.id",
+          "name": {
+            "family": "Dedy Miswar",
+            "lineage": null,
+            "honourific": null,
+            "given": "DM"
+          }
+        },
+        {
+          "id": "irmalusi.nugraheni@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Irma Lusi",
+            "lineage": null,
+            "given": "Nugraheni"
+          }
+        },
+        {
+          "id": "yarmaidi@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Yarmaidi",
+            "honourific": null,
+            "given": "Y"
+          }
+        },
+        {
+          "id": "sugeng.widodo@fkip.unila.ac.id",
+          "name": {
+            "given": "Widodo",
+            "lineage": null,
+            "family": "Sugeng",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Food Security in Flood Disaster-Program Regions, Kagungan Ratu Village, Negeri Katon District, Pesawaran Regency",
+      "subjects": [
+        "G1"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 6,
+      "abstract": "This study aims to analyze the Food Security of Heads of Poor Families in Flood-Prone Areas, Kagungan Ratu Village, Negeri Katon District, Pesawaran Regency. The points of study are: food availability, food stability, food accessibility, and food quality. This study uses a descriptive method with a spatial approach. The population in this study were 290 heads of poor families and the sample in this study was 39. The sampling technique in this study used proportional random sampling. Data collection techniques using observation, questionnaires, interviews, and documentation. descriptive analysis using a spatial approach. The results of the study showed that: (1) The food availability of the heads of poor families was mostly classified as moderate, namely as many as 25 (64.1%); (2) high food stability as many as 26 (66.7%); (3) the majority of food accessibility is high (92.3%); (4) Food quality is mostly low (61.5%); and (5) food security is mostly low (66.6%). The conclusion in the study is that the food security of the household heads in the research area is strongly influenced by food availability, food stability, food accessibility, and food quality.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47789",
+      "date": "2023-01-01",
+      "publisher": "International Journal of Social Science Research and Review (IJSSRR)",
+      "divisions": [
+        "FKIP18"
+      ],
+      "publication": "International Journal of Social Science Research and Review (IJSSRR)",
+      "dir": "disk0_bak\/00\/04\/77\/89",
+      "status_changed": "2023-01-13 08:07:27",
+      "issn": "2700-2497",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7
+    },
+    {
+      "full_text_status": "public",
+      "issn": "2700-2497",
+      "status_changed": "2023-01-20 02:03:37",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FKIP18"
+      ],
+      "publisher": "International Journal of Social Science Research and Review (IJSSRR)",
+      "publication": "International Journal of Social Science Research and Review (IJSSRR)",
+      "dir": "disk0_bak\/00\/04\/79\/14",
+      "abstract": "This study aims to analyze the Food Security of Heads of Poor Families in Flood-Prone Areas, \r\nKagungan Ratu Village, Negeri Katon District, Pesawaran Regency. The points of study are: food \r\navailability, food stability, food accessibility, and food quality. This study uses a descriptive method with \r\na spatial approach. The population in this study were 290 heads of poor families and the sample in this \r\nstudy was 39. The sampling technique in this study used proportional random sampling. Data collection \r\ntechniques using observation, questionnaires, interviews, and documentation. descriptive analysis using a \r\nspatial approach. The results of the study showed that: (1) The food availability of the heads of poor \r\nfamilies was mostly classified as moderate, namely as many as 25 (64.1%); (2) high food stability as \r\nmany as 26 (66.7%); (3) the majority of food accessibility is high (92.3%); (4) Food quality is mostly low \r\n(61.5%); and (5) food security is mostly low (66.6%). The conclusion in the study is that the food security \r\nof the household heads in the research area is strongly influenced by food availability, food stability, food \r\naccessibility, and food quality.",
+      "volume": 6,
+      "date": "2023-01-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47914",
+      "date_type": "published",
+      "subjects": [
+        "G1"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "id": "zulkarnain.1960@fkip.unila.ac.id",
+          "name": {
+            "family": "Zulkarnain",
+            "lineage": null,
+            "honourific": null,
+            "given": "Zulkarnain"
+          }
+        },
+        {
+          "name": {
+            "family": "Dessy",
+            "lineage": null,
+            "honourific": null,
+            "given": "Febriyantia"
+          },
+          "id": "dessy@student.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "DM",
+            "honourific": null,
+            "family": "Dedy Miswar",
+            "lineage": null
+          },
+          "id": "dedy.miswar@fkip.unila.ac.id"
+        },
+        {
+          "id": "irmalusi.nugraheni@fkip.unila.ac.id",
+          "name": {
+            "given": "Nugraheni",
+            "family": "Irma Lusi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "yarmaidi@fkip.unila.ac.id",
+          "name": {
+            "family": "Yarmaidi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Y"
+          }
+        },
+        {
+          "id": "sugeng.widodo@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sugeng Widodo",
+            "given": "Sugeng Widodo"
+          }
+        }
+      ],
+      "title": "Food Security in Flood Disaster-Program Regions, Kagungan Ratu Village, Negeri \r\nKaton District, Pesawaran Regency",
+      "refereed": "TRUE",
+      "userid": 437,
+      "number": 1,
+      "lastmod": "2023-01-20 02:03:37",
+      "official_url": "https:\/\/ijssrr.com\/journal\/article\/view\/754\/688",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187020",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47914,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "document(1).pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "bc990f03d8e295ffc3356341aa470c19",
+                  "fileid": 524164,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524164",
+                  "filename": "document(1).pdf",
+                  "objectid": 187020,
+                  "filesize": 1528812,
+                  "mtime": "2023-01-18 09:10:20",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 187020,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2023-01-20 02:03:37",
+      "eprint_status": "archive",
+      "eprintid": 47914,
+      "metadata_visibility": "show",
+      "pagerange": "44-57"
+    }
+]
+

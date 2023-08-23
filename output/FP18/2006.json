@@ -1,0 +1,75 @@
+[
+    {
+      "publisher": "Fakultas Pertanian Universitas Muhammadiyah Malang",
+      "divisions": [
+        "FP18"
+      ],
+      "publication": "TROPIKA Jurnal Penelitian Pertanian",
+      "dir": "disk0\/00\/03\/30\/86",
+      "full_text_status": "public",
+      "issn": "0854-6533",
+      "status_changed": "2021-07-07 01:03:54",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Dynamic is a nature that shows a response of fruit if it was stimulated by energy\/force. The nature could show rate of fruit's damage when fruit is stimulated by force from outside that can be stated as natural frequency (w0), dumping ratio and amplitude ratio.",
+      "volume": 14,
+      "date": "2006-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33086",
+      "type": "article",
+      "creators": [
+        {
+          "id": "Shandiasmara@yahoo.com",
+          "name": {
+            "family": "Asmara",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sandi"
+          }
+        }
+      ],
+      "title": "Sifat Viscoelastis Buah Alpokat dalam Kemasan",
+      "refereed": "TRUE",
+      "datestamp": "2021-07-07 01:03:54",
+      "eprint_status": "archive",
+      "eprintid": 33086,
+      "metadata_visibility": "show",
+      "pagerange": "116-223",
+      "userid": 432,
+      "number": 2,
+      "lastmod": "2021-07-07 01:03:54",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 33086,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/150976",
+            "pos": 1,
+            "security": "public",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "e3f53aaabc2a6a853d5dfc8c85dce56f",
+                  "fileid": 391929,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/391929",
+                  "filename": "Scan2021-07Jurnal TROPIKA.pdf",
+                  "filesize": 8354504,
+                  "objectid": 150976,
+                  "mtime": "2021-07-05 08:24:45",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Scan2021-07Jurnal TROPIKA.pdf",
+            "docid": 150976,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ]
+    }
+]
+

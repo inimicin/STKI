@@ -1,0 +1,248 @@
+[
+    {
+      "userid": 1071,
+      "documents": [
+          {
+            "eprintid": 8980,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22056",
+            "pos": 1,
+            "format": "text",
+            "main": "Kukuh Peripi Unand 2018.pdf",
+            "files": [
+                {
+                  "mtime": "2018-10-25 07:42:11",
+                  "hash_type": "MD5",
+                  "filename": "Kukuh Peripi Unand 2018.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/86782",
+                  "objectid": 22056,
+                  "filesize": 413521,
+                  "hash": "db557967c865adaca90101b37121f027",
+                  "mime_type": "application\/pdf",
+                  "fileid": 86782,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 22056,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2018-10-25 08:31:28",
+      "eprint_status": "archive",
+      "eprintid": 8980,
+      "datestamp": "2018-10-25 08:31:28",
+      "metadata_visibility": "show",
+      "event_location": "Padang",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Setiawan",
+            "lineage": null,
+            "given": "Kukuh"
+          },
+          "id": "kukuhsetiawan38@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Nisa",
+            "honourific": null,
+            "lineage": null,
+            "family": "sari Nurlela"
+          },
+          "id": null
+        },
+        {
+          "id": "setyo.dwiutomo@fp.unila.ac.id",
+          "name": {
+            "given": "Setyo Dwi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Utomo"
+          }
+        },
+        {
+          "id": "agustiansyah.1972@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustiansyah",
+            "given": "Agustiansyah"
+          }
+        },
+        {
+          "id": "msyamshadi@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null,
+            "given": "Muhammad Syamsoel"
+          }
+        },
+        {
+          "name": {
+            "family": "Kamal",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhammad"
+          },
+          "id": "mkamal1961@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Erwin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Yuliadi"
+          }
+        },
+        {
+          "name": {
+            "given": ".",
+            "family": "Ardian",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ardian.unila@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "event_dates": "4 - 5 Oktober 2018",
+      "title": "VARIASI GENETIK DAN PENDUGA NILAI HERITABILITAS BERBAGAI GENOTIPE SORGUM [Sorghum bicolor (L.) Moench] PADA KONDISI DUA SISTEM TANAM",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Tujuan penelitian ini adalah untuk mengevaluasi variasi genetik dan menduga nilai heritabilitas beberapa genotype sorgum pada dua system tanam berbeda.  Penelitian ini dilaksanakan di Tanjung Bintang Lampung Selatan dengan tipe tanah liat berpasir mulai Maret 2017-Februari 2018.  Perlakuan disusun secara factorial (2×15) dalam rencangan kelompok teracak lengkap (RKTL) dengan tiga ulangan yang digunakan sebagai blok.  Faktor pertama adalah dua sistem tanam, monokultur dan tumpangsari dengan ubikayu (Kasetsart) yang disusun secara strip plot.  Faktor kedua adalah 15 genotipe sorgum (Numbu, Mandau, Talaga Bodas, Super1, Super2, Samurai1, UPCA, P\/I WHP, P\/F 5-193-C, GH 3, GH 4, GH 5, GH 6, GH 7 and GH 13.  Variabel yang diamati adalah tinggi tanaman (TT), jumlah daun (JD), diameter batang (DB), kehijauan daun (KD), bobot kering batang (BKB), bobot kering daun (BKD), jumlah ruas (JR), panjang panikel (PP), bobot head (BH), bobot biji (BB), bobot 300 butir.  Hasil menunjukkan bahwa TT sorgum pada 9 minggu setelah tanam (MST) mempunyai variasi genetik tinggi, σ2g= 4.146,21 sehingga nilai heritabilitas juga tinggi, h2 = 0.85.  Sebaliknya BB, menunjukkan variasi genetik yang rendah akibatnya nilai heritabilitas rendah, yaitu h2=0.03.  Dengan demikian, karakter tinggi tanaman lebih dikontrol oleh genetik dibandingkan lingkungan sehingga karakter TT dapat digunakan sebagai kriteria seleksi.\r\nKeywords: heritabilitas, sistem tanam, sorgum, variasi genetik",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8980",
+      "date": 2018,
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "Prosiding Perhimpunan Pemuliaan Indonesia (PERIPI) Komda Sumatera Barat “Kedaulatan Benih Menuju Lumbung Pangan Dunia 2045”",
+      "status_changed": "2018-10-25 08:31:28",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "inpress",
+      "dir": "disk0\/00\/00\/89\/80",
+      "divisions": [
+        "FP7"
+      ],
+      "event_type": "conference"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2018-10-25 08:31:54",
+      "eprintid": 8982,
+      "eprint_status": "archive",
+      "lastmod": "2018-10-25 08:31:54",
+      "documents": [
+          {
+            "eprintid": 8982,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22058",
+            "pos": 1,
+            "format": "text",
+            "main": "Erwin Y makalah peripi 2018 (Revised).pdf",
+            "files": [
+                {
+                  "fileid": 86798,
+                  "datasetid": "document",
+                  "hash": "4ef3c02feceb5801b1841702dd211f95",
+                  "mime_type": "application\/pdf",
+                  "objectid": 22058,
+                  "filesize": 231808,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/86798",
+                  "filename": "Erwin Y makalah peripi 2018 (Revised).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-10-25 08:12:07"
+                }
+            ],
+            "docid": 22058,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 835,
+      "title": "PENGARUH APLIKASI BEBERAPA KONSENTRASI PACLOBUTRAZOL DAN KOH TERHADAP PERTUMBUHAN DAN PRODUKSI TANAMAN UBI KAYU (Manihot esculenta Crantz)",
+      "refereed": "TRUE",
+      "event_dates": "4 - 5 Oktober 2018",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Erwin",
+            "family": "Yuliadi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "aritonang",
+            "given": "Prasasti"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": ".",
+            "family": "Ardian",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ardian.unila@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null,
+            "given": "Muhammad Syamsoel"
+          },
+          "id": "msyamshadi@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Kukuh",
+            "honourific": null,
+            "lineage": null,
+            "family": "Setiawan"
+          },
+          "id": "kukuhsetiawan38@gmail.com"
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "event_location": "Padang",
+      "event_title": "Prosiding Perhimpunan Pemuliaan Indonesia (PERIPI) Komda Sumatera Barat “Kedaulatan Benih Menuju Lumbung Pangan Dunia 2045”",
+      "subjects": [
+        "S1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8982",
+      "date": 2018,
+      "abstract": "Tujuan penelitian adalah untuk mengevaluasi pengaruh Paclobutrazol menekan pertumbuhan tapi meningkatkan hasil, mengevaluasi pengaruh KOH meningkatkan produksi, dan menentukan konsentrasi Paclobutrazol dan KOH menekan pertumbuhan tapi meningkatkan produksi.  Penelitian dilaksanakan mulai Maret 2017 hingga Oktober 2018 in Lahan Terpadu Universitas Lampung.  Perlakuan disusun secara faktorial (4x4) dalam rancangan kelompok acak lengkap (RKAL) dengan 4 ulangan yang digunakan sebagai kelompok.  Factor pertama adalah konsentrasi paclobutrazol: P1 = 0 ppm, P2 = 400 ppm, P3 = 500 ppm and P4 = 600 ppm.  Factor kedua adalah konsentrasi KOH: K1 = 0%, K2 =0,5%, K3 = 1% and K4 = 1,5% yang diaplikasian satu minggu setelah aplikasi paclobutrazol.  Penelitian ini menggunakan ubi kayu klon Kasetsart dengan variabel pengamatan tinggi tanaman, jumlah daun, bobot kering daun, bobot kering batang, dan bobot ubi,.Homogenitas ragam dan aditivitas data diuji dengan uji Tukey danj dilanjutkan dengan uji nilai tengah perlakuan melalui LSD pada level 5%.  Hasil menunjukkan bahwa aplikasi paclobutrazol mempengaruhi secara nyata tinggi tanaman, bobot kering dan basah batang.  Selanjutnya, paclobutrazol mampu meningkatkan bobot ubi pada 600 ppm.  KOH meningkatkan jumlah daun pada saat 13 minggu setelah tanam (MST).  Perlakuan KOH dapat meningkatkan bobot ubi, daun dan batang.  Paclobutrazol dan 1,5% KOH dapat menghambat pertumbuhan dan meningkatkan hasil ubi kayu.\r\n\r\nKata kunci : KOH, paclobutrazol, penghambatan, production, ubi kayu,",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "event_type": "conference",
+      "dir": "disk0\/00\/00\/89\/82",
+      "divisions": [
+        "FP7"
+      ],
+      "rev_number": 9,
+      "ispublished": "inpress",
+      "full_text_status": "public",
+      "status_changed": "2018-10-25 08:31:54"
+    }
+]
+

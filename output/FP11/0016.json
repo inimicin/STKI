@@ -1,0 +1,114 @@
+[
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Bainah Sari",
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fitriana",
+            "given": "Yulia Rahma"
+          },
+          "id": "yulia.fitriana@fp.unila.ac.id"
+        },
+        {
+          "id": "asepsukohar@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Sukohar",
+            "lineage": null,
+            "given": "Asep"
+          }
+        },
+        {
+          "name": {
+            "given": "Sugeng Prayitno",
+            "lineage": null,
+            "family": "Harianto",
+            "honourific": null
+          },
+          "id": "sugeng.prayitno@fp.unila.ac.id"
+        },
+        {
+          "id": "irwanbanuwa@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Banuwa",
+            "given": "Irwan Sukri"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Maritona",
+            "given": "Santa Togi"
+          },
+          "id": null
+        }
+      ],
+      "title": "Hasil Penilaian Peer Riview Pengalaman Baik Mengelola Rusa Di Universitas Lampung",
+      "datestamp": "2022-04-01 01:04:09",
+      "eprintid": 40924,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 469,
+      "lastmod": "2022-04-01 01:04:09",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Peer Pengalaman Baik Mengelola Rusa.pdf",
+            "files": [
+                {
+                  "fileid": 454919,
+                  "datasetid": "document",
+                  "hash": "d5f0c3eea3dd592150cec60543aeffd9",
+                  "mime_type": "application\/pdf",
+                  "filesize": 464859,
+                  "objectid": 162319,
+                  "filename": "Peer Pengalaman Baik Mengelola Rusa.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454919",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-31 10:13:40"
+                }
+            ],
+            "docid": 162319,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 40924,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162319"
+          }
+      ],
+      "divisions": [
+        "FP11"
+      ],
+      "publisher": "Kemenkumham RI",
+      "dir": "disk0\/00\/04\/09\/24",
+      "full_text_status": "public",
+      "status_changed": "2022-04-01 01:04:09",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "date_type": "published",
+      "subjects": [
+        "SD"
+      ],
+      "abstract": "Hasil Penilaian Peer Riview Pengalaman Baik Mengelola Rusa Di Universitas Lampung",
+      "date": "0016-03-22",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40924"
+    }
+]
+

@@ -1,0 +1,3881 @@
+[
+    {
+      "publisher": "LPPM Universitas Lampung & Balitbangda Kabupaten Lampung Tengah",
+      "divisions": [
+        "FP1",
+        "FP25",
+        "FP2",
+        "FP24",
+        "FP19",
+        "FP22"
+      ],
+      "dir": "disk0\/00\/00\/49\/03",
+      "rev_number": 14,
+      "ispublished": "inpress",
+      "full_text_status": "public",
+      "status_changed": "2017-11-10 13:57:07",
+      "subjects": [
+        "S1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4903",
+      "date": 2017,
+      "abstract": "Buku pedoman cassava ini terdiri atas empat bagian utama, yaitu bidang agronomi, system pemupukan, pengendalian hama dan penyakit cassava, manfaat dan pascapanen cassava. Bidang agronomi mendiskusikan tentang system penyediaan bibit, karakter berbagai varietas cassava dan system budidaya untuk produksi tinggi yang efektif dan berkelanjutan. Selanjutnya, cara pemberian pupuk yang baik dan benar untuk produksi tinggi dimasukkan ke dalam system pemupukan bersama dengan pemberian bahan organik untuk memperbaiki sifat tanah.  Cara pengendalian organisme pengganggu tanaman terpadu dibahas di dalam bagian pengendalian berbagai hama dan penyakit cassava. Terakhir adalah manfaat dan pascapanen cassava yang membahas tentang kegunaan cassava untuk kehidupan sehari-hari serta cara penyimpanan dan pengawetan tepung maupun prosesing.",
+      "title": "CASSAVA: BIBIT, PRODUKSI, MANFAAT, DAN PASCA PANEN",
+      "refereed": "FALSE",
+      "type": "book",
+      "metadata_visibility": "show",
+      "datestamp": "2017-11-10 13:57:07",
+      "eprintid": 4903,
+      "editors": [
+        {
+          "name": {
+            "given": "Udin",
+            "lineage": null,
+            "family": "Hasanudin",
+            "honourific": null
+          },
+          "id": "udinha65@gmail.com"
+        },
+        {
+          "id": "erwyld@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Yuliadi",
+            "lineage": null,
+            "given": "Erwin"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hadi",
+            "given": "Muhammad Syamsoel"
+          },
+          "id": "msyamshadi@yahoo.co.id"
+        },
+        {
+          "id": "kukuhsetiawan38@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Setiawan",
+            "lineage": null,
+            "given": "Kukuh"
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "lastmod": "2017-11-10 13:57:07",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Buku Cassava.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 47514,
+                  "hash": "297a1ffab74adf857353a2cbf01306f0",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-08 18:32:45",
+                  "filesize": 4090275,
+                  "objectid": 17833,
+                  "filename": "Buku Cassava.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/47514"
+                }
+            ],
+            "docid": 17833,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17833",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4903
+          }
+      ],
+      "userid": 1054
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "55-66",
+      "datestamp": "2018-06-25 02:22:41",
+      "eprintid": 7512,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/journal.unila.ac.id\/index.php\/tropicalsoil",
+      "lastmod": "2018-06-25 02:22:41",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20550",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 7512,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "7. MASA.pdf",
+            "docid": 20550,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 67791,
+                  "hash": "0e9caa8bbf5798ee042785b2dfa54faf",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-22 04:17:14",
+                  "filesize": 531679,
+                  "objectid": 20550,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67791",
+                  "filename": "7. MASA.pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 1053,
+      "number": 1,
+      "title": "Population and Diversity of Soil and Leaf Litter Mesofauna in Arable Soils at The Agriculture Experimental Field of University of Lampung",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "abimasyarif@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Arif",
+            "honourific": null,
+            "given": "Mas Achmad Syamsul"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yusnaini",
+            "honourific": null,
+            "given": "Sri"
+          },
+          "id": "sri.yusnaini@fp.unila.ac.id"
+        },
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "given": "Ainin",
+            "honourific": null,
+            "family": "Niswati",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Pratiwi Adriani",
+            "family": "Novia",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7512",
+      "date": "2017-01",
+      "abstract": "The research was conducted to study the population and diversity of soil and leaf litter mesofauna in arable soils under different types of vegetation and slope at the Agriculture Experimental Field (AEF) of University of Lampung. The study was designed to use a survey method. The soil and leaf litter samples were taken from different vegetation types and slope classes. Observational variables included population and diversity index of soil mesofauna (H’), soil temperature, soil moisture content, soil pH, soil organic-C, soil total-N, and soil C\/N ratio were measured. The data of population distribution were presented in a boxplot diagram and the correlation between soil properties and mesofauna population or mesofauna diversity index were presented. The results showed that the most abundant soil mesofauna was observed in the plot with sugarcane vegetation, either sampled at the end of dry season (November 2015) or at the end of rainy season (April 2016). However, the highest number of leaf litter mesofauna was found in the plot with cassava vegetation. The result suggested that the cassava leaf litter most likely become the preferred substrate for mesofauna. In all treatments, the values of mesofauna diversity index (H‘) are categorized as low according to the Shannon-Weaver index. Two predominant orders frequently found in almost all vegetation types were Acarina and Collembola. The results of correlation analysis indicated that only soil pH sampled in November 2015 is positively correlated to the mesofauna population (range of pH 5.0 to 6.6). Soil moisture content sampled in November 2015 and soil C\/Nratio sampled on April 2016 are positively correlatedto the diversity index of soil mesofauna, respectively. Soil total-N sampled in November 2015 is negatively correlated to the soil mesofauna diversity index. The increase of leaf litter biomass appears to promote the increase of the leaf litter mesofauna population, but not the diversity index.",
+      "corp_creators": [
+        "FP Universitas Lampung"
+      ],
+      "volume": 22,
+      "dir": "disk0\/00\/00\/75\/12",
+      "publisher": "University of Lampung",
+      "publication": "Journal of Tropical Soils",
+      "divisions": [
+        "FP2"
+      ],
+      "keywords": "Diversity index, leaf litter,  soil mesofauna, vegetation",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "0852-257X",
+      "status_changed": "2018-06-25 02:22:41"
+    },
+    {
+      "rev_number": 16,
+      "ispublished": "submitted",
+      "full_text_status": "public",
+      "status_changed": "2017-11-03 14:58:48",
+      "event_type": "conference",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/45\/34",
+      "date": "2017-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4534",
+      "abstract": "An experiment was conducted to evaluate the effects of plant extracts fraction on anthracnose of chilli. The experiment was arranged in randomized completly block design. The experiment consisted of  8 treatments with 4 replicates. The treatments were jatropa water extract fraction, ageratum N-hexana extract fraction, ageratum with no fractination, betel vine with no fractionation, propineb, and control. Variables in the experiment  were disease incidence and disease severerity. The data homogenity were tested using Barlett test. The data were analysed statistically using anova and the difference between means were tested using LSD (α 5%). Results of the experiment showed that extracts of betel vine, ageratum, and jatropa leaves decreased disease incidence and disease severerity. The capability of betel vine with no fractionation and betel vine with water fractionation to decrease disease incidence and disease severerity were comparable to synthetic fungicide propineb\r\n\r\n Key Words: Pipper betel, Ageratum conysoydes, Jatropa multifida, and Colettotrichum capsici.",
+      "corp_creators": [
+        "UniversitasLampung"
+      ],
+      "event_title": "International Seminar Agricultural Engineering 2017",
+      "subjects": [
+        "S1"
+      ],
+      "event_location": "Emersia Hotel, Bandar Lampung",
+      "title": "EFFECTS OF SOME PLANT EXTRACT  FRACTIONS ON ANTHRACNOSE\r\n(Collettotrichum capsici) OF CHILLI (Capsicum annum L.) **",
+      "event_dates": "10-12 Agustus 2017",
+      "refereed": "FALSE",
+      "type": "conference_item",
+      "pres_type": "speech",
+      "creators": [
+        {
+          "id": "efri.1960@fp.unila.ac.id",
+          "name": {
+            "family": "Efri",
+            "lineage": null,
+            "honourific": null,
+            "given": "Efri"
+          }
+        },
+        {
+          "name": {
+            "given": "Titik Nur",
+            "honourific": null,
+            "family": "Aeny",
+            "lineage": null
+          },
+          "id": "titik.nuraeny@fp.unila.ac.id"
+        },
+        {
+          "id": "ivayani.1@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "ivayani",
+            "given": "ivayani"
+          }
+        },
+        {
+          "name": {
+            "given": "Suskandini R.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dirmawati"
+          },
+          "id": null
+        },
+        {
+          "id": "joko.prasetyo@fp.unila.ac.id",
+          "name": {
+            "given": "Joko",
+            "honourific": null,
+            "family": "Prasetyo",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Triono",
+            "lineage": null,
+            "given": "Triono"
+          }
+        }
+      ],
+      "lastmod": "2017-11-03 14:58:48",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 4534,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17452",
+            "pos": 1,
+            "security": "public",
+            "docid": 17452,
+            "main": "Artikel   international seminar.pdf",
+            "files": [
+                {
+                  "objectid": 17452,
+                  "filesize": 504037,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/44826",
+                  "filename": "Artikel   international seminar.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-03 14:26:33",
+                  "datasetid": "document",
+                  "fileid": 44826,
+                  "hash": "460a4ce237e96ff1706a0101f10c4e15",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "draft"
+          }
+      ],
+      "userid": 1016,
+      "metadata_visibility": "show",
+      "datestamp": "2017-11-03 14:58:48",
+      "eprint_status": "archive",
+      "eprintid": 4534
+    },
+    {
+      "metadata_visibility": "show",
+      "eprintid": 5287,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-16 07:37:53",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18233",
+            "eprintid": 5287,
+            "placement": 1,
+            "content": "submitted",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "rev_number": 2,
+            "format": "text",
+            "docid": 18233,
+            "main": "RusdiEvizalSemAbdi2017.pdf",
+            "files": [
+                {
+                  "fileid": 50212,
+                  "datasetid": "document",
+                  "hash": "92f4be9dac2808d2cf5d31f0390abbdf",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-11 15:17:19",
+                  "filesize": 500153,
+                  "objectid": 18233,
+                  "filename": "RusdiEvizalSemAbdi2017.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/50212"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2017-11-16 07:37:53",
+      "userid": 728,
+      "refereed": "TRUE",
+      "event_dates": "4 November 2017",
+      "title": "SEKOLAH LAPANG KAKAO UNTUK\r\nMENDORONG REHABILITASI KEBUN SECARA MANDIRI",
+      "pres_type": "speech",
+      "creators": [
+        {
+          "name": {
+            "given": "Rusdi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Evizal"
+          },
+          "id": "rusdi.evizal@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Prasmatiwi",
+            "given": "Fembriarti Erry"
+          },
+          "id": "feprasmatiwi@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "ivayani",
+            "honourific": null,
+            "given": "ivayani"
+          },
+          "id": "ivayani.1@fp.unila.ac.id"
+        },
+        {
+          "id": "lestari.wibowo@fp.unila.ac.id",
+          "name": {
+            "family": "Wibowo",
+            "lineage": null,
+            "honourific": null,
+            "given": "Lestari"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Rahmawati",
+            "lineage": null,
+            "honourific": null,
+            "given": "Winda"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Bandar Lampung",
+      "event_title": "Seminar Nasional Pengabdian kepada Masyarakat Universitas Lampung",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "submitted",
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5287",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Abstrak\r\nProduktivitas kakao di Kabupaten Tanggamus rendah antara lain karena areal perkebunan kakao yang berkategori tanaman rusak atau tanaman tidak menghasilkan mencapai 32%. Dengan mengikuti Sekolah Lapang Kakao petani belajar bagaimana meningkatkan keterampilan melalui pengamatan, analisis, dan penerapan ide baru di lahannya sendiri untuk meningkatkan produktivitas. Kegiatan pengabdian kepada masyarakat ini dilaksanakan di Pekon Pematang Nebak dan sekitarnya di Kecamatan Bulok Kabupaten Tanggamus mulai dilaksanakan pada bulan April sampai November 2017 mengunakan metode Focus Group Discussion (FGD) dan Sekolah Lapang (SL)(FFS, Farmer Field School). Hasilnya disimpulkan bahwa: (1) kurikulum SL Kakao sesuai dengan kebutuhan spesifik petani dan kelompok tani sasaran terdiri dari 12 topik kurikulum, (2) SL kakao dilaksanakan setiap 2 minggu di lokasi yang berbeda sesuai dengan kesepakatan, (3) Hasil evaluasi proses diperoleh jumlah skor 12 yang menunjukkan tingkat partisipasi yang berkategori baik. Evaluasi hasil dipilih dari 10 indikator keterampilan menunjukkan angka jumlah skor 38 yang termasuk kategori baik, (4) Implementasi SL Kakao antara lain rehabilitasi kebun kakao, pembuatan kebun entres, pembibitan kakao unggul, dan replanting kakao secara bertahap.\r\nKata kunci: Kurikulum, rehabilitasi, replanting, SL Kakao",
+      "event_type": "conference",
+      "dir": "disk0\/00\/00\/52\/87",
+      "divisions": [
+        "FP2"
+      ],
+      "ispublished": "submitted",
+      "rev_number": 9,
+      "status_changed": "2017-11-16 07:37:53",
+      "full_text_status": "public"
+    },
+    {
+      "publisher": "Jurnal Agrotek Tropika",
+      "divisions": [
+        "FP2"
+      ],
+      "publication": "Jurnal Agrotek Tropika",
+      "dir": "disk0\/00\/00\/58\/29",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2337-4993",
+      "status_changed": "2017-11-17 04:22:50",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "date": "2017-01-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5829",
+      "abstract": "Penelitian ini bertujuan untuk mengetahui efektivitas herbisida amonium glufosinat dalam mengendalikan gulma pada persiapan lahan padi sawah dengan sistem tanpa olah tanah (TOT) serta mengetahui pengaruh sistem TOT terhadap produksi padi sawah.  Penelitian ini dilaksanakan di Desa Tempuran, Kecamatan Trimurjo, Kabupaten Lampung Tengah dan di Laboratorium Ilmu Gulma, Jurusan Agroteknologi, Fakultas Pertanian, Universitas Lampung mulai bulan Januari 2016 sampai April 2016 dengan menggunakan Rancangan Acak Kelompok (RAK) dengan 4 perlakuan dosis herbisida amonium glufosinat (480, 640, 800, dan 960 g\/ha) dengan sistem TOT, penyiangan secara mekanis dengan sistem OTS, dan kontrol (tanpa pengendalian gulma dengan sitem TOT) dan diulang sebanyak 4 ulangan.  Homogenitas ragam diuji dengan menggunakan Uji Barttlet dan additifitas data diuji menggunakan Uji Tukey.  Jika asumsi terpenuhi maka data dianalisis dengan sidik ragam dengan menggunakan pemisahan nilai tengah Beda Nyata Terkecil (BNT) pada taraf 5%. Hasil penelitian menunjukkan bahwa semua taraf dosis herbisida amonium glufosinat yang diuji (480-960 g\/ha) dan penyiangan mekanis mampu mengendalikan gulma total dan gulma golongan rumput hingga 7 minggu setelah aplikasi (MSA), sedangkan gulma golongan daun lebar dan golongan rumput mampu dikendalikan oleh herbisida amonium glufosinat dan penyiangan mekanis hingga 7 MSA pada taraf dosis 640-960 g\/ha, namun gulma golongan teki terutama Fimbristilys miliacea serta gulma Leptochloa chinensis tidak mampu dikendalikan oleh herbisida ini. Hasil gabah kering giling pada sistem TOT lebih rendah dibandingkan dengan hasil gabah kering giling jika pada sistem OTS.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 5,
+      "title": "PENGGUNAAN HERBISIDA AMONIUM GLUFOSINAT PADA PERSIAPAN LAHAN PADI SAWAH (Oryza sativa L.) DENGAN SISTEM TANPA OLAH TANAH",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "cindyfelixia94@gmail.com",
+          "name": {
+            "family": "Felixia",
+            "lineage": null,
+            "honourific": null,
+            "given": "Cindy"
+          }
+        },
+        {
+          "id": "dadresiworo@yahoo.com",
+          "name": {
+            "given": "Dad R. J.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sembodo"
+          }
+        },
+        {
+          "name": {
+            "family": "Hidayat",
+            "lineage": null,
+            "honourific": null,
+            "given": "Kuswanta F."
+          },
+          "id": "kfhidayat@gmail.com"
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "33-39",
+      "datestamp": "2017-11-17 04:22:50",
+      "eprint_status": "archive",
+      "eprintid": 5829,
+      "lastmod": "2017-11-17 04:22:50",
+      "documents": [
+          {
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "format": "text",
+            "docid": 18757,
+            "main": "6 Felixia dkk.pdf",
+            "files": [
+                {
+                  "mtime": "2017-11-17 02:54:27",
+                  "hash_type": "MD5",
+                  "filename": "6 Felixia dkk.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54445",
+                  "objectid": 18757,
+                  "filesize": 77757,
+                  "mime_type": "application\/pdf",
+                  "hash": "aae0a06b201555ec8ec2366342515c2e",
+                  "fileid": 54445,
+                  "datasetid": "document"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18757",
+            "eprintid": 5829,
+            "placement": 1
+          }
+      ],
+      "userid": 910,
+      "number": 1
+    },
+    {
+      "refereed": "TRUE",
+      "title": "SISTEM BUDIDAYA CASSAVA AMAN LINGKUNGAN DAN\r\nBERKELANJUTAN",
+      "type": "book_section",
+      "creators": [
+        {
+          "id": "msyamshadi@yahoo.co.id",
+          "name": {
+            "given": "Muhammad Syamsoel",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hadi"
+          }
+        }
+      ],
+      "place_of_pub": "Bandar Lampung",
+      "pagerange": "16-23",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "editors": [
+        {
+          "name": {
+            "family": "Hasanuddin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Udin"
+          },
+          "id": null
+        },
+        {
+          "id": "erwyld@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yuliadi",
+            "given": "Erwin"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null,
+            "given": "Muhammad Syamsoel"
+          },
+          "id": "msyamshadi@yahoo.co.id"
+        },
+        {
+          "id": "kukuhsetiawan38@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null,
+            "given": "Kukuh"
+          }
+        }
+      ],
+      "eprintid": 5599,
+      "datestamp": "2017-11-16 06:57:40",
+      "pages": 104,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Buku_Cassava_Lampung Tengah.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "297a1ffab74adf857353a2cbf01306f0",
+                  "fileid": 52386,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52386",
+                  "filename": "Buku_Cassava_Lampung Tengah.pdf",
+                  "filesize": 4090275,
+                  "objectid": 18550,
+                  "mtime": "2017-11-15 08:59:18",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 18550,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18550",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 5599
+          }
+      ],
+      "lastmod": "2017-11-16 06:57:40",
+      "userid": 847,
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/55\/99",
+      "rev_number": 7,
+      "ispublished": "inpress",
+      "status_changed": "2017-11-16 06:57:40",
+      "full_text_status": "public",
+      "book_title": "CASSAVA: BIBIT, PRODUKSI, MANFAAT, DAN PASCA PANEN",
+      "subjects": [
+        "S1"
+      ],
+      "date": "2017-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5599",
+      "corp_creators": [
+        "Balitbangda Lampung Tengah",
+        "Universitas Lampung"
+      ],
+      "abstract": "Puji syukur ke hadirat Allah SWT atas terselesainya buku pedoman yang akan digunakan untuk referensi peningkatan dan perbaikan produksi cassava di Lampung.  Buku pedoman cassava ini terdiri atas empat bagian utama, yaitu bidang agronomi, system pemupukan, pengendalian hama dan penyakit cassava, manfaat dan pascapanen cassava.  Bidang agronomi mendiskusikan tentang system penyediaan bibit, karakter berbagai varietas cassava dan system budidaya untuk produksi tinggi yang efektif dan berkelanjutan.  Selanjutnya, cara pemberian pupuk yang baik dan benar untuk produksi tinggi dimasukkan ke dalam system pemupukan bersama dengan pemberian bahan organik untuk memperbaiki sifat tanah.  Cara pengendalian organisme pengganggu tanaman terpadu dibahas di dalam bagian pengendalian berbagai hama dan penyakit cassava.  Terakhir adalah manfaat dan pascapanen cassava yang membahas tentang kegunaan cassava untuk kehidupan sehari-hari serta cara penyimpanan dan pengawetan tepung maupun prosesing.\r\nPenyajian makalah dari berbagai bidang bermaksud agar informasi yang didiskusikan di dalam makalah mampu memperbaiki produksi cassava dan bahkan bias dipahami oleh ibu-ibu petani.  Ibu-ibu petani merupakan bagian dari faktor produksi dalam usahatani cassava.  Latar belakang pendidikan para ibu petani ini berkisar antara lulusan SD hingga SMA.  Mudahnya para ibu petani memaham iinformasi tentang perbaikan produksi cassava yang berkerlanjutan dan ramah lingkungan ini diharapkan bisa berpartisipasi aktif dalam peningkatan produksi cassava.\r\nTim editor memahami akan kekurangan informasi yang ada di makalah karena itu saran atau masukan yang bermanfaat akan sangat membantu dalam perbaikan di masa mendatang. Selanjutnya, melalui Tim Editor, kami mohon ijin kepada penulis (author) jurnal maupun tulisan yang digunakan sebagai referensi.  Atas kerjasama, budi baik dan dukungan positif para penulis jurnal atau majalah diucapkan terimakasih.  Semoga kumpulan makalah yang sederhana untuk para ibu petani ini bisa digunakan sebagai acuan atau pedoman dalam pengembangan bahan bacaan untuk perbaikan produksi cassava baik kualitas maupun kuantitas."
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4260",
+      "date": 2017,
+      "abstract": "Kegiatan pengabdian kepada masyarakat dengan judu l” Penanganan Hama Penyakit Tanaman Yang Bersumber Dari Tanah (Soil Borne Disease) Melalui Pengolahan Tanah Yang Baik” telah dilaksanakan pada hari Rabu, tanggal 9 Agustus 2017. Penyuluhan  ini dikelola oleh Klinik Pertanian Keliling Fakultas Pertanian Universitas Lampung yang merasa terpangggil untuk ikut serta memberikan  masukan dan pemberdayaan masyarakat di daerah.  Dekan Fakultas Pertanian telah menugasi dosen Jurusan Agroteknologi sebagai nara sumber yang tertuang dalam suat tugas No.  2780\/UN26.14\/TU.00.00\/2017 tertanggal 8 Agustus 2017. Kegiatan penyuluhan  dilakukan atas permintaan Kepala  Dinas Ketahanan Pangan, Pertanian, dan Peternakan Kota Metro untuk  menyiapkan nara sumber dalam kegiatan pelatihan untuk meningkatkan kemampuan para Penyuluh Pertanian Lapangan (PPL) dari berbagai desa di Kecamatan Metro Utara,  Kota Madya Metro.  Kegiatan penyuluhan dilakukan di aula Kantor UPT II BP3KK Kelurahan Karang Rejo yang diikuti oleh para PPL sebanyak 24 orang yang bertugas mendampingi petani di desa masing-masing. Tujuan penyuluhan adalah untuk meningkatkan pengetahuan dan pemahaman peserta PPL mengenai penanganan hama dan penyakit yang bersumber dari tanah melalui pengolahan tanah yang baik.   Penyuluhan dilakukan dengan metode ceramah mengunakan LCD dengan contoh-contoh gambar yang representatif.  Pendalaman untuk meningkatkan pemahaman peserta pelatihan  dilakukan dengan diskusi dan tanya-jawab antar peserta dan nara sumber dan antarpeserta. Nara sumber yang memberikan ceramah mempresentasikan materinya secara bergantian dalam dua sesidengan topik, yaitu” Program Pengendialan Hama Terpadu  pada Tanaman Padi “ dan Pengelolaan Kesuburan Tanah yang Berkelanjutan “.  Setelah semua topik di presentasikan lalu dilanjutkan dengan kegiatan tanya jawab dan diskusi.  Pre-test berupa pertanyaan lisan kepada beberapa peserta dan post-test kepada semua peserta dilakukan untuk evaluasi keberhasilan penyuluhan. Kegiatan penyuluhan berhasil dengan baik. Antusiasme peserta penyuluhan yang berasal dari berbagai Desa Tani di Kecamatan Metro Utara tinggi sehingga pengetahuannya sebelum diberi penyuluhan masih pada grade 6 meningkat menjadi rata-rata 7,92 (32,0%). Melalui proses penyuluhan, para peserta telah ememiliki pengatahuan yang benar mengenai 1)  spesies hama dan penyakit penting tanaman padi, 2)  mengenal dan memahami teknik pengendalian hama beserta prisnsip dan penerapan Pengelolaan Hama Terpadu (PHT) untuk hama dan penyakit tanaman padi, dan 3) ekologi dan kesuburan tanah sawah yang berkelanjutan.",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2017-11-06 08:19:01",
+      "full_text_status": "public",
+      "dir": "disk0\/00\/00\/42\/60",
+      "publisher": "University of Lampung",
+      "divisions": [
+        "FP2"
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17224",
+            "pos": 1,
+            "eprintid": 4260,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 17224,
+            "main": "Rosma Hasibuan-Laporan Pengabdian Metro 9 Agustus 2017.pdf",
+            "files": [
+                {
+                  "mtime": "2017-11-03 04:23:04",
+                  "hash_type": "MD5",
+                  "filename": "Rosma Hasibuan-Laporan Pengabdian Metro 9 Agustus 2017.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/43376",
+                  "objectid": 17224,
+                  "filesize": 3267760,
+                  "mime_type": "application\/pdf",
+                  "hash": "fce6c73f1dc72a7c41e5e59b2fb09cbf",
+                  "fileid": 43376,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2017-11-06 08:19:01",
+      "userid": 1089,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 4260,
+      "datestamp": "2017-11-06 08:19:01",
+      "place_of_pub": "Bandar Lampung, Lampung",
+      "contact_email": "rosma.hasibuan@fp.unila.ac.id",
+      "title": "Penanganan Hama Penyakit Tanaman Yang Bersumber Dari Tanah (Soil Borne Disease) Melalui Pengolahan Tanah yang Baik",
+      "creators": [
+        {
+          "id": "rosma.hasibuan@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Hasibuan",
+            "lineage": null,
+            "given": "Rosma"
+          }
+        },
+        {
+          "name": {
+            "family": "Lumbanraja",
+            "lineage": null,
+            "honourific": null,
+            "given": "Jamalam"
+          },
+          "id": "jamalam.lumbanraja@fp.unila.ac.id"
+        }
+      ],
+      "type": "other"
+    },
+    {
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/76\/70",
+      "funders": [
+        "Directorate Research and Development. Ministery of Research Technology and Higher Education. Indonesia"
+      ],
+      "status_changed": "2018-06-25 03:43:10",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "volume": 10,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7670",
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "given": "Saiful",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hikam"
+          },
+          "id": "s_hikam@yahoo.com"
+        },
+        {
+          "id": "paul.timotiwu@gmail.com",
+          "name": {
+            "given": "Paul B.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Timotiwu"
+          }
+        },
+        {
+          "id": "ds@polinela.ac.id",
+          "name": {
+            "given": "Denny",
+            "lineage": null,
+            "family": "Sudrajat",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Padi Merah Penyehat Darah. Red Rice Healthy Blood",
+      "contact_email": "s_hikam@yahoo.com",
+      "metadata_visibility": "show",
+      "lastmod": "2018-06-25 03:43:10",
+      "related_url": [
+        {
+          "type": "org",
+          "url": "http:\/\/www.innovation.id"
+        }
+      ],
+      "publisher": "Business Innovation Center",
+      "full_text_status": "none",
+      "ispublished": "pub",
+      "book_title": "100 Indonesia Innovations",
+      "series": "Indonesia Innovations Series",
+      "abstract": "Inovasi ini adalah pemuliaan varietas padi merah hasil penyilangan 4 jenis padi merah asal Lampung. Varietas padi yang dihasilkan memiliki karakteristik indeks glikemik rendah sekitar 55%, tahan hama penyakit lokal, dan tahan kering untuk digogokan. Varietas padi ini juga dapat dijadikan lini tetua untuk penghibridan selanjutnya sehingga Indonesia dapat melepaskan ketergantungan terhadap benih impor padi merah. Dari segi rasa, padi inipun lebih pulen dibanding beras merah dipasaran.",
+      "projects": [
+        "The Development of Upland and Lowland Rice Utilizing Local Germplasms"
+      ],
+      "date": 2017,
+      "isbn": "978-602-95290-9-8",
+      "refereed": "TRUE",
+      "place_of_pub": "Jakarta, Indonesia",
+      "datestamp": "2018-06-25 03:43:10",
+      "eprint_status": "archive",
+      "eprintid": 7670,
+      "pagerange": "16-17",
+      "userid": 607,
+      "number": 109,
+      "official_url": "http:\/\/www.bicnets.com",
+      "pages": 260
+    },
+    {
+      "publisher": "Jurusan Agroteknologi Fakultas Pertanian universitas Lampung",
+      "publication": "AGROTEK TROPIKA",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/03\/73\/85",
+      "full_text_status": "public",
+      "issn": "2337-4993",
+      "status_changed": "2021-12-21 10:25:10",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Gulma menjadi salah satu kendala yang dapat menghambat pertumbuhan tanaman kelapa sawit. Pengendalian gulma yang\r\ndilakukan adalah menggunakan herbisida nabati berbahan aktif 1,8-cineole. Penelitian ini bertujuan untuk menentukan dosis\r\nherbisida nabati 1,8-cineole yang efektif mengendalikan gulma di perkebunan kelapa sawit menghasilkan, mengetahui efektivitas\r\nherbisida nabati 1,8-cineole dibandingkan herbisida paraquat dalam mengendalikan gulma di perkebunan kelapa sawit\r\nmenghasilkan, dan mengetahui pengaruh herbisida nabati 1,8-cineole terhadap tanaman kelapa sawit menghasilkan. Penelitian\r\nini dilaksanakan di Desa Sidomukti, Kecamatan Natar, Kabupaten Lampung Selatan, dan Laboratorium Gulma Fakultas Pertanian\r\nUniversitas Lampung pada bulan Februari – Mei 2016. Penelitian menggunakan Rancangan Acak Kelompok (RAK) dengan 9\r\nperlakuan yaitu 1,8-cineole dengan dosis (3,0; 4,5; 6,0; 7,5; 9,0; 10,5 g\/ha), herbisida paraquat dengan dosis 900 g\/ha, penyiangan\r\nmekanis, dan kontrol (tanpa pengendalian) dengan 3 ulangan. Homogenitas ragam diuji dengan menggunakan uji Bartlett dan\r\nadditivitas data diuji dengan uji Tukey. Perbedaan antar nilai tengah diuji menggunakan uji BNT pada taraf 5%. Hasil\r\npenelitian menunjukkan bahwa Herbisida 1,8-cineole pada dosis 3,0 – 10,5 g\/ha efektif mengendalikan gulma total, gulma\r\ngolongan daun lebar, dan gulma golongan rumput sampai 8 MSA, bahkan pada dosis yang sama efektif mengendalikan gulma\r\ngolongan teki sampai 12 MSA. Herbisida 1,8-cineole pada dosis 9,0 – 10,5 g\/ha mampu mengendalikan gulma setara dengan\r\ntingkat pengendalian dengan herbisida paraquat 900 g\/ha sampai 8 MSA. Aplikasi herbisida 1,8-cineole pada dosis 3,0 – 10,5\r\ng\/ha tidak meracuni tanaman kelapa sawit menghasilkan.",
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37385",
+      "date": "2017-01",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Citra B",
+            "family": "Kurniastuty",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "dadresiworo@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Sembodo",
+            "lineage": null,
+            "given": "Dad R. J."
+          }
+        },
+        {
+          "id": "maria.vivarini@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rini",
+            "given": "Maria Viva"
+          }
+        },
+        {
+          "id": "hidpuji@yahoo.com",
+          "name": {
+            "given": "Hidayat",
+            "honourific": null,
+            "lineage": null,
+            "family": "Pujisiswanto"
+          }
+        }
+      ],
+      "title": "EFIKASI HERBISIDA NABATI 1,8-CINEOLE TERHADAP GULMA PADA\r\nPERKEBUNAN KELAPA SAWIT (Elaeis guineensis Jacq.) MENGHASILKAN",
+      "refereed": "TRUE",
+      "datestamp": "2021-12-21 10:25:10",
+      "eprintid": 37385,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "27-32",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 741,
+      "number": 1,
+      "lastmod": "2021-12-21 10:25:10",
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JA\/article\/view\/1843\/1604",
+      "documents": [
+          {
+            "eprintid": 37385,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158299",
+            "format": "text",
+            "main": "Januari 2017 - JAT 5(1) - Citra dkk.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "40f0a045fe87bf825752afe9cf034c56",
+                  "datasetid": "document",
+                  "fileid": 427498,
+                  "mtime": "2021-12-21 09:03:20",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/427498",
+                  "filename": "Januari 2017 - JAT 5(1) - Citra dkk.pdf",
+                  "objectid": 158299,
+                  "filesize": 172158
+                }
+            ],
+            "docid": 158299,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          },
+          {
+            "placement": 2,
+            "eprintid": 37385,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158300",
+            "pos": 2,
+            "security": "public",
+            "docid": 158300,
+            "main": "Januari 2017 - JAT 5(1) - Citra K dkk.pdf",
+            "files": [
+                {
+                  "mtime": "2021-12-21 09:09:21",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/427500",
+                  "filename": "Januari 2017 - JAT 5(1) - Citra K dkk.pdf",
+                  "filesize": 239083,
+                  "objectid": 158300,
+                  "hash": "7f5111a6efac6389c2e14881b50e2c45",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 427500
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "date_type": "submitted",
+      "event_title": "Seminar Nasional Pengabdian kepada Masyarakat Universitas Lampung",
+      "subjects": [
+        "S1"
+      ],
+      "date": "2017-11-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4738",
+      "abstract": "PELATIHAN PEMBUATAN PUPUK ORGANIK PLUS PADA GAPOKTAN SUBUR ASRI DAN P4S SAUNG BAMBU DESA REJO ASRI                                                   KECAMATAN SEPUTIH RAMAN KABUPATEN LAMPUNG TENGAH\r\n\r\nLestari Wibowo, Dwi Dian Novita, dan Sri Yusnaini\r\nFakultas Pertanian Universitas Lampung\r\n Jl. Sumantri Brojonegoro No 1 \r\nBandar Lampung,  lestari.wibowo.62@gmail.com\r\n\r\nABSTRAK\r\n\r\nKegiatan yang  didanai oleh Kemenristek Dikti melalui Program Kemitraan Masyarakat (PKM) tahun 2017 dengan mitra Gapoktan Subur Asri dan Pusat Pelatihan Pertanian Pedesaan  Swadaya (P4S) Saung Bambu bertujuan untuk memperbaiki kualitas pupuk organik mitra. Usaha produksi pupuk organik dengan memanfaatkan kotoran sapi telah dilakukan oleh Gapoktan Subur Asri (Mitra I) di Desa Rejo Asri sejak tahun 2013. Permasalahan yang dihadapi Mitra I adalah volume produksi pupuk organik masih rendah,  tingkat kejerihan kerja yang tinggi, dan proses pengomposan masih memerlukan waktu yang lama. Selain itu pupuk organik  yang dihasilkan belum memiliki keunggulan dibandingkan produk sejenis sehingga perlu dilakukan pengkayaan dengan agensia hayati. Melalui kegiatan PKM ini, solusi yang telah diberikan pada Mitra I yaitu aplikasi mesin chopper untuk mencacah serasah dan jerami, alih teknologi pengomposan dan pengkayaan pupuk organik dengan agensia hayati (jamur Trichoderma sp. dan M. anisopliae), perbaikan kemasan dan kerjasama pemasaran dengan Mitra 2 P4S, serta promosi melalui leaflet dan pameran. Transfer pengetahuan dan alih teknologi kepada kedua mitra telah dilakukan melalui metode penyuluhan, pelatihan, dan praktek langsung. Melalui kombinasi ketiga metode tersebut kedua mitra dapat menguasai semua teknologi yang disampaikan.  Setelah pelatihan peserta memperoleh pengetahuan dan keterampilan dalam memperbanyak agensia hayati jamur Trichoderma sp. dan Metarhizium anisopliae.  Agensia hayati jamur Trichoderma sp. yang telah diperbanyak dapat berkembang dan bertahan pada pupuk organik sehingga dapat memperkaya pupuk organik yang dihasilkan. Sedangkan Metarhizium anisopliae formulasi kering yang dicampurkan pada pupuk organik sebelum pengemasan dapat berperan sebagai agensia hayati yang dapat membunuh hama dan menekan pertumbuhan penyakit tanaman. Implementasi mesin chopper untuk mencacah jerami dan serasah tanaman memberikan keuntungan yaitu proses pembuatan pupuk menjadi lebih efisien, pemanfaatan bahan baku alami meningkat, dan proses produksi lebih cepat. Hal ini tercermin dari  produksi pupuk organik meningkat dari 2,6 ton menjadi 10 ton per siklus produksi. Pupuk yang diproduksi selain meningkat secara kuantitas, juga secara kualitas lebih unggul karena diperkaya dengan agensia hayati jamur Trichoderma sp. dan Metarhizium anisopliae. \r\nKata kunci : agensia hayati, Metarhizium anisopliae, mesin chopper, pupuk organik, dan Trichoderma sp.",
+      "event_type": "conference",
+      "dir": "disk0\/00\/00\/47\/38",
+      "divisions": [
+        "FP2"
+      ],
+      "rev_number": 16,
+      "ispublished": "submitted",
+      "full_text_status": "public",
+      "status_changed": "2017-11-14 02:28:48",
+      "metadata_visibility": "show",
+      "pagerange": "1-10",
+      "datestamp": "2017-11-14 02:28:48",
+      "eprint_status": "archive",
+      "eprintid": 4738,
+      "lastmod": "2017-11-14 02:28:48",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17654",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4738,
+            "language": "en",
+            "mime_type": "application\/vnd.ms-powerpoint",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2017-11-06 08:17:34",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46279",
+                  "filename": "IbM PUPUK ORGANIK PLUS EMERSIA.ppt",
+                  "filesize": 10255872,
+                  "objectid": 17654,
+                  "hash": "66251b39eceb23d3050bcfc5abb876b3",
+                  "mime_type": "application\/vnd.ms-powerpoint",
+                  "datasetid": "document",
+                  "fileid": 46279
+                }
+            ],
+            "main": "IbM PUPUK ORGANIK PLUS EMERSIA.ppt",
+            "docid": 17654,
+            "format": "slideshow"
+          },
+          {
+            "eprintid": 4738,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17658",
+            "format": "text",
+            "main": "Makalah prosiding pupuk organik rejoasri.doc",
+            "docid": 17658,
+            "files": [
+                {
+                  "mtime": "2017-11-06 08:37:16",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46311",
+                  "filename": "Makalah prosiding pupuk organik rejoasri.doc",
+                  "objectid": 17658,
+                  "filesize": 926208,
+                  "mime_type": "application\/msword",
+                  "hash": "bd5192e2bf9497e3811c674eb6d77607",
+                  "fileid": 46311,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/msword"
+          }
+      ],
+      "userid": 1053,
+      "title": "PELATIHAN PEMBUATAN “PUPUK ORGANIK PLUS” PADA GAPOKTAN SUBUR ASRI DAN �P4S  SAUNG BAMBU DESA REJOASRI �KECAMATAN SEPUTIH RAMAN �KABUPATEN LAMPUNG TENGAH",
+      "refereed": "TRUE",
+      "event_dates": "10-11 September 2014",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "lestari.wibowo.62@gmail.com",
+          "name": {
+            "given": "Wibowo",
+            "lineage": null,
+            "family": "Lestari",
+            "honourific": null
+          }
+        },
+        {
+          "id": "sri.yusniani@fp.unila.ac.id",
+          "name": {
+            "family": "Sri",
+            "lineage": null,
+            "honourific": null,
+            "given": "Yusnaini"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Dwi",
+            "given": "Dian Novita"
+          }
+        }
+      ],
+      "contact_email": "sri.yusnaini@fp.unila.ac.id",
+      "event_location": "Bandar Lampung, Lampung"
+    },
+    {
+      "publisher": "Jurnal Agrotek Tropika",
+      "publication": "Jurnal Agrotek Tropika",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/49\/28",
+      "issn": "2337-4993",
+      "full_text_status": "public",
+      "status_changed": "2017-11-16 03:32:44",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Lahan yang mendominasi di Indonesia adalah lahan dengan tingkat kesuburan tanah yang rendah dari Ordo Ultisol. Untuk meningkatkan kesuburannya dapat diaplikasikan pupuk kandang dan FMA. Adapun tujuan penelitian ini adalah; (1) mengetahui pengaruh aplikasi FMA terhadap peningkatan pertumbuhan dan produksi kedelai pada Ultisol; (2) mengetahui pengaruh aplikasi pupuk kandang dengan berbagai dosis terhadap peningkatan pertumbuhan dan produksi kedelai pada Ultisol; (3) mengetahui apakah respons tanaman kedelai pada Ultisol terhadap aplikasi FMA dipengaruhi oleh dosis pupuk kandang yang diaplikasikan; (4) mengetahui dosis pupuk kandang optimum untuk aplikasi FMA pada tanaman kedelai. Percobaan dilakukan di Laboratorium Lapang Terpadu dan Laboratorium Produksi Perkebunan Jurusan Agroteknologi FP Unila dari bulan Agustus hingga November 2015. Rancangan perlakuan disusun secara faktorial (2x5 ) menggunakan rancangan kelompok teracak sempurna  (RKTS) dengan tiga ulangan.  Faktor pertama adalah aplikasi FMA (M) yang terdiri atas dua taraf, yaitutanpa aplikasi FMA (M0) dan dengan aplikasi FMA (M1). Faktor kedua adalah pupuk kandang sapi  (K), terdiri atas lima taraf yaitu  (K0) 0 ton\/ha, (K1) 5 ton\/ha, (K2) 10 ton\/ha, (K3) 15 ton\/ha, dan (K4) 20 ton\/ha pupuk kandang. Pemisahan nilai tengah diuji dengan uji Polinomial Ortogonal dengan a 0,05 dan 0,01. Hasil penelitian menunjukkan bahwa; (1) aplikasi FMA mampu meningkatkan produksi tanaman kedelai pada tanah Ultisol melalui variabel pengamatan jumlah polong per tanaman, bobot polong per tanaman, jumlah biji per tanaman, dan bobot 20 butir biji; (2) aplikasi pupuk kandang hingga dosis 20 ton\/ha masih meningkatkan pertumbuhan dan produksi kedelai melalui variabel tinggi tanaman, jumlah cabang, bobot akar kering, bobot tajuk kering, serapan P tanaman, jumlah polong per tanaman, bobot polong per tanaman, jumlah biji per tanaman, dan bobot 20 butir biji; (3) respons tanaman kedelai pada Ultisol akibat aplikasi FMA tidak dipengaruhi oleh dosis pupuk kandang yang diaplikasikan; (4) belum terdapat dosis pupuk kandang optimum untuk aplikasi FMA pada tanaman kedelai. \r\n\r\nKata kunci:  FMA, Kedelai, Pupuk Kandang.",
+      "volume": 5,
+      "date": "2017-05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4928",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Malik",
+            "honourific": null,
+            "given": "Maulana"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayat",
+            "given": "Kuswanta Futas"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yusnaini",
+            "given": "Sri"
+          },
+          "id": "sri.yusnaini@fp.unila.ac.id"
+        },
+        {
+          "id": "maria.vivarini@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Rini",
+            "honourific": null,
+            "given": "Maria Viva"
+          }
+        }
+      ],
+      "title": "PENGARUH APLIKASI FUNGI MIKORIZA ARBUSKULA DAN PUPUK\r\nKANDANG DENGAN BERBAGAI DOSIS TERHADAP PERTUMBUHAN DAN\r\nPRODUKSI KEDELAI (Glycine max [L.] Merrill ) PADA ULTISOL",
+      "refereed": "FALSE",
+      "datestamp": "2017-11-16 03:32:44",
+      "eprintid": 4928,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "63-67",
+      "userid": 741,
+      "number": 2,
+      "lastmod": "2017-11-16 03:32:44",
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JA",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17857",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4928,
+            "mime_type": "application\/zip",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Maria Viva Rini JAT Mei 2017.zip",
+            "files": [
+                {
+                  "mtime": "2017-11-09 06:28:41",
+                  "hash_type": "MD5",
+                  "filename": "Maria Viva Rini JAT Mei 2017.zip",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/47680",
+                  "filesize": 612720,
+                  "objectid": 17857,
+                  "mime_type": "application\/zip",
+                  "hash": "71afb58eb53cc984b31a920105145e70",
+                  "fileid": 47680,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 17857,
+            "format": "archive"
+          }
+      ]
+    },
+    {
+      "publisher": "Jurnal Agrotek Tropika",
+      "publication": "Jurnal Agrotek Tropika",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/49\/84",
+      "full_text_status": "public",
+      "issn": "2337-4993",
+      "status_changed": "2017-11-10 03:38:39",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Penelitian bertujuanuntukmengetahui (1) hasil tanaman yang lebih tinggi antara tanaman yang ditumpangsarikan dengantanaman monokultur; dan (2) menentukan dosis pupuk Urea yang optimum untuk tumpangsari jagung dengan kacang tanah.Penelitian dilaksanakan pada bulan Agustus hingga Desember 2014 di Lapang Terpadu dan Laboratorium Agronomi FakultasPertanian Universitas Lampung.Rancangan yang digunakan adalah rancangan kelompok teracak sempurna (RKTS) dengansembilan perlakuan yaitu monokultur jagung, monokulturkacang tanah, tumpangsari jagung dengan kacang tanah pada dosisurea untuk tanaman jagung 0 (P3), 50 (P4), 100 (P5), 150 (P6), 200 (P7), 250 (P8) dan 300 (P9) kg\/ha.  Perbedaan antar perlakuandiuji dengan uji ortogonal pada tarafα 0,05.  Hasil penelitian menunjukkan bahwa (1) hasil tanaman monokultur lebih tinggidaripada hasil tanaman tumpangsari.  Rata-rata hasil tanaman jagung yang ditanam secara tumpangsari yaitu 1,69 t\/ha dantanaman kacang tanah yang ditumpangsarikan rata-ratanya yaitu 0,42 t\/ha, tanaman jagung yang ditanam secara monokulturhasilnya 2,61 t\/ha dan hasil kacang tanah yang ditanam monokultur yaitu 1,07 t\/ha.  Hasil tumpangsari tertinggi yaitu padapemupukan urea 300 kg\/ha dengan hasil jagung 2,57 t\/ha dan kacang tanah 0,46 t\/ha, (2) belum diperoleh dosis pupuk ureayang optimum untuk jagung yang ditumpangsarikan dengan kacang tanah.",
+      "volume": 5,
+      "date": "2017-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4984",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Af Idatim",
+            "family": "Masruroh",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Herawati",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hamim"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "N",
+            "lineage": null,
+            "family": "Nurmauli",
+            "honourific": null
+          },
+          "id": "nnurmauli@gmail.com"
+        }
+      ],
+      "title": "PENGARUH PUPUK UREA TERHADAP HASIL TANAMAN JAGUNG YANGDITUMPANGSARIKAN DENGAN KACANG TANAH",
+      "refereed": "TRUE",
+      "datestamp": "2017-11-10 03:38:39",
+      "eprint_status": "archive",
+      "eprintid": 4984,
+      "metadata_visibility": "show",
+      "pagerange": "7-12",
+      "userid": 739,
+      "number": 1,
+      "lastmod": "2017-11-10 03:38:39",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "fileid": 48046,
+                  "datasetid": "document",
+                  "hash": "e891b34020c13d8f8a18ad64c78b4c35",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-09 10:37:52",
+                  "filesize": 509594,
+                  "objectid": 17908,
+                  "filename": "JAT Vol.5(1) 2017 NN revisi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48046"
+                }
+            ],
+            "main": "JAT Vol.5(1) 2017 NN revisi.pdf",
+            "docid": 17908,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17908",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4984
+          }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "main": "21-35-1-SM.pdf",
+            "docid": 24780,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "15f6e6e1e6a5db92528e2f24a77d1848",
+                  "datasetid": "document",
+                  "fileid": 106221,
+                  "filename": "21-35-1-SM.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/106221",
+                  "objectid": 24780,
+                  "filesize": 219670,
+                  "mtime": "2019-05-06 07:31:32",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 11789,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24780",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2019-05-08 07:24:57",
+      "number": 3,
+      "userid": 927,
+      "pagerange": "5-9",
+      "metadata_visibility": "show",
+      "eprintid": 11789,
+      "eprint_status": "archive",
+      "datestamp": "2019-05-08 07:24:57",
+      "refereed": "TRUE",
+      "title": "KARAKTERISTIK KUALITATIF SAPI KRUI DI KABUPATEN PESISIR BARAT LAMPUNG",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "ST.Fitria",
+            "lineage": null,
+            "family": "Ningsih",
+            "honourific": null
+          },
+          "id": "stfitria24@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Sulastri",
+            "honourific": null,
+            "family": "Sulastri",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "M Dima Iqbal",
+            "honourific": null,
+            "family": "Hamdani",
+            "lineage": null
+          },
+          "id": ".dima.iqbal@fp.unila.ac,id"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11789",
+      "date": 2017,
+      "volume": 1,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "BSTRACT\r\n \r\nThis research was conducted in April, 2017 at South Pesisir subdistrict, West Pesisir  Regency, Lampung\r\nProvince to study qualitative characteristic of Krui cattle. Sixty tails male cattle and 60 tails female cattle\r\nabout 2 years old were observed in this research. Sample observed were decided by purpossive sampling\r\nmethod. Variables observed were head’s color, body’s color, face’s shape, horn’s shape, presence or absence\r\nof wattle and hump. Data resulted in this research anlaysed by descriptive. Result of this research in\r\nobservation of colour of head indicated that most of male cattle (18,33%) dan female cattle (21,67%) was\r\nbrown.  Result of observation in colour of body, most of male cattle (23,33%) was brown and female cattle\r\n(26,67%) was brown and white. Shape of head of male cattle  (75%) and female cattle (71,67%) were triangle\r\nand slim. No hump in the most of male cattle (66,67%) and female cattle (75%). Most of male cattle (81,67%)\r\nand female cattle (85%) have wattle. Most of male cattle (70%) and female cattle (76,67%) have horn silak\r\ncongklang type. Colour of tail in male amd female cattle sere fit with the colour of body and the colour of tip\r\nof tail wer black. It could be concluded that Krui cattle were same eith Bali cattle ans Pesisir cattle. The color\r\nof body and head Krui cattle was brown, The shape of head was triangle.Have wattle. Little hump. The shape\r\nhorn was silak congklong. Colour of tail in male amd female cattle sere fit with the colour of body and the\r\ncolour of tip of tail wer black.\r\n\r\nKey words: Krui cattle, head’s color, body’s color, face’s shape, horn’s shape, wattle and the shoulder",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2019-05-08 07:24:57",
+      "issn": "2598-3060",
+      "full_text_status": "public",
+      "divisions": [
+        "FP2"
+      ],
+      "publisher": "JURUSAN PETERNAKAN, FAKULTAS PERTANIAN,  UNIVERSITAS LAMPUNG",
+      "publication": "Jurnal Riset dan Inovasi Peternakan",
+      "dir": "disk0\/00\/01\/17\/89"
+    },
+    {
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4986",
+      "date": "2017-08",
+      "abstract": "Penelitian dilaksanakan dari Desember 2016 sampai Juni 2017, dilakukan di\r\nLapangan Terpadu Universitas Lampung  Bandar Lampung dan Laboratorium\r\nBenih dan Pemuliaan Tanaman Fakultas Pertanian Universitas Lampung. Penelitian\r\nini menggunakan Rancangan Kelompok Teracak Sempurna (RKTS) dengan 5 taraf\r\ndosis pupuk NPK majemuk yaitu 0 kg\/ha, 50 kg\/ha, 100 kg\/ha, 150 kg\/ha, dan 200\r\nkg\/ha, pupuk diberikan saat tanaman kedelai masuk dalam stadia pembentukan\r\npolong (R3).  Masing-masing perlakuan diulang sebanyak 3 kali.  Homogenitas\r\nragam antarperlakuan diuji dengan uji Bartllet dan kemenambahan data diuji\r\ndengan uji Tukey.  Apabila asumsi terpenuhi, maka data pengamatan dianalisis\r\nragam dan dilanjutkan dengan uji Orthogonal Polynomial pada taraf nyata 5%.\r\nHasil penelitian menyimpulkan bahwa pupuk NPK majemuk yang diberikan saat\r\nR3 tidak berpengaruh pada jumlah cabang produktif, jumlah polong total\/tanaman,\r\ndan bobot 100 butir biji, pupuk NPK majemuk berpengaruh pada jumlah polong\r\nisi\/tanaman dan laju pengisian biji secara linier.  Setiap penambahan 1 kg\/ha NPK\r\nmajemuk akan meningkatkan jumlah polong isi\/tanaman sebesar 0,216 polong isi\r\ndan meningkatkan laju pengisian biji sebesar 0,003 g\/hari, dan pupuk NPK\r\nmajemuk berpengaruh pada indeks panen dan hasil biji\/tanaman secara kuadratik.\r\nDosis baik NPK majemuk sebesar 125 kg\/ha dengan indeks panen 0,4345 dan dosis\r\nterbaik pada hasil biji\/tanaman sebesar 152,6 kg\/ha dengan hasil biji 25,5\r\ng\/tanaman setara dengan hasil 2,83 t\/ha.  Dosis terbaik pupuk NPK majemuk yang\r\ndiberikan pada stadia R3 adalah 125-152 kg\/ha",
+      "publisher": "UNPAD PRESS",
+      "publication": "Prosiding Fakultas Pertanian Universitas Pajajaran: Seminar Nasional Pemanfaatan Tanaman Lokal untuk Pangan dan Industri",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/49\/86",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2017-11-10 03:38:53",
+      "full_text_status": "public",
+      "issn": "ISBN 978-602-439-223-9",
+      "pagerange": "1-17",
+      "metadata_visibility": "show",
+      "eprintid": 4986,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-10 03:38:53",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "e638882ca8aa67c4580ecdc8be867e16",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 48059,
+                  "mtime": "2017-11-09 10:44:49",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48059",
+                  "filename": "Prosiding_UNPAD_2017_NNYN.pdf",
+                  "objectid": 17910,
+                  "filesize": 759792
+                }
+            ],
+            "main": "Prosiding_UNPAD_2017_NNYN.pdf",
+            "docid": 17910,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17910",
+            "eprintid": 4986,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2017-11-10 03:38:53",
+      "userid": 739,
+      "refereed": "TRUE",
+      "title": "Aplikasi Pupuk Majemuk NPK saat Pembentukan\r\nPolong untuk Meningkatkan Hasil Kedelai",
+      "creators": [
+        {
+          "name": {
+            "given": "N",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurmauli"
+          },
+          "id": "nnurmauli@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nurmiaty",
+            "honourific": null,
+            "given": "Y"
+          },
+          "id": null
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "rev_number": 6,
+      "ispublished": "unpub",
+      "status_changed": "2017-11-14 03:03:09",
+      "issn": 0,
+      "full_text_status": "public",
+      "divisions": [
+        "FP2"
+      ],
+      "publisher": "UHO Press",
+      "publication": "Prosiding Seminar Nasional Peran Strategis Fitopatologi dan Ilmu Pendukung Lainnya dalam Pembangunan Pertanian yang Holistikuntuk Mewujudkan Kedaulatan Pangan Nasional",
+      "dir": "disk0\/00\/00\/51\/19",
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5119",
+      "abstract": "Penelitian dilaksanakan Maret 2017 di Laboratorium Benih dan Pemuliaan Tanaman Fakultas Pertanian Universitas Lampung. Penelitian ini menggunakan Rancangan Kelompok Teracak Sempurna (RKTS) dengan 5 taraf dosis pupuk NPK majemuk sebagai asal lot benih yaitu  benih yang berasal dari lot tanpa pemupukan NPK majemuk 0 kg\/ha, 50 kg\/ha, 100 kg\/ha, 150 kg\/ha, dan 200 kg\/ha, pupuk NPK majemuk diberikan saat tanaman kedelai masuk dalam stadia pembentukan polong (R3).  Benih yang diuji viabilitasnya berasal dari lot percobaan sebelumnya, yang dipanen tanggal 28 Januari 2017.  Masing-masing perlakuan diulang sebanyak 3 kali, homogenitas ragam antarperlakuan diuji dengan uji Bartllet dan kemenambahan data diuji dengan uji Tukey.  Bila asumsi terpenuhi, maka data pengamatan dianalisis ragam dan dilanjutkan dengan uji Orthogonal Polynomial pada taraf nyata 5%.  Hasil penelitian menyimpulkan bahwa benih yang berasal dari lot pemupukan NPK majemuk masih menunjukkan respon linier pada bobot kering kecambah, keserempakan perkecambahan, panjang kecambah, dan panjang akar kecambah.  Benih yang berasal dari lot pemupukan NPK majemuk dengan dosis antara 156,2-185,5 kg\/ha mencapai optimum untuk persentase perkecambahan sebesar 97,57% dan kecepatan perkecambahan sebesar 42,32%\/hari. \r\nKata kunci: benih, kedelai, lot, NPK, viabilitas",
+      "subjects": [
+        "S1"
+      ],
+      "refereed": "TRUE",
+      "title": "UJI VIABILITAS BENIH KEDELAI ASAL LOT PEMUPUKAN NPK MAJEMUK",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "N",
+            "honourific": null,
+            "family": "Nurmauli",
+            "lineage": null
+          },
+          "id": "nnurmauli@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Nurmiaty",
+            "honourific": null,
+            "given": "Y"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "36bf2d62fdd5c6aadfe3a7bbd292e8c5",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "datasetid": "document",
+                  "fileid": 48847,
+                  "filename": "Prosiding_Kendari_Niar+Yayuk.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48847",
+                  "objectid": 18039,
+                  "filesize": 65458,
+                  "mtime": "2017-11-10 08:23:09",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Prosiding_Kendari_Niar+Yayuk.docx",
+            "docid": 18039,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "placement": 1,
+            "eprintid": 5119,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18039",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2017-11-14 03:03:09",
+      "userid": 739,
+      "metadata_visibility": "show",
+      "eprintid": 5119,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-14 03:03:09"
+    },
+    {
+      "abstract": "Pemupukan susulan pada fase generatif  dan peningkatan dosis pupuk susulan NPK majemuk dalam produksi benih kedelai dapat mengasilkan viabilitas yang berbeda setelah benih disimpan 4 bulan.  Penerapan pupuk susulan diberikan pada fase awal pembungaan (R1) dan awal pembentukan polong (R3) yang  dikombinasikan dengan 5 taraf dosis pupuk NPK majemuk; viabilitas benih diukur dalam persen perkecambahan, kecepatan berkecambah, keserempakan berkecambah, bobot kering kecambah normal, dan daya hantar listrik benih.\r\nPenelitian dilaksanakan di Kecamatan Rajabasa dan Laboratorium Pemuliaan dan Benih Tanaman Unila dari Januari sampai dengan Oktober 2015.  Penelitian ini menggunakan rancangan acak kelompok lengkap dengan perlakuan yang disusun secara faktorial (2 waktu aplikasi pupuk x 5 dosis pupuk NPK majemuk).  Waktu aplikasi yaitu pada saat R1 dan R3 sedangkan dosis pupuk susulan NPK majemuk yaitu 0, 25, 50, 75, 100 kg\/ha. \t\r\nHasil penelitian menunjukkan bahwa setelah benih kedelai disimpan 4 bulan diperoleh kesimpulan sebagai berikut: 1) Waktu aplikasi pemupukan susulan NPK majemuk berinteraksi dengan dosis pupuk yang diberikan dalam menghasilkan viabilitas benih (persen perkecambahan, kecepatan perkecambahan,  keserempakan berkecambah, bobot kering kecambah normal, dan daya hantar listrik); waktu aplikasi R3 lebih baik daripada R1 pada semua level dosis pupuk. 2) Pengaruh waktu pemberian pupuk susulan saat R3, viabilitas benih lebih tinggi daripada R1 dalam menghasilkan bobot kering kecambah normal. 3) Peningkatan dosis NPK susulan sampai 100 kg\/ha masih meningkatkan bobot kering kecambah normal. \r\nKata kunci: kedelai, benih, viabilitas, pupuk NPK, penyimpanan",
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5114",
+      "subjects": [
+        "S1"
+      ],
+      "status_changed": "2017-11-14 03:02:52",
+      "full_text_status": "public",
+      "issn": "ISBN 978-602-439-223-9",
+      "rev_number": 6,
+      "ispublished": "unpub",
+      "publisher": "UNPAD PRESS",
+      "publication": "Prosiding Fakultas Pertanian Universitas Pajajaran: Seminar Nasional Pemanfaatan Tanaman Lokal untuk Pangan dan Industri",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/51\/14",
+      "userid": 739,
+      "documents": [
+          {
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 18036,
+            "main": "Makalah Lengkap An Yayuk dan  Niar (1).docx",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48828",
+                  "filename": "Makalah Lengkap An Yayuk dan  Niar (1).docx",
+                  "filesize": 43531,
+                  "objectid": 18036,
+                  "mtime": "2017-11-10 08:18:26",
+                  "hash_type": "MD5",
+                  "hash": "6453b4a8dfc89362591859124da0803b",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "datasetid": "document",
+                  "fileid": 48828
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18036",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 5114
+          }
+      ],
+      "lastmod": "2017-11-14 03:02:52",
+      "eprintid": 5114,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-14 03:02:52",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Y",
+            "family": "Nurmiaty",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Nurmauli",
+            "lineage": null,
+            "honourific": null,
+            "given": "N"
+          },
+          "id": "nnurmauli@gmail.com"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "VIABILITAS BENIH KEDELAI ASAL LOT PERLAKUAN WAKTU DAN DOSIS PUPUK SUSULAN NPK MAJEMUK SETELAH PERIODE SIMPAN EMPAT BULAN"
+    },
+    {
+      "documents": [
+          {
+            "format": "text",
+            "docid": 18909,
+            "main": "Editor03 Yayuk Nurmiaty   ProsidingDBDP2017.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "967790b59c01e118fbdc7cb02d956caa",
+                  "fileid": 55485,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/55485",
+                  "filename": "Editor03 Yayuk Nurmiaty   ProsidingDBDP2017.pdf",
+                  "filesize": 772989,
+                  "objectid": 18909,
+                  "mtime": "2017-11-18 11:05:35",
+                  "hash_type": "MD5"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 5993,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18909"
+          }
+      ],
+      "lastmod": "2018-04-25 08:47:53",
+      "userid": 739,
+      "metadata_visibility": "show",
+      "eprintid": 5993,
+      "eprint_status": "archive",
+      "datestamp": "2018-04-25 08:47:53",
+      "refereed": "TRUE",
+      "title": "Viabilitas Benih Kedelai Asal Lot Perlakuan Waktu\r\ndan Dosis Pupuk Susulan NPK Majemuk Setelah \r\nPeriode Simpan Empat Bulan",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nurmiaty",
+            "honourific": null,
+            "given": "Y"
+          }
+        },
+        {
+          "name": {
+            "given": "N",
+            "honourific": null,
+            "family": "Nurmauli",
+            "lineage": null
+          }
+        }
+      ],
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5993",
+      "abstract": "emupukan susulan pada fase generatif  dan peningkatan dosis pupuk susulan NPK\r\nmajemuk dalam produksi benih kedelai dapat mengasilkan viabilitas yang berbeda\r\nsetelah benih disimpan 4 bulan.  Penerapan pupuk susulan diberikan pada fase awal\r\npembungaan (R1) dan awal pembentukan polong (R3) yang  dikombinasikan dengan 5\r\ntaraf dosis pupuk NPK majemuk; viabilitas benih diukur dalam persen perkecambahan,\r\nkecepatan berkecambah, keserempakan berkecambah, bobot kering kecambah normal,\r\ndan daya hantar listrik benih.  Penelitian dilaksanakan di Kecamatan Rajabasa dan\r\nLaboratorium Pemuliaan dan Benih Tanaman Unila dari Januari sampai dengan\r\nOktober 2015.  Penelitian ini menggunakan rancangan acak kelompok dengan\r\nperlakuan yang disusun secara faktorial (2 waktu aplikasi pupuk susulan x 5 dosis\r\npupuk NPK majemuk).  Waktu aplikasi yaitu pada saat R1 dan R3 sedangkan dosis\r\npupuk susulan NPK majemuk yaitu 0, 25, 50, 75, 100 kg\/ha. Kombinasi perlakuan\r\ndiulang 3 kali. Hasil penelitian: 1) Viabilitas benih kedelai varietas Dering-1 yang\r\nberasal dari perlakuan pupuk susulan pada awal pembentukan polong (R3) lebih baik\r\ndaripada awal pembungaan (R1) setelah melalui periode simpan 4 bulan; 2) Viabilitas\r\nbenih kedelai varietas Dering-1 yang berasal dari pemupukan susulan NPK majemuk\r\nlebih baik daripada tidak dipupuk setelah melalui periode simpan 4 bulan; 3).\r\nViabilitas benih kedelai varietas Dering-1 yang berasal dari R3 pada dosis 64,96 kg\/ha\r\nsudah maksimum dalam menghasilkan kecepatan perkecambahan (30,74 %\/hari) dan\r\nkeserempakan perkecambahan sebesar 86,76 % pada hari ke-4 dengan dosis 79,58\r\nkg\/ha; bobot kering kecambah masih meningkat sedangkan daya hantar listrik makin\r\nmenurun seiring dengan peningkatan dosis pupuk susulanalami.",
+      "subjects": [
+        "S1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2018-04-25 08:47:53",
+      "issn": "ISBN 978-602-439-223-9",
+      "full_text_status": "public",
+      "publisher": "UNPAD PRESS",
+      "divisions": [
+        "FP2"
+      ],
+      "publication": "Prosiding Fakultas Pertanian Universitas Pajajaran: Seminar Nasional Pemanfaatan Tanaman Lokal untuk Pangan dan Industri",
+      "dir": "disk0\/00\/00\/59\/93"
+    },
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2337-4993",
+      "status_changed": "2017-11-17 04:20:50",
+      "publication": "Jurnal Agrotek Tropika",
+      "publisher": "Jurnal Agrotek Tropika",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/58\/27",
+      "date": "2017-01-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5827",
+      "abstract": "Salah satu komoditas pangan strategis di Indonesia dan komoditas terpenting setelah padi dan jagung adalah kedelai.  Kebutuhan terhadap kedelai semakin meningkat dari tahun ketahun  tetapi  produksi kedelai semakin menurun, sehingga dibutuhkan penambahan pupuk untuk mencukupi kebutuhan nutrisi tanaman.  Penelitian bertujuan untuk mengetahui pengaruh dosis pupuk majemuk NPK dan pupuk pelengkap Plant Catalyst terhadap pertumbuhan dan produksi kedelai.  Penelitian dilaksanakan di Desa Suka Banjar, Kecamatan Gedong tataan, Kabupaten Pesawaran, Provinsi Lampung pada Februari sampai April 2016. Penelitian ini menggunakan rancangan faktorial (5 x 2) dalam Rancangan Acak Kelompok (RAK) dengan 3 ulangan.  Faktor pertama adalah dosis pupuk majemuk NPK (M), yang terdiri atas lima taraf yaitu (m0)= 0 kg\/ha, (m1)= 100 kg\/ha, (m2)= 200 kg\/ ha, (m3)= 300 kg\/ha (m4)= 400 kg\/ha.  Faktor kedua adalah pupuk pelengkap Plant Catalyst (P) terdiri atas dua taraf yaitu tanpa Plant Catalyst (p0) dan dengan Plant Catalyst dengan konsentrasi 1,5 g\/1 liter air (p1).  Data diuji dengan analisis ragam dan nilai tengah antarperlakuan menggunakan polinomial ortogonal pada taraf á 1% dan 5%.  Dosis optimum pupuk majemuk NPK pada variabel bobot biji kering per petak (g) yaitu pada tanpa aplikasi pupuk Plant Catalyst sebesar 307,58 kg\/ha menghasilkan bobot biji kering per petak sebesar 1.673,65 g dan dosis terbaik pupuk majemuk NPK dengan aplikasi pupuk Plant Catalyst sebesar 341,75 kg\/ha yang menghasilkan bobot biji kering per petak sebesar 1.897,76 g.  Aplikasi pupuk pelengkap Plant Catalyst lebih baik dibandingkan tanpa pupuk pelengkap Plant Catalyst, hal itu ditunjukkan pada seluruh variabel pengamatan. Pada variabel pertumbuhan tidak terdapat pengaruh interaksi antara dosis pupuk majemuk NPK dan pupuk pelengkap Plant Catalyst, sedangkan pada variabel hasil terdapat pengaruh inetraksi antara dosis pupuk majemuk NPK dan pupuk pelengkap Plant Catalyst.",
+      "volume": 5,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "title": "PENGARUH DOSIS PUPUK MAJEMUK NPK DAN PUPUK PELENGKAP PLANT CATALYST TERHADAP PERTUMBUHAN DAN PRODUKSI KEDELAI (Glycine max (L.) Merill)",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "nurulannisa12@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Ridwan",
+            "honourific": null,
+            "given": "Nurul Annisa"
+          }
+        },
+        {
+          "name": {
+            "family": "Hidayat",
+            "lineage": null,
+            "honourific": null,
+            "given": "Kuswanta F."
+          },
+          "id": "kfhidayat@gmail.com"
+        },
+        {
+          "name": {
+            "given": "-",
+            "lineage": null,
+            "family": "Kushendarto",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sunyoto",
+            "honourific": null,
+            "given": "-"
+          },
+          "id": null
+        }
+      ],
+      "lastmod": "2017-11-17 04:20:50",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "main": "1 Ridwan dkk.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 54437,
+                  "mime_type": "application\/pdf",
+                  "hash": "7c8f3a7f699fb76dcf79a1f59a1d1307",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-17 02:50:15",
+                  "filesize": 63007,
+                  "objectid": 18756,
+                  "filename": "1 Ridwan dkk.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54437"
+                }
+            ],
+            "docid": 18756,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18756",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 5827
+          }
+      ],
+      "userid": 910,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "1-6",
+      "datestamp": "2017-11-17 04:20:50",
+      "eprintid": 5827,
+      "eprint_status": "archive"
+    },
+    {
+      "event_location": "Hotel Horison Bandar Lampung",
+      "pres_type": "speech",
+      "creators": [
+        {
+          "name": {
+            "given": "Maria Viva",
+            "lineage": null,
+            "family": "Rini",
+            "honourific": null
+          },
+          "id": "maria.vivarini@fp.unila.ac.id"
+        }
+      ],
+      "type": "conference_item",
+      "title": "The Relation of Root Type and Development with Abuscular Mycorrhiza Fungi Infection in Oil Palm Seedling",
+      "refereed": "FALSE",
+      "event_dates": "13-15 Juli 2017",
+      "userid": 741,
+      "lastmod": "2017-11-16 07:21:43",
+      "official_url": "http:\/\/icasmi.fmipa.unila.ac.id",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 17673,
+            "main": "Buku Abstrak.pdf",
+            "files": [
+                {
+                  "fileid": 46424,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "4f4983b69cbf32f525e25d3a47fac1a1",
+                  "objectid": 17673,
+                  "filesize": 960076,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46424",
+                  "filename": "Buku Abstrak.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-06 13:57:09"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 4752,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17673"
+          }
+      ],
+      "datestamp": "2017-11-16 07:21:43",
+      "eprintid": 4752,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "53-54",
+      "full_text_status": "public",
+      "status_changed": "2017-11-16 07:21:43",
+      "rev_number": 8,
+      "ispublished": "unpub",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/47\/52",
+      "event_type": "conference",
+      "abstract": "Abstract. This study aimed to evaluate the relationship between root type (primary and secondary roots) and their development with the success of arbuscular mycorrhiza fungi (AMF) infection in oil palm seedling. Two experiments were carried out to achieve this objective.The first experiment was inoculating germination seeds of oil palm with two different AMF (Glomus sp. and Enthrophospora sp.) by placing 300 spores of each AMF 5 cm below radicle tip.  The seeds were then planted in 1 x 20 cm polybag containing sterilized sand as media. Twelve  polybags were prepared for each AMF type and other 12 polybags for control (without AMF inoculation). Three polybags for each treatment were harvested at 2,3,4, and 5 weeks after inoculation (WAI) to observe root system  development and AMF infection in the primary and secondary root. The second experiment was the same with the first one, however, AMF inoculation were done to one month old of oil palm seedling.  The result showed that no AMF (both Glomus sp. and Enthrophospora sp.)  infection  were observed in the primary and secondary roots of oil palm seedling at 2, 3, 4, 5 WAI in the 1st experiment.  In the 2nd experiment, no AMF infection also observed in the primary roots of oil palm seedling during this experiment, but  AMF infection were already observed at 3 WAI for both type of AMF, i.e. 9.2% for Glomus sp. and 13.4%  for  Enthrophospora sp.       \r\n\r\nKeywords: Root Type, Root infection, Arbuscular Mycorrhizal Fungi",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4752",
+      "date": "2017-07",
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "INTERNATIONAL CONFERENCE ON APPLIED SCIENCES  MATHEMATICS AND INFORMATICS (ICASMI)"
+    },
+    {
+      "abstract": "Gigaspora sp. is one of the Arbuscular Mycorrhiza fungi that are now widely used to improve\r\nplant growth and health. However, spore germination of this species will be inhibited in high phosphorous (P) environment.  The aim of this study was to obtain Gigaspora sp. Mutants which\r\nare tolerant to high P condition using Gamma rays and UV irradiation.\r\n\r\nThe spores of Gigaspora sp. were exposed to Gamma rays with different irradiation dose\r\ni.e. 0, 30, 100, 300, 1000, and 3000 gray. Some other spores were exposed to UV light in\r\nUV chamber (l=254nm) for 0, 5, 10, 20, 40, and 60 minutes. The treated spores were then\r\nput inside cell culture cluster consisted 96 wells which already contained 2000 ppm P\r\nsolution. Each well was received single spore. The spores were then kept in incubator at\r\ntemperature of 30 oC for 4 weeks after which the number of germinated spore were\r\ncounted for every treatment.  \r\n\r\nIn this study, we obtained 17 mutants (nine from gamma rays and six from UV) which\r\nwere able to germinate in 2000 ppm of P solution. None of the wild type were germinated\r\nin the mentioned above P concentration.  This result indicated that this Gamma rays and UV\r\nirradiation can be used as useful tools to improve survival capability of Gigaspora sp. In high phosphorus environment.\r\n\r\nKeywords: Gigaspora, mutant, Gamma ray, UV, irradiation",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4747",
+      "date": "2017-08",
+      "projects": [
+        "Fungi Mycorrhiza Arbuscular mutant"
+      ],
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "International Conference on Mycorrhiza",
+      "status_changed": "2017-11-16 07:21:39",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "ispublished": "pub",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/47\/47",
+      "event_type": "conference",
+      "funders": [
+        "Mandiri"
+      ],
+      "userid": 741,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "text\/html",
+            "rev_number": 3,
+            "content": "published",
+            "main": "index.html",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 46391,
+                  "hash": "4318098d17e44149c2ac253608acb031",
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-06 10:46:22",
+                  "objectid": 17668,
+                  "filesize": 238609,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46391",
+                  "filename": "index.html"
+                }
+            ],
+            "docid": 17668,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17668",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4747
+          },
+          {
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17669",
+            "eprintid": 4747,
+            "placement": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Maria Viva Rini abstract Icom 9.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "f8aa586dd9869aa0a1dff29f44311faf",
+                  "datasetid": "document",
+                  "fileid": 46396,
+                  "filename": "Maria Viva Rini abstract Icom 9.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46396",
+                  "objectid": 17669,
+                  "filesize": 1244715,
+                  "mtime": "2017-11-06 11:03:25",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 17669
+          }
+      ],
+      "lastmod": "2017-11-16 07:21:39",
+      "official_url": "http:\/\/icom9.guarant.eu\/files\/icom9-final-programme-2017-07-31.pdf",
+      "eprintid": 4747,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-16 07:21:39",
+      "pagerange": "511-511",
+      "metadata_visibility": "show",
+      "event_location": "Prague, Czech Republic",
+      "contact_email": "maria.vivarini@fp.unila.ac.id",
+      "pres_type": "poster",
+      "creators": [
+        {
+          "id": "maria.vivarini@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rini",
+            "given": "Maria Viva"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fitriana",
+            "honourific": null,
+            "given": "Yuyun"
+          },
+          "id": "yuyun.fitriana@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suharjo",
+            "lineage": null,
+            "given": "Radix"
+          },
+          "id": "radix.suharjo@fp.unila.ac.id"
+        }
+      ],
+      "type": "conference_item",
+      "refereed": "FALSE",
+      "event_dates": "30 August - 4 July 2017",
+      "title": "High phosphorus tolerant mutants of Gigaspora sp. induced by Gamma rays and UV\r\nirradiation"
+    },
+    {
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 741,
+      "number": 3,
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JA",
+      "lastmod": "2021-12-21 10:25:02",
+      "documents": [
+          {
+            "format": "text",
+            "main": "September 2017 - JAT 5(3) Maria VR.pdf",
+            "docid": 158297,
+            "files": [
+                {
+                  "mtime": "2021-12-21 07:45:04",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/427484",
+                  "filename": "September 2017 - JAT 5(3) Maria VR.pdf",
+                  "objectid": 158297,
+                  "filesize": 361709,
+                  "mime_type": "application\/pdf",
+                  "hash": "6e3fbeff9ef9625302fdc848413db947",
+                  "fileid": 427484,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 37377,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158297"
+          }
+      ],
+      "datestamp": "2021-12-21 10:25:02",
+      "eprint_status": "archive",
+      "eprintid": 37377,
+      "metadata_visibility": "show",
+      "pagerange": "144-150",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Maria Viva",
+            "honourific": null,
+            "family": "Rini",
+            "lineage": null
+          },
+          "id": "maria.vivarini@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Haqiqie",
+            "lineage": null,
+            "given": "Hindun Nur"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hidayat",
+            "honourific": null,
+            "family": "Saputra",
+            "lineage": null
+          }
+        }
+      ],
+      "title": "RESPONS PERTUMBUHAN DAN PRODUKSI PADI VARIETAS CIHERANG\r\nPADA TIGA DOSIS FUNGI MIKORIZA ARBUSKULAR\r\nDAN DUA SISTEM TANAM",
+      "refereed": "TRUE",
+      "abstract": "Kebutuhan beras dari tahun ketahun terus meningkat, hal tersebut tidak diimbangi dengan produksi padi yang cukup. Salah\r\nsatu usaha yang dapat dilakukan untuk meningkatkan produksi yaitu dengan pengaplikasian fungi mikoriza arbuskular\r\n(FMA). Penelitian ini bertujuan untuk mengetahui respons pertumbuhan dan produksi padi Varietas Ciherang pada berbagai\r\ndosis FMA dan dua sistem tanam. Penelitian disusun secara tunggal terstruktur berkelas dengan 6 perlakuan yang terdiri dari\r\n4 ulangan yaitu d0s1 (dosis FMA 0 spora per rumpun pada lahan tergenang), d1s1 (dosis FMA 300 spora per rumpun pada lahan tergenang), d2s1 (dosis FMA 600 spora per rumpun pada lahan tergenang), d0s2 (dosis FMA 0 spora per rumpun pada lahan kering), d1s2 (dosis FMA 300 spora per rumpun pada lahan kering), dan d2s2 (dosis FMA 600 spora per rumpun pada lahan kering). Homogenitas ragam diuji dengan Uji Bartlett dan kemenambahan data diuji dengan Uji Tukey. Pemisahan nilai tengah perlakuan dengan uji Ortogonal kontras 1% dan 5%. Hasil penelitian menunjukkan bahwa (1) padi Varietas Ciherang yang\r\nditanam di lahan tergenang menghasilkan pertumbuhan dan produksi yang lebih tinggi dibandingkan dengan yang ditanam di\r\nlahan kering, (2) pemberian FMA pada lahan tergenang dengan dosis 300 dan 600 spora per rumpun menghasilkan pengaruh\r\nyang tidak berbeda dibandingkan dengan tanaman tanpa inokulasi FMA, (3) pemberian FMA dosis 600 spora per rumpun\r\nmenghasilkan pengaruh yang tidak berbeda dibandingkan dengan dosis 300 spora per rumpun, (4) pemberian FMA pada\r\nlahan kering dengan dosis 300 dan 600 spora per rumpun menghasilkan pertumbuhan padi Varietas Ciherang yang lebih baik dibandingkan tanpa inokulasi FMA yang ditunjukkan oleh variabel jumlah anakan dan persen infeksi akar (5) pemberian FMA dosis 600 spora per rumpun pada lahan kering menghasilkan produksi yang lebih baik dibandingkan dengan 300 spora per rumpun yang ditunjukkan oleh variabel bobot gabah kering panen, bobot gabah kering giling, dan persen infeksi akar oleh FMA.",
+      "volume": 5,
+      "date": "2017-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37377",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "full_text_status": "public",
+      "issn": "2337-4993",
+      "status_changed": "2021-12-21 10:25:02",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "divisions": [
+        "FP2"
+      ],
+      "publisher": "Jurusan Agroteknologi Fakultas Pertanian universitas Lampung",
+      "publication": "AGROTEK TROPIKA",
+      "dir": "disk0\/00\/03\/73\/77"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7601",
+      "date": "2017-03",
+      "abstract": "Basal stem rot (BSR) caused by Ganoderma boninense is the important disease of oil palm in Indonesia and Malaysia.\r\nBSR is characterized by a decay of roots and bole, production of aerial symptoms such as multiple spears and\r\nproduction of fruit bodies on the base of the trunk. These studies were aimed to evaluate the ability of arbuscular\r\nmycorrhiza fungi in controlling the BSR. Two different experiments were carried out. In the first experiment, rubber\r\nwood blocks of size 3 x 3 x 6 cm were used to grow the G. boninense inoculum for 1 month. The blocks were then\r\ninoculated to one primary root of 5 months old mycorrhizal and control oil palm seedlings. In the second experiment,\r\nthe soil collected from rhizosphere of Infected palm by G. boninense was used as media to grow the three months old\r\nmycorrhizal and control oil palm seedlings. The first experiment showed that both mycorrhizal and control seedlings\r\nwere infected by G. boninense. However, in the control seedling, the length of primary root that rot by the pathogen\r\nwas longer than that of mycorrhizal. In the second experiment, no infection of G. boninense were observed in\r\nmycorrhizal and control seedlings.",
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "International Symposium on Innovative Crop Protection for Sustainable Agriculture 2018",
+      "date_type": "published",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2018-06-25 02:33:43",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/76\/01",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 7601,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20650",
+            "security": "public",
+            "main": "MVR_Proceedings_CropProtection2018.pdf ARTIKEL.pdf",
+            "files": [
+                {
+                  "mtime": "2018-06-23 10:03:27",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/68386",
+                  "filename": "MVR_Proceedings_CropProtection2018.pdf ARTIKEL.pdf",
+                  "objectid": 20650,
+                  "filesize": 247896,
+                  "hash": "3fe1846e23594af5c603bfd99fe0cf9d",
+                  "mime_type": "application\/pdf",
+                  "fileid": 68386,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 20650,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2018-06-25 02:33:43",
+      "userid": 380,
+      "pagerange": "75-79",
+      "metadata_visibility": "show",
+      "eprintid": 7601,
+      "eprint_status": "archive",
+      "datestamp": "2018-06-25 02:33:43",
+      "contact_email": "maria.vivarini@fp.unila.ac.id",
+      "event_location": "Gifu University",
+      "refereed": "TRUE",
+      "event_dates": "7-8 March 2018",
+      "title": "Mycorrhizal oil palms seedlings response to different sources of Ganoderma boninense as\r\nthe causal agent of basal stem rot disease",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rini",
+            "honourific": null,
+            "given": "Maria Viva"
+          },
+          "id": "maria.vivarini@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hasan",
+            "given": "Syaifudin Nur"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayat",
+            "given": "Kuswanta Futas"
+          },
+          "id": "kfhidayat@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Aeny",
+            "given": "Titik Nur"
+          },
+          "id": "titik.nuraeny@fp.unila.ac.id"
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item"
+    },
+    {
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Paper MVR di JTT 2017.pdf",
+            "files": [
+                {
+                  "filename": "Paper MVR di JTT 2017.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/86827",
+                  "filesize": 162610,
+                  "objectid": 22061,
+                  "mtime": "2018-10-25 13:40:06",
+                  "hash_type": "MD5",
+                  "hash": "580406749d215fb940fa42390d2577ca",
+                  "mime_type": "application\/pdf",
+                  "fileid": 86827,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 22061,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22061",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6951
+          }
+      ],
+      "official_url": "https:\/\/journal.unila.ac.id\/index.php\/jts",
+      "lastmod": "2018-10-26 10:02:05",
+      "number": 3,
+      "userid": 741,
+      "pagerange": "183-189",
+      "metadata_visibility": "show",
+      "eprintid": 6951,
+      "eprint_status": "archive",
+      "datestamp": "2018-10-26 10:02:05",
+      "refereed": "FALSE",
+      "title": "POPULATION AND DIVERSITY OF ARBUSCULAR MYCORRHIZA FUNGI IN THE RHIZOSPHERE OF CASSAVA KASETSART CLONES IN TWO DIFFERENT LOCATION",
+      "type": "article",
+      "creators": [
+        {
+          "id": "maria.vivarini@fp.unila.ac.id",
+          "name": {
+            "given": "Maria Viva",
+            "honourific": null,
+            "family": "Rini",
+            "lineage": null
+          }
+        },
+        {
+          "id": "kfhidayat@gmail.com",
+          "name": {
+            "given": "Kuswanta Futas",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayat"
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6951",
+      "date": 2017,
+      "volume": 22,
+      "abstract": "Population and diversity of arbuscular mycorrhiza fungi (AMF) are vary in the soil and were influenced by biotic factor such as host plant and abiotic factors such as soil fertility, soil moisture, pH, temperature, etc.  This study aimed to determine the population, diversity, and the dominant type of AMF in the rhizosphere of cassava Kasetsart clones in Lampung Timur  and Tulang Bawang Barat Regencies.  Population of AMF was counted directly from rhizosphere soil of cassava clones Kasetsart and the diversity of AMF was assested by pot culture.  The results showed that the population and the diversity of AMF in rhizosphere soil of Kasetsart clones in Tulang Bawang Barat was higher than in Lampung Timur.  The dominant type of AMF found in pot culture from Lampung Timur was spore with S2 code that belong to the genus of Gigaspora and S4 code that belong to the genus of Glomus.  While in Tulang Bawang Barat, the rhizosphere soil was dominated by AMF with S9 code which belong to the genus of Entrophospora.",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "status_changed": "2018-10-26 10:02:05",
+      "full_text_status": "public",
+      "issn": "0852-257X",
+      "divisions": [
+        "FP2"
+      ],
+      "publisher": "University of Lampung",
+      "publication": "Journal of Tropical Soils",
+      "dir": "disk0\/00\/00\/69\/51"
+    },
+    {
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "Seminar Nasional dan Rapat Tahunan Dekan Bidang Pertanian BKS PTN Wilayah Barat",
+      "abstract": "Abstrak\r\n\r\nMikoriza adalah istilah yang mencerminkan hubungan simbiosis yang saling menguntungkan antara akar tanaman dan fungi tertentu.  Salah satu jenis mikoriza adalah Orchid mycorrhiza.  Tujuan penelitian ini adalah untuk menentukan bagian akar tanaman anggrek yang memiliki keberhasilan tertinggi untuk mendapatkan Orchid mycorrhiza melalui isolasi in vitro. Isolasi dilakukan pada 7 tanaman anggrek bulan.  Untuk setiap tanaman dipilih secara acak 3 sampel akar masing-masing sepanjang 15 cm dan setiap akar dibagi menjadi tiga bagian\/umur yaitu 0-5 cm dari ujung (akar muda), 5-10 cm dari ujung (akar remaja), dan 10-15 cm dari ujung (akar tua). Dari setiap umur akar dibuat potongan akar setebal 1-2 mm sebanyak 3-6 potongan setelah dilakukan sterilisasi.  Total potongan akar yang diperoleh sebanyak 90 potongan untuk setiap umur.  Potongan akar tersebut ditumbuhkan dalam cawan petri yang berisi media Potato Sucrose Agar (PSA) selama 2 minggu pada suhu 21 oC, kemudian diamati jamur yang tumbuh di setiap potongan akar.  Jamur yang tumbuh selanjutnya di-subculture dengan media PSA dan  dibuatkan slide culture untuk mengamati pigmen hifa, ada tidaknya septa dan fusi hifa, dan sudut hifa 90o,   untuk mengomfirmasi  apakah jamur yang tumbuh merupakan Orchid mycorrhiza atau tidak.  Sebanyak 56 isolat jamur telah berhasil tumbuh dari seluruh potongan akar,  8 isolat dari akar muda, 20 dan 28 isolat dari akar remaja dan akar tua.  Dari keseluruhan isolat tersebut, hanya 14 isolat yang memiliki ciri-ciri Orchid mycorrhiza (pigmen hifa berwarna coklat, hifa bersepta, ada sudut hifa 90o, dan terdapat fusi hifa). Akar tua menghasilkan isolat Orchid mycorrhiza tertinggi yaitu sebanyak 9 isolat, 1 dan 4 isolat dari akar muda dan remaja.\r\nKata kunci: Orchid mycorrhiza, umur akar, Anggrek Bulan",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4751",
+      "date": "2017-07",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/47\/51",
+      "event_type": "conference",
+      "status_changed": "2017-11-11 10:09:26",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "eprintid": 4751,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-11 10:09:26",
+      "pagerange": "1-8",
+      "metadata_visibility": "show",
+      "userid": 741,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17672",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4751,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "main": "Abstrak Semirata 2017.docx",
+            "files": [
+                {
+                  "hash": "8ec31c0179bc87a01021ba0d87a03d04",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "datasetid": "document",
+                  "fileid": 46417,
+                  "mtime": "2017-11-06 13:30:54",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46417",
+                  "filename": "Abstrak Semirata 2017.docx",
+                  "filesize": 21380,
+                  "objectid": 17672
+                }
+            ],
+            "docid": 17672,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2017-11-11 10:09:26",
+      "official_url": "http:\/\/ubb.ac.id\/content\/fppb-ubb-tuan-rumah-kegiatan-semirata-pertanian-bks-ptn-barat-2017",
+      "pres_type": "speech",
+      "creators": [
+        {
+          "name": {
+            "given": "Maria Viva",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rini"
+          },
+          "id": "maria.vivarini@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "David",
+            "honourific": null,
+            "lineage": null,
+            "family": "Irvanto"
+          },
+          "id": "irvanto_david@yahoo.com"
+        },
+        {
+          "id": "yuyun.fitriana@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Fitriana",
+            "honourific": null,
+            "given": "Yuyun"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "refereed": "FALSE",
+      "event_dates": "20 Juli 2017",
+      "title": "Umur Akar Mempengaruhi Keberhasilan Isolasi Orchid Mycorrhiza \r\npada Akar Anggrek Bulan (Phalaenopsis amabilis)",
+      "event_location": "Pangkal Pinang, Bangka"
+    },
+    {
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "date": "2017-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37383",
+      "volume": 5,
+      "abstract": "Fungi Mikoriza Arbuskular (FMA) merupakan simbiosis antara fungi tertentu dengan akar tanaman dan memiliki kemampuan\r\nbersimbiosis hampir dengan 90% tanaman. FMA tidak memiliki inang yang spesifik, namun tingkat infektivitas dan efektivitasnya\r\nberbeda. Pemilihan jenis FMA yang tepat untuk kelapa sawit diharapkan dapat meningkatkan pertumbuhan bibit kelapa sawit\r\ndi lapangan. Penelitian ini bertujuan untuk menentukan isolat FMA yang terbaik untuk pembibitan kelapa sawit. Perlakuan\r\ndisusun dalam rancangan perlakuan tunggaltidak terstruktur dengan 6 perlakuan dan 4 ulangan, sehingga terdapat 24 satuan\r\npercobaan. Perlakuan yang digunakan yaitu P0 (Kontrol), P1 (Glomus sp. isolat MV 10), P2 (Glomus sp. isolat MV 27), P3\r\n(Gigaspora sp. isolat MV 17), P4 (Entrophospora sp. isolat MV 2), P5 (Entrophospora sp. isolat MV 29). Rancangan\r\npercobaan yang digunakan adalah Rancangan Acak Kelompok. Kesamaan ragam antar perlakuan diuji dengan Uji Barlett.\r\nKemenambahan data diuji dengan Uji Tukey. Jika asumsi terpenuhi yaitu ragam perlakuan homogen dan data bersifat menambah,\r\ndata dianalisis ragam. Pengujian beda nilai tengah antar perlakuan dilakukan dengan uji Beda Nyata Terkecil (BNT) pada\r\nselang kepercayaan Q 5%. Hasil penelitian menunjukkan bahwa FMA jenis Entrophospora sp. isolat MV 29 dan Glomus sp.\r\nisolat MV 27 merupakan FMA yang terbaik untuk pertumbuhan bibit kelapa sawit dibandingkan dengan FMA lainnya dan\r\ntanpa FMA yang dilihat melalui nilai tengah jumlah daun sebesar 10,5 helai, nilai tengah bobot kering tajuk sebesar 30,7 g dan\r\n29,2 g, nilai tengah diameter batang sebesar 3,98 cm dan 4,02 cm dan nilai tengah persen infeksi akar sebesar 82,9% dan 75,8%.",
+      "publication": "AGROTEK TROPIKA",
+      "publisher": "Jurusan Agroteknologi Fakultas Pertanian universitas Lampung",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/03\/73\/83",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2021-12-21 10:25:08",
+      "issn": "2337-4993",
+      "full_text_status": "public",
+      "pagerange": "138-143",
+      "metadata_visibility": "show",
+      "eprintid": 37383,
+      "eprint_status": "archive",
+      "datestamp": "2021-12-21 10:25:08",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158298",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 37383,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2021-12-21 08:31:18",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/427492",
+                  "filename": "September 2017 - JAT 5(3) hal.  138 – 143 Maria VR.pdf",
+                  "filesize": 370602,
+                  "objectid": 158298,
+                  "mime_type": "application\/pdf",
+                  "hash": "c5eaa83dc65c613d50ed7d708e888570",
+                  "fileid": 427492,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "September 2017 - JAT 5(3) hal.  138 – 143 Maria VR.pdf",
+            "docid": 158298,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2021-12-21 10:25:08",
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JA",
+      "number": 3,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 741,
+      "refereed": "TRUE",
+      "title": "SELEKSI LIMA ISOLAT FUNGI MIKORIZA ARBUSKULAR UNTUK\r\nKELAPA SAWIT (Elaeis guineensis Jacq.) DI PEMBIBITAN",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rini",
+            "honourific": null,
+            "given": "Maria Viva"
+          },
+          "id": "maria.vivarini@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Kusuma Oka",
+            "family": "Pertiwi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hidayat",
+            "family": "Saputra",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "event_location": "Bandung",
+      "refereed": "FALSE",
+      "event_dates": "03 August 2017",
+      "title": "Pengaruh Iradiasi Sinar Gamma pada Benih terhadap Keragaman Fenotipe Cabai Merah",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Nyimas",
+            "family": "Sa'diyah",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nyimas.sa'diyah@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Fitri",
+            "family": "Aksuri",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "fitrinaksuri@gmail.com"
+        },
+        {
+          "id": "maflowersgirl@gmail.com",
+          "name": {
+            "family": "Azhari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Lady"
+          }
+        },
+        {
+          "name": {
+            "given": "Rugayah",
+            "honourific": null,
+            "family": "Rugayah",
+            "lineage": null
+          },
+          "id": "rugayahbw@yahoo.com"
+        }
+      ],
+      "type": "conference_item",
+      "lastmod": "2017-11-16 07:00:29",
+      "userid": 843,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 5236,
+      "datestamp": "2017-11-16 07:00:29",
+      "rev_number": 8,
+      "ispublished": "inpress",
+      "status_changed": "2017-11-16 07:00:29",
+      "full_text_status": "none",
+      "event_type": "conference",
+      "publication": "PROSIDING SEMINAR NASIONAl DEPARTEMEN BUDIDAYA PERTANIAN 2017",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/52\/36",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5236",
+      "date": "2017-08-03",
+      "corp_creators": [
+        "Universitas Lapung"
+      ],
+      "abstract": "Upaya peningkatan keragaman cabai merah dapat dilakukan dengan iradiasi sinar gamma. Penelitian ini bertujuan untuk melihat keragaman fenotipe cabai merah yang ditimbulkan akibat iradiasi sinar gamma.   Penelitian ini dilakukan di Laboratorium Terpadu Laboratorium Universitas Lampung pada Oktober 2016 - Maret 2017.  Iradiasi sinar gamma pada benih dilakukan pada bulan Agustus 2016. Aplikasi iradiasi sinar gamma  pada benih dilakukan pada Pusat Penelitian dan Pengembangan Teknologi Isotop dan Radiasi, Pasar Jumat, Jakarta.   Penelitian dirancang menggunakan Rancangan Acak Kelompok (RAK) tiga ulangan dengan lima perlakuan, yaitu dosis 0 Gy, 100 Gy, 200 Gy,  300 Gy, dan 400 Gy.  Hasil penelitian menunjukkan bahwa  kriteria keragaman fenotipe seluruh karakter yang diamati adalah luas.\r\n\r\n\r\nKata kunci: Keragaman; dosis sinar gamma; cabai merah",
+      "event_title": "Seminar Nasional “Pemanfaatan Tanaman Lokal untuk Pangan dan Industri” 2017",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published"
+    },
+    {
+      "title": "SEGREGATION PATTERN OF RESISTANCE TO SOYBEAN MOSAIC VIRUS ON TANGGAMUS X TAICHUNG CROSSED POPULATIONAT F2:3 GENERATION",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "nyimas.sa'diyah@fp.unila.ac.id",
+          "name": {
+            "given": "Nyimas",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sa'diyah"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fahri",
+            "honourific": null,
+            "given": "AK"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hasriadi Mat",
+            "lineage": null,
+            "family": "Akin",
+            "honourific": null
+          }
+        },
+        {
+          "id": "s_hikam@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Hikam",
+            "lineage": null,
+            "given": "Saiful"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Maimun",
+            "honourific": null,
+            "lineage": null,
+            "family": "Barmawi"
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "125-133",
+      "datestamp": "2018-06-25 02:23:46",
+      "eprintid": 7543,
+      "eprint_status": "archive",
+      "lastmod": "2018-06-25 02:23:46",
+      "documents": [
+          {
+            "security": "staffonly",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20580",
+            "pos": 1,
+            "eprintid": 7543,
+            "placement": 1,
+            "content": "published",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "format": "text",
+            "main": "ABSTRACT J.  issaas 23(2) 125-133 (desember 2017).docx",
+            "docid": 20580,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-22 07:39:18",
+                  "filesize": 18570,
+                  "objectid": 20580,
+                  "filename": "ABSTRACT J.  issaas 23(2) 125-133 (desember 2017).docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67983",
+                  "datasetid": "document",
+                  "fileid": 67983,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "224fac2e565fd9092ba3b02efb3b77d1"
+                }
+            ]
+          }
+      ],
+      "userid": 843,
+      "number": 2,
+      "publication": "J. ISSAAS",
+      "publisher": "Journal of ISSAAS",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/75\/43",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "full_text_status": "restricted",
+      "issn": "0859-3132",
+      "status_changed": "2018-06-25 02:23:46",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7543",
+      "date": "2017-12",
+      "abstract": "Segregation is one of the genetic parameters used to determine the proportion of progenies of a particular phenotype  The research aimed to determine the distribution pattern of gene frequency of resistance to a disease caused by Soybean Mosaic Virus on the F2.3generation of Tanggamus X Taichung crossed progenies. In addition to the segregation of characters resistant to the disease, the research also generated patterns of segregation for other characters namely, plant height, pod number per plant , 100 seed weight per plant and total seed weight per plant. The research was conducted at the Integrated Field Laboratory and the  Laboratory of Seeds and Plant Breeding, University of Lampung, Bandar Lampung, Indonesia from June to September 2014.     Conformity to a normal distribution and analysis of segregation pattern were tested using a Chi-squared test at α0.01. The results showed that resistance to Soybean mosaic virus did not spread following a normal distribution, indicating that the characters were semi-dominant.",
+      "volume": 23
+    },
+    {
+      "lastmod": "2023-06-06 07:01:32",
+      "official_url": "http:\/\/issaasphil.org\/wp-content\/uploads\/2020\/02\/J-Issaas-v23n2-December-2017-Full-Journal.pdf",
+      "documents": [
+          {
+            "docid": 252062,
+            "main": "26.b. 2017 J.ISSAAS saya.pdf",
+            "files": [
+                {
+                  "mtime": "2023-06-06 02:26:16",
+                  "hash_type": "MD5",
+                  "filename": "26.b. 2017 J.ISSAAS saya.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/617194",
+                  "objectid": 252062,
+                  "filesize": 1162700,
+                  "hash": "7a8ee68f3901a7420846ecaf0b7a7ac5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 617194,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 52089,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252062",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "userid": 843,
+      "number": 2,
+      "metadata_visibility": "show",
+      "pagerange": "125-133",
+      "datestamp": "2023-06-06 07:01:32",
+      "eprint_status": "archive",
+      "eprintid": 52089,
+      "title": "SEGREGATION PATTERN OF RESISTANCE TO SOYBEAN MOSAIC VIRUS ON\r\nTANGGAMUS X TAICHUNG CROSSED POPULATIONAT F2:3 GENERATION",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sa'diyah",
+            "honourific": null,
+            "given": "Nyimas"
+          },
+          "id": "nyimas.sa'diyah@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Alamanda K.",
+            "family": "Fahri",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "alamandafahri@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Hasriadi Mat",
+            "honourific": null,
+            "family": "Akin",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "s_hikam@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Hikam",
+            "lineage": null,
+            "given": "Saiful"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Maimun",
+            "lineage": null,
+            "family": "Barmawi",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52089",
+      "date": "2017-12",
+      "abstract": "Segregation is one of the genetic parameters used to determine the proportion of progenies of\r\na particular phenotype The research aimed to determine the distribution pattern of gene frequency of\r\nresistance to a disease caused by Soybean Mosaic Virus on the F2.3generation of Tanggamus X\r\nTaichung crossed progenies. In addition to the segregation of characters resistant to the disease, the\r\nresearch also generated patterns of segregation for other characters namely, plant height, pod number\r\nper plant , 100 seed weight per plant and total seed weight per plant. The research was conducted at\r\nthe Integrated Field Laboratory and the Laboratory of Seeds and Plant Breeding, University of\r\nLampung, Bandar Lampung, Indonesia from June to September 2014. Conformity to a normal\r\ndistribution and analysis of segregation pattern were tested using a Chi-squared test at α0.01. The\r\nresults showed that resistance to Soybean mosaic virus did not spread following a normal distribution,\r\nindicating that the characters were semi-dominant.",
+      "volume": 23,
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "issn": "0859-3132",
+      "status_changed": "2023-06-06 07:01:32",
+      "divisions": [
+        "FP2"
+      ],
+      "publisher": "ISSAAS",
+      "publication": "Journal of ISSAAS",
+      "dir": "disk0_bak\/00\/05\/20\/89"
+    },
+    {
+      "publication": "Jurnal Agrotek Tropika",
+      "publisher": "Jurnal Agrotek Tropika",
+      "dir": "disk0\/00\/00\/58\/30",
+      "divisions": [
+        "FP2"
+      ],
+      "rev_number": 8,
+      "ispublished": "pub",
+      "issn": "2337-4993",
+      "full_text_status": "public",
+      "status_changed": "2017-11-17 04:23:01",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5830",
+      "date": "2017-05-01",
+      "abstract": "Permintaan akan jagung (Zea mays L.) yang semakin meningkat menyebabkan petani kesulitan untuk memenuhi kebutuhan pasar.  Semakin langka dan tingginya harga pupuk anorganik saat ini, menimbulkan masalah sendiri bagi petani.  Penggunaan bahan organik seperti pupuk hayati merupakan salah satu cara untuk mengatasi masalah di atas.  Penelitian ini bertujuan untuk mengetahui (1) pengaruh pemberian pupuk kandang kambing; (2) pengaruh pemberian pupuk hayati; (3) pengaruh interaksi anatara dosis pupuk kandang kambing dan pupuk hayati dalam mempengaruhi pertumbuhan dan hasil jagung.  Penelitian ini dilaksanakan di Desa Sukabanjar, Kecamatan Gedong Tataan, Kabupaten Pesawaran pada bulan Februari sampai Mei 2016. Penelitian menggunakan rancangan perlakuan berpola faktorial (5 x 2) dalam Rancangan Kelompok Teracak Sempurna (RKTS) dengan tiga ulangan dengan 10 perlakuan. Faktor pertama adalah dosisi pupuk kandang kotoran kambing (B), terdiri lima taraf yaitu : tanpa pupuk kandang (b0), dosis 10 ton\/ha (b1), 20 ton\/ha (b2), 30 ton\/ha (b3) dan 40 ton\/ha (b4). Faktor kedua adalah pupuk hayati (H) terdiri atas dua taraf yaitu tanpa pupuk hayati (h0) dan dengan pupuk hayati (h1).  Konsentrasi pupuk hayati yang digunakan adalah 10 ml\/l. Jika hasil uji F nyata pada taraf 5%, selanjutnya dilakukan uji lanjut polinomial ortogonal. Hasil penelitian menunjukkan bahwa (1) Dosis pupuk kandang kambing yang diberikan pada dosis 40 ton\/ha meningkatkan seluruh variabel pengamatan; (2) Aplikasi pupuk hayati memberikan pengaruh nyata terhadap seluruh variabel pengamatan; (3) Pemberian pupuk kandang kambing pada berbagai dosis dipengaruhi oleh aplikasi pupuk hayati (terjadi interaksi) pada variabel pengamatan tinggi tanaman, diameter tongkol, panjang tongkol, bobot tongkol per tanaman, dan bobot 100 butir",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 5,
+      "title": "PENGARUH DOSIS PUPUK KANDANG KAMBING DAN PUPUK HAYATI TERHADAP PERTUMBUHAN DAN HASIL JAGUNG (Zea mays L.)",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Mercia Devana",
+            "honourific": null,
+            "lineage": null,
+            "family": "Safitri"
+          }
+        },
+        {
+          "name": {
+            "given": "-",
+            "family": "Kushendarto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "kfhidayat@gmail.com",
+          "name": {
+            "given": "Kuswanta Futas",
+            "family": "Hidayat",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Sunyoto",
+            "lineage": null,
+            "honourific": null,
+            "given": "-"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "75-79",
+      "datestamp": "2017-11-17 04:23:01",
+      "eprint_status": "archive",
+      "eprintid": 5830,
+      "lastmod": "2017-11-17 04:23:01",
+      "documents": [
+          {
+            "content": "published",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 18759,
+            "main": "3. Mercia Devana Safitri.pdf",
+            "files": [
+                {
+                  "hash": "5981da52ae47e76f8bdad13ee4352614",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 54461,
+                  "filename": "3. Mercia Devana Safitri.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54461",
+                  "filesize": 296286,
+                  "objectid": 18759,
+                  "mtime": "2017-11-17 03:01:49",
+                  "hash_type": "MD5"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18759",
+            "eprintid": 5830,
+            "placement": 1
+          }
+      ],
+      "userid": 910,
+      "number": 2
+    },
+    {
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11942",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "series": 1,
+      "status_changed": "2019-05-07 07:34:12",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "dir": "disk0\/00\/01\/19\/42",
+      "publisher": "plantaxia",
+      "divisions": [
+        "FP2"
+      ],
+      "userid": 1071,
+      "pages": 110,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24928",
+            "eprintid": 11942,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "main": "APROVAL-PEMULIAAN KELAPA SAWIT.PDF",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-07 07:31:26",
+                  "filesize": 4020099,
+                  "objectid": 24928,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/107115",
+                  "filename": "APROVAL-PEMULIAAN KELAPA SAWIT.PDF",
+                  "datasetid": "document",
+                  "fileid": 107115,
+                  "hash": "43b6bfe3428c3446332e772d822c7b46",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 24928
+          }
+      ],
+      "lastmod": "2019-05-07 07:34:12",
+      "eprintid": 11942,
+      "eprint_status": "archive",
+      "datestamp": "2019-05-07 07:34:12",
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "type": "book",
+      "creators": [
+        {
+          "id": "kukuhsetiawan38@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setiawan",
+            "given": "Kukuh"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "PEMULIAAN KELAPA SAWIT\r\nUntuk Produksi Benih Unggul: Tanaman Pendek, Kompak,\r\ndan Minyak Tak Jenuh Tinggi"
+    },
+    {
+      "divisions": [
+        "FP2"
+      ],
+      "publisher": "Universitas Lampung",
+      "dir": "disk0\/00\/00\/56\/02",
+      "full_text_status": "public",
+      "status_changed": "2017-11-16 06:57:58",
+      "ispublished": "inpress",
+      "rev_number": 8,
+      "subjects": [
+        "S1"
+      ],
+      "book_title": "CASSAVA: BIBIT, PRODUKSI, MANFAAT, DAN PASCA PANEN",
+      "abstract": "Puji syukur ke hadirat Allah SWT atas terselesainya buku pedoman yang akan\r\ndigunakan untuk referensi peningkatan dan perbaikan produksi cassava di Lampung.  Buku\r\npedoman cassava ini terdiri atas empat bagian utama, yaitu bidang agronomi, system\r\npemupukan, pengendalian hama dan penyakit cassava, manfaat dan pascapanen cassava. \r\nBidang agronomi mendiskusikan tentang system penyediaan bibit, karakter berbagai varietas\r\ncassava dan system budidaya untuk produksi tinggi yang efektif dan berkelanjutan. \r\nSelanjutnya, cara pemberian pupuk yang baik dan benar untuk produksi tinggi dimasukkan ke\r\ndalam system pemupukan bersama dengan pemberian bahan organik untuk memperbaiki sifat\r\ntanah.  Cara pengendalian organisme pengganggu tanaman terpadu dibahas di dalam bagian\r\npengendalian berbagai hama dan penyakit cassava.  Terakhir adalah manfaat dan pascapanen\r\ncassava yang membahas tentang kegunaan cassava untuk kehidupan sehari-hari serta cara\r\npenyimpanan dan pengawetan tepung maupun prosesing. \r\nPenyajian makalah dari berbagai bidang bermaksud agar informasi yang didiskusikan\r\ndi dalam makalah mampu memperbaiki produksi cassava dan bahkan bias dipahami oleh ibuibu\r\n\r\npetani.  Ibu-ibu petani merupakan bagian dari faktor produksi dalam usahatani cassava. \r\nLatar belakang pendidikan para ibu petani ini berkisar antara lulusan SD hingga SMA. \r\nMudahnya para ibu petani memaham iinformasi tentang perbaikan produksi cassava yang\r\nberkerlanjutan dan ramah lingkungan ini diharapkan bisa berpartisipasi aktif dalam\r\npeningkatan produksi cassava. \r\nTim editor memahami akan kekurangan informasi yang ada di makalah karena itu\r\nsaran atau masukan yang bermanfaat akan sangat membantu dalam perbaikan di masa\r\nmendatang. Selanjutnya, melalui Tim Editor, kami mohon ijin kepada penulis (author) jurnal\r\nmaupun tulisan yang digunakan sebagai referensi.  Atas kerjasama, budi baik dan dukungan\r\npositif para penulis jurnal atau majalah diucapkan terimakasih.  Semoga kumpulan makalah\r\nyang sederhana untuk para ibu petani ini bisa digunakan sebagai acuan atau pedoman dalam\r\npengembangan bahan bacaan untuk perbaikan produksi cassava baik kualitas maupun\r\nkuantitas",
+      "corp_creators": [
+        "Balitbangda Lampung Tengah",
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5602",
+      "date": "2017-11-19",
+      "creators": [
+        {
+          "name": {
+            "given": "Kukuh",
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "book_section",
+      "title": "Sistem Penyediaan Bibit Singkong (Cassava) Unggul Peningkatan\r\nProduksi Cassava Secara Berkelanjutan",
+      "refereed": "TRUE",
+      "place_of_pub": "Bandar Lampung",
+      "datestamp": "2017-11-16 06:57:58",
+      "eprint_status": "archive",
+      "editors": [
+        {
+          "name": {
+            "given": "Udin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hasunuddin"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Yuliadi",
+            "honourific": null,
+            "given": "Erwin"
+          }
+        },
+        {
+          "name": {
+            "family": "Hadi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhammad Syamsoel"
+          },
+          "id": "msyamshadi@yahoo.co.id"
+        },
+        {
+          "name": {
+            "family": "Setiawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Kukuh"
+          },
+          "id": "kukuhsetiawan38@gmail.com"
+        }
+      ],
+      "eprintid": 5602,
+      "metadata_visibility": "show",
+      "pagerange": "1-8",
+      "userid": 1071,
+      "lastmod": "2017-11-16 06:57:58",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18552",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 5602,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Buku_Cassava_Lampung Tengah.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-15 09:10:48",
+                  "filesize": 4090275,
+                  "objectid": 18552,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52402",
+                  "filename": "Buku_Cassava_Lampung Tengah.pdf",
+                  "datasetid": "document",
+                  "fileid": 52402,
+                  "hash": "297a1ffab74adf857353a2cbf01306f0",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 18552,
+            "format": "text"
+          }
+      ],
+      "pages": 109
+    },
+    {
+      "event_location": "Pangkalpinang",
+      "contact_email": "sri.yusnaini@fp.unila.ac.id",
+      "creators": [
+        {
+          "id": "sri.yusniani@fp.unila.ac.id",
+          "name": {
+            "given": "Yusnaini",
+            "lineage": null,
+            "family": "Sri",
+            "honourific": null
+          }
+        },
+        {
+          "id": "abimasyarif@gmail.com",
+          "name": {
+            "family": "Arif",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mas Achmad Syamsul"
+          }
+        },
+        {
+          "id": "ainin.niswati@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Niswati",
+            "lineage": null,
+            "given": "Ainin"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Pakpahan",
+            "honourific": null,
+            "given": "Adiya Yesika"
+          },
+          "id": null
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "event_dates": "20 Juli 2017",
+      "title": "Keberadaan  Fungi Arbuskular Mikoriza (FMA) pada Berbagai  Vegetasi   dan Kemiringan Lereng  Di  Laboratorium  Lapang Terpadu FP UNILA",
+      "userid": 1053,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/msword",
+            "rev_number": 1,
+            "main": "FMA Babel final.doc",
+            "files": [
+                {
+                  "mtime": "2017-11-10 04:18:10",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48497",
+                  "filename": "FMA Babel final.doc",
+                  "objectid": 17986,
+                  "filesize": 867840,
+                  "hash": "54673e4818ca567a34547be4e4c2bee4",
+                  "mime_type": "application\/msword",
+                  "datasetid": "document",
+                  "fileid": 48497
+                }
+            ],
+            "docid": 17986,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17986",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 5052
+          },
+          {
+            "format": "text",
+            "main": "275(1).pdf",
+            "docid": 17989,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 48506,
+                  "hash": "23361b79fecb3814b38939f930b7ef4b",
+                  "mime_type": "application\/pdf",
+                  "filesize": 110340,
+                  "objectid": 17989,
+                  "filename": "275(1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48506",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-10 04:24:30"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 5052,
+            "placement": 2,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17989",
+            "pos": 2
+          }
+      ],
+      "lastmod": "2017-11-14 02:29:25",
+      "eprintid": 5052,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-14 02:29:25",
+      "pagerange": "1-11",
+      "metadata_visibility": "show",
+      "status_changed": "2017-11-14 02:29:25",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "ispublished": "submitted",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/50\/52",
+      "event_type": "conference",
+      "abstract": "Keberadaan  Fungi Arbuskular Mikoriza (FMA) pada Berbagai  Vegetasi   dan Kemiringan Lereng  Di  Laboratorium  Lapang Terpadu FP UNILA\r\n\r\nOleh\r\nSri Yusnaini, M.Ach. Syamsul Arif, Ainin Niswati, dan Aditya Yesika Pakpahan\r\nJurusan Agroteknologi Fakultas Pertanian Universitas Lampung\r\nJl. Prof. Sumantri Brojonegoro 1 Bandarlampung 35145\r\nTelf. 0721-781822; Fax. 0721-781822  e-mail sri.yusnaini@fp.unila.ac.id\r\n\r\n ABSTRAK\r\nKeberlanjutan produksi pertanian sangat dipengaruhi oleh keseimbangan ekosistem antar makhluk hidup (organisme) dan lingkungan.  Fungi arbuskular mikoriza (FMA), merupakan kelompok fungi yang bersimbiosis dengan akar tanaman  di ekosistem pertanian. Kelompok fungi ini sangat berperan penting dalam menjaga keberlangsungan produktivitas pertanian melalui perbaikan perharaan, ketahanan tanaman terhadap kekeringan dan penyakit, serta kemantapan agregat tanah. Berbagai sistem budidaya tanaman menyebabkan perubahan komposisi tanaman inang, yang berakibat hilangnya fungsi FMA  karena  ketidakcocokan antara  tanaman inang  dengan FMA.  Penelitian ini bertujuan untuk mempelajari  keberadaan FMA dan efektivitasnya pada berbagai  tanaman dan kemiringan lereng di Laboratorium Lapang Terpadu, Fakultas Pertanian UNILA. Pengamatan FMA dilakukan dengan metode survey dari bulan oktober 2016 sampai dengan februari 2017 pada  15  titik sampel yang dibedakan berdasarkan jenis vegetasi  dan kemiringan lereng, setiap titik sampel diulang tiga kali. Keberadaan FMA dihitung berdasarkan spora FMA menggunakan metode penyaringan basah (wet sieving) dan persentase infeksi FMA pada akar tanaman menggunakan metode perwarnaan dengan trypan blue.  Hasil penelitian menunjukkan bahwa jumlah spora FMA terbanyak dijumpai pada vegetasi karet (224 spora 100 g-1), namun demikian tingginya spora FMA tidak diikuti oleh tingginya persentase infeksi pada akar tanaman karet. Persentase infeksi FMA tertinggi dijumpai pada tanaman singkong , yaitu 95%.\r\nKata kunci: FMA,  kemiringan lereng, persen infeksi, vegetasi",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5052",
+      "date": "2017-07-20",
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "Seminar Nasional dan Rapat Tahunan Dekan Bidang Ilmu Pertanian BKS PTN Wilayah Barat di Pangkalpinang",
+      "date_type": "submitted"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Yusnaini",
+            "lineage": null,
+            "family": "Sri",
+            "honourific": null
+          },
+          "id": "sri.yusniani@fp.unila.ac.id"
+        },
+        {
+          "id": "rusdi.evizal@fp.unila.ac.id",
+          "name": {
+            "given": "Rusdi",
+            "honourific": null,
+            "family": "Evizal",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "book",
+      "isbn": "978-602-6565-56-3",
+      "refereed": "TRUE",
+      "title": "Sri Yusnaini dan Rusdi Evizal.  2017.  Ekologi Pertanian. Aura.",
+      "place_of_pub": "Bandar Lampung",
+      "eprintid": 7537,
+      "eprint_status": "archive",
+      "datestamp": "2018-06-25 02:35:02",
+      "metadata_visibility": "show",
+      "userid": 1053,
+      "pages": 125,
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-22 06:43:42",
+                  "objectid": 20572,
+                  "filesize": 262656,
+                  "filename": "Cover ekologi.doc",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67931",
+                  "fileid": 67931,
+                  "datasetid": "document",
+                  "mime_type": "application\/msword",
+                  "hash": "5e304e93319a96d06020394d17d6122f"
+                }
+            ],
+            "main": "Cover ekologi.doc",
+            "docid": 20572,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/msword",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 7537,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20572",
+            "security": "public"
+          },
+          {
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20573",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 7537,
+            "mime_type": "application\/CDFV2-corrupt",
+            "language": "en",
+            "rev_number": 1,
+            "main": "DAFTAR ISI EKOLOGI PERTANIAN.doc",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 67933,
+                  "mime_type": "application\/CDFV2-corrupt",
+                  "hash": "9ed9f9166d7140691ae9f2eeebf7ffb1",
+                  "objectid": 20573,
+                  "filesize": 74752,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67933",
+                  "filename": "DAFTAR ISI EKOLOGI PERTANIAN.doc",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-22 06:43:54"
+                }
+            ],
+            "docid": 20573,
+            "format": "text"
+          },
+          {
+            "main": "SINOPSIS.docx",
+            "docid": 20574,
+            "files": [
+                {
+                  "filename": "SINOPSIS.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67935",
+                  "objectid": 20574,
+                  "filesize": 12230,
+                  "mtime": "2018-06-22 06:44:18",
+                  "hash_type": "MD5",
+                  "hash": "937120502bfa701ca3fa1aa303c17ea3",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "fileid": 67935,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 3,
+            "eprintid": 7537,
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20574",
+            "security": "public"
+          },
+          {
+            "eprintid": 7537,
+            "placement": 4,
+            "security": "public",
+            "pos": 4,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20575",
+            "format": "text",
+            "docid": 20575,
+            "main": "tENTANG pENULIS (2).doc",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-22 06:44:30",
+                  "filesize": 57856,
+                  "objectid": 20575,
+                  "filename": "tENTANG pENULIS (2).doc",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67937",
+                  "fileid": 67937,
+                  "datasetid": "document",
+                  "hash": "d1196c2707dc707f2c459fc5d55113b4",
+                  "mime_type": "application\/msword"
+                }
+            ],
+            "mime_type": "application\/msword",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2018-06-25 02:35:02",
+      "publisher": "Aura Publishing",
+      "dir": "disk0\/00\/00\/75\/37",
+      "divisions": [
+        "FP2"
+      ],
+      "status_changed": "2018-06-25 02:35:02",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "subjects": [
+        "S1"
+      ],
+      "corp_creators": [
+        "FP Unila"
+      ],
+      "abstract": "SINOPSIS\r\nEKOLOGI PERTANIAN\r\nEkologi pertanian merupakan cabang ilmu yang mempelajari hubungan timbal balik \r\nantara makhluk hidup dan lingkungan secara utuh sebagai satu kesatuan pada ekosistem pertanian. Komponen fisik dan kimia yang terbentuk sebagai suatu kesatuan habitat serta komponen biologis berperan secara bersama-sama dalam menentukan keberhasilan budidaya pertanian. Penulisan buku ini menitik beratkan pada peranan komponen fisik (abiotik) dan biotik pada ekosistem pertanian dalam mempertahankan ataupun meningkatkan produktifitas pertanian.   Buku ini juga menjelaskan keterkaitan pengelolaan  makhluk hidup dengan  lingkungan habitat tempat tumbuhan tanaman. Buku ini ditulis sebagai pandunan bagi mahasiswa pertanian ataupun masyarakat awam yang mempunyai ketertarikan di bidang pertanian dan dapat diaplikasikan  sebagai pedoman pengelolaan  pertanian secara intensif, tanpa mengurangi stabilitas ekologi, sehingga pertanian tersebut dapat berjalan secara lestari dan sinambung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7537",
+      "date": "2017-09"
+    },
+    {
+      "subjects": [
+        "S1"
+      ],
+      "volume": 17,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Vegetation diversity and intensity of plant pests and diseases in two polyculture systems in Tanggamus District. The\r\nvegetable crop management cannot be separated from infestation of plant pest and disease which influences the quality and\r\nquantity of crop yield. The pest organism development is influenced by agroecosystem. The objective of this research was to\r\nanalyze vegetation diversity and intensity of pest and disease in Tanggamus District. Methods used in this research were\r\nanalysis of vegetation diversity based on Shannon index, percentage of pests damage and diseases incidence. The results\r\nshowed that the vegetation diversity in polyculture of agriculture typology were 11 plant species with diversity index of 0.64;\r\nwhile in polyculture of agroforestry typology there were 11 plant species with diversity index of 0.74 and both of these indices\r\nwere less than 1 (H’ < 1). The percentage of pests damage in the polyculture of agriculture larger than polyculture of\r\nagroforestry typology ranging from 7.20% to 81.67% and 3.04% to 26.67% respectively. While the incidence of disease in\r\npolyculture of agriculture ranging from 0.65% up to 100% and polyculture of agroforestry typology 0.65% up to 68.00%.\r\nKey words: polyculture of agriculture, polyculture of agroforestry, Shannon Index",
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10729",
+      "publication": "Jurnal Hama dan Penyakit Tumbuhan Tropika",
+      "publisher": "Jurusan Proteksi Tanaman, PEI Bandar Lampung, PFI Lampung",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/01\/07\/29",
+      "status_changed": "2019-02-11 12:19:59",
+      "full_text_status": "public",
+      "issn": "1411-7525",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "eprintid": 10729,
+      "datestamp": "2019-02-11 12:19:59",
+      "pagerange": "137-146",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 990,
+      "documents": [
+          {
+            "eprintid": 10729,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23740",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "6ebdb4492e29cb2f0a2b318b704a8ac8",
+                  "mime_type": "application\/pdf",
+                  "fileid": 99024,
+                  "datasetid": "document",
+                  "mtime": "2019-02-11 07:41:20",
+                  "hash_type": "MD5",
+                  "filename": "413-996-3-PB (Sudiono, Keragaman).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/99024",
+                  "objectid": 23740,
+                  "filesize": 1395950
+                }
+            ],
+            "main": "413-996-3-PB (Sudiono, Keragaman).pdf",
+            "docid": 23740,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2019-02-11 12:19:59",
+      "creators": [
+        {
+          "name": {
+            "family": "Sudiono",
+            "lineage": null,
+            "honourific": null,
+            "given": "-"
+          }
+        },
+        {
+          "name": {
+            "given": "Hadi Sutjahyo",
+            "honourific": null,
+            "lineage": null,
+            "family": "surjono"
+          }
+        },
+        {
+          "name": {
+            "given": "wijayanto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurheni"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Purnama",
+            "honourific": null,
+            "given": "Hidayat"
+          }
+        },
+        {
+          "name": {
+            "given": "Kurniawan",
+            "lineage": null,
+            "family": "Rachman",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "VEGETATION DIVERSITY AND INTENSITY OF PLANT\r\nPESTS AND DISEASES IN TWO POLYCULTURE SYSTEMS IN TANGGAMUS DISTRICT"
+    },
+    {
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "submitted",
+      "date": "2017-11-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5559",
+      "corp_creators": [
+        "DIPA FAKULTAS PERTANIAN UNILA"
+      ],
+      "abstract": "RINGKASAN\r\n\r\nUbijalar umumnya diperbanyak dengan menggunakan stek pucuk atau stek batang, umbi maupun biji. Perbanyakan menggunakan biji biasanya digunakan untuk tujuan pemuliaan.  Sedangkan untuk tujuan komersial, perbanyakan menggunakan stek pucuk  atau  stek    batang lebih  menguntungkan  dibandingkan  dengan  menggunakan umbi.   Namun pendapat yang sudah berkembang di masyarakat menunjukkan bahwa stek pucuk  atau stek batang yang diambil dari tanaman produktif secara turun-temurun akan mengalami penurunan kualitas bibit, sehingga kualitas dan kuantitas hasil tanaman yang   dibudidayakan juga menurun. Penelitian di Srilanka, penurunan produktivitas mulai terjadi pada   generasi kelima.   Penggunaan umbi dan stek batang sebagai bibit akan mengalami kendala, jika disimpan dalam waktu yang lama dan juga terkendala dalam transportasi.   Oleh karena itu salah satu pemecahan masalahnya adalah penggunaan biji sebagai bahan untuk pembiakan yang true to type.   Penggunaan biji akan sangat menghemat, waktu dan eknomis dalam masalah transportasi, serta mudah dalam  pengelolaan  ketika  tanam.    Tahap  awal  untuk  mencapai  hal  tersebut  adalah dengan mengindentifikasi dan mempelajari keragaan varietas unggul nasional yang akan dipergunakan untuk penelitian selanjutnya untuk mendapatkan benih\/biji true to type dan menguji keseragaman tumbuh serta produksinya. Tujuan penelitian ini adalah untuk mengidentifikasi dan mempelajari keragaan beberapa varietas unggul nasional Ubi jalar untuk mempelajari pertumbuhan dan perkembangan yang dapat dijadikan acuan untuk produksi Seed true to tupe. Kegiatan penelitian ini merupakan program identifikasi dan keragaan beberapa klon ubijalar unggul nasional.   Perlakuannya adalah klon-klon ubi jalar: Antin-2 (U1); Antin-3 (U2); Papua Salossa (U3); Beta-1 (U4); Beta-2 (U5); Beta-\r\n3 (U6); Cilembu (U7); Shiroyutaka (U8); Sari (U9); Kidal (U10).  Hasil penelitian ini diharapkan dapat dijadikan acuan untuk seleksi tetua dan hibridisasi, serta produksi seed true  to  type.    Klon  unggul  nasional  masing-masing mempunyai  karakteristik  daun, pucuk dan batang yang berbeda. Hasil penelitian menunjukkan pengaruh berbagai klon unggul nasional yang berbeda memberikan tanggapan yang berbeda terhadap pertumbuhan vegetatif jumlah daun",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/55\/59",
+      "related_url": [
+        {
+          "type": "org"
+        }
+      ],
+      "ispublished": "submitted",
+      "rev_number": 12,
+      "status_changed": "2017-11-16 08:27:46",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 5559,
+      "datestamp": "2017-11-16 08:27:46",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18511",
+            "pos": 1,
+            "eprintid": 5559,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 18511,
+            "main": "Sunyoto, dkk Dipa FP-Laporan 2017.pdf",
+            "files": [
+                {
+                  "fileid": 52115,
+                  "datasetid": "document",
+                  "hash": "c3d923a694448dface03fa856cd8fd48",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-15 05:03:21",
+                  "objectid": 18511,
+                  "filesize": 1024150,
+                  "filename": "Sunyoto, dkk Dipa FP-Laporan 2017.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52115"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2017-11-16 08:27:46",
+      "official_url": "http:\/\/www.repository.lppm.unila.ac.id",
+      "userid": 969,
+      "title": "Identifikasi dan Keragaan Beberapa Varietas Unggul Nasional\r\nUbijalar (Ipomoea batatas L.)",
+      "type": "experiment",
+      "creators": [
+        {
+          "id": "sunyoto_1955@yahoo.co.id",
+          "name": {
+            "family": "Sunyoto,",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sunyoto,"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ardian",
+            "lineage": null,
+            "family": "Ardian,",
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "publication": "MAYFEB Journal of Agricultural Science",
+      "publisher": "MAYFEB",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/38\/92",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2017-09-15 01:23:14",
+      "issn": "ISSN 2371-512X",
+      "full_text_status": "public",
+      "subjects": [
+        "S1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3892",
+      "date": "2017-08-31",
+      "volume": 4,
+      "abstract": "The rice production had declined and been stagnant in the last two decades. One way to increase rice productivity was the application of micro elements such as manganese (Mn) and silicon (Si).  On appropriate dose, Mn and Si worked sinergically in increasing rice productivity, but would decrease the productivity when applied excessively.  In order to be effective, Mn should be applied through leaf before Si because the ability of Si to inhibit Mn absorption. This research was to investigate the effect of Mn and Si application and their response on growth and yield of rice.  The research was conducted on irrigated rice field in Village of Sinar Agung, Subdistrict of Pulau Panggung, and District of Tanggamus, Lampung Province, Indonesia  from November 2014 to April 2015.  The treatment were arranged in 2x5 factorial consisting of two concentrations of Mn (0 and 5 ppm) and five concentrations of Si (0, 50, 100, 150, and 200 ppm).  The research was designed in Randomized Complete Block Design with three replications.  Homogeneity of variance was tested by Barlett’s test and nonadditivity using Tukey’s test.  The results showed that applications of 5 ppm Mn increased plant growth and yield in all variables, except for plant height.  While the application of Si to 200 ppm increased plant height, dry weight, number of productive tillers, filled grain weight, 1000 grain weight, and grain yield.  The application of 50 ppm of Si with addition of 5 ppm of Mn showed the best response of rice on the filled grain weight and grain yield.",
+      "refereed": "TRUE",
+      "title": "Application of Manganese and Silica  through Leaves and Their Effect on Growth and Yield of Rice in Rice Field in Village of Sinar Agung, Sub-district of Pulau Panggung, District of Tanggamus, Lampung Province, Indonesia",
+      "creators": [
+        {
+          "name": {
+            "given": "P.B.",
+            "honourific": null,
+            "family": "Timotiwu",
+            "lineage": null
+          },
+          "id": "paul.timotiwu@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Nurmauli",
+            "lineage": null,
+            "honourific": null,
+            "given": "N"
+          },
+          "id": "nnurmauli@gmail.com"
+        },
+        {
+          "id": "peniyulianti30@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "family": "Yulianti",
+            "honourific": null,
+            "given": "P"
+          }
+        }
+      ],
+      "type": "article",
+      "pagerange": "48-60",
+      "metadata_visibility": "show",
+      "referencetext": "Ahmad, M., F.U. Hassen, U. Qadeer, and M.A. Aslam, “Silicon application and drought tolerance mechanism\r\nof sorghum”. African Journal of Agricultural Research, 6(3), pp 594-607, 2011.\r\nAgustina, L, ”Micro nutrients I (Fe, Mn, Zn, Cu, B, Mo and Cl) importance of nutrient deficiency and toxicity\r\n(in Indonesian)”. Post-Graduate Program University of Brawijaya. Malang. pp 25-32, 2011.\r\nCentral Bureau of Statistics. 2013. “Bulletin of food consumption”. Data Center and Agricultural Information.\r\n(2): 8-10, 2013.\r\nRezai, K., and Farboodnia, T. “Manganese toxicity effects on chlorophyll content and antioxidant enzymes in\r\npea plant (Pisum sativum L. c.v Qazvin)”. Agricultural Journal, 3(6): pp 454-458, 2008\r\nG. H. Snyder, V. V. Matichenkov, and L. E. Datnoff, “Silicon,” in Plant Nutrition, pp. 551–562, Taylor & Francis,\r\nBelle Glade, Fla, USA, 2006\r\nJunior, L. A. Z., R. L. F. Fontes, J. C. L. Neves, G. H. Korndorfer and V. T. De Avila. “Rice grown in nutrient\r\nsolution with doses of manganese and silicon”. R. Bras. Ci. Solo, 34, pp 1629-1639, 2010.\r\nLidon F. C., M.G. Barreiro, and J.C. Ramalho. “Manganese accumulation in rice: implication for\r\nphotosynthetic function”. Journal of Plant Physiol. 161(11),pp 1235-1244, 2004.\r\nMakarim, A. K. and E. Suhartatik. 2007. “Morphology and physiology of rice plants”. Rice Research Institute,\r\npp 295-330, 2007.\r\nHusted, S., K.H. Laursen, C.A. Hebbern et al. 2010. “Manganese deficiency leads to genotype specific changes\r\nin fluorescence induction kinetics and state transitions.” Plant Physiol. 150:825–833.\r\nMousavi, R. S., Shahsavari, and Rezaei. “A general overview on manganese (Mn) importance for crops\r\nproduction”. Australian Journal of Basic and Applied Sciences. 5(9), pp 1799-1803, 2011.\r\nNurhayat, W. http:\/\/finance.detik.com\/read\/2013\/07\/17\/152223\/2305835\/4\/ consumption-rice-highest-in-the-\r\nworld-prone Indonesian-diabetic. Accessed on November 1, 2013, 2015.\r\nRambo, M. K. D., A.L. Cardoso, D.B. Bevilaqua, T.M. Rizzetti, L.A. Ramos, G.H. Korndorfer, A.F. Martins.\r\n“Silica from rice husk ash an additive for rice plant”. Journal of Agronomy. 10(3), pp 99-104, 2011.\r\nRogalla, H. and V. Romheld. “Role of leaf apoplast in silicon-mediated manganese tolerance of Cucumis\r\nsativus L”. Plant, cell, and environment, 25, pp 259, 2002.\r\nSacala, E. “Role of silicon in plant resistance to water stress”. J. Elementol. 14(3), pp 619-630, 2009.\r\nSahebi, M., M.M. Hanafi, A.S.N. Akmar, M.Y. Rafii, P. Azizi, F.F. Tengoua, J.N.M. Azwa, and M.\r\nShabanimofrad. “Importance of silicon and mechanisms of biosilica formation in plants”. BioMed Research\r\nInternational. 2015, pp 8-11, 2015.\r\nSutedjo, M.M. “Fertilizer and how to fertilize” (in Indonesian). Rineka Cipta. Jakarta. 177 p, 2008.\r\nTimotiwu, P.B. and M.S. Dewi. “The effect of silica and manganese application on rice growth and yield”. J.\r\nAgrivita, 36(2),pp 182-188, 2014.\r\nYukamgo, E. and N.W. Yuwono. “The role of Silica as a benefical nutrient in sugar-cane” (in Indonesian).\r\nJournal of Soil Science and Environment. 7(2): 103-116, 2007.\r\nGuntzer F, Keller C, Meunier JD. “Benefits of plant silicon for crops: a review”. Agron Sustain\r\nDev,32(1):201–213, 2012.\r\nMeharg C, Meharg AA “Silicon, the silver bullet for mitigating biotic and abiotic stress, and improving grain\r\nquality, in rice?” Environ Exp Bot, 120:8–17, 2015.\r\nMarxen A, Klotzbu¨cher T, Jahn R, Kaiser K, Nguyen VS, Schmidt A et al. “Interaction between silicon\r\ncycling and straw decomposition in a silicon deficient rice production system”. Plant Soil 398:153–163,\r\n\r\nEaton TE. “Handbook of plant nutrition”. 2nd Ed. Edited by Baker AE and Pilbeam DJ. CRC Press. Taylor\r\nand Francis Group. Boca Raton, FL. 2015. pp. 487-485.\r\nMa, J.F. and E. Takahashi. 2002. Soil, Fertilizer, and Plant Silicon Research in Japan. Amsterdam, the Netherlands:\r\nElsevier Science.\r\nMa JA. “Handbook of plant nutrition”. 2nd Ed. Edited by Baker AE and Pilbeam DJ. CRC Press. Taylor and\r\nFrancis Group. Boca Raton, FL. 2015. pp. 681-693\r\nGong, X., Y. Wang, C. Liu et al. “Effect of manganese deficiency on spectral characteristics and oxygen\r\nevolution in maize chloroplasts”. Biol. Trace Elem. Res. 136:372–38,2012.\r\nLi P, Song A, Li Z, Fan F, Liang Y. “Silicon ameliorates manganese toxicity by regulating manganese\r\ntransport and antioxidant reactions in rice (Oryza sativa L.)”. Plant and Soil 354, 407–419. 2012",
+      "eprintid": 3892,
+      "id_number": "DOI:10.5821\/zenodo.883765",
+      "eprint_status": "archive",
+      "datestamp": "2017-09-15 01:23:14",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 3751,
+                  "filesize": 832515,
+                  "filename": "489-1218-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27258",
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-07 03:54:24",
+                  "datasetid": "document",
+                  "fileid": 27258,
+                  "hash": "e735ac2c52ef34b56eab2f023bd5489c",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "489-1218-1-PB.pdf",
+            "docid": 3751,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 3892,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3751",
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/mayfeb.com\/OJS\/index.php\/AGR",
+      "lastmod": "2017-09-15 01:23:14",
+      "number": 2017,
+      "userid": 1003
+    },
+    {
+      "corp_creators": [
+        "Balitbangda Lampung Tengah",
+        "Universitas Lampung"
+      ],
+      "abstract": "Puji\r\nsyukur\r\nke\r\nhadirat  Allah  SWT  atas\r\nterselesainya\r\nbuku\r\npedoman  yang  akan\r\ndigunakan\r\nuntuk\r\nreferensi\r\npeningkatan\r\ndan\r\nperbaikan\r\nproduksi  cassava  di  Lampung.\r\nBuku\r\npedoman  cassava  ini\r\nterdiri\r\natas\r\nempat\r\nbagian\r\nutama,  yaitu\r\nbidang\r\nagronomi\r\n, \r\nsystem \r\npemupukan,  pengendalian\r\nhama\r\ndan\r\npenyakit  cassava,  manfaat\r\ndan\r\npascapanen  cassava.  \r\nBidang\r\nagronomi\r\nmendiskusikan\r\ntentang\r\nsystem \r\npenyediaan\r\nbibit, karakter\r\nberbagai\r\nvarietas \r\ncassava   dan\r\nsystem \r\nbudidaya\r\nuntuk\r\nproduksi\r\ntinggi   yang   efektif\r\ndan\r\nberkelanjutan.\r\nSelanjutnya, \r\ncara\r\npemberian\r\npupuk yang baik\r\ndan\r\nbenar\r\nuntuk\r\nproduksi\r\ntinggi\r\ndimasukkan\r\nke\r\ndalam\r\nsystem \r\npemupukan\r\nbersama\r\ndengan\r\npemberian\r\nbahan organi\r\nk\r\nuntuk\r\nmemperbaiki\r\nsifat\r\ntanah.\r\nCara  pengendalian\r\norganisme\r\npengganggu\r\ntanaman\r\nterpadu\r\ndibahas  di  dalam\r\nbagian\r\npengendalian\r\nberbagai\r\nhama\r\ndan\r\npenyakit cassava.\r\nTerakhir\r\nadalah\r\nmanfaat\r\ndan\r\npascapanen \r\ncassava  yang  membahas\r\ntentang\r\nkegunaan  cassava  untuk\r\nkehidupan\r\nsehari\r\n-\r\nhari\r\nserta\r\ncara\r\npenyimpan\r\nan\r\ndan\r\npengawetan\r\ntepung\r\nmaupun\r\nprosesing.\r\nPenyajian\r\nmakalah\r\ndari\r\nberbagai\r\nbidang\r\nbermaksud agar informasi yang didiskusikan \r\ndi dalam\r\nmakalah\r\nmampu\r\nmemperbaiki\r\nproduksi cassava dan\r\nbahkan\r\nbias \r\ndipahami\r\noleh\r\nibu\r\n-\r\nibu\r\npetani.\r\nIbu\r\n-\r\nibu\r\npetani\r\nmerupakan\r\nbagian\r\ndari\r\nfaktor \r\nproduksi\r\ndalam\r\nusahatani  cassav\r\na.\r\nLatar\r\nbelakang\r\npendidikan\r\npara\r\nibu\r\npetani\r\nini\r\nberkisar\r\nantara\r\nlulusan  SD  hingga  SMA.\r\nMudahnya\r\npara\r\nibu\r\npetani\r\nmemaham\r\niinformasi\r\ntentang\r\nperbaikan\r\nproduksi  cassava  yang \r\nberkerlanjuta\r\nn\r\ndan\r\nramah\r\nlingkung\r\nan\r\nini\r\ndiharapkan\r\nbisa \r\nberpartisipasi\r\naktif\r\ndalam\r\npeningkatan\r\nproduksi cassava.\r\nTim  editor  memahami\r\nakan\r\nkekurangan\r\ninformasi  yang  ada  di  makalah\r\nkarena\r\nitu \r\nsaran  atau\r\nmasukan  yang  bermanfaat\r\nakan\r\nsangat\r\nmembantu\r\ndalam\r\nperbaikan  di  masa\r\nmendatang. Selanjutnya, \r\nmelalui Tim Editor, kami mohon\r\nijin\r\nkepada\r\npenulis (author) jurnal\r\nmaupun\r\ntulisan  yang digunakan\r\nsebagai\r\nreferensi.\r\nA\r\ntas\r\nkerjasama, budi\r\nbaik\r\ndan\r\ndukungan\r\npositif\r\npara\r\npenulis\r\njurnal\r\natau\r\nmajalah\r\ndiucapkan\r\nterimakasih.\r\nSemoga\r\nkumpulan\r\nmakalah \r\nyang \r\nsederhana\r\nuntuk\r\npara\r\nibu\r\npetani\r\nini\r\nbisa\r\ndigunakan\r\nsebagai\r\nacuan\r\natau\r\npedoman\r\ndalam\r\npengembangan\r\nbahan\r\nbacaan\r\nuntuk\r\nperbaikan\r\nproduksi  cassava  baik\r\nkualitas\r\nmaupun\r\nkuantitas\r\n.",
+      "date": "2017-11-19",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5603",
+      "subjects": [
+        "S1"
+      ],
+      "book_title": "CASSAVA: BIBIT, PRODUKSI, MANFAAT, DAN PASCA PANEN",
+      "status_changed": "2017-11-16 06:58:04",
+      "full_text_status": "public",
+      "ispublished": "inpress",
+      "rev_number": 7,
+      "divisions": [
+        "FP2"
+      ],
+      "publisher": "Universitas Lampung",
+      "dir": "disk0\/00\/00\/56\/03",
+      "userid": 835,
+      "documents": [
+          {
+            "eprintid": 5603,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18553",
+            "pos": 1,
+            "format": "text",
+            "main": "Buku_Cassava_Lampung Tengah.pdf",
+            "docid": 18553,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "297a1ffab74adf857353a2cbf01306f0",
+                  "datasetid": "document",
+                  "fileid": 52408,
+                  "mtime": "2017-11-15 09:13:01",
+                  "hash_type": "MD5",
+                  "filename": "Buku_Cassava_Lampung Tengah.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52408",
+                  "filesize": 4090275,
+                  "objectid": 18553
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pages": 109,
+      "lastmod": "2017-11-16 06:58:04",
+      "eprint_status": "archive",
+      "editors": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hasanuddin",
+            "lineage": null,
+            "given": "Udin"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Erwin",
+            "lineage": null,
+            "family": "Yuliadi",
+            "honourific": null
+          },
+          "id": "erwyld@yahoo.co.id"
+        },
+        {
+          "id": "msyamshadi@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "family": "Hadi",
+            "honourific": null,
+            "given": "Muhammad Syamsoel"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setiawan",
+            "given": "Kukuh"
+          },
+          "id": "kukuhsetiawan38@gmail.com"
+        }
+      ],
+      "eprintid": 5603,
+      "datestamp": "2017-11-16 06:58:04",
+      "pagerange": "9-15",
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "creators": [
+        {
+          "name": {
+            "given": "Erwin",
+            "lineage": null,
+            "family": "Yuliadi",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "book_section",
+      "refereed": "TRUE",
+      "title": "Beberapa Varietas atau Klon Cassava"
+    },
+    {
+      "rev_number": 9,
+      "keywords": "FMA, kemiringan lereng, persen infeksi, vegetasi",
+      "ispublished": "pub",
+      "status_changed": "2018-06-25 02:27:58",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/75\/07",
+      "date": "2017-07-21",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7507",
+      "corp_creators": [
+        "Fakultas Pertanian, Universitas Lampung",
+        "Fakultas Pertanian, Universitas Lampung",
+        "Fakultas Pertanian, Universitas Lampung",
+        "Fakultas Pertanian, Universitas Lampung"
+      ],
+      "abstract": "Keberlanjutan  produksi  pertanian  sangat  dipengaruhi  oleh  keseimbangan  ekosistem  antar  makhluk hidup  (organisme)  dan  lingkungan.    Fungi  arbuskular  mikoriza  (FMA),  merupakan  kelompok  fungi yang bersimbiosis dengan akar tanaman  di ekosistem pertanian. Kelompok fungi ini sangat berperan penting  dalam  menjaga  keberlangsungan  produktivitas  pertanian  melalui  perbaikan  perharaan, ketahanan tanaman terhadap kekeringan dan penyakit, serta kemantapan agregat tanah. Berbagai sistem  budidaya  tanaman  menyebabkan  perubahan  komposisi  tanaman  inang,  yang  berakibat hilangnya fungsi FMA  karena  ketidakcocokan antara  tanaman inang  dengan FMA.   Penelitian ini bertujuan  untuk  mempelajari    keberadaan  FMA  dan  efektivitasnya  pada  berbagai    tanaman  dan kemiringan  lereng  di  Laboratorium  Lapang  Terpadu,  Fakultas  Pertanian  UNILA.  Pengamatan  FMA dilakukan dengan metode survey dari bulan oktober 2016 sampai dengan februari 2017 pada  15  titik sampel yang dibedakan berdasarkan jenis vegetasi  dan kemiringan lereng, setiap titik sampel diulang tiga kali. Keberadaan FMA dihitung berdasarkan spora FMA menggunakan metode penyaringan basah (wet  sieving)  dan  persentase  infeksi  FMA  pada  akar  tanaman  menggunakan  metode  perwarnaan dengan trypan blue.  Hasil penelitian menunjukkan bahwa jumlah spora FMA terbanyak dijumpai pada vegetasi karet (224 spora 100 g-1), namun demikian tingginya spora FMA tidak diikuti oleh tingginya persentase infeksi pada akar tanaman karet. Persentase infeksi FMA tertinggi dijumpai pada tanaman singkong , yaitu 95%.",
+      "event_title": "Seminar Nasional dan Rapat Tahunan Dekan Bidang Ilmu Pertanian BKS PTN Wilayah Barat di Pangkalpinang",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "event_location": "Pangkalpinang",
+      "event_dates": "20 Juli 2017",
+      "refereed": "TRUE",
+      "title": "Keberadaan  Fungi Arbuskular Mikoriza (FMA) pada Berbagai  Vegetasi dan Kemiringan Lereng di Laboratorium Lapang Terpadu FP UNILA",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "family": "Yusnaini",
+            "lineage": null
+          },
+          "id": "sri.yusnaini@fp.unila.ac.id"
+        },
+        {
+          "id": "abimasyarif@gmail.com",
+          "name": {
+            "given": "Mas Achmad Syamsul",
+            "honourific": null,
+            "family": "Arif",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Ainin",
+            "family": "Niswati",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ainin.niswati@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Pakpahan",
+            "lineage": null,
+            "given": "Adiya Yesika"
+          },
+          "id": null
+        }
+      ],
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 20547,
+                  "filesize": 2869321,
+                  "filename": "Prosiding BKS PTN UBB 2017 (SY).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/67769",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-22 04:00:05",
+                  "fileid": 67769,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "d2644bf672d841bee46d42d52e38b5c0"
+                }
+            ],
+            "main": "Prosiding BKS PTN UBB 2017 (SY).pdf",
+            "docid": 20547,
+            "content": "published",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 7507,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20547"
+          }
+      ],
+      "lastmod": "2018-06-25 02:27:58",
+      "official_url": "http:\/\/ubb.ac.id\/2018\/01\/17\/prosiding-bks-ptn-ubb-2017",
+      "userid": 1053,
+      "pagerange": "71-77",
+      "metadata_visibility": "show",
+      "eprintid": 7507,
+      "eprint_status": "archive",
+      "datestamp": "2018-06-25 02:27:58"
+    },
+    {
+      "rev_number": 13,
+      "status_changed": "2017-05-29 04:42:51",
+      "funders": [
+        "Unila"
+      ],
+      "publication": "Jurnal Penelitian Pertanian Terapan",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/17\/23",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1723",
+      "volume": 17,
+      "subjects": [
+        "SB"
+      ],
+      "date_type": "published",
+      "title": "Aplikasi Pupuk Anorganik dan Organonitrofospada Tebu (Saccharum officinarum L.) di Lahan Kering Gedong Meneng",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Zulkarnain",
+            "lineage": null,
+            "given": "Eldineri"
+          },
+          "id": "eldi769@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Rusdi",
+            "family": "Evizal",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rusdi.evizal@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Jamalam",
+            "honourific": null,
+            "family": "Lumbanraja",
+            "lineage": null
+          },
+          "id": "jamalam.lumbanraja@fp.unila.ac.id"
+        },
+        {
+          "id": "vatrin66@yahoo.com",
+          "name": {
+            "given": "M V",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rini"
+          }
+        }
+      ],
+      "lastmod": "2017-05-29 04:42:51",
+      "metadata_visibility": "show",
+      "ispublished": "pub",
+      "issn": "1410-5020",
+      "full_text_status": "public",
+      "publisher": "Politeknik Negeri Lampung",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.polinela.ac.id\/index.php\/JPPT\/issue\/view\/3",
+          "type": "pub"
+        }
+      ],
+      "date": "2017-01",
+      "projects": [
+        "Unila"
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Organonitrofos is one type of organic fertilizer capable of providing macro nutrients that more than other organic fertilizers, particularly nitrogen and phosphorous from the compost of a mixture of fresh manure and rock phosphate using Microbial N2-fixer and P-solubilizer. Research purpose was to study the effect of organonitrophos combined with inorganic fertilizer on the growth, production, yield of sugarcane, and determining the most effective combination of agronomically and economically in up landsugarcane. Research consisted of 5 treatments with 3 replications arranged in a randomized complete block design. The treatment were A (300 kg ha-1 Urea, 150 kg ha-1 TSP, 300 kg ha-1 KCl), B (300 kg ha-1 Urea, 150 kg ha-1 TSP, 300 kg ha-1 KCl, 5,000 kg ha-1 Organonitrophos), C (150 kg ha-1 Urea, 75 kg ha-1 TSP, 150 kg ha-1 KCl, 10,000 kg ha-1 Organonitrophos), D (10,000 kg ha-1 Organonitrophos), and E (without fertilization). The results showed that the dose of fertilizer recommendation (300 kg ha-1 urea, 150 kg ha-1 TSP, 300 kg ha-1 KCl) supplemented with 5 ton ha-1 Organonitrofos compared to the doses of fertilizer recommendation (300 kg ha-1 Urea, 150 TSP kg ha-1, 300 kg ha-1 KCl) was not significantly different on growth, yield, productivity of sugarcane and sugar. While the addition of 10 ton ha-1 Organonitrofos at half dose of recommendation (150 kg ha-1 urea, 75 kg ha-1 TSP, and 150 kg ha-1 KCl) produced 106.11 tons ha-1of sugarcane and 7, 95 ton ha-1sugar being lower than the dose of fertilizer recommendation that produced 133.02 tons ha-1sugarcane and 10.72 ton ha-1 sugar resulting macro nutrients derived from half dose of fertilizer recommendation are not able to increase the productivity of sugarcane and sugar.Dose of fertilizer recommendation plus 5 ton ha-1 Organonitrofos was an effective dose of fertilizer agronomically while fertilizer dosage recommendation was the most efficient dose of fertilizer economically. \r\n\r\nKeywords :dry land, fertilizer, inorganic, Organonitrophos, sugar cane",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 1588,
+            "main": "262-689-1-PB.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-28 00:13:29",
+                  "filesize": 336584,
+                  "objectid": 1588,
+                  "filename": "262-689-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/11897",
+                  "fileid": 11897,
+                  "datasetid": "document",
+                  "hash": "232283b4276f89bab81a47b69621cba6",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 1723,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1588"
+          }
+      ],
+      "official_url": "http:\/\/jurnal.polinela.ac.id\/index.php\/JPPT",
+      "number": 1,
+      "userid": 978,
+      "pagerange": "77-84",
+      "eprint_status": "archive",
+      "eprintid": 1723,
+      "id_number": "262-689-1-PB",
+      "datestamp": "2017-05-29 04:42:47"
+    }
+]
+

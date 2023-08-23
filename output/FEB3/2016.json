@@ -1,0 +1,118 @@
+[
+    {
+      "eprintid": 4739,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-07 08:06:44",
+      "number": 1,
+      "userid": 1084,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "format": "text",
+            "files": [
+                {
+                  "filename": "PERILAKU PENIPUAN DIRI DI BURSA SAHAM.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46289",
+                  "objectid": 17656,
+                  "filesize": 14724,
+                  "mtime": "2017-11-06 08:19:12",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "0085a7726fd437513e40520b6529534c",
+                  "fileid": 46289,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "PERILAKU PENIPUAN DIRI DI BURSA SAHAM.docx",
+            "docid": 17656,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17656",
+            "pos": 1,
+            "eprintid": 4739,
+            "placement": 1
+          },
+          {
+            "format": "image",
+            "main": "cover.jpg",
+            "docid": 17657,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-06 08:19:31",
+                  "objectid": 17657,
+                  "filesize": 4092906,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46292",
+                  "filename": "cover.jpg",
+                  "fileid": 46292,
+                  "datasetid": "document",
+                  "hash": "33b022fe78b6d861c0eb26a4399d9ec6",
+                  "mime_type": "image\/jpeg"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "image\/jpeg",
+            "eprintid": 4739,
+            "placement": 2,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17657",
+            "pos": 2
+          }
+      ],
+      "pages": 0,
+      "official_url": "http:\/\/www.mediaakademi.com",
+      "isbn": "978-602-18166-1-5",
+      "refereed": "TRUE",
+      "place_of_pub": "Bandar Lampung",
+      "series": "Edisi Pertama",
+      "corp_creators": [
+        "expert"
+      ],
+      "abstract": "Ilmu keuangan keperilakuan (behavior finance) merupakan cabang ilmu keuangan yang mempelajari perilaku investor tidak rasional di bursa saham. Salah satu bahasan dalam behavior finance adalah perilaku overconfident. Perilaku overconfident mencerminkan perilaku penipuan diri (self deception) karena investor overconfident biasanya memberi penilaian yang berlebih pada ketepatan pengetahuan dan  informasi yang dimiliki dan mengabaikan informasi lain yang tersedia sehingga \tmenimbulkan persepsi bahwa investor memiliki kemampuan diatas rata-rata. Fakta menunjukkan bahwa perilaku overconfident menghasilkan keputusan yang bias dan tidak akurat. Keputusan yang tidak akurat menyebabkan kerugian karena saham dibeli lebih tinggi atau  saham dijual lebih rendah dari harga fundamentalnya.",
+      "date": "2016-11",
+      "publisher": "expert",
+      "related_url": [
+        {
+          "url": "http:\/\/www.mediaakademi.com",
+          "type": "pub"
+        }
+      ],
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "metadata_visibility": "show",
+      "lastmod": "2017-11-07 08:06:44",
+      "creators": [
+        {
+          "id": "mahapaksi@yahoo.com",
+          "name": {
+            "given": "Mahatma",
+            "family": "Kufepaksi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "book",
+      "title": "PERILAKU PENIPUAN DIRI DI BURSA SAHAM",
+      "contact_email": "mahapaksi@yahoo.com",
+      "subjects": [
+        "H1",
+        "HB",
+        "HC",
+        "HJ"
+      ],
+      "date_type": "published",
+      "volume": "25 cm",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4739",
+      "divisions": [
+        "FEB3",
+        "FEB6"
+      ],
+      "dir": "disk0\/00\/00\/47\/39",
+      "status_changed": "2017-11-07 08:06:44",
+      "rev_number": 16
+    }
+]
+

@@ -1,0 +1,71 @@
+[
+    {
+      "divisions": [
+        "FKIP21"
+      ],
+      "publisher": "KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA",
+      "dir": "disk0\/00\/02\/43\/74",
+      "rev_number": 9,
+      "ispublished": "unpub",
+      "status_changed": "2020-10-26 08:33:55",
+      "full_text_status": "public",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "date": "1991-02-18",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24374",
+      "corp_creators": [
+        "Faculty of Teacher Training and Education, University of Lampung"
+      ],
+      "title": "Karakterisasi Pengubahan Bentonit Kalsium Menjadi Bentonit\r\nNatrium Asal Kabupaten Lampung Selatan Provinsi Lampung",
+      "creators": [
+        {
+          "name": {
+            "given": "RBR",
+            "lineage": null,
+            "family": "Ratu Betta Rudibyani",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "eprintid": 24374,
+      "eprint_status": "archive",
+      "datestamp": "2020-10-26 08:33:55",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2020-10-26 08:08:27",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221743",
+                  "filename": "sertifikat_EC00201988289.pdf",
+                  "filesize": 769652,
+                  "objectid": 38101,
+                  "mime_type": "application\/pdf",
+                  "hash": "0f37f95f688604c6c8461edff61371c4",
+                  "datasetid": "document",
+                  "fileid": 221743
+                }
+            ],
+            "main": "sertifikat_EC00201988289.pdf",
+            "docid": 38101,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38101",
+            "pos": 1,
+            "eprintid": 24374,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2020-10-26 08:33:55",
+      "userid": 705
+    }
+]
+

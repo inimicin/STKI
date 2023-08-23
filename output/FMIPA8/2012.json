@@ -1,0 +1,91 @@
+[
+    {
+      "event_title": "The First International Conference on Engineering and Technology Development",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "abstract": "Nowadays, the computer technonolgy is growing so fast and and affect yhe human's life. With computer peoplecan do something easier, faster,more efficient and so on. At SMAN 9 Bandarlampung, the time schedule is still done manually.On person is in charge of making and doing time schedule so that all classrooms, times, and days are supposed to be suitable and fixed for all teachers.The system developed is running well and will be discussed in the paper.\r\n\r\nKey words : edge coloring, time scheduling, computer technology.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/700",
+      "date": 2012,
+      "divisions": [
+        "FMIPA8"
+      ],
+      "dir": "disk0\/00\/00\/07\/00",
+      "event_type": "conference",
+      "status_changed": "2016-10-03 01:22:45",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 700,
+      "datestamp": "2016-10-03 01:22:45",
+      "pagerange": "41-45",
+      "metadata_visibility": "show",
+      "userid": 791,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "The Use of Ede Coloring Concept for Solving The Time Schedule.....pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-30 08:33:00",
+                  "objectid": 595,
+                  "filesize": 893009,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3939",
+                  "filename": "The Use of Ede Coloring Concept for Solving The Time Schedule.....pdf",
+                  "datasetid": "document",
+                  "fileid": 3939,
+                  "hash": "d82fda04015941bfb964463bb37aa38b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 595,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/595",
+            "pos": 1,
+            "eprintid": 700,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2016-10-03 01:22:45",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Rahman Indra",
+            "family": "Kesuma",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Wamiliana",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Yusman",
+            "honourific": null,
+            "given": "Machudor"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "The se of Edge Coloring Concept for Solving The Time Schedule Problem at Senior High School"
+    }
+]
+

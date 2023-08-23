@@ -1,0 +1,143 @@
+[
+    {
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 1187,
+      "lastmod": "2023-03-06 01:56:02",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-04 09:18:46",
+                  "filesize": 1261969,
+                  "objectid": 188104,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530945",
+                  "filename": "Kapolda Baru, Ragam Tantangan (Haluan, 27_3_2014).pdf",
+                  "fileid": 530945,
+                  "datasetid": "document",
+                  "hash": "72d696287b5de82e64d19a944682a6ef",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Kapolda Baru, Ragam Tantangan (Haluan, 27_3_2014).pdf",
+            "docid": 188104,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188104",
+            "eprintid": 48727,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2023-03-06 01:56:02",
+      "eprint_status": "archive",
+      "eprintid": 48727,
+      "metadata_visibility": "show",
+      "place_of_pub": "Padang",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "family": "Sulistyo",
+            "lineage": null,
+            "honourific": null,
+            "given": "Iwan"
+          },
+          "id": "iwsulistyo@gmail.com"
+        }
+      ],
+      "title": "Kapolda Baru, Ragam Tantangan",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48727",
+      "date": "2014-03-27",
+      "subjects": [
+        "JZ"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-03-06 01:56:02",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "dir": "disk0_bak\/00\/04\/87\/27",
+      "publisher": "Harian Umum Haluan",
+      "divisions": [
+        "FISIP8"
+      ]
+    },
+    {
+      "publisher": "Harian Umum Haluan",
+      "dir": "disk0_bak\/00\/04\/87\/26",
+      "divisions": [
+        "FISIP8"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-03-06 01:55:55",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "subjects": [
+        "JZ"
+      ],
+      "date": "2014-03-18",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48726",
+      "creators": [
+        {
+          "name": {
+            "given": "Iwan",
+            "lineage": null,
+            "family": "Sulistyo",
+            "honourific": null
+          },
+          "id": "iwsulistyo@gmail.com"
+        }
+      ],
+      "type": "other",
+      "title": "Menghindari Plagiarisme",
+      "place_of_pub": "Padang",
+      "datestamp": "2023-03-06 01:55:55",
+      "eprintid": 48726,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 1187,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "lastmod": "2023-03-06 01:55:55",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188103",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48726,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Menghindari Plagiarisme (Harian Haluan, 18 Maret 2014)..pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-04 09:16:11",
+                  "filesize": 540624,
+                  "objectid": 188103,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530938",
+                  "filename": "Menghindari Plagiarisme (Harian Haluan, 18 Maret 2014)..pdf",
+                  "datasetid": "document",
+                  "fileid": 530938,
+                  "mime_type": "application\/pdf",
+                  "hash": "7826ba02ed692ce28184aea99e3f147e"
+                }
+            ],
+            "docid": 188103,
+            "format": "text"
+          }
+      ]
+    }
+]
+

@@ -1,0 +1,560 @@
+[
+    {
+      "number": 1,
+      "userid": 2784,
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 533155,
+                  "hash": "9f0bbccf271a84dc5391a6aeee3dc30a",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-19 14:04:41",
+                  "objectid": 188471,
+                  "filesize": 671365,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/533155",
+                  "filename": "4685-16116-1-PB.pdf"
+                }
+            ],
+            "main": "4685-16116-1-PB.pdf",
+            "docid": 188471,
+            "format": "text",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 49018,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188471",
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/edukatif.org\/index.php\/edukatif\/article\/view\/4685\/pdf",
+      "lastmod": "2023-03-20 02:03:18",
+      "eprint_status": "archive",
+      "eprintid": 49018,
+      "datestamp": "2023-03-20 02:03:18",
+      "pagerange": "435-446",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "suparman.arif@fkip.unila.ac.id",
+          "name": {
+            "given": "SUPARMAN",
+            "honourific": null,
+            "family": "ARIF",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rachmedita",
+            "honourific": null,
+            "given": "Valensy"
+          },
+          "id": "valensy.rachmedita02@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Pratama",
+            "honourific": null,
+            "given": "Rinaldo Adi"
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Media Pembelajaran Digital sebagai Sumber Belajar Mahasiswa Pendidikan Sejarah",
+      "volume": 5,
+      "abstract": "Kegiatan pembelajaran siswa SMA dan SMK mutlak perlu memanfaatkan penggunaan media pembelajaran sejarah digital. Tujuan dari penelitian ini adalah untuk mengetahui manfaat dari pelibatan media pembelajaran berbasis digital sebagai sarana pembelajaran bagi mahasiswa pelatihan sejarah. Dalam kegiatan pembelajaran, pendidik khususnya guru atau dosen dapat menggunakan media pembelajaran untuk memudahkan siswa dalam memahami konten yang disajikan. Pembelajaran sejarah melalui materi pembelajaran sejarah pada akhirnya dapat meningkatkan pemahaman siswa terhadap materi pelajaran yang dipelajarinya.Temuan penelitian menunjukkan bahwa siswa dalam pendidikan sejarah memanfaatkan media pembelajaran sejarah digital dengan baik sebagai sumber belajar. Menurut tanggapan angket siswa 57,1 % sangat setuju dan 34,7% setuju. Artinya, mayoritas siswa berpendapat bahwa media pembelajaran sejarah berbasis digital merupakan sumber belajar yang dapat dimanfaatkan untuk mencapai tujuan pembelajaran yang dimaksud.",
+      "date": "2023-02-28",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49018",
+      "subjects": [
+        "LA"
+      ],
+      "date_type": "published",
+      "status_changed": "2023-03-20 02:03:18",
+      "issn": 26568071,
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publication": "EDUKATIF : JURNAL ILMU PENDIDIKAN",
+      "publisher": "Universitas Pahlawan Tuanku Tambusai",
+      "divisions": [
+        "FKIP24"
+      ],
+      "dir": "disk0_bak\/00\/04\/90\/18"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Educational Problems on Legundi Island in Pesawaran Regency, Lampung",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Myristica",
+            "given": "Imanita"
+          },
+          "id": "myristica.imanita@fkip.unila.ac.id"
+        },
+        {
+          "id": "syaiful.m@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Syaiful M",
+            "lineage": null,
+            "given": "Syaiful"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "125986415.pdf",
+            "files": [
+                {
+                  "filename": "125986415.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/549292",
+                  "filesize": 285893,
+                  "objectid": 190802,
+                  "mtime": "2023-05-05 02:02:52",
+                  "hash_type": "MD5",
+                  "hash": "94ef64e3b0006aca88a088b5cfb733e2",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 549292
+                }
+            ],
+            "docid": 190802,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190802",
+            "eprintid": 51085,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/ulicoss-22\/125986415",
+      "lastmod": "2023-05-05 03:21:22",
+      "userid": 8576,
+      "pagerange": "980-989",
+      "metadata_visibility": "show",
+      "eprintid": 51085,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-05 03:21:22",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2023-05-05 03:21:22",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FKIP24"
+      ],
+      "dir": "disk0_bak\/00\/05\/10\/85",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51085",
+      "date": "2023-05-02",
+      "abstract": "Educatinal Problems on Legundi Island in Pesawaran Regency, Lam- pung. Education in a nation is a milestone for the progress or sustainability of a nation. With education, it is hoped that it can give birth to the next generation of the nation with intelligent and quality individuals, which means a generation that is able to take advantage of existing progress as well as possible. The world of edu- cation is inseparable from a problem in terms of the teaching staff to the facilities and infrastructure used. One example is education in Pulau Legundi Village which has several problems. This researcher uses qualitative methods by choosing data collection techniques in the form of interviews and literature studies. This study discusses the problems of education on Legundi Island. Legundi Island is located in Pesawaran Regency, Lampung Province. The potential of natural resources in Pulau Legundi Village is one of the mainstays in Pesawaran and can be a source of pride for the community if the natural beauty is well known to the wider com- munity. The results of the research show that in Pulau Legundi Village itself there are still many problems that occur in the world of education, especially the low teacher resources, quality and professionalism of teachers. Inadequate facilities and infrastructure to support learning, as well as economic conditions that prevent children from continuing their higher education",
+      "subjects": [
+        "L1"
+      ],
+      "event_title": "Proceedings of the 3rd Universitas Lampung International Conference on Social Sciences (ULICoSS 2022)",
+      "date_type": "published"
+    },
+    {
+      "title": "ducational Problems on Legundi Island in Pesawaran Regency, Lampung",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "myristica.imanita@fkip.unila.ac.id",
+          "name": {
+            "given": "Imanita",
+            "lineage": null,
+            "family": "Myristica",
+            "honourific": null
+          }
+        },
+        {
+          "id": "syaiful.m@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Syaiful M",
+            "honourific": null,
+            "given": "Syaiful"
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/ulicoss-22\/125986415",
+      "lastmod": "2023-05-05 03:21:41",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "125986415.pdf",
+            "files": [
+                {
+                  "filename": "125986415.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/549274",
+                  "objectid": 190801,
+                  "filesize": 285893,
+                  "mtime": "2023-05-05 01:50:28",
+                  "hash_type": "MD5",
+                  "hash": "94ef64e3b0006aca88a088b5cfb733e2",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 549274
+                }
+            ],
+            "docid": 190801,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190801",
+            "eprintid": 51084,
+            "placement": 1
+          }
+      ],
+      "userid": 8576,
+      "metadata_visibility": "show",
+      "pagerange": "980-989",
+      "datestamp": "2023-05-05 03:21:41",
+      "eprintid": 51084,
+      "eprint_status": "archive",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2023-05-05 03:21:41",
+      "event_type": "conference",
+      "divisions": [
+        "FKIP24"
+      ],
+      "dir": "disk0_bak\/00\/05\/10\/84",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51084",
+      "date": "2023-05-02",
+      "abstract": "Educatinal Problems on Legundi Island in Pesawaran Regency, Lam- pung. Education in a nation is a milestone for the progress or sustainability of a nation. With education, it is hoped that it can give birth to the next generation of the nation with intelligent and quality individuals, which means a generation that is able to take advantage of existing progress as well as possible. The world of edu- cation is inseparable from a problem in terms of the teaching staff to the facilities and infrastructure used. One example is education in Pulau Legundi Village which has several problems. This researcher uses qualitative methods by choosing data collection techniques in the form of interviews and literature studies. This study discusses the problems of education on Legundi Island. Legundi Island is located in Pesawaran Regency, Lampung Province. The potential of natural resources in Pulau Legundi Village is one of the mainstays in Pesawaran and can be a source of pride for the community if the natural beauty is well known to the wider com- munity. The results of the research show that in Pulau Legundi Village itself there are still many problems that occur in the world of education, especially the low teacher resources, quality and professionalism of teachers. Inadequate facilities and infrastructure to support learning, as well as economic conditions that prevent children from continuing their higher education.",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "event_title": "Proceedings of the 3rd Universitas Lampung International Conference on Social Sciences (ULICoSS 2022)"
+    },
+    {
+      "subjects": [
+        "D1"
+      ],
+      "date_type": "published",
+      "volume": 23,
+      "abstract": "Indische culture is a culture that results from a combination of European (Dutch) culture and local (Javanese) culture. Starting from the arrival of the Dutch to Indonesia which resulted in a cultural contact. Caused by this cultural contact, then  led  to  acculturation  between  Dutch  culture  and  local  culture  resulting  in  a  new  culture  called  Indische  culture.  This article was written with the aim of finding out about how Indische culture can enter and develop in Indonesia. The method  used  is  literature  study,  namely  by  collecting  historical  sources  and  data  consisting  of  archives,  documents,  books, journals, newspapers and magazines.",
+      "date": "2023-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51449",
+      "divisions": [
+        "FKIP24"
+      ],
+      "publisher": "Universitas Udayana",
+      "publication": "PUSTAKAJURNAL ILMU-ILMU BUDAYA",
+      "dir": "disk0_bak\/00\/05\/14\/49",
+      "status_changed": "2023-05-12 01:08:18",
+      "issn": "2528-7516",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "eprintid": 51449,
+      "id_number": "https:\/\/doi.org\/10.24843\/PJIIB.2023.v23.i01.p07",
+      "eprint_status": "archive",
+      "datestamp": "2023-05-12 01:08:18",
+      "pagerange": "35-41",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 2784,
+      "documents": [
+          {
+            "content": "published",
+            "language": "en",
+            "rev_number": 3,
+            "mime_type": "text\/html",
+            "format": "text",
+            "docid": 248660,
+            "main": 49329,
+            "files": [
+                {
+                  "hash": "c3f4dc12aa8f79fb2772cb31f43df866",
+                  "mime_type": "text\/html",
+                  "datasetid": "document",
+                  "fileid": 609540,
+                  "filename": 49329,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/609540",
+                  "objectid": 248660,
+                  "filesize": 3541,
+                  "mtime": "2023-05-11 16:36:17",
+                  "hash_type": "MD5"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248660",
+            "eprintid": 51449,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-05-12 01:08:18",
+      "official_url": "https:\/\/ojs.unud.ac.id\/index.php\/pustaka\/article\/view\/94292",
+      "type": "article",
+      "creators": [
+        {
+          "id": "wahyuagil63@gmail.com",
+          "name": {
+            "given": "Wahyu Agil",
+            "honourific": null,
+            "lineage": null,
+            "family": "Permana"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Putri",
+            "given": "Andiri Shira"
+          },
+          "id": "andinishiraaaa@gmail.com"
+        },
+        {
+          "id": "rinaldo@fkip.unila.ac.id",
+          "name": {
+            "given": "Rinaldo Adi",
+            "family": "Pratama",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Kebudayaan Indis: Hasil Akulturasi Budaya antara Jawa dengan Kolonial Belanda"
+    },
+    {
+      "publisher": "History Department, Faculty of Social Sciences, Universitas Negeri Semarang",
+      "publication": "Paramita: Historical Studies Journal",
+      "divisions": [
+        "FKIP24"
+      ],
+      "dir": "disk0_bak\/00\/05\/05\/93",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2023-04-17 00:46:51",
+      "full_text_status": "public",
+      "issn": "2407-5825",
+      "subjects": [
+        "D1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50593",
+      "date": "2023-04",
+      "volume": 33,
+      "abstract": "During the independence war of Indonesia, particularly, Kraai Operation or in the military base, also known as the Dutch Military Aggression II in the Lampung Residency, made many contributions to maintaining state sovereignty. e revolution in the Lampung region was part of the Sumatra Province, namely the Lampung Residency. is study aimed to find out the impact of the Kraai Operation. e research used historical research methods. We conducted the research in three regions once the Lampung Residency’s emergency capital focused on politics, the military, and economics. During the Kraai Operation period or Dutch Military Aggression II 1949-1950, Lampung Residency led by Gele Harun Nasution issued political, military, and economic policies to counteract the Kraai Operation. He moved the Government and Defense, formed the North Front, Central Front, and Southern Front, and coordinated the camps in the Lampung Residency. Moreover, he printed emergency money for the Residency of Lampung to prevent the spread of the Dutch currency, which affected inflation.",
+      "refereed": "TRUE",
+      "title": "Emergency Government of Lampung Residency during Kraai Operation, 1949- 1950",
+      "type": "article",
+      "creators": [
+        {
+          "id": "rinaldo@fkip.unila.ac.id",
+          "name": {
+            "given": "Rinaldo Adi",
+            "lineage": null,
+            "family": "Pratama",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Maskun",
+            "honourific": null,
+            "lineage": null,
+            "family": "Maskun"
+          },
+          "id": "maskun.1959@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "ARIF",
+            "lineage": null,
+            "honourific": null,
+            "given": "SUPARMAN"
+          },
+          "id": "suparman.arif@fkip.unila.ac.id"
+        }
+      ],
+      "pagerange": "106-117",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.15294\/paramita.v33i1.31858",
+      "eprint_status": "archive",
+      "eprintid": 50593,
+      "datestamp": "2023-04-17 00:46:51",
+      "documents": [
+          {
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "31858-112552-1-PB (1).pdf",
+            "docid": 190297,
+            "files": [
+                {
+                  "filesize": 2843541,
+                  "objectid": 190297,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545488",
+                  "filename": "31858-112552-1-PB (1).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-16 22:20:09",
+                  "datasetid": "document",
+                  "fileid": 545488,
+                  "hash": "0d1518a2d8dd38f31beb1ce67a5a8935",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190297",
+            "pos": 1,
+            "eprintid": 50593,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-04-17 00:46:51",
+      "official_url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/paramita\/article\/view\/31858",
+      "number": 1,
+      "userid": 2784
+    },
+    {
+      "volume": 11,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48658",
+      "date_type": "published",
+      "subjects": [
+        "LA"
+      ],
+      "status_changed": "2023-03-01 02:00:17",
+      "rev_number": 8,
+      "dir": "disk0_bak\/00\/04\/86\/58",
+      "publication": "Modul Pembelajaran Sejarah Tokoh Perjuangan Lampung Berbasis E- Learning Sebagai Upaya Penanaman Pendidikan Karakter",
+      "divisions": [
+        "FKIP24"
+      ],
+      "lastmod": "2023-03-01 02:00:17",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "id": "sumargono.1988@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sumargono",
+            "honourific": null,
+            "given": "Sumargono"
+          }
+        }
+      ],
+      "title": "Modul Pembelajaran Sejarah Tokoh Perjuangan Lampung Berbasis E- Learning Sebagai Upaya Penanaman Pendidikan Karakter",
+      "abstract": "Pembelajaran  sejarah  dalam  penanaman  karakter  dapat  dilihat dari     tokoh-tokoh     perjuangan     daerah     yang     memberikan keteladanan   dalam   nilai-nilai   positif   yang   tepat.   Penanaman karakter  tersebut dengan  peserta  didik  dapat  memberikan  arti pentingnya  nilai  persatuan  dan  kesatuan.  Tujuan  penelitian  ini adalah  memberikan  solusi  inovatif  berupa  e-modul  pembelajaran sejarah  tokoh  perjuangan  Lampung  yang  memuat  sejarah  lokal berbasis  pendidikan  karater. Penelitian  ini  menggunakan  metode penelitian dan pengembangan (R&D) yang diadaptasi dari model penelitian pengembangan ADDIE (Analysis, Design, Development,  Implementation,  dan  Evuluation).  Hasil  penelitian dari  validasi  ahli  materi  mendapatkan  persentase nilai  95.38% dalam  kategori  sangat  valid.    Validasi  ahli  media  mendapat prosentase  nilai  93.33%  termasuk  dalam  kategori  sangat  valid. Praktisi  pendidikan  guru  sejarah  mendapatkan  persentase  nilai 93.75%  termasuk  dalam  kategori  sangat  valid.  Respon  siswa terhadap media ini pada saat dilakukan uji coba medapatkan nilai rata-rata   presentase   >70%   setiap   indikatornya   yang   berarti menunjukkan   respon   positif.   Berdasarkan   eksperimen   yang dilakukan kepada  dua  kelas yang berbeda  menghasilkan rata-rata pada kelas eksperimen 85,71 dan kelas kontrol 78,75 yang berarti media  yang  dikembangkan  efektif  pada  pembelajaran  sejarah. Secara  keseluruhan  menyatakan  bahwa  solusi  inovatif  berupa  e-modul  pembelajaran  sejarah  tokoh  perjuangan  Lampung  yang memuat  sejarah  lokal  berbasispendidikan  karater  pada  peserta didik  layak  untuk  digunakan  dan  mendapat  respon  positif  dari siswa.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": "2023-01-10",
+      "full_text_status": "public",
+      "issn": "2527-4295",
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/journal.ipts.ac.id\/index.php\/ED\/article\/view\/4289\/2777"
+        }
+      ],
+      "publisher": "Jurnal Education and Development",
+      "contributors": [
+        {
+          "name": {
+            "given": "Sumargono",
+            "family": "sumargono",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        }
+      ],
+      "userid": 1246,
+      "number": 1,
+      "official_url": "https:\/\/journal.ipts.ac.id\/index.php\/ED\/article\/view\/4289\/2777",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 188008,
+            "main": "2 rn d.pdf",
+            "files": [
+                {
+                  "filename": "2 rn d.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530381",
+                  "objectid": 188008,
+                  "filesize": 358529,
+                  "mtime": "2023-02-28 20:40:53",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "33eb839b6b269663043914a0028bfdab",
+                  "datasetid": "document",
+                  "fileid": 530381
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 48658,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188008",
+            "pos": 1
+          },
+          {
+            "eprintid": 48658,
+            "placement": 2,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188009",
+            "pos": 2,
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2023-02-28 20:41:29",
+                  "hash_type": "MD5",
+                  "filename": 2777,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530384",
+                  "filesize": 3638,
+                  "objectid": 188009,
+                  "hash": "048283d41d4982043488c17d3b52d844",
+                  "mime_type": "text\/html",
+                  "datasetid": "document",
+                  "fileid": 530384
+                }
+            ],
+            "main": 2777,
+            "docid": 188009,
+            "language": "en",
+            "mime_type": "text\/html",
+            "rev_number": 2
+          }
+      ],
+      "datestamp": "2023-03-01 02:00:17",
+      "eprint_status": "archive",
+      "eprintid": 48658,
+      "pagerange": "143-149",
+      "refereed": "TRUE"
+    }
+]
+

@@ -1,0 +1,149 @@
+[
+    {
+      "number": 2,
+      "userid": 464,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 3614,
+            "main": "1. 012006_NAS.pdf",
+            "files": [
+                {
+                  "objectid": 3614,
+                  "filesize": 1371564,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26356",
+                  "filename": "1. 012006_NAS.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-03 05:50:16",
+                  "datasetid": "document",
+                  "fileid": 26356,
+                  "hash": "34791ea78833eb6e0366ba09894a0a6a",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3614",
+            "eprintid": 3757,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2017-08-14 04:00:11",
+      "eprintid": 3757,
+      "eprint_status": "archive",
+      "datestamp": "2017-08-14 04:00:11",
+      "pagerange": "97-101",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "Sukmana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Irza"
+          },
+          "id": "irza.sukmana@gmail.com"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Emerging Trend in the Application of Magnesium Alloys : From Mechanical to Bio – Engineering",
+      "volume": 9,
+      "corp_creators": [
+        "Jurusan Teknik Mesin Unila"
+      ],
+      "abstract": "Magnesium alloys as a new light-weight structural metals.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3757",
+      "date": "2006-12",
+      "subjects": [
+        "TJ"
+      ],
+      "status_changed": "2017-08-14 04:00:11",
+      "full_text_status": "public",
+      "issn": "1410 - 8577",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "Pusat Penelitian dan Pengabdian Masyarakat Sekolah Tinggi Teknologi Jakarta",
+      "divisions": [
+        "FT14"
+      ],
+      "publication": "Jurnal Teknologi",
+      "dir": "disk0\/00\/00\/37\/57"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Irza",
+            "honourific": null,
+            "family": "Sukmana",
+            "lineage": null
+          },
+          "id": "irza.sukmana@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "potentiality and drawback on the application of magnesium and its alloy in automobile industry",
+      "eprint_status": "archive",
+      "eprintid": 3759,
+      "datestamp": "2017-08-14 04:00:32",
+      "pagerange": "45-52",
+      "metadata_visibility": "show",
+      "number": 8,
+      "userid": 464,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3616",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3759,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 3616,
+            "main": "2. 022006_NAS.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-03 06:02:15",
+                  "filesize": 1642750,
+                  "objectid": 3616,
+                  "filename": "2. 022006_NAS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26368",
+                  "datasetid": "document",
+                  "fileid": 26368,
+                  "mime_type": "application\/pdf",
+                  "hash": "65311a353a36f2af77ea999425ed9a0f"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2017-08-14 04:00:32",
+      "publication": "Jurnal Kajian Teknologi",
+      "publisher": "Fakultas Teknik, Universitas Tarumanegara, Jakarta",
+      "divisions": [
+        "FT14"
+      ],
+      "dir": "disk0\/00\/00\/37\/59",
+      "status_changed": "2017-08-14 04:00:32",
+      "full_text_status": "public",
+      "issn": "1411 - 2698",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "volume": 1,
+      "abstract": "penemuan material baru memegang peran kunci di dalam pengembangan teknologi di masa yang akan datang, saat ini, paduan magnesium merupakan material baru.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3759",
+      "date": "2006-05"
+    }
+]
+

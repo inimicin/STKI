@@ -1,0 +1,524 @@
+[
+    {
+      "subjects": [
+        "PR"
+      ],
+      "date_type": "published",
+      "abstract": "Abstrak—Banyak guru bahasa Prancis yang belum bisa mengucapkan bahasa prancis dengan benar sesuai dengan aksen dan peraturanya. Tujuan yang ingin dicapai dalam kegiatan ini adalah memberikan pengetahuan atau wawasan kepada para guru tentang pengucapan baku \/ pelafalan standar alphabet Prancis ( vokal sengau, nasal ,semi vocal , konsonan, semi konsonan), fonetik internasional, kata- kata, kalimat dalam bahasa Prancis yang benar sesuai dengan aksen dan penekanannya(stress). Metode yang digunakan dalam pelatihan ini adalah metode ceramah, Tanya jawab, dan praktek, yaitu para guru menyimak penjelasan yang diberikan oleh nara sumber dengan seksama dan antusias dengan dibantu media power point yang ditampilkan melalui LCD beserta video pembelajaran pengucapan bahasa Prancis. Untuk skor rata- rata Post- Test dari hasil para guru adalah 81.8 dengan interpretasi nilai Baik. Perolehan skor rata – rata tersebut menunjukkan peningkatan 40.7 point dari skor sebelumnya 41.1 (kurang). Dari hasil tersebut menunjukkan bahwa ada peningkatan pengetahuan dan pemahaman para guru selama pelatihan berlangsung. Perolehan skor pada interpretasi nilai Baik Sekali sebesar 50% ( 5 orang), interpretasi nilai Baik sebesar 10% ( 1 orang), dan nilai Cukup  sebanyak  40% ( 4 orang). Hasil tersebut tentu saja belum maksimal dapat 100% bagus semua dan belum sesuai dengan yang diharapkan oleh nara sumber.\r\n\r\nKata Kunci—Pengucapan Baku, Bahasa Prancis, Guru SMA\/SMK",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12124",
+      "date": "2019-12-20",
+      "publication": "SEMINAR NASIONAL HASIL- HASIL PENGABDIAN KEPADA MASYARAKAT 2008\" BERKARYA DAN BERINOVASI UTUK BANGSA BERBASIS PEMBANGUNAN YANG BERKELANJUTAN",
+      "publisher": "LEMBAGA PENELITIAN DAN PENGABDIAN KEPADA MASYARAKAT UNIVERSITAS LAMPUNG",
+      "divisions": [
+        "FKIP7"
+      ],
+      "dir": "disk0\/00\/01\/21\/24",
+      "status_changed": "2019-05-09 02:32:15",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 12124,
+      "datestamp": "2019-05-09 02:32:15",
+      "pagerange": "118-124",
+      "metadata_visibility": "show",
+      "userid": 236,
+      "documents": [
+          {
+            "docid": 25114,
+            "main": "PENGABDIAN ENDANG.pdf",
+            "files": [
+                {
+                  "hash": "56816e6df3567295baac59b7b905a6f7",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 108490,
+                  "filename": "PENGABDIAN ENDANG.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/108490",
+                  "filesize": 1726371,
+                  "objectid": 25114,
+                  "mtime": "2019-05-09 02:11:56",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 12124,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25114",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2019-05-09 02:32:15",
+      "type": "article",
+      "creators": [
+        {
+          "id": "endangikhtiarti@yahoo.com",
+          "name": {
+            "family": "Ikhtiarti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Endang"
+          }
+        },
+        {
+          "id": "ndianarosita@gmail.com",
+          "name": {
+            "given": "Diana",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rosita"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rini",
+            "given": "Setia"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Pratiwi",
+            "given": "Dian"
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Pelatihan Pengucapan Bahasa Prancis Baku (Prononciation Du Francais Standard) Bagi Guru- Guru Bahasa Prancis SMA\/ SMK - Lampung\r\nTahun Ajaran 2018\/ 2019"
+    },
+    {
+      "divisions": [
+        "FKIP7"
+      ],
+      "publisher": "Badan Pengembangan dan Pembinaan Bahasa Kementerian Pendidikan dan Kebudayaan",
+      "dir": "disk0\/00\/03\/21\/53",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2021-06-07 08:50:13",
+      "book_title": "Prototype of Application Machine Translation Lampung Language Sentence of Api Dialect Dictionary Based Using Python Programming",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "date": "2019-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32153",
+      "abstract": "Prototype of apllication machine translation Lampung language sentence of Api dialect was build using python programming collaborated with Lampung language dictionary. Nowadays students in Lampung province still translating Lampung language into Indonesian language using manual dictionary. Another choice is translating Lampung language sentence into Indonesian language automatically and still using the dictionary, especially digital dictionary with translation ability. In this approach, sentence was parted into several parts according to spacing, the result is a word list that will be matched into the key in dictionary database. The result of matching is called value, a word in Indonesian\r\nlanguage, that will be arranged again into an Indonesian languege sentence. Lampung language need to be conserved. In context of conserving and avoid its extinction. This\r\nis very important because Lampung language is an identity for its region. Institution of education must help to conserve Lampung language. Academics have the potential to use computer-based tools as an effort to preserve the Lampung language digitally according to current technological developments. The main objective of this research is to build a prototype of Lampung Api dialect machine translator application. Prototype application\r\ncreated as an alternative solution plan in translating Lampung language while maintaining the use of the dictionary. In building this application the waterfall method approach is used with the main focus on the sentence translation algorithm. The application can translate Lampung sentences according to the vocabulary contained in the reference dictionary used. The next potential research that can be done is to translate sentences by paying attention to aspects of morphology, syntax, semantics in Lampung language.\r\n\r\nKeywords: prototype, dictionary, Lampung languege, python programming",
+      "title": "Prototype of Application Machine Translation Lampung Language Sentence of Api Dialect Dictionary Based Using Python Programming",
+      "refereed": "TRUE",
+      "isbn": "978-623-307-020-1",
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Jafar",
+            "honourific": null,
+            "given": "Fakhrurozi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Zainal",
+            "given": "Abidin"
+          },
+          "id": "zabin@teknokrat.ac.id"
+        },
+        {
+          "id": "farida.ariyani@fkip.unila.ac.id",
+          "name": {
+            "given": "Farida",
+            "honourific": null,
+            "lineage": null,
+            "family": "Farida Ariyani"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "97-110",
+      "datestamp": "2021-06-07 08:50:13",
+      "eprint_status": "archive",
+      "eprintid": 32153,
+      "lastmod": "2021-06-07 08:50:13",
+      "official_url": "https:\/\/www.academia.edu\/45121876\/Prosiding_SLI_2019",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145733",
+            "pos": 1,
+            "eprintid": 32153,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Prosiding_SLI_2019-halaman-1,106-119.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "6a4c5eaaf8c2f4c1239148a06909c362",
+                  "datasetid": "document",
+                  "fileid": 380463,
+                  "mtime": "2021-06-07 02:27:18",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/380463",
+                  "filename": "Prosiding_SLI_2019-halaman-1,106-119.pdf",
+                  "objectid": 145733,
+                  "filesize": 7495187
+                }
+            ],
+            "docid": 145733
+          }
+      ],
+      "userid": 500
+    },
+    {
+      "succeeds": 30431,
+      "status_changed": "2021-05-27 02:32:26",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FKIP7"
+      ],
+      "publisher": "Atlantis Press SARL",
+      "dir": "disk0\/00\/03\/07\/71",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30771",
+      "date": 2019,
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Soraya",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kety"
+          }
+        },
+        {
+          "name": {
+            "given": "Suparman",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ujang Suparman"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Elin",
+            "honourific": null,
+            "given": "Driana"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "The Influence of Vocabulary Mastery and Reflectivity on Students Writing Skill at Senior High School.",
+      "userid": 783,
+      "documents": [
+          {
+            "main": "The_Influence_of_Vocabulary_Mastery_and_Reflectivi.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-21 09:56:35",
+                  "objectid": 138812,
+                  "filesize": 1193559,
+                  "filename": "The_Influence_of_Vocabulary_Mastery_and_Reflectivi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364953",
+                  "datasetid": "document",
+                  "fileid": 364953,
+                  "mime_type": "application\/pdf",
+                  "hash": "83804cae2844cfd629a13469c831bf07"
+                }
+            ],
+            "docid": 138812,
+            "format": "text",
+            "rev_number": 3,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 30771,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138812",
+            "pos": 1,
+            "formatdesc": "Similarity",
+            "security": "public"
+          },
+          {
+            "placement": 7,
+            "eprintid": 30771,
+            "pos": 7,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138818",
+            "security": "public",
+            "formatdesc": "Artikel",
+            "docid": 138818,
+            "main": "9..pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "4a76d5fcd5f31e596eca4614682f8de6",
+                  "fileid": 364960,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364960",
+                  "filename": "9..pdf",
+                  "filesize": 345486,
+                  "objectid": 138818,
+                  "mtime": "2021-05-25 08:17:59",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138819",
+            "pos": 8,
+            "formatdesc": "Reviewer",
+            "security": "public",
+            "placement": 8,
+            "eprintid": 30771,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "main": "9.pdf",
+            "docid": 138819,
+            "files": [
+                {
+                  "mtime": "2021-05-25 08:18:17",
+                  "hash_type": "MD5",
+                  "filename": "9.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364962",
+                  "filesize": 1217154,
+                  "objectid": 138819,
+                  "hash": "2b0ac365cc331dcc6e1dc2af7fea0bdf",
+                  "mime_type": "application\/pdf",
+                  "fileid": 364962,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2021-05-27 02:32:26",
+      "eprintid": 30771,
+      "eprint_status": "archive",
+      "datestamp": "2021-05-27 02:32:26",
+      "metadata_visibility": "show"
+    },
+    {
+      "userid": 538,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "docid": 159653,
+            "main": "Jurn. Intern. Readability of Aksara.pdf",
+            "files": [
+                {
+                  "filesize": 1610318,
+                  "objectid": 159653,
+                  "filename": "Jurn. Intern. Readability of Aksara.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/436380",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-25 12:15:55",
+                  "datasetid": "document",
+                  "fileid": 436380,
+                  "hash": "88827257da891ec28affbb44085a12ab",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159653",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 38546
+          }
+      ],
+      "official_url": "https:\/\/www.iosrjournals.org\/iosr-jrme\/papers\/Vol-9%20Issue-6\/Series-4\/K0906045562.pdf",
+      "lastmod": "2022-01-28 01:12:09",
+      "eprint_status": "archive",
+      "eprintid": 38546,
+      "datestamp": "2022-01-28 01:12:09",
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Sumarti",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sumarti"
+          },
+          "id": "gragemarti@yahoo.co.id"
+        },
+        {
+          "id": "siti_samhati@yahoo.com",
+          "name": {
+            "family": "Siti Samhati",
+            "lineage": null,
+            "honourific": null,
+            "given": "Siti Samhati"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Ridwan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhammad"
+          }
+        }
+      ],
+      "title": "Readability of Aksaraand Budaya Lampung Text Book With Fry and Raygor Graph",
+      "abstract": "The aim of this research is to measure the readability level of Aksara and Budaya Lampung\r\ntextbooks. To measure readability, the author used two readability formulas, namely Fry graph and Raygor\r\ngraph. In this book, the authors took all the discourse to measure the level of readability. Using Fry graphs,\r\n72% of discourse was not appropriate. Whereas measurements with raygor charts showed that 57% did not\r\nmatch the level of the readers. This difference was caused by linguistic factors. Compared with the number of\r\nsentences, the vocabulary used was still too easy for this level",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38546",
+      "date": "2019-12-01",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "date_type": "published",
+      "status_changed": "2022-01-28 01:12:09",
+      "succeeds": 38336,
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/85\/46",
+      "publisher": "IOSR Journal of Research & Method in Education (IOSR-JRME)",
+      "divisions": [
+        "FKIP7"
+      ]
+    },
+    {
+      "status_changed": "2021-05-27 02:32:09",
+      "issn": "2620-3928, 1411-2051",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP7"
+      ],
+      "publisher": "Jurusan Pendidikan Bahasa dan Seni FKIP Universitas Lampung",
+      "publication": "AKSARA: Jurnal Bahasa dan Sastra",
+      "dir": "disk0\/00\/03\/07\/66",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/aksara\/article\/view\/19411\/14031"
+        }
+      ],
+      "volume": 20,
+      "abstract": "The objectives of this research are to analyze critically the quality of test items used in SMP and SMA (mid semester, final semester, and National Examination Practice) in terms of reliability as a whole, level of difficulty, discriminating power, the quality of answer keys and distractors. The methods used to analyze the test items are item analysis (ITEMAN), two types of descriptive statistics for analyzing test items and another for analyzing the options. The findings of the research are very far from what is believed, that is, the quality of majority of test items as well as key answers and distractors are unsatisfactory. Based the results of the analysis, conclusions are drawn and recommendations are put forward",
+      "date": "2019-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30766",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ujang Suparman",
+            "lineage": null,
+            "given": "Suparman"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Reflection of The Test-Item Quality in State SMP and SMA in Bandar Lampung.",
+      "number": 2,
+      "userid": 783,
+      "documents": [
+          {
+            "eprintid": 30766,
+            "placement": 1,
+            "security": "public",
+            "formatdesc": "Artikel",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138759",
+            "format": "text",
+            "docid": 138759,
+            "main": "6..pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364850",
+                  "filename": "6..pdf",
+                  "filesize": 357811,
+                  "objectid": 138759,
+                  "mtime": "2021-05-25 07:42:46",
+                  "hash_type": "MD5",
+                  "hash": "7853f7850ba457f3a717dc9321a8e58b",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 364850
+                }
+            ],
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "format": "text",
+            "docid": 138760,
+            "main": "6.pdf",
+            "files": [
+                {
+                  "fileid": 364852,
+                  "datasetid": "document",
+                  "hash": "207f564d76146a9c87a1452bff24003c",
+                  "mime_type": "application\/pdf",
+                  "objectid": 138760,
+                  "filesize": 1073036,
+                  "filename": "6.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364852",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-25 07:43:15"
+                }
+            ],
+            "security": "public",
+            "formatdesc": "Reviewer",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138760",
+            "pos": 2,
+            "eprintid": 30766,
+            "placement": 2
+          }
+      ],
+      "lastmod": "2021-05-27 02:32:09",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/aksara\/article\/view\/19411\/14031",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/aksara\/v20i2.pp72-87",
+      "eprint_status": "archive",
+      "eprintid": 30766,
+      "datestamp": "2021-05-27 02:32:09",
+      "pagerange": "72-78",
+      "metadata_visibility": "show"
+    }
+]
+

@@ -1,0 +1,2801 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28315",
+      "date": 2016,
+      "subjects": [
+        "TP"
+      ],
+      "status_changed": "2021-03-10 02:13:21",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "publisher": "FT Unila",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/02\/83\/15",
+      "userid": 390,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42359",
+            "eprintid": 28315,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 42359,
+            "main": "3 Pemenang Hibah Penelitian Kompetitif Kemristekdikti Tahun 2016 rev.pdf",
+            "files": [
+                {
+                  "objectid": 42359,
+                  "filesize": 338889,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251782",
+                  "filename": "3 Pemenang Hibah Penelitian Kompetitif Kemristekdikti Tahun 2016 rev.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-09 08:34:40",
+                  "fileid": 251782,
+                  "datasetid": "document",
+                  "hash": "4cbd0ea7470b792c5e6ea83f4a07d564",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2021-03-10 02:13:21",
+      "eprintid": 28315,
+      "eprint_status": "archive",
+      "datestamp": "2021-03-10 02:13:21",
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Agustian",
+            "lineage": null,
+            "given": "Joni"
+          }
+        }
+      ],
+      "title": "SK Penerima Hibah Kompetitif Kemristekdikti 2016"
+    },
+    {
+      "volume": 48,
+      "abstract": "A thorough study on free-enzyme transesterification kinetic resolution of racemic\r\natenolol in a batch system was investigated to gain knowledge for (S)-atenolol kinetics.\r\nAnalyses of enzyme kinetics using Sigma-Plot 11 Enzyme Kinetics Module on the process\r\nare based-on Michaelis–Menten and Lineweaver–Burk plot, which give first-order reaction\r\nand ordered-sequential Bi–Bi mechanism, where Vmax, KM-vinyl acetate, and KM-(S)-atenolol are\r\n0.80 mM\/h, 29.22 mM, and 25.42 mM, respectively. Further analyses on enzyme inhibitions find\r\nthat both substrates inhibit the process where (S)-atenolol and vinyl acetate develop competitive\r\ninhibition and mixed inhibition, respectively. Association of (S)-atenolol with free enzyme\r\nto inhibit the enzyme is higher than reaction of active enzyme–substrate complex with vinyl\r\nacetate.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/712",
+      "date": "2016-05",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "status_changed": "2016-10-04 01:12:36",
+      "full_text_status": "public",
+      "issn": "1097-4601",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "International Journal of Chemical Kinetics",
+      "publisher": "John Wiley and Sons",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/07\/12",
+      "related_url": [
+        {
+          "url": "http:\/\/onlinelibrary.wiley.com\/doi\/10.1002\/kin.20986\/full",
+          "type": "pub"
+        }
+      ],
+      "number": 5,
+      "userid": 390,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 4061,
+                  "mime_type": "application\/pdf",
+                  "hash": "b48b855467bd65ee7b9010d94f9be626",
+                  "objectid": 609,
+                  "filesize": 872552,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4061",
+                  "filename": "04 Jurnal Internasional IJOCK 2016.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-03 09:28:19"
+                }
+            ],
+            "main": "04 Jurnal Internasional IJOCK 2016.pdf",
+            "docid": 609,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/609",
+            "eprintid": 712,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2016-10-04 01:12:36",
+      "official_url": "http:\/\/onlinelibrary.wiley.com\/journal\/10.1002\/(ISSN)1097-4601",
+      "id_number": "10.1002\/kin.20986",
+      "eprint_status": "archive",
+      "eprintid": 712,
+      "datestamp": "2016-10-04 01:12:36",
+      "pagerange": "253-265",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "given": "Joni",
+            "lineage": null,
+            "family": "Agustian",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Azlina",
+            "honourific": null,
+            "lineage": null,
+            "family": "Harun@Kamaruddin"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "The Reaction Mechanism\r\nand Kinetics Data of\r\nRacemic Atenolol Kinetic\r\nResolution via Enzymatic\r\nTransesterification Process\r\nUsing Free Pseudomonas\r\nfluorescence Lipase"
+    },
+    {
+      "volume": 6,
+      "abstract": "In this report, effects of reaction parameters on kinetic resolution of racemic atenolol using Pseudomonas\r\nfluorescens lipase were investigated via transesterification for production of pharmacologically active\r\neutomer (S)-atenolol with high enantiomeric purity. It was found that a temperature of 45 �C produced\r\nan acceptable enantioselectivity (E: 17). Good agitation speeds were found at 170–230 rpm producing E\r\nvalues of 12–15, whilst an enzyme activity of $2500 U gave 100% conversion of the (S)-atenolol.\r\nSubstrate concentrations of 11.26–18.80 mM gave E values of 11.6–12.3. Variation of the substrate molar\r\nratio yielded (S)-atenolol conversions of 44.67–61.58% with E ¼ 12–23.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/709",
+      "date": "2016-03",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "status_changed": "2016-10-04 01:12:14",
+      "issn": "2046-2069",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "Royal Society of Chemistry (UK)",
+      "publication": "RSC Advances",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/07\/09",
+      "related_url": [
+        {
+          "url": "http:\/\/pubs.rsc.org\/en\/content\/articlelanding\/2016\/RA\/c6ra01942k#!divAbstract"
+        }
+      ],
+      "number": 31,
+      "userid": 390,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "05 Jurnal Internasional RSC ADVANCES 2016.pdf",
+            "files": [
+                {
+                  "hash": "80471238aefd2b34f5670230f615eef3",
+                  "mime_type": "application\/pdf",
+                  "fileid": 4043,
+                  "datasetid": "document",
+                  "mtime": "2016-10-03 09:04:18",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4043",
+                  "filename": "05 Jurnal Internasional RSC ADVANCES 2016.pdf",
+                  "filesize": 514286,
+                  "objectid": 606
+                }
+            ],
+            "docid": 606,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/606",
+            "pos": 1,
+            "eprintid": 709,
+            "placement": 1
+          }
+      ],
+      "official_url": "http:\/\/pubs.rsc.org\/en\/journals\/journalissues\/ra",
+      "lastmod": "2016-10-04 01:12:14",
+      "id_number": "10.1039\/C6RA01942K",
+      "eprintid": 709,
+      "eprint_status": "archive",
+      "datestamp": "2016-10-04 01:12:14",
+      "pagerange": "26077-26085",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Agustian",
+            "honourific": null,
+            "given": "Joni"
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Harun@Kamaruddin",
+            "honourific": null,
+            "given": "Azlina"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Aboul-Eneinn",
+            "lineage": null,
+            "given": "Hassa"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Enantio-conversion and -selectivity of racemic\r\natenolol kinetic resolution using free Pseudomonas\r\nfluorescens lipase (Amano) conducted via\r\ntransesterification reaction"
+    },
+    {
+      "abstract": "Invensi ini berhubungan dengan teknologi imobilisasi enzim alfa-amilase bebas SQzyme BAP pada permukaan silika MCF-(9.2T-3D) secara adsorpsi dan penggunaan produk (enzim alfa-amilase terimobilisasi ) pada proses hidrolisis enzimatis pati tapioka.  Imobilisasi enzim merupakan upaya untuk pemakaian kembali enzim bebas dalam proses produksi.  Beragam metode dan bahan penyangga imobilisasi  enzim alfa-amilase bebas telah diketahui yang salah satunya adalah silika MCF dimana struktur pori MCF merupakan faktor kritis dalam proses imobilisasi enzim tersebut.  Penggunaan silika MCF-(9.2T-3D) berhasil mengimobilisasi enzim alfa-amilase bebas dengan cukup tinggi.  Persentase imobilisasi  pada rentang 74,60-97,64% yang didapatkan dari variasi faktor temperatur (30-55C), kecepatan pengadukan campuran (60-140 rpm), pH larutan buffer fosfat Sorensen (5,0-7,0) dan variasi konsentrasi awal enzim bebas (1,0-3,0 mg\/mL).  Penggunaan produk enzim terimobilisasi dalam hidrolisis enzimatis tepung tapioka dipengaruhi kondisi temperatur reaksi hidrolisis dan kecepatan pengadukan campuran agar konversi gula reduksi yang tinggi dihasilkan.",
+      "patent_applicant": "LPPM UNILA",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2177",
+      "date": "2016-12",
+      "date_type": "submitted",
+      "subjects": [
+        "TP"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2017-05-31 02:29:21",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/21\/77",
+      "userid": 390,
+      "lastmod": "2017-05-31 02:29:21",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 2068,
+            "main": "PATEN 1 JONI AGUSTIAN.pdf",
+            "files": [
+                {
+                  "hash": "2d52a71748b112e569169382f6b5c532",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 15097,
+                  "mtime": "2017-05-30 09:20:07",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15097",
+                  "filename": "PATEN 1 JONI AGUSTIAN.pdf",
+                  "filesize": 2107472,
+                  "objectid": 2068
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2068",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2177
+          }
+      ],
+      "datestamp": "2017-05-31 02:29:21",
+      "id_number": "P00201609'155",
+      "eprint_status": "archive",
+      "eprintid": 2177,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Agustian",
+            "lineage": null,
+            "given": "Joni"
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        },
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "family": "Hermida",
+            "lineage": null,
+            "honourific": null,
+            "given": "Lilis"
+          }
+        }
+      ],
+      "type": "patent",
+      "title": "ENZIM ALFA-AMILASE TERIMOBILISASI PADA PENYANGGA SILIKA MESOSTRUCTURED CELLULAR FOAM"
+    },
+    {
+      "userid": 390,
+      "documents": [
+          {
+            "eprintid": 2088,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1958",
+            "pos": 1,
+            "format": "text",
+            "main": "IC STAR 2016 JAG.pdf",
+            "files": [
+                {
+                  "mtime": "2017-05-30 06:42:47",
+                  "hash_type": "MD5",
+                  "filename": "IC STAR 2016 JAG.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14449",
+                  "objectid": 1958,
+                  "filesize": 1880816,
+                  "hash": "6336fc78119aef5be3f07149634c0b6f",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 14449
+                }
+            ],
+            "docid": 1958,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2017-05-31 02:03:07",
+      "eprintid": 2088,
+      "eprint_status": "archive",
+      "datestamp": "2017-05-31 02:03:07",
+      "pagerange": "1-7",
+      "metadata_visibility": "show",
+      "event_location": "7th Hotel Bandar Lampung",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Joni",
+            "family": "Agustian",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        },
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Hermida",
+            "honourific": null,
+            "given": "Lilis"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "event_dates": "22-25 Agustus 2016",
+      "title": "Hydrolysis of Starch Enzymaticaly: Immobilised Amylases on MCF Silica",
+      "abstract": "As immobilisation of amylases seems to be the most promising way to obtain more stable and reusable enzymes, a review on the enzymes supports and application of Mesoporous Cellular Foam (MCF) silica as the support are presented here. Glucoamylase and alpha-amylase had been immobilized successfully in\/on nanoporous, mesoporous and macroporous supports via adsorption, covalent bonding, cross-linking, entrapment and encapsulation. Factors of temperature, immobilisation time, enzyme concentration, polymer size, pH stability and reusability were studied. In general, the immobilised glucoamylase showed better thermal and pH stability and activity than the free form. Silica nanoparticles had been used to support the alpha-amylase and glucoamylase, which produced better thermal stability and enzymatic activity over its free-form. Immobilisation of the amylases in\/onto gave better results than the free enzymes where quantity of the enzymes immobilised increased with the increase of the pores size.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2088",
+      "date": "2016-08",
+      "subjects": [
+        "TP"
+      ],
+      "event_title": "The 2nd International Conference on Science, Technology and Interdisciplinary Research 2016",
+      "status_changed": "2017-05-31 02:03:07",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/20\/88",
+      "event_type": "conference"
+    },
+    {
+      "userid": 390,
+      "documents": [
+          {
+            "main": "PATEN 2 JONI AGUSTIAN.pdf",
+            "files": [
+                {
+                  "fileid": 15108,
+                  "datasetid": "document",
+                  "hash": "05dbe5200296b0d1baf753b4fac520dc",
+                  "mime_type": "application\/pdf",
+                  "objectid": 2070,
+                  "filesize": 2124606,
+                  "filename": "PATEN 2 JONI AGUSTIAN.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15108",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-30 09:27:31"
+                }
+            ],
+            "docid": 2070,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 2178,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2070",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2017-05-31 02:29:44",
+      "id_number": "P00201609156",
+      "eprint_status": "archive",
+      "eprintid": 2178,
+      "datestamp": "2017-05-31 02:29:44",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "Agustian",
+            "lineage": null,
+            "honourific": null,
+            "given": "Joni"
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Hermida",
+            "lineage": null,
+            "honourific": null,
+            "given": "Lilis"
+          },
+          "id": "lilis.hermida@eng.unila.ac.id"
+        }
+      ],
+      "type": "patent",
+      "title": "IMOBILISASI ENZIM GLUKOAMILASE BEBAS PADA PENYANGGA ANORGANIK SILIKA MESOSTRUCTURED CELLULAR FOAM SECARA ADSORPSI",
+      "patent_applicant": "LPPM",
+      "abstract": "Invensi ini berhubungan dengan teknologi imobilisasi enzim glukoamilase bebas SQzyme AGP pada permukaan penyangga anorganik silika MCF-(9.2T-3D) secara adsorpsi dan penggunaan enzim glukoamilase terimobilisasi dalam proses hidrolisis tapioka.  Imobilisasi enzim adalah suatu cara pemakaian kembali enzim bebas dalam proses produksi.  Beragam metode dan bahan penyangga imobilisasi enzim glukoamilase bebas telah diketahui yang salah satunya adalah silika MCF dimana struktur pori MCF merupakan faktor kritis dalam proses imobilisasi enzim tersebut.  \r\nPenggunaan silika MCF-(9.2T-3D) berhasil mengimobilisasi enzim glukoamilase bebas dengan tingkat imobilisasi yang cukup tinggi.  Persentase imobilisasi berada pada rentang 39,02-84,84% yang didapatkan dari variasi faktor temperatur proses (30-50C), kecepatan pengadukan campuran (80-140 rpm) dan pH larutan buffer fosfat Sorensen (5,0-7,0).  Variasi konsentrasi awal enzim bebas (0,5-3,0 mg\/mL) menghasilkan jumlah enzim terimobilisasi sebesar 0,17-1,70 mg\/mL.  Penggunaan produk enzim glukoamilase terimobilisasi dalam proses hidrolisis tepung tapioka sangat dipengaruhi oleh temperatur reaksi hidrolisis dimana suhu yang tinggi menghasilkan konversi gula reduksi yang besar.",
+      "date": "2016-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2178",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "submitted",
+      "status_changed": "2017-05-31 02:29:44",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/21\/78"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2182",
+      "date": "2016-11",
+      "abstract": "Aplikasi enzim-enzim bebas pada proses likuifaksi dan sakarifikasi tepung tapioka\r\nmengakibatkan pembuangan enzim-enzim bebas setelah dipakai dalam proses tersebut.\r\nMengingat harga enzim amilase cukup mahal, maka pemakaian berulang kali enzim dalam\r\nproses hidrolisis sangat membantu ekonomi proses produksi. Pada penelitian ini, dilakukan\r\nimmobilisasi enzim alfa-amilase dan gluko-amilase pada silika MCF-(9.2T-3D) yang\r\nbertujuan untuk menghasilkan metode immobilisasi enzim tersebut dengan tingkat\r\nimmobilisasi enzim yang tinggi, mempelajari pengaruh kondisi operasi terhadap\r\npembentukan gula reduksi dikatalisis oleh enzim alfa-amilase dan gluko-amilase\r\nterimmobilisasi secara batch. Support silika MCF-(9.2T-3D) disintesis terlebih dahulu\r\nsebelum proses immobilisasi enzim dilakukan. Enzim gluko-amilase bebas SQzyme AGP\r\nberhasil diimmobilisasi pada permukaan silika MCF-(9.2T-3D) dengan effisiensi yang\r\ntinggi. Faktor suhu, kecepatan pengadukan dan pH larutan buffer memberikan efek yang\r\nbesar dalam proses immobilisasi. Pada proses hidrolisis enzimatis, temperature dan\r\nkecepatan pengadukan memberikan efek yang besar. Variasi konsentrasi tepung tapioka\r\ndan konsentrasi awal enzim menghasilkan efek yang rendah terhadap proses hidrolisis.\r\nAktivitas glukoamilase terimmobilisasi selama proses hidrolisi tapioka sangat dipengaruhi\r\noleh suhu dan kecepatan pengadukan. Immobilisasi enzim alfa-amilase bebas SQzyme\r\nBAP pada silika MCF-(9.2T-3D) juga berhasil dilaksanakan. Produk yang dihasilkan\r\nbekerja dengan baik dalam menghidrolisis tepung tapioka dengan hasil DE yang tinggi.\r\nSuhu menimbulkan efek yang cukup tinggi terhadap proses immobilisasi. Kecepatan\r\npengadukan memberikan efek yang rendah terhadap proses immobilisasi. pH larutan\r\nbuffer memberikan efek yang tinggi dimana pH optimum adalah 6,0 dengan effisiensi\r\nimmobilisasi 94,45%. Konsentrasi awal enzim bebas sebesar 2,5 mg\/mL dapat digunakan\r\nuntuk menghasilkan effisiensi immobilisasi > 90%. Variasi pH larutan buffer selama\r\nproses hidrolisis tapioka menghasilkan perbedaan DE yang besar. Efek yang ditimbulkan\r\noleh konsentrasi enzim dan tepung tapioka adalah rendah. Efek suhu terhadap proses\r\nhidrolisis enzimatis juga tinggi.",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "completed",
+      "rev_number": 8,
+      "ispublished": "unpub",
+      "status_changed": "2017-05-31 02:49:20",
+      "full_text_status": "public",
+      "publisher": "FT UNILA",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/21\/82",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 15135,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "a59090e140cd918562e278c52fba5bfd",
+                  "filesize": 1462862,
+                  "objectid": 2074,
+                  "filename": "LAPORAN AKHIR JONI AGUSTIAN.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15135",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-30 09:41:29"
+                }
+            ],
+            "main": "LAPORAN AKHIR JONI AGUSTIAN.pdf",
+            "docid": 2074,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 2182,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2074"
+          }
+      ],
+      "lastmod": "2017-05-31 02:49:20",
+      "userid": 390,
+      "metadata_visibility": "show",
+      "eprintid": 2182,
+      "eprint_status": "archive",
+      "datestamp": "2017-05-31 02:49:20",
+      "place_of_pub": "Bandar Lampung",
+      "title": "LAPORAN AKHIR PENELITIAN HIBAH FUNDAMENTAL 2016: IMOBILISASI ENZIM AMILASE PADA SILIKA\r\nMESOSTRUCTURED CELLULAR FOAM UNTUK BIOKATALISIS\r\nPATI TAPIOKA DALAM PROSES PRODUKSI ETANOL",
+      "type": "other",
+      "creators": [
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "given": "Joni",
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustian"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hermida",
+            "lineage": null,
+            "given": "Lilis"
+          },
+          "id": null
+        }
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2017-09-28 09:08:23",
+      "issn": 23382368,
+      "full_text_status": "public",
+      "publisher": "Departemen Kimia FMIPA Universitas Gajah Mada",
+      "publication": "Seminar Nasional Kimia\"Pemanfaatan Kimia Material Untuk Meningkatkan Daya Saing Indonesia dalam MEA\"",
+      "dir": "disk0\/00\/00\/39\/70",
+      "divisions": [
+        "FT6"
+      ],
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3970",
+      "abstract": "Penelitian ini bertujuan untuk memperoleh karakteristik Poly(Lactic) Acid (PLA) yang memiliki massa molekul yang tinggi pada proses sintesis PLA dengan metode Ring Opening Polymerization (ROP) dengan variasi konsentrasi katalis SnCl2 dan waktu polimerisasi. Ring Opening Polymerization (ROP) dilakukan melalui tiga tahap yaitu polikondensasi asam laktat, depolimerisasi pembentukan laktida dengan inisiator xilena dan katalis SnCl2 dan polimerisasi pembukaan cincin laktida pada konsetrasi katalis SnCl2 0,10%, 0,15%, 0,20% dan waktu polimerisasi 2 jam, 4 jam, dan 6 jam. Massa molekul PLA sintesis diukur dengan menggunakan Viskometer Oswald. Massa molekul tertinggi yang dihasilkan 29624,676 gr\/mol, 34879,347 gr\/mol, dan 47358,871 gr\/mol. PLA dengan massa molekul tertinggi dikarakteristik dengan menggunakan FTIR dan DSC. Hasil FTIR menunjukkan PLA bersifat semikritalin yang ditunjukkan dengan gugus fungsi –OH dengan bilangan gelombang 3502.03 cm-1, 3502.5 cm-1 dan 3501.76 cm-1. Hasil DSC dengan nilai Tg yaitu 34,620C, 45,100C dan 43,540C. Nilai Tc yaitu 103,530C, 97,530C, dan 102,570C. Nilai Tm yang dihasilkan 278,820C, 297,920C, dan 322,460C.\r\nKata Kunci : Poly(Lactic) Acid (PLA), Ring Opening Polymerization (ROP), massa molekul, titik leleh.",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "refereed": "FALSE",
+      "title": "PENGARUH KONSENTRASI KATALIS SnCl2 DAN WAKTU POLIMERISASI ASAM LAKTAT TERHADAP SINTESIS POLY(LACTIC) ACID  (PLA) \r\nDENGAN METODE RING OPENING POLYMERIZATION (ROP)",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Azwar",
+            "lineage": null,
+            "given": "Edwin"
+          },
+          "id": "edwinazwar@yahoo.co.id"
+        }
+      ],
+      "type": "article",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "20f576b11b96b9adc0647b36e28c2597",
+                  "datasetid": "document",
+                  "fileid": 27762,
+                  "filename": "f. Proc Polimerisasi PLAOK.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27762",
+                  "filesize": 1292911,
+                  "objectid": 3823,
+                  "mtime": "2017-09-27 09:10:41",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "f. Proc Polimerisasi PLAOK.pdf",
+            "docid": 3823,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 3970,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3823",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2017-09-28 09:08:23",
+      "userid": 951,
+      "pagerange": "70-75",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 3970,
+      "datestamp": "2017-09-28 09:08:23"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Azwar",
+            "given": "Edwin"
+          },
+          "id": "edwinazwar@yahoo.co.id"
+        }
+      ],
+      "title": "PROSES PEMBUATAN SERAT MICRO FIBRIL CELLULOSE (MFC)DARI ECENG GONDOK (EICHORNIIA SCRASSIPES)",
+      "refereed": "FALSE",
+      "userid": 951,
+      "lastmod": "2017-11-05 02:54:26",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/28156",
+                  "filename": "g.Proc MFC ECENGGONDOKOK.pdf",
+                  "filesize": 1440322,
+                  "objectid": 3883,
+                  "mtime": "2017-10-09 08:03:59",
+                  "hash_type": "MD5",
+                  "hash": "47d77b9850da7643b656cc652e44d290",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 28156
+                }
+            ],
+            "main": "g.Proc MFC ECENGGONDOKOK.pdf",
+            "docid": 3883,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 4025,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3883"
+          }
+      ],
+      "datestamp": "2017-11-05 02:54:26",
+      "eprint_status": "archive",
+      "eprintid": 4025,
+      "metadata_visibility": "show",
+      "pagerange": "103-109",
+      "full_text_status": "public",
+      "issn": 23382368,
+      "status_changed": "2017-11-05 02:54:26",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "Departemen Kimia FMIPA Universitas Gajah Mada",
+      "divisions": [
+        "FT6"
+      ],
+      "publication": "Seminar Nasional Kimia\"Pemanfaatan Kimia Material Untuk Meningkatkan Daya Saing Indonesia dalam MEA\"",
+      "dir": "disk0\/00\/00\/40\/25",
+      "abstract": "Pulp eceng gondok yang sudah dimasak dengan NaOH dan sudah dipisahkan dengan larutan NaOH kemudian diuraikan dengan menggunakan alat disk refiner dengan variasi siklus pengulangan yaitu 5, 10 dan 15 kali siklus. Serat yang diuraikan sebanyak 15 kali siklus penguraian diambil sebanyak 25 gr untuk diuraikan kembali kedalam alat yang berbeda yaitu ultra turrax selama 1jam dengan kecepatan 6000 rpm. Hasil uji selulosa yang telah dilakukan, selulosa terbaik diperoleh pada serat pada alat disk refiner yaitu 85,6073%, sedangkan kandungan ligninnya sebanyak 13,3761% dan hemiselulosa 9,2028%. Hasil analisis SEM pada pembesaran maksimum 2500x yang telah dilakukan menunjukan bahwa ukuran serat yang diuraikan pada alat disk refiner sebanyak 15 kali siklus sama dengnan ukuran serat yang diperoleh dari hasil penguraian dengan ultra rurrax yaitu 10um, yang membedakan hanya pada serat yang diuraikan pada alat ultra turrax serst yang didapat lebih halus dibandikan yang didapat dengan menggunakan disk refiner. Sedangkan pada alisis XRD yang telah dilakukan menunjukan bahwa serst eceng gondok sebelum dilakukan perlakuan kimia dan mekanik mempunyai struktur kristal pada puncak tertinggi 20=24,22o dan puncak intensitasnya yaitu 424, sedangkan serst eceng gondok setelah dilakukan perlakuan kimia dan mekanik berstruktur kristal pada puncak 20=22,82o dan puncak intensitasnya yaitu 630",
+      "date": "2016-05-21",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4025",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ]
+    },
+    {
+      "place_of_pub": "Yodyakarta",
+      "refereed": "FALSE",
+      "title": "Syntesa Polylactid Acid Dengan Metode Ring Opening Polymerization",
+      "creators": [
+        {
+          "name": {
+            "given": "Edwin",
+            "family": "Azwar",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "edwinazwar@yahoo.co.id"
+        }
+      ],
+      "type": "book",
+      "isbn": 9786026542083,
+      "documents": [
+          {
+            "content": "published",
+            "rev_number": 2,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "format": "other",
+            "main": "BukuReffPLA.pdf",
+            "files": [
+                {
+                  "objectid": 3809,
+                  "filesize": 16992864,
+                  "filename": "BukuReffPLA.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27673",
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-25 05:54:14",
+                  "fileid": 27673,
+                  "datasetid": "document",
+                  "hash": "f307898571b1db85a20e8d1742de844e",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 3809,
+            "formatdesc": "Reference book",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3809",
+            "pos": 1,
+            "eprintid": 3957,
+            "placement": 1
+          }
+      ],
+      "pages": 72,
+      "lastmod": "2017-09-28 09:07:14",
+      "userid": 951,
+      "metadata_visibility": "show",
+      "eprintid": 3957,
+      "eprint_status": "archive",
+      "datestamp": "2017-09-28 09:07:14",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2017-09-28 09:07:14",
+      "full_text_status": "public",
+      "funders": [
+        "lppm Unila"
+      ],
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "Innosain",
+      "dir": "disk0\/00\/00\/39\/57",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3957",
+      "date": 2016,
+      "abstract": "Buku ini menyajikan proses,tata cara bagaimana pembuatan PLA (Poly Lactic Acid) dengan metode Ring Opening Polymerization. Disertai pengertian secara umum tentang polymer serta faktor faktor pendukungnya. Dalam buku ini juga dibahas bagaimana penentuan kondisi operasi yang optimum dalam pembuatan PLA dengan metode Ring Opening Polymerization berdasarkan penelitian penelitian yang telah dilakukan.\r\nBuku ini ditujukan kepada pembaca seperti kalangan peneliti, dosen, dan mahasiswa untuk menambah wawasan terkaitdengan Sintesis Poly Lactic Acid dengan Metode Ring Opening Polymerization.\r\nBuku ini merupakan hasil-hasil penelitian yang telah penulis lakukan. Hasil-hasil penelitian tersebut telah dipublikasikan pada prosiding seminar nasional kimia Fakultas Matematika dan Ilmu Pengetahuan Universitas Gajah Mada. Buku ini disusun dengan upaya pengembangan ilmu pengetahuan dan penyempurnaan penelitian terkait dengan polimer teknologi.\r\nBuku ini ditulis secara sistematis supaya pembaca mudah memahami isi dari buku ini. Penjelasan tentang pembuatan PLA dengan metode Ring Opening Polymeization ini merupakan pengetahuan yang terbaru dan efektif guna pengembangan ilmu sintesa polimer.\r\nDengan demikian diharapkan buku ini dapat menambah wawasan pengetahuan untuk dosen dan mahasiswa supaya mudah memahami salah satu ilmu sintesa polimer yaitu khasanah pengetahuan yang berkaitan dengan PLA (Poly Lactic Acid) yang dapat menunjang kualitas perkuliahan.",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published"
+    },
+    {
+      "status_changed": "2016-08-09 02:35:47",
+      "issn": "2356-1661",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "ispublished": "pub",
+      "publisher": "Universitas Syiah Kuala Aceh Darussalam",
+      "dir": "disk0\/00\/00\/02\/75",
+      "publication": "Jurnal Rekayasa Kimia dan Lingkungan",
+      "divisions": [
+        "FT6"
+      ],
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.jurnal.unsyiah.ac.id\/RKL\/article\/view\/4228"
+        }
+      ],
+      "volume": 11,
+      "abstract": "Telah dilakukan penelitian penggunaan material aluminasilikat MCM-41 sebagai adsorbenlimbah cair tapioka. Dalam penelitian ini dipelajari permodelan isotermal dan kinetika adsorpsidari material MCM-41 pada proses adsorpsi limbah cair tapioka. Isotermal Langmuir danFreundlich digunakan sebagai permodelan isotermal data penelitian. Dari data penelitian yangdiperoleh pada konsentrasi COD sebesar 416-784 mg\/l, proses adsorpsi limbah cair tapioka\r\noleh MCM-41 sesuai dengan pendekatan isothermal Langmuir.  Kapasitas maksimum adsorpsiMCM-41 diperoleh dari pendekatan Langmuir adalah sebesar 15,92 mg\/g. Model kinetikapseudo-orde pertama dan pseudo-orde kedua digunakan untuk analisis kinetika adsorpsi padadata penelitian. Model kinetik pseudo-orde pertama yang sesuai dengan proses adsorpsi limbah cair tapioka dengan laju penyerapan adalah 7,48 x10-2  dan 7,37 x10-2 g\/(min-mg)untuk konsentrasi awal secara berturut-turut adalah 608 dan 784 mg\/L. \r\nKata kunci: adsorpsi, kinetika adsorpsi, MCM-41, tapioka, limbah cair",
+      "date": "2016-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/275",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "contact_email": "darmansyah82@gmail.com",
+      "creators": [
+        {
+          "name": {
+            "family": "Darmansyah",
+            "lineage": null,
+            "honourific": null,
+            "given": "Darmansyah"
+          },
+          "id": "darmansyah82@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Simparmin",
+            "honourific": null,
+            "family": "Ginting",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Ardiana",
+            "honourific": null,
+            "given": "Lisa"
+          }
+        },
+        {
+          "name": {
+            "given": "Hens",
+            "honourific": null,
+            "lineage": null,
+            "family": "Saputra"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Mesopori MCM-41 sebagai Adsorben: Kajian Kinetika dan\r\nIsotherm Adsorpsi Limbah Cair Tapioka",
+      "number": 1,
+      "userid": 251,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/270",
+            "eprintid": 275,
+            "placement": 1,
+            "content": "accepted",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "rev_number": 4,
+            "format": "text",
+            "main": "4228-8694-1-PB.pdf",
+            "docid": 270,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-02 04:00:12",
+                  "filesize": 375809,
+                  "objectid": 270,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1541",
+                  "filename": "4228-8694-1-PB.pdf",
+                  "fileid": 1541,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "d59e90a077b36ba1f4665c523deb9b34"
+                }
+            ]
+          }
+      ],
+      "official_url": "http:\/\/www.jurnal.unsyiah.ac.id",
+      "lastmod": "2016-08-09 02:35:47",
+      "eprintid": 275,
+      "eprint_status": "archive",
+      "datestamp": "2016-08-09 02:35:47",
+      "pagerange": "10-16",
+      "metadata_visibility": "show"
+    },
+    {
+      "lastmod": "2016-08-09 02:38:38",
+      "official_url": "http:\/\/www.arpnjournals.com",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/267",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 272,
+            "rev_number": 3,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "accepted",
+            "main": "jeas_0416_4023.pdf",
+            "docid": 267,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "19b4d6f143e611b327712c17ac24da80",
+                  "fileid": 1522,
+                  "datasetid": "document",
+                  "mtime": "2016-08-02 03:41:50",
+                  "hash_type": "MD5",
+                  "filename": "jeas_0416_4023.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1522",
+                  "filesize": 1013302,
+                  "objectid": 267
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 251,
+      "number": 7,
+      "metadata_visibility": "show",
+      "pagerange": "4772-4777",
+      "datestamp": "2016-08-09 02:38:38",
+      "eprintid": 272,
+      "eprint_status": "archive",
+      "title": "SYNTHESIS AND CHARACTERIZATION OF MCM-41 FROM COAL FLY\r\nASH FOR TAPIOCA WASTEWATER TREATMENT",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "darmansyah82@gmail.com",
+          "name": {
+            "given": "Darmansyah",
+            "honourific": null,
+            "lineage": null,
+            "family": "Darmansyah"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Saputra",
+            "honourific": null,
+            "given": "Hens"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Simparmin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ginting"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Ardiana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Lisa"
+          },
+          "id": null
+        }
+      ],
+      "date": "2016-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/272",
+      "abstract": "The present study reports a green synthesis method for ordered MCM-41 materials from coal fly ash at room temperature during 24 h of reaction with Si\/Al ratio 40, 50, and 60 using cetyltrimethylammonium bromide (CTAB) as template. The surfactant was removed by calcination at 550°C for 4 hours with heating rate 1°C\/minute. The material\r\nproperties of calcined MCM-41 was characterized by XRD,SEM, and BET. The MCM-41 material was applied as an adsorbent in the tapioca wastewater treatment. The XRD analysis results showed that the Si\/Al ratio influence the crystallinity of product. The crystallinity of MCM-41 was increased by increasing Si\/Al mole ratio. The obtained MCM-41 adsorption capacity for tapioca wastewater treatment was 15.92 mg\/g.",
+      "volume": 11,
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "ispublished": "pub",
+      "rev_number": 17,
+      "full_text_status": "public",
+      "issn": "1819-6608",
+      "status_changed": "2016-08-09 02:38:38",
+      "funders": [
+        "dipa"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/www.arpnjournals.com\/jeas\/volume_07_2016",
+          "type": "pub"
+        }
+      ],
+      "publisher": "Asian Research Publishing Network",
+      "publication": "ARPN Journal of Engineering and Applied Sciences",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/02\/72"
+    },
+    {
+      "rev_number": 11,
+      "ispublished": "pub",
+      "status_changed": "2017-06-12 04:33:14",
+      "full_text_status": "public",
+      "publisher": "Tekkim Publishing",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/31\/28",
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3128",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "place_of_pub": "Bandar Lampung",
+      "refereed": "TRUE",
+      "title": "Pemisahan Campuran Heterogen II",
+      "creators": [
+        {
+          "name": {
+            "given": "Yuli",
+            "honourific": null,
+            "family": "Darni",
+            "lineage": null
+          },
+          "id": "darni_yuli@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Lismeri",
+            "lineage": null,
+            "honourific": null,
+            "given": "Lia"
+          },
+          "id": "lismeri@yahoo.co.id"
+        },
+        {
+          "id": "herti.utami@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "utami",
+            "given": "herti"
+          }
+        }
+      ],
+      "type": "book",
+      "isbn": "978-9799809544",
+      "pages": 137,
+      "documents": [
+          {
+            "mime_type": "application\/msword",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "DAFTAR II DAN KATA PENGANTAR.doc",
+            "docid": 3007,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 21709,
+                  "mime_type": "application\/msword",
+                  "hash": "9136e60c4aeab43105ddc2f00043de33",
+                  "filesize": 174592,
+                  "objectid": 3007,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21709",
+                  "filename": "DAFTAR II DAN KATA PENGANTAR.doc",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 08:10:06"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3007",
+            "pos": 1,
+            "eprintid": 3128,
+            "placement": 1
+          },
+          {
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3008",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 3128,
+            "mime_type": "application\/msword",
+            "language": "en",
+            "rev_number": 1,
+            "main": "BUKU AJAR HETEROGEN 1.doc",
+            "docid": 3008,
+            "files": [
+                {
+                  "fileid": 21711,
+                  "datasetid": "document",
+                  "mime_type": "application\/msword",
+                  "hash": "5072e8e389e6a24b3fe5cba6543e92dd",
+                  "objectid": 3008,
+                  "filesize": 3380224,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21711",
+                  "filename": "BUKU AJAR HETEROGEN 1.doc",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 08:10:33"
+                }
+            ],
+            "format": "text"
+          },
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3009",
+            "pos": 3,
+            "eprintid": 3128,
+            "placement": 3,
+            "language": "en",
+            "mime_type": "application\/msword",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 08:10:47",
+                  "filesize": 808960,
+                  "objectid": 3009,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21713",
+                  "filename": "BAB 3-4.doc",
+                  "fileid": 21713,
+                  "datasetid": "document",
+                  "hash": "7acffc4a5e63929a8cfd17be8b6c36d6",
+                  "mime_type": "application\/msword"
+                }
+            ],
+            "main": "BAB 3-4.doc",
+            "docid": 3009
+          },
+          {
+            "format": "text",
+            "main": "BAB 5.doc",
+            "docid": 3010,
+            "files": [
+                {
+                  "fileid": 21715,
+                  "datasetid": "document",
+                  "mime_type": "application\/msword",
+                  "hash": "2aa10fab366e35737efbd1db75d372b8",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 08:11:09",
+                  "filesize": 2610688,
+                  "objectid": 3010,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21715",
+                  "filename": "BAB 5.doc"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/msword",
+            "eprintid": 3128,
+            "placement": 4,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3010",
+            "pos": 4
+          }
+      ],
+      "lastmod": "2017-06-12 04:33:14",
+      "userid": 462,
+      "metadata_visibility": "show",
+      "eprintid": 3128,
+      "eprint_status": "archive",
+      "datestamp": "2017-06-12 04:33:14"
+    },
+    {
+      "dir": "disk0\/00\/00\/25\/81",
+      "divisions": [
+        "FT6"
+      ],
+      "rev_number": 9,
+      "status_changed": "2017-06-13 01:55:54",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2581",
+      "volume": "-",
+      "title": "Matematika Teknik Kimia",
+      "creators": [
+        {
+          "name": {
+            "given": "Muhammad",
+            "family": "Hanif",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "muhammad.hanif@eng.unila.ac.id"
+        }
+      ],
+      "type": "book",
+      "contact_email": "muhammad.hanif@eng.unila.ac.id",
+      "metadata_visibility": "show",
+      "lastmod": "2017-06-13 01:55:54",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.aura-publishing.com"
+        }
+      ],
+      "publisher": "CV. Anugerah Utama Raharja",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "series": "-",
+      "date": "2016-12",
+      "abstract": "-",
+      "refereed": "FALSE",
+      "isbn": "978-602-6238-76-4",
+      "place_of_pub": "Bandar Lampung",
+      "datestamp": "2017-06-13 01:55:54",
+      "eprintid": 2581,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/www.aura-publishing.com",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2581,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2719",
+            "pos": 1,
+            "security": "public",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 19531,
+                  "hash": "b000306d088fccf34147fa00ec3a686c",
+                  "mime_type": "application\/pdf",
+                  "filesize": 2104730,
+                  "objectid": 2719,
+                  "filename": "buk ajar matematika teknik kimia.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/19531",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-01 12:58:19"
+                }
+            ],
+            "main": "buk ajar matematika teknik kimia.pdf",
+            "docid": 2719,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "pages": 143,
+      "userid": 32,
+      "number": "-"
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "title": "Pengaruh Temperatur Terhadap Karakteristik Produk Cair pada Degradasi Limbah Plastik Polyethylene Terephthalate (PET)\r\ndenga Katalis Ca(OH)2",
+      "event_dates": "8 Desember 2015",
+      "refereed": "FALSE",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hanif",
+            "lineage": null,
+            "given": "Muhammad"
+          },
+          "id": "muhammad.hanif@eng.unila.ac.id"
+        }
+      ],
+      "lastmod": "2016-08-18 04:55:19",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "filename": "prosiding baristand 2015.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1728",
+                  "objectid": 294,
+                  "filesize": 286608,
+                  "mtime": "2016-08-15 15:15:59",
+                  "hash_type": "MD5",
+                  "hash": "526d2338c7373fa7e59fc18c92bd1bf1",
+                  "mime_type": "application\/pdf",
+                  "fileid": 1728,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "prosiding baristand 2015.pdf",
+            "docid": 294,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 304,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/294"
+          }
+      ],
+      "userid": 32,
+      "metadata_visibility": "show",
+      "pagerange": "61-66",
+      "datestamp": "2016-08-18 04:55:19",
+      "eprint_status": "archive",
+      "eprintid": 304,
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2016-08-18 04:55:19",
+      "event_type": "conference",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/03\/04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/304",
+      "date": "2016-02-26",
+      "abstract": "Polyethylene terephthalate (PET) adalah salah satu jenis polimer termoplastik yang sangat luas aplikasinya dalam kehidupan masyarakat perkotaan. Karena penggunaanya yang luas, bahan polimer ini menimbulkan akumulasi limbah plastik perkotaan dalam jumlah yang tinggi sehingga penanganannya menimbulkan masalah ekonomi dan lingkungan. Pirolisis adalah salah satu proses perlakuan panas yang dapat diaplikasikan untuk tujuan daur ulang limbah plastik untuk menghasilkan produk-produk dengan nilai ekonomis lebih tinggi. Pirolisis adalah proses degradasi dengan suplai panas yang dilakukan tanpa oksigen atau dengan kondisi oksigen dalam jumlah yang sangat kecil,\r\nmenghasilkan produk dalam bentuk padat, cair, dan gas. Pada penelitian ini dilakukan pirolisis menggunakan katalis Ca(OH)2 dengan tujuan memaksimumkan produk cair dan memprediksi komposisi bahan kimia yang terkandung di dalamnya. Penelitian dilakukan dengan melakukan variasi temperatur maksimum operasi antara 300oC - 420oC pada rasio berat bahan baku : katalis tetap, sebesar 1:2. Dari hasil penelitian diperoleh persentase hasil produk cair yang menurun dengan naiknya temperatur dengan komposisi tertentu. Hasil terbaik pada penelitian ini adalah pada temperatur maksimum operasi 300oC dengan hasil produk cair sebesar 78,45%.",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "event_title": "Seminar Nasional Riset dan Industri 2015"
+    },
+    {
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/03\/05",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2016-08-18 04:52:56",
+      "full_text_status": "public",
+      "issn": "2303-016X",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "date": "2016-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/305",
+      "volume": 4,
+      "abstract": "Penelitian pirolisis ini dilakukan untuk mengamati pengaruh dolomit terkalsinasi terhadap persentase dan kualitas produk cair yang dihasilkan. Sampel bahan baku yang digunakan dalam penelitian ini adalah limbah plastik polipropilen dan polistirena yang merupakan sumber utama limbah plastik perkotaan. Pirolisis dilakukan pada tekanan atmosferis, tanpa melibatkan gas nitrogen dengan rentang temperatur antara 200oC dan 600oC. Karakterisasi\r\nproduk cair yang dihasilkan menggunakan GCMS. Hasil karakterisasi menunjukkan peran dolomit terkalisinasi dalam menurunkan persentase aromatis dalam produk cair yang dihasilkan. Hasil karakterisasi juga menjelaskan ketiadaan nitrogen menyebabkan terbentuknya senyawa\r\nnonhidrokarbon di dalam produk.",
+      "refereed": "FALSE",
+      "title": "Pengaruh Dolomit Terkalsinasi pada Karakteristik Produk Cair Pirolisis Limbah Plastik Jenis Polistirena dan Polipropilena",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Muhammad",
+            "family": "Hanif",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "muhammad.hanif@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Virinne",
+            "family": "Varischa",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "virinnevarischa@ymail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Gurum A.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Pauzi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Azwar",
+            "given": "Edwin"
+          },
+          "id": "edwinazwar@yahoo.co.id"
+        }
+      ],
+      "pagerange": "227-232",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 305,
+      "datestamp": "2016-08-18 04:52:56",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/296",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 305,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 296,
+            "main": "16_jurnal hanif.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 1739,
+                  "hash": "2d25919761e7a4d9864023049e0effd0",
+                  "mime_type": "application\/pdf",
+                  "objectid": 296,
+                  "filesize": 157097,
+                  "filename": "16_jurnal hanif.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1739",
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-16 07:37:27"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/index.php\/jtaf\/index",
+      "lastmod": "2016-08-18 04:52:56",
+      "number": 2,
+      "userid": 32
+    },
+    {
+      "abstract": "Nickel incorporated mesostructured cellular foam (NiMCF) was studied as a catalyst for palmitic acid\r\ndeoxygenation to primarily synthesize n-pentadecane and 1-pentadecene. The kinetic behaviour was tested in a\r\ntemperature range from 280 to 300°C. The reaction was found to follow a first order kinetic model with respect to\r\nthe palmitic acid with an activation energy of 111.57 KJ\/Mol. In the reusability study, it was found that the average\r\nreduction in palmitic acid conversions was about 40.5%, which indicated the occurrence of catalyst deactivation\r\nduring the deoxygenation. Fresh and spent catalysts were characterized by means of scanning electron microscope.\r\nEnergy-dispersive X-ray spectroscopy and X-ray powder diffraction correlate their characteristics with catalytic\r\nactivity and to identify the main catalyst deactivation mechanism. The catalyst deactivation was mainly due to phase\r\ntransformation of metallic nickel (Ni0) to nickel ion (Ni2+) and the deposition of organic molecules on the catalyst during\r\nthe deoxygenation. Regeneration of spent catalyst successfully reduced the drops in the palmitic acid conversions\r\nbetween the reaction cycles from 40.5% to 11.3%.",
+      "volume": 6,
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28511",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "full_text_status": "public",
+      "issn": "2090 - 4568",
+      "status_changed": "2021-03-22 01:42:39",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "OMICS International",
+      "publication": "Journal of Advanced Chemical Engineering",
+      "dir": "disk0\/00\/02\/85\/11",
+      "userid": 397,
+      "number": 1,
+      "lastmod": "2021-03-22 01:42:39",
+      "documents": [
+          {
+            "eprintid": 28511,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42557",
+            "pos": 1,
+            "format": "text",
+            "main": "Gabung JACE 2016.pdf",
+            "files": [
+                {
+                  "objectid": 42557,
+                  "filesize": 4028545,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/253162",
+                  "filename": "Gabung JACE 2016.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-21 09:56:21",
+                  "datasetid": "document",
+                  "fileid": 253162,
+                  "hash": "739bc40e046bd6d6d84775bb19334b74",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 42557,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2021-03-22 01:42:39",
+      "eprintid": 28511,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1-8",
+      "creators": [
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Hermida",
+            "honourific": null,
+            "given": "Lilis"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Deoxygenation of Palmitic Acid to Produce Diesel-like Hydrocarbons over\r\nNickel Incorporated Cellular Foam Catalyst: A Kinetic Study",
+      "refereed": "TRUE"
+    },
+    {
+      "lastmod": "2017-06-05 02:15:44",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 3106,
+            "main": "Buku Ajar PSPLC.pdf",
+            "files": [
+                {
+                  "objectid": 3106,
+                  "filesize": 10118933,
+                  "filename": "Buku Ajar PSPLC.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22387",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-03 00:16:23",
+                  "fileid": 22387,
+                  "datasetid": "document",
+                  "hash": "38b38e39931d20d3fef57b6bf02b566b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3106",
+            "pos": 1,
+            "eprintid": 3218,
+            "placement": 1
+          }
+      ],
+      "pages": 177,
+      "userid": 390,
+      "metadata_visibility": "show",
+      "datestamp": "2017-06-05 02:15:44",
+      "eprintid": 3218,
+      "eprint_status": "archive",
+      "place_of_pub": "Bandar Lampung",
+      "title": "Perancangan Sistem Pengolahan Limbah Cair",
+      "refereed": "TRUE",
+      "isbn": "978-6026565-19-8",
+      "creators": [
+        {
+          "name": {
+            "family": "Hermida",
+            "lineage": null,
+            "honourific": null,
+            "given": "Lilis"
+          },
+          "id": "lilis.hermida@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Joni",
+            "honourific": null,
+            "family": "Agustian",
+            "lineage": null
+          },
+          "id": "joni.agustian@eng.unila.ac.id"
+        }
+      ],
+      "type": "book",
+      "date": "2016-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3218",
+      "abstract": "Aktivitas manusia mempunyai pengaruh besar terhadap\r\nlingkungan. Senyawa atau zat kimia pencemar (polutan)\r\nsering terkonsentrasi di lingkungan melalui prosesproses\r\nindustri, produksi tenaga listrik dan lain-lain. Ketika polutan telah masuk ke lingkungan, membersihkan lingkungan dari zat tersebut sangatlah sulit yang akan memakan waktu dan biaya. Sehingga pengembangan teknologi bersih dan kemudian implementasi pengolahan aliran limbah cair yang efektif dalah langkah yang diperlukan untuk melindungi pencemaran lingkungan dimasa mendatang.\r\nPERANCANGAN SISTEM PENGOLAHAN LIMBAH CAIR membahas metode reduksi zat pencemar didalam aliran limbah cair melalui proses pengolahan secara fisika, kimia dan biologi. Setiap proses pengolahan yang dibahas mempunyai kelebihan dan kekurangan. Namun setiap proses pengolahan terebut dapat berhasil diterapkan apabila kondisi operasinya sesuai kebutuhan.  Kombinasi proses pengolahan sering lebih berhasil dibandingkan menggunakan salah satu proses\r\npengolahan saja. Walaupun tidak semua metode\r\npengolahan limbah cair yang di bahas didalam buku ini,\r\nmetoda pengolahan limbah cair potensial yang berguna\r\ndibahas didalam buku ini. Setiap bab menampilkan\r\nprinsip dasar teknologi dan aplikasinya pada sistem\r\npengolahan limbah cair.",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2017-06-05 02:15:44",
+      "publisher": "CV Anugrah Utama Raharja",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/32\/18"
+    },
+    {
+      "place_of_pub": "Bandar Lampung",
+      "refereed": "TRUE",
+      "title": "Perancangan sistem pengolahan limbah cair",
+      "type": "book",
+      "creators": [
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Hermida",
+            "lineage": null,
+            "given": "Lilis"
+          }
+        },
+        {
+          "id": "joni.agustian@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustian",
+            "given": "Joni"
+          }
+        }
+      ],
+      "isbn": "978-602-6565-19-8",
+      "pages": 177,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2092,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1977",
+            "pos": 1,
+            "security": "public",
+            "main": "PPLC 2016.pdf",
+            "files": [
+                {
+                  "fileid": 14556,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "69b2bb9f9e804d524997a903ef848f27",
+                  "filesize": 3160753,
+                  "objectid": 1977,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14556",
+                  "filename": "PPLC 2016.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-30 07:01:52"
+                }
+            ],
+            "docid": 1977,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2017-07-20 08:48:14",
+      "userid": 390,
+      "metadata_visibility": "show",
+      "eprintid": 2092,
+      "eprint_status": "archive",
+      "datestamp": "2017-07-20 08:48:14",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2017-07-20 08:48:14",
+      "full_text_status": "public",
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "CV Anugrah Utama Raharja",
+      "dir": "disk0\/00\/00\/20\/92",
+      "date": "2016-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2092",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published"
+    },
+    {
+      "abstract": "Nickel incorporated mesostructured cellular foam (NiMCF) was studied as a catalyst for palmitic acid deoxygenation to primarily synthesize n-pentadecane and 1-pentadecene. The kinetic behaviour was tested in a temperature range from 280 to 300°C. The reaction was found to follow a first order kinetic model with respect to the palmitic acid with an activation energy of 111.57 KJ\/Mol. In the reusability study, it was found that the average reduction in palmitic acid conversions was about 40.5%, which indicated the occurrence of catalyst deactivation\r\nduring the deoxygenation. Fresh and spent catalysts were characterized by means of scanning electron microscope.\r\nEnergy-dispersive X-ray spectroscopy and X-ray powder diffraction correlate their characteristics with catalytic activity and to identify the main catalyst deactivation mechanism. The catalyst deactivation was mainly due to phase transformation of metallic nickel (Ni0) to nickel ion (Ni2+) and the deposition of organic molecules on the catalyst during the deoxygenation. Regeneration of spent catalyst successfully reduced the drops in the palmitic acid conversions between the reaction cycles from 40.5% to 11.3%.",
+      "volume": 6,
+      "date": "2016-03-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1982",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "issn": "2090 - 4568",
+      "full_text_status": "public",
+      "status_changed": "2017-05-30 04:05:20",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "OMICS International",
+      "divisions": [
+        "FT6"
+      ],
+      "publication": "Journal of Advanced Chemical Engineering",
+      "dir": "disk0\/00\/00\/19\/82",
+      "userid": 397,
+      "number": 1,
+      "official_url": "https:\/\/www.omicsonline.com\/open-access\/deoxygenation-of-palmitic-acid-to-produce-diesellike-hydrocarbons-overnickel-incorporated-cellular-foam-catalyst-a-kinetic-study-2090-4568-1000144.php?aid=70925",
+      "lastmod": "2017-05-30 04:05:20",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1845",
+            "eprintid": 1982,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Lilis2016deoxygenation-of-palmitic-acid-to-produce-diesellike-hydrocarbons-overnickel-.pdf",
+            "files": [
+                {
+                  "fileid": 13811,
+                  "datasetid": "document",
+                  "hash": "4ff541edf4078829b7b55f1df36ac15e",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1105544,
+                  "objectid": 1845,
+                  "filename": "Lilis2016deoxygenation-of-palmitic-acid-to-produce-diesellike-hydrocarbons-overnickel-.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13811",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-30 03:48:41"
+                }
+            ],
+            "docid": 1845
+          }
+      ],
+      "datestamp": "2017-05-30 04:05:20",
+      "eprint_status": "archive",
+      "eprintid": 1982,
+      "metadata_visibility": "show",
+      "pagerange": "1-8",
+      "creators": [
+        {
+          "name": {
+            "given": "Lilis",
+            "lineage": null,
+            "family": "Hermida",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Amani",
+            "lineage": null,
+            "given": "Hadis"
+          }
+        },
+        {
+          "name": {
+            "given": "Ahmad Zuhairi",
+            "family": "Abdullah",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Mohammed",
+            "lineage": null,
+            "honourific": null,
+            "given": "Abdur Rahman"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Deoxygenation of Palmitic Acid to Produce Diesel-like Hydrocarbons over Nickel Incorporated Cellular Foam Catalyst: A Kinetic Study",
+      "refereed": "TRUE"
+    },
+    {
+      "abstract": "Pervaporation of ethanol dehydration can be done using membrane technology, one of which is by using cellulose acetate (CA) membrane which is made from non-wood cellulose such as sugarcane bagasse. The research objective was to compare commercial CA membranes and bagasse pulp CA membrane modified Lampung natural zeolite, and to study the effect of the Lampung natural zeolite concentration on the performance of CA membrane. The polymer used is a commercial CA and bagasse pulp CA with a concentration of 20% w \/ v. the modification of Membrane with the addition of Lampung natural zeolite with various concentrations 10% w-CA, 20% w-CA, 30% w-CA. Membrane characterization using (FTIR) showed that the CA membrane has been modified by Lampung natural zeolite and the results of Scanning Electron Microscopy (SEM) showed that the commercial CA membrane modified has a dense pore that is higher than bagasse pulp CA membranes modified.The highest purity ethanol in a commercial CA membranes modified by Lampung Natural Zeolit obtained on the addition of 30% w-CA zeolite concentration and the purity of ethanol 99.27%, the value of flux 2.819 kg \/ m2.h and selectivity 111.080. For bagasse pulp CA membranes modified, the purity of ethanol obtained of 98.10%, the value of flux 2.999 kg \/ m2.h, and the value of selectivity 30.760.",
+      "date": "2016-08-23",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3005",
+      "event_title": "International Conference on Science Technology and Interdiciplinary Research 2016",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "submitted",
+      "status_changed": "2017-06-05 01:50:56",
+      "full_text_status": "public",
+      "rev_number": 13,
+      "ispublished": "unpub",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/30\/05",
+      "event_type": "conference",
+      "funders": [
+        "DIKTI"
+      ],
+      "userid": 636,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2884",
+            "pos": 1,
+            "security": "public",
+            "formatdesc": "Poster",
+            "placement": 1,
+            "eprintid": 3005,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 4,
+            "content": "submitted",
+            "main": "poster membran_azel.pdf",
+            "docid": 2884,
+            "files": [
+                {
+                  "filename": "poster membran_azel.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20754",
+                  "objectid": 2884,
+                  "filesize": 282485,
+                  "mtime": "2017-06-02 03:44:52",
+                  "hash_type": "MD5",
+                  "hash": "e2e3c62b666a7d29abab46bae5bfebbe",
+                  "mime_type": "application\/pdf",
+                  "fileid": 20754,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2017-06-05 01:50:56",
+      "eprint_status": "archive",
+      "eprintid": 3005,
+      "datestamp": "2017-06-05 01:50:56",
+      "metadata_visibility": "show",
+      "event_location": "Universitas Lampung",
+      "pres_type": "poster",
+      "creators": [
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "given": "Dewi Agustina",
+            "honourific": null,
+            "lineage": null,
+            "family": "Iryani"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ginting",
+            "honourific": null,
+            "given": "Simparmin"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Azelia Wulan",
+            "honourific": null,
+            "family": "Cinderadewi",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wulandari",
+            "honourific": null,
+            "given": "Nurfitri"
+          },
+          "id": null
+        }
+      ],
+      "type": "conference_item",
+      "event_dates": "21-23 Agustus 2016",
+      "refereed": "FALSE",
+      "title": "Preliminary performance assessment test of membrane CA from commercial CA and sugarcane bagasse modified by natural zeolite Lampung (ZAL) for ethanol dehydration pervaporation"
+    },
+    {
+      "eprint_status": "archive",
+      "eprintid": 41597,
+      "datestamp": "2022-05-13 01:21:06",
+      "metadata_visibility": "show",
+      "userid": 636,
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 460325,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "408525173cc174c1b1e513020a89776f",
+                  "hash_type": "MD5",
+                  "mtime": "2022-05-12 07:20:04",
+                  "filesize": 184592,
+                  "objectid": 163255,
+                  "filename": "MyReport 12-May-2022_RKL_Journal.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/460325"
+                }
+            ],
+            "main": "MyReport 12-May-2022_RKL_Journal.pdf",
+            "docid": 163255,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 41597,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163255",
+            "pos": 1
+          }
+      ],
+      "official_url": "https:\/\/www.scopus.com\/record\/display.uri?eid=2-s2.0-84973103412&origin=inward&txGid=9ce0d417f33aa632fe698a2dd616ae50&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1",
+      "lastmod": "2022-05-13 01:21:06",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Dewi Agustina",
+            "honourific": null,
+            "family": "Iryani",
+            "lineage": null
+          },
+          "id": "dewi.agustina@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hirajima",
+            "lineage": null,
+            "given": "Tsuyoshi"
+          },
+          "id": "hirajima@mine.kyushu-u.ac.jp"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kumagai",
+            "given": "Satoshi"
+          },
+          "id": null
+        }
+      ],
+      "title": "Similarity_Check_Result: HYDROTHERMAL CARBONIZATION KINETICS OF SUGARCANE\r\nBAGASSE TREATED BY HOT COMPRESSED WATER UNDER\r\nVARIABEL TEMPERATURE CONDITIONS",
+      "place_of_pub": "ARPN Journal",
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "abstract": "None",
+      "date": "2016-04-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41597",
+      "publisher": "ARPN",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/04\/15\/97",
+      "status_changed": "2022-05-13 01:21:06",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8
+    },
+    {
+      "userid": 636,
+      "documents": [
+          {
+            "eprintid": 49298,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188844",
+            "pos": 1,
+            "format": "text",
+            "docid": 188844,
+            "main": "BUKTI KORESPONDENSI ARPN-JEAS 2016.pdf",
+            "files": [
+                {
+                  "objectid": 188844,
+                  "filesize": 839921,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535378",
+                  "filename": "BUKTI KORESPONDENSI ARPN-JEAS 2016.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-27 05:58:17",
+                  "fileid": 535378,
+                  "datasetid": "document",
+                  "hash": "42e68663e19133a8f4f7dfeb3f65da22",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-03-27 08:52:38",
+      "official_url": "http:\/\/www.arpnjournals.com\/jeas\/",
+      "eprintid": 49298,
+      "eprint_status": "archive",
+      "datestamp": "2023-03-27 08:52:38",
+      "metadata_visibility": "show",
+      "place_of_pub": "ARPN Journal",
+      "type": "other",
+      "creators": [
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Iryani",
+            "given": "Dewi Agustina"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Kumagai",
+            "honourific": null,
+            "given": "Satoshi"
+          }
+        },
+        {
+          "name": {
+            "given": "Tsuyoshi",
+            "lineage": null,
+            "family": "Hirajima",
+            "honourific": null
+          },
+          "id": "hirajima@mine.kyushu-u.ac.jp"
+        },
+        {
+          "name": {
+            "family": "Sasaki",
+            "lineage": null,
+            "honourific": null,
+            "given": "Keiko"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nonaka",
+            "given": "Moriyasu"
+          }
+        }
+      ],
+      "title": "Bukti korespondensi artikel HYydrothermal Carbonization Kinetics of Sugarcane Baggase Treated by Hot Compressed Water under Variabel Temperature Conditions",
+      "abstract": "none",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49298",
+      "date": 2016,
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "status_changed": "2023-03-27 08:52:38",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "ARPN",
+      "dir": "disk0_bak\/00\/04\/92\/98"
+    },
+    {
+      "abstract": "The discharge of heavy metals from industrial effluents into aquatic system in surrounding area of Lampung bay become a serious problem today. The data shows that the concentrations of heavy metals in this area are above allowable limits for the discharge of toxic heavy metals in the aquatic systems. The most common of heavy metal pollutant is divalent metal ions. Cellulose xanthate is one of the selective adsorbent to solve this problem, since xanthate contains two negative sulfur atoms that is capable to catch divalent metal ions. Preparation of cellulose xanthate was conducted by reacting carbon disulfide (CS2) and cellulose from sugarcane bagasse. The morphological characteristics of cellulose xanthate were visualized via Scanning Electron Microscope (SEM) and the presence of sulfur groups on sugarcane bagasse xanthate were identified by FTIR spectroscopic study. The degree of substitution (DS), degree of polymerization (DP), and adsorption capacities of cellulose xanthate for Cu2+ and Pb2+ metal were studied. The results of study reveals that the maximum adsorption capacities of Cu2+ and Pb2+ metal on cellulose xanthate are 54.226 mg Cu2+\/g, and 51.776 mg Pb2+\/g, respectively. This study reveals that cellulose xanthate could be a solution to reduce environmental pollution caused by industrial wastewater. \r\nKeywords: Sugarcane bagasse, cellulose xanthate, adsorbent, heavy metal.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3015",
+      "date": "2016-10-10",
+      "date_type": "published",
+      "event_title": "International conference on Biomass",
+      "subjects": [
+        "TP"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2017-06-05 01:48:56",
+      "rev_number": 8,
+      "ispublished": "submitted",
+      "dir": "disk0\/00\/00\/30\/15",
+      "divisions": [
+        "FT6"
+      ],
+      "event_type": "conference",
+      "userid": 636,
+      "lastmod": "2017-06-05 01:48:56",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 3015,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2912",
+            "security": "public",
+            "docid": 2912,
+            "main": "ICB2016_Dewi_Unila.docx",
+            "files": [
+                {
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "21ac54e9a97b3ffcb783c13e71bc641b",
+                  "datasetid": "document",
+                  "fileid": 20958,
+                  "filename": "ICB2016_Dewi_Unila.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20958",
+                  "filesize": 1727452,
+                  "objectid": 2912,
+                  "mtime": "2017-06-02 04:28:23",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          }
+      ],
+      "datestamp": "2017-06-05 01:48:56",
+      "eprintid": 3015,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1-10",
+      "event_location": "Bogor",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "family": "Iryani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dewi Agustina"
+          },
+          "id": "dewi.agustina@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Resagian",
+            "lineage": null,
+            "given": "Dicky A."
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yuwono",
+            "given": "Suripto D."
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Hasanudin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Udin"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Nisa Mutia",
+            "lineage": null,
+            "family": "Risthy",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "conference_item",
+      "title": "Preparation and Evaluation Adsorption Capacity of Cellulose Xanthate of Sugarcane Bagasse for Removal Heavy Metal Ion from Aqueous Solutions",
+      "event_dates": "10-12 October",
+      "refereed": "TRUE"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "date": "2016-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27427",
+      "abstract": "Proses hidrolisis ampas tebu menggunakan asam asetat sebagai katalis dengan metode satu tahap (steam stripping) telah dilakukan. Ampas tebu sebanyak 50 gram dihidrolisis dalam 500 ml akuades yang mengandung katalis asam asetat sebesar 2 - 6% dengan variabel waktu selama 1 - 3 jam dan temperatur hidrolisis 110 - 120oC menggunakan metode steam stripping. Metode konvensional dilakukan dalam dua tahap yaitu pemasakan dan pemisahan dalam waktu tinggal tertentu, sehingga dapat menyebabkan degradasi furfural. Selain itu, energi yang digunakan sangat besar karena ada energi yang terbuang saat pendinginan produk. Maka peneliti mengembangkan proses hidrolisis hemiselulosa menjadi furfural sekaligus juga proses pemisahan yang dilakukan secara serempak dalam satu tahap yaitu dengan menggunakan metode distilasi steam stripping. Penelitian ini ditujukan untuk melihat apakah metode steam stripping dengan menggunakan katalis asam asetat efektif untuk digunakan dalam memproduksi furfural. Dalam studi ini juga dipelajari pengaruh waktu hidrolisis, konsentrasi katalis, dan temperatur terhadap konsentrasi furfural. Hasil uji menggunakan Response Surface Methodology (RSM) menunjukkan bahwa variabel yang paling berpengaruh untuk perolehan furfural adalah konsentrasi katalis dan temperatur. Hasil penelitian menunjukkan optimum dengan perolehan konsentrasi furfural tertinggi (6,038 mg\/ml) di peroleh pada waktu 3 jam, temperatur 120°C, dan konsentrasi katalis 6%. Hasil penelitian menunjukkan bahwa metode ini efektif untuk digunakan dalam produksi furfural.",
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "Journal Rekayasa Kimia dan Lingkungan",
+      "dir": "disk0\/00\/02\/74\/27",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2021-01-25 02:20:42",
+      "metadata_visibility": "show",
+      "datestamp": "2021-01-25 02:20:42",
+      "eprintid": 27427,
+      "eprint_status": "archive",
+      "lastmod": "2021-01-25 02:20:42",
+      "official_url": "http:\/\/jurnal.unsyiah.ac.id\/RKL\/article\/view\/4983",
+      "documents": [
+          {
+            "eprintid": 27427,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41432",
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 795524,
+                  "objectid": 41432,
+                  "filename": "Nilai_Reviewer_Hidrolisis_ampas_tebu.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/245274",
+                  "hash_type": "MD5",
+                  "mtime": "2021-01-22 06:39:11",
+                  "fileid": 245274,
+                  "datasetid": "document",
+                  "hash": "dc2a8fbde4b3ae6b8817197cfd8a0fbc",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Nilai_Reviewer_Hidrolisis_ampas_tebu.pdf",
+            "docid": 41432,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 636,
+      "title": "Hasil review: Hidrolisis Ampas Tebu dengan Katalisator Asam Asetat untuk Memproduksi Furfural menggunakan Metode Steam Stripping",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Iryani",
+            "lineage": null,
+            "given": "Dewi Agustina"
+          },
+          "id": "dewi.agustina@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Heri",
+            "family": "Rustamaji",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ]
+    },
+    {
+      "full_text_status": "public",
+      "status_changed": "2022-04-07 06:37:35",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/11\/51",
+      "publisher": "Universitas Syiah kuala",
+      "divisions": [
+        "FT6"
+      ],
+      "abstract": "None",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41151",
+      "date": "2016-12",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "place_of_pub": "Jurnal Rekayasa Kimia dan lingkungan",
+      "type": "other",
+      "creators": [
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "given": "Dewi Agustina",
+            "lineage": null,
+            "family": "Iryani",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Rustamaji",
+            "lineage": null,
+            "given": "Heri"
+          }
+        }
+      ],
+      "title": "Hidrolisis Ampas Tebu dengan Katalisator\r\nAsam Asetat untuk Memproduksi Furfural menggunakan Metode Steam Stripping The\r\nPlagiarsm Checker: Hydrolysis of Sugarcane Bagasse with Acetic Acid Catalyst to Produce Furfural by Steam\r\nStripping Process",
+      "userid": 636,
+      "lastmod": "2022-04-07 06:37:35",
+      "official_url": "http:\/\/www.jurnal.unsyiah.ac.id\/RKL\/article\/viewFile\/4983\/5436",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162610",
+            "pos": 1,
+            "eprintid": 41151,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 162610,
+            "main": "MyReport 02-Sep-2021_nitalytiani.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456785",
+                  "filename": "MyReport 02-Sep-2021_nitalytiani.pdf",
+                  "objectid": 162610,
+                  "filesize": 192267,
+                  "mtime": "2022-04-07 03:44:24",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "fdc6059d649b3a1965dbc0fa020d4df5",
+                  "fileid": 456785,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2022-04-07 06:37:35",
+      "eprint_status": "archive",
+      "id_number": "ISSN 1412-5064, e-ISSN 2356-1661 https:\/\/10.23955\/rkl.v13i2.11145",
+      "eprintid": 41151,
+      "metadata_visibility": "show"
+    },
+    {
+      "divisions": [
+        "FT6"
+      ],
+      "publisher": "Jurusan Teknik Kimia, Fakultas Teknik Universitas Syiah Kuala",
+      "publication": "Jurnal Rekayasa Kimia dan Lingkungan",
+      "dir": "disk0\/00\/00\/39\/66",
+      "related_url": [
+        {
+          "url": "https:\/\/doi.org\/10.23955\/rkl.v11i2.5407"
+        }
+      ],
+      "status_changed": "2017-09-28 02:18:00",
+      "full_text_status": "public",
+      "issn": "1412-5064",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "subjects": [
+        "TP"
+      ],
+      "date_type": "published",
+      "volume": 11,
+      "abstract": "Salah satu hasil pertanian terbesar di Indonesia adalah tanaman ubi kayu. Selama ini batang ubi kayu tersedia dalam jumlah yang cukup besar namun belum dimanfaatkan secara optimal. Batang ubi kayu memiliki kandungan lignoselulosa yaitu selulosa 39,29%, hemiselulosa 24,34%, dan lignin 13,42%. Penelitian ini bertujuan untuk memanfaatkan limbah batang ubi kayu yang akan dijadikan sebagai bahan baku pembuatan selulosa asetat. Proses pembuatan selulosa asetat dilakukan dalam 2 tahap yaitu tahap isolasi selulosa (proses pretreatment, delignifikasi, dan bleaching) dan tahap sintesis selulosa asetat. Pelarut yang digunakan pada proses pretreatment yaitu asam fosfat, asam asetat, dan asam klorida. Hasil penelitian menunjukkan bahwa larutan asam fosfat 3% menghasilkan densitas terkecil yaitu 0,833 g\/mL yang menunjukan bahwa telah terjadinya swelling. Pada proses delignifikasi digunakan variasi waktu dan rasio bahan terhadap pelarut. Kadar selulosa terbesar yang diperoleh yaitu 56,92% dengan waktu pemasakan 2 jam dan rasio sampel terhadap pelarut 1:12 (v\/v). Identifikasi gugus fungsi FTIR terhadap selulosa asetat menunjukkan adanya serapan gugus karbonil (C=O) dan gugus ester (C-O), masing-masing terlihat pada bilangan gelombang 1738,47 cm-1 dan 1224,39 cm-1. Kadar asetil selulosa asetat yang dihasilkan sebesar 41,01% dan termasuk jenis selulosa diasetat yang dapat dimanfaatkan lebih lanjut dalam pembuatan membran, film topografi, dan benang.\r\nKata kunci: batang ubi kayu, kadar asetil, lignoselulosa, selulosa, selulosa asetat",
+      "date": "2016-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3966",
+      "creators": [
+        {
+          "name": {
+            "given": "Lismeri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Lia"
+          },
+          "id": "lismeri@yahoo.co.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Poppy",
+            "given": "Meutia Zari"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Novarani",
+            "honourific": null,
+            "lineage": null,
+            "family": "Tika"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yuli",
+            "lineage": null,
+            "given": "Darni"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Sintesis Selulosa Asetat dari Limbah Batang Ubi Kayu",
+      "eprintid": 3966,
+      "id_number": "https:\/\/doi.org\/10.23955\/rkl.v11i2.5407",
+      "eprint_status": "archive",
+      "datestamp": "2017-09-28 02:18:00",
+      "pagerange": 8291,
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 122,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3820",
+            "pos": 1,
+            "eprintid": 3966,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-27 03:46:44",
+                  "filesize": 608724,
+                  "objectid": 3820,
+                  "filename": "jurnal RKL.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27735",
+                  "datasetid": "document",
+                  "fileid": 27735,
+                  "mime_type": "application\/pdf",
+                  "hash": "8db33302b56d5cf1eddba3c761283066"
+                }
+            ],
+            "main": "jurnal RKL.pdf",
+            "docid": 3820
+          }
+      ],
+      "official_url": "https:\/\/doi.org\/10.23955\/rkl.v11i2.5407",
+      "lastmod": "2017-09-28 02:18:00"
+    },
+    {
+      "full_text_status": "public",
+      "issn": "2356-1661",
+      "status_changed": "2023-05-08 08:44:50",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Jurnal Rekayasa Kimia dan Lingkungan",
+      "publisher": "Universitas Syiah Kuala Aceh Darussalam",
+      "dir": "disk0\/00\/00\/30\/55",
+      "divisions": [
+        "FT6"
+      ],
+      "abstract": "Salah satu hasil pertanian terbesar di Indonesia adalah tanaman ubi kayu. Selama ini batang\r\nubi kayu tersedia dalam jumlah yang cukup besar namun belum dimanfaatkan secara optimal.\r\nBatang ubi kayu memiliki kandungan lignoselulosa yaitu selulosa 39,29%, hemiselulosa\r\n24,34%, dan lignin 13,42%. Penelitian ini bertujuan untuk memanfaatkan limbah batang ubi\r\nkayu yang akan dijadikan sebagai bahan baku pembuatan selulosa asetat. Proses pembuatan\r\nselulosa asetat dilakukan dalam 2 tahap yaitu tahap isolasi selulosa (proses pretreatment,\r\ndelignifikasi, dan bleaching) dan tahap sintesis selulosa asetat. Pelarut yang digunakan pada\r\nproses pretreatment yaitu asam fosfat, asam asetat, dan asam klorida. Hasil penelitian\r\nmenunjukkan bahwa larutan asam fosfat 3% menghasilkan densitas terkecil yaitu 0,833 g\/mL\r\nyang menunjukan bahwa telah terjadinya swelling. Pada proses delignifikasi digunakan variasi\r\nwaktu dan rasio bahan terhadap pelarut. Kadar selulosa terbesar yang diperoleh yaitu 56,92%\r\ndengan waktu pemasakan 2 jam dan rasio sampel terhadap pelarut 1:12 (v\/v). Identifikasi\r\ngugus fungsi FTIR terhadap selulosa asetat menunjukkan adanya serapan gugus karbonil\r\n(C=O) dan gugus ester (C-O), masing-masing terlihat pada bilangan gelombang 1738,47 cm-1\r\ndan 1224,39 cm-1\r\n. Kadar asetil selulosa asetat yang dihasilkan sebesar 41,01% dan termasuk\r\njenis selulosa diasetat yang dapat dimanfaatkan lebih lanjut dalam pembuatan membran, film\r\ntopografi, dan benang.\r\nKata kunci: batang ubi kayu, kadar asetil, lignoselulosa, selulosa, selulosa asetat\r\nAbstract\r\nOne of the biggest agricultural products in Indonesia is cassava. During this time cassava\r\nstems are available in large enough quantities, but they not have been used optimally. The\r\ncassava stems has lignocellulose content i.e. 39.29% cellulose, 24.34 % of hemicellulosa, and\r\n13.42 % of lignin. This study aims to utilize the cassava stems that will be used as raw\r\nmaterial for cellulose acetate synthesis. The process of making cellulose acetate is done in two\r\nsteps, namely the isolation of cellulose (the process of pretreatment, delignification, and\r\nbleaching) and the synthesis of cellulose acetate. The solvent used in the process of\r\npretreatment is phosphoric acid, acetic acid, and hydrochloric acid. The results of this\r\nresearch shows that a solution of phosphoric acid 3% produces the smallest density namely\r\n0.833 g\/mL which shows the occurrence of swelling. In the process of delignification uses a\r\nvariations of time and the ratio of cassava stems to solvent. The biggest contain of cellulose\r\nobtained is 56.92% with delignification time for two hours and the ratio cassava stems to\r\nsolvent 1:12 (v\/v). Identification of FTIR functional groups to cellulose acetate shows the\r\nabsorption of carbonyl group (C=O) and ester group (C-O), seen at wave number 1738.47\r\ncm-1 and 1224,39 cm-1\r\nrecpectively. The acetyl content of cellulose acetate produced is\r\n41.01% and includes the type of cellulose diasetat which can be further utilized in\r\nmanufacture of membrane, film topography, and thread.\r\nKeywords: acetyl content, cassava stem, cellulose, cellulose acetate, lignocellulose",
+      "volume": 11,
+      "date": "2016-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3055",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "id": "lismeri@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Lismeri",
+            "lineage": null,
+            "given": "Lia"
+          }
+        },
+        {
+          "id": "darni_yuli@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Darni",
+            "lineage": null,
+            "given": "Yuli"
+          }
+        }
+      ],
+      "title": "Sintesis Selulosa Asetat dari Limbah Batang Ubi Kayu\r\nCellulose Acetate Synthesis from Cassava Stem",
+      "refereed": "TRUE",
+      "userid": 462,
+      "contributors": [
+        {
+          "id": "lismeri@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "family": "lismeri",
+            "honourific": null,
+            "given": "lia"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "family": "darni",
+            "honourific": null,
+            "given": "yuli"
+          },
+          "id": "darni_yuli@yahoo.com"
+        }
+      ],
+      "number": 2,
+      "lastmod": "2023-05-08 08:44:50",
+      "documents": [
+          {
+            "main": "rkl 2016.pdf",
+            "files": [
+                {
+                  "filename": "rkl 2016.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21118",
+                  "objectid": 2935,
+                  "filesize": 608727,
+                  "mtime": "2017-06-02 05:05:44",
+                  "hash_type": "MD5",
+                  "hash": "cc4420668b2fc72696de35d0c2553322",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 21118
+                }
+            ],
+            "docid": 2935,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 3055,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2935",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2023-05-08 08:44:50",
+      "id_number": "DOI: https:\/\/doi.org\/10.23955\/rkl.v11i2.5407",
+      "eprintid": 3055,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "82-91"
+    },
+    {
+      "date": "2016-09-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2464",
+      "abstract": "The synthesis of SZr-SBA-15 catalsyt was prepared by using urea hydrolisis method. SBA-15 incoporated with sulfated\r\nzirconia was prepared by reacting SBA-15 with Zirkoniumoxychloride and urea at 90oC to form ZrO2-SBA-15. Then H2SO4 was added to\r\nZrO2-SBA-15 at room temperature to form SZr-SBA-15. This SZr-SBA-15 catalyst was used to synthesize biolubricant oil via\r\nesterification of oleic acid with TMP. The catalyst were characterized in terms of adsorption-desorption nitrogen analysis, SEM-EDX,\r\nFTIR and biolubricant oil was characterized by FTIR analysis. Based on SEM-EDX and adsorption-desorption nitrogen analysis result, it\r\nwas found that Zr had been incorporate in SBA-15. The SZr-SBA-15 catalyst was an efficient solid catalyst for esterification of oleic acid\r\nwith TMP with high conversion (85,9%) and selektivity (63,7%) to Trimethylolpropanetrioleat. From the study of reusability, it was\r\nfound that SZr-SBA-15 catalyst could be used up to 3 rounds reaction without significant decrease in activity.",
+      "date_type": "published",
+      "subjects": [
+        "TP"
+      ],
+      "event_title": "9th Conference of Indonesian Student Association in Korea (CISAK)",
+      "ispublished": "pub",
+      "rev_number": 4,
+      "full_text_status": "public",
+      "succeeds": 2306,
+      "status_changed": "2017-06-02 07:37:10",
+      "event_type": "conference",
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/24\/64",
+      "lastmod": "2017-06-02 07:37:10",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 2349,
+            "main": "repository.pdf",
+            "files": [
+                {
+                  "fileid": 17065,
+                  "datasetid": "document",
+                  "hash": "fc6f6e462fa14350ed9b044bdcbd881d",
+                  "mime_type": "application\/pdf",
+                  "filesize": 128003,
+                  "objectid": 2349,
+                  "filename": "repository.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17065",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-31 05:55:14"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 2464,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2349",
+            "pos": 1
+          }
+      ],
+      "userid": 397,
+      "metadata_visibility": "show",
+      "pagerange": "108-111",
+      "datestamp": "2017-06-02 07:37:10",
+      "eprintid": 2464,
+      "eprint_status": "archive",
+      "event_location": "Korea",
+      "title": "Synthesis and Reusability Study of Sulfated Zirconia\r\nFunctionalized SBA-15 for Esterification of Oleic\r\nAcid to Produce TMPTO as Biolubricant",
+      "event_dates": "3 - 4 September 2016",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rangganita",
+            "honourific": null,
+            "given": "Fully reha"
+          },
+          "id": null
+        },
+        {
+          "id": "lilis.hermida@eng.unila.ac.id",
+          "name": {
+            "given": "Lilis",
+            "family": "Hermida",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Angraeni",
+            "given": "Archealin"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Khoirunnisa",
+            "lineage": null,
+            "honourific": null,
+            "given": "Destiara"
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item"
+    },
+    {
+      "subjects": [
+        "TP"
+      ],
+      "event_title": "SEMINAR NASIONAL HASIL-HASIL PENGABDIAN KEPADA MASYARAKAT",
+      "date_type": "published",
+      "corp_creators": [
+        "Jurusan Teknik Kimia Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia Fakultas Teknik, Universitas Lampung"
+      ],
+      "abstract": "Budidaya jamur khususnya jenis jamur merang dan jamur tiram banyak dilakukan oleh kelompok industri kecil pembudidaya jamur di Desa Lingsuh, Kecamatan Raja Basa, Bandar Lampung. Masalah yang dihadapi oleh kelompok mitra ini adalah dalam penanganan pasca panen dan jika panen melimpah banyak jamur yang membusuk. Pemasaran jamur yang dilakukan juga masih terbatas sehingga sebagian produk jamur tersebut tidak terpasarkan dengan baik \r\nTujuan dari kegiatan IbM ini adalah untuk meningkatkan pengetahuan petani jamur tersebut tentang teknik penanganan pasca panen jamur dan aplikasi teknologi dengan perancangan alat pengering dan produk jamur kering untuk pengawetan jamur di saat panen melimpah. Dengan cara pengawetan jamur dengan metode pengeringan akan menjadi solusi masalah yang timbul ketika panen melimpah. Pengeringan dengan alat pengering cabinet dryer tersebut akan terjadi peningkatan produk kualitas jamur yang memenuhi standar kualitas produk bahan pangan kering. Selain itu juga ada peningkatan kuantitas produksi jamur kering oleh pembudidaya jamur, karena dengan bantuan alat pengering akan meningkatkan jumlah produksi jamur kering dan proses pengeringan lebih mudah, efisien serta tidak tergantung cuaca.\r\nMetode kegiatan yang digunakan dalam kegiatan IbM ini adalah metode yang melibatkan mitra dalam kegiatan secara keseluruhan. Pelaksanaan kegiatan ini selain diperoleh hasil berupa alat pengering cabinet dryer juga dilakukan peningkatan kemampuan dan pengetahuan mitra melalui pelatihan penanganan pasca panen jamur serta peningkatan kemampuan dalam pengawetan produk jamur kering dengan cara pengeringan dengan alat pengering. Terimplementasinya penanganan pasca panen jamur yang baik dan penanganan produk panen yang melimpah menjadi produk jamur kering akan meningkatkan pendapatan mitra.\r\n\r\nKata kunci: alat pengering, pasca panen jamur, jamur merang, jamur tiram",
+      "date": "2016-12-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6615",
+      "dir": "disk0\/00\/00\/66\/15",
+      "divisions": [
+        "FT6"
+      ],
+      "event_type": "conference",
+      "status_changed": "2018-04-25 02:26:53",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "eprintid": 6615,
+      "datestamp": "2018-04-25 02:26:53",
+      "pagerange": "137-145",
+      "metadata_visibility": "show",
+      "userid": 423,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Jurnal Pengabdian Herti lengkap 2016.pdf",
+            "docid": 19569,
+            "files": [
+                {
+                  "filename": "Jurnal Pengabdian Herti lengkap 2016.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61007",
+                  "objectid": 19569,
+                  "filesize": 1211477,
+                  "mtime": "2018-03-16 06:05:08",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "a833cf2680f764854759c3848b3da5de",
+                  "datasetid": "document",
+                  "fileid": 61007
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19569",
+            "eprintid": 6615,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2018-04-25 02:26:53",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Herti",
+            "honourific": null,
+            "lineage": null,
+            "family": "Utami"
+          },
+          "id": "herti.utami@eng.unila.ac.id"
+        },
+        {
+          "id": "darni_yuli@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Darni",
+            "honourific": null,
+            "given": "Yuli"
+          }
+        },
+        {
+          "id": "donny.lesmana@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Lesmana",
+            "given": "Donny"
+          }
+        }
+      ],
+      "event_dates": "Desember 2016",
+      "refereed": "TRUE",
+      "title": "Mengatasi Kendala Pengeringan Jamur Merang dan Jamur Tiram bagi Industri Kecil Pembudidaya Jamur di Dusun Lingsuh Kecamatan Rajabasa Bandar Lampung dengan Perancangan Alat Pengering",
+      "event_location": "Bandar Lampung"
+    },
+    {
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2017-06-05 01:53:38",
+      "event_type": "conference",
+      "funders": [
+        "DIPA UNILA"
+      ],
+      "divisions": [
+        "FT6"
+      ],
+      "dir": "disk0\/00\/00\/30\/49",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3049",
+      "date": "2016-08-24",
+      "abstract": "The aimed of this research is to evaluated the effect of  furfural acquisition and indicate whether steam  stripping process using acetic acid as catalyst is more efficient that  the conventional processes.The hydrolysis experiments of sugarcane bagasse were performed in steam stripping distillation at variable concentration (2-6%),reaction time(1-3hr),and temperature (110-120°C). Based  on  the  method RSM, best  conditions are obtained in 3hours, temperature of hydrolysis  120°C, and  a catalyst concentration of 6%, with concentration of furfural is 6.038mg\/ml and the most influence variable for the acquisition of furfural is time and temperature.",
+      "date_type": "completed",
+      "event_title": "International Conference on Science Technology and Interdiciplinary Research 2016",
+      "subjects": [
+        "TP"
+      ],
+      "event_location": "Universitas Lampung",
+      "title": "HYDROLYSIS OF FURFURAL  FROM  SUGARCANE BAGASSE USING ACETIC ACID AS CATALYST BY STEAM STRIPPING PROCESS",
+      "event_dates": "23-25 Agustus 2016",
+      "refereed": "FALSE",
+      "pres_type": "poster",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "nita",
+            "honourific": null,
+            "lineage": null,
+            "family": "listiani"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Pristiani",
+            "lineage": null,
+            "given": "Mega"
+          },
+          "id": null
+        },
+        {
+          "id": "dewi.agustina@eng.unila.ac.id",
+          "name": {
+            "given": "Dewi Agustina",
+            "honourific": null,
+            "family": "Iryani",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rustamaji",
+            "honourific": null,
+            "given": "Heri"
+          },
+          "id": null
+        }
+      ],
+      "lastmod": "2017-06-05 01:53:38",
+      "documents": [
+          {
+            "docid": 2924,
+            "main": "POSTER FIX NITA & MEGA.pdf",
+            "files": [
+                {
+                  "fileid": 21045,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "78bac30c9e49355c8e21ac5d727f9c3b",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 04:48:06",
+                  "filesize": 1221560,
+                  "objectid": 2924,
+                  "filename": "POSTER FIX NITA & MEGA.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21045"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 3049,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2924",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "userid": 636,
+      "metadata_visibility": "show",
+      "datestamp": "2017-06-05 01:53:38",
+      "eprintid": 3049,
+      "eprint_status": "archive"
+    }
+]
+

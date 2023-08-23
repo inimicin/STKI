@@ -1,0 +1,98 @@
+[
+    {
+      "pagerange": "507-514",
+      "metadata_visibility": "show",
+      "eprintid": 3920,
+      "eprint_status": "archive",
+      "datestamp": "2017-09-15 01:16:22",
+      "documents": [
+          {
+            "eprintid": 3920,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3774",
+            "pos": 1,
+            "format": "text",
+            "main": "Prosiding IGI_Nov_2012.pdf",
+            "files": [
+                {
+                  "mtime": "2017-09-13 05:29:35",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27400",
+                  "filename": "Prosiding IGI_Nov_2012.pdf",
+                  "objectid": 3774,
+                  "filesize": 920974,
+                  "mime_type": "application\/pdf",
+                  "hash": "fcbcde886e4981aed9c63bc21590ba93",
+                  "datasetid": "document",
+                  "fileid": 27400
+                }
+            ],
+            "docid": 3774,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2017-09-15 01:16:22",
+      "userid": 409,
+      "refereed": "TRUE",
+      "event_dates": "3-4 November 2012",
+      "title": "PENERAPAN METODE RESITASI UNTUK MENINGKATKAN AKTIVITAS DAN PRESTASI BELAJAR GEOGRAFI SISWA KELAS XI IPS  DI SMA MUHAMMADIYAH MARTAPURA KABUPATEN OKU TIMUR",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "de_miswar@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Dedy",
+            "lineage": null,
+            "given": "Miswar"
+          }
+        },
+        {
+          "name": {
+            "family": "Sugeng",
+            "lineage": null,
+            "honourific": null,
+            "given": "Widodo"
+          },
+          "id": "sugeng.widodo@fkip.unila.ac.id"
+        },
+        {
+          "id": "nani.suwarni@fkip.unila.ac.id",
+          "name": {
+            "given": "Suwarni",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nani"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Universitas Negeri Surakarta",
+      "event_title": "Proceeding of international seminar",
+      "subjects": [
+        "G1",
+        "GA",
+        "GB",
+        "GE",
+        "GF",
+        "L1"
+      ],
+      "date": "2012-11-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3920",
+      "abstract": "Penelitian ini bertujuan untuk menganalisis penggunaan metode resitasi dalam meningkatkan aktivitas dan prestasi belajar geografi siswa kelas XI IPS SMA Muhammadiyah Martapura. Penelitian yang dilakukan adalah penelitian tindakan kelas yang dilakukan dalam 3 siklus. Lokasi penelitian di SMA Muhammadiyah Martapura dengan subjek penelitian adalah 41 siswa yang terdiri dari 19 putra dan 22 putri, peneliti (guru), dan seorang guru geografi (observer). Hasil penelitian menunjukkan bahwa aktivitas siswa siklus I, 3 kelompok memperoleh kriteria aktif dan 4 kelompok lainnya sangat aktif sedangkan pada siklus II menunjukkan bahwa seluruh kelompok memperoleh kriteria sangat aktif. Hasil yang diperoleh pada siklus I adalah 80,5% siswa memperoleh nilai 65 atau lebih dan pada siklus II 85,4% siswa memperoleh nilai 65 atau lebih. Kesimpulan dalam penelitian ini bahwa melalui penggunaan metode resitasi dapat meningkatkan aktivitas dan prestasi belajar geografi siswa kelas kelas XI IPS SMA Muhammadiyah Martapura",
+      "event_type": "conference",
+      "divisions": [
+        "FKIP18"
+      ],
+      "publication": "Proceeding of international seminar",
+      "dir": "disk0\/00\/00\/39\/20",
+      "rev_number": 14,
+      "ispublished": "pub",
+      "status_changed": "2017-09-15 01:16:22",
+      "full_text_status": "public"
+    }
+]
+

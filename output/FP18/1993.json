@@ -1,0 +1,72 @@
+[
+    {
+      "abstract": "The performance of constructed wetland and vegetated strip systems for swine wastewater treatment at Pontotoc\/Flatwood Branch Experiment Station was  monitored  for  16 months, weekly  during summer and biweekly  in  other  seasons. A  laboratory  analysis  of  wastewater  constituents  was performed.  Constituent removal efficiencies were determined on  both  a  concentration  and  a  mass  basis.  Removal efficiencies varied among constituents.  overall concentration removals  of  BOD5,  SS,  NH3-N,  O-P04  ranged  from  about  63 %  to 94%.  overall mass removals of all constituents were more than 90%.  Fecal coliform removal was variable.  Overall hydraulic loss  of  83%  was  achieved.  The  open  water  segment  of  the wetland cells enhanced dissolved oxygen (D.O.)  concentration.",
+      "date": "1993-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45958",
+      "date_type": "completed",
+      "subjects": [
+        "S1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-10-25 06:52:35",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "publisher": "Mississippi State University",
+      "dir": "disk0\/00\/04\/59\/58",
+      "divisions": [
+        "FP18"
+      ],
+      "userid": 832,
+      "lastmod": "2022-10-25 06:52:35",
+      "pages": 88,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 45958,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184775",
+            "security": "public",
+            "files": [
+                {
+                  "objectid": 184775,
+                  "filesize": 15577065,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508855",
+                  "filename": "Cuplikan Thesis.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-25 05:57:39",
+                  "fileid": 508855,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "4881d8758f8d48ab5c7626758883649c"
+                }
+            ],
+            "main": "Cuplikan Thesis.pdf",
+            "docid": 184775,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2022-10-25 06:52:35",
+      "eprint_status": "archive",
+      "eprintid": 45958,
+      "metadata_visibility": "show",
+      "contact_email": "sugeng.triyono@fp.unila.ac.id",
+      "creators": [
+        {
+          "name": {
+            "given": "Sugeng",
+            "honourific": null,
+            "lineage": null,
+            "family": "Triyono"
+          },
+          "id": "sugeng.triyono@fp.unila.ac.id"
+        }
+      ],
+      "type": "book",
+      "title": "Performance of a Constructed Wetland in Swine Wastewater Treatment",
+      "refereed": "FALSE"
+    }
+]
+

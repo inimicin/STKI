@@ -1,0 +1,1411 @@
+[
+    {
+      "eprintid": 24092,
+      "eprint_status": "archive",
+      "datestamp": "2020-09-21 03:34:04",
+      "metadata_visibility": "show",
+      "userid": 227,
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2020-09-18 15:42:48",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219371",
+                  "filename": "6-Peer Review_Plantaxia_Sistem_RS.pdf",
+                  "objectid": 37796,
+                  "filesize": 475589,
+                  "mime_type": "application\/pdf",
+                  "hash": "e311cce0e6e58704b31569b685a98287",
+                  "datasetid": "document",
+                  "fileid": 219371
+                }
+            ],
+            "main": "6-Peer Review_Plantaxia_Sistem_RS.pdf",
+            "docid": 37796,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 24092,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37796",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2020-09-21 03:34:04",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Aristoteles",
+            "given": "Aristoteles"
+          },
+          "id": "aristoteles.1981@fmipa.unila.ac.id"
+        },
+        {
+          "id": "rahmat.safei@fp.unila.ac.id",
+          "name": {
+            "family": "Safe'i",
+            "lineage": null,
+            "honourific": null,
+            "given": "Rahmat"
+          }
+        },
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Kurnia",
+            "honourific": null,
+            "family": "Muludi",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "HAKI Buku : Sistem Informasi Penilaian Kesehatan Hutan (SIPUT)",
+      "subjects": [
+        "SD"
+      ],
+      "abstract": "Hasil Penilaian Karya Ilmiah \"HAKI Buku : Sistem Informasi Penilaian Kesehatan Hutan (SIPUT)\"pada Buku Ilmiah, Plantaxia, Oktober 2017, Oleh Teman Sejawat",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24092",
+      "divisions": [
+        "FP12"
+      ],
+      "publisher": "Plantaxia",
+      "dir": "disk0\/00\/02\/40\/92",
+      "status_changed": "2020-09-21 03:34:04",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7
+    },
+    {
+      "title": "Similiratity checker of paper entitle :\"ANALYSIS OF THE INFLUENCE OF NUTRITIONAL STATUS VARIABLES AND \r\nENVIRONMENTAL SANITATION ON THE EVENT OF DIARRHOUS TO CHILDREN\"",
+      "type": "other",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Feni",
+            "honourific": null,
+            "family": "Astiti",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Reni",
+            "lineage": null,
+            "family": "Zuraida",
+            "honourific": null
+          },
+          "id": "reni.zuraida@fk.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Bakri",
+            "lineage": null,
+            "honourific": null,
+            "given": "Samsul"
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        },
+        {
+          "id": "khairun.nisa@fk.unila.ac.id",
+          "name": {
+            "given": "Khairun Nisa",
+            "lineage": null,
+            "family": "Berawi",
+            "honourific": null
+          }
+        }
+      ],
+      "place_of_pub": "Turkey",
+      "metadata_visibility": "show",
+      "datestamp": "2023-01-30 01:47:00",
+      "eprintid": 48135,
+      "eprint_status": "archive",
+      "lastmod": "2023-01-30 01:47:00",
+      "official_url": "https:\/\/jws.rivierapublishing.id\/index.php\/jws\/search\/search",
+      "documents": [
+          {
+            "eprintid": 48135,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187344",
+            "pos": 1,
+            "format": "text",
+            "docid": 187344,
+            "main": "Similarity Cheker Feni Astiti (S).pdf",
+            "files": [
+                {
+                  "hash": "185fc7f505d25d30da8b155179dc629e",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 526141,
+                  "mtime": "2023-01-29 02:17:23",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526141",
+                  "filename": "Similarity Cheker Feni Astiti (S).pdf",
+                  "objectid": 187344,
+                  "filesize": 490324
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 753,
+      "publisher": "JWS",
+      "divisions": [
+        "FP12"
+      ],
+      "dir": "disk0_bak\/00\/04\/81\/35",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "status_changed": "2023-01-30 01:47:00",
+      "date_type": "completed",
+      "subjects": [
+        "GE",
+        "RA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48135",
+      "abstract": "Abstract"
+    },
+    {
+      "event_type": "conference",
+      "divisions": [
+        "FP12"
+      ],
+      "dir": "disk0\/00\/01\/50\/36",
+      "rev_number": 9,
+      "ispublished": "inpress",
+      "full_text_status": "public",
+      "status_changed": "2019-11-04 08:28:53",
+      "subjects": [
+        "SH"
+      ],
+      "event_title": "The International Conference on Marine and Coastal Engineering and Sciences (ICMACES 2019)",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15036",
+      "abstract": "The policy to prohibit cantrang fishing gear is intended to prevent excessive exploitation of fish resources, environmental degradation and conflicts between fishermen, but fishermen and government officials' perceptions of the policy are not the same. The purpose of this study was to analyze the perceptions of fishermen and government officials on the implementation of the prohibition of cantrang fishing gear policy in Lampung Bay. Data collection was carried out by interviewing 30 fishermen and 30 government officials. The data obtained were analyzed using a Likert scale and polarized between the perceptions of fishermen and government officials. The results showed that fishermen's perceptions of the successful implementation of cantrang fishing gear prohibition policies were influenced by the attitude of the implementers and the inaccurate standards and policy targets \/ policy size and objectives. This is in accordance with the fishermen's refusal to prohibit cantrang fishing gear policy by continuing to operationalize cantrang fishing gear. The perception of the government apparatus the high influence of the economic, social and political environment has an influence on the successful implementation of cantrang fishing gear prohibition policies. Perceptions between fishermen and government officials who are not in harmony cause the failure of the cantrang fishing gear prohibition policy in Lampung Bay. Thus it is necessary to review the policy of prohibiting fishing gear cantrang and strategic steps for its implementation. \r\n \r\nKeywords: policy, policy implementation, cantrang, perception, Lampung Bay",
+      "title": "Perceptions of Fishermen and Government on The Implementations of The Cantrang Fishing Ban in Teluk Lampung, Lampung",
+      "refereed": "TRUE",
+      "event_dates": "23-24 Agustus 2019",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hardian",
+            "lineage": null,
+            "given": "Debi"
+          },
+          "id": "debihardian2@gmail.com"
+        },
+        {
+          "id": "supono_unila@yahoo.com",
+          "name": {
+            "given": "Supono",
+            "lineage": null,
+            "family": "Supono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Indra Gumay",
+            "honourific": null,
+            "lineage": null,
+            "family": "Febryano"
+          },
+          "id": "indragumay@yahoo.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Damai",
+            "honourific": null,
+            "given": "Abdullah Aman"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Widiastuti",
+            "honourific": null,
+            "given": "E.L."
+          },
+          "id": "elwidi@yahoo.com"
+        }
+      ],
+      "event_location": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "datestamp": "2019-11-04 08:28:53",
+      "eprint_status": "archive",
+      "eprintid": 15036,
+      "lastmod": "2019-11-04 08:28:53",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28172",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 15036,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2019-11-02 22:05:17",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/129554",
+                  "filename": "Jurnal Persepsi CANTRANG  fix-converted (1).pdf",
+                  "filesize": 205841,
+                  "objectid": 28172,
+                  "mime_type": "application\/pdf",
+                  "hash": "9d6393ba47558919c8f0572e2ed8dd36",
+                  "fileid": 129554,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Jurnal Persepsi CANTRANG  fix-converted (1).pdf",
+            "docid": 28172,
+            "format": "text"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "LoA ICMACES a.n Debi Hardian.pdf",
+            "files": [
+                {
+                  "fileid": 129556,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "167b152e0f406824af3b08d39ef8af12",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-02 22:05:26",
+                  "filesize": 64856,
+                  "objectid": 28173,
+                  "filename": "LoA ICMACES a.n Debi Hardian.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/129556"
+                }
+            ],
+            "docid": 28173,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28173",
+            "pos": 2,
+            "security": "public",
+            "placement": 2,
+            "eprintid": 15036
+          }
+      ],
+      "userid": 591
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Wahyu",
+            "honourific": null,
+            "family": "Hidayat",
+            "lineage": null
+          },
+          "id": "wahyu.hidayat@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Intan Fajar",
+            "honourific": null,
+            "lineage": null,
+            "family": "Suri"
+          }
+        },
+        {
+          "id": "rahmat.safei@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Safe'i",
+            "lineage": null,
+            "given": "Rahmat"
+          }
+        },
+        {
+          "id": "christine.wulandari@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Wulandari",
+            "honourific": null,
+            "given": "Christine"
+          }
+        },
+        {
+          "name": {
+            "family": "Satyajaya",
+            "lineage": null,
+            "honourific": null,
+            "given": "Wisnu"
+          },
+          "id": "wisnu.satyajaya@fp.unila.ac.id"
+        },
+        {
+          "id": "indragumay@yahoo.com",
+          "name": {
+            "given": "Indra Gumay",
+            "honourific": null,
+            "lineage": null,
+            "family": "Febryano"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Febrianto",
+            "honourific": null,
+            "given": "Fauzi"
+          },
+          "id": null
+        }
+      ],
+      "title": "Keawetan dan Stabilitas Dimensi Papan Partikel Hibrida Bambu-Kayu dengan Perlakuan Steam dan Perendaman Panas",
+      "userid": 227,
+      "documents": [
+          {
+            "main": "8-Peer review_JITKT_Keawetan_RS.pdf",
+            "files": [
+                {
+                  "hash": "773b73d60a16e5a3964997dd25a7022d",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 219279,
+                  "mtime": "2020-09-18 15:25:35",
+                  "hash_type": "MD5",
+                  "filename": "8-Peer review_JITKT_Keawetan_RS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219279",
+                  "objectid": 37782,
+                  "filesize": 617267
+                }
+            ],
+            "docid": 37782,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 24080,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37782",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2020-09-21 03:32:48",
+      "eprintid": 24080,
+      "eprint_status": "archive",
+      "datestamp": "2020-09-21 03:32:48",
+      "metadata_visibility": "show",
+      "status_changed": "2020-09-21 03:32:48",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "publisher": "Fakultas Kehutanan Universitas Hasanuddin",
+      "divisions": [
+        "FP12"
+      ],
+      "dir": "disk0\/00\/02\/40\/80",
+      "abstract": "Hasil Penilaian Karya Ilmiah \"Keawetan dan Stabilitas Dimensi Papan Partikel Hibrida Bambu-Kayu dengan Perlakuan Steam dan Perendaman Panas\" pada Jurnal Ilmu dan Teknologi Kayu Tropis, Fakultas Kehutanan Universitas Hasanuddin, Januari 2019, oleh Teman Sejawat",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24080",
+      "subjects": [
+        "SD"
+      ]
+    },
+    {
+      "event_type": "conference",
+      "divisions": [
+        "FP12"
+      ],
+      "dir": "disk0\/00\/01\/51\/43",
+      "ispublished": "unpub",
+      "rev_number": 20,
+      "full_text_status": "public",
+      "status_changed": "2019-11-04 08:25:54",
+      "event_title": "The 4th International Conference on Social, Humanities, Economics, Law and Development (SHIELD 2019)",
+      "subjects": [
+        "SH"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15143",
+      "abstract": "The concept of Eco Fishing Port is a fisheries port management concept that not only pays attention to economic and social aspects, but also the ecological aspects in its management. The purpose of this study was to assess the feasibility of Lempasing Beach Coastal Fishing Port in Lampung as an Eco Fishing Port. Data collection was done by interview, observation, and study documentation. The data obtained were analyzed based on the criteria and indicators of Eco Fishing Port management and were subsequently described descriptively qualitative. The results showed that the Lempasing Coast Fishing Port has not yet met the requirements as an Eco Fishing Port. This can be seen from the following indicators: (1) No environmental management documents and no application of them in the management of fishing ports, and also no EIA \/ UKL-UPL documents, (2) No integrated waste treatment facilities, (3) Not enough public service infrastructure facilities components (trash \/ drainage \/ kiosk \/ canteen \/ shop \/ restaurant management), (4) Little attention to the environment in the management of fishing ports (ecological, social, economic, and economic growth of the port), and (5) Little attention to sanitation and hygiene of fish marketing places (construction sites and spatial planning of fish marketing buildings in accordance with the Sanitation Operational Procedure Standard.\r\n\r\nKeywords: Eco Fishing Port, Feasibility, Lempasing Lampung Beach Fishing Port, Fish Marketing Places.",
+      "title": "FEASIBILITY STUDY OF LEMPASING BEACH COASTAL FISHING PORT AS AN ENVIRONMENTALLY FRIENDLY FISHING PORT (ECO FISHING PORT)",
+      "refereed": "TRUE",
+      "event_dates": "26-27 Agustus 2019",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Zainal",
+            "family": "Karuman",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "zainalk22@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Indra Gumay",
+            "honourific": null,
+            "lineage": null,
+            "family": "Febryano"
+          },
+          "id": "indragumay@yahoo.com"
+        },
+        {
+          "id": "epwahono@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Wahono",
+            "honourific": null,
+            "given": "Endro Prasetyo"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nurcahyani",
+            "honourific": null,
+            "given": "Nuning"
+          },
+          "id": "uya.jujun@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Abdullah Aman",
+            "lineage": null,
+            "family": "Damai",
+            "honourific": null
+          },
+          "id": "damaisasa@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Zainal",
+            "honourific": null,
+            "family": "Abidin",
+            "lineage": null
+          },
+          "id": "zainal.abidin@fp.unila.ac.id"
+        }
+      ],
+      "event_location": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "datestamp": "2019-11-04 08:25:54",
+      "eprint_status": "archive",
+      "eprintid": 15143,
+      "lastmod": "2019-11-04 08:25:54",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 15143,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28281",
+            "pos": 1,
+            "security": "public",
+            "main": "PAPER ECO FISHING PORT REVISI 1-2 - IN ENGLISH 2 final 3.docx",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 130276,
+                  "hash": "02469b55322ceffacf081a6498deb450",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "objectid": 28281,
+                  "filesize": 229723,
+                  "filename": "PAPER ECO FISHING PORT REVISI 1-2 - IN ENGLISH 2 final 3.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/130276",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-03 21:39:42"
+                }
+            ],
+            "docid": 28281,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          },
+          {
+            "format": "text",
+            "docid": 28283,
+            "main": "LOA_Zainal K et al_Unila.pdf",
+            "files": [
+                {
+                  "mtime": "2019-11-03 21:56:13",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/130298",
+                  "filename": "LOA_Zainal K et al_Unila.pdf",
+                  "objectid": 28283,
+                  "filesize": 148296,
+                  "hash": "d7c2532b9f0bd5d857f38aef3881f279",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 130298
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 15143,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28283"
+          }
+      ],
+      "userid": 591
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kaskoyo",
+            "given": "Hari"
+          },
+          "id": "hari.kaskoyo@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ferli",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hartati"
+          },
+          "id": "ferlihartati@gmail.com"
+        },
+        {
+          "id": "samsul.bakri@fp.unila.ac.id",
+          "name": {
+            "given": "Samsul",
+            "family": "Bakri",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "indragumay@yahoo.com",
+          "name": {
+            "given": "Indra Gumay",
+            "family": "Febryano",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Bainah Sari",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dewi"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Similarity paper berjudul\"Satellite based analysis of mangrove cover and density change in \r\nmangroves of Tulang Bawang District, Lampung Province, Indonesia\"",
+      "datestamp": "2023-08-21 02:46:18",
+      "eprint_status": "archive",
+      "eprintid": 52404,
+      "metadata_visibility": "show",
+      "userid": 753,
+      "lastmod": "2023-08-21 02:46:18",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 52404,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253868",
+            "security": "public",
+            "main": "SATELLITE BASED ANALYSIS (S).pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "11f8cec59b8a3ec3f78b451357894afe",
+                  "fileid": 621120,
+                  "datasetid": "document",
+                  "filename": "SATELLITE BASED ANALYSIS (S).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621120",
+                  "objectid": 253868,
+                  "filesize": 1420360,
+                  "mtime": "2023-08-20 13:31:32",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 253868,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "publisher": "Departemen Biologi, FMIPA Universitas Sebelas Maret",
+      "divisions": [
+        "FP12"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/04",
+      "full_text_status": "public",
+      "status_changed": "2023-08-21 02:46:18",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "subjects": [
+        "GE",
+        "SD"
+      ],
+      "abstract": "Being a \r\nthreatened ecosystem of the world, mangroves require regular monitoring to identify areas that need improvement in conservation \r\nmeasures. Considering this, the present study aimed to assess the mangrove cover and density change in mangrove forest of Tulang \r\nBawang District, Lampung Province, Indonesia. Data was collected by remote sensing techniques using satellite imagery viz., Landsat 5 \r\nin 2000 and 2010 and Landsat 8 in 2020. It was then analyzed using remote sensing method, namely Object-Based Image Analysis\r\ntechniques using the unguided classification method to obtain mangrove cover data; while mangrove density information was obtained \r\nusing the Normalized Difference Vegetation Index algorithm. The results revealed the decrease in mangrove cover and density between\r\n2000 and 2020. The mangrove cover decreased from 7529 ha in 2000 to 5551 ha in 2020. Furthermore, density of mangrove forest has \r\nalso witnessed change from dense density class in 2000 to medium density class in 2020. From this result, it is evident that mangroves \r\nof East Rawajitu Sub-district are degrading and require focused efforts to prevent the degradation. Communities, entrepreneurs, and \r\ngovernments have different motives for utilizing mangrove forests that result in damage, so reasonable efforts are needed to manage \r\nmangrove forests sustainably",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52404"
+    },
+    {
+      "abstract": "ABSTRACT: The sanitarian worker’s compliance on fulfiling the guidline on medical waste treatment until nowadys have not yet been elucidated especially for whom employed in the district health care centres. Thi issue was come to be extreemly important in relation to their duties include to manage the hazardeous and toxic waste produce by district health care centre (puskesmas). The aim of this research was to develop a model of sanitarian’s worker compliance on the procedure for medical waste management. Ordinal Logistic \r\nRegression was aplied as the postulat which respon variable was [Y]i that scored by 0, 1,or 2 as represents for non, fair, or high compliant respectively to follow the precedure of managing the materials of hazardous an toxic waste. The predictor variables were included of age, gender, and knowledge sanitarian workers acompanied with of the performance of the facility, licency holding, and the survilience. Data were collected by interviewing and \r\nobserving of 22 puskesmas owened by the Authorities of Metro and Central Lampung Municipalities. The result sugested that: (1) The Model was realiable for predicting the \r\ncomplience of the sanitarian workerwer’s complience by the 6 predictor variables, (2) The sanitarian workers. compliance (a) were not affected by age, gender, or the licence holding, \r\nbut (b) were reduce significatly by merely 0,09 (P-value =0.025), (c) by 0,18 (P�value=0.062), by 0.07 (P-value=0.064) with their knowlege achievement, the quality of puskesmas’ facilities, and the supervion performace respectively. \r\nKeywords: compliance, sanitarian, medical waste, hazardeous and toxic material guide line",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47972",
+      "date_type": "published",
+      "subjects": [
+        "GE",
+        "RA0421"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-01-24 01:42:48",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "divisions": [
+        "FP12"
+      ],
+      "publisher": "LPPM Unila",
+      "dir": "disk0_bak\/00\/04\/79\/72",
+      "userid": 753,
+      "lastmod": "2023-01-24 01:42:48",
+      "documents": [
+          {
+            "main": "P 14. Sanitarian_4%.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 524665,
+                  "hash": "94a0c0c9e52b4e22500c47397c58bfa9",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-23 10:03:22",
+                  "filesize": 225658,
+                  "objectid": 187086,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524665",
+                  "filename": "P 14. Sanitarian_4%.pdf"
+                }
+            ],
+            "docid": 187086,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 47972,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187086",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2023-01-24 01:42:48",
+      "eprintid": 47972,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "place_of_pub": "Bandar Lampung",
+      "type": "other",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Arie",
+            "honourific": null,
+            "family": "Kuswantari",
+            "lineage": null
+          }
+        },
+        {
+          "id": "aslulila@yahoo.com",
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "lineage": null,
+            "family": "Setiawan"
+          }
+        },
+        {
+          "id": "yulmartin@eng.unila.ac.id",
+          "name": {
+            "given": "Yul",
+            "honourific": null,
+            "lineage": null,
+            "family": "Martin"
+          }
+        },
+        {
+          "id": "samsul.bakri@fp.unila.ac.id",
+          "name": {
+            "given": "Samsul",
+            "lineage": null,
+            "family": "Bakri",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "4% Overall Similarity of the paper entitled \"SANITARIAN WORKERS’ COMPLIANCE ON THE MEDICAL WASTE TREATMENT PROCEDURE: \r\nSTUDY IN HEALTH CENTERS OF METRO MUNICIPALITY AND CENTRAL LAMPUNG REGENCY \""
+    },
+    {
+      "date_type": "submitted",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "The development of people's cattle farms in addition to providing a positive impact on the people's economy but can also cause acute negative impacts on the environment, especially in sanitation and public health, considering that the people's business in general is integrated with the place of residence. Cattle waste contains a high amount of organic matter and nitrogen, besides that cow cattle waste also contains phosphate, sulfur and other elements and bacteriologically cattle waste generally contains Coliform bacteria whose members can cause diarrheal disease. This study aims to determine the factors that influence the contamination of Coli bacteria in well water in a farmer who maintains conventional cattle in the Natar and Jati Agung, subdistricts of South Lampung District. Through linear regression analysis, the results of this study indicate that the distance of the cage to the well, the number of cattle and the position of the well below the cage are significant factors that influence the number of Coli bacteria\r\nwith P-value 0.000, 0.003 and 0.079.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11822",
+      "publication": "Prosiding Seminar Nasional  Biologi 4 bertema: “Pemanfaatan Biodiversitas dan Bioteknologi untuk Pelestarian Lingkungan”",
+      "divisions": [
+        "FP12"
+      ],
+      "dir": "disk0\/00\/01\/18\/22",
+      "full_text_status": "public",
+      "status_changed": "2019-05-08 07:27:53",
+      "ispublished": "inpress",
+      "rev_number": 6,
+      "datestamp": "2019-05-08 07:27:53",
+      "eprint_status": "archive",
+      "eprintid": 11822,
+      "metadata_visibility": "show",
+      "userid": 753,
+      "lastmod": "2019-05-08 07:27:53",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-06 21:32:31",
+                  "filesize": 388313,
+                  "objectid": 24813,
+                  "filename": "[1] SNB_NANIK NUFIANI dkk_NIVERSITAS LAMPUNG.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/106404",
+                  "datasetid": "document",
+                  "fileid": 106404,
+                  "mime_type": "application\/pdf",
+                  "hash": "818312ae31918320cb21118a43d848fb"
+                }
+            ],
+            "main": "[1] SNB_NANIK NUFIANI dkk_NIVERSITAS LAMPUNG.pdf",
+            "docid": 24813,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24813",
+            "pos": 1,
+            "eprintid": 11822,
+            "placement": 1
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Nanik",
+            "honourific": null,
+            "family": "Nufiani",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Utomo",
+            "given": "Muhajir"
+          },
+          "id": "muhajir.utomo@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Bakri",
+            "given": "Samsul"
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fathul",
+            "given": "Farida"
+          },
+          "id": "farida.1959@fp.unila.ac.id"
+        }
+      ],
+      "title": "PENGARUH LINGKUNGAN BIOFISIK KANDANG PETERNAKAN SAPI TRADISIONAL TERHADAP CEMARAN BAKTERI COLI DALAM AIR SUMUR",
+      "refereed": "TRUE"
+    },
+    {
+      "publication": "Prosiding  Seminar Nasional Hari Air Dunia 2019",
+      "publisher": "Program Pascasarjana Universitas Sriwijaya, Palembang",
+      "divisions": [
+        "FP12"
+      ],
+      "dir": "disk0\/00\/01\/18\/16",
+      "rev_number": 6,
+      "ispublished": "inpress",
+      "status_changed": "2019-05-08 07:26:34",
+      "full_text_status": "public",
+      "subjects": [
+        "SD"
+      ],
+      "date_type": "submitted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11816",
+      "abstract": "Peran ekosistem perairan terestrial dalam menopang penghidupan masyarakat\r\ntelah banyak di singkapkan melalui berbagai penelitian, namun belum banyak\r\nyang melaporkan pengaruhnya terhadap kejadian malaria. Penelitian ini\r\nmenggunakan pendekatan pemodelan postulat linear yaitu OLS: Ordibary least\r\nSquare dengan tujuan untuk menentukan pengaruh perairan terestris (termasuk\r\nsungai & danau, rawa-rawa, sawah, tambak, dan mangrove) terhadap Annual\r\nparasite Index sebagai variabel respon [API]i,t pada tiap kabupate\/kota yang ke i\r\nyang ada di lingkup Provinsi Lampung pada tahun ke t (dimana t=2009, 2012 dan\r\n2015). Penelitian ini dilakukan di lingkup Provinsi Lampung mulai bulan\r\nOktober-Maret 2018. Data API dikumpulkan Dinas Kesehatan Provinsi Lampung.\r\nData proporsi perairan terestris dan penggunaan lahan lainnya diunduh dari situs\r\nwww.earthexplorer.usgs.gov kemudian diekstrak melalui interpretasi citra landsat\r\nETM+7 dan divalidasi melalui pengecekan lapangan terhadap senua poligon\r\ndihasilkan dengan menggunakan piranti lunak ArcGIS versi 10.3 dan ENVI versi\r\n5.4. Analisis data dan pemodelan di Laboratorium Inventarisasi dan Pemetaan\r\nSumberdaya Hutan Universitas Lampung. Untuk optimasi paameter dan uji\r\nhipotesis digunakan piranti lunak pengolah data statistik pada taraf nyata 10%.\r\nKesimpulan bahwa ekosistem perairan terestris yang bepengaruh nyata dalam (a)\r\npenurunan API adalah badan perarian (sungai, danau dan waduk) dan tambak, (b)\r\npeningkatan API adalah sawah, dan hutan mangrove. Saran yang diajukan: agar\r\nmelakukan validasi dengan melakukan penelitian yang serupa di provisi lain",
+      "refereed": "TRUE",
+      "title": "PERANAN EKOSISTEM PERAIRAN TERESTRIAL TERHADAP INSIDENSI PENYAKIT MALARIA: STUDI DI PROVINSI LAMPUNG",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Pelita",
+            "lineage": null,
+            "honourific": null,
+            "given": "Anita"
+          }
+        },
+        {
+          "id": "yadisuwandi04@gmail.com",
+          "name": {
+            "given": "Jhons Fatriyadi",
+            "lineage": null,
+            "family": "Suwandi",
+            "honourific": null
+          }
+        },
+        {
+          "id": "samsul.bakri@fp.unila.ac.id",
+          "name": {
+            "given": "Samsul",
+            "lineage": null,
+            "family": "Bakri",
+            "honourific": null
+          }
+        },
+        {
+          "id": "melya.riniarti@fp.unila.ac.id",
+          "name": {
+            "given": "Melya",
+            "family": "Riniarti",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 11816,
+      "datestamp": "2019-05-08 07:26:34",
+      "documents": [
+          {
+            "docid": 24805,
+            "main": "[1] Anita Pelita dkk_Hari Air Sedunia_Palembang_MIL Unila.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "9b5ca105a26edd959533e06cc1986cc0",
+                  "fileid": 106354,
+                  "datasetid": "document",
+                  "mtime": "2019-05-06 14:19:16",
+                  "hash_type": "MD5",
+                  "filename": "[1] Anita Pelita dkk_Hari Air Sedunia_Palembang_MIL Unila.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/106354",
+                  "filesize": 583667,
+                  "objectid": 24805
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 11816,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24805",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2019-05-08 07:26:34",
+      "userid": 753
+    },
+    {
+      "rev_number": 10,
+      "ispublished": "inpress",
+      "status_changed": "2019-11-05 10:59:13",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FP12"
+      ],
+      "dir": "disk0\/00\/01\/51\/49",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15149",
+      "abstract": "Fisherman insurance program is one of the government's policies to protect fishermen in their work. This study aims to explain the attitude response of fishermen to fishermen insurance programs. The sampling technique used is non probability sampling using the method of judgment sampling approach, which is based on certain criteria that have been determined in advance by the researcher. The research samples were 96 fishermen who were determined by the Slovin method. The results of the study were analyzed by the Fishbein Multiattribute Analysis Model and described descriptively. The attitude of fishermen to Fisherman Insurance is between the neutral and maximum attitude values. The level of attribute importance that is considered very important for fishermen is that premium subsidies are inversely proportional to the level of performance that is not good at this attribute. There needs to be a review of the policies of fishermen insurance programs so they can be in accordance with the things that are considered, most important for fishermen so that they can increase the awareness of fishermen in self-protection.    \r\n\r\nKeyword: Fisherman Insurance, Fishermen, Risk, Response attitude",
+      "subjects": [
+        "SH"
+      ],
+      "event_title": "The International Conference on Marine and Coastal Engineering and Sciences (ICMACES 2019)",
+      "event_location": "Bandar Lampung",
+      "event_dates": "23-24 Agustus 2019",
+      "refereed": "TRUE",
+      "title": "Analysis of Fishermen Attitude Response on Fisheries Insurance in Bandar Lampung City, Lampung Province",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "mutiara.rona93@gmail.com",
+          "name": {
+            "given": "Mutiara",
+            "honourific": null,
+            "family": "Rona",
+            "lineage": null
+          }
+        },
+        {
+          "id": "indragumay@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Febryano",
+            "honourific": null,
+            "given": "Indra Gumay"
+          }
+        },
+        {
+          "id": "damaisasa@yahoo.com",
+          "name": {
+            "given": "Abdullah Aman",
+            "family": "Damai",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hartoyo",
+            "honourific": null,
+            "given": "Hartoyo"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rochana",
+            "honourific": null,
+            "given": "Erna"
+          },
+          "id": null
+        }
+      ],
+      "type": "conference_item",
+      "documents": [
+          {
+            "eprintid": 15149,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28288",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filename": "LoA ICMACES a.n Mutiara Rona.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/130324",
+                  "objectid": 28288,
+                  "filesize": 69800,
+                  "mtime": "2019-11-03 22:13:28",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "2d54138cd7900de309ea846d40ee0cc7",
+                  "datasetid": "document",
+                  "fileid": 130324
+                }
+            ],
+            "main": "LoA ICMACES a.n Mutiara Rona.pdf",
+            "docid": 28288,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          },
+          {
+            "main": "full paper seminar icmaces.pdf",
+            "docid": 28502,
+            "files": [
+                {
+                  "fileid": 132713,
+                  "datasetid": "document",
+                  "hash": "ea51b7d4e137bacab1cd962a8341cc5e",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-04 10:16:57",
+                  "objectid": 28502,
+                  "filesize": 637562,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/132713",
+                  "filename": "full paper seminar icmaces.pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 2,
+            "eprintid": 15149,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28502",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2019-11-05 10:59:13",
+      "userid": 591,
+      "metadata_visibility": "show",
+      "eprintid": 15149,
+      "eprint_status": "archive",
+      "datestamp": "2019-11-05 10:59:13"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Arief",
+            "family": "Setiajaya",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Samsul",
+            "honourific": null,
+            "lineage": null,
+            "family": "Bakri"
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        },
+        {
+          "id": "ashafnov2008@gmail.com",
+          "name": {
+            "given": "Abdul Firman",
+            "family": "Ashaf",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayati"
+          },
+          "id": "srihidayati.unila@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Pengaruh Penayangan Eco-Brick Inovation Melalui Media TVRI dan Latar Belakang Demografi terhadap Sikap Peduli Lingkungan Masyarakat Pesisir Kota Bandar Lampung",
+      "userid": 753,
+      "documents": [
+          {
+            "format": "text",
+            "main": "[1] Paper Arif dkk-Semnas Surakarta.pdf",
+            "files": [
+                {
+                  "hash": "b1d4718da7a89cc04d6f2d781e89239d",
+                  "mime_type": "application\/pdf",
+                  "fileid": 106497,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/106497",
+                  "filename": "[1] Paper Arif dkk-Semnas Surakarta.pdf",
+                  "filesize": 318117,
+                  "objectid": 24831,
+                  "mtime": "2019-05-07 01:33:18",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 24831,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 11837,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24831",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2019-05-08 07:28:49",
+      "eprintid": 11837,
+      "eprint_status": "archive",
+      "datestamp": "2019-05-08 07:28:49",
+      "metadata_visibility": "show",
+      "status_changed": "2019-05-08 07:28:49",
+      "full_text_status": "public",
+      "ispublished": "inpress",
+      "rev_number": 6,
+      "dir": "disk0\/00\/01\/18\/37",
+      "publication": "Prosiding Seminar Nasional Pindidikan Biologi dan Saintek bertema “Isu Strategis Sains, Lingkungan dan Inovasi Pembelajarannya",
+      "divisions": [
+        "FP12"
+      ],
+      "abstract": "Wilayah pesisir kota Bandar Lampung mempunyai potensi sumber daya alam yang beragam. Wilayah ini kini mengalami kemerosotan fungsi ekologis karena pencemaran limbah rumah tangga terutama sampah yang berbahan plastik. Hal ini karena beban cemaran terus meningkat akibat sampah plastik yang memerlukan waktu ratusan tahun untuk dapat teruraikan secara alami oleh mikroba, sementara sumber pencermarannya juga terus bertambah. Padahal sampah plastik dapat didaur ulang antara lain menjadi eco-brick: Suatu jenis inovasi yang dapat menjadi insentif ekonomi bagi pengembangan perilaku peduli lingkungan. Namun, minimnya informasi bagi masyarakat\r\nmenjadikan harapan tersebut masih sulit untuk diwujudkan. Penelitian ini ditujukan untuk menentukan pengaruh\r\nkonten eco-brick dalam siaran TVRI dan variabel demografi terhadap sikap peduli lingkungan masyarakat pesisir.\r\nPenelitian dilakukan di Pesisir Teluk Lampung mulai Januari sampai Pebruari 2019. Perlakuan tunggal berupa konten\r\ntatacara pembuatan dan manfaat ekonomi dari eco-brick yang dikemas dalam film berdurasi 30 menit yang diunggah\r\nke akun youtube penulis, yakni akun youtube arif setiajaya. Kemasan film ini didedahkan (exposed) menggunakan\r\nvideo player kepada 10 kelompok dengan anggota 10 orang per kelompok. Metode penelitian ini menggunakan metode\r\nwawancara tentang demografi partisipan yang dipetakan berdasarkan: umur, kelamin, pendidikan, etnis-budaya,\r\npekerjaan, dan juga rasa ketertarikan pada bisnis eco-brick. Variabel daya tarik terhadap informasi bisnis eco-brick\r\ndan variabel demografis ini diperlakukan sebagai variabel prediktor dalam model Ordinally Regression. Sikap kepedulian terhadap penyelamatan lingkungan digunakan sebagai variabel respon dalam skala ordinal bernilai 0, 1, dan 2. Masing-masing skala ini merepresentasikan respon rendah, sedang dan tinggi. Optimasi parameter model dan uji hipotesis dilakukan pada taraf nyata 95% menggunakan software Minitab 17. Berdasakan hasil regresi ordinal yang menggunakan piranti lunak Minitab Versi 17 pada selang kepercayaan 10% menunjukan bahwa ecobrick innovation berpengaruh nyata dengan P value 0,010 dan ods ratio 11,76. Variabel dummy yang berpengaruh nyata pada sikap peduli lingkungan adalah nelayan, pedagang, trust, dan pendatang. Simpulan yang dapat dibuat bahwa (a) sikap kepedulian partisipan adalah 11,76 kali lebih tinggi bagi yang tertarik pada bisnis eco-brick dibandingkan dengan yang tidak, (b) masyarakat pendatang merupakan 3.77 kali lebih tinggi dari pada yang asli setempat (c) masyarakat nelayan maupun pedagang lebih rendah yang masing-masing hanya 0.18 dan 0.04 dari pada yang pekerjaannya serabutan. Implikasi kebijakan yang disarankan dari penelitian ini adalah bahwa inovasi eco-brick dapat dijadikan insentif untuk menyerap para pekerja serabutan agar lebih lebih produktif sekaligus sebagai strategi penyelamatan lingkungan pesisir.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11837",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "submitted"
+    },
+    {
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Puja",
+            "honourific": null,
+            "family": "Yuwana",
+            "lineage": null
+          },
+          "id": "yuwana.puja@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Tugiyono",
+            "given": "Tugiyono"
+          },
+          "id": "tugiyono.1964@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suciantoro",
+            "given": "Suciantoro"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Indra Gumay",
+            "honourific": null,
+            "lineage": null,
+            "family": "Febryano"
+          },
+          "id": "indragumay@yahoo.com"
+        }
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "event_dates": "23-24 Agustus 2019",
+      "title": "Utilization of Bycatch from Fishing and Fish Processing Waste as Formulated Feed Raw Materials in Silver pompano (Trachinotus blochii Lacepede 1801) Grow Out",
+      "event_location": "Bandar Lampung",
+      "eprintid": 15147,
+      "eprint_status": "archive",
+      "datestamp": "2019-11-04 08:25:43",
+      "metadata_visibility": "show",
+      "userid": 591,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28284",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 15147,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "LoA ICMaCES 2019 a.n Yuwana  Puja.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 130303,
+                  "mime_type": "application\/pdf",
+                  "hash": "9b589b22c2f3f9330bbb93459185c620",
+                  "filesize": 65447,
+                  "objectid": 28284,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/130303",
+                  "filename": "LoA ICMaCES 2019 a.n Yuwana  Puja.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-03 22:00:05"
+                }
+            ],
+            "docid": 28284,
+            "format": "text"
+          },
+          {
+            "placement": 2,
+            "eprintid": 15147,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28285",
+            "pos": 2,
+            "security": "public",
+            "main": "Mklh Seminar Internasional yuwana puja.docx",
+            "docid": 28285,
+            "files": [
+                {
+                  "hash": "73d1abc05189880673fa58e9ca5ddaed",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "datasetid": "document",
+                  "fileid": 130305,
+                  "mtime": "2019-11-03 22:00:12",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/130305",
+                  "filename": "Mklh Seminar Internasional yuwana puja.docx",
+                  "objectid": 28285,
+                  "filesize": 48401
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          }
+      ],
+      "lastmod": "2019-11-04 08:25:43",
+      "divisions": [
+        "FP12"
+      ],
+      "dir": "disk0\/00\/01\/51\/47",
+      "event_type": "conference",
+      "status_changed": "2019-11-04 08:25:43",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "subjects": [
+        "SH"
+      ],
+      "event_title": "The International Conference on Marine and Coastal Engineering and Sciences (ICMACES 2019)",
+      "abstract": "The existence of the fisheries industry has a positive impact on regional economic development and coastal fishermen, but on the other hand it causes environmental problems, due to the resulting waste and decreasing environmental quality. In fisheries production residual waste there are still many useful nutrients that can be used, such as carbohydrates, proteins, fats, mineral salts, and can be used as raw material for grow out fish feed. This utilization can also reduce the need to import fish meal, and reduce waste.\r\nThis study aims to determine the effect of feed from the bycatchs of fish catching and processing on the growth of silver pompano weight.\r\nAfter testing for 60 days, the average weight of silver silver pompano, in Control (K), obtained the highest results of 212.25 ± 2.05 g, followed by 198.58 ± 2.79 g (treatment A) and 188.83 ± 0.38 g (treatment  B). Based on the results of the Anova analysis and Tukey’s advanced test, it showed the significant difference between Control and both treatments as well as between treatment A and treatment B.  \r\n\r\nKeywords : Waste,  Formulated feed, Growth, Silver pompano",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15147"
+    },
+    {
+      "abstract": ". The increase in the number of Covid-19 cases is quite fast, and continues to spread \r\nto various countries in a short time. The level of spread that is very significant and on a large scale \r\nis a serious problem in terms of prevention and control. Prolonged Covid-19 pandemic has had a \r\nmajor impact on health, economy and social life. There are many risk factors that influence the \r\nspread of COVID-19, one of which is environmental factors. This study aims to analyze the effect \r\nof environmental variables, including: rainfall, intensity of sunlight, temperature, humidity, regional \r\nphysiography, population density, governance status and human development index (IPM) on the \r\nincidence of Covid-19 in Lampung Province. This study uses quantitative data, the data used in \r\nthis study is secondary data, obtained from relevant agencies that can be accessed through the \r\nwebsite online. The data used describe the situation of 15 districts\/cities in Lampung Province. \r\nWhich was analyzed using Minitab software ver. 16 with regression test. The results show that \r\nthe variables of Governance Status, rainfall, intensity solar radiation, maximum temperature, \r\nminimum humidity, population density and HDI have a significant effect on the incidence of Covid�19 in Lampung Province, with R 32.4%. The variable that has the most influence on the incidence \r\nof covid-19 is Governance Status with a coefficient value of -454.1. Environmental conditions that \r\nare quite extreme require the role of effective policies from the government to overcome the \r\ncurrent pandemic, contingency planning and comprehensive mitigation plans to ensure public \r\nhealth conditions.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52410",
+      "subjects": [
+        "GE",
+        "SD"
+      ],
+      "status_changed": "2023-08-21 02:46:28",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "publisher": "Fakultas Pertanian Universitas Lambunbg Negara",
+      "divisions": [
+        "FP12"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/10",
+      "userid": 753,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Tigoh 24% JHT_EKOSISTEM COVID 19 (S).pdf",
+            "files": [
+                {
+                  "hash": "f2e28952b8d8d9cd8b9b8828561eb6c0",
+                  "mime_type": "application\/pdf",
+                  "fileid": 621204,
+                  "datasetid": "document",
+                  "mtime": "2023-08-20 15:20:04",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621204",
+                  "filename": "Tigoh 24% JHT_EKOSISTEM COVID 19 (S).pdf",
+                  "filesize": 835270,
+                  "objectid": 253901
+                }
+            ],
+            "docid": 253901,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253901",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52410
+          }
+      ],
+      "lastmod": "2023-08-21 02:46:28",
+      "eprint_status": "archive",
+      "eprintid": 52410,
+      "datestamp": "2023-08-21 02:46:28",
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "sanjaya",
+            "honourific": null,
+            "given": "Tigoch"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Dyah Wulan",
+            "honourific": null,
+            "family": "Wardani",
+            "lineage": null
+          },
+          "id": "dyah.wulan@fk.unila.ac.id"
+        },
+        {
+          "id": "epwahono@eng.unila.ac.id",
+          "name": {
+            "given": "Endro Prasetyo",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wahono"
+          }
+        },
+        {
+          "id": "samsul.bakri@fp.unila.ac.id",
+          "name": {
+            "given": "Samsul",
+            "family": "Bakri",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "yadisuwandi04@gmail.com",
+          "name": {
+            "given": "Jhons Fatriyadi",
+            "lineage": null,
+            "family": "Suwandi",
+            "honourific": null
+          }
+        },
+        {
+          "id": "ety.apriliana@fk.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Apriliana",
+            "lineage": null,
+            "given": "Ety"
+          }
+        }
+      ],
+      "title": "Similarity paper berjudul PENGARUH PERUBAHAN EKOSISTEM LINGKUNGAN, TERHADAP \r\nKEJADIAN COVID-19\r\nDI PROVINSI LAMPUNG"
+    }
+]
+

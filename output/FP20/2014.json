@@ -1,0 +1,491 @@
+[
+    {
+      "pagerange": "125-130",
+      "metadata_visibility": "show",
+      "eprintid": 47844,
+      "eprint_status": "archive",
+      "datestamp": "2023-01-16 06:38:16",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "1. Aquasains vol 2 no 2 2014.pdf",
+            "docid": 186945,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "f85b95dcfe4c1e989546cc65052b825f",
+                  "fileid": 523632,
+                  "datasetid": "document",
+                  "mtime": "2023-01-16 04:42:58",
+                  "hash_type": "MD5",
+                  "filename": "1. Aquasains vol 2 no 2 2014.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523632",
+                  "objectid": 186945,
+                  "filesize": 1424181
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186945",
+            "eprintid": 47844,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JPBP\/article\/view\/273",
+      "lastmod": "2023-01-16 06:38:16",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Muarif",
+            "lineage": null,
+            "family": "Muarif",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Hasani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Qadar"
+          }
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Henni",
+            "honourific": null,
+            "family": "Wijayanti",
+            "lineage": null
+          }
+        }
+      ],
+      "userid": 535,
+      "refereed": "TRUE",
+      "title": "TOKSISITAS METIL METSULFURON HUBUNGANNYA DENGAN MASKULINITAS COPEPODA Daphnia sp.",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Muarif",
+            "honourific": null,
+            "given": "Muarif"
+          }
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "name": {
+            "given": "Qadar",
+            "family": "Hasani",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "henni.wijayanti@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Wijayanti",
+            "lineage": null,
+            "given": "Henni"
+          }
+        }
+      ],
+      "subjects": [
+        "QL",
+        "SH"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47844",
+      "date": "2014-01",
+      "volume": 2,
+      "abstract": "Metil metsulfuron merupakan senyawa aktif yang umum digunakan oleh para petani untuk membasmi gulma di sawah. Penggunaan yang tidak sesuai pada senyawa aktif tersebut akan menyebabkan resiko pencemaran lingkungan yang berpengaruh terhadap kondisi organisme non target disekitarnya seperti gangguan reproduksi pada Daphnia sp. Penelitian ini bertujuan untuk mengetahui tingkat toksisitas metil metsulfuron dengan menentukan nilai LC5048 jam terhadap Daphnia sp. serta mengetahui rasio jenis kelamin jantan anakan Daphnia sp. Adapun metode yang digunakan dalam penelitian ini adalah pemberian senyawa aktif metil metsulfuron dengan konsentrasi yang berbeda. Pada uji toksisitas akut menggunakan konsentrasi 0 ppm; 20,89 ppm; 43,64 ppm; 91,17 ppm; 190,48 ppm dan 397,96 ppm. Sedangkan pada uji pengaruh metil metsulfuron terhadap rasio anakan jantan Daphnia sp. yaitu 0 ppm; 20 ppm; 40 ppm dan 80 ppm. Hasil penelitian pada uji toksisitas menunjukkan nilai (LC50)-48 jam sebesar 140,2 ppm sedangkan persentase rasio anakan jantan Daphnia sp. tertinggi terdapat pada perlakuan 80 ppm yaitu mencapai 71%. Hubungan antara konsentrasi metil metsulfuron dengan rasio anakan jantan Daphnia sp. menunjukkan bahwa semakin tinggi konsentrasi metil metsulfuron yang dipaparkan pada Daphnia sp., maka semakin meningkat pula rasio anakan jantan Daphnia sp. yang dihasilkan.",
+      "publisher": "Jurusan Perikanan dan Kelautan, Fakultas Pertanian, Universitas Lampung",
+      "publication": "Aquasains",
+      "divisions": [
+        "FP20"
+      ],
+      "dir": "disk0_bak\/00\/04\/78\/44",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/JPBP\/article\/view\/273\/269"
+        }
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2023-01-16 06:38:16",
+      "issn": "2301-816X",
+      "full_text_status": "public"
+    },
+    {
+      "contributors": [
+        {
+          "name": {
+            "given": "Dwi Saka",
+            "family": "Randy",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "dwisakarandy763@yahoo.co.id"
+        },
+        {
+          "name": {
+            "family": "Hasani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Qadar"
+          },
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulianto",
+            "given": "Herman"
+          },
+          "id": "herman.yulianto@fp.unila.ac.id"
+        }
+      ],
+      "userid": 535,
+      "number": 1,
+      "official_url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/article\/view\/471",
+      "lastmod": "2023-01-10 08:25:47",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 47680,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186770",
+            "security": "public",
+            "main": "2014. 471-1401-1-SM Dwi Saka Randi (S4).pdf",
+            "docid": 186770,
+            "files": [
+                {
+                  "mtime": "2023-01-10 07:56:13",
+                  "hash_type": "MD5",
+                  "filename": "2014. 471-1401-1-SM Dwi Saka Randi (S4).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522287",
+                  "objectid": 186770,
+                  "filesize": 557782,
+                  "mime_type": "application\/pdf",
+                  "hash": "55e00cac77e21ddfb3882884bfa5b282",
+                  "fileid": 522287,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2023-01-10 08:25:47",
+      "eprintid": 47680,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "335-342",
+      "creators": [
+        {
+          "name": {
+            "given": "Dwi Saka",
+            "lineage": null,
+            "family": "Randy",
+            "honourific": null
+          },
+          "id": "dwisakarandy763@yahoo.co.id"
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "name": {
+            "given": "Qadar",
+            "family": "Hasani",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "herman.yulianto@fp.unila.ac.id",
+          "name": {
+            "given": "Herman",
+            "honourific": null,
+            "family": "Yulianto",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "ANALISIS EKOLOGI TELUK CIKUNYINYI UNTUK BUDIDAYA KERAPU MACAN (Epinephelus fuscoguttatus)",
+      "refereed": "TRUE",
+      "abstract": "Perkembangan budidaya kerapu macan (Epinephelus fuscoguttatus) di Pantai Ringgung Kabupaten Pesawaran cukup pesat. Kondisi tersebut mengisyaratkan budidaya kerapu macan di Pantai Ringgung diprediksi akan terus meluas. Salah satu perairan yang terdekat dengan Pantai Ringgung adalah perairan Teluk Cikunyinyi. Pemilihan lokasi yang tepat merupakan indikator keberhasilan suatu usaha budidaya, oleh karena itu perlu dilakukan analisis tentang kesesuaian perairan untuk keberlangsungan suatu usaha budidaya. Tujuan dari penelitian untuk mendeskripsikan kondisi ekologis perairan Teluk Cikunyinyi dan menganalisis tingkat kesesuaian kualitas perairannya untuk budidaya kerapu macan. Penelitian dilaksanakan pada Oktober-November 2013. Analisis kualitas air dilaksanakan di Laboratorium Kesehatan Ikan dan Lingkungan Air, Balai Besar Pengembangan Budidaya Laut Lampung dengan menggunakan 8 lokasi sebagai lokasi pengambilan sampel air. Metode dalam penelitian ini adalah metode deskriptif eksploratif. Sedangkan metode penentuan lokasi titik pengambilan contoh menggunakan metode purposive sampling. Analisis data dalam penelitian ini menggunakan metode matching dan skoring. Hasil penelitian menunjukkan Teluk Cikunyinyi memiliki tingkat kesesuaian disebut sesuai marginal (marginally suitable). Sesuai marginal menunjukkan Teluk Cikunyinyi  memerlukan penanganan lebih lanjut jika ingin dijadikan lokasi budidaya. Peubah primer berupa  material dasar perairan diperkirakan tidak sesuai untuk perkembangan budidaya kerapu macan. Peubah sekunder berupa kandungan nitrat dan fosfat diperkirakan tidak sesuai untuk pertumbuhan kerapu macan. Rekayasa lingkungan Teluk Cikunyinyi diperlukan untuk mengurangi pengaruh keterbatasan peubah primer dan sekunder misalnya dengan transplantasi terumbu karang.",
+      "volume": 3,
+      "date": "2014-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47680",
+      "subjects": [
+        "SH"
+      ],
+      "full_text_status": "public",
+      "issn": "p-ISSN: 2302-3600; e-ISSN: 2597-5315",
+      "status_changed": "2023-01-10 08:25:47",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/article\/view\/471\/444"
+        }
+      ],
+      "divisions": [
+        "FP20"
+      ],
+      "publisher": "Universitas Lampung",
+      "publication": "e-Jurnal Rekayasa dan Teknologi Budidaya Perairan",
+      "dir": "disk0_bak\/00\/04\/76\/80"
+    },
+    {
+      "place_of_pub": "Bandar Lampung",
+      "title": "ANALISIS EKOLOGI TELUK CIKUNYINYI UNTUK BUDIDAYA KERAPU MACAN (Epinephelus fuscoguttatus) (Hasil cek Turnitin)",
+      "type": "other",
+      "creators": [
+        {
+          "id": "dwisakarandy763@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "Randy",
+            "lineage": null,
+            "given": "Dwi Saka"
+          }
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "name": {
+            "given": "Qadar",
+            "family": "Hasani",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Yulianto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Herman"
+          },
+          "id": "herman.yulianto@fp.unila.ac.id"
+        }
+      ],
+      "lastmod": "2023-01-16 01:54:04",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186931",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47829,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 186931,
+            "main": "2. Turnitin. JRTBP 3.1.2014-11-17.pdf.pdf",
+            "files": [
+                {
+                  "filename": "2. Turnitin. JRTBP 3.1.2014-11-17.pdf.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523495",
+                  "objectid": 186931,
+                  "filesize": 581528,
+                  "mtime": "2023-01-16 01:10:16",
+                  "hash_type": "MD5",
+                  "hash": "0299f79cdb24c909cfd31c3805467942",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 523495
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 535,
+      "contributors": [
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Dwi Saka",
+            "lineage": null,
+            "family": "Randy",
+            "honourific": null
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Hasani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Qadar"
+          },
+          "id": "masqod@fp.unila.ac.id"
+        },
+        {
+          "id": "herman.yulianto@fp.unila.ac.id",
+          "type": null,
+          "name": {
+            "given": "Herman",
+            "family": "Yulianto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2023-01-16 01:54:04",
+      "eprintid": 47829,
+      "eprint_status": "archive",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2023-01-16 01:54:04",
+      "publisher": "Fakultas Pertanian Universitas Lampng",
+      "divisions": [
+        "FP20"
+      ],
+      "dir": "disk0_bak\/00\/04\/78\/29",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47829",
+      "date": "2014-10",
+      "abstract": "Perkembangan budidaya kerapu macan (Epinephelus fuscoguttatus) di Pantai Ringgung Kabupaten Pesawaran cukup pesat. Kondisi tersebut mengisyaratkan budidaya kerapu macan di Pantai Ringgung diprediksi akan terus meluas. Salah satu perairan yang terdekat dengan Pantai Ringgung adalah perairan Teluk Cikunyinyi. Pemilihan lokasi yang tepat merupakan indikator keberhasilan suatu usaha budidaya, oleh karena itu perlu dilakukan analisis tentang kesesuaian perairan untuk keberlangsungan suatu usaha budidaya. Tujuan dari penelitian untuk mendeskripsikan kondisi ekologis perairan Teluk Cikunyinyi dan menganalisis tingkat kesesuaian kualitas perairannya untuk budidaya kerapu macan. Penelitian dilaksanakan pada Oktober-November 2013. Analisis kualitas air dilaksanakan di Laboratorium Kesehatan Ikan dan Lingkungan Air, Balai Besar Pengembangan Budidaya Laut Lampung dengan menggunakan 8 lokasi sebagai lokasi pengambilan sampel air. Metode dalam penelitian ini adalah metode deskriptif eksploratif. Sedangkan metode penentuan lokasi titik pengambilan contoh menggunakan metode purposive sampling. Analisis data dalam penelitian ini menggunakan metode matching dan skoring. Hasil penelitian menunjukkan Teluk Cikunyinyi memiliki tingkat kesesuaian disebut sesuai marginal (marginally suitable). Sesuai marginal menunjukkan Teluk Cikunyinyi  memerlukan penanganan lebih lanjut jika ingin dijadikan lokasi budidaya. Peubah primer berupa  material dasar perairan diperkirakan tidak sesuai untuk perkembangan budidaya kerapu macan. Peubah sekunder berupa kandungan nitrat dan fosfat diperkirakan tidak sesuai untuk pertumbuhan kerapu macan. Rekayasa lingkungan Teluk Cikunyinyi diperlukan untuk mengurangi pengaruh keterbatasan peubah primer dan sekunder misalnya dengan transplantasi terumbu karang.",
+      "date_type": "published",
+      "subjects": [
+        "SH"
+      ]
+    },
+    {
+      "date": "2014-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47845",
+      "abstract": "Water quality becomes the critical factor of successfully aqua culture process; especially this is in aquaculture of ﬂoating cages. Otherwise, unstable water quality could impact the negative eﬀect toward aquatic ecosystem such as the large explosion of harmful phytoplankton population (HABs). The objective of this research is to analyze a relation between the water quality of ﬂoating cages and the growth of harmful phytoplankton population by using canocial corelation analysis. Water quality research includes its brightness, the deepness, disolved oxygen, salinity, pH, value of NO2, NO3, NH3, and PO4 and toxic phytoplankton obtained during the study also indicate the amount of phytoplankton growth The results were obtained 14 species of toxic phytoplankton in the study sites. Overall abundance of phytoplankton dominated by Choclodinium, Trichodesmium Erythraeum, Nitzschia Lanceolata dan Pseudo Nitzschia, where Choclodinium an abundance of phytoplankton with the highest density of 63 739 cells\/l. Canonical correlation analysis on triplot diagram showed water quality includes : brightness, disolved oxygen, pH, NO2, NO3 and PO4 together to give eﬀect to toxic phytoplankton abundance. Canonical correlation analysis also speciﬁcally indicate the abundance Choclodinium and Trichodesmium Erythraeum in ﬂoating nets of Ringgung Marines predominantly inﬂuenced by brightness, pH, value of NO3, and PO4.",
+      "subjects": [
+        "SH"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2023-01-16 06:38:56",
+      "full_text_status": "public",
+      "publisher": "Fakultas Pertanian Unila",
+      "dir": "disk0_bak\/00\/04\/78\/45",
+      "divisions": [
+        "FP20"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-16 04:49:43",
+                  "objectid": 186946,
+                  "filesize": 903317,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523641",
+                  "filename": "3. Cek Similarity. Aquasains vol 3 no 2 2015-6-13.pdf.pdf",
+                  "fileid": 523641,
+                  "datasetid": "document",
+                  "hash": "b208cdf54f0ce4a18f2bb8b68bafd96c",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "3. Cek Similarity. Aquasains vol 3 no 2 2015-6-13.pdf.pdf",
+            "docid": 186946,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186946",
+            "eprintid": 47845,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-01-16 06:38:56",
+      "contributors": [
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "family": "Sholihin",
+            "lineage": null
+          }
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "name": {
+            "given": "Qadar",
+            "honourific": null,
+            "family": "Hasani",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "given": "Herman",
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulianto"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yulianto.herman@fp.unila.ac.id"
+        }
+      ],
+      "userid": 535,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 47845,
+      "datestamp": "2023-01-16 06:38:56",
+      "place_of_pub": "Bandar Lampung",
+      "title": "HUBUNGAN PERUBAHAN KUALITAS AIR DAN PERTUMBUHAN FITOPLANKTON BERBAHAYA PADA LINGKUNGAN BUDIDAYA IKAN DI PERAIRAN RINGGUNG TELUK LAMPUNG\r\n(Cek Similarity)",
+      "creators": [
+        {
+          "id": "agussolihin1989@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Sholihin",
+            "honourific": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "id": "masqod@fp.unila.ac.id",
+          "name": {
+            "given": "Qadar",
+            "honourific": null,
+            "family": "Hasani",
+            "lineage": null
+          }
+        },
+        {
+          "id": "yulianto.herman@fp.unila.ac.id",
+          "name": {
+            "given": "Herman",
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulianto"
+          }
+        }
+      ],
+      "type": "other"
+    }
+]
+

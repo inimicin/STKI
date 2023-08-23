@@ -1,0 +1,139 @@
+[
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2020-02-05 04:08:17",
+      "eprint_status": "archive",
+      "eprintid": 17891,
+      "lastmod": "2020-02-05 04:08:17",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-05 03:17:25",
+                  "objectid": 31017,
+                  "filesize": 4760185,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/150683",
+                  "filename": "11. Similarity Dr. Ari D Jender_Dalam_Politik_Partai.pdf",
+                  "datasetid": "document",
+                  "fileid": 150683,
+                  "mime_type": "application\/pdf",
+                  "hash": "daa4ba4988c54a9e4ffc6a847bdf134d"
+                }
+            ],
+            "main": "11. Similarity Dr. Ari D Jender_Dalam_Politik_Partai.pdf",
+            "docid": 31017,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31017",
+            "pos": 1,
+            "eprintid": 17891,
+            "placement": 1
+          }
+      ],
+      "userid": 880,
+      "title": "Jender dalam politi partai partai: studi tentang pengarustamaan jender dalam politik partai-partai di provinsi lampung",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Ari",
+            "honourific": null,
+            "family": "Darmastuti",
+            "lineage": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "date": 2008,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17891",
+      "abstract": "Similarity",
+      "publication": "Jurnal Sains dan Teknologi Lampung",
+      "publisher": "Bappeda Provinsi Lampung",
+      "dir": "disk0\/00\/01\/78\/91",
+      "divisions": [
+        "FISIP3"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "1829-9296",
+      "status_changed": "2020-02-05 04:08:17"
+    },
+    {
+      "abstract": "Hasil Penilaian Sejawat Sebidang Atau Hasil Peer Review Karya Ilmiah: Jurnal Nasional Tak Akreditasi",
+      "date": 2008,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17890",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "status_changed": "2020-02-05 04:07:36",
+      "full_text_status": "public",
+      "issn": "1829-9296",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "Bappeda Provinsi Lampung",
+      "divisions": [
+        "FISIP3"
+      ],
+      "publication": "Jurnal Sains dan Teknologi Lampung",
+      "dir": "disk0\/00\/01\/78\/90",
+      "userid": 880,
+      "documents": [
+          {
+            "eprintid": 17890,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32953",
+            "pos": 1,
+            "format": "text",
+            "docid": 32953,
+            "main": "11. Ari D Reviewer Jender Dalam Politik.pdf",
+            "files": [
+                {
+                  "filename": "11. Ari D Reviewer Jender Dalam Politik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/185925",
+                  "objectid": 32953,
+                  "filesize": 675629,
+                  "mtime": "2020-05-15 07:31:32",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "ca74079bf853f408b8e7609087932235",
+                  "datasetid": "document",
+                  "fileid": 185925
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2020-05-15 07:31:32",
+      "eprint_status": "archive",
+      "eprintid": 17890,
+      "datestamp": "2020-02-05 04:07:36",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Darmastuti",
+            "honourific": null,
+            "given": "Ari"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Jender dalam politi partai partai: studi tentang pengarustamaan jender dalam politik partai-partai di provinsi lampung."
+    }
+]
+

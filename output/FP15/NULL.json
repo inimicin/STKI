@@ -1,0 +1,350 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Sartika",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dewi"
+          },
+          "id": "dewikincai@yahoo.com"
+        },
+        {
+          "id": "srihidayati.unila@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Hidayati",
+            "lineage": null,
+            "given": "Sri"
+          }
+        },
+        {
+          "id": "erdi.suroso@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Suroso",
+            "honourific": null,
+            "given": "Erdi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Pratama",
+            "lineage": null,
+            "given": "Dharma"
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Analisis Peramalan Permintaan dan Pengendalian Persediaan Bahan Baku Pembantu pada Industri Gula (Studi Kasus PT. XYZ Lampung Utara)",
+      "userid": 306,
+      "documents": [
+          {
+            "main": "2224 (1).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512313",
+                  "filename": "2224 (1).pdf",
+                  "filesize": 590018,
+                  "objectid": 185300,
+                  "mtime": "2022-11-09 12:15:41",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "db1d6cc4ea1fda11cb2ff96933795d98",
+                  "datasetid": "document",
+                  "fileid": 512313
+                }
+            ],
+            "docid": 185300,
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "placement": 2,
+            "eprintid": 46422,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185300",
+            "pos": 2,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2022-11-10 01:08:22",
+      "eprintid": 46422,
+      "eprint_status": "archive",
+      "datestamp": "2022-11-10 01:08:22",
+      "metadata_visibility": "show",
+      "status_changed": "2022-11-10 01:08:22",
+      "full_text_status": "public",
+      "issn": "2407-1781",
+      "ispublished": "pub",
+      "rev_number": 11,
+      "publication": "Jurnal Pertanian Terapan",
+      "dir": "disk0\/00\/04\/64\/22",
+      "divisions": [
+        "FP15"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46422",
+      "subjects": [
+        "S1"
+      ]
+    },
+    {
+      "date_type": "submitted",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Fish processed product is a favorite food that contain high protein in Indonesia, such as, otak-otak. The aim of this research was to observe of phatogen bacteria contaminant on fish proccessed product (otak-otak), ex. Salmonella sp., Escherichia coli and Staphylococcus aureus. This research was had done on food processed product, used random sampling technicque, at traditional markets. The result data was arranged with descriptive statistic. The result research showed that contaminant of Escherichia coli was 1.54 x 102 colony\/ ml at Tani market; 0.3 x 101 colony\/ml at Gudang Lelang market. Fish processed product(otak-otak) was contaminated by Salmonella, too. This research found that Fish processed product at Tamin, Tani and Rajabas was Salmonella contaminant detected. The Fish processed product (otak-otak) that content the highest level of Stahpylococcus aureus were Gudang Lelang market (1,12 x 102 colony\/ml).",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12617",
+      "dir": "disk0\/00\/01\/26\/17",
+      "publication": "JPPT jurnal",
+      "divisions": [
+        "FP15"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2019-05-14 08:06:14",
+      "rev_number": 6,
+      "ispublished": "inpress",
+      "datestamp": "2019-05-14 08:06:14",
+      "eprint_status": "archive",
+      "eprintid": 12617,
+      "metadata_visibility": "show",
+      "userid": 306,
+      "lastmod": "2019-05-14 08:06:14",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "hash": "ef25d37e0f57c68c11735ba819404af4",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "datasetid": "document",
+                  "fileid": 111785,
+                  "mtime": "2019-05-10 07:51:20",
+                  "hash_type": "MD5",
+                  "filename": "survey cemaran otak2.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/111785",
+                  "objectid": 25598,
+                  "filesize": 512413
+                }
+            ],
+            "main": "survey cemaran otak2.docx",
+            "docid": 25598,
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "rev_number": 1,
+            "eprintid": 12617,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25598",
+            "pos": 1
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "id": "dewikincai@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Sartika",
+            "honourific": null,
+            "given": "Dewi"
+          }
+        },
+        {
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "family": "Hidayati",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "fitriani",
+            "lineage": null,
+            "family": "hardianti",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "title": "CEMARAN BAKTERI PATOGEN  PADA PRODUK OLAHAN IKAN  (OTAK-OTAK)",
+      "refereed": "TRUE",
+      "contact_email": "dewikincai@yahoo.com"
+    },
+    {
+      "date_type": "submitted",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Daging ayam merupakan salah satu bahan pangan yang memegang peranan penting sebagai sumber protein hewani dalam pemenuhan kebutuhan gizi masyarakat. Penelitian ini bertujuan untuk mengetahui adanya daya hambat ekstrak kulit dan jantung pisang muli sebagai antimikroba alami dalam menurunkan cemaran Escherichia coli, (2) menentukan konsentrasi terbaik ekstrak kulit dan jantung pisang muli sebagai antimikroba alami untuk menurunkan cemaran Escherichia coli, (3) mengetahui pengaruh penggunaan ekstrak kulit dan jantung pisang muli sebagai antimikroba alami dalam penurunan cemaran Escherichia coli pada daging ayam. Hasil penelitian menunjukkan bahwa ekstrak kulit dan jantung pisang muli memiliki daya hambat sebagai antimikroba alami dalam menurunkan cemaran bakteri Escherichia coli. Hasil penelitian menunjukkan ekstrak kulit pisang muli memiliki daya hambat pertumbuhan bakteri E.coli dengan diameter sebesar 6.45 mm dengan aktivitas antibakteri sedangkan ekstrak jantung pisang muli menunjukkan mampu menghambat pertumbuhan bakteri E.coli dengan diameter hambat sebesar 5.63 mm dengan kategori aktivitas antimikroba sedang. Konsentrasi terbaik ekstrak kulit dan jantung pisang muli sebagai antimikroba alami untuk menurunkan cemaran Escherichia coli yaitu masing-masing konsentrasi ekstrak 100% pada taraf nyata 5%. Ekstrak kulit dan jantung pisang muli memiliki aktivitas antimikroba alami dan berpengaruh terhadap penurunan cemaran bakteri Escherichia coli pada daging ayam, yaitu total penurunan oleh ekstrak kulit pisang sebesar 1.5x108 koloni\/gram (83%) dan ekstrak jantung pisang sebesar 1.2x108 koloni\/gram (72,5%) pada aplikasi konsentrasi ekstrak 100%.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12636",
+      "publication": "AGRITECH",
+      "publisher": "Fakultas Teknologi Pertanian UGM",
+      "dir": "disk0\/00\/01\/26\/36",
+      "divisions": [
+        "FP15"
+      ],
+      "full_text_status": "public",
+      "issn": "0216-0455",
+      "status_changed": "2019-05-14 08:08:40",
+      "ispublished": "inpress",
+      "rev_number": 6,
+      "datestamp": "2019-05-14 08:08:40",
+      "eprint_status": "archive",
+      "eprintid": 12636,
+      "metadata_visibility": "show",
+      "userid": 306,
+      "lastmod": "2019-05-14 08:08:40",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "96aab18f22c124b3a8c2f6ad87a6dce0",
+                  "mime_type": "application\/pdf",
+                  "fileid": 111930,
+                  "datasetid": "document",
+                  "mtime": "2019-05-10 08:17:34",
+                  "hash_type": "MD5",
+                  "filename": "dewi sartika revisi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/111930",
+                  "objectid": 25621,
+                  "filesize": 392779
+                }
+            ],
+            "main": "dewi sartika revisi.pdf",
+            "docid": 25621,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 12636,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25621",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sartika",
+            "given": "Dewi"
+          },
+          "id": "dewikincai@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "novita",
+            "lineage": null,
+            "family": "herdiana",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Nata",
+            "honourific": null,
+            "lineage": null,
+            "family": "Suci"
+          }
+        }
+      ],
+      "title": "AKTIVITAS ANTIMIKROBA EKSTRAK KULIT DAN JANTUNG PISANG MULI (Musa acuminata) TERHADAP BAKTERI Escherichia coli",
+      "refereed": "TRUE",
+      "contact_email": "dewikincai@yahoo.com"
+    },
+    {
+      "status_changed": "2019-05-14 08:25:51",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "publisher": "Academicjournal.inc",
+      "dir": "disk0\/00\/01\/26\/42",
+      "divisions": [
+        "FP15"
+      ],
+      "volume": 13,
+      "abstract": 0,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12642",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "book_title": "American Journal of Food Technology",
+      "place_of_pub": "America",
+      "contact_email": "dewikincai@yahoo.com",
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "given": "Neti",
+            "family": "Yuliana",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "neti.yuliana@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Sartika",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dewi"
+          },
+          "id": "dewikincai@yahoo.com"
+        }
+      ],
+      "isbn": "1557-4571",
+      "refereed": "TRUE",
+      "title": "Effect of Fermentation on Some Properties of Sweet Potato Flour\r\nand its Broken Composite Noodle Strand",
+      "number": 1,
+      "userid": 306,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25625",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 12642,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-10 08:27:47",
+                  "objectid": 25625,
+                  "filesize": 2099765,
+                  "filename": "dewi-neti.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/111969",
+                  "fileid": 111969,
+                  "datasetid": "document",
+                  "hash": "0e2b891665c297497dcea797e02b1a71",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "dewi-neti.pdf",
+            "docid": 25625,
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/www.academic journal.com",
+      "lastmod": "2019-05-14 08:25:51",
+      "eprintid": 12642,
+      "eprint_status": "archive",
+      "datestamp": "2019-05-14 08:25:51",
+      "pagerange": "48-56",
+      "metadata_visibility": "show"
+    }
+]
+

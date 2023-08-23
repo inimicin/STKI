@@ -1,0 +1,840 @@
+[
+    {
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5875",
+      "subjects": [
+        "K1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2017-11-17 05:56:02",
+      "full_text_status": "public",
+      "divisions": [
+        "FH2"
+      ],
+      "publisher": "Justice Publisher",
+      "dir": "disk0\/00\/00\/58\/75",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18796",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 5875,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "prosiding Seri Diskusi MIH 2017.pdf",
+            "docid": 18796,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 54739,
+                  "hash": "039dc0051767d4e15f782b7652cc1b11",
+                  "mime_type": "application\/pdf",
+                  "filesize": 2440572,
+                  "objectid": 18796,
+                  "filename": "prosiding Seri Diskusi MIH 2017.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54739",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-17 05:46:44"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2017-11-17 05:56:02",
+      "userid": 276,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "editors": [
+        {
+          "name": {
+            "given": "Bayu",
+            "lineage": null,
+            "family": "Sujadmiko",
+            "honourific": null
+          },
+          "id": "bayu.sujadmiko@fh.unila.ac.id"
+        }
+      ],
+      "eprintid": 5875,
+      "datestamp": "2017-11-17 05:56:02",
+      "refereed": "FALSE",
+      "title": "Prosiding Seri Diskusi",
+      "type": "book",
+      "isbn": 9786021071568
+    },
+    {
+      "title": "Nonpenal Effort In Addressing Illegal Fishing In The Lampung Province",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "name": {
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">mayashafira@fh.unila.ac.id<\/font><\/font>"
+        }
+      ],
+      "pres_type": "other",
+      "type": "conference_item",
+      "lastmod": "2022-02-25 10:03:43",
+      "documents": [
+          {
+            "main": "Nonpenal_Effort_in_Addressing_Illegal_Fishing_in_t.pdf",
+            "docid": 161092,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 446258,
+                  "hash": "138ae6bbbe63293d4cdace0c6c6cbbb0",
+                  "mime_type": "application\/pdf",
+                  "objectid": 161092,
+                  "filesize": 4822997,
+                  "filename": "Nonpenal_Effort_in_Addressing_Illegal_Fishing_in_t.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/446258",
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-25 06:17:29"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 39813,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161092",
+            "security": "public"
+          }
+      ],
+      "userid": 318,
+      "metadata_visibility": "show",
+      "datestamp": "2022-02-25 10:03:43",
+      "eprint_status": "archive",
+      "eprintid": 39813,
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2022-02-25 10:03:43",
+      "event_type": "conference",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/03\/98\/13",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39813",
+      "date": 2017,
+      "abstract": "Hasil Check Similarity",
+      "subjects": [
+        "K1"
+      ],
+      "event_title": "Proceeding of International Conference 2nd SHIELD 2017 Bandar Lampung"
+    },
+    {
+      "lastmod": "2023-04-13 05:08:02",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190182",
+            "eprintid": 50476,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "MONOGRAF PDF SEMINAR PEREMPUAN DAN   ANAK.pdf",
+            "docid": 190182,
+            "files": [
+                {
+                  "filename": "MONOGRAF PDF SEMINAR PEREMPUAN DAN   ANAK.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/544599",
+                  "objectid": 190182,
+                  "filesize": 5665632,
+                  "mtime": "2023-04-13 03:51:35",
+                  "hash_type": "MD5",
+                  "hash": "6a28f94bc68033b47592c896e71dbb18",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 544599
+                }
+            ]
+          }
+      ],
+      "userid": 230,
+      "metadata_visibility": "show",
+      "datestamp": "2023-04-13 05:08:02",
+      "eprintid": 50476,
+      "eprint_status": "archive",
+      "title": "MEMBANGUN BUDAYA ADIL GENDER DAN RAMAH ANAK",
+      "creators": [
+        {
+          "id": "ahmad.syofyan@fh.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ahmad Syofyan",
+            "given": "Ahmad S"
+          }
+        }
+      ],
+      "type": "monograph",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50476",
+      "date": 2017,
+      "subjects": [
+        "K1"
+      ],
+      "monograph_type": "documentation",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2023-04-13 05:08:02",
+      "divisions": [
+        "FH2"
+      ],
+      "publisher": "Justice Publisher\/Fakultas Hukum Universitas Lampung",
+      "dir": "disk0_bak\/00\/05\/04\/76"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2023-05-29 09:38:54",
+      "eprintid": 52056,
+      "eprint_status": "archive",
+      "lastmod": "2023-05-29 09:38:54",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251894",
+            "eprintid": 52056,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "EDITOR GABUNG PENGESAHAN.pdf",
+            "docid": 251894,
+            "files": [
+                {
+                  "fileid": 616835,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "6737997faa38898bf1808352aba6e5a8",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-29 07:43:00",
+                  "objectid": 251894,
+                  "filesize": 6532600,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/616835",
+                  "filename": "EDITOR GABUNG PENGESAHAN.pdf"
+                }
+            ]
+          }
+      ],
+      "userid": 230,
+      "title": "MEMBANGUN BUDAYA ADIL GENDER DAN RAMAH ANAK",
+      "type": "monograph",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ahmad Syofyan",
+            "given": "Ahmad S"
+          },
+          "id": "ahmad.syofyan@fh.unila.ac.id"
+        }
+      ],
+      "monograph_type": "other",
+      "subjects": [
+        "K1"
+      ],
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52056",
+      "publisher": "Perpustakaan Nasional : Katalog Dalam Terbitan (KDT)",
+      "dir": "disk0_bak\/00\/05\/20\/56",
+      "divisions": [
+        "FH2"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2023-05-29 09:38:54"
+    },
+    {
+      "event_type": "conference",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/03\/93\/29",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2022-02-16 01:16:18",
+      "event_title": "Proceeding ICETLAWBE 2020",
+      "subjects": [
+        "K1"
+      ],
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39329",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "title": "Developing Criminal Policy on Illegal Fishing Counter-measures under the New Normal Order in Indonesia: A Non-penal Perspective",
+      "refereed": "FALSE",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "family": "Maya Shafira",
+            "lineage": null,
+            "honourific": null,
+            "given": "Maya Shafira"
+          },
+          "id": "mayashafira@fh.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2022-02-16 01:16:18",
+      "eprint_status": "archive",
+      "eprintid": 39329,
+      "lastmod": "2022-02-16 01:16:18",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 39329,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/160612",
+            "security": "public",
+            "files": [
+                {
+                  "mtime": "2022-02-15 09:07:36",
+                  "hash_type": "MD5",
+                  "filename": "Reviewer Nonpenal.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/442477",
+                  "filesize": 371516,
+                  "objectid": 160612,
+                  "mime_type": "application\/pdf",
+                  "hash": "e1b570e14a9341e62f7090a2031a1ef6",
+                  "fileid": 442477,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Reviewer Nonpenal.pdf",
+            "docid": 160612,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 318
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38849",
+      "date": 2017,
+      "event_title": "Proceeding of International Conference 2nd SHIELD 2017",
+      "subjects": [
+        "K1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2022-02-02 07:18:35",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/03\/88\/49",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-02 05:38:14",
+                  "objectid": 159990,
+                  "filesize": 12626315,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/438770",
+                  "filename": "Prosiding 2nd shield FINALl.pdf",
+                  "datasetid": "document",
+                  "fileid": 438770,
+                  "mime_type": "application\/pdf",
+                  "hash": "d98b60152c83cb62451ea19991f403a0"
+                }
+            ],
+            "main": "Prosiding 2nd shield FINALl.pdf",
+            "docid": 159990,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 38849,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159990",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2022-02-02 07:18:35",
+      "userid": 318,
+      "metadata_visibility": "show",
+      "eprintid": 38849,
+      "eprint_status": "archive",
+      "datestamp": "2022-02-02 07:18:35",
+      "refereed": "FALSE",
+      "title": "Nonpenal Effort In Addressing Illegal Fishing In The Lampung Province",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "mayashafira@fh.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Maya Shafira",
+            "lineage": null,
+            "given": "Maya Shafira"
+          }
+        }
+      ]
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "title": "How Far Is The Precautionary Principle Considered In The Benefits Of Genetically Modified Organisms World Wide?",
+      "event_dates": "18-20 September 2017",
+      "refereed": "FALSE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Melly Aida",
+            "honourific": null,
+            "family": "Melly Aida",
+            "lineage": null
+          }
+        }
+      ],
+      "lastmod": "2019-11-18 07:20:39",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 16599,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29678",
+            "security": "public",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 141519,
+                  "hash": "eb29c699597d56250be9192c4dfc46b6",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-15 08:40:57",
+                  "objectid": 29678,
+                  "filesize": 1615735,
+                  "filename": "Melly Aida, Prosiding How Far is The Precautionary Principle.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/141519"
+                }
+            ],
+            "main": "Melly Aida, Prosiding How Far is The Precautionary Principle.pdf",
+            "docid": 29678,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 970,
+      "metadata_visibility": "show",
+      "datestamp": "2019-11-18 07:20:39",
+      "eprint_status": "archive",
+      "eprintid": 16599,
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2019-11-18 07:20:39",
+      "event_type": "conference",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/01\/65\/99",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16599",
+      "date": "2017-09",
+      "event_title": "Proceedings International Conference 2nd SHIELD 2017 University Of Lampung",
+      "subjects": [
+        "K1"
+      ]
+    },
+    {
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "fxsmj.unila@gmail.com",
+          "name": {
+            "given": "FX",
+            "honourific": null,
+            "family": "Sumarja",
+            "lineage": null
+          }
+        }
+      ],
+      "title": "CHAOS OF FOREST RESOURCE ACCESS REGULATION: STUDY ON MORO-MORO FARMERS AT REGISTER 45 LAMPUNG",
+      "refereed": "TRUE",
+      "event_dates": "18-20 September 2017",
+      "event_location": "Universitas Lampung, Bandarlampung",
+      "datestamp": "2018-02-20 04:35:24",
+      "eprint_status": "archive",
+      "eprintid": 6489,
+      "metadata_visibility": "show",
+      "pagerange": "208-215",
+      "userid": 940,
+      "lastmod": "2018-02-20 04:35:24",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Prosiding 2nd shield 7-2-2018-Marjo_1.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 60088,
+                  "mime_type": "application\/pdf",
+                  "hash": "5bd3a2f6afccc51ae30a8d6c332400c4",
+                  "objectid": 19433,
+                  "filesize": 3705841,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60088",
+                  "filename": "Prosiding 2nd shield 7-2-2018-Marjo_1.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-02-15 08:40:33"
+                }
+            ],
+            "docid": 19433,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 6489,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19433",
+            "pos": 1
+          }
+      ],
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/00\/64\/89",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2018-02-20 04:35:24",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "KZ"
+      ],
+      "event_title": "International Conference 2nd SHIELD 2017",
+      "abstract": "One of the problems of farmers in Indonresia is the limited availability of agricultural land. Through various regulations, the government gives farmers hope for the availability of agricultural land, through the land levy, land use permits or partnerships with forest management right holders. For decades the Moro-Moro farmers have struggled to gain access to forest resources (farmland) legally, in Register 45 Sungai Buaya Mesuji Lampung. This study will examine forest resource access regulations and their implementation in Register 45 Sungai Buaya Mesuji Lampung.\r\nThe approach that used in this research is socio-legal. Socio-legal is a study that combines the study of doctrinal law with social studies. Legislation can be categorized properly and well if the substance is able to accommodate as much as possible the aspirations, interests and needs of the community. So the analysis is not only based on normative rules but also the social context. The result of the research shows that the regulation of forest resource access model in register 45 Lampung to farmer of Moro-Moro is partnership. Partnerships offered by forest management right\r\nholders are considered have not been able to providewelfare to farmers, considering that the types of plants have been determined and in the process of the partnership, the dialogical space is still very poorly done by forest managers. In addition, the area of farmland is getting narrower, because it must be planted with hard plants. However, it is necessary to trials the forest resource access model by means of the partnership, even though it is possible to use another access model.\r\n\r\nKeywords: Regulation, Implementation, Access of Forest Resources, Moro-Moro",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "projects": [
+        "Seminar Internasional"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6489",
+      "date": "2017-09"
+    },
+    {
+      "status_changed": "2018-02-20 04:35:09",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/64\/86",
+      "divisions": [
+        "FH2"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6486"
+        }
+      ],
+      "event_type": "conference",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Sampai dengan akhir tahun 2016, seorang Warga Negara Indonesia (WNI) yang melakukan perkawinan campuran (WNI menikah dengan Warga Negara Asing\/WNA), meskipun statusnya tetap sebagai WNI kehilangan kesempatan mendapatkan hak milik atas tanah, jika sebelum melakukan pernikahan tidak membuat perjanjian perkawinan pemisahan harta. Berbeda dengan masa sekarang, WNI yang telah melakukan perkawinan\r\ncampuran, namun sebelumnya tidak membuat perjanjian perkawinan pemisahan harta, terbuka kesempatan mendapatkan hak milik atas tanah, dengan cara membuat perjanjian\r\nperkawinan pemisahan harta dalam bentuk akta notaris dan melakukan pencatatan laporan perjanjian perkawinan kepada instansi catatan sipil. Perjanjian perkawinan dapat\r\ndilakukan sebelum, pada saat atau selama perkawinan berlangsung.\r\n\r\nKata kunci: Perjanjian perkawinan, perkawinan campuran, hak milik atas tanah",
+      "date": "2017-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6486",
+      "subjects": [
+        "KZ"
+      ],
+      "event_title": "Seminar Nasional Membangun Budaya Adil Gender dan Ramah Anak",
+      "date_type": "published",
+      "event_location": "Balai Keratun Komplek Pemda Provinsi Lampung",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "family": "Sumarja",
+            "lineage": null,
+            "honourific": null,
+            "given": "FX"
+          },
+          "id": "fxsmj.unila@gmail.com"
+        }
+      ],
+      "event_dates": "17 Oktober 2017",
+      "refereed": "TRUE",
+      "title": "Perjanjian Perkawinan: Perspektif Kepemilikan Hak Milik atas Tanah",
+      "userid": 940,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19429",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 6486,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 19429,
+            "main": "Buku Monograf Semnas_Perjanjian Perkawinan_okt2017.pdf",
+            "files": [
+                {
+                  "hash": "5817076ad3a5e6fc3e7b3709166db222",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 60067,
+                  "filename": "Buku Monograf Semnas_Perjanjian Perkawinan_okt2017.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60067",
+                  "objectid": 19429,
+                  "filesize": 497458,
+                  "mtime": "2018-02-15 06:04:12",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6486",
+      "lastmod": "2018-02-20 04:35:09",
+      "eprintid": 6486,
+      "eprint_status": "archive",
+      "datestamp": "2018-02-20 04:35:09",
+      "pagerange": "137-149",
+      "metadata_visibility": "show"
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2019-12-18 08:03:07",
+      "full_text_status": "public",
+      "issn": "2225-0565",
+      "publisher": "International Knowledge Sharing Platfrom",
+      "dir": "disk0\/00\/01\/73\/45",
+      "publication": "Journal Developing Country Studies",
+      "divisions": [
+        "FH2"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17345",
+      "date": 2017,
+      "volume": 7,
+      "abstract": "Hasil Similarity Check",
+      "subjects": [
+        "K1",
+        "KD"
+      ],
+      "refereed": "FALSE",
+      "title": "Local Regulation Design on the Protection and Empowerment of the Farmer Based on Law as a Tool of Social Empowering",
+      "creators": [
+        {
+          "name": {
+            "given": "Yulia",
+            "honourific": null,
+            "family": "Yulia Neta",
+            "lineage": null
+          },
+          "id": "yulia.neta@fh.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30457",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 17345,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Local_Regulation_Design_on_the_Protection_and_Empo.pdf",
+            "docid": 30457,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/146801",
+                  "filename": "Local_Regulation_Design_on_the_Protection_and_Empo.pdf",
+                  "filesize": 3049062,
+                  "objectid": 30457,
+                  "mtime": "2019-12-17 08:07:15",
+                  "hash_type": "MD5",
+                  "hash": "8b42323ceebad8376efb0dec92dc7aad",
+                  "mime_type": "application\/pdf",
+                  "fileid": 146801,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2019-12-18 08:03:07",
+      "number": 10,
+      "userid": 888,
+      "metadata_visibility": "show",
+      "eprintid": 17345,
+      "eprint_status": "archive",
+      "datestamp": "2019-12-18 08:03:07"
+    },
+    {
+      "userid": 888,
+      "number": 10,
+      "lastmod": "2019-12-18 08:03:20",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 17347,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30459",
+            "security": "public",
+            "main": "local.pdf",
+            "docid": 30459,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-12-18 01:22:11",
+                  "objectid": 30459,
+                  "filesize": 521115,
+                  "filename": "local.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/146814",
+                  "datasetid": "document",
+                  "fileid": 146814,
+                  "hash": "5376d441021da279c28e22806c47948e",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2019-12-18 08:03:20",
+      "eprintid": 17347,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "71-75",
+      "creators": [
+        {
+          "id": "yulia.neta@fh.unila.ac.id",
+          "name": {
+            "family": "Yulia Neta",
+            "lineage": null,
+            "honourific": null,
+            "given": "Yulia"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Local Regulation Design on the Protection and Empowerment of the Farmer Based on Law as a Tool of Social Empowering",
+      "refereed": "FALSE",
+      "abstract": "Hasil Penilaian sejawat sebidang atau peer review",
+      "volume": 7,
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17347",
+      "subjects": [
+        "K1"
+      ],
+      "issn": "2225-0565",
+      "full_text_status": "public",
+      "status_changed": "2019-12-18 08:03:20",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "International Knowledge Sharing Platfrom",
+      "divisions": [
+        "FH2"
+      ],
+      "publication": "Journal Developing Country Studies",
+      "dir": "disk0\/00\/01\/73\/47"
+    },
+    {
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50363",
+      "subjects": [
+        "K1"
+      ],
+      "book_title": "Hukum Kriminologi",
+      "status_changed": "2023-04-12 07:41:04",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FH2"
+      ],
+      "publisher": "AURA",
+      "dir": "disk0_bak\/00\/05\/03\/63",
+      "userid": 765,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "HK. kRM.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 543689,
+                  "mime_type": "application\/pdf",
+                  "hash": "a3154e09aaa61759bae350d749f3b050",
+                  "objectid": 190058,
+                  "filesize": 2191385,
+                  "filename": "HK. kRM.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543689",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-12 03:46:26"
+                }
+            ],
+            "docid": 190058,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190058",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50363
+          }
+      ],
+      "lastmod": "2023-04-12 07:41:04",
+      "eprint_status": "archive",
+      "eprintid": 50363,
+      "datestamp": "2023-04-12 07:41:04",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "eko raharjo",
+            "lineage": null,
+            "honourific": null,
+            "given": "eko"
+          },
+          "id": "eko.raharjo3@gmail.com"
+        }
+      ],
+      "type": "book_section",
+      "refereed": "FALSE",
+      "title": "Hukum Kriminalogi"
+    }
+]
+

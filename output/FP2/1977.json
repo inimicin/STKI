@@ -1,0 +1,92 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29704",
+      "date": 1977,
+      "abstract": "The objective of introducing upland rice as an intercrop in coconut plantations is to increase land productivity and to sustain self-sufficiency in rice production. Intensive soil tillage should avoid a decrease of growth and production of coconut palm. A proper tillage is urgent to employ in order to sustain crop productivity and profitability of coconut-upland rice intercropping. An experiment conducted in 14-years fallow land under coconut stand, was arranged in 2 x 5 factorial split plot design with 5 replications. The main plot was tillage system: (T0) no-tillage (using herbicide), and (T1) intensive tillage (2 plowing and 1 harrowing). The sub-plot was 5 varieties of upland rice: (V1) Danau Tempe, (V2) Danau Atas, (V3) Way Rarem, (V4) Jatiluhur, and (V5) Sentani. The results showed that rice variety and tillage systems affect the growth and yield of rice. Intensive tillage increased the plant height, plant fresh weight, yield of rice grain, and decreased the number of empty grain per spike, but did not effect the coconut yield.\r\n\r\nKey Words: intercrop, no-tillage, upland rice, variety",
+      "subjects": [
+        "SB"
+      ],
+      "date_type": "published",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2021-04-28 06:01:48",
+      "issn": "0852-257X",
+      "full_text_status": "public",
+      "publisher": "University of Lampung",
+      "divisions": [
+        "FP2"
+      ],
+      "publication": "Journal of Tropical Soils",
+      "dir": "disk0\/00\/02\/97\/04",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43907",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 29704,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Padi gogo - kelapa2.pdf",
+            "docid": 43907,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/262966",
+                  "filename": "Padi gogo - kelapa2.pdf",
+                  "objectid": 43907,
+                  "filesize": 1242048,
+                  "mtime": "2021-04-28 02:24:07",
+                  "hash_type": "MD5",
+                  "hash": "5c123a7a866704bef5b708b6b37ade59",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 262966
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2021-04-28 06:01:48",
+      "number": 4,
+      "userid": 978,
+      "pagerange": "145-150",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 29704,
+      "datestamp": "2021-04-28 06:01:48",
+      "refereed": "TRUE",
+      "title": "Sistem Olah Tanah di Sela Perkebunan Kelapa untuk Penanaman Padi Gogo",
+      "creators": [
+        {
+          "id": "rusdi.evizal@fp.unila.ac.id",
+          "name": {
+            "family": "Evizal",
+            "lineage": null,
+            "honourific": null,
+            "given": "Rusdi"
+          }
+        },
+        {
+          "name": {
+            "given": "Sulastri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ramli"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Sugiatno",
+            "family": "Sugiatno",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sugiatno.1960.unila.ac.id"
+        }
+      ],
+      "type": "article"
+    }
+]
+

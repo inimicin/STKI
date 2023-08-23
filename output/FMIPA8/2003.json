@@ -1,0 +1,165 @@
+[
+    {
+      "event_location": "Jakarta, Indonesia",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Herawati",
+            "lineage": null,
+            "given": "Sari"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Mustofa",
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null
+          },
+          "id": "usman_alfha@yahoo.com"
+        }
+      ],
+      "title": "ANALISIS BEBERAPA MODEL REGRESI LINEAR",
+      "refereed": "TRUE",
+      "event_dates": "27 Juni 2003",
+      "userid": 701,
+      "lastmod": "2016-11-09 05:13:20",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/982",
+            "eprintid": 1094,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "PAPER (18)PROCEEDINGS_MUSTOFA (UNILA).pdf",
+            "docid": 982,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7246",
+                  "filename": "PAPER (18)PROCEEDINGS_MUSTOFA (UNILA).pdf",
+                  "objectid": 982,
+                  "filesize": 14594090,
+                  "mtime": "2016-11-09 04:26:14",
+                  "hash_type": "MD5",
+                  "hash": "3260c3240854781bce9d03e146da7c50",
+                  "mime_type": "application\/pdf",
+                  "fileid": 7246,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "datestamp": "2016-11-09 05:13:20",
+      "eprintid": 1094,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "298-303",
+      "full_text_status": "public",
+      "status_changed": "2016-11-09 05:13:20",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "dir": "disk0\/00\/00\/10\/94",
+      "event_type": "conference",
+      "abstract": "Pada paper ini akan dibahas analisis beberapa model regresi. Dari parameter model-model regresi akan ditunjukkan bagaimana membentuk selang dugaan ratio beberapa parameter model regresi dengan menggunakan Teorema Fieller. Kemudian uji hipotesis untuk kesamaan parameter model regresi akan disajikan, beta hat model (Milliken dan Johnson, 2002) akan digunakan dalam pembentukan uji statistik.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1094",
+      "date": "2003-06-01",
+      "date_type": "published",
+      "event_title": "Seminar Nasional Matematika dan Pendidikan Matematika",
+      "subjects": [
+        "QA"
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1093",
+      "date": "2003-05",
+      "abstract": "Dalam model desain eksperimen atau pada analisis varians, apabila terjadi beberapa data hilang, maka analisis data terkadang menjadi sangat kompleks. Atau bahkan data tidak dapat dianalisis. Pengkajian atau penelitian mengenai data hilang telah menjadi topik yang sangat menarik bagi banyak peneliti statistika. Idea dasar mula-mula yang membahas data hilang adalah Yates (1933), sejak itu idea ini terus berkembang dan masih mengilhami banyak penelitian tentang data hilang pada model desain eksperimen.  Dalam penelitian pada tulisan ini akan mencoba membahas perkembangan analisis data hilang, bias yang terjadi dan uji hipotesis yang dilakukan untuk mengatasi bias yang terjadi.",
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "event_title": "Conference on Statistical and Mathematical of Islamic Society in South East Asia Region",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2016-11-09 05:13:17",
+      "event_type": "conference",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "dir": "disk0\/00\/00\/10\/93",
+      "lastmod": "2016-11-09 05:13:17",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 981,
+            "main": "PAPER (17) PROCEEDINGS_MUSTOFA (UNILA).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7239",
+                  "filename": "PAPER (17) PROCEEDINGS_MUSTOFA (UNILA).pdf",
+                  "objectid": 981,
+                  "filesize": 19596046,
+                  "mtime": "2016-11-09 04:13:05",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "a94b1ca35e6caffd759d47574006dca8",
+                  "datasetid": "document",
+                  "fileid": 7239
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/981",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1093
+          }
+      ],
+      "userid": 701,
+      "metadata_visibility": "show",
+      "pagerange": "157-162",
+      "datestamp": "2016-11-09 05:13:17",
+      "eprintid": 1093,
+      "eprint_status": "archive",
+      "event_location": "Bandung",
+      "title": "ANALISIS DATA HILANG PADA MODEL DESAIN EKSPERIMEN",
+      "event_dates": "25-26 April 2003",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Usman",
+            "given": "Mustofa"
+          }
+        },
+        {
+          "name": {
+            "family": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Warsono"
+          },
+          "id": "chacho81@yahoo.com"
+        }
+      ]
+    }
+]
+

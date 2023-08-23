@@ -1,0 +1,1328 @@
+[
+    {
+      "pagerange": "35-46",
+      "datestamp": "2021-10-25 03:17:47",
+      "id_number": "10.7176\/CER\/11-4-05",
+      "eprint_status": "archive",
+      "eprintid": 34574,
+      "official_url": "https:\/\/www.iiste.org",
+      "documents": [
+          {
+            "formatdesc": "Jurnal",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155109",
+            "pos": 1,
+            "eprintid": 34574,
+            "placement": 1,
+            "content": "published",
+            "mime_type": "application\/xml",
+            "language": "en",
+            "rev_number": 3,
+            "format": "other",
+            "main": 47815,
+            "files": [
+                {
+                  "mtime": "2021-10-21 09:44:22",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/406384",
+                  "filename": 47815,
+                  "objectid": 155109,
+                  "filesize": 17825,
+                  "hash": "dc83e48349bf4c89759e5d8f0521c1d2",
+                  "mime_type": "application\/xml",
+                  "datasetid": "document",
+                  "fileid": 406384
+                }
+            ],
+            "docid": 155109
+          },
+          {
+            "main": "Lab and full scale.docx",
+            "docid": 155110,
+            "files": [
+                {
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "31f33a1023b07e4b9f8b898538f7c8e9",
+                  "fileid": 406386,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/406386",
+                  "filename": "Lab and full scale.docx",
+                  "filesize": 9402687,
+                  "objectid": 155110,
+                  "mtime": "2021-10-21 09:47:19",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 2,
+            "eprintid": 34574,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155110",
+            "pos": 2,
+            "security": "public"
+          }
+      ],
+      "userid": 846,
+      "number": 4,
+      "refereed": "TRUE",
+      "date": "2019-05",
+      "abstract": "The beam is a significant element structure in bridge and high - rise building. The aim of this study is to obtain the difference of early age shrinkage between beam with laboratory scale and full scale. High-performance concrete with compressive strength of 60 MPa was used. This research was done experimentally in Indonesia for 24 hours. Three pieces of specimens measuring laboratory size of 150 mm × 150 mm × 600 mm, and one specimen measuring 200 mm ×600 mm ×3000 mm as full - scale specimen were used. All specimens were covered with styrofoam to eliminate transfer humidity. Early age shrinkage was obtained by using an embedded vibrating wire strain gauge for each laboratory size specimen and four embedded vibrating wire strain gauge for the full-scale specimen. As a result, the shrinkage type of full- scale specimen is a similar type to laboratory size. Shrinkage in laboratory size specimen is 31.5% larger than in full-scale specimen. Maximum shrinkage in a full-scale specimen is about 0.8E-04 occurs at the concrete age of 15.8 hours, while in laboratory size specimen is about 1.255E-04 occur at the age of 22.2 hours. Fluctuation expansion and shrinkage are smoother in full-scale than in laboratory size specimen. This is because in full-scale ettringite can expand more optimally so that it can come with stand shrinkage losses due to the growth of hydration products. High rate deformation of both specimens scale is occurring in the age range of 5-9 hours. Therefore, it is safe to assume the behavior of a real beam of high-performance concrete similar to laboratory size beam.",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/www.iiste.org\/Journals\/index.php\/CER\/article\/view\/47815"
+        }
+      ],
+      "publisher": "IISTE",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2225-0514",
+      "metadata_visibility": "show",
+      "lastmod": "2021-10-25 03:17:47",
+      "title": "Early-age Shrinkage of High-Performance Concrete Beam in Laboratory and Full Scale",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Niken",
+            "honourific": null,
+            "lineage": null,
+            "family": "Chatarina"
+          },
+          "id": "chatarinaniken@yahoo.com"
+        }
+      ],
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34574",
+      "volume": 11,
+      "funders": [
+        "Indocement, Sika"
+      ],
+      "publication": "Civil and Environmental Research",
+      "dir": "disk0\/00\/03\/45\/74",
+      "divisions": [
+        "FT2"
+      ],
+      "rev_number": 10,
+      "status_changed": "2021-10-25 03:17:47"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Early–Age Shrinkage of High-Performance Concrete Beam in Laboratory and Full-Scale",
+      "type": "article",
+      "creators": [
+        {
+          "id": "chatarinaniken@yahoo.com",
+          "name": {
+            "family": "Chatarina",
+            "lineage": null,
+            "honourific": null,
+            "given": "Niken"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32651",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19426,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "daeaf93e07e82a2d2f7ebb4d76880dad",
+                  "datasetid": "document",
+                  "fileid": 162422,
+                  "mtime": "2020-05-04 07:15:45",
+                  "hash_type": "MD5",
+                  "filename": "Edited-Early age shrinkage beam lab  and  full scale.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/162422",
+                  "objectid": 32651,
+                  "filesize": 9402676
+                }
+            ],
+            "main": "Edited-Early age shrinkage beam lab  and  full scale.docx",
+            "docid": 32651,
+            "format": "text"
+          }
+      ],
+      "official_url": "https:\/\/iiste.org\/Journals\/index.php\/CER\/article\/view\/47815",
+      "lastmod": "2020-05-05 04:52:53",
+      "number": 4,
+      "userid": 846,
+      "contributors": [
+        {
+          "id": "chatarinaniken@yahoo.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Niken",
+            "family": "Chatarina",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "pagerange": "1-11",
+      "metadata_visibility": "show",
+      "eprintid": 19426,
+      "id_number": "DOI: 10.7176\/CER\/11-4-05",
+      "eprint_status": "archive",
+      "datestamp": "2020-05-05 04:52:53",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2020-05-05 04:52:53",
+      "full_text_status": "public",
+      "issn": "2225-0514",
+      "publisher": "IISTE",
+      "divisions": [
+        "FT2"
+      ],
+      "publication": "Civil and Environmental Research",
+      "dir": "disk0\/00\/01\/94\/26",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19426",
+      "date": "2019-05-31",
+      "volume": 11,
+      "abstract": "The beam is a significant element structure in bridge and high - rise building. The aim of this study is to obtain the difference of early age shrinkage between beam with laboratory scale and full scale. High-performance concrete with compressive strength of 60 MPa was used. This research was done experimentally in Indonesia for 24 hours. Three pieces of specimens measuring laboratory size of 150 mm × 150 mm × 600 mm, and one specimen measuring 200 mm ×600 mm ×3000 mm as full - scale specimen were used. All specimens were covered with styrofoam to eliminate transfer humidity. Early age shrinkage was obtained by using an embedded vibrating wire strain gauge for each laboratory size specimen and four embedded vibrating wire strain gauge for the full-scale specimen. As a result, the shrinkage type of full- scale specimen is a similar type to laboratory size. Shrinkage in laboratory size specimen is 31.5% larger than in full-scale specimen. Maximum shrinkage in a full-scale specimen is about 0.8E-04 occurs at the concrete age of 15.8 hours, while in laboratory size specimen is about 1.255E-04 occur at the age of 22.2 hours. Fluctuation expansion and shrinkage are smoother in full-scale than in laboratory size specimen. This is because in full-scale ettringite can expand more optimally so that it can come with stand shrinkage losses due to the growth of hydration products. High rate deformation of both specimens scale is occurring in the age range of 5-9 hours. Therefore, it is safe to assume the behavior of a real beam of high-performance concrete similar to laboratory size beam.",
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published"
+    },
+    {
+      "related_url": [
+        {
+          "url": "https:\/\/iopscience.iop.org\/article\/10.1088\/1757-899X\/669\/1\/012012"
+        }
+      ],
+      "publisher": "IOP Publishing",
+      "full_text_status": "public",
+      "issn": "1757-899X",
+      "ispublished": "pub",
+      "abstract": "Plate, beam, and column have a different mechanical characteristic. Understanding the one-day mechanism of the three concrete structural elements is the objective of this study. The quality of the concrete used is fc’ of 60 MPa. Observation of concrete strain was done during 24 hours. Five small specimens measuring of 150 mm × 150 mm × 600 mm with one strain gauges (EVWSG) for each specimen, three specimens in horizontal position as a beam and two specimens in vertical positions as a column; one full-scale beam specimen measuring of 200 mm × 600 mm × 3000 mm (four EVWSG), and one plate specimen measuring of 3000 mm × 1600 mm × 150 mm (four EVWSG) were used. All specimens were covered with styrofoam. One-day behavior was found by computing the average strain change from a small beam and column specimens, and average strain change of the fourth EVWSG in the plate\/full- scale beam. As a result, there is a similar type between concrete temperature and the behavior of plate, beam, and column. The behavior of the beam is identically to the plate behavior. Column behavior is more fluctuating than beam and plate. High rate shrinkage is significant in beam and plate, but in the column, expansion was dominated.",
+      "date": 2019,
+      "refereed": "TRUE",
+      "datestamp": "2021-10-25 03:18:41",
+      "id_number": "0.1088\/1757-899X\/669\/1\/012012",
+      "eprint_status": "archive",
+      "eprintid": 34581,
+      "pagerange": "1-8",
+      "contributors": [
+        {
+          "id": "corpsec@indocement.co.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/FND",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Indocement, Ltd",
+            "given": "Indonesia"
+          }
+        },
+        {
+          "name": {
+            "given": "Indonesia",
+            "lineage": null,
+            "family": "Sika, Ltd",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/FND",
+          "id": "sikacare@id.sika.com"
+        }
+      ],
+      "userid": 846,
+      "official_url": "https:\/\/iopscience.iop.org",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155134",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 34581,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 406470,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "e2614d0efac6a84c81024becd5576a8d",
+                  "filesize": 770092,
+                  "objectid": 155134,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/406470",
+                  "filename": "Prosiding Int IOP One day.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-10-22 08:21:29"
+                }
+            ],
+            "main": "Prosiding Int IOP One day.pdf",
+            "docid": 155134,
+            "format": "text"
+          }
+      ],
+      "divisions": [
+        "FT2"
+      ],
+      "publication": "IOP Conference Series: Materials Science and Engineering",
+      "dir": "disk0\/00\/03\/45\/81",
+      "funders": [
+        "Indocement, Sika"
+      ],
+      "status_changed": "2021-10-25 03:18:41",
+      "rev_number": 6,
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "volume": 669,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34581",
+      "creators": [
+        {
+          "id": "chatarinaniken@yahoo.com",
+          "name": {
+            "given": "Niken",
+            "lineage": null,
+            "family": "Chatarina",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "One day High Performance Concrete Mechanism of Plate, Beam and Column",
+      "metadata_visibility": "show",
+      "lastmod": "2021-10-25 03:18:41"
+    },
+    {
+      "date": 2019,
+      "projects": [
+        "Yayasan Prana Indonesia"
+      ],
+      "abstract": "Pada tanggal 22 Desember 2018, terjadi tsunami akibat erupsi gunung Anak Krakatau di daerah pesisir Banten dan Lampung.  Terdapat lima kabupaten yang mengalami kerusakan, yaitu Pandeglang, Serang, Lampung Selatan, Pesawaran, dan Tanggamus. Pandeglang adalah Kabupaten yang menderita paling parah. Jarak antara Gunung Anak Krakatau dan Kabupaten Pandeglang sekitar 65km. Dengan jarak tersebut jumlah orang tewas Pandeglang terbanyak yaitu 296 meninggal dunia. Metode yang digunakan dalam membantu korban adalah dengan survey tentang kebutuhan mendesak yang diperlukan. Dari hasil survey kebutuhan yang mendesak adalah perahu ting-ting dan penanganan trauma anak-anak. Perahu ting-ting merupakan prasana utama masyarakat Banyuasih Pandeglang dalam mencari nafkah.  Tsunami tersebut menyebabkan 53 perahu ting-ting mengalami kerusakan dan hilang tertelan tsunami. Langkah selanjutnya adalah mengumpulkan dana dari para relawan, membuat system agar para keluarga bisa menggunakan perahu ting-ting bantuan dengan system bergiliran dan setoran ke Badan Usaha Milik Desa sebesar Rp 500.000 setiap melaut, memonitor untuk memastikan sistem tersebut berjalan baik dengan cara memeriksa administrasi penggunaan perahu dan keuangan dari setoran, serta memonitor penggunaan uang setoran untuk pembuatan perahu ting-ting lagi dengan melaporkan melalui WhatsApp disertai foto dan kunjungan. Terapi trauma untuk anak-anak adalah mengajak bergembira, bernyanyi, mewarnai dan mendengarkan dongeng sehingga anak-anak merasa diperhatikan.",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 34597,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155171",
+            "security": "public",
+            "docid": 155171,
+            "main": "Chatarina Niken-Unila, Perahu Ting-ting.docx",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-10-24 06:29:01",
+                  "filesize": 18093374,
+                  "objectid": 155171,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/406603",
+                  "filename": "Chatarina Niken-Unila, Perahu Ting-ting.docx",
+                  "fileid": 406603,
+                  "datasetid": "document",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "67caedfdf55d37666f22682be38d3467"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          }
+      ],
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/28828\/1",
+      "userid": 846,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/FND",
+          "name": {
+            "given": "GMCKS",
+            "family": "Yayasan Prana Indonesia",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "prana.indonesia@gmail.com"
+        }
+      ],
+      "pagerange": "1-5",
+      "eprint_status": "archive",
+      "eprintid": 34597,
+      "datestamp": "2021-10-25 03:19:31",
+      "event_location": "Bandar Lampung",
+      "refereed": "TRUE",
+      "event_dates": "24 April 2019",
+      "pres_type": "paper",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34597",
+      "subjects": [
+        "TA"
+      ],
+      "event_title": "Senapati 2019",
+      "date_type": "published",
+      "rev_number": 7,
+      "status_changed": "2021-10-25 03:19:31",
+      "funders": [
+        "Yayasan Prana Indonesia"
+      ],
+      "event_type": "conference",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/03\/45\/97",
+      "lastmod": "2021-10-25 03:19:31",
+      "metadata_visibility": "show",
+      "title": "Pengarahan dan Penyerahan Bantuan Pembuatan Perahu  \r\nTingting serta Penghiburan Anak-anak Korban Tsunami \r\ndi Desa Banyuasih Pandeglang Banten",
+      "creators": [
+        {
+          "name": {
+            "given": "Niken",
+            "family": "Chatarina",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "chatarinaniken@yahoo.com"
+        }
+      ],
+      "type": "conference_item"
+    },
+    {
+      "event_dates": "24 April 2019",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "event_location": "Bandar Lampung",
+      "pagerange": "14-19",
+      "eprintid": 34595,
+      "eprint_status": "archive",
+      "datestamp": "2021-10-25 03:19:24",
+      "documents": [
+          {
+            "eprintid": 34595,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155169",
+            "format": "text",
+            "docid": 155169,
+            "main": "Chatarina Niken-Unila-Jalan Beton.docx",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-10-24 04:01:48",
+                  "filesize": 60823860,
+                  "objectid": 155169,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/406586",
+                  "filename": "Chatarina Niken-Unila-Jalan Beton.docx",
+                  "fileid": 406586,
+                  "datasetid": "document",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "4cf58009e76b710e4b7fa23a40e311fd"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          }
+      ],
+      "official_url": "http:\/\/repository.lppm.unila.ac.id\/28828\/1",
+      "contributors": [
+        {
+          "id": "https:\/\/mesujikab.go.id\/",
+          "name": {
+            "family": "Pemda Mesuji",
+            "lineage": null,
+            "honourific": null,
+            "given": "Kabupaten Mesuji"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/FND"
+        }
+      ],
+      "userid": 846,
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id\/16216\/1\/Lengkap-min.pdf"
+        }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "date": 2019,
+      "projects": [
+        "Pemda Mesuji"
+      ],
+      "corp_creators": [
+        "Suroso"
+      ],
+      "abstract": "Kabupaten Mesuji merupakan penghasil sawit.  Jalan di kabupaten Mesuji menjadi sarana utama transportasi sawit dari perkebunan menuju pabrik pembuatan minyak goreng. Selain sawit, juga penghasil kayu.  Dengan demikian beban yang harus ditahan oleh jalan lebih dari 10 ton.  Karena jalan tidak cukup kuat, maka timbul kerusakan dimana-mana.  Selain perencanaannya tidak memadai, pembangunan tersebut tidak sesuai dengan standar yang harus dipenuhi. Pembangunan jalan Kabupaten pada umumnya dilakukan oleh tukang atau masyarakat setempat.  Karena kurangnya pengetahuan maka performance jalan cukup memprihatinkan. Oleh sebab itu, Bupati Kabupaten Mesuji menginginkan pembangunan jalan Kabupaten dengan perkerasan kaku. Karena terdapat material kerikil dan pasir dari daerah Mesuji sendiri dan untuk meningkatkan ketrampilan bagi masyarakat Mesuji dalam membangun, maka diperlukan penyuluhan dan praktek pembuatan jalan beton. Peserta yang akan mengikuti pelatihan diseleksi oleh Kepala Dinas Pekerjaan Umum Kabupaten Mesuji. Dalam pelatihan dilakukan penjajagan awal kemampuan peserta dengan tanya-jawab langsung. Penyampaian materi dilakukan dengan Bahasa yang sederhana dan alat peraga. Peserta merangkum inti pelatihan dan membuat Standard Operating Procedure (SPO) bersama pemateri. Intisari pelatihan ditulis oleh masing-masing peserta dan ditandatangani oleh pemateri. Peserta melakukan praktek pengecoran dan pembuatan benda uji",
+      "title": "Penyuluhan Pembuatan Jalan Beton di Kabupaten Mesuji, Provinsi Lampung",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Chatarina",
+            "given": "Niken"
+          },
+          "id": "chatarinaniken@yahoo.com"
+        },
+        {
+          "id": "sasana.putra@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Putra",
+            "honourific": null,
+            "given": "Sasana"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "metadata_visibility": "show",
+      "lastmod": "2021-10-25 03:19:24",
+      "event_type": "conference",
+      "funders": [
+        "Pemda Mesuji"
+      ],
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/03\/45\/95",
+      "rev_number": 8,
+      "status_changed": "2021-10-25 03:19:24",
+      "event_title": "Senapati 2019",
+      "subjects": [
+        "TA"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34595"
+    },
+    {
+      "subjects": [
+        "TA"
+      ],
+      "event_title": "Seminar SENAPATI",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13125",
+      "date": "2019-04-24",
+      "abstract": "Kalibrasi merupakan upaya untuk memenuhi ketersediaan data dan informasi hidrologi yang memadai, akurat, tepat waktu dan berkesinambungan yang sudah menjadi tuntutan mendesak untuk dapat segera diwujudkan. Namun kenyataannya hingga saat ini kualitas data hidrologi yang ada, dapat dikatakan masih rendah. Sehingga untuk mewujudkan cita-cita tersebut harus didukung usaha pengelolaan hidrologi yang lebih profesional. Tugas pengukur debit dan kalibrator pintu air adalah sebagai berikut: a).melakukan pengukuran debit; b).mencatat, menghitung dan melaporkan hasil pengukuran debit untuk berbagai kondisi (perlakuan) dan perulangan; c). Membuat rating curve (liku kalibrasi) pintu air. Pemberdayaan dilakukan dengan disertai praktek lapangan pengukuran kalibrasi pintu air terutama pengukuran debit Daerah Irigasi Sekampung Sistem.",
+      "event_type": "conference",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/01\/31\/25",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2019-05-23 02:52:22",
+      "metadata_visibility": "show",
+      "pagerange": "1-5",
+      "datestamp": "2019-05-23 02:52:22",
+      "eprint_status": "archive",
+      "eprintid": 13125,
+      "lastmod": "2019-05-23 02:52:22",
+      "documents": [
+          {
+            "eprintid": 13125,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26128",
+            "format": "text",
+            "main": "52-Dwi JokoWinarno_review V2.docx",
+            "docid": 26128,
+            "files": [
+                {
+                  "filesize": 3434768,
+                  "objectid": 26128,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/115388",
+                  "filename": "52-Dwi JokoWinarno_review V2.docx",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-21 05:02:59",
+                  "datasetid": "document",
+                  "fileid": 115388,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "d8d04dc9d1c1f0ee58fe7baaba87b0e3"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          }
+      ],
+      "userid": 577,
+      "title": "PEMBERDAYAAN SURVEYOR DAN PETUGAS PINTU AIR IRIGASI DALAM MELAKUKAN KALIBRASI PINTU AIR IRIGASI",
+      "event_dates": "24 April 2019",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "d.jokowinarno@gmail.com",
+          "name": {
+            "given": "Dwi",
+            "honourific": null,
+            "family": "Jokowinarno",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Kusumastuti",
+            "lineage": null,
+            "given": "Dyah Indriana"
+          },
+          "id": "kusumast@gmail.com"
+        }
+      ],
+      "event_location": "Bandar Lampung"
+    },
+    {
+      "date_type": "submitted",
+      "event_title": "International Conference on Science, Technology and Environment",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "The existence of exclusive stopping space (ESS) at the signalized intersection is expected to improve the performance of intersection, by collecting the motorcycle in an exclusive space and discharging it early when the signal is display green. This research compares the level of saturation flow on the approach with ESS and approach without ESS and finds that ESS's effectiveness is influenced primarily by occupancy rate. The findings of this study indicated that at 71% of ESS occupancy rate, the approach was able to discharge the saturation flow by 20% higher than the approach with a width of 4.5 m but without ESS. On the contrary, the approach without ESS with a width of 6.5 m looks better in discharge saturation flow compared with the approach with ESS but with an occupancy rate of only 38%. Careful design is highly recommended especially the area of ESS provided for motorcycle so that the functions performed by exclusive space run an effective way as planned.",
+      "date": "2019-08-29",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14523",
+      "related_url": [
+        {
+          "url": "http:\/\/icostesci.uwks.ac.id\/"
+        }
+      ],
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/01\/45\/23",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2019-11-04 08:20:18",
+      "rev_number": 8,
+      "ispublished": "submitted",
+      "datestamp": "2019-11-04 08:20:18",
+      "eprintid": 14523,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "1-10",
+      "userid": 392,
+      "lastmod": "2019-11-04 08:20:18",
+      "official_url": "http:\/\/icoste2019.uwks.ac.id\/",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 27604,
+            "main": "ICoSTE-Aleksander Purba-fullpaper.pdf",
+            "files": [
+                {
+                  "mtime": "2019-10-09 14:23:42",
+                  "hash_type": "MD5",
+                  "filename": "ICoSTE-Aleksander Purba-fullpaper.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/125830",
+                  "filesize": 197409,
+                  "objectid": 27604,
+                  "hash": "3172107fc758b509c2d2dd5d99be79cb",
+                  "mime_type": "application\/pdf",
+                  "fileid": 125830,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 14523,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27604",
+            "pos": 1
+          }
+      ],
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "aleksander.purba@eng.unila.ac.id",
+          "name": {
+            "given": "Aleksander",
+            "lineage": null,
+            "family": "Purba",
+            "honourific": null
+          }
+        },
+        {
+          "id": "ikakustiani@yahoo.com",
+          "name": {
+            "given": "Ika",
+            "lineage": null,
+            "family": "Kustiani",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "A Study on the Influences of Exclusive Stopping Space on Saturation Flow (Case Study: Bandar Lampung)",
+      "refereed": "TRUE",
+      "event_dates": "29-30 August 2019",
+      "event_location": "Jogjakarta, Indonesia"
+    },
+    {
+      "related_url": [
+        {
+          "url": "http:\/\/papers.ssrn.com\/abstract=3487327"
+        }
+      ],
+      "publication": "SSRN",
+      "publisher": "ELSEVIER",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/01\/75\/66",
+      "full_text_status": "public",
+      "issn": "‎1556-5068",
+      "status_changed": "2020-02-17 04:16:09",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "abstract": "The existence of exclusive stopping space (ESS) at the signalized intersection is expected to improve the performance of intersection, by collecting the motorcycle in an exclusive space and discharging it early when the signal is display green. This research compares the level of saturation flow on the approach with ESS and approach without ESS and finds that ESS's effectiveness is influenced primarily by occupancy rate. The findings of this study indicated that at 71% of ESS occupancy rate, the approach was able to discharge the saturation flow by 20% higher than the approach with a width of 4.5 m but without ESS. On the contrary, the approach without ESS with a width of 6.5 m looks better in discharge saturation flow compared with the approach with ESS but with an occupancy rate of only 38%. Careful design is highly recommended especially the area of ESS provided for motorcycle so that the functions performed by exclusive space run an effective way as planned.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17566",
+      "date": "2019-11-18",
+      "type": "article",
+      "creators": [
+        {
+          "id": "aleksander.purba@eng.unila.ac.id",
+          "name": {
+            "given": "Aleksander",
+            "honourific": null,
+            "lineage": null,
+            "family": "Purba"
+          }
+        },
+        {
+          "id": "ikakustiani@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Kustiani",
+            "lineage": null,
+            "given": "Ika"
+          }
+        }
+      ],
+      "title": "A Study on the Influences of Exclusive Stopping Space on Saturation Flow (Case Study: Bandar Lampung)",
+      "refereed": "TRUE",
+      "datestamp": "2020-02-17 04:16:09",
+      "id_number": 3487327,
+      "eprint_status": "archive",
+      "eprintid": 17566,
+      "metadata_visibility": "show",
+      "pagerange": "1-10",
+      "userid": 392,
+      "lastmod": "2020-02-17 04:16:09",
+      "official_url": "https:\/\/dx.doi.org\/10.2139\/ssrn.3487327",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30692",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 17566,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Dari SRRN-journal.pdf",
+            "files": [
+                {
+                  "hash": "00ddfa8db2ec861f3578d6cf85269eed",
+                  "mime_type": "application\/pdf",
+                  "fileid": 148468,
+                  "datasetid": "document",
+                  "mtime": "2020-01-15 06:19:03",
+                  "hash_type": "MD5",
+                  "filename": "Dari SRRN-journal.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/148468",
+                  "filesize": 196297,
+                  "objectid": 30692
+                }
+            ],
+            "docid": 30692,
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "publisher": "Jurusan Teknik Sipil Universitas Lampung",
+      "publication": "Jurnal Rekayasa Sipil dan Desain (JRSDD)",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/01\/67\/10",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2019-11-18 07:08:42",
+      "full_text_status": "public",
+      "issn": "2303-0011",
+      "subjects": [
+        "TA"
+      ],
+      "date": "2019-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16710",
+      "volume": 7,
+      "abstract": "The increasing development of high-rise building construction with unique design in Indonesia\r\ntoday can not be denied. The high-rise buildings must have earthquake resistance because of\r\nIndonesia is a country that has the risk of an earthquake. This requires a multi-storey structure\r\ndesigner to be able to design a multi-storey building structure with various conditions and\r\nconfigurations. Based on that problems, a building will be designed with unusual shape by\r\ninclining the entire main structural column with a slope angle is 80o. And as a comparison,\r\nanother building will be designed which uses vertical column. The building plan will be located in\r\nBanjarmasin, South Kalimantan, Indonesia.\r\nThe building plans with inclined and vertical column use reinforced concrete material with Ordinary Moment Resisting Frame (OMRF) as a structural strength system. This system is\r\ndetermined by the location of the building based on Indonesian Earthquake Map 2012.\r\nThe result of the analysis and design is the building with inclined column has greater internal force compared to a building with vertical column and requires a reinforcement of 70.89% more than the building with vertical column.",
+      "refereed": "FALSE",
+      "title": "Analisis dan Desain Elemen Struktur Beton Bertulang pada Gedung yang Memiliki Kolom Miring dengan Sistem Rangka Pemikul Momen Biasa\r\n(SRPMB)",
+      "creators": [
+        {
+          "id": "angelinadhiniuli@gmail.com",
+          "name": {
+            "given": "Angelina Dhini",
+            "honourific": null,
+            "lineage": null,
+            "family": "Simatupang"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Bayzoni",
+            "given": "Bayzoni"
+          },
+          "id": "bayzoni.1973@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Kusnadi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Andi"
+          },
+          "id": "andi.kusnadi@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "pagerange": "1-13",
+      "metadata_visibility": "show",
+      "eprintid": 16710,
+      "eprint_status": "archive",
+      "datestamp": "2019-11-18 07:08:42",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-16 07:54:05",
+                  "filesize": 290532,
+                  "objectid": 29785,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/142197",
+                  "filename": "Inclined Column.pdf",
+                  "fileid": 142197,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "0f47edad1d0ec90c10d7c7a9a932078a"
+                }
+            ],
+            "main": "Inclined Column.pdf",
+            "docid": 29785,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29785",
+            "pos": 1,
+            "eprintid": 16710,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2019-11-18 07:08:42",
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jrsdd\/index",
+      "number": 2,
+      "userid": 492
+    },
+    {
+      "divisions": [
+        "FT2"
+      ],
+      "publisher": "Badan Penerbitan Jurnal Fakultas Teknik Universitas Brawijaya",
+      "dir": "disk0\/00\/01\/84\/59",
+      "full_text_status": "public",
+      "status_changed": "2020-03-12 04:38:27",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18459",
+      "date": 2019,
+      "creators": [
+        {
+          "id": "gatot89@yahoo.ca",
+          "name": {
+            "lineage": null,
+            "family": "Susilo",
+            "honourific": null,
+            "given": "Gatot Eko"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "REPOSITORY REVIEWER: Civil and Environmental Science Journal, Vol.2(1) tahun 2019",
+      "datestamp": "2020-03-12 04:38:27",
+      "eprintid": 18459,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 874,
+      "lastmod": "2020-03-12 04:38:27",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 31618,
+            "main": "J7-CIVENSE3.pdf",
+            "files": [
+                {
+                  "hash": "2bca17e1d3552397e87bf5dd9ae4e0c7",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 155234,
+                  "mtime": "2020-03-08 14:44:56",
+                  "hash_type": "MD5",
+                  "filename": "J7-CIVENSE3.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155234",
+                  "objectid": 31618,
+                  "filesize": 1989463
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 18459,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31618"
+          }
+      ]
+    },
+    {
+      "title": "REPOSITORY REVIEWER: International Journal of GEOMATE, Vol. 17(62) Tahun 2019",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Gatot Eko",
+            "honourific": null,
+            "lineage": null,
+            "family": "Susilo"
+          },
+          "id": "gatot89@yahoo.ca"
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2020-03-12 04:37:29",
+      "eprint_status": "archive",
+      "eprintid": 18454,
+      "lastmod": "2020-03-12 04:37:29",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "J4-GEOMATE.pdf",
+            "docid": 31612,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155196",
+                  "filename": "J4-GEOMATE.pdf",
+                  "objectid": 31612,
+                  "filesize": 1917151,
+                  "mtime": "2020-03-08 11:38:48",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "caa94928ddade784e8cfa9acba941009",
+                  "datasetid": "document",
+                  "fileid": 155196
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31612",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18454
+          }
+      ],
+      "userid": 874,
+      "publisher": "The Geomate International Society Japan",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/01\/84\/54",
+      "ispublished": "pub",
+      "rev_number": 12,
+      "full_text_status": "public",
+      "status_changed": "2020-03-12 04:37:29",
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "date": 2019,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18454"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "id": "gatot89@yahoo.ca",
+          "name": {
+            "family": "Susilo",
+            "lineage": null,
+            "honourific": null,
+            "given": "Gatot Eko"
+          }
+        }
+      ],
+      "title": "REPOSITORY REVIEWER: International Journal of GEOMATE, Vol. 17(62)TAHUN 2019",
+      "eprintid": 18453,
+      "eprint_status": "archive",
+      "datestamp": "2020-03-12 04:37:08",
+      "metadata_visibility": "show",
+      "userid": 874,
+      "lastmod": "2020-03-12 04:37:08",
+      "divisions": [
+        "FT2"
+      ],
+      "publisher": "The Geomate International Society",
+      "dir": "disk0\/00\/01\/84\/53",
+      "status_changed": "2020-03-12 04:37:08",
+      "full_text_status": "none",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18453",
+      "date": 2019
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18460",
+      "date": 2019,
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "status_changed": "2020-03-12 04:39:04",
+      "dir": "disk0\/00\/01\/84\/60",
+      "publisher": "BIRO PENERBIT PLANOLOGI UNDIP",
+      "divisions": [
+        "FT2"
+      ],
+      "lastmod": "2020-03-12 04:39:04",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 31619,
+            "main": "J8-TATALOKA.pdf",
+            "files": [
+                {
+                  "mtime": "2020-03-08 14:52:47",
+                  "hash_type": "MD5",
+                  "filename": "J8-TATALOKA.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155242",
+                  "filesize": 2026274,
+                  "objectid": 31619,
+                  "hash": "8b3cfd161049ec324a68f2eb18114acb",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 155242
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 18460,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31619"
+          }
+      ],
+      "userid": 874,
+      "metadata_visibility": "show",
+      "datestamp": "2020-03-12 04:39:04",
+      "eprintid": 18460,
+      "eprint_status": "archive",
+      "title": "REPOSITORY REVIEWER: Jurnal TATALOKA, Vol. 21(2) tahun 2019",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Gatot Eko",
+            "lineage": null,
+            "family": "Susilo",
+            "honourific": null
+          },
+          "id": "gatot89@yahoo.ca"
+        }
+      ]
+    },
+    {
+      "date": 2019,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18462",
+      "subjects": [
+        "TA",
+        "TD"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2020-03-12 04:46:49",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "divisions": [
+        "FT2"
+      ],
+      "publisher": "Jurusan Teknik Sipil Universitas Brawijaya Malang",
+      "dir": "disk0\/00\/01\/84\/62",
+      "userid": 874,
+      "lastmod": "2020-03-12 04:46:49",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31621",
+            "eprintid": 18462,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "J10-REKAYASA UB 2.pdf",
+            "docid": 31621,
+            "files": [
+                {
+                  "mtime": "2020-03-08 15:05:10",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155258",
+                  "filename": "J10-REKAYASA UB 2.pdf",
+                  "objectid": 31621,
+                  "filesize": 1924913,
+                  "hash": "de741681b2cf2a174005712119473988",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 155258
+                }
+            ]
+          }
+      ],
+      "datestamp": "2020-03-12 04:46:49",
+      "eprint_status": "archive",
+      "eprintid": 18462,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "Susilo",
+            "lineage": null,
+            "honourific": null,
+            "given": "Gatot Eko"
+          },
+          "id": "gatot89@yahoo.ca"
+        }
+      ],
+      "type": "other",
+      "title": "REPOSITORY REVIEWER: Rekayasa Sipil, Vol(13)1 tahun 2019"
+    },
+    {
+      "status_changed": "2019-05-06 06:39:03",
+      "full_text_status": "public",
+      "issn": "0976-5506",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publication": "Indian Journal of Public Health Research & Development,",
+      "publisher": "Institute of Medico Legal Association",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/01\/16\/66",
+      "related_url": [
+        {
+          "url": "http:\/\/www.indianjournals.com\/ijor.aspx?target=ijor:ijphrd&volume=10&issue=3&article=133",
+          "type": "org"
+        }
+      ],
+      "funders": [
+        "Kemenristekdikti"
+      ],
+      "volume": 10,
+      "abstract": "Indonesia is a country with the third tuberculosis (TB) incidence in the world. Bandar Lampung is one of the cities in Indonesia with a high TB incidence. TB incidence in the city increased about 80% during four years period (2,056 cases in 2016 compared to 1,195 cases in 2012). Bandar Lampung is located in the fifth poorest province in Indonesia, which closely related to poor housing condition. This study aimed to identify significant influence of housing condition, which consisted of variables: ventilation, in-house sunlight, in-house smoking pollution and in-house TB contact; to TB infection. A case control study was used to study the influence of related variables. Case sample group consisted of 31 smear-positive TB patients; meanwhile control sample group consisted of 62 patients without TB. Both sample groups were obtained from Sukaraja and Panjang Community Health Service which have performing Directly Observed Treatment Shortcourse and have highest TB incidence in Bandar Lampung. Data were collected by using structured interview questions and observation; and was then analyzed using bivariate Chi square analysis. Less ventilation (odds ratio\/OR: 4.747; 95 % confidence interval\/CI: 1.875–12.022), no in-house sunlight (OR: 5.219; 95 % CI: 2.040–13.355), existence of in-house smoking pollution (OR: 3.067; 95 % CI: 1.240–7.584) as well as existence of in-house TB contact (OR: 10.688; 95 % CI: 3.792–30.121) are TB infection risk factors. In conclusion, TB control program should be highlighted the concerned variables in order to accelerate TB incidence reduction, especially in countries with poor housing conditions.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11666",
+      "date": 2019,
+      "subjects": [
+        "GF",
+        "RA0421",
+        "TH"
+      ],
+      "creators": [
+        {
+          "id": "dyah.wulan@fk.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Wardani",
+            "lineage": null,
+            "given": "Dyah Wulan"
+          }
+        },
+        {
+          "name": {
+            "given": "Endro Prasetyo",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wahono"
+          },
+          "id": "epwahono@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Housing Condition as Tuberculosis Infection Risk Factor",
+      "number": 3,
+      "userid": 1010,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24658",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 11666,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Repository IJPHRD (EPW Housing Condition).pdf",
+            "files": [
+                {
+                  "fileid": 105470,
+                  "datasetid": "document",
+                  "hash": "d1622545fef4f60e6bc61ac48fed69bc",
+                  "mime_type": "application\/pdf",
+                  "objectid": 24658,
+                  "filesize": 263220,
+                  "filename": "Repository IJPHRD (EPW Housing Condition).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/105470",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-05 04:14:25"
+                }
+            ],
+            "docid": 24658,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2019-05-06 06:39:03",
+      "official_url": "http:\/\/www.ijphrd.com\/",
+      "eprint_status": "archive",
+      "eprintid": 11666,
+      "datestamp": "2019-05-06 06:39:03",
+      "pagerange": "659-662",
+      "metadata_visibility": "show"
+    },
+    {
+      "title": "Predominant Determinants of Delayed Tuberculosis Sputum Conversion in Indonesia.",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Dyah Wulan",
+            "lineage": null,
+            "family": "Wardani",
+            "honourific": null
+          },
+          "id": "dyah.wulan@fk.unila.ac.id"
+        },
+        {
+          "id": "epwahono@eng.unila.ac.id",
+          "name": {
+            "given": "Endro Prasetyo",
+            "lineage": null,
+            "family": "Wahono",
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2019-05-06 06:39:01",
+      "metadata_visibility": "show",
+      "rev_number": 8,
+      "status_changed": "2019-05-06 06:39:01",
+      "funders": [
+        "Kemenristekdikti"
+      ],
+      "publication": "Indian Journal of Community Medicine",
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/01\/16\/64",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11664",
+      "volume": 44,
+      "subjects": [
+        "GE",
+        "GF",
+        "RA0421"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "eprintid": 11664,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24657",
+            "pos": 1,
+            "format": "text",
+            "main": "Repository IJCM jan 19 (EPW Sputum Conversion).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/105460",
+                  "filename": "Repository IJCM jan 19 (EPW Sputum Conversion).pdf",
+                  "objectid": 24657,
+                  "filesize": 187838,
+                  "mtime": "2019-05-05 03:57:47",
+                  "hash_type": "MD5",
+                  "hash": "8b6cae0006bef5d29e8957ef4f9aabb5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 105460,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 24657,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "official_url": "http:\/\/www.ijcm.org.in\/",
+      "number": 1,
+      "userid": 1010,
+      "pagerange": "53-57",
+      "eprint_status": "archive",
+      "eprintid": 11664,
+      "id_number": "DOI: 10.4103\/ijcm.IJCM_319_18",
+      "datestamp": "2019-05-06 06:39:01",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "0970-0218",
+      "publisher": "Official Publication of Indian Association of Preventive and Social Medicne",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.ijcm.org.in\/article.asp?issn=0970-0218;year=2019;volume=44;issue=1;spage=53;epage=57;aulast=Wardani"
+        }
+      ],
+      "date": "2019-03-12",
+      "abstract": "ontext:\r\n Sputum conversion in the first two months of tuberculosis (TB) treatment is closely related to successful treatment and a decrease in the likelihood of relapse. In 2015, there were 76% high TB burden countries with low rate of TB successful treatment.\r\n Aims:\r\n To evaluate the correlation between delayed sputum conversion and several determinants including: social determinants, smoking, malnutrition and type II diabetes (DM).\r\n Settings and Design:\r\n A case control approach was used to study the potential determinants. A Case sample group consisted of smear positive TB patients with delayed sputum conversion (31 patients) at community health centres in Bandar Lampung, Indonesia. Meanwhile, a control sample group consisted of smear positive TB patients with sputum conversion (62 patients).\r\n Methods and Material:\r\n Primary data consisted of social determinants and smoking, were collected through in-depth interviews. Meanwhile, secondary data, consisted of malnutrition, DM and sputum conversion were obtained from medical record.\r\n Statistical analysis used:\r\n Data was analyzed using chi square and multivariate logistic regression.\r\n Results:\r\n Low education (odds ratio\/ OR: 5.313; 95% (confidence interval\/ CI: 1.711–16.503), low social class (OR: 4.993; 95% CI: 1.430–17.430), smoking (OR: 7.457; 95% CI: 1.757–31.640) and DM (OR: 7.168; 95% CI: 1.746–29.431) influenced delayed sputum conversion.\r\n Conclusions:\r\n TB control programs in high TB burden countries with low rate of TB successful treatment; should be integrate TB treatment education, smoking cessation programs and follow-up treatments for TB patients with DM to improve the probability of sputum conversion and successful treatment."
+    }
+]
+

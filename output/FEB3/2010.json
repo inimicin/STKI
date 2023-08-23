@@ -1,0 +1,69 @@
+[
+    {
+      "publisher": "PUSAT PENERBITAN LEMBAGA PENELITIAN UNIVERSITAS LAMPUNG",
+      "divisions": [
+        "FEB3"
+      ],
+      "dir": "disk0\/00\/01\/85\/18",
+      "full_text_status": "public",
+      "status_changed": "2020-03-10 08:36:30",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18518",
+      "isbn": "978-979-8510-17-5",
+      "creators": [
+        {
+          "name": {
+            "given": "Ayi",
+            "lineage": null,
+            "family": "Ahadiat",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "book",
+      "title": "Manajemen Srategik \"Tinjauan Teoritis Multi Perspektif\"",
+      "refereed": "TRUE",
+      "datestamp": "2020-03-10 08:36:30",
+      "eprint_status": "archive",
+      "eprintid": 18518,
+      "metadata_visibility": "show",
+      "userid": 384,
+      "lastmod": "2020-03-10 08:36:30",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31675",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18518,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Buku.. Ayi Ahadiyat.pdf",
+            "docid": 31675,
+            "files": [
+                {
+                  "fileid": 155640,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "8f38682a3f74c4fdf1b8ec8643bec159",
+                  "hash_type": "MD5",
+                  "mtime": "2020-03-10 04:52:56",
+                  "filesize": 5127722,
+                  "objectid": 31675,
+                  "filename": "Buku.. Ayi Ahadiyat.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155640"
+                }
+            ],
+            "format": "text"
+          }
+      ]
+    }
+]
+

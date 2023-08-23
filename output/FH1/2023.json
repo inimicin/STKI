@@ -1,0 +1,204 @@
+[
+    {
+      "userid": 873,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "THE URGENCY OF.pdf",
+            "files": [
+                {
+                  "hash": "1b2694b07ea1623e53a5ebe73e4e349c",
+                  "mime_type": "application\/pdf",
+                  "fileid": 617732,
+                  "datasetid": "document",
+                  "filename": "THE URGENCY OF.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/617732",
+                  "objectid": 252291,
+                  "filesize": 2640225,
+                  "mtime": "2023-06-13 04:03:45",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 252291,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252291",
+            "eprintid": 52135,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-06-13 07:21:59",
+      "eprint_status": "archive",
+      "eprintid": 52135,
+      "datestamp": "2023-06-13 07:21:58",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Erna",
+            "lineage": null,
+            "family": "Erna Dewi",
+            "honourific": null
+          },
+          "id": "erna.dewi@fh.unila.ac.id"
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "The Urgency Of The Restorative Justice Model In The Order To Humanistic Law Enforcement",
+      "abstract": "Hasil Ceck Similarity",
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52135",
+      "subjects": [
+        "K1"
+      ],
+      "status_changed": "2023-06-13 07:21:58",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "Journal of Namibian Studies",
+      "publisher": "Otjivanda Presse.Essen",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0_bak\/00\/05\/21\/35"
+    },
+    {
+      "abstract": "Hasil Check Korespondensi",
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52176",
+      "subjects": [
+        "K1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-06-20 08:09:29",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "Otjivanda Presse.Essen",
+      "publication": "Journal of Namibian Studies",
+      "dir": "disk0_bak\/00\/05\/21\/76",
+      "userid": 873,
+      "lastmod": "2023-06-20 08:09:29",
+      "documents": [
+          {
+            "docid": 252546,
+            "main": "Email Jurnal Erna Dewi.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618257",
+                  "filename": "Email Jurnal Erna Dewi.pdf",
+                  "filesize": 245595,
+                  "objectid": 252546,
+                  "mtime": "2023-06-20 03:02:48",
+                  "hash_type": "MD5",
+                  "hash": "796c196cf7a437d85fa379ca0cfdcceb",
+                  "mime_type": "application\/pdf",
+                  "fileid": 618257,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 52176,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252546",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2023-06-20 08:09:29",
+      "eprintid": 52176,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Erna",
+            "honourific": null,
+            "family": "Erna Dewi",
+            "lineage": null
+          },
+          "id": "erna.dewi@fh.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "The Urgency Of The Restorative Justice Model In The Order To Humanistic Law Enforcement",
+      "refereed": "FALSE"
+    },
+    {
+      "userid": 873,
+      "documents": [
+          {
+            "main": "Kores Erna D.pdf",
+            "docid": 252551,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 618267,
+                  "mime_type": "application\/pdf",
+                  "hash": "ce22622d6ed690026b23e87768bfe7be",
+                  "hash_type": "MD5",
+                  "mtime": "2023-06-20 04:50:01",
+                  "filesize": 258993,
+                  "objectid": 252551,
+                  "filename": "Kores Erna D.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618267"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 52177,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252551",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-06-20 08:09:31",
+      "eprint_status": "archive",
+      "eprintid": 52177,
+      "datestamp": "2023-06-20 08:09:31",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "erna.dewi@fh.unila.ac.id",
+          "name": {
+            "given": "Erna",
+            "honourific": null,
+            "family": "Erna Dewi",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "The Urgency Of The Restorative Justice Model In The Order To Humanistic Law Enforcement",
+      "abstract": "Hasil Check Korespondensi",
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52177",
+      "subjects": [
+        "K1"
+      ],
+      "status_changed": "2023-06-20 08:09:31",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "Journal of Namibian Studies",
+      "publisher": "Otjivanda Presse.Essen",
+      "divisions": [
+        "FH1"
+      ],
+      "dir": "disk0_bak\/00\/05\/21\/77"
+    }
+]
+

@@ -1,0 +1,2786 @@
+[
+    {
+      "status_changed": "2023-03-31 00:49:20",
+      "succeeds": 26173,
+      "rev_number": 8,
+      "dir": "disk0_bak\/00\/04\/94\/64",
+      "publication": "TEPIAN",
+      "divisions": [
+        "FT8"
+      ],
+      "funders": [
+        "Lembaga Penelitian dan Pengabdian Kepada Masyarakat"
+      ],
+      "volume": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49464",
+      "date_type": "published",
+      "subjects": [
+        "T1",
+        "T201"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Fahreza Apriyoga",
+            "honourific": null,
+            "family": "Arizal",
+            "lineage": null
+          },
+          "id": "fahrezapaw@gmail.com"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Martinus",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Djausal",
+            "honourific": null,
+            "given": "Gita Paramita"
+          },
+          "id": "gita.djausal@fisip.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "Word Per Minute (WPM) Lampung Script Keyboard",
+      "lastmod": "2023-03-31 00:49:20",
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "issn": "2721-5350",
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "url": "http:\/\/e-journal.politanisamarinda.ac.id\/index.php\/tepian\/index",
+          "type": "pub"
+        }
+      ],
+      "publisher": "Politeknik Pertanian Negeri Samarinda",
+      "abstract": "Users of Font Lampung in previous studies have difficulty in typing because the layout of the Lampung script is complicated to understand. Re-designing the Lampung alphabet keyboard layout allows users to be able to type text in characters more easily. The purpose of this research is to create a Lampung alphabet keyboard layout for more effective typing of the Lampung alphabet. The methods used are UX (User Experience) that are, requirements gathering, alternative design, prototype, evaluation, and result report generation. The layout design is created by eliminating the use of the SHIFT key and regrouping parent letters, the child letters in a more effective composition. The layout design of the Lampung alphabet was printed using the Laser Engraver tool on the keyboard. Through the test, the typing speed increased to 208% of the average value of 62 seconds to 32 seconds. In addition to the results of WPM (Word Per Minute) on keyboard layouts with 8.7 WPM which is faster than previous WPM research but still slower than QWERTY keyboard WPM. Testing of character quality, readability, and difficulty level to know the flaws in the Lampung RaTaYa keyboard layout with good results. This research concludes that the keyboard layout of Lampung RaTaYa is more effective than using the font Lampung script.",
+      "date": "2020-09-28",
+      "refereed": "TRUE",
+      "userid": 1199,
+      "number": 3,
+      "official_url": "http:\/\/e-journal.politanisamarinda.ac.id\/index.php\/tepian\/article\/view\/147",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 536680,
+                  "datasetid": "document",
+                  "hash": "18eda8139129ceb1959cc333377c1778",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-19 02:48:02",
+                  "objectid": 189043,
+                  "filesize": 316652,
+                  "filename": "147-Article Text-408-1-10-20200928.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536680"
+                }
+            ],
+            "main": "147-Article Text-408-1-10-20200928.pdf",
+            "docid": 189043,
+            "content": "published",
+            "rev_number": 3,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49464,
+            "placement": 1,
+            "security": "public",
+            "formatdesc": "Artikel",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189043",
+            "pos": 1
+          },
+          {
+            "eprintid": 49464,
+            "placement": 7,
+            "formatdesc": "Similiarity",
+            "security": "public",
+            "pos": 7,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189049",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 18:01:26",
+                  "objectid": 189049,
+                  "filesize": 348299,
+                  "filename": "meizano+martinus-2020-jurnal-WPM_Keyboard_Lampung.pdf.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536687",
+                  "fileid": 536687,
+                  "datasetid": "document",
+                  "hash": "6ef93714351d72a40ca5512a98360c63",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "meizano+martinus-2020-jurnal-WPM_Keyboard_Lampung.pdf.pdf",
+            "docid": 189049,
+            "content": "other",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2
+          },
+          {
+            "placement": 8,
+            "eprintid": 49464,
+            "pos": 8,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189050",
+            "security": "public",
+            "formatdesc": "Korespondensi M2",
+            "main": "meizano-korespondensi-(Word Per Minute) WPM Keyboard Aksara Lampung.pdf",
+            "docid": 189050,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 18:01:35",
+                  "objectid": 189050,
+                  "filesize": 287409,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536689",
+                  "filename": "meizano-korespondensi-(Word Per Minute) WPM Keyboard Aksara Lampung.pdf",
+                  "fileid": 536689,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "936772aaa8f1f5b14219316ee64308e3"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "other"
+          },
+          {
+            "placement": 9,
+            "eprintid": 49464,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189051",
+            "pos": 9,
+            "formatdesc": "Korespondensi M1",
+            "security": "public",
+            "docid": 189051,
+            "main": "martinus-korespondensi-(Word Per Minute) WPM Keyboard Aksara Lampung.pdf",
+            "files": [
+                {
+                  "filesize": 218245,
+                  "objectid": 189051,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536691",
+                  "filename": "martinus-korespondensi-(Word Per Minute) WPM Keyboard Aksara Lampung.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 18:01:42",
+                  "fileid": 536691,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "dbbb47cebeb5fa7bf3e214a480000c19"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "content": "other"
+          }
+      ],
+      "datestamp": "2023-03-31 00:49:20",
+      "eprint_status": "archive",
+      "id_number": 147,
+      "eprintid": 49464,
+      "pagerange": "79-83"
+    },
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2721-5350",
+      "status_changed": "2022-04-06 06:08:52",
+      "dir": "disk0\/00\/04\/11\/19",
+      "publisher": "Politeknik Pertanian Negeri Samarinda",
+      "publication": "TEPIAN",
+      "divisions": [
+        "FT8"
+      ],
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41119",
+      "abstract": "Users of Font Lampung in previous studies have difficulty in typing because the layout of the Lampung script is complicated to understand. Re-designing the Lampung alphabet keyboard layout allows users to be able to type text in characters more easily. The purpose of this research is to create a Lampung alphabet keyboard layout for more effective typing of the Lampung alphabet. The methods used are UX (User Experience) that are, requirements gathering, alternative design, prototype, evaluation, and result report generation. The layout design is created by eliminating the use of the SHIFT key and regrouping parent letters, the child letters in a more effective composition. The layout design of the Lampung alphabet was printed using the Laser Engraver tool on the keyboard. Through the test, the typing speed increased to 208% of the average value of 62 seconds to 32 seconds. In addition to the results of WPM (Word Per Minute) on keyboard layouts with 8.7 WPM which is faster than previous WPM research but still slower than QWERTY keyboard WPM. Testing of character quality, readability, and difficulty level to know the flaws in the Lampung RaTaYa keyboard layout with good results. This research concludes that the keyboard layout of Lampung RaTaYa is more effective than using the font Lampung script.",
+      "volume": 1,
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "title": "Word Per Minute (WPM) Lampung Script Keyboard - Full Cover",
+      "refereed": "FALSE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Arizal",
+            "given": "Fahreza Apriyoga"
+          },
+          "id": "fahrezapaw@gmail.com"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "family": ".",
+            "lineage": null,
+            "honourific": null,
+            "given": "Martinus"
+          }
+        },
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "given": "Gita Paramita",
+            "lineage": null,
+            "family": "Djausal",
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "http:\/\/e-journal.politanisamarinda.ac.id\/index.php\/tepian\/article\/view\/147\/109",
+      "lastmod": "2022-04-06 06:08:52",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Word Per Minute (WPM) Lampung Script Keyboard.pdf",
+            "docid": 162547,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456486",
+                  "filename": "Word Per Minute (WPM) Lampung Script Keyboard.pdf",
+                  "objectid": 162547,
+                  "filesize": 600804,
+                  "mtime": "2022-04-06 04:46:17",
+                  "hash_type": "MD5",
+                  "hash": "70310fd080c0a931f26affb0caae9e90",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 456486
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 41119,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162547",
+            "pos": 1
+          }
+      ],
+      "userid": 517,
+      "number": 3,
+      "metadata_visibility": "show",
+      "pagerange": "79-83",
+      "datestamp": "2022-04-06 06:08:52",
+      "eprint_status": "archive",
+      "eprintid": 41119
+    },
+    {
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 162596,
+            "main": "Library Attendance System using YOLOv5 Faces Recognition.pdf",
+            "files": [
+                {
+                  "objectid": 162596,
+                  "filesize": 1448245,
+                  "filename": "Library Attendance System using YOLOv5 Faces Recognition.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456674",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 06:29:01",
+                  "datasetid": "document",
+                  "fileid": 456674,
+                  "mime_type": "application\/pdf",
+                  "hash": "dfc4f9e494693ef719fcab9c1c767049"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162596",
+            "eprintid": 41138,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/ieeexplore.ieee.org\/document\/9650628",
+      "lastmod": "2022-04-06 06:45:43",
+      "userid": 517,
+      "metadata_visibility": "show",
+      "eprintid": 41138,
+      "eprint_status": "archive",
+      "datestamp": "2022-04-06 06:45:43",
+      "refereed": "TRUE",
+      "title": "Library Attendance System using YOLOv5 Faces Recognition - Full Cover",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": ".",
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "yessi.mulyani@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Mulyani",
+            "lineage": null,
+            "given": "Yessi"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41138",
+      "abstract": "Recognizing a large number of faces at the same time is an algorithmic and computational challenge. The integration of a facial recognition system with an existing automation system in a library is also a big challenge because of the many sub-systems that operate in it. The aim is to develop a prototype of a library attendance system to assist library management related to facial recognition of users who visit the library. This study uses image processing focuses on object detection using the YOLOv5 algorithm. The library attendance system integrates 3 sub-systems: API service, face recognition using YOLOv5, and visitor identification system. The results obtained are that the library attendance system can function properly, can read the API service, and display information on the results of face detection therefore the system can be used by the existing library automation system.",
+      "subjects": [
+        "T1"
+      ],
+      "event_title": "International Conference on Converging Technology in Electrical and Information Engineering (ICCTEIE)",
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2022-04-06 06:45:43",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/11\/38"
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 16,
+      "full_text_status": "public",
+      "issn": "2528-6579",
+      "status_changed": "2020-05-28 11:49:16",
+      "related_url": [
+        {
+          "url": "http:\/\/dx.doi.org\/10.25126\/jtiik.202071"
+        }
+      ],
+      "publisher": "Fakultas Ilmu Komputer (FILKOM), Universitas Brawijaya (UB)",
+      "publication": "Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK)",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/02\/08\/84",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20884",
+      "date": "2020-02-04",
+      "abstract": "Teknologi AugmentedReality(AR)  saat  ini  banyak  digunakan  untuk  penyebaran  informasi  dan  bahkan  untuk transaksi pada pelayanan yang bersifat publik.Teknologi ini sudah cukup dikenal oleh masyarakat luas, bersamaan dengan dikenalnya teknologi Virtual Reality(VR) yang banyak digunakan pada permainan (game).Pengunjung Perpustakaan,  terutama  di  Universitas,  sebagian  besar  merupakan  masyarakat  dengan  kategori  generasi digital native.Untuk  menemukan  lokasi  buku,  waktu  yang  dibutuhkan  oleh  pengunjung  perpustakaan  biasanya  relatif lama  dan  sangat  tergantung  dari  pengalaman  kunjungan  atau  frekuensi  pencarian  yang  dilakukan.Pengunjung perpustakaan  memerlukan  aplikasi  yang  memudahkan  mereka  melacak  dan  menemukan  lokasi  koleksi  pustaka yang  dicari, dengan  menggunakan  ponsel  cerdas  mereka.Sistem  otomasi  perpustakaan  yang  ada  membantu menyediakan  informasi  lokasi  pustaka  yang  harus  direlasikan  sendiri  oleh  pengunjung  perpustakaan  terhadap tempat  di  gedung  perpustakaan.  AR  memungkinkan  informasi  tersebut  disematkan  di  dunia  nyata,  sehingga memudahkan  pencarian  pustaka.  Penelitian  ini  bertujuan  untuk  mengembangkan perangkat  lunak  layanan perpustakaan  yang  dapat  membantu  pengunjung  menemukan  lokasi  buku  dengan  memanfaatkan  teknologi  AR dan  berbasis AR  Marker.Ruang  lingkup  pengembangan  aplikasi ini  menggunakan metoderekayasa  perangkat lunak RAD. Aplikasi dikembangkan menggunakan metodetemplatematchingdan algoritma A* untuk pathfinding. Skema layanan data pada alikasi terdiri dari empat bagian, yaitu OPAC (Online Public Access Catalog), deteksi lokasi, pathfindingdan navigasi. Lokasi yang dipetakan adalah gedung Perpustakaan Universitas Lampung yang terdiri  dari  3  lantai.Hasil  dari  penelitian  ini  berupa  realisasi  perangkat  lunak  menggunakan  teknologi  AR  yang dapat memvisualisasikan arah menuju lokasi pustaka. Pengujian aplikasi dilakukan dengan skenario (a) pencarian Pustaka  dengan  OPAC,  (b)  mendeteksi  lokasi  (AR),  (c)  komputasi  Pathfinding,  (d)  menampilkan  marker,  dan seluruhnya  memperoleh  hasil  yang  sesuai  dengan requirement.Waktu  komputasipada  perangkat  AR  diukur terhadap  proses  algoritma  A*,  generasi  marker,  dan  total  keseluruhan.  Total  waktu  komputasi  yang  diperlukan adalah  rata-rata  37,379  ms,  modus  44  ms,  dan  median  38  ms.  Secara  keseluruhan  waktu  komputasi  berada  di bawah nilai batas TTI 50 ms.Hasil survei menunjukkan lebih dari 70% pengunjung perpustakaan memiliki User Experience(UX) yang Baik dan Sangat Baik.Kata Kunci: AugmentedReality, Pelacak Lokasi,Navigasi, Perpustakaan, AR Marker, TemplateMatching",
+      "volume": 7,
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "title": "AUGMENTED REALITY PELACAK LOKASI PUSTAKA DENGAN AR MARKER",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "family": "Muhammad",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Wahyu Eko",
+            "honourific": null,
+            "family": "Sulistiono",
+            "lineage": null
+          },
+          "id": "eko@eng.unila.ac.id"
+        },
+        {
+          "id": "gitadjausal@gmail.com",
+          "name": {
+            "given": "Gita Paramita",
+            "family": "Djausal",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "official_url": "http:\/\/jtiik.ub.ac.id\/",
+      "lastmod": "2022-12-05 04:17:43",
+      "documents": [
+          {
+            "content": "published",
+            "rev_number": 3,
+            "language": "en",
+            "mime_type": "application\/xml",
+            "format": "archive",
+            "docid": 34268,
+            "main": 1343,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-28 10:07:26",
+                  "objectid": 34268,
+                  "filesize": 53593,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/195275",
+                  "filename": 1343,
+                  "fileid": 195275,
+                  "datasetid": "document",
+                  "hash": "37ec48f6c8887493e3108cd7579d2a13",
+                  "mime_type": "application\/xml"
+                }
+            ],
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34268",
+            "eprintid": 20884,
+            "placement": 2
+          }
+      ],
+      "userid": 517,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "77-86",
+      "datestamp": "2020-05-28 11:49:16",
+      "eprintid": 20884,
+      "eprint_status": "archive"
+    },
+    {
+      "publication": "Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK)",
+      "publisher": "Fakultas Ilmu Komputer (FILKOM), Universitas Brawijaya (UB)",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/11\/03",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "issn": "2528-6579",
+      "full_text_status": "public",
+      "status_changed": "2022-04-06 04:20:05",
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41103",
+      "date": 2020,
+      "abstract": "Teknologi AugmentedReality(AR) saat ini banyak digunakan untuk penyebaran informasi dan bahkan untuk transaksi pada pelayanan yang bersifat publik.Teknologi ini sudah cukup dikenal oleh masyarakat luas, bersamaan dengan dikenalnya teknologi Virtual Reality(VR) yang banyak digunakan pada permainan (game).Pengunjung Perpustakaan, terutama di Universitas, sebagian besar merupakan masyarakat dengan kategori generasi digital native.Untuk menemukan lokasi buku, waktu yang dibutuhkan oleh pengunjung perpustakaan biasanya relatif lama dan sangat tergantung dari pengalaman kunjungan atau frekuensi pencarian yang dilakukan.Pengunjung perpustakaan memerlukan aplikasi yang memudahkan mereka melacak dan menemukan lokasi koleksi pustaka yang dicari, dengan menggunakan ponsel cerdas mereka.Sistem otomasi perpustakaan yang ada membantu menyediakan informasi lokasi pustaka yang harus direlasikan sendiri oleh pengunjung perpustakaan terhadap tempat di gedung perpustakaan. AR memungkinkan informasi tersebut disematkan di dunia nyata, sehingga memudahkan pencarian pustaka. Penelitian ini bertujuan untuk mengembangkan perangkat lunak layanan perpustakaan yang dapat membantu pengunjung menemukan lokasi buku dengan memanfaatkan teknologi AR dan berbasis AR Marker.Ruang lingkup pengembangan aplikasi ini menggunakan metoderekayasa perangkat lunak RAD. Aplikasi dikembangkan menggunakan metodetemplatematchingdan algoritma A* untuk pathfinding. Skema layanan data pada alikasi terdiri dari empat bagian, yaitu OPAC (Online Public Access Catalog), deteksi lokasi, pathfindingdan navigasi. Lokasi yang dipetakan adalah gedung Perpustakaan Universitas Lampung yang terdiri dari 3 lantai.Hasil dari penelitian ini berupa realisasi perangkat lunak menggunakan teknologi AR yang dapat memvisualisasikan arah menuju lokasi pustaka. Pengujian aplikasi dilakukan dengan skenario (a) pencarian Pustaka dengan OPAC, (b) mendeteksi lokasi (AR), (c) komputasi Pathfinding, (d) menampilkan marker, dan seluruhnya memperoleh hasil yang sesuai dengan requirement.Waktu komputasipada perangkat AR diukur terhadap proses algoritma A*, generasi marker, dan total keseluruhan. Total waktu komputasi yang diperlukan adalah rata-rata 37,379 ms, modus 44 ms, dan median 38 ms. Secara keseluruhan waktu komputasi berada di bawah nilai batas TTI 50 ms.Hasil survei menunjukkan lebih dari 70% pengunjung perpustakaan memiliki User Experience(UX) yang Baik dan Sangat Baik.Kata Kunci: AugmentedReality, Pelacak Lokasi,Navigasi, Perpustakaan, AR Marker, TemplateMatching",
+      "volume": 7,
+      "title": "AUGMENTED REALITY PELACAK LOKASI PUSTAKA DENGAN AR MARKER - Full Cover",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "family": ".",
+            "lineage": null
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Muhammad",
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sulistiono",
+            "lineage": null,
+            "given": "Wahyu Eko"
+          },
+          "id": "eko@eng.unila.ac.id"
+        },
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Djausal",
+            "honourific": null,
+            "given": "Gita Paramita"
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "77-86",
+      "datestamp": "2022-04-06 04:20:05",
+      "id_number": "http:\/\/dx.doi.org\/10.25126\/jtiik.202071",
+      "eprint_status": "archive",
+      "eprintid": 41103,
+      "official_url": "http:\/\/jtiik.ub.ac.id\/index.php\/jtiik\/article\/view\/1343\/pdf",
+      "lastmod": "2022-12-05 04:18:28",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 162523,
+            "main": "AUGMENTED REALITY PELACAK LOKASI PUSTAKA DENGAN AR.pdf",
+            "files": [
+                {
+                  "fileid": 456345,
+                  "datasetid": "document",
+                  "hash": "20666f9c7412e2daa92794c5a84c0077",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-06 03:48:35",
+                  "filesize": 943092,
+                  "objectid": 162523,
+                  "filename": "AUGMENTED REALITY PELACAK LOKASI PUSTAKA DENGAN AR.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456345"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162523",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 41103
+          }
+      ],
+      "userid": 517,
+      "number": 1
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "T1",
+        "T201",
+        "Z665",
+        "Z719"
+      ],
+      "abstract": "Invensi ini merupakan penerapan teknologi navigasi menggunakan augmented reality dan sistem otomasi perpustakaan yang bertujuan untuk membantu navigasi dalam pencarian buku berada oleh pemustaka pada Perpustakaan. Sistem Navigasi Pada Perpustakaan Menggunakan AR Untuk Mendeteksi Lokasi Buku Berada dimana sistem otomasi perpustakaan melakukan pencarian pustaka yang menghasilkan nomor katalog, sistem otomasi perpustakaan mengirim nomor katalog ke sistem pathfinding, sistem pathfinding melakukan komputasi jalur (path) yang harus dilalui dan mengirimkan daftar jalur yang dilewati ke sistem navigasi AR, sistem navigasi AR melakukan Komputasi jalur (path) yang harus dilalui, mengirimkan daftar jalur yang dilewati ke sistem navigasi AR.",
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "date": "2020-02-28",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24104",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/02\/41\/04",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2020-09-21 03:29:01",
+      "ispublished": "pub",
+      "rev_number": 11,
+      "datestamp": "2020-09-21 03:29:01",
+      "id_number": "IDS000002929",
+      "eprint_status": "archive",
+      "eprintid": 24104,
+      "metadata_visibility": "show",
+      "userid": 1199,
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/index.php\/paten\/d3U3YXg4ZWRycFZUKzg5bS8rSDVTUT09",
+      "lastmod": "2020-09-21 03:29:01",
+      "documents": [
+          {
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "docid": 37807,
+            "main": "SID201810089-IDS000002929-Mardiana-Meizano-Wahyu_Eko-Gita.pdf",
+            "files": [
+                {
+                  "fileid": 219472,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "435e4847813d53f8fe01a8e0d322c262",
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-20 05:25:58",
+                  "filesize": 6325412,
+                  "objectid": 37807,
+                  "filename": "SID201810089-IDS000002929-Mardiana-Meizano-Wahyu_Eko-Gita.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219472"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37807",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 24104
+          }
+      ],
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "honourific": null,
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sulistiono",
+            "honourific": null,
+            "given": "Wahyu Eko"
+          },
+          "id": "eko@eng.unila.ac.id"
+        },
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "given": "Gita Paramita",
+            "family": "Djausal",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "patent",
+      "title": "SISTEM NAVIGASI PADA PERPUSTAKAAN MENGGUNAKAN AR (AUGMENTED REALITY) UNTUK MENDETEKSI LOKASI BUKU BERADA"
+    },
+    {
+      "title": "SISTEM NAVIGASI PADA PERPUSTAKAAN MENGGUNAKAN AR (AUGMENTED REALITY) UNTUK MENDETEKSI LOKASI BUKU BERADA - FULL",
+      "type": "patent",
+      "creators": [
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Wahyu Eko",
+            "family": "Sulistiono",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "eko@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Gita Paramita",
+            "family": "Djausal",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "gita.djausal@fisip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "id_number": "IDS000002929",
+      "eprint_status": "archive",
+      "eprintid": 41081,
+      "datestamp": "2022-04-05 08:49:57",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162504",
+            "eprintid": 41081,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "SID201810089-IDS000002929-Paten (1).pdf",
+            "files": [
+                {
+                  "fileid": 456196,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "cc28812356588aa0038071ed8f54e38d",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-05 08:35:34",
+                  "objectid": 162504,
+                  "filesize": 896909,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456196",
+                  "filename": "SID201810089-IDS000002929-Paten (1).pdf"
+                }
+            ],
+            "docid": 162504
+          }
+      ],
+      "lastmod": "2022-12-05 04:24:44",
+      "userid": 517,
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/10\/81",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2022-04-05 08:49:57",
+      "full_text_status": "public",
+      "subjects": [
+        "T1"
+      ],
+      "date_type": "published",
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41081",
+      "patent_applicant": "LPPM Unila",
+      "abstract": "Invensi ini merupakan penerapan teknologi navigasi menggunakan augmented reality dan sistem otomasi perpustakaan yang bertujuan untuk membantu navigasi dalam pencarian buku berada oleh pemustaka pada Perpustakaan. Sistem Navigasi Pada Perpustakaan Menggunakan AR Untuk Mendeteksi Lokasi Buku Berada dimana sistem otomasi perpustakaan melakukan pencarian pustaka yang menghasilkan nomor katalog, sistem otomasi perpustakaan mengirim nomor katalog ke sistem pathfinding, sistem pathfinding melakukan komputasi jalur (path) yang harus dilalui dan mengirimkan daftar jalur yang dilewati ke sistem navigasi AR, sistem navigasi AR melakukan Komputasi jalur (path) yang harus dilalui, mengirimkan daftar jalur yang dilewati ke sistem navigasi AR."
+    },
+    {
+      "title": "ARLIB (AUGMENTED REALITY FOR LIBRARY) SEBAGAI MEDIA INTERAKTIF UNTUK PENGENALAN DAN PROMOSI PERPUSTAKAAN",
+      "refereed": "FALSE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sulistiono",
+            "honourific": null,
+            "given": "Wahyu Eko"
+          },
+          "id": "eko@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Windah",
+            "lineage": null,
+            "honourific": null,
+            "given": "Andi"
+          },
+          "id": "andiwindah@gmail.com"
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "9-20",
+      "datestamp": "2021-10-04 01:21:18",
+      "eprintid": 34226,
+      "eprint_status": "archive",
+      "lastmod": "2022-12-05 04:16:57",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-30 11:49:05",
+                  "filesize": 545095,
+                  "objectid": 154734,
+                  "filename": "ARLIB (AUGMENTED REALITY FOR LIBRARY) SEBAGAI MEDIA INTERAKTIF UNTUK PENGENALAN DAN PROMOSI PERPUSTAKAAN.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/403583",
+                  "datasetid": "document",
+                  "fileid": 403583,
+                  "mime_type": "application\/pdf",
+                  "hash": "863eb6f1f61ba6926a3d6fb3001e8f1f"
+                }
+            ],
+            "main": "ARLIB (AUGMENTED REALITY FOR LIBRARY) SEBAGAI MEDIA INTERAKTIF UNTUK PENGENALAN DAN PROMOSI PERPUSTAKAAN.pdf",
+            "docid": 154734,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 6,
+            "eprintid": 34226,
+            "pos": 6,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154734",
+            "security": "public"
+          }
+      ],
+      "userid": 517,
+      "number": 2,
+      "publisher": "Dinas Perpustakaan dan Kearsipan Provinsi Lampung",
+      "publication": "Tawit Pustaka Jurnal Perpustakaan dan Informasi Ilmiah",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/03\/42\/26",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "issn": 25989464,
+      "full_text_status": "public",
+      "status_changed": "2021-10-04 01:21:18",
+      "succeeds": 31829,
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34226",
+      "date": "2020-11",
+      "abstract": "Perkembangan Teknologi Informasi dan Komunikasi (TIK) yang semakin pesat, seharusnya dapat mendorong pemanfaatan teknologi tersebut untuk pelayanan yang prima sekaligus sebagai kekuatan instansi\/lembaga untuk bersaing secara global. Demikian juga dalam bidang Perpustakaan, organisasi kerjasama Perpustakaan antar Perguruan Tinggi (PT) yaitu Forum Perpustakaan Perguruan Tinggi Indonesia (FPPTI), di Provinsi Lampung disebut FPPTI Lampung memiliki anggotanya 22 Perpustakaan PTN\/PTS yang bergabung aktif sejak tahun 2016. FPPTI Lampung menjadi Mitra bagi tim Pengabdian Kepada Masyarakat (PKM) Unila ini. \r\nPermasalahan yang dimiliki Mitra, adalah masih minimnya TIK yang diterapkan untuk mempromosikan layanan dan fasilitas. Salah satu teknologi terkini yang dapat digunakan adalah teknologi Augmented Reality (AR). Aplikasi AR untuk navigasi Perpustakaan merupakan hasil penelitian tim PKM Unila, telah memperoleh sertifikat Hak Cipta dan sedang dalam pengajuan Paten Sederhana. Usulan penerapan aplikasi AR ini difokuskan kepada fitur-fitur umum untuk tujuan promosi Perpustakaan, disebut dengan aplikasi ARLib (Augmented Reality for Library). ARLib digunakan pada ponsel cerdas pengguna, yang melalui pemindaian kamera ponsel akan memvisualisasikan marker yang ada ke dalam bentuk tiga dimensi (3D). Unsur interaksi pengguna dibuat dengan menggunakan audio dan video. Tampilan  promosi Perpustakaan akan lebih lengkap, menarik dan interaktif  jika dibandingkan dengan poster ataupun brosur biasa. \r\nMetoda  yang  digunakan  dalam  pengembangan aplikasi dan penerapan ARLib ini menggunakan metode Rapid Application  Development (RAD). Tahapan RAD adalah identifikasi masalah dan motivasi, menetapkan objek solusi, penerapan solusi dan pelatihan serta pelaporan hasil dan publikasi. Untuk peningkatan kompetensi Mitra dalam hal teknologi dan promosi, Tim PKM telah memberikan pelatihan dan praktek, mulai dari persiapan konten promosi hingga penerapan aplikasi ARLib pada Perpustakaan Mitra. Berdasarkan indikator pemahaman dan capaian target luaran secara rata-rata tercapai pemahaman peserta sebesar 80% dan penerapan yang dilakukan sebesar 40%. Sehingga dapat dikatakan bahwa tujuan PKM ini tercapai dengan baik yaitu berupa tersedianya perangkat teknologi informasi dalam bentuk aplikasi ARLib (Augmented Reality for Library)  yang dapat digunakan Mitra sebagai sarana promosi serta diperolehnya peningkatan pengetahuan dan wawasan Mitra pada TIK yang diterapkan di Perpustakaan tersebut.\r\n\r\nKata Kunci : Perpustakaan, FPPTI Lampung, Augmented Reality, ARLib, Promosi",
+      "volume": 4
+    },
+    {
+      "eprintid": 28153,
+      "eprint_status": "archive",
+      "datestamp": "2021-03-03 02:05:28",
+      "pagerange": "55-64",
+      "metadata_visibility": "show",
+      "number": 9,
+      "userid": 517,
+      "documents": [
+          {
+            "format": "text",
+            "docid": 42205,
+            "main": "IDM Dashboard Sebagai Alat Bantu Untuk.pdf",
+            "files": [
+                {
+                  "hash": "de7080ed9fb64a83ce2ff315cde52ef4",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 250517,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/250517",
+                  "filename": "IDM Dashboard Sebagai Alat Bantu Untuk.pdf",
+                  "objectid": 42205,
+                  "filesize": 510251,
+                  "mtime": "2021-03-02 00:38:19",
+                  "hash_type": "MD5"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 28153,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42205",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2021-03-03 02:05:28",
+      "official_url": "https:\/\/sinergi.lppm.unila.ac.id\/",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Mardiana",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "syafarudin.1972@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Syafarudin",
+            "honourific": null,
+            "given": "Syafarudin"
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "IDM DashboardSebagai Alat Bantu Untuk Pengukuran Status Kemandirian Desa Hanakau Jaya Kabupaten Lampung Utara",
+      "subjects": [
+        "T1"
+      ],
+      "volume": 1,
+      "abstract": "Index  Membangun  Desa  (IDM)  adalah  pengukuran  indeks  yang  dilakukan  pemerintah Indonesia untuk mengetahui tingkatan sebuah desa terhadap parameter yang telah ditentukan. IDM ditetapkan  melalui  peraturan  Permendesa  No  2  Tahun  2016.  Namun  sampaidengan  saat  ini, implementasi  IDM  yang  berupa  aktivitas  pengumpulan  data  dan  penyajian  informasi,  masih dilakukan  secara  manual  oleh  desa.  Proses  data  dari  desa  kemudian  dikumpulkan  pada  tingkat kecamatan,  yang  kemudian  diserahkan  secara  bertingkat  sampaitingkat  kementerian.  Sehingga adanya sistem elektronik yang menjadikan informasi desa dapat dengan cepat diinput, diolah dan ditampilkan  secara  otomatis  dengan  menggunakan  ponsel  cerdas,  akan  sangat  membantu perangkat  desa  terkait.  Permasalahan  yang  dimiliki  perangkat  Desa  Hanakau  Jaya  Kabupaten Lampung Utara sebagai Mitra desa binaan, adalah tidak adanya sistem elektronik berupa aplikasi IDM Dashboardyang  dapat  digunakan  untuk  tujuan  tersebut.  Sehingga  pengumpulan  data  dan penyajian  informasi  Desa  Hanakau  Jaya  memerlukan  waktu yang  lama  dan  tidak  akurat.Metodeyangdigunakan dalam penerapan aplikasi ini menggunakanmetodeRapidApplicationDevelopment(RAD).   Tahapan  RAD   adalah   identifikasi   masalah   dan  motivasi,  menetapkan   objek   solusi, penerapan solusi dan pelatihan serta pelaporan hasil dan publikasi. Untuk peningkatan kompetensi Mitra dalam hal teknologi informasi,Tim PKM telah memberikan pelatihan dan praktek penggunaan aplikasi IDM Dashboardhingga penerapan dengan data hasil survey yang sebenarnya. Hasilnya, perangkat  teknologi  informasi  dalam  bentuk  aplikasi  IDM Dashboardtelah  dapat  digunakan Mitra sebagai alat bantu penginputan dan pengukuran status kemandirian desa Hanakau Jaya. Mitra telah dapat membuat  kuisioner,  menginput data  dan menggunakan  fitur-fitur terkait  pengukuran  status, serta telah melakukan uji coba aplikasi secara keseluruhan. Hasil pengamatan dan post-testyang dilakukan  pada  saat  pelatihan,  menunjukkan  pemahaman  peserta  terhadap  cara  pembuatan kuisioner   sebesar   75%,   dan   cara   penginputan   data   sebesar   80%   dan   pengukuran   status kemandirian desa sebesar 85%. Hasil pada tahap monitoring dan evaluasi pada perangkat desa, diperoleh bahwa aplikasi telah diterapkan untuk survey pada 40 peserta yang menjadi responden. Penggunaan  aplikasi  menunjukkan  pemahaman 40  peserta  tersebut  rata-rata  sebesar  85%  pada cara-cara penggunaan aplikasi IDM Dashboard.\r\n\r\nKata kunci: IDM, sistem elektronik, IDM Dashboard , desa, survei.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28153",
+      "date": 2020,
+      "divisions": [
+        "FT8"
+      ],
+      "publisher": "LPPM Universitas Lampung",
+      "publication": "Jurnal Sinergi",
+      "dir": "disk0\/00\/02\/81\/53",
+      "status_changed": "2021-03-03 02:05:28",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2020-11-20 01:22:42",
+      "eprintid": 26364,
+      "id_number": "EC00202045770",
+      "eprint_status": "archive",
+      "lastmod": "2020-11-20 01:22:42",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "sertifikat_EC00202045770.pdf",
+            "files": [
+                {
+                  "fileid": 237483,
+                  "datasetid": "document",
+                  "hash": "27502501d3084f7165a43afc7843e8e7",
+                  "mime_type": "application\/pdf",
+                  "objectid": 40259,
+                  "filesize": 767757,
+                  "filename": "sertifikat_EC00202045770.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/237483",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-19 19:42:48"
+                }
+            ],
+            "docid": 40259,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40259",
+            "eprintid": 26364,
+            "placement": 1
+          }
+      ],
+      "userid": 1199,
+      "title": "Program Komputer IDM Dashboard",
+      "type": "patent",
+      "creators": [
+        {
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "lineage": null,
+            "family": "."
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "family": "Muhammad",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "syafarudin.1972@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Syafarudin",
+            "given": "Syafarudin"
+          }
+        },
+        {
+          "id": "rizki.alandani@gmail.com",
+          "name": {
+            "family": "Alandani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Rizki"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null,
+            "given": "Joni"
+          }
+        }
+      ],
+      "date_type": "published",
+      "subjects": [
+        "T1",
+        "T201"
+      ],
+      "date": "2020-11-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26364",
+      "abstract": "Sistem Elektronik Indeks Desa Membangun (IDM) Dashboard dengan penyajian informasi berdasarkan laporan IDM tahunan Kemendesa yang dapat disajikan mulai dari tingkat desa, kecamatan, kabupaten, provinsi hingga nasional. Sistem Elektronik IDM Dashboard dapat dijalankan pada perangkat bergerak.",
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "funders": [
+        "Lembaga Penelitian dan Pengabdian Kepada Masyarakat Universitas Lampung"
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/02\/63\/64",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-11-20 01:22:42"
+    },
+    {
+      "event_type": "conference",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/02\/17\/10",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "full_text_status": "public",
+      "status_changed": "2020-06-04 00:08:32",
+      "subjects": [
+        "T1"
+      ],
+      "event_title": "SEMINAR NASIONAL INOVASI PERPUSTAKAAN (SNIPer) 2019",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21710",
+      "date": "2020-02",
+      "abstract": "Penelitian ini merupakan bagian dari penelitian yang bertujuan mengembangkan sistem navigasi bagi pemustaka UPT Perpustakaan Universitas Lampung. Paparan pada makalah ini mengenai aplikasi pemodelan 3 dimensi (3D) sebagai pathfinding untuk menemukan ruangan yang dicari. Model 3D digambarkan dalam bentuk desain layout ruang pada tiga lantai gedung UPT Perpustakaan Universitas Lampung. Dibuat 2 tipe tampilan gedung UPT Perpustakaan Universitas Lampung pada penelitian ini, yaitu Top-down View dan Isometric View. Dibuat avatar pada penelitian ini sebagai penunjuk navigasi yang dilakukan. Avatar akan menunjukkan navigasi menuju arah ruangan yang dicari oleh pemustaka. Metode yang digunakan dalam penelitian ini adalah metode Kanban. Hasil penelitian berupa aplikasi desktop yang juga dapat digunakan pada kioska layar sentuh. Dari hasil pengujian, aplikasi dapat membuat avatar menunjukkan navigasi menuju arah ruangan yang dicari oleh pemustaka sesuai lokasi ruangan tersebut.\r\nKata kunci : Perpustakaan, Model 3D, Unity 3D, Navigasi, Metode Kanban",
+      "title": "Peta Tiga Dimensi sebagai Alat Bantu Indoor Navigation pada UPT Perpustakaan Universitas Lampung",
+      "refereed": "FALSE",
+      "event_dates": "Oktober 2019",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Al Assad",
+            "lineage": null,
+            "honourific": null,
+            "given": "M. Aziz"
+          }
+        },
+        {
+          "name": {
+            "family": ".",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "family": "Muhammad",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "event_location": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "datestamp": "2020-06-04 00:08:32",
+      "eprint_status": "archive",
+      "eprintid": 21710,
+      "lastmod": "2020-06-04 00:08:32",
+      "official_url": "http:\/\/sniper.library.unila.ac.id\/2020\/05\/29\/e-prosding-2019\/",
+      "documents": [
+          {
+            "format": "archive",
+            "files": [
+                {
+                  "objectid": 35104,
+                  "filesize": 30908,
+                  "filename": "index.html",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200911",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-03 22:54:45",
+                  "datasetid": "document",
+                  "fileid": 200911,
+                  "mime_type": "text\/html",
+                  "hash": "218c21f9c88a5e21b0732ddf59513e30"
+                }
+            ],
+            "main": "index.html",
+            "docid": 35104,
+            "content": "published",
+            "language": "id",
+            "mime_type": "text\/html",
+            "rev_number": 3,
+            "eprintid": 21710,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35104"
+          }
+      ],
+      "userid": 517
+    },
+    {
+      "datestamp": "2023-04-10 00:56:16",
+      "eprintid": 26463,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "346-350",
+      "userid": 2822,
+      "number": 1,
+      "lastmod": "2023-04-10 00:56:16",
+      "official_url": "https:\/\/lppm.uajy.ac.id\/sendimas2020\/",
+      "documents": [
+          {
+            "main": "Resty Annisa_Publikasi PKM_Sendimas.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "ada643ea26fcd1c1d6f8d3808de72558",
+                  "datasetid": "document",
+                  "fileid": 238149,
+                  "mtime": "2020-11-20 06:08:53",
+                  "hash_type": "MD5",
+                  "filename": "Resty Annisa_Publikasi PKM_Sendimas.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/238149",
+                  "objectid": 40352,
+                  "filesize": 1064440
+                }
+            ],
+            "docid": 40352,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 26463,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40352",
+            "security": "public"
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Deny Budiyanto",
+            "honourific": null,
+            "given": "Deny Budiyanto"
+          },
+          "id": "deny.budianto@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Resty",
+            "lineage": null,
+            "given": "Annisa"
+          },
+          "id": "resty.annisa@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Mulyani",
+            "honourific": null,
+            "given": "Yessi"
+          },
+          "id": "yessi.mulyani@eng.unila.ac.id"
+        }
+      ],
+      "title": "Peningkatan Profesionalitas Guru Dengan Pelatihan\r\nPembuatan Konten Video Pembelajaran",
+      "refereed": "TRUE",
+      "date_type": "submitted",
+      "subjects": [
+        "L1",
+        "LB2300",
+        "N1",
+        "Q1",
+        "T1"
+      ],
+      "abstract": "-Seiring kemajuan teknologi dimana saat ini telah\r\nmemasuki era 4.0, semua informasi bisa diakses dengan\r\nmenggunakan perangkat teknologi, Informasi apapun\r\nhendaknya bisa diakses dimanapun dan kapanpun. Insan\r\nPembelajar dapat belajar dimana saja, kapan saja, dengan\r\nsiapa saja. Inilah dimana kita berada pada abad teknologi\r\ncanggih yang memiliki ciri pembelajaran pada abad ini yang\r\ndikenal berbasis digital\/daring.   \r\nDalam Pengabdian ini memiliki tujuan untuk menerapkan\r\nhasil penelitian yang telah dilakukan oleh sivitas akademika,\r\nselain itu sejak kebijakan dari kementerian pendidikan dan\r\nkebudayaan mengamanatkan pembelajaran secara daring\r\nkarena wabah Covid-19, dewasa ini para guru di SMA Al\r\nHusna membutuhkan keterampilan dalam menggunakan\r\nmedia konten video sebagai media pembelajaran di sekolah\r\nmereka, karena belum cukupnya Kemampuan SDM untuk\r\nmengelola dan membuat konten berbasis video pembelajaran.\r\nOleh sebab itu dibuatnya pelatihan membuat konten video\r\npada guru diharapkan mampu memanfaatkan teknologi untuk\r\npeningkatan kemampuan dalam mengelola media \r\npembelajaran khususnya dalam membuat sebuah konten\r\nvideo. \r\nBerdasarkan hasil laporan pengabdian yang telah\r\ndilakukan, Sasaran pengabdian adalah guru-guru di SMA Al\r\nHusna dalam bentuk kegiatan pelatihan telah diajarkan materi\r\nbeserta praktek perancangan konten, pembuatan konten\r\nvideo, pengelolaan konten video pembelajaran, Permasalahan\r\ndiselesaikan dalam tiga tahapan kegiatan yaitu persiapan,\r\npelaksanaan, dan evaluasi. Hasil kegiatan pelatihan\r\nmenunjukkan tingkat keberhasilan dengan indikasi adanya\r\nkesesuaian materi dengan kebutuhan guru, adanya respon\r\nyang positif dari peserta, dan sebagian besar (75%) peserta\r\ntelah memahami konsep pengelolaan dan pembuatan video\r\npembelajaran. Target dan Luaran dari pengabdian\r\nmasyarakat ini adalah memberikan dampak positif pada\r\npembangunan masyarakat khususnya para guru dan peserta\r\ndidik agar memberikan wawasan pengetahuan tentang karya\r\npengembangan profesi pada guru di SMA Al Husna, Bandar\r\nLampung khususnya mampu menggunakan perangkat\r\nteknologi sebagai media pembelajaran daring menggunakan\r\nvideo. \r\nKata Kunci—Pelatihan, Daring, Guru, Pembelajaran, Video",
+      "volume": 5,
+      "date": "2020-09-17",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26463",
+      "related_url": [
+        {
+          "url": "https:\/\/lppm.uajy.ac.id\/sendimas2020\/",
+          "type": "pub"
+        }
+      ],
+      "dir": "disk0\/00\/02\/64\/63",
+      "publisher": "Universitas Atma Jaya Yogyakarta",
+      "publication": "SENDIMAS",
+      "divisions": [
+        "FT8"
+      ],
+      "issn": "2541-3805",
+      "full_text_status": "public",
+      "status_changed": "2023-04-10 00:56:16",
+      "rev_number": 14,
+      "ispublished": "inpress"
+    },
+    {
+      "succeeds": 22983,
+      "status_changed": "2020-07-20 04:34:04",
+      "rev_number": 14,
+      "dir": "disk0\/00\/02\/32\/53",
+      "publication": "KLIK: Kumpulan jurnaL Ilmu Komputer",
+      "divisions": [
+        "FT8"
+      ],
+      "volume": 7,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23253",
+      "subjects": [
+        "Q1",
+        "T1"
+      ],
+      "date_type": "completed",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Deny Budiyanto",
+            "lineage": null,
+            "given": "Deny Budiyanto"
+          },
+          "id": "deny.budianto@eng.unila.ac.id"
+        },
+        {
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "name": {
+            "given": "Trisya Septiana",
+            "honourific": null,
+            "family": "Trisya Septiana",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Mona Arif Muda",
+            "lineage": null,
+            "given": "Mona Arif Muda"
+          },
+          "id": "mona.batubara@eng.unila.ac.id"
+        }
+      ],
+      "title": "PEMANFAATAN ANALISIS SPASIAL UNTUK PEMETAAN RISIKO BENCANA ALAM TSUNAMI MENGGUNAKAN PENGOLAHAN DATA SPASIAL SISTEM INFORMASI GEOGRAFIS (STUDI KASUS : DI PESISIR LAMPUNG SELATAN, PROVINSI LAMPUNG)",
+      "lastmod": "2020-07-20 04:34:04",
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "issn": "2406-7857 (Print); 2443-406X (Online)",
+      "ispublished": "pub",
+      "publisher": "Universitas Lambung Mangkurat",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "abstract": "Provinsi Lampung yang terletak diwilayah paling selatan pulau Sumatera juga  merupakan daerah yang rentan bencana, seperti kejadian tsunami dan erupsi gunung anak Krakatau yang terjadi pada 2018 yang mengakibatkan korban jiwa dan kerugian harta benda, Karena Provinsi Lampung adalah wilayah dengan jumlah penduduk yang padat. Salah satu bencana yang mengancam provinsi lampung adalah Tsunami. Ancaman terjadi karena Provinsi Lampung terletak di wilayah yang berbatasan dengan Selat Sunda, dan Samudra Hindia sehingga ada potensi bencana di wilayah ini. Tujuan dari penelitian ini adalah melakukan bagian mitigasi bencana yaitu analisis resiko bencana dengan menggunakan Sistem Informasi Geografis (SIG). Pemetaan tingkat resiko tsunami ini dibuat dalam bentuk zona-zona rawan bencana tsunami serta jalur evakuasi, dan pemetaan ini telah dilakukan pada daerah pesisir Lampung Selatan, Provinsi Lampung\r\n\r\nKata kunci: Sistem Informasi, SIG, Sumatera, Lampung Selatan",
+      "date": "2020-06-29",
+      "refereed": "TRUE",
+      "number": 2,
+      "userid": 3232,
+      "documents": [
+          {
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "rev_number": 3,
+            "content": "published",
+            "main": "324-737-1-PB.pdf",
+            "docid": 36817,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-07-02 04:42:06",
+                  "objectid": 36817,
+                  "filesize": 601022,
+                  "filename": "324-737-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/212875",
+                  "fileid": 212875,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "85e0c4c58183b3e01d67f0f73f01bd98"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36817",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 23253
+          }
+      ],
+      "official_url": "http:\/\/klik.ulm.ac.id\/index.php\/klik",
+      "eprint_status": "archive",
+      "eprintid": 23253,
+      "referencetext": "https:\/\/en.wikipedia.org\/wiki\/Lampung| Lampung is a province of Indonesia. Diakses 18-Juni-2020\r\n\r\nDewi C. dkk. (2014). Analisis Pembuatan Peta Zona Rawan Bencana Tsunami Pada Daerah Pesisir ( Studi Lokasi : Pesisir Kota Bandar Lampung). Prosiding Seminar Bisnis dan Teknologi. Bandar Lampung.\r\n\r\nDiposapto, S, dan Budiman.2006. Tsunami. Buku Ilmiah Populer, Jakarta.\r\n\r\nhttp:\/\/geospasial.bnpb.go.id\/2011\/10\/03\/peta-kawasan-rawan-bencana-krb-gunung-anak-krakatau\/ | Peta Kawasan Rawan Bencana (KRB) Gunung Anak Krakatau PVMBG (Pusat Vulkanologi dan Mitigasi Bencana Geologi, Diakses 18-Juni-2020\r\n\r\nLillesand.M.T dan R.W. Kieffer, (1990), Pengindraan Jauh dan Interpretasi Citra, Gadjah Mada University Press, Yogyakarta.",
+      "datestamp": "2020-07-20 04:34:04",
+      "pagerange": "210-218"
+    },
+    {
+      "title": "Sistem pakar diagnosis hama dan penyakit pada tanaman lada menggunakan metode backward chaining berbasis android",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Yessi",
+            "honourific": null,
+            "family": "Mulyani",
+            "lineage": null
+          },
+          "id": "yessi.mulyani@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Muhamad",
+            "lineage": null,
+            "family": "Komarudin",
+            "honourific": null
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "id": "hery@eng.unila.ac.id",
+          "name": {
+            "given": "Septama",
+            "honourific": null,
+            "family": "Hery Dian",
+            "lineage": null
+          }
+        }
+      ],
+      "event_location": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "datestamp": "2021-06-04 01:33:44",
+      "eprintid": 31904,
+      "eprint_status": "archive",
+      "lastmod": "2021-06-04 01:33:44",
+      "official_url": "http:\/\/sinta.eng.unila.ac.id\/prosiding\/index.php\/ojs\/article\/view\/27",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 31904,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144488",
+            "security": "public",
+            "main": "Publikasi di  Prosiding SINTA 2020.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377634",
+                  "filename": "Publikasi di  Prosiding SINTA 2020.pdf",
+                  "objectid": 144488,
+                  "filesize": 433395,
+                  "mtime": "2021-06-03 09:25:38",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "0d0297ed530a445d5ea419874db2e85f",
+                  "datasetid": "document",
+                  "fileid": 377634
+                }
+            ],
+            "docid": 144488,
+            "format": "text",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published"
+          },
+          {
+            "main": "Publikasi di  Prosiding SINTA 2020.pdf",
+            "files": [
+                {
+                  "fileid": 377639,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "0d0297ed530a445d5ea419874db2e85f",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-03 09:29:21",
+                  "filesize": 433395,
+                  "objectid": 144489,
+                  "filename": "Publikasi di  Prosiding SINTA 2020.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/377639"
+                }
+            ],
+            "docid": 144489,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 2,
+            "eprintid": 31904,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/144489",
+            "security": "public"
+          }
+      ],
+      "userid": 159,
+      "event_type": "conference",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/03\/19\/04",
+      "ispublished": "pub",
+      "rev_number": 14,
+      "full_text_status": "public",
+      "status_changed": "2021-06-04 01:33:44",
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "event_title": "SINTA FT",
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31904",
+      "abstract": "Lada (Piper nigrum L.) adalah salah satu jenis tanaman rempah yang banyak ditemui di Indonesia. Lada merupakan komoditas ekspor andalan Indonesia. Salah satu daerah utama penghasil lada di Indonesia adalah daerah Lampung. Produksi lada di Lampung dari tahun 2013 hingga tahun 2017 berturut-turut adalah 91.039, 87.448, 81.501, 82.167, 82.964 ton. Naik turunnya produksi lada dipengaruhi oleh beberapa faktor, salah satu faktor penyebabnya adalah hama dan penyakit pada tanaman lada. Bagi orang awam mengidentifikasi hama dan penyakit tanaman merupakan hal yang sulit. Untuk mengidentifikasi penyakit dan hama pada tanaman lada dibutuhkan kepakaran yang dapat membantu mendiagnosis penyakit dan hama sehingga hama dan penyakit dapat teridentifikasi dengan benar. Oleh karena itu dibangun aplikasi sistem pakar diagnosis hama dan penyakit tanaman lada yang diharapkan dapat memberikan informatika tentang hama dan penyakit pada tanaman lada, serta mebantu dalam proses identifikasi secara cepat dan tepat. Sistem pakar yang dikembangkan menggunakan metode ESDLC (Expert System Development Life Cycle) dan teknik inferensi backward chaining untuk mendiagnosa hama dan penyakit tanaman lada berdasarkan gejala-gejala yang ditimbulkan. Pengetahuan (knowledge) pada teknik inferensi backward chaining didesain menggunakan pohon keputusan. Sistem pakar yang dikembangkan dapat mengidentifikasi 15 penyakit dengan 45 gejala dan 7 hama dengan 25 gejala. Pengujian pada aplikasi sistem pakar ini terdiri dari pengujian internal dan pegujian eksternal. Pengujian internal menggunakan metode black-box testing dengan hasil pengujian seluruh fitur sistem dapat berjalan sesuai dengan fungsinya. Pengujian eksternal dilakukan dengan cara mengumpulkan kuisioner yang diisi oleh 30 respoden dengan presentase penilaian rata-rata yang diperoleh sebesar 88,33%."
+    },
+    {
+      "datestamp": "2020-11-17 01:00:49",
+      "eprintid": 25641,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "239-244",
+      "userid": 3235,
+      "number": 1,
+      "official_url": "https:\/\/journal.unsika.ac.id\/index.php\/barometer",
+      "lastmod": "2020-11-17 01:00:49",
+      "documents": [
+          {
+            "main": "2252-Article Text-9593-1-10-20200913.pdf",
+            "docid": 39446,
+            "files": [
+                {
+                  "fileid": 231054,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "5ae3e7369b34c66bbff385537285a7bc",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-16 17:17:19",
+                  "filesize": 776719,
+                  "objectid": 39446,
+                  "filename": "2252-Article Text-9593-1-10-20200913.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/231054"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 25641,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39446",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Yessi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Mulyani"
+          },
+          "id": "yessi.mulyani@eng.unila.ac.id"
+        },
+        {
+          "id": "hery@eng.unila.ac.id",
+          "name": {
+            "family": "Septama",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hery Dian"
+          }
+        },
+        {
+          "name": {
+            "family": "Pratama",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mahendra"
+          },
+          "id": "mahendra.pratama15@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Ardike",
+            "lineage": null,
+            "given": "Nyoman Herman"
+          }
+        }
+      ],
+      "title": "PENGEMBANGAN SISTEM INFORMASI PENDAFTARAN SEMINAR AKADEMIK DI JURUSAN TEKNIK ELEKTRO FAKULTAS TEKNIK UNIVERSITAS LAMPUNG MENGGUNAKAN METODE RAPID APPLICATION DEVELOPMENT (RAD)",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "T201",
+        "ZA4050"
+      ],
+      "abstract": "Jurusan Teknik Elektro Universitas Lampung memiliki sistem pendaftaran seminar akademik dengan proses administratif manual, terdapat kekurangan dari alur pendaftaran yang sudah ada seperti minimnya informasi yang tersaji dengan cepat dengan pengolahan data tidak terpusat di satu database menyulitkan informasi status pendaftaran, sistem seminar akademik dapat memudahkan proses administratif agar dapat diakses oleh pengguna secara bersamaan melalui browser dengan jaringan internet. Tujuan dari penelitian ini adalah untuk mengembangkan sistem informasi pendaftaran seminar akademik di Jurusan Teknik Elektro Universitas Lampung yang dapat memasukkan, mengelola, serta menampilkan data dengan baik agar menghasilkan informasi yang akurat dan tersaji dengan cepat. Metode RAD (Rapid Application Development) digunakan sebagai panduan untuk membangun sistem informasi pendaftaran seminar akademik. Pengujian dilakukan di setiap fungsi use case pada sistem, kemudian menguji sistem menggunakan metode UEQ, kepada 4 admin TU Jurusan Teknik Elektro, 22 mahasiswa Jurusan Teknik Elektro, 4 Staff IT UPT TIK Universitas Lampung, hasil pengujian sistem pendaftaran seminar akademik memenuhi fungsi yang dibutuhkan 4 aktor, dari 6 kategori menggunakan metode UEQ, benchmark yang didapat adalah 5 point mendapat nilai sangat baik dan 1 point mendapatkan nilai baik.",
+      "volume": 5,
+      "date": 2020,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25641",
+      "publisher": "Universitas Singaperbangsa Karawang",
+      "publication": "BAROMETER",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/02\/56\/41",
+      "issn": "1979-889X",
+      "full_text_status": "public",
+      "status_changed": "2020-11-17 01:00:49",
+      "ispublished": "pub",
+      "rev_number": 7
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2022-11-23 08:45:43",
+      "eprint_status": "archive",
+      "eprintid": 46809,
+      "lastmod": "2022-11-23 08:46:11",
+      "documents": [
+          {
+            "eprintid": 46809,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185735",
+            "pos": 1,
+            "format": "text",
+            "main": "document (7).pdf",
+            "docid": 185735,
+            "files": [
+                {
+                  "fileid": 515276,
+                  "datasetid": "document",
+                  "hash": "54c165a35ef35afb4976d27413ba4469",
+                  "mime_type": "application\/pdf",
+                  "filesize": 688536,
+                  "objectid": 185735,
+                  "filename": "document (7).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515276",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-23 08:44:12"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 1,
+      "number": 1,
+      "title": "PROTOTYPE SISTEM PINTAR PENGELOLAAN TAMAN BUNGA BERBASIS TEKNOLOGI INTERNET OF THINGS(STUDI KASUS TAMAN KUPU-KUPU GITA PERSADA)",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46809",
+      "date": 2020,
+      "abstract": "Usually the process ofwatering and monitoring of plants in the Gita Persada Butterfly Park in Lampung Province is carriedout using conventional methods, this condition create many problems.The research aimsisto create a prototype of flower garden application based on Internet of Things(IoT)technology. An application that can help relieve watering activities and monitoring with automated system developed byprotoypingmethod,that consist  of;communication  stage,  quick plan  and  modelling  quick  design,  construction  of  prototype,  and deployment  delivery  and  feedback.  This  application  use  microcontroller  Arduino  Uno as the main  controller, temperature  sensor,  air  humidity  (DHT11),  soil  humidity,  ultrasonic  sensors    (HC-SR04)  and  application  on smartphones android for monitoring. Data delivery between arduino devices, smartphones and databases using website service.There  is a  firebase  library  on  website  Service  to  connect  to  firebase.  Data  transmitted  by  the device arduino through the protocol http with the command get, send, and push, then received by website Service and forward to be saved on firebase. Based on the data obtained at the air temperature and humidity monitoring around the smart garden for 31 days from April 8 to May 8 , the lowest air temperature is 25°Cat 08.00 WIB, 26 April and the highest air temperature 30 °C at 12.00 WIB, 19 April. The average air humidity value is at 95%.",
+      "volume": 21,
+      "divisions": [
+        "FT8"
+      ],
+      "publisher": "Universitas Diponegoro",
+      "publication": "Gema Teknologi",
+      "dir": "disk0\/00\/04\/68\/09",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "issn": "p-ISSN:0852-0232 e-ISSN: 2656-582X",
+      "full_text_status": "public",
+      "status_changed": "2022-11-23 08:45:43"
+    },
+    {
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47149",
+      "date": 2020,
+      "patent_applicant": "Gigih Forda Nama",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/71\/49",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2022-12-06 22:28:16",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprintid": 47149,
+      "id_number": "IDS000002930",
+      "eprint_status": "archive",
+      "datestamp": "2022-12-06 22:28:16",
+      "documents": [
+          {
+            "docid": 186110,
+            "main": "SID201810090-IDS000002930-Dikrpide_Despa-Meizano-Gigih.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-06 22:25:22",
+                  "objectid": 186110,
+                  "filesize": 10721244,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/517858",
+                  "filename": "SID201810090-IDS000002930-Dikrpide_Despa-Meizano-Gigih.pdf",
+                  "datasetid": "document",
+                  "fileid": 517858,
+                  "hash": "5da6fbac2f0b3558ed100eb0e4e75e9d",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 47149,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186110",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2022-12-06 22:28:16",
+      "userid": 1,
+      "title": "Paten Sederhana Sistem Dashboard IoT Kuantitas Besaran Listrik Tiga Fasa",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "type": "patent"
+    },
+    {
+      "title": "PROTOTYPE SISTEM PINTAR PENGELOLAAN TAMAN BUNGA BERBASIS TEKNOLOGI INTERNET OF THINGS (STUDI KASUS TAMAN KUPU-KUPU GITA PERSADA)",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nama"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Komarudin",
+            "given": "Muhamad"
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Muhammad",
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2020-12-03 00:29:12",
+      "eprint_status": "archive",
+      "eprintid": 26973,
+      "official_url": "http:\/\/ejournal.undip.ac.id\/index.php\/gema_teknologi",
+      "lastmod": "2020-12-03 00:29:12",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40986",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 26973,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "32912-101627-1-PB.pdf",
+            "docid": 40986,
+            "files": [
+                {
+                  "fileid": 241973,
+                  "datasetid": "document",
+                  "hash": "54c165a35ef35afb4976d27413ba4469",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-12-03 00:23:21",
+                  "filesize": 688536,
+                  "objectid": 40986,
+                  "filename": "32912-101627-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/241973"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 3,
+      "number": 1,
+      "publisher": "Universitas Diponegoro",
+      "publication": "Gema Teknologi",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/02\/69\/73",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "issn": "p-ISSN:0852-0232 e-ISSN: 2656-582X",
+      "full_text_status": "public",
+      "status_changed": "2020-12-03 00:29:12",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26973",
+      "date": "2020-10",
+      "abstract": "Usually the process of watering and monitoring of plants in the Gita Persada Butterfly Park in Lampung Province is carried out using conventional methods, this condition create many problems. The research aims is to create a prototype of flower garden application based on Internet of Things (IoT) technology. An application that can help relieve watering activities and monitoring with automated system developed by protoyping method, that consist of; communication stage, quick plan and modelling quick design, construction of prototype, and deployment delivery and feedback. This application use microcontroller Arduino Uno as the main controller, temperature sensor, air humidity (DHT11), soil humidity, ultrasonic sensors  (HC-SR04) and application on smartphones android for monitoring. Data delivery between arduino devices, smartphones and databases using website service. There is a firebase library on website Service to connect to firebase. Data transmitted by the device arduino through the protocol http with the command get, send, and push, then received by website Service and forward to be saved on firebase. Based on the data obtained at the air temperature and humidity monitoring around the smart garden for 31 days from April 8 to May 8 , the lowest air temperature is 25°C at 08.00 WIB, 26 April and the highest air temperature 30 °C at 12.00 WIB, 19 April. The average air humidity value is at 95%.\r\n\r\nKeywords: Arduino uno; sensor DHT11; sensor HC-SR04",
+      "volume": 21
+    },
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "security": "staffonly",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39959",
+            "pos": 1,
+            "format": "text",
+            "docid": 39959,
+            "main": "Rio Ariestia Pradipta - Seminar SINTA 2020.pdf",
+            "files": [
+                {
+                  "filesize": 579654,
+                  "objectid": 39959,
+                  "filename": "Rio Ariestia Pradipta - Seminar SINTA 2020.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/235534",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-18 15:49:58",
+                  "datasetid": "document",
+                  "fileid": 235534,
+                  "mime_type": "application\/pdf",
+                  "hash": "96b1e2f98390a175e43921efd03b9107"
+                }
+            ],
+            "language": "en",
+            "rev_number": 4,
+            "eprintid": 26117,
+            "license": "cc_by_nc_sa_4",
+            "formatdesc": "Artike Seminar",
+            "date_embargo": "2020-12-01",
+            "content": "presentation",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2020-11-19 11:37:39",
+      "contributors": [
+        {
+          "id": "rio.ariestia@eng.unila.ac.id",
+          "name": {
+            "given": "Rio Ariestia",
+            "lineage": null,
+            "family": "Pradipta",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "family": "Pratama",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mahendra"
+          },
+          "type": null,
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          },
+          "type": null
+        },
+        {
+          "name": {
+            "given": "Mona Arif Muda",
+            "family": "Batubara",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": null,
+          "id": null
+        }
+      ],
+      "userid": 3233,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 26117,
+      "datestamp": "2020-11-19 11:37:39",
+      "contact_email": "rio.ariestia@eng.unila.ac.id",
+      "event_location": "Bandar Lampung",
+      "event_dates": "14 Oktober 2020",
+      "refereed": "TRUE",
+      "title": "Perancangan sistem portal program studi dengan menggunakan framework laravel dan database postgresql",
+      "pres_type": "speech",
+      "creators": [
+        {
+          "id": "rio.ariestia@eng.unila.ac.id",
+          "name": {
+            "given": "Rio Ariestia",
+            "lineage": null,
+            "family": "Pradipta",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Mahendra",
+            "honourific": null,
+            "family": "Pratama",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Mona Arif Muda",
+            "honourific": null,
+            "lineage": null,
+            "family": "Batubara"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "date": "2020-11-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26117",
+      "abstract": "Program studi Teknik Informatika Universitas Lampung memiliki beberapa sistem informasi untuk menunjang kegiatan administrasi yang mempermudah aktifiitas yang dilakukan oleh mahasiswa, dosen dan juga bagian administrasi. Keseluruhan sistem tersebut berfungsi untuk mempermudah kegiatan administrasi, dokumentasi serta untuk pengembangan aktifitas strategis yang direncanakan dan akan dilaksanakan oleh program studi  pada masa yang akan datang. Untuk mempermudah terjadinya integrasi pada seluruh sistem informasi yang terdapat di program studi maka diperlukan sebuah sistem yang berfungsi sebagai wadah untuk mengintegrasikan keseluruhan sistem yang ada. Tujuan dari penelitian ini adalah memberikan solusi pada program studi Teknik Informatika dalam melakukan integrasi informasi dari beberapa sistem informasi yang berjalan ke dalam sebuah sistem portal berbasiskan web. Penelitian ini dilakukan dengan menggunakan metode pengembangan sistem secara local dimana pengembangan software dilakukan dengan alur Rapid Application Development yang termasuk di dalamnya perancangan sistem menggunakan usecase diagram, class diagram dan struktur navigasi portal. Bahasa pemrograman dalam pengembangan sistem adalah PHP dengan framework Laravel dan menggunakan database PostgreSQL. Metode blackbox digunakan dalam melakukan pengetesan dari sistem portal yang telah dirancang untuk mengetahui kesesuaian antara rancangan dengan sistem portal terbangun. Hasil yang didapatkan adalah kesesuaian antara rancangan dengan portal yang siap untuk diimplementasikan sebagai sebuah sistem informasi.",
+      "event_title": "Seminar Nasional Ilmu Teknik dan Aplikasi Industri (SINTA) 2020",
+      "subjects": [
+        "QA75",
+        "QA76"
+      ],
+      "date_type": "submitted",
+      "rev_number": 10,
+      "ispublished": "submitted",
+      "status_changed": "2020-11-19 11:37:39",
+      "full_text_status": "restricted",
+      "event_type": "conference",
+      "dir": "disk0\/00\/02\/61\/17",
+      "divisions": [
+        "FT8"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2020-06-04 00:08:41",
+      "eprintid": 21716,
+      "eprint_status": "archive",
+      "lastmod": "2020-06-04 00:08:41",
+      "official_url": "http:\/\/sniper.library.unila.ac.id\/2020\/05\/29\/e-prosding-2019\/",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35109",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 21716,
+            "language": "id",
+            "rev_number": 3,
+            "mime_type": "text\/html",
+            "content": "published",
+            "docid": 35109,
+            "main": "index.html",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200941",
+                  "filename": "index.html",
+                  "objectid": 35109,
+                  "filesize": 30908,
+                  "mtime": "2020-06-03 23:05:43",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "hash": "218c21f9c88a5e21b0732ddf59513e30",
+                  "datasetid": "document",
+                  "fileid": 200941
+                }
+            ],
+            "format": "archive"
+          }
+      ],
+      "userid": 517,
+      "title": "Rancang Bangun Tiga Dimensi (3D) Interactive Walkthrough sebagai Media Pengenalan Gedung",
+      "event_dates": "Oktober 2019",
+      "refereed": "FALSE",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Pramudita Putri",
+            "honourific": null,
+            "given": "Leady"
+          }
+        },
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "given": "Mardiana",
+            "honourific": null,
+            "lineage": null,
+            "family": "."
+          }
+        }
+      ],
+      "event_location": "Bandar Lampung",
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "event_title": "SEMINAR NASIONAL INOVASI PERPUSTAKAAN (SNIPer) 2019",
+      "date": "2020-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21716",
+      "abstract": "Dalam pemberitahuan informasi gedung, masih banyak perusahaan atau instansi yang menggunakan maket. Maket adalah salah satu bentuk untuk memperlihatkan penyerupaan gedung dari sisi luar, namun maket tidak dapat melihat seluruh isi gedung dan kurang interaktif. Dengan berkembangnya teknologi, maket dapat digantikan dengan piranti lunak dan teknologi terkini seperti virtual tour. Dari latar belakang diatas yang diangkat maka akan dilakukan penelitian dan membuat suatu sistem yang dapat digunakan dalam menemukan informasi pada Gedung menggunakan virtual tour yang berbasis 3D Interactive Walkthroug. Sistem virtual tour yang berbasis 3D Interactive Walkthrough ini menampilkan informasi-informasi dari setiap bagian-bagian Gedung UPT Perpustakaan Universitas Lampung dalam bentuk 3D Interactive Walkthrough merupakan visualisasi gedung secara 3 dimensi dengan tambahan, pengguna aplikasi dapat berjalan menyusuri seluruh gedung secara visual dan membuat sistem informasi ini lebih interaktif dengan menambahkan teknologi Fisrt Person Control (FPC) yang menggunakan pandangan orang ketiga di mana pemain seolah-olah menjadi karakter utama sehingga membuat user seperti berada di ruangan tersebut. Sistem virtual tour yang berbasis 3D Interactive Walkthrough diharapkan berguna sebagai media informasi yang menggabungkan antara teknologi fotografi dengan teknologi informasi yang memiliki tujuan memberitahukan informasi ruang secara menyeluruh secara interaktif dan inovatif.\r\nKata kunci : perpustakaan, virtual reality, metode kanban, interactive walkthrough, unity3D",
+      "event_type": "conference",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/02\/17\/16",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-06-04 00:08:41"
+    },
+    {
+      "title": "Virtual Tour 3D Situs Purbakala Pugung Raharjo Lampung Timur",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "budi.wintoro@eng.unila.ac.id",
+          "name": {
+            "given": "Wintoro",
+            "honourific": null,
+            "lineage": null,
+            "family": "Puput Budi Wintoro"
+          }
+        },
+        {
+          "id": "irwanirmawan1996@gmail.com",
+          "name": {
+            "given": "Irmawan",
+            "honourific": null,
+            "lineage": null,
+            "family": "Irwan Irmawan"
+          }
+        },
+        {
+          "id": "deny.budianto@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Deny Budiyanto",
+            "given": "Budiyanto"
+          }
+        },
+        {
+          "name": {
+            "given": "Pradipta",
+            "honourific": null,
+            "family": "Rio Ariestia Pradipta",
+            "lineage": null
+          },
+          "id": "rio.ariestia@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "145-153",
+      "datestamp": "2020-07-02 08:13:02",
+      "eprint_status": "archive",
+      "eprintid": 22982,
+      "lastmod": "2020-07-02 08:13:02",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36536",
+            "pos": 1,
+            "eprintid": 22982,
+            "placement": 1,
+            "content": "published",
+            "rev_number": 3,
+            "language": "is",
+            "mime_type": "application\/xml",
+            "format": "text",
+            "main": 318,
+            "docid": 36536,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-07-02 04:14:37",
+                  "objectid": 36536,
+                  "filesize": 23788,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/210728",
+                  "filename": 318,
+                  "fileid": 210728,
+                  "datasetid": "document",
+                  "hash": "aa830b006854a840049e42ad04e00bb6",
+                  "mime_type": "application\/xml"
+                }
+            ]
+          },
+          {
+            "placement": 2,
+            "eprintid": 22982,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36537",
+            "pos": 2,
+            "security": "public",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "74a457841b30a9e1e70b21d9e80bfcf6",
+                  "fileid": 210730,
+                  "datasetid": "document",
+                  "mtime": "2020-07-02 04:23:05",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/210730",
+                  "filename": "318-730-1-PB.pdf",
+                  "objectid": 36537,
+                  "filesize": 408447
+                }
+            ],
+            "main": "318-730-1-PB.pdf",
+            "docid": 36537,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 3234,
+      "number": 2,
+      "related_url": [
+        {
+          "url": "http:\/\/klik.ulm.ac.id\/index.php\/klik\/issue\/view\/18",
+          "type": "pub"
+        }
+      ],
+      "publication": "Kumpulan Jurnal Ilmu Komputer (KLIK)",
+      "publisher": "Prodi Ilmu Komputer Universitas Lambung Mangkurat",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/02\/29\/82",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "full_text_status": "public",
+      "issn": "2406-7857",
+      "status_changed": "2020-07-02 08:13:02",
+      "date_type": "published",
+      "subjects": [
+        "TA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22982",
+      "date": "2020-06-26",
+      "abstract": "Situs Purbakala Pugung Raharjo merupakan destinasi wisata sejarah yang berada di Kabupaten Lampung Timur. Situs ini tersimpan jejak peradaban hindu budha yang sekarang berstatus cagar budaya. Perkembangan zaman yang sangat pesat pada saat ini, telah banyak penggunaan teknologi digital sebagai media promosi wisata. Untuk mempromosikan situs purbakala Pugung Raharjo Lampung Timur kepada masyarakat dalam bentuk digital maka dibuatlah sebuah media promosi dengan teknologi virtual tour berbasis android. Aplikasi virtual tour Situs Purbakala Pugung Raharjo ini digunakan untuk memudahkan masyarakat mengetahui dan mengenal lokasi serta benda-benda bersejarah yang ada di situs purbakala Pugung Raharjo secara virtual 3 dimensi. Pada Penelitian ini menggunakan metode MDLC (Multimedia Development Life Cycle). Metode MDLC ini dimulai dengan mengumpulkan bahan, kemudian membuat sebuah desain dan membuat sebuah aplikasi berdasarkan desain yang telah dibuat sebelumnya. Proses terakhir pembuatan aplikasi ini yaitu distribusi kepada masyarakat melalui playstore yang dapat diunduh secara gratis. Hasil penelitian menunjukkan bahwa aplikasi virtual tour ini dapat digunakan sebagai pedoman masyarakat untuk mengetahui serta mengenal situs purbakala Pugung Raharjo.",
+      "volume": 7
+    },
+    {
+      "status_changed": "2023-04-10 07:10:47",
+      "full_text_status": "public",
+      "rev_number": 12,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/56\/38",
+      "divisions": [
+        "FT8"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/senapati.eng.unila.ac.id\/prosiding-2019\/",
+          "type": "pub"
+        }
+      ],
+      "event_type": "conference",
+      "abstract": "Pandemi Covid-19 secara signifikan mengubah dunia pendidikan, termasuk di SMA Al Husna. Adanya wabah virus corona ini mengubah kegiatan pembelajaran secara tatap muka (luring) menjadi pembelajaran secara daring. Penggunaan Learning Management System (LMS) Google Classroom sebagai solusi pengelolaan pembelajaran daring. Kendala yang dihadapi guru adalah kurangnya pengetahuan dan keterampilan dalam mengolah pembelajaran daring menggunakan Learning Management System Google Classroom. Hal ini diatasi dengan pemberian pelatihan pengelolahan pembelajaran daring dari tim Pengabdian Masyarakat Unila. Digunakan Google Classroom sebagai media pembelajaran dikarenakan memberikan fitur pengelolaan materi pelajaran, kelas, quiz, penilaian, forum diskusi dan pelaporan hasil berajar. Selain itu, diberikan juga fasilitas video conference mendukung interaksi virtual saat pembelajaran daring. Berdasarkan hasil pre-test, pengetahuan dan keterampilan guru tentang pengolahan LMS tergolong kurang dengan nilai rata-rata 55. Namun, pada final test, didapatkan hasil yang baik dengan nilai rata-rata 78. Solusi yang diberikan tepat ditujukkan dengan meningkatnya pengetahuan dan keterampilan dari awalnya kurang menjadi baik. Tujuan dari pengabdian masyarakat ini berhasil dicapai dengan menghasilkan guru-guru yang memiliki kemampuan menyiapkan materi ajar text dan video, membuat soal, sistem pemeriksaan latihan dan laporan secara otomatis, serta meningkatkan kemampuan komunikasi inerpersonal.\r\n\r\nKata kunci: Covid-19, Pembelajaran Daring, Learning Management System, Google Classroom, video conference",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25638",
+      "date": "2020-09-23",
+      "subjects": [
+        "L1",
+        "LB2300",
+        "T1"
+      ],
+      "event_title": "Seminar Nasional Pengabdian Masyarakat Teknologi dan Inovasi (SENAPATI) 2020",
+      "date_type": "published",
+      "event_location": "Online",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Resty",
+            "given": "Annisa"
+          },
+          "id": "resty.annisa@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ariestia Pradipta",
+            "honourific": null,
+            "family": "Rio",
+            "lineage": null
+          },
+          "id": "rio.ariestia@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Mona Arif Muda",
+            "honourific": null,
+            "given": "Mona Arif Muda"
+          },
+          "id": "mona.batubara@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Mardiana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mardiana"
+          },
+          "id": null
+        }
+      ],
+      "event_dates": "22 - 23 September 2020",
+      "refereed": "TRUE",
+      "title": "LEARNING MANAGEMENT SYSTEM GOOGLE CLASSROOM: SOLUSI PEMBELAJARAN DARING PADA MASA PANDEMI COVID-19\r\nDI SMA AL HUSNA",
+      "userid": 2822,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Prosiding 4_SENAPATI 20_FULL.pdf",
+            "docid": 189783,
+            "files": [
+                {
+                  "filename": "Prosiding 4_SENAPATI 20_FULL.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/541684",
+                  "filesize": 11478321,
+                  "objectid": 189783,
+                  "mtime": "2023-04-10 07:08:56",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "29308946f587ad9b455169e571f7269d",
+                  "datasetid": "document",
+                  "fileid": 541684
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189783",
+            "eprintid": 25638,
+            "placement": 1
+          }
+      ],
+      "official_url": "http:\/\/senapati.eng.unila.ac.id\/prosiding-2019\/",
+      "lastmod": "2023-04-10 07:10:47",
+      "eprint_status": "archive",
+      "eprintid": 25638,
+      "datestamp": "2023-04-10 07:10:47",
+      "pagerange": "37-40",
+      "metadata_visibility": "show"
+    },
+    {
+      "publication": "Jurnal TIPS : Teknologi Informasi dan Komputer Politeknik Sekayu",
+      "publisher": "Program Studi Teknik Informatika Politeknik Sekayu",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/02\/29\/49",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/jurnal.polsky.ac.id\/index.php\/tips\/article\/view\/224"
+        }
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-07-02 02:13:13",
+      "full_text_status": "public",
+      "issn": "2407-2192",
+      "subjects": [
+        "QA75"
+      ],
+      "date_type": "completed",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22949",
+      "date": "2020-06-30",
+      "volume": 10,
+      "abstract": "Sebagai salah satu penyedia jasa layanan internet PT Indonesia Comnets Plus (ICON+) mempunyai kewajiban untuk memberikan pelayanan yang baik bagi seluruh pelanggan yang menggunakan layanannya. Untuk menyediakan kehandalan yang prima pada jaringan maka dibutuhkan sebuah sistem yang berjalan untuk memantau aktifitas pada layanan yang tersedia. Sistem monitoring jaringan internet menyajikan informasi mengenai kondisi jaringan dan pengunaan utilisasi pada jaringan yang berjalan. Sistem monitoring ini akan membantu operasional jaringan telekomunikasi yang dimiliki oleh PT ICON+ sehingga memberikan kenyamanan dan kehandalan pada layanan jaringan internet. Penggunaan transparent web proxy akan memberikan fungsi tambahan yang sangat berguna dan dibutuhkan oleh system monitoring jaringan. Cara kerjanya adalah dengan merekam seluruh pesan berupa log dari trafik yang melewati jaringan perusahaan.Sehingga aktifitas pengguna dapat disimpan dan diketahui sehingga efektifitas pada penggunaan layanan internet dapat dicapai. Hasil yang didapatkan dari log yang tersimpan dapat digunakan sebagai salah satu sumber informasi referensi yang dapat digunakan untuk melakukan optimalisasi layanan jaringan internet perusahaan.",
+      "refereed": "TRUE",
+      "title": "Perancangan Sistem Monitoring Jaringan Internet Menggunakan Transparent Proxy Pada PT Indonesia Comnet Plus",
+      "creators": [
+        {
+          "name": {
+            "given": "Ariestia Pradipta",
+            "family": "Rio",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rio.ariestia@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Annisa",
+            "lineage": null,
+            "family": "Resty",
+            "honourific": null
+          },
+          "id": "resty.annisa@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Afriansyah",
+            "honourific": null,
+            "lineage": null,
+            "family": "Aidil"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hamdani",
+            "family": "Dani",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "pagerange": "37-44",
+      "metadata_visibility": "show",
+      "eprintid": 22949,
+      "eprint_status": "archive",
+      "datestamp": "2020-07-02 02:13:13",
+      "documents": [
+          {
+            "eprintid": 22949,
+            "placement": 1,
+            "license": "cc_by_nc_4",
+            "formatdesc": "Journal Article",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36492",
+            "pos": 1,
+            "format": "text",
+            "main": "document (1).pdf",
+            "files": [
+                {
+                  "hash": "aeb651cf926f64a8206d4887f92ff882",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 210472,
+                  "filename": "document (1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/210472",
+                  "filesize": 338468,
+                  "objectid": 36492,
+                  "mtime": "2020-07-01 15:09:38",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 36492,
+            "content": "published",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "rev_number": 2
+          }
+      ],
+      "lastmod": "2020-07-02 02:13:13",
+      "official_url": "https:\/\/jurnal.polsky.ac.id\/index.php\/tips\/index",
+      "number": 1,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 3233
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "id": "catur3712@gmail.com",
+          "name": {
+            "given": "Rahmat Catur",
+            "honourific": null,
+            "family": "Wibowo",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Suci",
+            "family": "Ariska",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Ordas",
+            "family": "Dewanto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ordas.dewanto@eng.unila.ac.id"
+        }
+      ],
+      "title": "Inversi Geostatistik Menggunakan Analisa Multi-atribut Stepwise Regression untuk Karakterisasi Reservoir",
+      "userid": 946,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 43266,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165130",
+            "pos": 1,
+            "security": "public",
+            "main": "5. Plagiarism Checker X, Jurnal RISET Geologi dan Pertambangan.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "752cbbe58b3ce9a67e719bf316d5d3e9",
+                  "datasetid": "document",
+                  "fileid": 472799,
+                  "mtime": "2022-07-13 04:46:16",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/472799",
+                  "filename": "5. Plagiarism Checker X, Jurnal RISET Geologi dan Pertambangan.pdf",
+                  "objectid": 165130,
+                  "filesize": 191056
+                }
+            ],
+            "docid": 165130,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2022-07-13 06:29:07",
+      "official_url": "https:\/\/jrisetgeotam.lipi.go.id\/index.php\/jrisgeotam\/article\/view\/1088",
+      "eprintid": 43266,
+      "eprint_status": "archive",
+      "datestamp": "2022-07-13 06:29:07",
+      "metadata_visibility": "show",
+      "status_changed": "2022-07-13 06:29:07",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "divisions": [
+        "FT8"
+      ],
+      "publisher": "Pusat Penelitian Geoteknologi LIPI",
+      "dir": "disk0\/00\/04\/32\/66",
+      "abstract": "Eksplorasi  dan  produksi  pada reservoir  tight  sand  sampai  saat  ini  masih memiliki tantangan tersendiri karena karakterisitik porositas  dan  permeabilitas  yang  rendah. Penelitian  ini  dilakukan  untuk  menganalisis karakteristik reservoir tight sand berdasarkan peta persebaran  properti  log  menggunakan  inversi impedansi akustik (IA) dan analisis multi-atribut. Analisis multi-atribut stepwise regression adalah suatu  metode  yang  menggunakan  atribut-atribut yang  paling  baik  untuk  memprediksi  log  target dengan melalui proses trial and error. Pemilihan atribut  seismik  yang  tepat  dapat  memberikan penggambaran  zona  target  yang  lebih  baik. Penelitian  ini  dilakukan  untuk  memperoleh  peta struktur  geologi  bawah  permukaan,  volume impedansi  akustik.  Kemudian  dilakukan  analisis multi-atribut untuk mendapatkan prediksi volume property log yang mencakup pseudo gamma-ray, densitas,  dan  porositas  dengan  menggunakan metode stepwise regression. Hasil inversi seismik IA dan analisis multi-atribut stepwise regression menunjukkan reservoir dengan fluida berupa gas, serta  litologi  tight  sand  yang  memiliki  rentang nilai  IA  sebesar  22.000  ((ft\/s)*(g\/cc))  sampai dengan  45.000  ((ft\/s)*(g\/cc)),  densitas  2,25  g\/cc sampai dengan 2,6 g\/cc, dan porositas 5% sampai 12%.  Peta  densitas  dan  porositas  yang  diperoleh dari  analisa  multi-atribut  menunjang  tahap eksplorasi  dan  produksi  jangka  panjang.  Hal tersebut  terkait  upaya  untuk  meningkatkan primary  recovery  dan  tertiary  recovery, pemahaman  tentang  perangkap  stratigrafi,  dan kemenerusan lapisan reservoir.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43266",
+      "date": "2020-12-16",
+      "subjects": [
+        "Q1",
+        "QE"
+      ],
+      "date_type": "published"
+    },
+    {
+      "publisher": "Lembaga Penelitian dan Pengabdian Universitas Lampung",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/article\/view\/225"
+        }
+      ],
+      "ispublished": "pub",
+      "issn": "ISSN 2550-1089",
+      "full_text_status": "public",
+      "date": "2020-07-01",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Karang taruna merupakan wadah pembinaan dan pengembangan potensi sumber daya manusia bagi generasi muda di suatu  desa\/kelurahan.  Demikian  halnya  dengan  karang  taruna  desa  Padang  Cermin  kecamatan  Padang  Cermin Kabupaten  Pesawaran.  Belum  adanya  pusat  pelatihan  bidang  elektronika  dan  teknologi  di  Desa  tersebut  menjadi persoalan  bagi  pemuda  untuk  meningkatkan  softskill.  Padahal,  softskill  merupakan  hal  yang  dibutuhkan  baik  dalam dunia kerja maupun usaha mandiri. Oleh karena itu, untuk meningkatkan softskill pemuda desa Padang Cermin, melalui kegiatan  pengabdian  kepada  masyarakat  ini  diberikan  pelatihan  secara  langsung  proses  pembuatan  Running  text berbasis arduino yang terkoneksi dengan smartphone melalui media bluetooth. Keunggulan Running text yang dibuat yaitu  pengaturan  tampilan  teks  dapat  dilakukan  melalui  smartphone  yang  terkoneksi  bluetooth.  Kegiatan  pengabdian kepada  masyarakat  ini  bermanfaat  untuk  menambah  pengetahuan  dan  keterampilan  peserta  yaitu  pemuda  Karang Taruna desa Padang Cermin dalam rangka peningkatan sumber daya manusia di bidang IPTEKS. Dengan kegiatan ini juga dapat meningkatkan kreatifitas peserta dalam memanfaatkan teknologi untuk menciptakan alat yang inovatif. Hal ini  tentunya  menambah  softskill  sehingga  dapat  berkompetisi  di  dunia  kerja,  serta  membuka  peluang  untuk  membuat usaha pemesanan pembuatan running text dari pihak luar. Dengan demikian, peningkatan IPTEKS ini bermanfaat untuk peningkatan ekonomi masyarakat khususnya pemuda Karang Taruna. Antusiasme peserta dalam kegiatan ini tercermin dari hasil kuisioner. Para peserta berharap untuk diadakan kegiatan lanjutan terkait penerapan teknologi.",
+      "refereed": "TRUE",
+      "pagerange": "121-126",
+      "eprintid": 26569,
+      "eprint_status": "archive",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jss.v4i2.225",
+      "datestamp": "2020-11-22 11:37:02",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "JSS Vol 4 No 2.pdf",
+            "files": [
+                {
+                  "fileid": 238887,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "c8f4d92c5a4e8aa51715da251a813cfc",
+                  "objectid": 40467,
+                  "filesize": 807163,
+                  "filename": "JSS Vol 4 No 2.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/238887",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-22 02:10:50"
+                }
+            ],
+            "docid": 40467,
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40467",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 26569
+          }
+      ],
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/issue\/view\/11",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 197,
+      "funders": [
+        "Lembaga Penelitian dan Pengabdian Universitas Lampung"
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "publication": "SAKAI SAMBAYAN — Jurnal Pengabdian kepada Masyarakat",
+      "dir": "disk0\/00\/02\/65\/69",
+      "rev_number": 12,
+      "status_changed": "2020-11-22 11:37:02",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26569",
+      "volume": 4,
+      "title": "PEMBUATAN RUNNING TEXT BERBASIS ARDUINO DENGAN KONEKASI BLUETOOTH UNTUK MENINGKATKAN IPTEKS KARANG TARUNA DESA PADANG CERMIN",
+      "creators": [
+        {
+          "id": "titin.yulianti@eng.unila.ac.id",
+          "name": {
+            "family": "Yulianti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Titin"
+          }
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Setyawan",
+            "honourific": null,
+            "given": "FX. Arinto"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Septama",
+            "honourific": null,
+            "given": "Hery Dian"
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "id": "afri.yudamson@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Yudamson",
+            "honourific": null,
+            "given": "Afri"
+          }
+        },
+        {
+          "id": "komar@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Komarudin",
+            "given": "Muhamad"
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "lastmod": "2020-11-22 11:37:02"
+    },
+    {
+      "creators": [
+        {
+          "id": "deny.budiyanto@eng.unila.ac.id",
+          "name": {
+            "given": "deny",
+            "honourific": null,
+            "family": "budiyanto",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Trisya",
+            "honourific": null,
+            "lineage": null,
+            "family": "Septiana"
+          },
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "mona arif",
+            "honourific": null,
+            "lineage": null,
+            "family": "batubara"
+          },
+          "id": "mona.batubara@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "PEMANFAATAN ANALISIS SPASIAL UNTUK PEMETAAN RISIKO BENCANA ALAM TSUNAMI MENGGUNAKAN PENGOLAHAN DATA SPASIAL SISTEM INFORMASI GEOGRAFIS",
+      "refereed": "TRUE",
+      "datestamp": "2020-11-19 03:04:20",
+      "eprint_status": "archive",
+      "referencetext": "[1]  https:\/\/en.wikipedia.org\/wiki\/Lampung| Lampung is a province of Indonesia.\r\nDiakses 18-Juni-2020\r\n[2] Dewi C. dkk. (2014). Analisis Pembuatan Peta Zona Rawan Bencana Tsunami\r\nPada Daerah Pesisir ( Studi Lokasi : Pesisir Kota Bandar Lampung). Prosiding\r\nSeminar Bisnis dan Teknologi. Bandar Lampung.\r\n[3] Diposapto, S, dan Budiman.2006. Tsunami. Buku Ilmiah Populer, Jakarta.\r\n[4] http:\/\/geospasial.bnpb.go.id\/2011\/10\/03\/peta-kawasan-rawan-bencana-krb- gunung-anak-krakatau\/ | Peta Kawasan Rawan Bencana (KRB) Gunung Anak\r\nKrakatau PVMBG (Pusat Vulkanologi dan Mitigasi Bencana Geologi, Diakses 18- Juni-2020\r\n[5] Lillesand.M.T dan R.W. Kieffer, (1990), Pengindraan Jauh dan Interpretasi Citra, Gadjah Mada University Press, Yogyakarta.",
+      "eprintid": 25976,
+      "metadata_visibility": "show",
+      "pagerange": "210-218",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "family": "budiyanto",
+            "honourific": null,
+            "given": "deny"
+          },
+          "id": "deny.budiyanto@eng.unila.ac.id"
+        },
+        {
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Septiana",
+            "lineage": null,
+            "given": "Trisya"
+          }
+        },
+        {
+          "id": "mona.batubara@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "batubara",
+            "given": "mona arif"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 2818,
+      "number": 2,
+      "official_url": "http:\/\/klik.ulm.ac.id\/index.php\/klik\/issue\/view\/18",
+      "lastmod": "2020-11-19 03:04:20",
+      "documents": [
+          {
+            "main": "document (1).pdf",
+            "docid": 39802,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-18 02:23:04",
+                  "objectid": 39802,
+                  "filesize": 601022,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/234473",
+                  "filename": "document (1).pdf",
+                  "fileid": 234473,
+                  "datasetid": "document",
+                  "hash": "85e0c4c58183b3e01d67f0f73f01bd98",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 25976,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39802",
+            "security": "public"
+          }
+      ],
+      "publisher": "Kumpulan jurnaL Ilmu Komputer (KLIK)",
+      "divisions": [
+        "FT8"
+      ],
+      "publication": "PEMANFAATAN ANALISIS SPASIAL UNTUK PEMETAAN RISIKO BENCANA ALAM TSUNAMI MENGGUNAKAN PENGOLAHAN DATA SPASIAL SISTEM INFORMASI GEOGRAFIS",
+      "dir": "disk0\/00\/02\/59\/76",
+      "full_text_status": "public",
+      "issn": "ISSN: 2406-7857",
+      "status_changed": "2020-11-19 03:04:20",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Provinsi   Lampung   yang   terletak   diwilayah   paling   selatan   pulau   Sumatera   juga  merupakan daerah yang rentan bencana, seperti kejadian tsunami dan erupsi gunung anak Krakatau yang  terjadi  pada  2018  yang  mengakibatkan  korban  jiwa  dan  kerugian  harta benda,  Karena  Provinsi  Lampung  adalah  wilayah  dengan  jumlah  penduduk  yang  padat. Salah  satu  bencana  yang  mengancam  provinsi  lampung  adalah  Tsunami.  Ancaman  terjadi karena  Provinsi  Lampung  terletak  di  wilayah  yang  berbatasan  dengan  Selat  Sunda,  dan Samudra  Hindia  sehingga  ada  potensi  bencana  di  wilayah  ini.  Tujuan  dari  penelitian  ini adalah   melakukan   bagian   mitigasi   bencana   yaitu   analisis   resiko   bencana   dengan menggunakan Sistem Informasi Geografis (SIG). Pemetaan tingkat resiko tsunami ini dibuat dalam  bentuk  zona-zona  rawan  bencana  tsunami  serta  jalur  evakuasi,  dan  pemetaan  ini telah dilakukan pada daerah pesisir Lampung Selatan, Provinsi Lampung.",
+      "volume": 7,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25976",
+      "date": "2020-06-02"
+    }
+]
+

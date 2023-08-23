@@ -1,0 +1,69 @@
+[
+    {
+      "date_type": "completed",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Similirity FJMS Mathematical Model of Time Lapse Vertical Gradient Microgravity Measurements and Its Application for Subsurface Mass Change and Vertical Ground Movement (Subsidence) Identification, Case Study: Semarang Alluvial Plain, Central Java, Indonesia",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50920",
+      "date": 1010,
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "Sarkowi",
+      "dir": "disk0_bak\/00\/05\/09\/20",
+      "full_text_status": "public",
+      "status_changed": "2023-05-02 07:35:00",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "datestamp": "2023-05-02 07:35:00",
+      "eprintid": 50920,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 816,
+      "lastmod": "2023-05-02 07:35:00",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-02 03:27:06",
+                  "filesize": 373967,
+                  "objectid": 190634,
+                  "filename": "11-FJMS-03702-181_print.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548086",
+                  "datasetid": "document",
+                  "fileid": 548086,
+                  "hash": "234c630a74a839f2bfeeeec8437572d3",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "11-FJMS-03702-181_print.pdf",
+            "docid": 190634,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 50920,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190634",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sarkowi",
+            "given": "Muh"
+          },
+          "id": "muhsarkowi@gmail.com"
+        }
+      ],
+      "type": "other",
+      "title": "Similirity FJMS"
+    }
+]
+

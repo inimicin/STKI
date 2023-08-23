@@ -1,0 +1,73 @@
+[
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sulistyo",
+            "given": "Iwan"
+          },
+          "id": "iwsulistyo@gmail.com"
+        }
+      ],
+      "title": "Komponen Cadangan untuk Pertahanan Indonesia",
+      "place_of_pub": "Padang",
+      "eprintid": 48724,
+      "eprint_status": "archive",
+      "datestamp": "2023-03-06 01:55:50",
+      "metadata_visibility": "show",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 1187,
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 530926,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "89f1ac0083aefd70a5d6e477c8f18ea4",
+                  "objectid": 188101,
+                  "filesize": 1314867,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530926",
+                  "filename": "Komponen Cadangan untuk Pertahanan Indonesia (Harian Umum Haluan, 29 Juni 2013).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-04 09:10:25"
+                }
+            ],
+            "main": "Komponen Cadangan untuk Pertahanan Indonesia (Harian Umum Haluan, 29 Juni 2013).pdf",
+            "docid": 188101,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 48724,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188101",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-03-06 01:55:50",
+      "dir": "disk0_bak\/00\/04\/87\/24",
+      "publisher": "harian Umum Haluan",
+      "divisions": [
+        "FISIP8"
+      ],
+      "status_changed": "2023-03-06 01:55:50",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "JZ"
+      ],
+      "date": "2013-06-29",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48724"
+    }
+]
+

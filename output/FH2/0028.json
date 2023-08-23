@@ -1,0 +1,69 @@
+[
+    {
+      "date": "0028-10-28",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50447",
+      "subjects": [
+        "K1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-04-13 03:40:31",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FH2"
+      ],
+      "publication": "EVALUASI PENERAPAN ASAS CABOTAGE DALAM PELAYARAN DAN PENERBANGAN BERDASARKAN KONSEP RULE OF LAW LED GOVERNANCE MODEL",
+      "dir": "disk0_bak\/00\/05\/04\/47",
+      "userid": 765,
+      "lastmod": "2023-04-13 03:40:31",
+      "documents": [
+          {
+            "formatdesc": "Article Report",
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190153",
+            "pos": 1,
+            "eprintid": 50447,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "rev_number": 4,
+            "format": "slideshow",
+            "main": 4,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "b6cf310dd8136410fe8fbfac5e79bf56",
+                  "fileid": 544385,
+                  "datasetid": "document",
+                  "filename": 4,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/544385",
+                  "objectid": 190153,
+                  "filesize": 703316,
+                  "mtime": "2023-04-13 02:36:15",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 190153
+          }
+      ],
+      "datestamp": "2023-04-13 03:40:31",
+      "eprintid": 50447,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "eko.raharjo3@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "eko raharjo",
+            "given": "eko"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "EVALUASI PENERAPAN ASAS CABOTAGE DALAM PELAYARAN DAN PENERBANGAN BERDASARKAN KONSEP RULE OF LAW LED GOVERNANCE MODEL",
+      "refereed": "FALSE"
+    }
+]
+

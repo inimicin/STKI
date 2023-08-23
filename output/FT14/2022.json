@@ -1,0 +1,226 @@
+[
+    {
+      "userid": 59,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186559",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47502,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 186559,
+            "main": "PROSIDING SENADIBA Panuju 2022.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 520841,
+                  "hash": "be465b3a051225540666bc7987bf4981",
+                  "mime_type": "application\/pdf",
+                  "objectid": 186559,
+                  "filesize": 2155488,
+                  "filename": "PROSIDING SENADIBA Panuju 2022.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/520841",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-27 06:46:50"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2022-12-28 07:24:56",
+      "eprintid": 47502,
+      "eprint_status": "archive",
+      "datestamp": "2022-12-28 07:24:56",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "id": "achmad.yahya@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Panuju",
+            "honourific": null,
+            "given": "Yahya"
+          }
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Martinus",
+            "lineage": null,
+            "given": "Martinus"
+          }
+        },
+        {
+          "name": {
+            "given": "Akhmad",
+            "lineage": null,
+            "family": "Riszal",
+            "honourific": null
+          },
+          "id": "riszal.eng@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Peningkatan kesadaran masyarakat Bandar Lampung untuk proses pencucian pakaian yang hemat air dengan pendekatan eco-feedback pada mesin cuci 2 tabung.",
+      "volume": 2,
+      "abstract": "Ketersediaan air bersih di kota besar memiliki peran yang krusial, terutama untuk menopang berbagai aktivitas masyarakat baik dalam skala rumah tangga maupun bisnis. Namun dengan peningkatan populasi yang pesat dan berkurangnya lahan resapan, ketersediaan air bersih di area perkotaan menjadi semakin kurang dibandingkan dengan kebutuhan yang ada. Karena itu masyarakat perlu untuk mulai disadarkan untuk memiliki perilaku yang hemat air, termasuk dalam kegiatan rumah tangga yang rutin seperti pencucian pakaian dan menyiapkan bahan makanan. Kegiatan yang dilaporkan pada artikel ini adalah rangkaian kegiatan pengabdian pada masyarakat yang bertujuan untuk meningkatkan kesadaran masyarakat untuk menerapkan konsep hemat air pada proses pencucian pakaian skala rumah tangga, menggunakan pendekatan eco-feedback yang diterapkan pada mesin cuci 2 tabung. Kegiatan dilakukan dalam 2 tahap, yaitu tahap pemaparan di kelas serta tahap praktik, sehingga peserta kegiatan mendapatkan pemahaman dan pengalaman yang dapat mempengaruhi perilakunya untuk masa yang lebih panjang. Sebagai hasil dari rangkaian kegiatan ini, para peserta memiliki pemahaman serta kesadaran yang meningkat terkait proses pencucian pakaian yang hemat air, serta memiliki komitmen untuk memperbaiki pola mencuci mereka di masa yang akan datang.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47502",
+      "date": 2022,
+      "subjects": [
+        "TA",
+        "TJ"
+      ],
+      "date_type": "published",
+      "status_changed": "2022-12-28 07:24:56",
+      "full_text_status": "public",
+      "issn": "2963-1378",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "UNMAS Denpasar",
+      "publication": "Prosiding SENADIBA 2",
+      "divisions": [
+        "FT14"
+      ],
+      "dir": "disk0_bak\/00\/04\/75\/02"
+    },
+    {
+      "publication": "The Effect of Holding Time Artificial Aging on Hardness and Microstructure of Al-2024",
+      "dir": "disk0_bak\/00\/05\/18\/18",
+      "divisions": [
+        "FT14"
+      ],
+      "funders": [
+        "LPPM unila"
+      ],
+      "status_changed": "2023-05-19 01:29:54",
+      "rev_number": 11,
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "volume": 2,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51818",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Zulhanif",
+            "given": "Hanif"
+          },
+          "id": "zulhanif.1973@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Dedy",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dedy Rizaldy"
+          },
+          "id": null
+        },
+        {
+          "id": "harnowo.supriadi@eng.unila.ac.id",
+          "name": {
+            "given": "nowo",
+            "lineage": null,
+            "family": "Harnowo Supriadi",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "The Effect of Holding Time Artificial Aging on Hardness and Microstructure of Al-2024",
+      "contact_email": "zulhanif.1973@eng.unila.ac.id",
+      "metadata_visibility": "show",
+      "lastmod": "2023-05-19 01:29:54",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.ic-star.org\/index.php\/jaset",
+          "type": "pub"
+        }
+      ],
+      "publisher": "Journal of Applied Science, Engineering of Technology",
+      "issn": "2722-8363",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "abstract": "This study aims to determine the effect of holding time artificial aging on the hardness and microstructure of Al-2024. This study used a specimen in the form of Aluminum 2024 series which was heat treated at a temperature of 500°C for 60 minutes, then quenched with a cooling medium in the form of water. Subsequently, it was reheated with variations in holding time, namely 3 hours, 5 hours and 7 hours with a temperature of 190°C. Then the specimen is slowly cooled to room temperature. The results of the chemical composition test using Spectromax showed the percentage of Al was 90.6% and Cu was 5.90%. The results of the hardness test using the Rockwell Hardness Tester obtained a hardness value without heat treatment which has a hardness value of 71.4 (HRB), a hardness value after quenching of 66.9 (HRB). The highest hardness value is found in heating with a holding time variation of 5 hours with a temperature of 190°C, the hardness value is 84.6 (HRB) where the hardness value at a holding time of 5 hours has increased by 8.48% from the hardness value of the material without heat treatment. Microstructure testing showed that the Al-Cu material after the artificial aging process at a holding time of 5 hours had a precipitate phase (θ) with a higher amount and the Al-Cu grain boundaries tended to be more dense and regular. This means that the material that has been treated with artificial aging has precipitated deposits or the formation of a second phase which causes the material to be harder and have better mechanical properties.",
+      "projects": [
+        "DIPA FT unila"
+      ],
+      "date": "2022-06-30",
+      "refereed": "TRUE",
+      "datestamp": "2023-05-19 01:29:54",
+      "id_number": 6,
+      "eprint_status": "archive",
+      "eprintid": 51818,
+      "pagerange": "28-32",
+      "contributors": [
+        {
+          "id": "zulhanif.1973@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "zulhanif",
+            "lineage": null,
+            "given": "hanif"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Dedy",
+            "family": "Dedy Rizaldy",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "nowo",
+            "lineage": null,
+            "family": "Harnowo Supriadi",
+            "honourific": null
+          },
+          "id": "harnowo.supriadi@eng.unila.ac.id"
+        }
+      ],
+      "userid": 329,
+      "number": 1,
+      "official_url": "https:\/\/journal.ic-star.org\/index.php\/jaset\/article\/view\/23",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 250575,
+            "main": "The Effect of Holding Time Artificial Aging on Hardness and Microstructure of Al-2024.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "b525427787bbf33110cdec21c6d8ec18",
+                  "fileid": 613882,
+                  "datasetid": "document",
+                  "filename": "The Effect of Holding Time Artificial Aging on Hardness and Microstructure of Al-2024.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/613882",
+                  "filesize": 426887,
+                  "objectid": 250575,
+                  "mtime": "2023-05-18 22:38:56",
+                  "hash_type": "MD5"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 51818,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/250575",
+            "pos": 1
+          }
+      ]
+    }
+]
+

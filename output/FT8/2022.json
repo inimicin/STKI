@@ -1,0 +1,1918 @@
+[
+    {
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/ejournal.radenintan.ac.id\/"
+        }
+      ],
+      "publisher": "Universitas Islam Negeri Raden Intan Lampung",
+      "publication": "International Journal of Electronics and Communications System",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0_bak\/00\/04\/93\/59",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "issn": "ISSN: 2798-2610",
+      "status_changed": "2023-03-29 08:12:36",
+      "date_type": "published",
+      "subjects": [
+        "T1",
+        "TK"
+      ],
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49359",
+      "abstract": "Lampung script fonts, in general, can only be used for typing on a computer system and have not been developed for typing on Android-based smartphones. Therefore, efforts to modernize and build typing using Lampung script for smartphone needs are very much needed on mobile phones so they can be used flexibly. This research makes a virtual keyboard \/ android keyboard application that can do typing using Lampung script. The virtual keyboard layout is designed by adopting several layouts found on the QWERTY keyboard by displaying all Aksara letters on one virtual keyboard display and grouping Aksara letters in a more attractive composition. To test the Lampung virtual keyboard script, the researchers used the usability testing method, namely aspects of effectiveness, efficiency, and user satisfaction, by 25 respondents. Through this test, an assessment of the effectiveness of the typing test on the success rate of respondents in doing the task was obtained, which was 75%. Evaluation of the typing efficiency aspect using time calculation gets the average result on the WPM score analysis, which is 34 WPM. This result is still below the average typing speed of people, which is 38 WPM. Testing on the aspect of user satisfaction using the system usability scale (SUS) method gets a SUS value of 76, and this result is included in the Acceptable\/Good category Acceptable\/Good so that users can type Lampung script through Android phones. The conclusion is that it can produce an optimal, efficient virtual keyboard layout and provide comfort for the user while using it with Android. It also could introduce the Lampung script to the younger generation.\r\nPratama Yuda Bagaskara, Meizano Ardhi Muhammad, Mardiana Mardiana, M Komarudin",
+      "volume": 2,
+      "title": "Virtual Keyboard Design of Lampung Script Based on Android",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "pratama.yuda1003@students.unila.ac.id",
+          "name": {
+            "family": "Bagaskara",
+            "lineage": null,
+            "honourific": null,
+            "given": "Pratama Yuda"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "given": "Meizano Ardhi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Mardiana"
+          }
+        },
+        {
+          "name": {
+            "given": "Muhamad",
+            "lineage": null,
+            "family": "Komarudin",
+            "honourific": null
+          },
+          "id": "komar@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "datestamp": "2023-03-29 08:12:36",
+      "eprintid": 49359,
+      "eprint_status": "archive",
+      "lastmod": "2023-03-29 08:12:36",
+      "official_url": "http:\/\/ejournal.radenintan.ac.id\/index.php\/IJECS\/article\/view\/11648\/0",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188905",
+            "eprintid": 49359,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 188905,
+            "main": "11648-42362-2-PB.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-29 05:32:53",
+                  "objectid": 188905,
+                  "filesize": 1218304,
+                  "filename": "11648-42362-2-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535842",
+                  "fileid": 535842,
+                  "datasetid": "document",
+                  "hash": "748463a74feadf5cc81bfa9f1213914e",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "userid": 1199,
+      "number": 1
+    },
+    {
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 705921,
+                  "objectid": 161713,
+                  "filename": "Peer Review.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/450655",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-21 05:35:09",
+                  "datasetid": "document",
+                  "fileid": 450655,
+                  "mime_type": "application\/pdf",
+                  "hash": "b49bba5de02bd9360e06b1504128cd07"
+                }
+            ],
+            "main": "Peer Review.pdf",
+            "docid": 161713,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "eprintid": 40403,
+            "placement": 1,
+            "formatdesc": "Peer Review Artikel Jurnal",
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161713"
+          }
+      ],
+      "lastmod": "2022-03-21 11:29:52",
+      "official_url": "http:\/\/klik.ulm.ac.id\/index.php\/klik\/article\/view\/324",
+      "userid": 3232,
+      "metadata_visibility": "show",
+      "eprintid": 40403,
+      "eprint_status": "archive",
+      "datestamp": "2022-03-21 11:29:52",
+      "title": "Peer Review : Pemanfaatan Analisis Spasial Untuk Pemetaan Risiko Bencana Alam Tsunami Menggunakan Pengolahan Data Spasial Sistem Informasi Geografis",
+      "creators": [
+        {
+          "id": "deny.budianto@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Budiyanto",
+            "honourific": null,
+            "given": "Deny"
+          }
+        },
+        {
+          "name": {
+            "given": "Trisya",
+            "lineage": null,
+            "family": "Septiana",
+            "honourific": null
+          },
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "id": "mona.batubara@eng.unila.ac.id",
+          "name": {
+            "given": "Mona",
+            "family": "Arif Muda",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40403",
+      "date": "2022-02-16",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "subjects": [
+        "QA75",
+        "QA76"
+      ],
+      "rev_number": 9,
+      "ispublished": "pub",
+      "status_changed": "2022-03-21 11:29:52",
+      "full_text_status": "public",
+      "divisions": [
+        "FT8"
+      ],
+      "publisher": "Universitas Lambung Mangkurat",
+      "dir": "disk0\/00\/04\/04\/03"
+    },
+    {
+      "eprint_status": "archive",
+      "eprintid": 52243,
+      "datestamp": "2023-07-12 06:47:31",
+      "metadata_visibility": "show",
+      "userid": 586,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-12 05:11:28",
+                  "filesize": 1224236,
+                  "objectid": 252944,
+                  "filename": "JITET - RANCANG BANGUN SRS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619111",
+                  "datasetid": "document",
+                  "fileid": 619111,
+                  "mime_type": "application\/pdf",
+                  "hash": "a1175c253c3eef058ab2a41ed9e3bf6e"
+                }
+            ],
+            "main": "JITET - RANCANG BANGUN SRS.pdf",
+            "docid": 252944,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252944",
+            "eprintid": 52243,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-07-12 06:47:31",
+      "creators": [
+        {
+          "id": "sony@staff.unila.ac.id",
+          "name": {
+            "given": "Sony",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ferbangkara"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Mardiana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "given": "FX. Arinto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Setyawan"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sulistiyanti",
+            "given": "Sri Ratna"
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "khiarudin",
+            "honourific": null,
+            "family": "khiarudin",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "eko@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sulistiono",
+            "given": "Wahyu Eko"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "family": "Muhammad",
+            "lineage": null,
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Usability of Lampung Heritage Virtual Reality\r\nTour",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Lampung Heritage Virtual Reality Tour was developed as a tool to educate the importance of Lampung’s historical heritage. It represents eight Lampung historical heritage sites in the virtual reality world, namely the Lampung Museum, Thay Hin Bio Vihara, Al-Anwar Mosque, Lampung Siger Tower, Krakatau Monument, Kerti Bhuana Temple, Nuwo Sesat Traditional House, and the Japanese Caves. Functional features of the Lampung Heritage Virtual Reality Tour are visiting virtual tourist spots and viewing information on virtual tourist attractions. Digital tourists can select a virtual tourist spot with the location panel. The user perception and satisfaction require a qualitative measurement to understand its impact on educating Lampung's historical heritage. Using usability, we should understand the quality of the Lampung Heritage Virtual Reality Tour. The tools to measure the usability level of the application are the User Acceptance Test and the System Usability Scale. There were 15 questions User Acceptance Test (UAT) with a composition of five questions affordance, four questions signifier, and six questions feedback. According to the SUS standard, we asked ten questions on the System Usability Scale (SUS). The result for UAT was an average of 95.75%, which consist of 95.00% affordance, 94.79% signifier, and 97.45% feedback. The result of SUS was Good, based on a score of 83.39. The Lampung Heritage Virtual Reality Tour meets good usability standards, making the application suitable.\r\n\r\nKeywords: virtual reality tour, Lampung historical heritage, usability, SUS, UAT",
+      "date": "2022-12-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52243",
+      "publisher": "Faculty of Enginerring University of Lampung",
+      "publication": "Journal of Engineering and Scientific Research (JESR)",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0_bak\/00\/05\/22\/43",
+      "status_changed": "2023-07-12 06:47:31",
+      "full_text_status": "public",
+      "issn": "pISSN268-0338 ; eISSN 268-1695",
+      "ispublished": "pub",
+      "rev_number": 10
+    },
+    {
+      "metadata_visibility": "show",
+      "eprintid": 49470,
+      "eprint_status": "archive",
+      "datestamp": "2023-03-31 00:49:50",
+      "documents": [
+          {
+            "security": "public",
+            "formatdesc": "Artikel",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189079",
+            "eprintid": 49470,
+            "placement": 1,
+            "content": "published",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 3,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 536765,
+                  "mime_type": "application\/pdf",
+                  "hash": "f87507180f8ee09f20e238ec989d8c86",
+                  "filesize": 1163598,
+                  "objectid": 189079,
+                  "filename": "meizano-13694-50175-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536765",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-29 05:12:02"
+                }
+            ],
+            "main": "meizano-13694-50175-1-PB.pdf",
+            "docid": 189079
+          },
+          {
+            "placement": 2,
+            "eprintid": 49470,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189080",
+            "security": "public",
+            "formatdesc": "Similiarity",
+            "main": "meizano+jurnal-2022-Comparison Study of CNN Aglaonema.pdf.pdf",
+            "docid": 189080,
+            "files": [
+                {
+                  "filesize": 1083627,
+                  "objectid": 189080,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536767",
+                  "filename": "meizano+jurnal-2022-Comparison Study of CNN Aglaonema.pdf.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 19:10:22",
+                  "datasetid": "document",
+                  "fileid": 536767,
+                  "hash": "46f8f4be5e4f91a455cf78281dca1552",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "other"
+          },
+          {
+            "eprintid": 49470,
+            "placement": 3,
+            "formatdesc": "Korespondensi",
+            "security": "public",
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189081",
+            "format": "text",
+            "main": "meizano-korespondensi-Comparison Study of Convolutional Neural Network Architecture in Aglaonema.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 536769,
+                  "hash": "dba8eeca4e76f00ecfa0656b2f456ede",
+                  "mime_type": "application\/pdf",
+                  "objectid": 189081,
+                  "filesize": 93960,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536769",
+                  "filename": "meizano-korespondensi-Comparison Study of Convolutional Neural Network Architecture in Aglaonema.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 19:10:34"
+                }
+            ],
+            "docid": 189081,
+            "content": "other",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "http:\/\/ejournal.radenintan.ac.id\/index.php\/IJECS\/article\/view\/13694",
+      "lastmod": "2023-03-31 00:49:50",
+      "number": 2,
+      "userid": 1199,
+      "refereed": "TRUE",
+      "title": "Comparison Study of Convolutional Neural Network Architecture in Aglaonema Classification",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Yessi",
+            "family": "Mulyani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "yessi.mulyani@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Septiangraini",
+            "family": "Dzihan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "jihansepti999@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad",
+            "honourific": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "family": "Nama",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "subjects": [
+        "T1",
+        "TK"
+      ],
+      "date_type": "published",
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49470",
+      "volume": 2,
+      "abstract": "Convolutional Neural Network (CNN) is very good at classifying images. To measure the best CNN architecture, a study must be done against real-case scenarios. Aglaonema, one of the plants with high similarity, is chosen as a test case to compare CNN architecture. In this study, a classification process was carried out on five classes of Aglaonema imagery by comparing five architectures from the Convolutional Neural Network (CNN) method: LeNet, AlexNet, VGG16, Inception V3, and ResNet50. The total dataset used is 500 image data, with the distribution of training data by 80% and test data by 20%. The segmentation process is performed using the Grabcut algorithm by separating the foreground and background. To build a model for CNN architecture using Google Colab and Google Drive storage. The results of the tests carried out on five classes of Aglaonema images obtained the best accuracy, precision, and recall results on the Inception V3 architecture with values of 92.8%, 93%, and 92.8%. The CNN architecture has the highest level of accuracy in classifying aglaonema plant types based on images. This study seeks to close research gaps, contribute to the field of research, and serve as a platform for primary prevention research.",
+      "dir": "disk0_bak\/00\/04\/94\/70",
+      "publisher": "Universitas Islam Negeri Raden Intan Lampung",
+      "publication": "International Journal of Electronics and Communications System",
+      "divisions": [
+        "FT8"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/ejournal.radenintan.ac.id\/",
+          "type": "pub"
+        }
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "succeeds": 49357,
+      "status_changed": "2023-03-31 00:49:50",
+      "issn": "ISSN: 2798-2610",
+      "full_text_status": "public"
+    },
+    {
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 478016,
+                  "datasetid": "document",
+                  "hash": "d5a4dc825d6aac1fe9bdd9b28027ab14",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-08-04 07:01:22",
+                  "filesize": 803569,
+                  "objectid": 165890,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/478016",
+                  "filename": "Artikel Aplikasi Digital Jual Beli Sampah Juli 2022.pdf"
+                }
+            ],
+            "main": "Artikel Aplikasi Digital Jual Beli Sampah Juli 2022.pdf",
+            "docid": 165890,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 43909,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165890",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2022-08-04 07:23:35",
+      "number": 2,
+      "userid": 423,
+      "pagerange": "80-85",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 43909,
+      "datestamp": "2022-08-04 07:23:35",
+      "refereed": "FALSE",
+      "title": "Penerapan Aplikasi Digital pada Jual Beli Sampah Plastik dan Produksi Kompos dari Limbah Organik Skala Rumah Tangga di Kelurahan Rajabasa, Bandar Lampung",
+      "creators": [
+        {
+          "name": {
+            "given": "Yessi",
+            "honourific": null,
+            "family": "Mulyani",
+            "lineage": null
+          },
+          "id": "yessi.mulyani@eng.unila.ac.id"
+        },
+        {
+          "id": "eko@eng.unila.ac.id",
+          "name": {
+            "given": "Wahyu Eko",
+            "lineage": null,
+            "family": "Sulistiono",
+            "honourific": null
+          }
+        },
+        {
+          "id": "herti.utami@eng.unila.ac.id",
+          "name": {
+            "family": "Utami",
+            "lineage": null,
+            "honourific": null,
+            "given": "Herti"
+          }
+        },
+        {
+          "name": {
+            "given": "Ilim",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ilim"
+          },
+          "id": "ilim@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "date": "2022-07-31",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43909",
+      "volume": 6,
+      "corp_creators": [
+        "Jurusan Teknik Informatika, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Informatika, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Kimia, Fakultas MIPA, Universitas Lampung"
+      ],
+      "abstract": "Kegiatan pengabdian ini bertujuan untuk mengedukasi masyarakat tentang pemilahan dan pengelolaan sampah organik menjadi kompos serta membuat aplikasi digital untuk mempermudah jual beli sampah yang dapat didaur ulang.  Kegiatan ini dilakukan di Kelurahan Rajabasa, Bandar Lampung dengan mitra adalah Komunitas Sahabat Lingkungan (KSL). Metode yang dilakukan dalam kegiatan pengabdian ini meliputi sosialisasi, pelatihan dan penggunaan aplikasi digital jual beli sampah dengan menggunakan smartphone. Dalam sosialisasi dijelaskan secara singkat tentang pemanfaatan dan penanganan sampah, khususnya sampah organik. Pelatihan pembuatan kompos dan penggunaan aplikasi digital jual beli sampah diberikan kepada mitra KSL. Permasalahan tentang pengelolaan sampah secara umum dan khususnya yang dihadapi mitra adalah belum memiliki pengetahuan dan peralatan untuk proses pembuatan kompos. Dengan kegiatan pengabdian Unggulan ini mitra KSL dapat menggunakan peralatan untuk membuat kompos, dan dapat menggunakan aplikasi digital jual beli sampah untuk mempermudah mereka. Kegiatan pengabdian ini telah memberikan keuntungan bagi mitra.\r\n\r\nKata kunci: sampah organik; kompos; aplikasi digital jual beli sampah",
+      "subjects": [
+        "TK",
+        "TP"
+      ],
+      "date_type": "published",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2022-08-04 07:23:35",
+      "full_text_status": "public",
+      "issn": "2550-1089",
+      "publisher": "LPPM UNILA",
+      "divisions": [
+        "FT8"
+      ],
+      "publication": "Jurnal Sakai Sambayan",
+      "dir": "disk0\/00\/04\/39\/09"
+    },
+    {
+      "issn": "2303-0577",
+      "full_text_status": "public",
+      "status_changed": "2022-11-23 09:04:18",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publication": "Jurnal informatika dan Teknik elektro terapan (JITET)",
+      "publisher": "Teknik Elektro Unila",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/68\/11",
+      "abstract": "Dalam penelitian ini akan dilakukan analisis sentimen masyarakat\r\nterhadap kinerja Dewan Perwakilan Rakyat (DPR) yang diungkapkan melalui\r\nmedia sosial twitter. Ada beberapa tahap untuk melakukan analisis sentimen ,\r\nyaitu pengumpulan data (crawling), preporcessing data yang terdiri dari proses\r\ncleaning data, tokenization, stop remova dan case folding, splitting data dan\r\nklasifikasi data menggunakan metode Naive Bayes Classifier. Penelitian ini\r\nmenggunakan sebanyak 1546 data tweet. Hasil dari penelitian ini didapatkan\r\nbahwa DPR mendapatkan 95 tweet positif dengan polaritas 0.75 atau 75%\r\nsentimen positif, 693 tweet netral dengan polaritas 0.79 atau 79% sentimen\r\nnetral dan 758 tweet negatif dengan polaritas 0.82 atau 82% sentimen negatif\r\ndengan accuracy score 0.8 atau 80% berdasarkan data testing sebanyak 20%",
+      "volume": 10,
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46811",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "ANALISIS SENTIMEN KINERJA DEWAN PERWAKILAN\r\nRAKYAT (DPR) PADA TWITTER MENGGUNAKAN METODE\r\nNAIVE BAYES CLASSIFIER",
+      "refereed": "TRUE",
+      "userid": 1,
+      "number": 1,
+      "lastmod": "2022-11-23 09:04:18",
+      "documents": [
+          {
+            "eprintid": 46811,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185739",
+            "pos": 1,
+            "format": "text",
+            "docid": 185739,
+            "main": "2262-4900-2-PB-1.pdf",
+            "files": [
+                {
+                  "objectid": 185739,
+                  "filesize": 500333,
+                  "filename": "2262-4900-2-PB-1.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515297",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-23 09:01:24",
+                  "datasetid": "document",
+                  "fileid": 515297,
+                  "mime_type": "application\/pdf",
+                  "hash": "919e083820446f10ffec90ba130fc180"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2022-11-23 09:04:18",
+      "eprintid": 46811,
+      "eprint_status": "archive",
+      "metadata_visibility": "show"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nama"
+          }
+        }
+      ],
+      "title": "Assessment of Information Technology Governance\r\nImplementation Based on COBIT Framework 5 Focus on\r\nAPO 04 Subdomain (Align, Plan and Organise) - Corresponding email",
+      "datestamp": "2022-11-14 08:29:40",
+      "eprintid": 46617,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 1,
+      "lastmod": "2022-11-23 08:16:59",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Gmail - FINAL PUBLISH VERSION Solid State Jounal And NeuroQuantology.pdf",
+            "files": [
+                {
+                  "mtime": "2022-11-14 08:28:19",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513780",
+                  "filename": "Gmail - FINAL PUBLISH VERSION Solid State Jounal And NeuroQuantology.pdf",
+                  "filesize": 308531,
+                  "objectid": 185507,
+                  "hash": "520046ebb49180014a4eb920be9ed6e0",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 513780
+                }
+            ],
+            "docid": 185507,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185507",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46617
+          },
+          {
+            "placement": 2,
+            "eprintid": 46617,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185729",
+            "pos": 2,
+            "security": "public",
+            "main": "6125.pdf",
+            "docid": 185729,
+            "files": [
+                {
+                  "hash": "49f2a70b901f209c3ca38bc66b56b321",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 515245,
+                  "mtime": "2022-11-23 08:16:59",
+                  "hash_type": "MD5",
+                  "filename": "6125.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515245",
+                  "filesize": 1217733,
+                  "objectid": 185729
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "divisions": [
+        "FT8"
+      ],
+      "publisher": "Anka Publisher",
+      "dir": "disk0\/00\/04\/66\/17",
+      "full_text_status": "public",
+      "status_changed": "2022-11-14 08:29:40",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "subjects": [
+        "AC"
+      ],
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46617"
+    },
+    {
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nama",
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Assessment of Information Technology Governance\r\nImplementation Based on COBIT Framework 5 Focus on\r\nAPO 04 Subdomain (Align, Plan and Organise) - Similarity Check",
+      "datestamp": "2022-11-14 08:24:21",
+      "eprintid": 46616,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 1,
+      "lastmod": "2023-01-09 07:55:11",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186733",
+            "eprintid": 46616,
+            "placement": 2,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 186733,
+                  "filesize": 1251531,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522087",
+                  "filename": "20220830111556pmNQ440099.pdf.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-09 07:54:53",
+                  "fileid": 522087,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "3b2b9081f27e1dfc18d0718d4d702f3c"
+                }
+            ],
+            "main": "20220830111556pmNQ440099.pdf.pdf",
+            "docid": 186733
+          }
+      ],
+      "publisher": "Anka Publisher",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/66\/16",
+      "full_text_status": "public",
+      "status_changed": "2022-11-14 08:24:21",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "subjects": [
+        "AC"
+      ],
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46616"
+    },
+    {
+      "title": "Biaya Jasa Pengelolaan Sumber Daya Air Sebagai Upaya Pengelolaan Berbasis Partisipatif",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2022-11-23 09:32:39",
+      "eprintid": 46813,
+      "eprint_status": "archive",
+      "lastmod": "2022-11-23 09:32:39",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 185747,
+            "main": "40_Eka+Kurniawan (2).pdf",
+            "files": [
+                {
+                  "objectid": 185747,
+                  "filesize": 230838,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515327",
+                  "filename": "40_Eka+Kurniawan (2).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-23 09:31:29",
+                  "fileid": 515327,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "358f59c7e98fbc9b299c5316e51f2c84"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185747",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46813
+          }
+      ],
+      "userid": 1,
+      "event_type": "conference",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/68\/13",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2022-11-23 09:32:39",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "event_title": "Prosiding Seminar Nasional Keinsinyuran (SNIP)  Volume 2 Nomor 1",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46813",
+      "date": 2022,
+      "abstract": "Sesuai  dengan  perkembangan  dan  pertumbuhan  penduduk  pada  suatu  wilayah  sungai  yang  pada akhirnya  berimbas  pada  meningkatnya  kebutuhan  akan air  sedangkan  ketersediaan  air cenderung tetap,  maka  BBWS  Mesuji  Sekampung  akan  dituntut  untuk  dapat  lebih  professional  didalam pengelolaan sumber daya air dan diantaranya mendapatkan tugas untuk dapat menarik BJPSDA dan mempergunakannya sebagai tambahan untuk menanggung Biaya Pengelolaan, sehingga di masa yang akan datang dapat meringankan APBN sebagai beban Pemerintah dalam pembiayaan pengelolaan SDA, sehingga anggaran yang ada dapat dialokasikan kepada hal yang lebih besar lagi. Dalam kajian ini yang menjadi potensi Penerimaan Negara Bukan pajak (PNBP) adalah Biaya Jasa Pengelolaan Sumber Daya Air (BJPSDA), sehingga dalam proses dan prosedur perhitungannya lebih mengacu pada Permen PUPR Nomor 18\/PRT\/M\/2015 Tentang Iuran Eksploitasi dan Pemeliharaan Bangunan Pengairan. Berdasarkan hasil analisis dan perhitungan, diketahui bahwa Total biaya pengelolaan SDA dalam perhitungan BJPSDA sebesar Rp. 145.192.478.080, 00 (Seratus Empat Puluh Lima Milyar Seratus Sembilan Puluh Dua Juta Empat Ratus Tujuh Puluh Delapan Ribu Delapan Puluh Rupiah) dengan potensi PNBP dari nilai satuan BJPSDA sebesar Rp. 29.217.701.392, 71 per tahun."
+    },
+    {
+      "documents": [
+          {
+            "main": "Gmail - Letter of Acceptance and Invoice - CONSUMER SEGMENTATION KNOWLEDGE ANALYSIS USING DATA SCIENCE APPROACH FOR MARKETING STRATEGY RECOMMENDATIONS.pdf",
+            "docid": 185513,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-14 08:48:39",
+                  "objectid": 185513,
+                  "filesize": 336893,
+                  "filename": "Gmail - Letter of Acceptance and Invoice - CONSUMER SEGMENTATION KNOWLEDGE ANALYSIS USING DATA SCIENCE APPROACH FOR MARKETING STRATEGY RECOMMENDATIONS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/513810",
+                  "datasetid": "document",
+                  "fileid": 513810,
+                  "mime_type": "application\/pdf",
+                  "hash": "0275901e00bf7f4d3591b3db6f69b023"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 46621,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185513",
+            "pos": 1,
+            "security": "public"
+          },
+          {
+            "main": "6127.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 515306,
+                  "hash": "89db0de838b51e43e0bb1fbc46e00745",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-23 09:11:40",
+                  "objectid": 185741,
+                  "filesize": 2298242,
+                  "filename": "6127.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515306"
+                }
+            ],
+            "docid": 185741,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 2,
+            "eprintid": 46621,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185741",
+            "pos": 2,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2022-11-23 09:11:41",
+      "userid": 1,
+      "metadata_visibility": "show",
+      "eprintid": 46621,
+      "eprint_status": "archive",
+      "datestamp": "2022-11-14 08:50:03",
+      "title": "Consumer Segmentation Knowledge Analysis Using Data Science Approach for Marketing Strategy Recommendations - Email Coresponding",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nama"
+          }
+        }
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46621",
+      "date": 2022,
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "rev_number": 8,
+      "status_changed": "2022-11-14 08:50:03",
+      "full_text_status": "public",
+      "publisher": "Anka Publisher",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/66\/21"
+    },
+    {
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46619",
+      "subjects": [
+        "AC"
+      ],
+      "ispublished": "pub",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "status_changed": "2022-11-14 08:44:38",
+      "divisions": [
+        "FT8"
+      ],
+      "publisher": "Anka Publisher",
+      "dir": "disk0\/00\/04\/66\/19",
+      "lastmod": "2023-01-09 07:51:18",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "20221201122355pm647.pdf",
+            "docid": 186732,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522083",
+                  "filename": "20221201122355pm647.pdf",
+                  "objectid": 186732,
+                  "filesize": 1462288,
+                  "mtime": "2023-01-09 07:51:02",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "4504e2952ed648e2d6d8905231a18318",
+                  "datasetid": "document",
+                  "fileid": 522083
+                }
+            ],
+            "format": "text",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186732",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 46619
+          }
+      ],
+      "userid": 1,
+      "metadata_visibility": "show",
+      "datestamp": "2022-11-14 08:44:38",
+      "eprintid": 46619,
+      "eprint_status": "archive",
+      "title": "Consumer Segmentation Knowledge Analysis Using Data Science Approach for Marketing Strategy Recommendations - Similarity check",
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nama"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "type": "other"
+    },
+    {
+      "datestamp": "2022-11-23 08:37:23",
+      "eprint_status": "archive",
+      "eprintid": 46808,
+      "metadata_visibility": "show",
+      "userid": 1,
+      "number": 1,
+      "lastmod": "2022-11-23 08:38:41",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185734",
+            "eprintid": 46808,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 185734,
+            "main": "100-Article Text-484-1-10-20220819.pdf",
+            "files": [
+                {
+                  "hash": "8881870259d80281149f611d2a93c496",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 515267,
+                  "filename": "100-Article Text-484-1-10-20220819.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515267",
+                  "filesize": 1032007,
+                  "objectid": 185734,
+                  "mtime": "2022-11-23 08:36:19",
+                  "hash_type": "MD5"
+                }
+            ]
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "honourific": null,
+            "family": "Nama",
+            "lineage": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "The Effect of Filler Adding Palm Kernel Shell Ash on Durability and the Marshall Values Properties of Asphalt Concrete Mix",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "abstract": "Lampung  Province  is  one  of  the  palm  oil  producers,  especially  in  Way  Kanan Regency.  Way  Kanan  Regency  has  two  palm  oil-producing  mills,  namely  PT.  Sawit  Indo  Mas  which  is  located  in  Kampung  Tanjung  Raja  Sakti  Blambangan Umpu and PT PLP which is located inKampung Bumi  Agung, Bahuga District. The two factories duce thousands of tons of Crude Palm Oil (CPO)vegetable oil daily produced from palm fruit plants (Elaeis Guineensis Jacq, Arecaceae). From oil  management,  it  is  undeniable  that  it  can  create  a  lot of  solid waste  from  the palm shell. Meanwhile, the government has not made much effort to use the waste from the waste. When managing palm fruit, palm shells cannot be processed into oil  because  they  have  a  hard  texture,  so  the  shells  are  discarded  and  become waste. Then we use the shell for research material as a filler. Palm shell ash has a  silicon  dioxide  (SiO2)  content  which  is  also  contained  in  Portland  cement,  so this  content  can  allow  the  acquisition  of  a  good  asphalt  mixture  on  the  AC-BC layer.  Thisstudy  aims  to  see  the  effect  of  the  effectiveness  of  adding  shell  ash fillers  from  palm  shell  waste  in Marshall  test  tests  and  value  the  resulting durability.  The  addition  of  fillers  with  percentages  of  20%,  30%,  40%,  50%and 60%.  From  the  results  obtainedfrom  the  test  results  in  the  laboratory  that  the addition of shell ash fillers of 40% gets better performance compared to shell ash with  percentages  of  20%,  30%,  and  60%,  with  a  higher  state  value  of  1225  kg shown. In Marshall testing, using palm shell ash fillers can increase the value of KAO.   So   that   from   the Marshall   test,   the   durability   value  of   the   sample immersion  at  the  IRS  value  of  0%  was  98.4%  greater  than  the  40%,  which  was 91.13%. Overall, using palm shell ash fillers meets the minimum requirements of Indonesia  Bureau  for  Construction Bina  Marga  as  an  asphalt  mixture.  The degree of weather change in immersion durability affects the strength level of the Marshall test",
+      "volume": 4,
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46808",
+      "publication": "Journal of Engineering and Scientific Research (JESR)",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/68\/08",
+      "full_text_status": "public",
+      "status_changed": "2022-11-23 08:37:23",
+      "ispublished": "pub",
+      "rev_number": 8
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2022-11-23 08:57:46",
+      "eprintid": 46810,
+      "eprint_status": "archive",
+      "lastmod": "2022-11-23 08:57:46",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185738",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 46810,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "2446-5263-3-PB (1).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 515290,
+                  "hash": "baaaf8c6a7d7179df50a8831845cff56",
+                  "mime_type": "application\/pdf",
+                  "objectid": 185738,
+                  "filesize": 712756,
+                  "filename": "2446-5263-3-PB (1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515290",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-23 08:56:20"
+                }
+            ],
+            "docid": 185738,
+            "format": "text"
+          }
+      ],
+      "userid": 1,
+      "number": 2,
+      "title": "PENGEMBANGAN SISTEM SORTASI BUAH DUKU (LANSIUM DOMESTICUM) BERDASAR WARNA MENGGUNAKAN MIKROKONTROLER ARDUINO DAN SENSOR WARNA AS7262",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null,
+            "given": "Gigih Forda"
+          }
+        }
+      ],
+      "date_type": "published",
+      "subjects": [
+        "AC"
+      ],
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46810",
+      "abstract": "Produk perkebunan merupakan salah satu komoditas yang sangat penting\r\nIndonesia. Duku adalah salas satu produk perkebunan musiman yang menjadi salah satu\r\nsumber pendapatan ketika panen. Namun, umur simpan duku sangat pendek, batas\r\npenyimpanan buah duku tidak lebih dari satu minggu. Buah duku akan mengalami\r\nperubahan pada warna buah, buah segar akan mengalami kecoklatan pada umur 3 sampai\r\n5 hari pasca panen. Berubahnya warna buah duku menjadi kecoklatan tersebut tentunya\r\ndapat menurunkan kualitas dan harga dari buah duku tersebut. Pendeknya umur\r\npenyimpanan buah duku tersebut merupakan salah satu sulitnya penjualan duku.\r\nPenelitian ini melakukan pengklasifikasian duku sesuai warna dengan mengembangkan\r\nkonveyor sabuk sebagai alat untuk melakukan sortasi duku berdasar warna dengan\r\nmikrokontroler. Sistem sortasi menjadi penting dalam mengelompokkan duku dalam\r\numur yang sama sehingga dapat dipilih duku untuk pasar lokal yang sudah matang, duku\r\nuntuk pasar luar yang belum matang dan akan matang dalam perjalanan serta duku yang\r\ncacat. Adapun tujuan dari riset ini adalah membuat sistem sortasi warna buah duku\r\nberbasis mikrokontroler dan mengembangkan sistem yang dapat memisahkan tiga\r\nkelompok kelas duku, duku kelas super, duku kelas a dan duku kelas b berdasar warna\r\ndengan sensor AS7262.",
+      "volume": 10,
+      "publisher": "Teknik Elektro Unila",
+      "publication": "Jurnal informatika dan Teknik elektro terapan (JITET)",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/68\/10",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2303-0577",
+      "status_changed": "2022-11-23 08:57:46"
+    },
+    {
+      "event_type": "conference",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/68\/12",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2022-11-23 09:26:51",
+      "subjects": [
+        "AC"
+      ],
+      "event_title": "Prosiding Seminar Nasional Keinsinyuran (SNIP) Volume 2 Nomor 1",
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46812",
+      "abstract": "Penelitian ini bertujuan untuk membuat sistem yang mampu mengenali Aksara Lampung dengan\r\nmetode CNN (Convolutional Neural Network). Sebelum penelitian ini, telah ada beberapa penelitian\r\nyang bertujuan serupa dengan metode yang berbeda. Penelitian ini memiliki tingkat kesulitan sendiri\r\ndalam hal mengumpulkan dataset yang akan digunakan untuk proses pelatihan dikarenakan dataset\r\ntidak tersedia secara publik sehingga harus dibangun sendiri. Secara garis besar, proses pengenalan\r\nAksara Lampung dapat dibagi menjadi 3 bagian, yaitu : Pengumpulan bahan (dataset), Ekstraksi fitur\r\ndari setiap aksara Lampung dan Image Classification. Sistem pengenalan aksara Lampung ini\r\ndibangun menggunakan tools Google Colaboratory dengan Bahasa pemrograman Python.\r\nBerdasarkan hasil perhitungan menggunakan confusion matrix didapatkan hasil akurasi sebesar 100%.\r\nHal ini dikarenakan pola yang digunakan sangat sederhana karena aksara Lampung memiliki pola\r\nyang sederhana dan bentuk yang hampir sama hanya yang membedakan adalah rotasinya. Sistem ini\r\nsudah dilakukan proses Save Model dimana bertujuan untuk meminimalisir waktu untuk training\r\nulang dan hasil save model berupa file bisa digunakan untuk pengembangan proyek baru seperti\r\nandroid atau embedded system dengan ukuran file yaitu 211 KB",
+      "title": "Pengenalan Aksara Lampung Menggunakan Metode CNN (Convolutional Neural\r\nNetwork)",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nama"
+          },
+          "id": "gigih@eng.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2022-11-23 09:26:51",
+      "eprint_status": "archive",
+      "eprintid": 46812,
+      "lastmod": "2022-11-23 09:26:51",
+      "documents": [
+          {
+            "docid": 185745,
+            "main": "81_Meizano (5).pdf",
+            "files": [
+                {
+                  "hash": "ad36eb4ed8c6a47d2e4f1b5c19c2a058",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 515317,
+                  "mtime": "2022-11-23 09:25:27",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/515317",
+                  "filename": "81_Meizano (5).pdf",
+                  "filesize": 418136,
+                  "objectid": 185745
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 46812,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185745",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "userid": 1
+    },
+    {
+      "rev_number": 7,
+      "status_changed": "2022-06-12 11:37:35",
+      "publication": "JITET Jurnal Informatika dan Teknik Elektro",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/23\/24",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42324",
+      "volume": 10,
+      "subjects": [
+        "Q1",
+        "T1"
+      ],
+      "date_type": "published",
+      "contact_email": "rio.ariestia@eng.unila.ac.id",
+      "title": "PERANCANGAN PEMODELAN BASIS DATA SISTEM INFORMASI SECARA KONSEPTUAL DAN LOGIKAL",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Pradipta",
+            "lineage": null,
+            "given": "Rio Ariestia"
+          },
+          "id": "rio.ariestia@eng.unila.ac.id"
+        }
+      ],
+      "lastmod": "2022-06-12 11:37:35",
+      "metadata_visibility": "show",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2303-0577",
+      "publisher": "Teknik Elektro",
+      "date": "2022-04-10",
+      "abstract": "Pengembangan sebuah sistem informasi tidak lepas dengan adanya pengembangan basis data yang dapat menunjang pengelolaan dan penggunaan data pada sebuah sistem yang berjalan. Basis data yang baik dikembangkan dengan menerapkan metode Database System Development Lifecycle (DBSDLC) yang mencakup fase pengembangan Database Design. Dalam fase ini dibuat model database meliputi pengembangan sisi konseptual dan logikal. Pada penelitian ini kami membuat model basis data konseptual dan logikal yang akan diterapkan pada sebuah sistem informasi berbasis website. Tujuan dari fase database design untuk merancang struktur basis data yang sesuai dengan kebutuhan pengguna dan mendapatkan basis data yang handal untuk diterapkan pada sistem berbasis website yang dibangun. Dari penelitian ini dihasilkan rancangan model basis data yang selanjutnya dapat diterapkan pada fase implementasi sistem berbasis website.\r\n\r\nThe development of an information system closely related with the development of a database system that can support the management and use of data on a running system. A good database is developed by applying the Database System Development Lifecycle (DBSDLC) method which includes the Database Design development phase. In this phase, a database model is created including the development of the conceptual and logical. In this study, we create a conceptual and logical database model that will be applied to a web-based information system. The purpose of the database design phase is to design a database structure that suits user requirements and developed a reliable database that will be suitably applied to the web-based system. This research will deliver a database model design that can be applied to the implementation phase of a web-based system development.",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 42324,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164027",
+            "security": "public",
+            "main": "2541-5531-5-PB.pdf",
+            "files": [
+                {
+                  "hash": "edde0fc33459e2c6c40c025fb485c175",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 465645,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/465645",
+                  "filename": "2541-5531-5-PB.pdf",
+                  "filesize": 383737,
+                  "objectid": 164027,
+                  "mtime": "2022-06-11 01:52:00",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 164027,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jitet\/index",
+      "number": 2,
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wintoro",
+            "lineage": null,
+            "given": "Puput Budi"
+          },
+          "id": "budi.wintoro@eng.unila.ac.id"
+        },
+        {
+          "id": "deny.budiyanto@eng.unila.ac.id",
+          "name": {
+            "given": "Deny",
+            "honourific": null,
+            "lineage": null,
+            "family": "Budiyanto"
+          }
+        }
+      ],
+      "userid": 3233,
+      "pagerange": "127-132",
+      "eprint_status": "archive",
+      "eprintid": 42324,
+      "id_number": "https:\/\/doi.org\/10.23960\/jitet.v10i2.2541",
+      "datestamp": "2022-06-12 11:37:35"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "48-56",
+      "datestamp": "2023-04-08 13:29:01",
+      "eprintid": 49897,
+      "id_number": "https:\/\/doi.org\/10.52303\/jb.v4i2.75",
+      "eprint_status": "archive",
+      "official_url": "https:\/\/e-journal.stmik-bnj.ac.id\/index.php\/jb\/article\/view\/75",
+      "lastmod": "2023-04-08 13:29:01",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189573",
+            "pos": 1,
+            "eprintid": 49897,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 540163,
+                  "hash": "bbdb3d8c72c815d7912b2069d0809070",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-08 07:22:04",
+                  "objectid": 189573,
+                  "filesize": 485662,
+                  "filename": "Jurnal 4_Binary-10-22.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540163"
+                }
+            ],
+            "main": "Jurnal 4_Binary-10-22.pdf",
+            "docid": 189573
+          }
+      ],
+      "userid": 2822,
+      "number": 2,
+      "title": "Metode Decision Tree Untuk Memprediksi Kelancaran Angsuran Nasabah Pembiayaan Mikro KCP BSI",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Annisa",
+            "lineage": null,
+            "family": "Resty",
+            "honourific": null
+          },
+          "id": "resty.annisa@eng.unila.ac.id"
+        }
+      ],
+      "date_type": "published",
+      "subjects": [
+        "T1",
+        "ZA",
+        "ZA4050",
+        "ZA4450"
+      ],
+      "date": "2022-10-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49897",
+      "abstract": "Nasabah pembiayaan mikro yang ada pada Bank Syariah Indonesia dapat dikatakan sangat banyak, untuk lingkup\r\ncabang penelitian ini memiliki 144 nasabah terhitung dari pasca merger BSI yaitu Februari 2021. Permasalahan\r\nyang terjadi adalah ketika semakin banyak nasabah pembiayaan mikro yang melakukan restrukturasi maka akan\r\nsemakin dikit pula bagi hasil yang diterima oleh bank, pada bulan Juni 2022 terhitung ada 10 nasabah pembiayaan\r\nmikro yang mengajukan restrukturasi. Oleh karena itu, pihak marketing harus bijak dalam memproses nasabah\r\nyang ingin melakukan peminjaman. Dengan menerapkan data mining dengan metode decision tree menggunakan\r\nRapidMiner Studi, didapatkan beberapa kesimpulan antara lain. Terdapat aturan pada pemodelan pohon\r\nkeputusan, dimana keputusan lancar atau macetnya angsuran bergantung pada kondisi jangka waktu dan besar\r\npinjaman. Nilai akurasi hasil dari data prediksi dengan data yang sebenarnya bisa didapat menggunakan\r\nRapidMiner Studio dengan presentase akurasi sebesar 93,06%.\r\n \r\nKata kunci: Data Mining, Decision Tree, RapidMiner",
+      "volume": 4,
+      "publication": "Binary: Jurnal Ilmiah Binary STMIK Bina Nusantara Jaya",
+      "publisher": "STMIK Bina Nusantara Jaya Lubuklinggau Sumatera Selatan",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0_bak\/00\/04\/98\/97",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2657-2117",
+      "status_changed": "2023-04-08 13:29:01"
+    },
+    {
+      "publication": "SENAPATI 2022",
+      "publisher": "Fakultas Teknik Universitas Lampung",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0_bak\/00\/05\/00\/77",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2023-04-10 07:11:34",
+      "full_text_status": "public",
+      "issn": "2685-0427",
+      "subjects": [
+        "T1"
+      ],
+      "date_type": "published",
+      "date": "2022-10-20",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50077",
+      "abstract": "Sebuah sistem informasi sangat penting dalam berbagai hal, terlebih pada sebuah tempat kunjungan seperti\r\nmuseum. Sebagai pusat pengembangan kebudayaan, pusat pendidikan sejarah, bahkan pusat riset bidang\r\nsejarah, museum harus memiliki sistem informasi yang baik agar keberadaan museum dan berbagai informasi\r\ndi dalamnya dapat diketahui oleh masyarakat luas. Saat ini Museum Lampung, salah satu museum terpenting\r\ndi provinsi Lampung, belum memiliki sistem informasi yang memadai dan bisa diakses masyarakat. Untuk\r\nmengatasi permasalahan tersebut, pada kegiatan Pengabdian Kepada masyarakat (PKM) ini dibuatlah suatu\r\nsistem informasi Musem Lampung berupa website interaktif. Website ini tidak hanya memberikan informasi\r\nberupa koleksi museum yang database-nya bisa selalu di-update, tetapi juga dilengkapi dengan sarana\r\nkomunikasi interaktif antara pihak pengelola dan pengunjung website. Pada kegiatan ini juga dilakukan\r\npelatihan agar pihak pengelola Museum dapat mengelola website tersebut dengan baik. Saat ini website\r\ntersebut memang belum dioperasikan ke masyarakarat luas, karena masih sampai pada tahap pelatihan dan\r\nmelengkapi informasi di dalammnya. Namun dengan dibuatnya website tersebut, diharapkan terdapat manfaat\r\nyang bisa didapatkan. Dari sisi pengelola museum manfaatnya adalah mudah menyebarkan informasi tentang\r\nkegiatan yang sedang dan akan dilakukan museum, sehingga membuat ketertarikan pengunjung lebih tinggi\r\ndan menambah minat pengunjung untuk mendatangi museum. Sedangkan manfaat bagi masyarakat adalah\r\nmudahnya mengakses informasi yang ada pada museum. \r\n \r\nKata kunci: database, koleksi, museum, sistem informasi, website interaktif",
+      "refereed": "TRUE",
+      "title": "Pembuatan Sistem Informasi Berbasis Website Interaktif Museum Negeri Provinsi Lampung",
+      "type": "article",
+      "creators": [
+        {
+          "id": "resty.annisa@eng.unila.ac.id",
+          "name": {
+            "given": "Annisa",
+            "honourific": null,
+            "lineage": null,
+            "family": "Resty"
+          }
+        }
+      ],
+      "pagerange": "155-159",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 50077,
+      "datestamp": "2023-04-10 07:11:34",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189777",
+            "eprintid": 50077,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-10 06:49:15",
+                  "filesize": 7312258,
+                  "objectid": 189777,
+                  "filename": "Prosiding3_SENAPATI 22-FULL.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/541639",
+                  "datasetid": "document",
+                  "fileid": 541639,
+                  "hash": "e6e5036c82de2fd71190747f9e175e1f",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Prosiding3_SENAPATI 22-FULL.pdf",
+            "docid": 189777
+          }
+      ],
+      "official_url": "https:\/\/sites.google.com\/eng.unila.ac.id\/prosiding-senapati-2022\/?pli=1",
+      "lastmod": "2023-04-10 07:11:34",
+      "userid": 2822
+    },
+    {
+      "eprintid": 49893,
+      "id_number": 10.53842,
+      "eprint_status": "archive",
+      "datestamp": "2023-04-08 13:28:45",
+      "pagerange": "62-75",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 2822,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189569",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49893,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Jurnal 2_JUKI-11-22.pdf",
+            "docid": 189569,
+            "files": [
+                {
+                  "fileid": 540124,
+                  "datasetid": "document",
+                  "hash": "56992bb217f1de14463e3f9f70243d09",
+                  "mime_type": "application\/pdf",
+                  "filesize": 816499,
+                  "objectid": 189569,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540124",
+                  "filename": "Jurnal 2_JUKI-11-22.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-08 06:06:25"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2023-04-08 13:28:45",
+      "official_url": "https:\/\/ioinformatic.org\/index.php\/JUKI\/article\/view\/119",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Annisa",
+            "family": "Resty",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "resty.annisa@eng.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Rekomendasi Klasifikasi Nasabah BSI Mengikuti Program Pesta Hadiah dan Labbaik Special Gift Menggunakan Algoritma C4. 5",
+      "subjects": [
+        "ZA",
+        "ZA4050",
+        "ZA4450"
+      ],
+      "date_type": "published",
+      "volume": 4,
+      "abstract": "PT. Bank Syariah Indonesia KCP Bintaro Kebayoran Arcade 1 merupakan salah satu bank yang\r\nmenyediakan layanan program pesta hadiah dan program labbaik special gift terhadap nasabah dengan\r\nmelakukan pembukaan buku rekening serta melakukan deposito dengan nominal jumlah tertentu dan nantinya\r\nakan ditukarkan dengan hadiah dalam bentuk barang kepada nasabah. Pada PT. Bank Syariah Indonesia\r\nKCP Bintaro Kebayoran Arcade 1 penawaran kedua program tersebut terhadap nasabah terdapat masalah\r\ndikarenakan kedua program tersebut memerlukan deposito dengan nominal jumlah tertentu. Sedangkan, pihak\r\nnasabah yang berdatangan memiliki nominal saldo rekening, background pekerjaan, dan pendapatan yang\r\nberbeda-beda. Dengan menerapkan data mining dan menggunakan algoritma C4.5 data nasabah Bank\r\nSyariah Indonesia dapat diprediksi dengan accuracy yang cukup tinggi dengan menggunakan data training\r\ndan data testing sebesar 94.65% dan 88.18% dengan dua kasus split data yang berbeda.\r\n\r\nKata Kunci: Data Mining, Algoritma C4.5, RapidMiner",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49893",
+      "date": "2022-12-15",
+      "publisher": "Yayasan Kita Menulis",
+      "publication": "JUKI : Jurnal Komputer dan Informatika",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0_bak\/00\/04\/98\/93",
+      "related_url": [
+        {
+          "url": "https:\/\/ioinformatic.org\/index.php\/JUKI\/article\/view\/119",
+          "type": "pub"
+        }
+      ],
+      "status_changed": "2023-04-08 13:28:45",
+      "issn": "2722-4368",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "ispublished": "pub"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "76-85",
+      "datestamp": "2023-04-08 13:28:57",
+      "eprintid": 49896,
+      "id_number": 10.53842,
+      "eprint_status": "archive",
+      "lastmod": "2023-04-08 13:28:57",
+      "official_url": "https:\/\/ioinformatic.org\/index.php\/JUKI\/article\/view\/118",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 49896,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189572",
+            "pos": 1,
+            "security": "public",
+            "docid": 189572,
+            "main": "Jurnal 3_JUKI-11-22.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "27852fd4490350ace7aa029aaa1f4545",
+                  "datasetid": "document",
+                  "fileid": 540154,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540154",
+                  "filename": "Jurnal 3_JUKI-11-22.pdf",
+                  "objectid": 189572,
+                  "filesize": 923285,
+                  "mtime": "2023-04-08 07:02:39",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 2822,
+      "number": 2,
+      "title": "Sistem Data Penjualan dan Monitoring Stok Barang pada Toko Keripik Aiza",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "resty.annisa@eng.unila.ac.id",
+          "name": {
+            "family": "Resty",
+            "lineage": null,
+            "honourific": null,
+            "given": "Annisa"
+          }
+        }
+      ],
+      "date_type": "published",
+      "subjects": [
+        "T1",
+        "ZA",
+        "ZA4050",
+        "ZA4450"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49896",
+      "date": "2022-12-15",
+      "abstract": "Dengan Berkembangnya teknologi informasi dari tahun ketahun menjadi tantangan berat bagi pengguna teknologi informasi. Hal tersebut mendorong setiap sektor organisasi baik formal maupun informal atau lembaga - lembaga lainnya untuk dapat memanfaatkannya sebagai penunjang kegiatan kerja sehingga dapat menghasilkan informasi yang cepat, tepat dan akurat. Untuk mewujudkan hal tersebut, maka dibutuhkan sumber daya pendukung lain seperti perangkat lunak yang dapat diandalkan kemampuannya. Selain itu sumber daya manusia juga harus menguasai kemampuan teknologi informasi itu sendiri. Dibalik kesuksesan\r\nKeripik Aiza terdapat kesulitan dalam mengolah barang yang ada. Toko Keripik Aiza belum memiliki sebuah sistem data penjualan dan monitoring stok barang yang dapat mengolah barang yang keluar dan masuk di gudang hingga berapa barang yang terjual di toko setiap harinya. Oleh karena itu, perlu sebuah sistem yang dapat membantu pekerjaan pengolahan ketersediaan barang tersebut sehingga waktu yang digunakan dalam pekerjaan tersebut lebih efisien. Sistem data penjualan dan monitoring stok barang merupakan sebuah sistem\r\nyang dipakai dalam mempermudah melakukan proses inventarisasi barang. Sistem data penjualan dan monitoring stok barang yang dibuat berbasis website sehingga dapat digunakan admin kasir dan admin\r\ngudang. Penggunaan framework dan alat bantu lain dalam pengembangan sistem informasi mempermudah\r\ndalam menyelesaikan sistem data penjualan dan monitoring stok barang ini. Sistem ini memiliki 3 (tiga) fitur\r\nutama yaitu dapat melakukan pengelolaan data ketersediaan barang yang keluar dan masuk di gudang, dapat melakukan pengecekan data ketersediaan barang di toko serta pengolahan data penjualan setiap harinya, dan dapat mencetak laporan penjualan bulanan. Metode dalam proses jalannya penyelesaian proyek ini yaitu menggunakan metode scrum. Hasil setelah dilakukannya pengujian fungsionalitas  sistem yaitu seluruh fitur utama pada sistem dan seluruh fungsionalitas sistem ini berjalan dengan baik.\r\n\r\nKata Kunci : monitoring, scrum, website",
+      "volume": 4,
+      "publisher": "Yayasan Kita Menulis",
+      "divisions": [
+        "FT8"
+      ],
+      "publication": "JUKI : Jurnal Komputer dan Informatika",
+      "dir": "disk0_bak\/00\/04\/98\/96",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2722-4369",
+      "status_changed": "2023-04-08 13:28:57"
+    },
+    {
+      "eprint_status": "archive",
+      "eprintid": 49895,
+      "datestamp": "2023-04-08 13:28:53",
+      "metadata_visibility": "show",
+      "userid": 2822,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "image\/jpeg",
+            "main": "URL Korespondensi Jurnal 2.jpg",
+            "docid": 189571,
+            "files": [
+                {
+                  "fileid": 540143,
+                  "datasetid": "document",
+                  "mime_type": "image\/jpeg",
+                  "hash": "ff2e0c46a5e100cb88a0343c0ac826bd",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-08 06:53:40",
+                  "objectid": 189571,
+                  "filesize": 67466,
+                  "filename": "URL Korespondensi Jurnal 2.jpg",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540143"
+                }
+            ],
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189571",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49895
+          }
+      ],
+      "lastmod": "2023-04-08 13:28:53",
+      "type": "other",
+      "creators": [
+        {
+          "id": "resty.annisa@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Resty",
+            "given": "Annisa"
+          }
+        }
+      ],
+      "title": "URL Korespondensi untuk Jurnal berjudul Rekomendasi Klasifikasi Nasabah BSI Mengikuti Program Pesta Hadiah dan Labbaik Special Gift Menggunakan Algoritma C4. 5",
+      "subjects": [
+        "TA",
+        "ZA",
+        "ZA4050",
+        "ZA4450"
+      ],
+      "date_type": "submitted",
+      "abstract": "PT. Bank Syariah Indonesia KCP Bintaro Kebayoran Arcade 1 merupakan salah satu bank yang\r\nmenyediakan layanan program pesta hadiah dan program labbaik special gift terhadap nasabah dengan\r\nmelakukan pembukaan buku rekening serta melakukan deposito dengan nominal jumlah tertentu dan nantinya\r\nakan ditukarkan dengan hadiah dalam bentuk barang kepada nasabah. Pada PT. Bank Syariah Indonesia\r\nKCP Bintaro Kebayoran Arcade 1 penawaran kedua program tersebut terhadap nasabah terdapat masalah\r\ndikarenakan kedua program tersebut memerlukan deposito dengan nominal jumlah tertentu. Sedangkan, pihak\r\nnasabah yang berdatangan memiliki nominal saldo rekening, background pekerjaan, dan pendapatan yang\r\nberbeda-beda. Dengan menerapkan data mining dan menggunakan algoritma C4.5 data nasabah Bank\r\nSyariah Indonesia dapat diprediksi dengan accuracy yang cukup tinggi dengan menggunakan data training\r\ndan data testing sebesar 94.65% dan 88.18% dengan dua kasus split data yang berbeda.\r\n\r\nKata Kunci: Data Mining, Algoritma C4.5, RapidMiner",
+      "date": "2022-12-14",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49895",
+      "publisher": "Yayasan Kita Menulis",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0_bak\/00\/04\/98\/95",
+      "status_changed": "2023-04-08 13:28:53",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "ispublished": "submitted"
+    },
+    {
+      "rev_number": 9,
+      "ispublished": "pub",
+      "status_changed": "2022-12-19 10:08:17",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "dir": "disk0\/00\/04\/73\/27",
+      "divisions": [
+        "FT8"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47327",
+      "date": "2022-11-11",
+      "abstract": "Museum  Lampung  merupakan  kurator  dan  pemelihara  budaya  Lampung  serta memiliki  tanggung  jawab  yang  besar  agar  budaya  Lampung  ini  dapat  diwariskan secara utuh oleh generasi muda. Sosialisasi sejarah Lampung dengan menggunakan Virtual Reality membuka banyak peluang. Museum Lampung merupakan salah satu sumber  pengetahuan  masyarakat  ingin  mengetahui  lebih  jauh  tentang  sejarah Lampung.  Virtual  Reality  menempatkan  pengguna  di  dalam  dunia  virtual  untuk menciptakan  pengalaman  baru  di  lingkungan  digital  di  mana  objek digital  dapat berinteraksi secara real-time. Virtual reality memungkinkan informasi digital untuk memperkaya eksistensi yang dalam hal ini digunakan untuk menyebarkan informasi tentang  budaya  Lampung.  Penyebaran  informasi  melalui  virtual  reality,  sebagai bentuk pemanfaatan teknologi hijau, juga mengurangi jejak karbon yang dihasilkan dengan berwisata ke Museum Lampung. Selain itu, pandemi COVID-19 yang sedang berlangsung  berdampak  besar  terhadap  kinerja  Museum  Lampung  dalam mensosialisasikan sejarah Lampung. Metode yang digunakan untuk mengembangkan Museum Virtual Reality Lampung terdiri dari tujuh tahap yaitu Perumusan Masalah, Penentuan  Motivasi,  Pengembangan  Ide,  Perancangan, Pembuatan  Prototipe, Pengujian, Pengembangan Lanjutan, dan Implementasi\/Rilis. Aplikasi Virtual Reality Museum Lampung menyediakan fitur Virtual Tour. Ketersediaan Museum Virtual Reality  Lampung,  yang  merupakan bagian dari penelitian besar  tentang  teknologi hijau di Universitas Lampung, memungkinkan penyebaran sejarah Lampung secara progresif.",
+      "subjects": [
+        "Q1"
+      ],
+      "event_title": "SINTA 2022",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "Virtual Reality untuk Museum Lampung",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "eko@eng.unila.ac.id",
+          "name": {
+            "given": "Wahyu Eko",
+            "lineage": null,
+            "family": "Sulistiono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Muhammad",
+            "lineage": null,
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186342",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 47327,
+            "mime_type": "text\/html",
+            "language": "en",
+            "rev_number": 3,
+            "content": "published",
+            "main": 49,
+            "docid": 186342,
+            "files": [
+                {
+                  "mime_type": "text\/html",
+                  "hash": "0313a76f255301b1346abbc46f5bea40",
+                  "datasetid": "document",
+                  "fileid": 519409,
+                  "mtime": "2022-12-19 08:02:55",
+                  "hash_type": "MD5",
+                  "filename": 49,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/519409",
+                  "filesize": 3129,
+                  "objectid": 186342
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2022-12-19 10:08:17",
+      "official_url": "http:\/\/sinta.eng.unila.ac.id\/prosiding\/index.php\/ojs\/article\/view\/88\/49",
+      "userid": 28,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 47327,
+      "datestamp": "2022-12-19 10:08:17"
+    },
+    {
+      "date": 2022,
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universtias Lampung"
+      ],
+      "abstract": "—Kemajuan teknologi dalam bidang informasi dan komunikasi dapat digunakan untuk\r\nmengoptimalkan penanggulangan dan mitigasi bencana, Salah satunya adalah pengembangan sistem\r\ninformasi geografis. Sistem ini memberikan kemudahan dalam menyampaikan informasi dan memecahkan\r\npersoalan yang berkaitan dengan permukaan bumi terutama data mitigasi bencana mengenai daerah yang\r\nrawan banjir sehingga dapat tertangani lebih dini. Bencana banjir merupakan suatu bencana alam yang\r\nselaluterjadi di banyak kota dalam skala yang berbeda dimana air dengan jumlah debit yang berlebih\r\nberada di daratan rendah yang kering. dimana menurut data Badan Penanggulangan Bencana Daerah\r\n(BPBD) terdapat beberapa daerah yang merupakan titik rawan bencana terutama di kota Bandar Lampung\r\nyang diambil dari data bencana alam yang sering terjadi dalam kurun waktu beberapa tahun terakhir\r\ndiantaranya Teluk Betung Selatan, Teluk Betung Timur, Kedamaian, Rajabasa, Sukarame, Sukabumi dan\r\nBumiwaras. Untuk meminimalkan dampak bencana banjir ini dengan tersedianya pemetaan daerah rawan\r\nbanjir yang dapat digunakan untuk perencanaan, pengendalian dan penanggulangan dini. Sistem Informasi\r\nGeografis (SIG) merupakan salah satu alternatif dalam pemetaan daerah rawan banjir untuk cakupan\r\ndaerah yang luas dengan waktu yang relatif singkat. Pemetaan risiko banjir terdiri dari komponen data\r\nspasial dan atribut yang kemudian divisualisasikan menggunakan WebGIS.",
+      "ispublished": "pub",
+      "issn": "1978-6042",
+      "full_text_status": "public",
+      "publisher": "Universitas Lampung",
+      "related_url": [
+        {
+          "url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/2310"
+        }
+      ],
+      "documents": [
+          {
+            "main": "2310-Article Text-1024-1-10-20221101.pdf",
+            "docid": 185207,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 511629,
+                  "mime_type": "application\/pdf",
+                  "hash": "73e60a3d84e46cf8b87acf1b3d12e91a",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-07 03:28:12",
+                  "filesize": 373524,
+                  "objectid": 185207,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/511629",
+                  "filename": "2310-Article Text-1024-1-10-20221101.pdf"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 46322,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185207",
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/2310",
+      "number": 3,
+      "userid": 3232,
+      "pagerange": "360-364",
+      "id_number": "https:\/\/doi.org\/10.23960\/elc.v16n3.2310",
+      "eprint_status": "archive",
+      "eprintid": 46322,
+      "datestamp": "2022-11-07 04:07:51",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46322",
+      "volume": 16,
+      "subjects": [
+        "GE",
+        "T1"
+      ],
+      "date_type": "published",
+      "rev_number": 8,
+      "status_changed": "2022-11-07 04:07:51",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "divisions": [
+        "FT8"
+      ],
+      "dir": "disk0\/00\/04\/63\/22",
+      "lastmod": "2022-11-07 04:07:51",
+      "metadata_visibility": "show",
+      "contact_email": "trisya.septiana@eng.unila.ac.id",
+      "title": "Pemanfaatan SIG untuk Mengurangi Risiko Bencana Banjir di Kota\r\nBandar Lampung",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Trisya Septiana",
+            "lineage": null,
+            "given": "Trisya Septiana"
+          },
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "id": "mona.batubara@eng.unila.ac.id",
+          "name": {
+            "given": "Mona Arif Muda",
+            "honourific": null,
+            "lineage": null,
+            "family": "Mona Arif Muda"
+          }
+        },
+        {
+          "name": {
+            "given": "MAM",
+            "family": "Meizano Ardhi Muhammad",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "deny.budianto@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Deny Budiyanto",
+            "lineage": null,
+            "given": "Budiyanto"
+          }
+        }
+      ],
+      "type": "article"
+    }
+]
+

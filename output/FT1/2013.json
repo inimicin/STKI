@@ -1,0 +1,2613 @@
+[
+    {
+      "metadata_visibility": "show",
+      "eprintid": 8341,
+      "eprint_status": "archive",
+      "datestamp": "2018-07-03 09:50:10",
+      "documents": [
+          {
+            "format": "text",
+            "main": "PROCEEDINGS IGW 2013.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "4bba01bb3993a9b566dd5af01ce6c8db",
+                  "fileid": 82555,
+                  "datasetid": "document",
+                  "mtime": "2018-07-01 13:32:27",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/82555",
+                  "filename": "PROCEEDINGS IGW 2013.pdf",
+                  "objectid": 21389,
+                  "filesize": 1572536
+                }
+            ],
+            "docid": 21389,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 8341,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21389",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2018-07-03 09:50:10",
+      "userid": 662,
+      "refereed": "TRUE",
+      "title": "STRIPPING FILTER IMPLEMENTATION FOR INTERPRETATION TIME-LAPSE\r\nMICROGRAVITY DATA KAMOJANG FIELD 2006-2007",
+      "creators": [
+        {
+          "id": "zaenudin7209@gmail.com",
+          "name": {
+            "given": "Zaenudin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ahmad"
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8341",
+      "date": "2013-03-04",
+      "corp_creators": [
+        "Geophysical Engineering, University of Lampung"
+      ],
+      "abstract": "Filter stripping equation were derived from a prims\r\nmodel that was developed from Cordell’s (1985) and\r\nAina’s (1994) equations. Simulation of synthetic data\r\nat filter stripping uses parameters of a model giving a\r\nlarge error. Therefore, filter stripping needs to be\r\nmodified. The modification is done by adding a\r\nweighted factor (Ω) in the filter stripping equation.\r\nWeighted factor (Ω) range from 0.3 -0.7 related to\r\ncomplexity of object model. Growing complicated\r\nobject model then weighted factor value getting\r\nsmaller, and also do on contrary. Result show the\r\naddition of weighted factor can reduce error to 20-\r\n50%.\r\nImplementation stripping filter can separate\r\nmicrogravity anomalies as a result of reservoir mass\r\ndeficit due to exploiting of vapor and or addition of\r\nreservoir mass from geothermal injection wells from\r\ngravity anomaly as result of lowering of water table.\r\nDeficit district (dry-out) is show by negative\r\nmicrogravity time-lapse anomaly (-) and addition\r\nmass of injection water at reservoir (recharge) is\r\nshow by positive microgravity time-lapse anomaly\r\n(+). Negative microgravity time-lapse anomaly is\r\nrepresented as negative change of density anomaly ( -\r\n) and positive microgravity time-lapse anomaly (+) is\r\nas positive change of density.\r\nBased on time-lapse anomaly microgravity maps\r\nbetween period of July 07 to June 06, negative\r\nconcentration anomaly locates in western field that is\r\naround rim structures. This can be related to activity\r\nof production wells in the area. Based on 3D cross\r\nsection map at depth of 1100 m (+400 m asl), this\r\narea is represented by negative density from – 0.02\r\nup to – 0.04 gram\/cm3. This also proves that injection\r\namounts through injection well in the area is not\r\neffective. Positive anomaly is represented by\r\naccumulation of injection water from injection well\r\nand or accumulation of water meteoric flowing\r\nthrough faults.",
+      "dir": "disk0\/00\/00\/83\/41",
+      "publisher": "Magister Geothermal, ITB",
+      "publication": "PROCEEDINGS, 2nd ITB Geothermal Workshop 2013",
+      "divisions": [
+        "FT1"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2018-07-03 09:50:10",
+      "full_text_status": "public"
+    },
+    {
+      "publisher": "Asosiasi Panasbumi Indonesia (API)",
+      "divisions": [
+        "FT1"
+      ],
+      "publication": "PROCEEDINGS, 13th Indonesia International GEOTHERMAL Convention & Exhibition 2013",
+      "dir": "disk0\/00\/00\/83\/42",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2018-07-03 09:50:08",
+      "full_text_status": "public",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8342",
+      "date": "2013-06-12",
+      "corp_creators": [
+        "Geophysical Engineering, University of Lampung",
+        "Geophysical Engineering, University of Lampung",
+        "Geophysical Engineering, University of Lampung",
+        "Geophysical Engineering, University of Lampung",
+        "PSDG ESDM Bandung",
+        "PSDG ESDM Bandung"
+      ],
+      "volume": 13,
+      "abstract": "This study was conducted to model the geothermal system Arjuno-Welirang northern part from the MT and gravity data. MT modeling done in 2D and gravity in 3D. From 2D MT model\r\nof North-South trending shows model 2 layer resistivity, ie resistivity low (<10 Ohm.m) associated with basalt lava rock with clay mineral alteration and an alleged caprock. And layer with moderate resistivity (60-100 Ohm.m) associated with the Lower Quaternary andesite-old who is the reservoir system.\r\nDistribution of Bouguer anomaly reflects the lithology of rock on the surface. Relatively low anomalies in the North (25-28 mGal) allegedly associated with pyroclastic flows. High anomaly in the South (> 43 mGal) associated with Mount\r\nAnjasmoro products spread to the South West section with the composition of andesitic-basaltic lava. 28-40 mGal anomalies are thought to relate to Lava Welirang I spread toward the center of the North with the composition of basalt lava. From 3D models Bouguer anomaly inversion results show a layer with a density of 1.49 gr\/cm3 - 2.4 gr\/cm3 with clay type material which is suspected\r\nas caprock, located at a depth of 900 m - 2100 m DBMTS. There is a low density anomaly associated with Coban Hotspring. And layer with a density of 2.4 gr\/cm3 - 3.0 gr\/cm3 an alleged andesite reservoir, is at a depth of about ≥ 1.5 km DBMT.",
+      "refereed": "TRUE",
+      "title": "CAPROCK AND RESERVOIR INTERPRETATIO OF ARJUNO-WELIRANG GEOTHERMAL SYSTEM FROM 2D MT AND 3D GRAVITY MODEL",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Zaenudin",
+            "lineage": null,
+            "family": "Ahmad",
+            "honourific": null
+          },
+          "id": "zaenudin7209@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ferra Nidya",
+            "honourific": null,
+            "given": "FN"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Suharno",
+            "honourific": null,
+            "family": "Suharno",
+            "lineage": null
+          },
+          "id": "suharno@eng.unila.ac.id"
+        },
+        {
+          "id": "rustadi_2007@yahoo.com",
+          "name": {
+            "family": "Rustadi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Rustadi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Asep S",
+            "honourific": null,
+            "given": "AS"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "AZ",
+            "family": "Ahmad Zarkasyi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 8342,
+      "datestamp": "2018-07-03 09:50:08",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 8342,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21390",
+            "pos": 1,
+            "security": "public",
+            "main": "PROCEEDINGS IIGCE 2013-1.pdf",
+            "docid": 21390,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/82561",
+                  "filename": "PROCEEDINGS IIGCE 2013-1.pdf",
+                  "objectid": 21390,
+                  "filesize": 445242,
+                  "mtime": "2018-07-01 13:39:30",
+                  "hash_type": "MD5",
+                  "hash": "e5f830fef7f95088f7df283bd9a0aa20",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 82561
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2018-07-03 09:50:08",
+      "userid": 662
+    },
+    {
+      "type": "conference_item",
+      "pres_type": "other",
+      "creators": [
+        {
+          "id": "ordas.dewanto@eng.unila.ac.id",
+          "name": {
+            "given": "Ordas",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dewanto"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "bambang",
+            "lineage": null,
+            "family": "sugijono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suharso",
+            "lineage": null,
+            "given": "Suharso"
+          },
+          "id": "suharso@fmipa.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Pengaruh Material Clay (Kaolinite\/Illite) Terhadap Maturasi dan Potensi \r\nMaterial Organik Untuk Dasar Pengolahan Material Serpih Sebagai Energi Alternatif Pengganti BBM",
+      "eprintid": 33455,
+      "eprint_status": "archive",
+      "datestamp": "2021-08-18 01:18:01",
+      "pagerange": "62-66",
+      "metadata_visibility": "show",
+      "userid": 946,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "34. Article Ordas Dewanto, Bambang Soegijono, Suharso, PROSIDING SEMINAR NASIONAL FISIKA (E-JOURNAL) UNJ 2013.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "0e26a02cf0547de712b0e042af887849",
+                  "fileid": 396805,
+                  "datasetid": "document",
+                  "mtime": "2021-08-17 22:57:51",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/396805",
+                  "filename": "34. Article Ordas Dewanto, Bambang Soegijono, Suharso, PROSIDING SEMINAR NASIONAL FISIKA (E-JOURNAL) UNJ 2013.pdf",
+                  "filesize": 187733,
+                  "objectid": 153246
+                }
+            ],
+            "docid": 153246,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/153246",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 33455
+          }
+      ],
+      "lastmod": "2021-08-18 01:18:01",
+      "official_url": "http:\/\/journal.unj.ac.id\/unj\/index.php\/prosidingsnf\/issue\/view\/571",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/03\/34\/55",
+      "event_type": "conference",
+      "status_changed": "2021-08-18 01:18:01",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "subjects": [
+        "Q1",
+        "QD",
+        "QE"
+      ],
+      "event_title": "Seminar Nasional Fisika (E-Journal) SNF2013",
+      "date_type": "published",
+      "abstract": "Material serpih atau material organik sejenisnya, masuk dalam kategori kerogen tipe II. Untuk mengembangkan dan \r\nmembantu proses pengolahan atau pemanfaatan material organik tersebut, maka sangat perlu dilakukan penelitian yang lebih \r\nspesifik tentang material serpih berupa kelompok senyawa siklik\/alifatik yang berakumulasi di dalam material clay tersebut. \r\nMaterial clay yang mengandung kaolinite\/illite tentunya akan sangat mempengaruhi material organik tersebut, misalnya \r\njumlah kandungan organik karbon dalam clay dan kematangan termalnya. Pengukuran tingkat kematangan termal material \r\nclay-organik dilakukan berdasarkan harga temperatur maksimum (Tmax) dari analisis pirolisis. Hasil dari analisis \r\nmenunjukkan bahwa material clay dengan volume yang lebih besar dari pada material organik ternyata sangat berperan besar \r\ndalam proses maturasi. Kemudian jenis material clay yang didominasi oleh material karbonat, hasilnya menunjukkan \r\npenurunan pada proses maturasi. Selain itu ditentukan juga tipe material serpih menggunakan data pirolisis rock-eval. \r\nKombinasi antara indeks hidrogen (HI) dan Tmax pada diagram van Krevelen menunjukkan kerogen tipe II yang lebih \r\ncenderung berpotensi sebagai minyak dan gas.",
+      "date": "2013-06-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33455"
+    },
+    {
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21388",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 8340,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 21388,
+            "main": "Proceeding Basic Science Internt-2013.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "8c0b2dfa825eb3389c29ad286ce1a027",
+                  "fileid": 82547,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/82547",
+                  "filename": "Proceeding Basic Science Internt-2013.pdf",
+                  "objectid": 21388,
+                  "filesize": 58448658,
+                  "mtime": "2018-07-01 13:22:05",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2018-07-03 09:50:11",
+      "number": "P20-2",
+      "userid": 662,
+      "metadata_visibility": "show",
+      "eprintid": 8340,
+      "eprint_status": "archive",
+      "datestamp": "2018-07-03 09:50:11",
+      "refereed": "TRUE",
+      "title": "Magnetic Survey within Penantian Geothermal Area in Pasema Air Keruh, South Sumatra",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Frinsyah",
+            "honourific": null,
+            "given": "Virgo"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wahyudi",
+            "given": "W"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wiwit Suryanto",
+            "honourific": null,
+            "given": "WS"
+          },
+          "id": "ws@ugm.ac.id"
+        },
+        {
+          "name": {
+            "given": "Suharno",
+            "family": "Suharno",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "suharno@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ahmad",
+            "honourific": null,
+            "given": "Zaenudin"
+          },
+          "id": "zaenudin7209@gmail.com"
+        }
+      ],
+      "type": "article",
+      "date": "2013-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8340",
+      "corp_creators": [
+        "Physics Departement, Unsri",
+        "Physics Departement, UGM",
+        "Physics Departement, UGM",
+        "Geophysical Engineering, University of Lampung",
+        "Geophysical Engineering, University of Lampung"
+      ],
+      "abstract": "Magnetic survey has been conducted within\r\nPenantian geothermal area of Pasema Air Keruh, Empat\r\nLawang District, South Sumatra Province. The purpose of\r\nthe survey is to determine the subsurface geological\r\nstructures that act as a migration path to the surface of the geothermal fluid. Total magnetic field anomaly data\r\nobtained is transformed into a flat surface, and reduced to\r\nthe pole, then carried upward continuation. The result is a\r\nregional magnetic field anomaly, which describes the\r\nexistence of subsurface geological structures in the\r\nPenantian geothermal area.",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2018-07-03 09:50:11",
+      "full_text_status": "public",
+      "dir": "disk0\/00\/00\/83\/40",
+      "publication": "The Third Basic Science International Conference - 2013",
+      "divisions": [
+        "FT1"
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48641",
+      "date": "2013-11",
+      "abstract": "This study describe the research of fault structure in Lahendong –Tompaso geothermal field,  North  Sulawesi. Gravity  research  has  been  done  in  the  area  of  geothermal prospectto know the limit of fault structure based on Second Vertical Derivative (SVD)techniqueandBouguer anomaly analysis.From the Bouguer anomaly in this field, high anomaly in the north and the east field are related to the heat source, the low anomaly is about  Linau  lake,  Lahendong  and  Tompaso  which  was  probably  the  prospect  of geothermalreservoir  in  this  area.  Manifestations  of  geothermal  research  areas  such  as hot springs associated with the presence of a normal fault.This normal faultassociated also with the possibility of geothermal resrvoir.",
+      "subjects": [
+        "T1"
+      ],
+      "event_title": "Seminar Nasional Sains &Teknologi VLembaga Penelitian Universitas Lampung19-20 November 2013",
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2023-02-28 03:25:21",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/04\/86\/41",
+      "documents": [
+          {
+            "eprintid": 48641,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187990",
+            "format": "text",
+            "docid": 187990,
+            "main": "Satek-Intan-Sarkowi-Tamposo.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 530260,
+                  "mime_type": "application\/pdf",
+                  "hash": "7b4096372a114c721045c2c8fe3fdb3c",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-28 03:18:24",
+                  "filesize": 7055960,
+                  "objectid": 187990,
+                  "filename": "Satek-Intan-Sarkowi-Tamposo.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530260"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "official_url": "https:\/\/docplayer.info\/30089847-Analisis-struktur-patahan-daerah-panasbumi-lahendong-tompaso-sulawesi-utara-berdasarkan-data-second-vertical-derivative-svd-anomali-gayaberat.html",
+      "lastmod": "2023-02-28 03:25:21",
+      "userid": 816,
+      "pagerange": "212-223",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 48641,
+      "datestamp": "2023-02-28 03:25:21",
+      "event_location": "Bandar Lampung",
+      "event_dates": "19 November 2013",
+      "refereed": "TRUE",
+      "title": "ANALISISSTRUKTUR PATAHANDAERAH PANASBUMI LAHENDONG-TOMPASOSULAWESI UTARA BERDASARKAN DATA SECOND VERTICAL DERIVATIVE (SVD) ANOMALI GAYABERAT",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Lestari",
+            "honourific": null,
+            "given": "Intan"
+          },
+          "id": null
+        },
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "family": "Sarkowi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muh"
+          }
+        }
+      ]
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Intan",
+            "honourific": null,
+            "family": "Lestari",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Muh",
+            "honourific": null,
+            "family": "Sarkowi",
+            "lineage": null
+          },
+          "id": "muhsarkowi@gmail.com"
+        }
+      ],
+      "type": "conference_item",
+      "title": "Analisis Struktur Patahan Daerah Panas Bumi Lahendong Tompaso Sulawesi Utara Berdasarkan Data Second Vertical Gradient (SVD) Anomali Gaya Berat",
+      "event_dates": "19-20 November 2013",
+      "refereed": "TRUE",
+      "userid": 816,
+      "official_url": "https:\/\/docplayer.info\/30089847-Analisis-struktur-patahan-daerah-panasbumi-lahendong-tompaso-sulawesi-utara-berdasarkan-data-second-vertical-derivative-svd-anomali-gayaberat.html",
+      "lastmod": "2023-04-28 02:06:07",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "hash": "7b4096372a114c721045c2c8fe3fdb3c",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 547268,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547268",
+                  "filename": "Satek-Intan-Sarkowi-Tamposo.pdf",
+                  "objectid": 190522,
+                  "filesize": 7055960,
+                  "mtime": "2023-04-27 23:07:01",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Satek-Intan-Sarkowi-Tamposo.pdf",
+            "docid": 190522,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 50812,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190522"
+          }
+      ],
+      "datestamp": "2023-04-28 02:06:07",
+      "eprintid": 50812,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "212-223",
+      "full_text_status": "public",
+      "status_changed": "2023-04-28 02:06:07",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/08\/12",
+      "event_type": "conference",
+      "abstract": "This study describe the research of fault structure in Lahendong –Tompaso geothermal field,  North  Sulawesi. Gravity  research  has  been  done  in  the  area  of  geothermal prospectto know the limit of fault structure based on Second Vertical Derivative (SVD)techniqueandBouguer anomaly analysis.From the Bouguer anomaly in this field, high anomaly in the north and the east field are related to the heat source, the low anomaly is about  Linau  lake,  Lahendong  and  Tompaso  which  was  probably  the  prospect  of geothermalreservoir  in  this  area.  Manifestations  of  geothermal  research  areas  such  as hot springs associated with the presence of a normal fault.This normal faultassociated also with the possibility of geothermal resrvoir",
+      "date": "2013-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50812",
+      "date_type": "published",
+      "event_title": "Seminar Nasional Sains & Teknologi V",
+      "subjects": [
+        "T1"
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "event_dates": "12-13 November 2013",
+      "title": "ANALISIS DATA GRAVITY UNTUK MENENTUKAN STRUKTUR BAWAH PERMUKAAN DAERAH MANIFESTASI PANASBUMI DI LERENG SELATAN GUNUNG UNGARAN",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Melisa",
+            "lineage": null,
+            "given": "Melisa"
+          },
+          "id": null
+        },
+        {
+          "id": "sarkov323@yahoo.com",
+          "name": {
+            "given": "Muh",
+            "lineage": null,
+            "family": "Sarkowi",
+            "honourific": null
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "event_location": "Bandar Lampung Indonesia",
+      "pagerange": "181-193",
+      "metadata_visibility": "show",
+      "eprintid": 22333,
+      "eprint_status": "archive",
+      "datestamp": "2020-06-12 05:00:17",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Paper-ANALISIS DATA GRAVITY UNTUK MENENTUKAN ...Meilisa dan Muh. - PDF Download Gratis.pdf",
+            "docid": 35749,
+            "files": [
+                {
+                  "objectid": 35749,
+                  "filesize": 224915,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/205260",
+                  "filename": "Paper-ANALISIS DATA GRAVITY UNTUK MENENTUKAN ...Meilisa dan Muh. - PDF Download Gratis.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-12 04:24:49",
+                  "datasetid": "document",
+                  "fileid": 205260,
+                  "mime_type": "application\/pdf",
+                  "hash": "9fa26b0ebd8144e0a7e50adfec09d01c"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35749",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 22333
+          }
+      ],
+      "lastmod": "2020-06-12 05:00:17",
+      "official_url": "https:\/\/docplayer.info\/32254585-Analisis-data-gravity-untuk-menentukan-struktur-bawah-permukaan-daerah-manifestasi-panasbumi-di-lereng-selatan-gunung-ungaran-meilisa-dan-muh.html",
+      "userid": 816,
+      "event_type": "conference",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/02\/23\/33",
+      "related_url": [
+        {
+          "url": "https:\/\/docplayer.info\/32254585-Analisis-data-gravity-untuk-menentukan-struktur-bawah-permukaan-daerah-manifestasi-panasbumi-di-lereng-selatan-gunung-ungaran-meilisa-dan-muh.html"
+        }
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-06-12 05:00:17",
+      "full_text_status": "public",
+      "subjects": [
+        "T1"
+      ],
+      "event_title": "Seminar Nasional Sains & Teknologi VLembaga Penelitian Universitas Lampung",
+      "date_type": "published",
+      "date": "2013-11-13",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22333",
+      "abstract": "The geothermal  manifestations  such  as fumaroles  on  the  southernof  the  mountain Ungaran  in Gedongsongo  and  surrounding  encourage  geophysical  survey  by  gravity methods. This  study  aims  to interpretthe  subsurface structureconditionssuch  as reservoirand geological structures that control the manifestation in the area.This study has  been identified  using  data  processing  second  vertical  derivative  and  3D  inversion modelling  Bouguer  Anomaly.Bouguer  anomalyvaluehas low  anomaly  less  than  27 mGal in the northern area of research and high anomaly over 27 mGal in the northeast-southwest  areaof  research.   Large  structures  from  north  to  south  region  control  these manifestations. Geothermal  reservoir  area  has  a  density  value  is  lower  than  the surrounding area because the reservoir associated with fault structures"
+    },
+    {
+      "projects": [
+        "HIBAH BERSAING"
+      ],
+      "date": 2013,
+      "abstract": "Near-surface temperature mapping survey has been conducted in the area of Way Ratai\r\ngeothermal prospects. The tools used in this study is the temperature sticks.\r\nTemperature mapping results showed a trend towards horizontal temperature will\r\ndecrease measurement time getting away from geothermal manifestations.\r\nTemperatures were calculated in the study area ranged from 27.9 ° C to 61.0 ° C. As for\r\nthe vertical temperature gradient is obtained increasing the depth of the measured\r\ntemperature increases.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "official_url": "http:\/\/repository.lppm.unila.ac.id",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24123",
+            "pos": 1,
+            "eprintid": 11129,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 24123,
+            "main": "satek V nandi karyanto.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-04-10 21:15:50",
+                  "objectid": 24123,
+                  "filesize": 755884,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/101712",
+                  "filename": "satek V nandi karyanto.pdf",
+                  "datasetid": "document",
+                  "fileid": 101712,
+                  "hash": "a420be110fef16c3ed0f607bc6c3685f",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "userid": 827,
+      "pagerange": "280-287",
+      "datestamp": "2019-05-02 04:17:33",
+      "eprint_status": "archive",
+      "eprintid": 11129,
+      "event_location": "Bandarlampung",
+      "refereed": "TRUE",
+      "event_dates": "19-20 Nopember 2013",
+      "pres_type": "speech",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11129",
+      "date_type": "published",
+      "subjects": [
+        "QE",
+        "T1"
+      ],
+      "event_title": "SATEK V",
+      "rev_number": 8,
+      "status_changed": "2019-05-02 04:17:33",
+      "event_type": "conference",
+      "funders": [
+        "RISEK_DIKTI"
+      ],
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/01\/11\/29",
+      "lastmod": "2019-05-02 04:17:33",
+      "metadata_visibility": "show",
+      "title": "INTERPRETASI KUALITATIF SUHU PERMUKAAN DI POTENSI PANASBUMI WAY RATAI LAMPUNG",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "nandi.haerudin@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nandi Haerudin",
+            "given": "NH"
+          }
+        }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1300",
+            "eprintid": 1426,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "AIP Scopus_Nandi.pdf",
+            "docid": 1300,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-02-02 06:24:38",
+                  "objectid": 1300,
+                  "filesize": 1106977,
+                  "filename": "AIP Scopus_Nandi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9646",
+                  "fileid": 9646,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "09803a646a82725d41d298deee902773"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2017-02-06 01:10:25",
+      "official_url": "http:\/\/proceedings.aip.org\/dbt\/dbt.jsp?KEY=APCPCS&Volume=1554&Issue=1",
+      "userid": 827,
+      "pagerange": "218-221",
+      "metadata_visibility": "show",
+      "eprintid": 1426,
+      "eprint_status": "archive",
+      "datestamp": "2017-02-06 01:10:25",
+      "refereed": "TRUE",
+      "title": "Radon and Thoron Analysis of Soil Gas Survey Case Study of Rajabasa Geothermal Field",
+      "type": "article",
+      "creators": [
+        {
+          "id": "nandi.haerudin@eng.ac.id",
+          "name": {
+            "given": "NH",
+            "lineage": null,
+            "family": "Nandi Haerudin",
+            "honourific": null
+          }
+        },
+        {
+          "id": "pwahyudi@yahoo.com",
+          "name": {
+            "given": "WH",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wahyudi"
+          }
+        },
+        {
+          "id": "ws@ugm.ac.id",
+          "name": {
+            "given": "WS",
+            "honourific": null,
+            "family": "Wiwit Suryanto",
+            "lineage": null
+          }
+        }
+      ],
+      "date": "2013-09-20",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1426",
+      "volume": 1554,
+      "abstract": "Radon and Thoron concentration of soil gas was measured by Scintrex Radon detector RDA 200 in the\r\nRajabasa geothermal field, South Lampung regency, Indonesia. This study is aimed todeterminethe buried fault\r\nzoneunder theoverburdenlayer. The survey areacovers three geothermal manifestations in the southern part of\r\nRajabasageothermalfield. The result indicates fault system trending SW-NE (N 60o E) and SSW-NNE (N 8o E). The\r\ncontour map of Radon concentration performed high value in the three manifestations which was included survey area;\r\nthose are 123 cpm in Gunung Botak hot spring, 145 cpm in Kunjir fumarole and 382 cpm about 300 m from Bulakan\r\n(Way Belerang) fumarole. Three manifestations were connected by two fault. The first fault passed begin from Gunung\r\nBotak directed to Kunjir and the other across the first fault from SSW to Bulakan. The contour map of Radon and\r\nThoron ratio indicated that the second fault system is not only indicate the presence of the fault \/fracture zones but also\r\nshow the extension of the faults\/fractures from the depth to the surface.",
+      "subjects": [
+        "QC",
+        "QE",
+        "TA",
+        "TN"
+      ],
+      "date_type": "published",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "status_changed": "2017-02-06 01:10:25",
+      "full_text_status": "public",
+      "issn": "1551-7616",
+      "publisher": "AIP Publishing LLC",
+      "publication": "AIP Conf. Proc.",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/00\/14\/26"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2022-07-06 01:15:11",
+      "eprintid": 42972,
+      "eprint_status": "archive",
+      "lastmod": "2022-07-06 01:15:11",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164786",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 42972,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "2013 UPN Interpretation Gab-X.pdf",
+            "files": [
+                {
+                  "fileid": 470432,
+                  "datasetid": "document",
+                  "hash": "ae183ad9ec51ddc73aa5c843a58a36da",
+                  "mime_type": "application\/pdf",
+                  "objectid": 164786,
+                  "filesize": 4255558,
+                  "filename": "2013 UPN Interpretation Gab-X.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/470432",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-05 09:40:30"
+                }
+            ],
+            "docid": 164786,
+            "format": "text"
+          }
+      ],
+      "userid": 886,
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rasimeng",
+            "honourific": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "title": "INTERPRETATION OF CURIE POINT DEPTH AND THERMAL GRADIENT \r\nBASED ON MAGNETIC ANOMALY DATA AT SOUTHERN SUMATRA \r\nGEOTHERMAL AREA",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rasimeng",
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "subjects": [
+        "TA",
+        "TN"
+      ],
+      "date": 2013,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42972",
+      "abstract": "Curie  point  depth  (CPD)  is  Curie  temperature  depth  where  magnetic  mineral  lost  its  magneticity. \r\nCurie  temperature  generally  higher  on  mafic  frozen  rock  than  on  any  other  rock.  because  of  its \r\nhigher  titano-magnetic  content.  The  magnetic  field  induction  value  depends  on  rock  minerals,  so  it \r\ncan  be  used  to  determine  the  depth  of   the  rock.  Magnetic  field  anomaly  are  series  of  signals \r\nmagnitude  as  the  respon  of  rock  composing  material  under  the  surface.  Power  spectrum  application \r\nfor  that  signals  magnitude  can  be  used  to  determine  lower  surface  rock  mass  depth  including  CPD \r\nand thermal gradient. Tectonic activity along Sumatra Fault System (SFS) allow the emergence of \r\nCPD  depth  variation  and   thermal  gradient.  Southern  Sumatera  as  part  of  this  system  become  the \r\nfocus of this research, because it has geothermal potential indicated by numbers of fluid manifest \r\ndistribution  on  the  surface.  Result  of  thermal  gradient  analysis  obtained  from  CPD  variation \r\ninformed that value of thermal gradient was 4 0-7 50\r\nC\/km on shallow CPD area ( 8-15 km). That area \r\ndivided Sumatera  island and  extended  to North  West – South  East direction. Geologically,  southern \r\nSumatera  also part  of  magmatic  arc  area  as  the  SFS  product, so it is possibly become geothermal \r\nprospect  area",
+      "corp_creators": [
+        "Teknik Geofisika, FT UNILA"
+      ],
+      "publisher": "Seminar Nasional Kebumian-VII",
+      "dir": "disk0\/00\/04\/29\/72",
+      "divisions": [
+        "FT1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "status_changed": "2022-07-06 01:15:11"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Syamsurijal",
+            "lineage": null,
+            "family": "Rasimeng",
+            "honourific": null
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "Lembar Plagiarism: INTERPRETATION OF CURIE POINT DEPTH AND THERMAL GRADIENT BASED ON MAGNETIC ANOMALY DATA AT SOUTHERN SUMATRA GEOTHERMAL AREA",
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "eprintid": 32939,
+      "eprint_status": "archive",
+      "datestamp": "2021-06-30 01:16:52",
+      "metadata_visibility": "show",
+      "contributors": [
+        {
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rasimeng",
+            "given": "Syamsurijal"
+          }
+        }
+      ],
+      "userid": 886,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 32939,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/150168",
+            "security": "public",
+            "docid": 150168,
+            "main": "2013_Prosiding_UPN_Interpretation Curie Depth PLG.pdf",
+            "files": [
+                {
+                  "hash": "8c276a98c7470fde54cd041f5140d0c3",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 390086,
+                  "mtime": "2021-06-29 10:35:44",
+                  "hash_type": "MD5",
+                  "filename": "2013_Prosiding_UPN_Interpretation Curie Depth PLG.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/390086",
+                  "filesize": 462370,
+                  "objectid": 150168
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2021-06-30 01:16:52",
+      "publisher": "Fakultas Teknologi Mineral UPN Yogyakarta",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/03\/29\/39",
+      "status_changed": "2021-06-30 01:16:52",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "subjects": [
+        "TA",
+        "TN"
+      ],
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ],
+      "abstract": "Curie point depth (CPD) is Curie temperature depth where magnetic mineral lost its magneticity.\r\nCurie temperature generally higher on mafic frozen rock than on any other rock. because of its\r\nhigher titano-magnetic content. The magnetic field induction value depends on rock minerals, so it\r\ncan be used to determine the depth of the rock. Magnetic field anomaly are series of signals\r\nmagnitude as the respon of rock composing material under the surface. Power spectrum application\r\nfor that signals magnitude can be used to determine lower surface rock mass depth including CPD\r\nand thermal gradient. Tectonic activity along Sumatra Fault System (SFS) allow the emergence of\r\nCPD depth variation and thermal gradient. Southern Sumatera as part of this system become the\r\nfocus of this research, because it has geothermal potential indicated by numbers of fluid manifest\r\ndistribution on the surface. Result of thermal gradient analysis obtained from CPD variation\r\ninformed that value of thermal gradient was 40-750C\/km on shallow CPD area (8-15 km). That area\r\ndivided Sumatera island and extended to North West – South East direction. Geologically, southern\r\nSumatera also part of magmatic arc area as the SFS product, so it is possibly become geothermal\r\nprospect area.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32939",
+      "date": 2013
+    },
+    {
+      "publisher": "Fakultas Teknologi Mineral UPN Yogyakarta",
+      "dir": "disk0\/00\/03\/30\/16",
+      "divisions": [
+        "FT1"
+      ],
+      "status_changed": "2021-07-05 01:09:38",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "TN"
+      ],
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ],
+      "date": 2013,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33016",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "family": "Rasimeng",
+            "lineage": null,
+            "honourific": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "title": "Peer Reviewer: Interpretation of Curie Point Depth and Thermal Gradient Based on Magnetic Anomaly Data at Southern Sumatera Geothermal Area.",
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "eprint_status": "archive",
+      "eprintid": 33016,
+      "datestamp": "2021-07-05 01:09:38",
+      "metadata_visibility": "show",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Rasimeng",
+            "lineage": null,
+            "honourific": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        }
+      ],
+      "userid": 886,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/150603",
+            "pos": 1,
+            "eprintid": 33016,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "2013 UPN Interpretation Gab-X.pdf",
+            "docid": 150603,
+            "files": [
+                {
+                  "mtime": "2021-07-01 23:31:40",
+                  "hash_type": "MD5",
+                  "filename": "2013 UPN Interpretation Gab-X.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/391046",
+                  "filesize": 3715327,
+                  "objectid": 150603,
+                  "hash": "5709eba3656282ea06c4c48991517b9a",
+                  "mime_type": "application\/pdf",
+                  "fileid": 391046,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2021-07-05 01:09:38"
+    },
+    {
+      "userid": 886,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Rasimeng",
+            "lineage": null,
+            "given": "Syamsurijal"
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Wawan",
+            "honourific": null,
+            "family": "WGA Kadir",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Grandis",
+            "lineage": null,
+            "given": "Hendra"
+          },
+          "id": null
+        }
+      ],
+      "official_url": "https:\/\/upnyk.ac.id\/berita\/seminar-nasional-kebumian-viii-2013",
+      "documents": [
+          {
+            "docid": 147243,
+            "main": "2013_Prosiding_UPN_Interpretation Curie Depth.pdf",
+            "files": [
+                {
+                  "hash": "042b1371ec8920d4e01470b9cb3fd080",
+                  "mime_type": "application\/pdf",
+                  "fileid": 383945,
+                  "datasetid": "document",
+                  "mtime": "2021-06-09 12:57:13",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/383945",
+                  "filename": "2013_Prosiding_UPN_Interpretation Curie Depth.pdf",
+                  "filesize": 1545588,
+                  "objectid": 147243
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 32444,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/147243",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2021-06-09 14:35:46",
+      "eprint_status": "archive",
+      "eprintid": 32444,
+      "pagerange": "209-217",
+      "event_location": "Yogyakarta",
+      "pres_type": "paper",
+      "event_dates": "5 September 2013",
+      "refereed": "TRUE",
+      "abstract": "Curie point depth (CPD) is Curie temperature depth where magnetic mineral lost its magneticity. Curie temperature generally higher on mafic frozen rock than on any other rock. because of its higher titano-magnetic content. The magnetic field induction value depends on rock minerals, so it can be used to determine the depth of the rock. Magnetic field anomaly are series of signals magnitude as the responds of rock composing material under the surface. Power spectrum application for that signals magnitude can be used to determine lower surface rock mass depth including CPD and thermal gradient. Tectonic activity along Sumatra Fault System (SFS) allow the emergence of CPD depth variation and thermal gradient. Southern Sumatera as part of this system become the focus of this research, because it has geothermal potential indicated by numbers of fluid manifest distribution on the surface. Result of thermal gradient analysis obtained from CPD variation informed that value of thermal gradient was 40-750C\/km on shallow CPD area (8-15 km). That area divided Sumatera island and extended to North West – South East direction. Geologically, southern Sumatera also part of magmatic arc area as the SFS product, so it is possibly become geothermal prospect area.",
+      "corp_creators": [
+        "Teknik Geofisika FT UNILA"
+      ],
+      "date": "2013-09-05",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/upnyk.ac.id\/berita\/seminar-nasional-kebumian-viii-2013"
+        }
+      ],
+      "lastmod": "2021-06-09 14:35:46",
+      "metadata_visibility": "show",
+      "contact_email": "syamsurijal.rasimeng@eng.unila.ac.id",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "given": "Syamsurijal",
+            "family": "Rasimeng",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "syamsurijal.rasimeng@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "WGA Kadir",
+            "family": "Wawan G.A. Kadir",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hendra",
+            "honourific": null,
+            "family": "Grandis",
+            "lineage": null
+          }
+        }
+      ],
+      "title": "INTERPRETATION OF CURIE POINT DEPTH AND THERMAL GRADIENT BASED ON MAGNETIC ANOMALY DATA AT SOUTHERN SUMATRA GEOTHERMAL AREA",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32444",
+      "date_type": "published",
+      "subjects": [
+        "TA",
+        "TN"
+      ],
+      "event_title": "Seminar Nasional Kebumian-VII UPN Yogyakarta",
+      "status_changed": "2021-06-09 14:35:46",
+      "rev_number": 8,
+      "dir": "disk0\/00\/03\/24\/44",
+      "divisions": [
+        "FT1"
+      ],
+      "event_type": "conference"
+    },
+    {
+      "metadata_visibility": "show",
+      "lastmod": "2023-04-28 02:06:31",
+      "title": "Understanding the Time-Lapse Microgravity\r\nResponse due to Subsidence and Groundwater\r\nLevel Lowering",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Djoko",
+            "family": "Santoso",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kadir,",
+            "given": "W.G.A"
+          }
+        },
+        {
+          "name": {
+            "given": "Susanti",
+            "honourific": null,
+            "lineage": null,
+            "family": "Alawiyah"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Setianingsih",
+            "honourific": null,
+            "lineage": null,
+            "family": "Setianingsih"
+          }
+        },
+        {
+          "name": {
+            "given": "Eko",
+            "honourific": null,
+            "family": "Wahyudi",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "given": "Muh",
+            "lineage": null,
+            "family": "Sarkowi",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suhayat Minardi",
+            "given": "SM"
+          }
+        }
+      ],
+      "type": "book_section",
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50816",
+      "volume": 1,
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/08\/16",
+      "rev_number": 8,
+      "status_changed": "2023-04-28 02:06:31",
+      "pagerange": "27-49",
+      "datestamp": "2023-04-28 02:06:31",
+      "eprint_status": "archive",
+      "eprintid": 50816,
+      "id_number": "978-602-262-308-3",
+      "official_url": "https:\/\/www.amazon.com\/Contribution-Geosciences-Human-Security\/dp\/3832531130",
+      "pages": 260,
+      "documents": [
+          {
+            "eprintid": 50816,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190526",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 547301,
+                  "datasetid": "document",
+                  "hash": "9fe5ed4d08e0d9a6f83b4278845b8ffb",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-27 23:54:30",
+                  "filesize": 1880187,
+                  "objectid": 190526,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547301",
+                  "filename": "BookChapterF.pdf"
+                }
+            ],
+            "main": "BookChapterF.pdf",
+            "docid": 190526,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 816,
+      "number": 1,
+      "refereed": "TRUE",
+      "isbn": "978-602-262-308-3",
+      "place_of_pub": "Jepang",
+      "book_title": "The Contribution of Geoscience to Human Security",
+      "series": "978-602-262-308-3",
+      "date": "2013-06",
+      "abstract": "Currently, Indonesia has several environmental and energy sustainability problems. Some \r\nenvironmental problems are in highly-populated cities that have a high potential for natural \r\ndisasters and energy resources problem due to the geological condition of Indonesia as an \r\nactive island arc. The increasing population and industry have greatly imparted the excessive \r\nextracting of groundwater and energy. These matters cause natural disasters, such as \r\nsubsidence and groundwater level lowering. To handle these situations, it is important to \r\nimprove and develop 4D geophysical methods used for solving environmental and energy \r\nproblems. In this research, we have applied and developed the time-lapse (4D) microgravity \r\nmethod to identify and deeper the understanding of the subsidence and groundwater level \r\nlowering areas, especially in densely-populated residential areas.",
+      "publisher": "Logos Verlag",
+      "ispublished": "pub",
+      "full_text_status": "public"
+    },
+    {
+      "date_type": "published",
+      "event_title": "Seminar Nasional Sains dan Teknologi V",
+      "subjects": [
+        "T1"
+      ],
+      "abstract": "Telah  dilakukan  pengukuran  gayaberat  mikro  secara  berulang  di  daerah  panas\r\nbumi \r\nUlubelu  sebanyak  tiga  kali  yaitu  Januari  2010,  Juli  2012  dan  September  2013  dengan \r\ntujuan untuk mengetahui dinamika fluida di bawah permukaan. Pengukuran gayab\r\nerat \r\nmikro   digunakan   gravimeter   Scintrex   Autograv   CG\r\n-\r\n5   dengan   ketelitian   1   mGal. \r\nAnomali  4D  microgravity  merupakan  selisih  nilai  gayaberat  observasi  pengukuran \r\nperiode  1  dengan  pe\r\nriode  berikutnya.  Hasil  pengolahan  data  4D microgravity  periode Juli  2012 – Januari  2010 \r\nmempunyai  nilai  dari - anomali  rendah  berada  di  bagian  Timur  daerah  penelitian,  sedangkan  anomali  tinggi berada di bagian Barat dan Selatan daerah penelitian. Kontur anomali mempunyai pola melebar yang menunjukkan bahwa perubahan dinamika fluida terjadi pada daerah yang dangkal  bukan  dari  bagian  dalam  (reservoir).  Hal  ini  karena  pada  periode  tersebut \r\nbelum terjadi proses produksi steam dan brine dari sumur produksi panasbumi. Anomali  4D  microgravity  periode  September  2013 – Juli  2013 mempunyai  nilai  dari -\r\npenelitian  sesuai  dengan  keberadaan  sumur  produksi  di  daerah  tersebut.  Anomali  ini kemungkinan  disebabkan  oleh  proses  produksi  steam  dan  brine  dari  sumur  produksi yang  ada  pada  daerah  tersebut,  hal  ini  karena  pada  periode  tersebut  proses  produksi steam  dan  brine  telah  dilakukan.  Proses  produksi  steam  dan  brine  menyebabkan terjadinya  pengurangan  fluida sehingga  menyebabkan  penurunan  nilai  gayaberat  di daerah tersebut. Sedangkan  anomali  tinggi  berada  di  bagian  Barat  dan  Timur  daerah penelitian serta pada dua buah cluster sumur injeksi yaitu : UBL 23, UBL 18 dan UBL 21 \r\n– UBL17.  Anomali  positif  ini  kemungkinan  disebabkan  oleh  adanya  proses  injeksi brine di kedua sumur tersebut dan kemungkinan juga karena adanya proses recharge di \r\ndaerah tersebut.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22360",
+      "date": "2013-11",
+      "related_url": [
+        {
+          "url": "https:\/\/docplayer.info\/29910812-Analisa-anomali-4d-microgravity-daerah-panasbumi-ulubelu-lampung-periode-muh-sarkowi.html"
+        }
+      ],
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/02\/23\/60",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2020-06-12 08:45:54",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "datestamp": "2020-06-12 08:45:54",
+      "eprint_status": "archive",
+      "eprintid": 22360,
+      "metadata_visibility": "show",
+      "pagerange": "232-240",
+      "userid": 816,
+      "lastmod": "2020-06-12 08:45:54",
+      "official_url": "https:\/\/docplayer.info\/29910812-Analisa-anomali-4d-microgravity-daerah-panasbumi-ulubelu-lampung-periode-muh-sarkowi.html",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Paper-Sarkowi-2013-ANALISA ANOMALI 4D MICROGRAVITY DAERAH PANASBUMI ULUBELU LAMPUN.pdf",
+            "docid": 35780,
+            "files": [
+                {
+                  "mtime": "2020-06-12 06:48:34",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/205442",
+                  "filename": "Paper-Sarkowi-2013-ANALISA ANOMALI 4D MICROGRAVITY DAERAH PANASBUMI ULUBELU LAMPUN.pdf",
+                  "filesize": 877512,
+                  "objectid": 35780,
+                  "hash": "ceb8c3e989a6a6ace03cdec06f8aa5ee",
+                  "mime_type": "application\/pdf",
+                  "fileid": 205442,
+                  "datasetid": "document"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35780",
+            "eprintid": 22360,
+            "placement": 1
+          }
+      ],
+      "creators": [
+        {
+          "id": "sarkov323@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Sarkowi",
+            "lineage": null,
+            "given": "Muh"
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "title": "ANALISA ANOMALI 4D MICROGRAVITY DAERAH PANASBUMI ULUBELU\r\nLAMPUNG PERIODE 2010 - 2013",
+      "event_dates": "19 - 20 November 2013",
+      "refereed": "TRUE",
+      "event_location": "Bandar Lampung Indonesia"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Muh",
+            "family": "Sarkowi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "muhsarkowi@gmail.com"
+        }
+      ],
+      "title": "SImilirity Analisa Anomali 4D Microgravity Daerah Panasbumi Ulubelu Periode 2010 - 2013",
+      "eprintid": 50934,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-02 07:35:45",
+      "metadata_visibility": "show",
+      "userid": 816,
+      "documents": [
+          {
+            "format": "text",
+            "docid": 190648,
+            "main": "PaperFullSantek4DUlubeluF2013.pdf",
+            "files": [
+                {
+                  "mtime": "2023-05-02 04:23:23",
+                  "hash_type": "MD5",
+                  "filename": "PaperFullSantek4DUlubeluF2013.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548192",
+                  "filesize": 1486490,
+                  "objectid": 190648,
+                  "mime_type": "application\/pdf",
+                  "hash": "431b30ec40f837b6f955bef7e004016a",
+                  "fileid": 548192,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 50934,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190648",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2023-05-02 07:35:45",
+      "publisher": "Sarkowi",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/09\/34",
+      "status_changed": "2023-05-02 07:35:45",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "completed",
+      "abstract": "SImilirity Analisa Anomali 4D Microgravity Daerah Panasbumi Ulubelu Periode 2010 - 2013",
+      "date": 2013,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50934"
+    },
+    {
+      "title": "Similirity Identifikasi Zona Pengurangan Air Tanah Berdasarkan Model 3D Gayaberat Mikro Antar Waktu",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sarkowi",
+            "honourific": null,
+            "given": "Muh"
+          },
+          "id": "muhsarkowi@gmail.com"
+        }
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "datestamp": "2023-05-02 09:02:49",
+      "eprint_status": "archive",
+      "eprintid": 50953,
+      "lastmod": "2023-05-02 09:02:49",
+      "documents": [
+          {
+            "main": "31-JurnalMipaIdentifikasiZonaPenguranganAIr.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 548312,
+                  "mime_type": "application\/pdf",
+                  "hash": "f19b79442af7aca903d2c1fa6b58cf1f",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-02 07:51:30",
+                  "filesize": 1325192,
+                  "objectid": 190666,
+                  "filename": "31-JurnalMipaIdentifikasiZonaPenguranganAIr.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548312"
+                }
+            ],
+            "docid": 190666,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 50953,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190666",
+            "security": "public"
+          }
+      ],
+      "userid": 816,
+      "publisher": "sarkowi",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/09\/53",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2023-05-02 09:02:49",
+      "subjects": [
+        "AC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50953",
+      "date": 2013,
+      "abstract": "Similirity Identifikasi Zona Pengurangan Air Tanah Berdasarkan Model 3D Gayaberat Mikro Antar Waktu"
+    },
+    {
+      "title": "Similirity Microseismic Data Analysis Using Matlab 2010 For The Determination Of Hydrocarbon Presence In The Field \"LLCY\" Ombilin Basin",
+      "creators": [
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sarkowi",
+            "given": "Muh"
+          }
+        }
+      ],
+      "type": "other",
+      "lastmod": "2023-05-02 07:35:08",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190636",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50922,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 190636,
+            "main": "13-PaperIPA-LUCY.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "3b98ec790b59d4f7c41e6c0c5fc18330",
+                  "datasetid": "document",
+                  "fileid": 548103,
+                  "filename": "13-PaperIPA-LUCY.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548103",
+                  "objectid": 190636,
+                  "filesize": 1271320,
+                  "mtime": "2023-05-02 03:38:19",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 816,
+      "metadata_visibility": "show",
+      "datestamp": "2023-05-02 07:35:08",
+      "eprint_status": "archive",
+      "eprintid": 50922,
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "status_changed": "2023-05-02 07:35:08",
+      "publisher": "Sarkowi",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/09\/22",
+      "date": 2013,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50922",
+      "abstract": "Similirity Microseismic Data Analysis Using Matlab 2010 For The Determination Of Hydrocarbon Presence In The Field \"LLCY\" Ombilin Basin",
+      "date_type": "completed",
+      "subjects": [
+        "AC"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 28156,
+      "datestamp": "2021-03-03 02:05:36",
+      "lastmod": "2021-03-03 02:05:36",
+      "userid": 1070,
+      "refereed": "TRUE",
+      "title": "EKSPLORASI GEOTHERMAL",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suharno",
+            "honourific": null,
+            "given": "Suharno"
+          },
+          "id": "suharno@eng.unila.ac.id"
+        }
+      ],
+      "type": "book",
+      "isbn": 9789798510649,
+      "subjects": [
+        "TN"
+      ],
+      "date": "2013-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28156",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "publisher": "LEMBAGA PENELITIAN UNIVERSITAS LAMPUNG, Bandar Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/02\/81\/56",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2021-03-03 02:05:36",
+      "full_text_status": "none"
+    },
+    {
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "Key Note Paper , Seminar Nasional Pembelajaran Fisika UNP Padang, 2 November 2013",
+      "publication": "Key Note Paper , Seminar Nasional Pembelajaran Fisika UNP Padang, 2 November 2013",
+      "dir": "disk0\/00\/02\/81\/28",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2021-03-04 03:23:35",
+      "full_text_status": "public",
+      "subjects": [
+        "QC"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28128",
+      "date": "2013-11-02",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Indonesia memiliki cadangan energi panas bumi terbesar di dunia mencapai 40% dari seluruh\r\ncadangan sumber energi panas bumi dunia. Indonesia merencanakan power plant dengan\r\ntenaga panas bumi berkapasitas 9500 MWe pada tahun 2025 yang didukung oleh UU No 27\r\ntahun 2003 tentang energi panas bumi. Sumber panasbumi berasal dari distribusi suhu dan\r\nenergi panas di bawah permukaan bumi. Energi panasbumi dapat diklasifikasikan berdasarkan\r\nsumber panasnya menjadi lima bagian: (1) energi magma (magma energy), (2) energi panas\r\nbatuan kering (hot dry rock energy), (3) energi bumi (earth energy), (4) energi tekanan bumi\r\n(geopresure energy), dan (5) energi hidrotermal (hydrothermal energy). Energi hidrotermal\r\nadalah energi panas bumi, yang berupa energi panas yang tersimpan di dalam fluida dan\r\nbatuan di bawah permukaan bumi. Sumber panasbumi berasal dari distribusi suhu dan energi\r\npanas di bawah permukaan bumi. Suhu di permukaan ditentukan oleh konduksi panas melalui\r\nbatuan padat dan konveksi di dalam sirkulasi fluida. Berdasarkan pada kelengkapan data hasil\r\npenelitian, tingkat klasifikasi estimasi potensi dapat dikelompokkan sebagai berikut: (1) Klas\r\nsumber daya spekulatif, (2) Klas sumber daya hipotesis, (3) Klas Cadangan terduga\r\n(possible), (4) Klas Cadangan mungkin (probable), (5) Cadangan terbukti (proven). Contoh\r\nriset panas bumi di wilayah Sumatera Barat antara laian: Prospek Paasbumi Gunung Talang dan Bukit Kili Sumatra Barat. Besarnya potensi energi listrik Prospek Panas Bumi Gunung Talang adalah sekitara 145 MWe sedangkan Prospek Panas Bumi Bukit Kili adalah sekitar 75 MWe, sehingga ke dua lapangan panas bumi tersebut dapat dimanfaatkan sebagai pembangkit tenaga listrik. Hal ini sangat baik untuk memperkaya materi pemebelajaran Fisika.\r\nKata kunci: panas bumi, klasifikasi sumberdaya & cadangan, Gunung Talang & Bukit Kili",
+      "refereed": "TRUE",
+      "title": "PEMANFAATAN HASIL-HASIL RISET PANASBUMI UNTUK MEMPERKAYA MATERI PEMBELAJARAN FISIKA",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Suharno",
+            "honourific": null,
+            "family": "Suharno",
+            "lineage": null
+          },
+          "id": "suharno@eng.unila.ac.id"
+        }
+      ],
+      "pagerange": "1-19",
+      "metadata_visibility": "show",
+      "eprintid": 28128,
+      "eprint_status": "archive",
+      "datestamp": "2021-03-04 03:23:35",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42181",
+            "eprintid": 28128,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/250311",
+                  "filename": "KeyNotePanasBumiUNP.pdf",
+                  "filesize": 1203751,
+                  "objectid": 42181,
+                  "mtime": "2021-02-28 08:22:57",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "dfaab998302bcaa36285b774255c14b1",
+                  "datasetid": "document",
+                  "fileid": 250311
+                }
+            ],
+            "main": "KeyNotePanasBumiUNP.pdf",
+            "docid": 42181
+          }
+      ],
+      "lastmod": "2021-03-04 03:23:35",
+      "userid": 1070
+    },
+    {
+      "publisher": "PENERBIT LEMBAGA PENELITIAN UNIVERSITAS LAMPUNG",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/20\/34",
+      "status_changed": "2023-05-29 01:32:50",
+      "full_text_status": "public",
+      "rev_number": 15,
+      "ispublished": "pub",
+      "subjects": [
+        "TN"
+      ],
+      "series": 1,
+      "volume": 1,
+      "abstract": "Panas bumi merupakan sumber energi yang ramah lingkungan dan berpotensi besar untuk dikembangkan di Indonesia. Potensi panas bumi yang dimiliki Indonesia adalah sebesar 29 GWe atau setara dengan sekitar 12 miliar barel \r\nminyak bumi. Oleh karena itu perlu disusun buku ajar yang membahas materi perkuliahan tentang Panasbumi. Buku ajar ini diharapkan dapat diguanakan oleh mahasiswa yang mempelajari materi yang berkaitan dengan pertambangan, khususnya pertambangan energy panas bumi. Lebih dari itu buku ini dapat digunakan oleh kalangan profesi dan pengembang panas bumi.\r\nStruktur buku ini meliputi: BAB I. Pendahuluan, BAB II. Sistem Panas Bumi, BAB III. Eksplorasi Prospek Panas Bumi, BAB IV. Estimasi Sumber Daya, Cadangan dan Potensi Energi Listrik Lapangan Panas Bumi, BAB V. Penentuan Daya Listrik.\r\nBab I membahas tentang cadangan energi panas bumi di Indonesi, masa depan energi panas bumi dan dasar hukum yang mendukung, pengembangn energi panas bumi. Bab II membahas tentang system panas bumi, bagaimana system panas bumi bisa terbentuk dan menghasilkan energi. Bab III membahas eksplorasi peospek panas bumi sampai siap untuk bisa diproduksi. Bab IV membahas cara menghitung besarnya sumber daya, cadangan dan potensi energi istrik pada lapangan panas bumi. Bab V membahas cara menentuan daya listrik dari energi \r\npanas bumi.",
+      "date": 2013,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52034",
+      "type": "book",
+      "creators": [
+        {
+          "id": "suharno@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suharno",
+            "given": "Suharno"
+          }
+        }
+      ],
+      "isbn": "978-979-8510-64-9",
+      "refereed": "TRUE",
+      "title": "Panas bumi merupakan sumber energi yang ramah lingkungan dan berpotensi \r\nbesar untuk dikembangkan di Indonesia. Potensi panas bumi yang dimiliki \r\nIndonesia adalah sebesar 29 GWe atau setara dengan sekitar 12 miliar barel \r\nminyak bumi. Oleh karena itu perlu disusun buku ajar yang membahas materi \r\nperkuliahan tentang Panasbumi. Buku ajar ini diharapkan dapat diguanakan oleh \r\nmahasiswa yang mempelajari materi yang berkaitan dengan pertambangan, \r\nkhususnya pertambangan energy panas bumi. Lebih dari itu buku ini dapat \r\ndigunakan oleh kalangan profesi dan pengembang panas bumi.\r\nStruktur buku ini meliputi: BAB I. Pendahuluan, BAB II. Sistem Panas Bumi, \r\nBAB III. Eksplorasi Prospek Panas Bumi, BAB IV. Estimasi Sumber Daya, \r\nCadangan dan Potensi Energi Listrik Lapangan Panas Bumi, BAB V. Penentuan \r\nDaya Listrik.\r\nBab I membahas tentang cadangan energi panas bumi di Indonesi, masa depan \r\nenergi panas bumi dan dasar hukum yang mendukung, pengembangn energi panas \r\nbumi. Bab II membahas tentang system panas bumi, bagaimana system panas \r\nbumi bisa terbentuk dan menghasilkan energi. Bab III membahas eksplorasi \r\npeospek panas bumi sampai siap untuk bisa diproduksi. Bab IV membahas cara \r\nmenghitung besarnya sumber daya, cadangan dan potensi energi istrik pada \r\nlapangan panas bumi. Bab V membahas cara menentuan daya listrik dari energi \r\npanas bumi.",
+      "place_of_pub": "BANDAR LAMPUNG",
+      "eprint_status": "archive",
+      "eprintid": 52034,
+      "datestamp": "2023-05-29 01:32:50",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 1070,
+      "documents": [
+          {
+            "placement": 8,
+            "eprintid": 52034,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251804",
+            "pos": 8,
+            "security": "public",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "9184f5dcd30d7f0fef71710adb739680",
+                  "datasetid": "document",
+                  "fileid": 616621,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/616621",
+                  "filename": "BukuEsplorasiGeothermalSUHARNO.pdf",
+                  "objectid": 251804,
+                  "filesize": 5558825,
+                  "mtime": "2023-05-28 09:50:24",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "BukuEsplorasiGeothermalSUHARNO.pdf",
+            "docid": 251804,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pages": 87,
+      "lastmod": "2023-05-29 01:32:50"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8344",
+      "date": "2013-06-12",
+      "abstract": "The analysis of the Arjuno-Welirang geothermal field\r\nJawa timur Province, Indonesia. The field situated at\r\nlongitute beetwen 112o29’12’’and 112o37’29’’ and at\r\nlatitute beetwen -7o37’36’’ and -7o49’51’’. The\r\nsurface manifestation consist of hot spring, fumarol\r\nand alteration rocks. The hot spring discharge expose\r\nat elevation 1350 m asl, 1600 m asl, fumarol and\r\nsolfatara spreadout within the summit of Mt. Arjuno\r\nand Mt. Welirang, at elevation about 3100 m asl. The\r\nalteration rocks spreadout in the two location such as\r\nat surounding Plupuh Crater and at a lower part of the\r\nMt. Pundak. Geology Analysis, such as surface\r\nmanifestation and geology structure analysis and\r\ngeochemical analysisi conducted due to chracterises\r\nthe reservoir condition of the Mt. Arjuno-Welirang\r\ngeothermal system. Tentaive result of the research\r\nshow that the Arjuno-Welirang geothermal system is\r\nchlorite water, althoght the result of reservoir analyss\r\nindicated the bicarbonat water (HCO3). Its caused by\r\ninterction between reservoir water with meteoric water\r\nand water level, closed to the surface. The reservoir\r\ntemperature up to 175°C. The reservoir rocks of the\r\nsystem is andesitic basaltic rocks. The hydrothermaly\r\nsystem should be product of water interaction with\r\nvulkano-magmatik. The hot water before reach the\r\nsurface predicted has interacted with sediment rocks.\r\nThe other hand, that the manifestation is product the\r\nlateral flow or out flow.",
+      "corp_creators": [
+        "Geophysical Engineering, University of Lampung",
+        "Geophysical Engineering, University of Lampung",
+        "Geodesy Engineering, University of Lampung",
+        "Geophysical Engineering, University of Lampung"
+      ],
+      "date_type": "published",
+      "subjects": [
+        "QC"
+      ],
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2018-07-03 09:50:06",
+      "publisher": "Asosiasi Panasbumi Indonesia (API)",
+      "dir": "disk0\/00\/00\/83\/44",
+      "publication": "PROCEEDINGS, 13th Indonesia International GEOTHERMAL Convention & Exhibition 2013",
+      "divisions": [
+        "FT1"
+      ],
+      "lastmod": "2018-07-03 09:50:06",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2018-07-01 13:58:00",
+                  "hash_type": "MD5",
+                  "filename": "PROCEEDINGS IIGCE 2013-2.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/82570",
+                  "objectid": 21391,
+                  "filesize": 417106,
+                  "mime_type": "application\/pdf",
+                  "hash": "9c13a7486733b892f5688b556312ce01",
+                  "fileid": 82570,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "PROCEEDINGS IIGCE 2013-2.pdf",
+            "docid": 21391,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 8344,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21391"
+          }
+      ],
+      "userid": 662,
+      "metadata_visibility": "show",
+      "datestamp": "2018-07-03 09:50:06",
+      "eprintid": 8344,
+      "eprint_status": "archive",
+      "title": "CHARACTERISTICS OF MOUNTAIN ARJUNO-WELIRANG GEOTHERMAL JAWA TIMUR PROVINCE, INDONESIA",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "family": "Suharno",
+            "lineage": null,
+            "honourific": null,
+            "given": "Suharno"
+          },
+          "id": "suharno@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "FN",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ferra Nidya"
+          }
+        },
+        {
+          "id": "zaenudin7209@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Ahmad",
+            "honourific": null,
+            "given": "Zaenudin"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "bagus",
+            "given": "sapto"
+          },
+          "id": "bagus.sapto@eng.unila.ac.id"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "0215-9945",
+      "full_text_status": "public",
+      "status_changed": "2020-06-12 08:43:22",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/JM\/article\/view\/2959\/2979"
+        }
+      ],
+      "publication": "Jurnal MIPA",
+      "publisher": "Fakultas MIPA Universitas Negeri Semarang",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/02\/23\/50",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22350",
+      "date": "2013-04",
+      "abstract": "The background of this research is that Semarang has experienced  the ground water level degradation in some areas. The method used in this research was time lapse microgravity during December 2003 to June 2004. The purpose of the research is to apply the microgravity method in determining the reduction zone of groundwater and alluvial plains Semarang using a 3D modeling  by usingGrav3D program to identify the reduction of  groundwater zone of alluvial plains in Semarang. The acquisition method of gravity wass done by using a Lacoste & Romberg gravitimeter G1158 and G1118 type equipped with alliod 100 to measure the gravity of each station and Lacoste & Romberg gravitimeter G508 type to measure the tidal effect of the gravity. The 3D modeling microgravity anomaly time-lapse effects of fluid dynamics is able to identify  9 groundwater reduction zones  which is about, Ataqwa mosque, PRPP, Tugu Muda, Simpang Lima, Jl. Majapahit, Genuk, Tanah Mas, Tanah Putih, and around Sendangguwo area.",
+      "volume": 36,
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "title": "IDENTIFIKASI ZONA PENGURANGAN AIR TANAH BERDASARKAN MODEL 3D  GAYA BERAT MIKRO ANTAR WAKTU",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "supriyadi@mail.unnes.ac.id",
+          "name": {
+            "family": "Supriyadi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Supriyadi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "W.G.A",
+            "honourific": null,
+            "family": "Kadir,",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Sarkowi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muh"
+          },
+          "id": "sarkov323@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Helberd",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ronald"
+          }
+        }
+      ],
+      "lastmod": "2020-06-12 08:43:22",
+      "official_url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/JM\/article\/view\/2959\/2979",
+      "documents": [
+          {
+            "eprintid": 22350,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35766",
+            "format": "text",
+            "main": "Paper-SupriKadirSarkowiRonald.pdf",
+            "docid": 35766,
+            "files": [
+                {
+                  "objectid": 35766,
+                  "filesize": 1284429,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/205367",
+                  "filename": "Paper-SupriKadirSarkowiRonald.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-12 06:09:39",
+                  "datasetid": "document",
+                  "fileid": 205367,
+                  "mime_type": "application\/pdf",
+                  "hash": "f179dd13ad399b47042e6d2f9f363736"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 816,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "34-3",
+      "datestamp": "2020-06-12 08:43:22",
+      "id_number": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/JM\/article\/view\/2959\/2979",
+      "eprint_status": "archive",
+      "eprintid": 22350
+    },
+    {
+      "subjects": [
+        "T1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50798",
+      "date": 2013,
+      "volume": 36,
+      "abstract": "The background of this research is that Semarang has experienced the ground water level degradation in some areas. The method used in this research was time lapse microgravity during December 2003 to June 2004. The purpose of the research is to apply the microgravity method in determining the reduction zone of groundwater and alluvial plains Semarang using a 3D modeling by usingGrav3D program to identify the reduction of groundwater zone of alluvial plains in Semarang. The acquisition method of gravity wass done by using a Lacoste & Romberg gravitimeter G1158 and G1118 type equipped with alliod 100 to measure the gravity of each station and Lacoste & Romberg gravitimeter G508 type to measure the tidal effect of the gravity. The 3D modeling microgravity anomaly time-lapse effects of fluid dynamics is able to identify 9 groundwater reduction zones which is about, Ataqwa mosque, PRPP, Tugu Muda, Simpang Lima, Jl. Majapahit, Genuk, Tanah Mas, Tanah Putih, and around Sendangguwo area.",
+      "publisher": "Faculty of Mathematics and Natural Sciences, Universitas Negeri Semarang",
+      "publication": "Indonesian Journal of Mathematics and Natural Sciences",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/07\/98",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2023-04-28 02:06:23",
+      "full_text_status": "public",
+      "issn": "0215-9945",
+      "pagerange": "34-43",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.15294\/ijmns.v36i1.2959",
+      "eprint_status": "archive",
+      "eprintid": 50798,
+      "datestamp": "2023-04-28 02:06:23",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 1284429,
+                  "objectid": 190508,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547187",
+                  "filename": "2959-6423-1-SM.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-27 11:36:54",
+                  "fileid": 547187,
+                  "datasetid": "document",
+                  "hash": "f179dd13ad399b47042e6d2f9f363736",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "2959-6423-1-SM.pdf",
+            "docid": 190508,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 50798,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190508",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/JM\/article\/view\/2959",
+      "lastmod": "2023-04-28 02:06:23",
+      "number": 1,
+      "userid": 816,
+      "refereed": "TRUE",
+      "title": "IDENTIFIKASI ZONA PENGURANGAN AIR TANAH BERDASARKAN MODEL 3D GAYA BERAT MIKRO ANTAR WAKTU",
+      "type": "article",
+      "creators": [
+        {
+          "id": "supriyadi@mail.unnes.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Supriyadi",
+            "given": "Supriyadi"
+          }
+        },
+        {
+          "name": {
+            "family": "Kadir,",
+            "lineage": null,
+            "honourific": null,
+            "given": "W.G.A"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Muh",
+            "family": "Sarkowi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "muhsarkowi@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Helbert",
+            "given": "Ronald"
+          }
+        }
+      ]
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "T1"
+      ],
+      "event_title": "Indonesia Petroleum  Association  37th Annual  and Convention, 2013",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48643",
+      "date": 2013,
+      "abstract": "Research using passive seismic methods has been performed on several oil fields around the world. In this study, the main result is the emergence of anomalous spectral frequency in range 2 - 6 Hz, at points measured just above the hydrocarbon reservoir. LCY-1 and LCY-2, both with hydrocarbon indications, were selected for analysis with passive seismic survey to delineate the extent of hydrocarbons in the \"LCY\" Field, Ombilin Basin West Sumatra. While the problem is limited to this research is the data used in the form of secondary passive seismic data processing performed using Matlab2010 software and mapping anomalous dispersion spectrum maximum value using software Surfer10. In the acquisition step, measurements were recorded at 13 locations: 2 points experimentally measured for 24 hours, 9 points measured pioneer for 3 hours and 2 exploration wells were measured for 3 hours. Based on the spectrum of anomalies arising at points of measurement, higher values of the spectrum occur in the South when compared with the North. This indicates potential for hydrocarbon accumulations are greater in the South. It can be concluded that the direction of migration of hydrocarbons in this basin is from NW to SE and this trend is supported by the structural framework in the area. Keywords: Matlab2010, passive seismic, petroleum system, maximum spectrum anomaly, Surfer10",
+      "event_type": "conference",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/04\/86\/43",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2023-02-28 07:54:59",
+      "metadata_visibility": "show",
+      "datestamp": "2023-02-28 07:54:59",
+      "eprint_status": "archive",
+      "eprintid": 48643,
+      "lastmod": "2023-02-28 07:54:59",
+      "documents": [
+          {
+            "main": "PaperFullIPA-2013.pdf",
+            "files": [
+                {
+                  "mtime": "2023-02-28 03:26:05",
+                  "hash_type": "MD5",
+                  "filename": "PaperFullIPA-2013.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530283",
+                  "filesize": 1576615,
+                  "objectid": 187992,
+                  "mime_type": "application\/pdf",
+                  "hash": "c0ae0e00f22956973300f7d60b76626d",
+                  "fileid": 530283,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 187992,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 48643,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187992",
+            "security": "public"
+          }
+      ],
+      "userid": 816,
+      "title": "Microseismic Data Analysis Using Matlab 2010 For The Determination Of Hydrocarbon Presence In The Field \"LLCY\" Ombilin Basin",
+      "event_dates": "May 2013",
+      "refereed": "TRUE",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Lucy",
+            "honourific": null,
+            "family": "Windasari",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sarkowi",
+            "given": "Muh"
+          },
+          "id": "muhsarkowi@gmail.com"
+        },
+        {
+          "id": "suharno@eng.unila.ac.id",
+          "name": {
+            "given": "Suharno",
+            "honourific": null,
+            "lineage": null,
+            "family": "Suharno"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wibowo",
+            "lineage": null,
+            "given": "Rahmat Catur"
+          },
+          "id": "rahmat.caturwibowo@eng.unila.ac.id"
+        }
+      ],
+      "event_location": "Jakarta"
+    },
+    {
+      "eprintid": 48549,
+      "id_number": "https:\/\/doi.org\/10.15294\/ijmns.v36i1.2959",
+      "eprint_status": "archive",
+      "datestamp": "2023-02-27 01:01:21",
+      "pagerange": "34-43",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 816,
+      "documents": [
+          {
+            "format": "text",
+            "main": "PaperFull-JIM2013.pdf",
+            "docid": 187849,
+            "files": [
+                {
+                  "hash": "5c539002277ddb31d3cd4051bc61a2a5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 529511,
+                  "datasetid": "document",
+                  "mtime": "2023-02-24 04:29:50",
+                  "hash_type": "MD5",
+                  "filename": "PaperFull-JIM2013.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/529511",
+                  "filesize": 2746969,
+                  "objectid": 187849
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 48549,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187849"
+          }
+      ],
+      "official_url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/JM\/article\/view\/2959",
+      "lastmod": "2023-02-27 01:01:21",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "supriadi",
+            "lineage": null,
+            "given": "supriadi"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "W.G.A",
+            "lineage": null,
+            "family": "Kadir,",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sarkowi",
+            "lineage": null,
+            "given": "Muh"
+          },
+          "id": "muhsarkowi@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Ronald",
+            "family": "Helberd",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "IDENTIFIKASI ZONA PENGURANGAN AIR TANAH BERDASARKAN MODEL 3D\r\nGAYA BERAT MIKRO ANTAR WAKTU",
+      "subjects": [
+        "T1"
+      ],
+      "volume": 36,
+      "abstract": "Penelitian ini dilatar belakangi oleh kenyataan bahwa di kota Semarang telah terjadi \r\npenurunan muka air tanah di beberapa lokasi. Penelitian menggunakan metoda gaya\r\nberat mikro antar waktu (time lapse selama kurun waktu Desember 2003 hingga Juni \r\n2004 di daerah Semarang. Tujuan penelitian adalah untuk mengaplikasikan metoda \r\ngaya berat mikro dalam menentukan zona pengurangan air tanah dataran aluvial \r\nSemarang dan melakukan pemodelan 3D menggunakan program Grav3D untuk \r\nidentifikasi zona pengur angan air tanah dataran aluvial Semarang. Akusisi metoda \r\ngaya berat dilakukan dengan menggunakan alat gravitimeter Lacoste & Romberg tipe \r\nG1158 dan G1118 yang dilengkapi dengan alliod 100 untuk mengukur gaya berat tiap \r\nstasiun dan gravitimeter Lacoste & Romberg tipe G508 untuk mengukur efek pasang \r\nsurut terhadap gaya berat. Pemodelan 3D anomali gaya berat mikro time-lapse efek \r\ndinamika fluida mampu mengidentifikasi 9 zona pengurangan air tanah yakni sekitar \r\nmasjid Ataqwa, PRPP, Tugu Muda , Simpang Lima, Jl. Majapahit, Genuk, Tanah Mas, \r\nTanah Putih dan daerah sekitar kelurahan Sendangguwo.",
+      "date": 2013,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48549",
+      "dir": "disk0_bak\/00\/04\/85\/49",
+      "publisher": "Universitas Negeri Semarang",
+      "publication": "Jurnal MIPA",
+      "divisions": [
+        "FT1"
+      ],
+      "status_changed": "2023-02-27 01:01:21",
+      "issn": "0215-9945",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub"
+    },
+    {
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 24352,
+      "datestamp": "2020-10-25 06:32:48",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "main": "Magnetic Survey Within Penantian Geothermal Area in Pasema Air Keruh, South Sumatra.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "a16457b7da8d38aa1ba13fc194eab4e3",
+                  "fileid": 221553,
+                  "datasetid": "document",
+                  "filename": "Magnetic Survey Within Penantian Geothermal Area in Pasema Air Keruh, South Sumatra.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221553",
+                  "objectid": 38080,
+                  "filesize": 52657,
+                  "mtime": "2020-10-23 06:06:28",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 38080,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38080",
+            "pos": 1,
+            "formatdesc": "SIMILARITY",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 24352
+          }
+      ],
+      "lastmod": "2020-10-25 06:32:48",
+      "userid": 662,
+      "title": "Similarity_ Magnetic Survey Within Penantian Geothermal Area in Pasema Air Keruh, South Sumatra",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "ahmad",
+            "family": "zaenudin",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ahmad.zaenudin@eng.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "Q1",
+        "QC",
+        "QE"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24352",
+      "date": 2013,
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "University of Brawijaya",
+      "dir": "disk0\/00\/02\/43\/52",
+      "rev_number": 10,
+      "ispublished": "unpub",
+      "status_changed": "2020-10-25 06:32:48",
+      "full_text_status": "public"
+    },
+    {
+      "publisher": "ITB",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/02\/43\/55",
+      "rev_number": 10,
+      "ispublished": "unpub",
+      "status_changed": "2020-10-25 06:32:52",
+      "full_text_status": "public",
+      "subjects": [
+        "Q1",
+        "QC",
+        "QE"
+      ],
+      "date": 2013,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24355",
+      "title": "Similarity_ Stripping Filter Implementation For Interpretation Time-Lapse Microgravity Data Kamojang Field 2006-2007",
+      "type": "other",
+      "creators": [
+        {
+          "id": "ahmad.zaenudin@eng.unila.ac.id",
+          "name": {
+            "given": "ahmad",
+            "lineage": null,
+            "family": "zaenudin",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 24355,
+      "datestamp": "2020-10-25 06:32:52",
+      "documents": [
+          {
+            "eprintid": 24355,
+            "placement": 1,
+            "formatdesc": "SIMILARITY",
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38083",
+            "format": "text",
+            "docid": 38083,
+            "main": "Stripping Filter Implementation For Interpretation Time-Lapse Microgravity Data Kamojang Field 2006-2007.pdf",
+            "files": [
+                {
+                  "filename": "Stripping Filter Implementation For Interpretation Time-Lapse Microgravity Data Kamojang Field 2006-2007.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221572",
+                  "objectid": 38083,
+                  "filesize": 59412,
+                  "mtime": "2020-10-23 07:28:07",
+                  "hash_type": "MD5",
+                  "hash": "4f086f253e98f7475f4023d53f5a560e",
+                  "mime_type": "application\/pdf",
+                  "fileid": 221572,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2020-10-25 06:32:52",
+      "userid": 662
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "title": "PEMODELAN STRUKTUR DAN RESERVOAR LAPANGAN\r\nPANAS BUMI BONJOL DARI ANOMALI GAYA BERAT",
+      "refereed": "TRUE",
+      "event_dates": "10 – 12 Mei 2013",
+      "creators": [
+        {
+          "id": "ahmad.zaenudin@eng.unila.ac.id",
+          "name": {
+            "given": "ahmad",
+            "honourific": null,
+            "family": "zaenudin",
+            "lineage": null
+          }
+        },
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sarkowi",
+            "given": "Muh"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rifai",
+            "given": "Ahmat"
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "lastmod": "2023-04-28 02:06:17",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/semirata\/article\/view\/740\/559",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547279",
+                  "filename": "PaperPanasBumiBonjol.pdf",
+                  "objectid": 190523,
+                  "filesize": 1567115,
+                  "mtime": "2023-04-27 23:14:16",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "39e8006f1e70172eb4eb4f5c3994835f",
+                  "fileid": 547279,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "PaperPanasBumiBonjol.pdf",
+            "docid": 190523,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 50813,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190523",
+            "security": "public"
+          }
+      ],
+      "userid": 816,
+      "metadata_visibility": "show",
+      "pagerange": "207-213",
+      "datestamp": "2023-04-28 02:06:17",
+      "eprint_status": "archive",
+      "eprintid": 50813,
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2023-04-28 02:06:17",
+      "event_type": "conference",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/05\/08\/13",
+      "date": 2013,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50813",
+      "abstract": "Pemodelan struktur dan reservoir pada penelitian bertujuan untuk memetakan\r\nstruktur pengontrol dan dimensi reservoir sistem panasbumi Bonjol. Pemodelan struktur\r\nmenggunakan teknik Second vertical derivative dan pemodelan reservoir menggunakan\r\ninversi 3D dari anomali Bouguer. Secara umum, anomali Bouguer daerah penelitian bernilai\r\ntinggi pada bagian Barat Laut dan rendah dibagian Timur dan Selatan. Struktur sesar daerah\r\npenelitian dapat dideliniasi dengan baik dengan teknik SVD dan berkorelasi baik dengan\r\nstruktur geologi yang secara umum yang berarah N-W dan N-E. Hasil pemodelan inversi 3D\r\nanomali Bouguer dapat menunjukan bahwa reservoar panas bumi berada di bagian Selatan\r\ndan Timur daerah penelitian, dengan densitas total 1,7 gr\/cm3 pada kedalaman 1400 m\r\nDBMTS. Sedangkan sumber panas (heat source) berada di Barat Laut daerah penelitian,\r\ndengan nilai densitas 2.8 gr\/cm3\r\npada kedalaman 7000 m DBMTS",
+      "date_type": "published",
+      "event_title": "Semirata FMIPA Universitas Lampung 2013",
+      "subjects": [
+        "T1"
+      ]
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "zaenudin,",
+            "given": "ahmad"
+          },
+          "id": "ahmad.zaenudin@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Rifai",
+            "lineage": null,
+            "given": "Ahmad"
+          }
+        },
+        {
+          "id": "muhsarkowi@gmail.com",
+          "name": {
+            "given": "Muh",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sarkowi"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_dates": "10 Mei 2013",
+      "refereed": "TRUE",
+      "title": "PEMODELAN STRUKTUR DAN RESERVOAR LAPANGAN\r\nPANAS BUMI BONJOL DARI ANOMALI GAYA BERAT",
+      "userid": 816,
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 530290,
+                  "mime_type": "application\/pdf",
+                  "hash": "39e8006f1e70172eb4eb4f5c3994835f",
+                  "filesize": 1567115,
+                  "objectid": 187993,
+                  "filename": "PaperPanasBumiBonjol.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530290",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-28 03:36:12"
+                }
+            ],
+            "main": "PaperPanasBumiBonjol.pdf",
+            "docid": 187993,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 48644,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187993",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-02-28 07:55:01",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/semirata\/article\/view\/740\/559",
+      "eprintid": 48644,
+      "eprint_status": "archive",
+      "datestamp": "2023-02-28 07:55:01",
+      "pagerange": "207-213",
+      "metadata_visibility": "show",
+      "status_changed": "2023-02-28 07:55:01",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0_bak\/00\/04\/86\/44",
+      "event_type": "conference",
+      "abstract": "Pemodelan struktur dan reservoir pada penelitian bertujuan untuk memetakan \r\nstruktur pengontrol dan dimensi reservoir sistem panasbumi Bonjol. Pemodelan struktur \r\nmenggunakan teknik Second vertical derivative dan pemodelan reservoir menggunakan \r\ninversi 3D dari anomali Bouguer. Secara umum, anomali Bouguer daerah penelitian bernilai \r\ntinggi pada bagian Barat Laut dan rendah dibagian Timur dan Selatan. Struktur sesar daerah \r\npenelitian dapat dideliniasi dengan baik dengan teknik SVD dan berkorelasi baik dengan \r\nstruktur geologi yang secara umum yang berarah N-W dan N-E. Hasil pemodelan inversi 3D \r\nanomali Bouguer dapat menunjukan bahwa reservoar panas bumi berada di bagian Selatan \r\ndan Timur daerah penelitian, dengan densitas total 1,7 gr\/cm3 pada kedalaman 1400 m \r\nDBMTS. Sedangkan sumber panas (heat source) berada di Barat Laut daerah penelitian, \r\ndengan nilai densitas 2.8 gr\/cm3\r\npada kedalaman 7000 m DBMTS.\r\nKata kunci: gayaberat, SVD, Reservoar, Heat source,",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48644",
+      "date": 2013,
+      "event_title": "Seminar dan Rapat Tahunan Bidang MIPA BKS PTN Wilayah Barat  Tahun 2013",
+      "subjects": [
+        "T1"
+      ],
+      "date_type": "published"
+    }
+]
+

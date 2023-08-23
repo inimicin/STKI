@@ -1,0 +1,376 @@
+[
+    {
+      "divisions": [
+        "FKIP5"
+      ],
+      "department": "MAP",
+      "dir": "disk0\/00\/02\/99\/66",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "status_changed": "2021-05-05 01:03:38",
+      "date_type": "completed",
+      "institution": "Universitas Lampung",
+      "subjects": [
+        "L1"
+      ],
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29966",
+      "title": "Pengaruh Kepemimpinan Kepala Sekolah, Lingkungan Kerja, dan Budaya Organisasi terhadap Organizational Citizenship Behavior Guru Perguruan Taman Siswa di Kota Bandar Lampung",
+      "thesis_name": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Ulfiah Husni",
+            "honourific": null,
+            "family": "Anjari",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "thesis",
+      "metadata_visibility": "show",
+      "datestamp": "2021-05-05 01:03:38",
+      "eprintid": 29966,
+      "eprint_status": "archive",
+      "lastmod": "2021-05-05 01:03:38",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "22 Ulfiah Husni Anjari p2.pdf",
+            "files": [
+                {
+                  "filename": "22 Ulfiah Husni Anjari p2.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/355198",
+                  "objectid": 134463,
+                  "filesize": 315825,
+                  "mtime": "2021-05-04 14:50:15",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "c623bf19fbe198b2c6402e1f0ec1e6be",
+                  "datasetid": "document",
+                  "fileid": 355198
+                }
+            ],
+            "docid": 134463,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/134463",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 29966
+          }
+      ],
+      "thesis_type": "masters",
+      "userid": 214
+    },
+    {
+      "publisher": "Expert",
+      "divisions": [
+        "FKIP5"
+      ],
+      "dir": "disk0\/00\/01\/95\/05",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-05-08 01:59:33",
+      "date_type": "published",
+      "subjects": [
+        "H1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19505",
+      "date": 2017,
+      "title": "Evolusi Pendekatan Teori Kepemimpinan Menuju Kepemimpinan Efektif",
+      "refereed": "TRUE",
+      "isbn": "978-602-262-50667-5-7",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hariri",
+            "honourific": null,
+            "given": "Hasan"
+          },
+          "id": "hasan.hariri@staff.unila.ac.id"
+        },
+        {
+          "id": "ridwanrosidimuawi@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Ridwan",
+            "honourific": null,
+            "given": "Ridwan"
+          }
+        },
+        {
+          "name": {
+            "given": "Dedy H.",
+            "family": "Karwan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "dhkarwan@yahoo.co.id"
+        }
+      ],
+      "type": "book",
+      "place_of_pub": "Yogyakarta",
+      "metadata_visibility": "show",
+      "datestamp": "2020-05-08 01:59:33",
+      "eprint_status": "archive",
+      "eprintid": 19505,
+      "official_url": "http:\/\/grahailmu.id\/product\/evolusi-pendekatan-teori-kepemimpinan-menuju-kepemimpinan-efektif\/",
+      "lastmod": "2020-05-08 01:59:33",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32737",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 19505,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 32737,
+            "main": "2017 aproval-evolusi pendekatan teori kepemimpinan_hal awal dan akhir1.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "b942f04afe9bf2be19fcd458690e809f",
+                  "datasetid": "document",
+                  "fileid": 162974,
+                  "mtime": "2020-05-07 15:53:34",
+                  "hash_type": "MD5",
+                  "filename": "2017 aproval-evolusi pendekatan teori kepemimpinan_hal awal dan akhir1.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/162974",
+                  "objectid": 32737,
+                  "filesize": 7953550
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "pages": 180,
+      "userid": 214
+    },
+    {
+      "publisher": "JPP FKIP Universitas Lampung",
+      "divisions": [
+        "FKIP5"
+      ],
+      "dir": "disk0\/00\/02\/88\/37",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2021-04-05 04:49:56",
+      "full_text_status": "public",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "date": "2017-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28837",
+      "title": "Membangun Budaya Guru Pembelajar Melalui Kepemimpinan Visioner",
+      "type": "other",
+      "creators": [
+        {
+          "id": "dhkarwan@yahoo.co.id",
+          "name": {
+            "family": "Karwan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dedy H."
+          }
+        },
+        {
+          "name": {
+            "given": "Hasan",
+            "lineage": null,
+            "family": "Hariri",
+            "honourific": null
+          },
+          "id": "hasan.hariri@staff.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Rini",
+            "lineage": null,
+            "honourific": null,
+            "given": "Riswanti"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 28837,
+      "datestamp": "2021-04-05 04:49:56",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42931",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28837,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 42931,
+            "main": "Membangun Budaya Guru Pembelajar Melalui Kepemimpinan Visioner.pdf",
+            "files": [
+                {
+                  "filesize": 3783077,
+                  "objectid": 42931,
+                  "filename": "Membangun Budaya Guru Pembelajar Melalui Kepemimpinan Visioner.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255883",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-01 09:02:26",
+                  "datasetid": "document",
+                  "fileid": 255883,
+                  "hash": "29ab03f92cd82f8b53ae7aea6bb9f185",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2021-04-05 04:49:56",
+      "userid": 214
+    },
+    {
+      "type": "thesis",
+      "creators": [
+        {
+          "name": {
+            "given": "Evi",
+            "lineage": null,
+            "family": "Kuswandari",
+            "honourific": null
+          }
+        }
+      ],
+      "thesis_name": "other",
+      "title": "Manajemen Mutu Sekolah dalam Pembudayaan Karakter",
+      "userid": 214,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "13 Evi Kuswandari p2.pdf",
+            "docid": 134422,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-04 14:23:32",
+                  "objectid": 134422,
+                  "filesize": 313195,
+                  "filename": "13 Evi Kuswandari p2.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/355101",
+                  "fileid": 355101,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "3d20c2e5d6c715a5adfdd4d80d7c86a8"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/134422",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 29957
+          }
+      ],
+      "thesis_type": "masters",
+      "lastmod": "2021-05-05 01:03:15",
+      "eprintid": 29957,
+      "eprint_status": "archive",
+      "datestamp": "2021-05-05 01:03:15",
+      "metadata_visibility": "show",
+      "status_changed": "2021-05-05 01:03:15",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "department": "MAP",
+      "divisions": [
+        "FKIP5"
+      ],
+      "dir": "disk0\/00\/02\/99\/57",
+      "date": 2017,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29957",
+      "subjects": [
+        "L1"
+      ],
+      "institution": "Universitas Lampung",
+      "date_type": "completed"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29962",
+      "date": 2017,
+      "subjects": [
+        "L1"
+      ],
+      "institution": "Universitas Lampung",
+      "date_type": "completed",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "status_changed": "2021-05-05 01:03:28",
+      "full_text_status": "public",
+      "department": "MAP",
+      "dir": "disk0\/00\/02\/99\/62",
+      "divisions": [
+        "FKIP5"
+      ],
+      "thesis_type": "masters",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 134439,
+            "main": "18 Poniman p2.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 355149,
+                  "hash": "fac3f1d82efffe22ffcaf0d77c2de892",
+                  "mime_type": "application\/pdf",
+                  "filesize": 246051,
+                  "objectid": 134439,
+                  "filename": "18 Poniman p2.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/355149",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-04 14:37:03"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 29962,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/134439",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2021-05-05 01:03:28",
+      "userid": 214,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 29962,
+      "datestamp": "2021-05-05 01:03:28",
+      "title": "Pengaruh Kepemimpinan Kepala Sekolah, Kecerdasan Emosional, dan Kecerdasan Spiritual terhadap Profesionalisme Guru SMK Negeri di Kota  Bandar Lampung",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Poniman",
+            "lineage": null,
+            "given": "Poniman"
+          }
+        }
+      ],
+      "type": "thesis",
+      "thesis_name": "other"
+    }
+]
+

@@ -1,0 +1,286 @@
+[
+    {
+      "datestamp": "2020-05-11 02:41:25",
+      "eprint_status": "archive",
+      "eprintid": 19543,
+      "metadata_visibility": "show",
+      "pagerange": "82-91",
+      "userid": 890,
+      "lastmod": "2020-05-11 02:41:25",
+      "official_url": "http:\/\/lemlit.unila.ac.ic",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32782",
+            "eprintid": 19543,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "PROSIDING SEMINAR HASIL PENELITIAN DAN PENGABDIAN KEPADA MASYARAKAT-LEMBAGA PENELITIAN UNILA 2008.pdf",
+            "files": [
+                {
+                  "fileid": 163265,
+                  "datasetid": "document",
+                  "hash": "cf9785a13967628db7b2cc74be2c89f2",
+                  "mime_type": "application\/pdf",
+                  "filesize": 5871912,
+                  "objectid": 32782,
+                  "filename": "PROSIDING SEMINAR HASIL PENELITIAN DAN PENGABDIAN KEPADA MASYARAKAT-LEMBAGA PENELITIAN UNILA 2008.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163265",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-08 11:48:37"
+                }
+            ],
+            "docid": 32782
+          }
+      ],
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "handi.mulyaningsih@fisip.unila.ac.id",
+          "name": {
+            "given": "Handi",
+            "honourific": null,
+            "family": "Handi Mulyaningsih",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "conference_item",
+      "title": "LAYANAN DASAR PENDIDIKAN BAGI WARGA MISKIN KOTA METRO",
+      "refereed": "TRUE",
+      "event_location": "Bandar Lampung",
+      "contact_email": "lemlit@unila.ac.id",
+      "date_type": "published",
+      "subjects": [
+        "HN"
+      ],
+      "event_title": "Seminar Hasil Penelitian Dan Pengabdian Pada Masyarakat 2008",
+      "abstract": "Pendidikan rnerupakan hak dasar setiap manusia, dan pemenuhan atas hak ini menjadi kewajiban Negara. Tidak terpenuhinya hak dasar ini menurut konsep SNPK(Strategi Nasional Penanggulangan Kemiskinan) disebut kemiskinan. Hasil penelitian tentang layanan dasar pendidikan bagi warga miskin di Kata Metro menunjukkan bahwa masih ada kelemahan dalam hal ketersediaan layanan pendidikan bagi warga miskin, layanan diskriminatif, dan aksesibilitas warga miskin terhadap layanan pendidikan juga rendah. Penyebabnya, rendahnya komitmen pemerintah terhadap pendidikan warga miskfn yang berwujud pada kecilnya anggaran untuk pernenuhan hak dasar pendidikan bagi warga miskin.",
+      "date": "2008-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19543",
+      "related_url": [
+        {
+          "url": "http:\/\/lemlit.unila.ac.ic",
+          "type": "pub"
+        }
+      ],
+      "dir": "disk0\/00\/01\/95\/43",
+      "divisions": [
+        "FISIP7"
+      ],
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2020-05-11 02:41:25",
+      "ispublished": "pub",
+      "rev_number": 9
+    },
+    {
+      "userid": 890,
+      "lastmod": "2020-06-10 20:59:57",
+      "official_url": "http:\/\/lemlit.unila.ac.ic",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35643",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 22225,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Handi Mulyaningsih 92-102, prosiding, sensitivitas  gender anggota DPRD.pdf",
+            "docid": 35643,
+            "files": [
+                {
+                  "filename": "Handi Mulyaningsih 92-102, prosiding, sensitivitas  gender anggota DPRD.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/204530",
+                  "filesize": 154321,
+                  "objectid": 35643,
+                  "mtime": "2020-06-10 13:51:46",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "5069225de5d998a2b679db9e4f8db197",
+                  "datasetid": "document",
+                  "fileid": 204530
+                }
+            ],
+            "format": "text"
+          },
+          {
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35644",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 22225,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "f6995ab6705059aeb912e3ec9fb8f022",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 204532,
+                  "mtime": "2020-06-10 13:52:07",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/204532",
+                  "filename": "Cover PROSIDING 2008-1.pdf",
+                  "objectid": 35644,
+                  "filesize": 1978667
+                }
+            ],
+            "main": "Cover PROSIDING 2008-1.pdf",
+            "docid": 35644,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2020-06-10 20:59:57",
+      "eprintid": 22225,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "92-105",
+      "event_location": "Bandar Lampung",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Handi",
+            "lineage": null,
+            "family": "Handi Mulyaningsih",
+            "honourific": null
+          },
+          "id": "handi.mulyaningsih@fisip.unila.ac.id"
+        }
+      ],
+      "type": "conference_item",
+      "title": "Sensitivitas Gender Anggota Legislatif Propinsi Lampung\r\n(Studi Pada Perempuan dan Laki-Laki Anggota DPRD Propinsi Lampung Masa Jabatan 2004-2009)",
+      "event_dates": "22 SEPTEMBER 2008",
+      "refereed": "TRUE",
+      "abstract": "This research aims to know gender sensitivity of legislative members in Lampung Provincy, because gender sensitivity is interesting faktor for decicion maker for gender equality. This research use qualitative descriptive method. Data is obtained by interviewing with legislative members. Validity data is cheched by triangulation. The research shown, that gender sensitivity of legislative members are still  low. The  legislative members do not know about dimension of inequality in access, control, participation and benetif of gender, gender problem like gender inequality, cause and effect, and policy gender mainstraiming. Man of legislative members is not sensitif  gender, and women is to, but man of legislatif member is lowest. Gender mainstraiming for gender equality make many perception and behavior like competitive power man and women.  For result of this perception, man of legislative members make many housewifization proces with cultural faktors, religi, biologis, kodrat for limited women in publikt sectors.\r\n\r\nKey Word: gender, sensitivity, legislative, gender mainstraiming, kodrat.",
+      "date": "2008-09-22",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22225",
+      "subjects": [
+        "H1"
+      ],
+      "event_title": "PROSEDING SEMINAR HASIL PENELITIAN DAN PENGABDIAN MASYARAKAT",
+      "full_text_status": "public",
+      "status_changed": "2020-06-10 20:59:57",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP7"
+      ],
+      "dir": "disk0\/00\/02\/22\/25",
+      "event_type": "workshop",
+      "funders": [
+        "DIPA UNILA"
+      ]
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "HM",
+        "HN"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10223",
+      "date": 2008,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 11,
+      "publisher": "FISIP Universitas Lampung",
+      "publication": "Jurnal Penelitian Ilmu Sosial dan Budaya (KOMUNITAS)",
+      "dir": "disk0\/00\/01\/02\/23",
+      "divisions": [
+        "FISIP7"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "issn": "0854-8455",
+      "full_text_status": "public",
+      "status_changed": "2018-11-17 04:43:51",
+      "metadata_visibility": "show",
+      "pagerange": "153-168",
+      "datestamp": "2018-11-17 04:43:51",
+      "eprintid": 10223,
+      "eprint_status": "archive",
+      "lastmod": "2018-11-17 04:43:51",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 10223,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23226",
+            "security": "public",
+            "main": "2008- Jurnal Komunitas-Ketegangan Struktural (6) sudah.pdf",
+            "files": [
+                {
+                  "filesize": 524831,
+                  "objectid": 23226,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/95510",
+                  "filename": "2008- Jurnal Komunitas-Ketegangan Struktural (6) sudah.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-11-17 04:33:22",
+                  "datasetid": "document",
+                  "fileid": 95510,
+                  "mime_type": "application\/pdf",
+                  "hash": "41dd4858c2bbee455af153fd1cf75a56"
+                }
+            ],
+            "docid": 23226,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 792,
+      "number": 2,
+      "title": "KETEGANGAN STRUKTURAL DAN PERJUANGAN PETANI TERHADAP KUASA ATAS TANAH DI PEDESAAN LAMPUNG",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hartoyo",
+            "honourific": null,
+            "given": "Hartoyo"
+          },
+          "id": "htyiluh@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "soetarto",
+            "honourific": null,
+            "lineage": null,
+            "family": "endriatmo"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Arya Hadi",
+            "honourific": null,
+            "family": "Dharmawan",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "lawang",
+            "lineage": null,
+            "honourific": null,
+            "given": "robert M.Z"
+          },
+          "id": null
+        }
+      ]
+    }
+]
+

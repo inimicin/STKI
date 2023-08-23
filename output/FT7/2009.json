@@ -1,0 +1,321 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "sugiyanto.1957@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sugiyanto",
+            "lineage": null,
+            "given": "Sugiyanto"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "PENGARUH KELEMBABAN ELEKTRODA LAS TERHADAP KEKUATAN TARIK MULTIPASS WELDING BAJA AISI 1020",
+      "contact_email": "sugiyanto.1957@eng.unila.ac.id",
+      "eprint_status": "archive",
+      "eprintid": 3666,
+      "datestamp": "2017-07-20 09:07:02",
+      "pagerange": "63-70",
+      "metadata_visibility": "show",
+      "number": 30,
+      "userid": 1133,
+      "documents": [
+          {
+            "language": "id",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 3532,
+            "main": "@4 Jurnal Progress-UTB 2009.pdf",
+            "files": [
+                {
+                  "mtime": "2017-07-17 19:49:35",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25625",
+                  "filename": "@4 Jurnal Progress-UTB 2009.pdf",
+                  "objectid": 3532,
+                  "filesize": 790714,
+                  "hash": "d37c4760670c1a38aba2480b6c9b0b58",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 25625
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3532",
+            "pos": 1,
+            "eprintid": 3666,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2017-07-20 09:07:02",
+      "publisher": "Jurnal Ilmu Sosial dan Ilmu Politik",
+      "divisions": [
+        "FT7"
+      ],
+      "publication": "PROGRESS",
+      "dir": "disk0\/00\/00\/36\/66",
+      "status_changed": "2017-07-20 09:07:02",
+      "issn": "053-6678",
+      "full_text_status": "public",
+      "keywords": "kelembaban elektroda, kekuatan tarik, baja AISI 1020",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Prodi Teknik Mesin, Fak. Teknik, Unila"
+      ],
+      "abstract": "Pada saat sekarang ini pengelasan merupakan pelaksansan pengerjaan yang sangat penting dalam teknologi produksi dengan bahan baku logam. Dari perkembangannya yang pesat telah banyak teknologi baru yang ditemukan, sehingga boleh dikatakan tidak ada logam yang tidak dapat dilas dengan cara yang ada pada saat ini. Salah satu baja yang banyak digunakan dalam pcngelasan adalah baja karbon rendah. Baja karbon rendah (salah satu jenis baja karbon yang memiliki kandungan karbon di bawah 0,3 %) merupakan baja yang banyak digunakan dan memiliki aplikasi yang luas seperti pada konstruksi bangunan dan rangka baja yang banyak digunakan dan memiliki aplikasi yang luas seperti pada konstruksi bangunan dan rangka baja, untuk pipa dan pada automotive sebagai body dari mobil. Hal ini disebabkan selain mudah dikerjakan dengan permesinan dan mudah dibentuk, juga memiliki sifat mampu las yang baik (Sack, 1997).\r\n\r\nPada proses pengelasan, spesimen uji tarik baja karbon rendah (AISI 1020) yang telah dibuat kampuh las tumpul (butt weld joint) beralur V tunggal dilas menggunakan las SMAW dengan metode multipass welding. Elektroda yang digunakan adalah elektroda dengan diameter 2,6 mm yang ada dipasaran. Sebelum digunakan untuk mengelas elektroda  dikeringkan sehingga kadar airnya menjadi 10%, 12%, 14%, 16%, 18%, 20%.\r\n\r\nKekuatan tarik, kekuatan luluh, dan perpanjangan semakin menurun seiring dengan bertambah besarnya prosentase kclcmbaban elektroda. Pengelasan dengan kelembaban elektroda 10% menunjukkan kekuatan tarik sebesar 572,775 Mpa, sedangkan ketika elektroda yang digunakan kelembabannya 20% maka kekuatan tariknya hanya 475,001 Mpa. Dengan demikian berarti semakin kering elektroda yang digunakan untuk mengelas maka kekuatan tariknya semakin baik.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3666",
+      "date": "2009-02"
+    },
+    {
+      "publication": "Proceeding Seminar Nasional Industri Service",
+      "publisher": "Fakultas Teknik Universitas Sultan Ageng Tirtayasa",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/01\/37\/77",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2019-08-12 02:45:05",
+      "full_text_status": "public",
+      "issn": "978-979-19280-0-7",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "date": 2009,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13777",
+      "abstract": "Hasil penilaian sejawat sebidang atau peer review",
+      "refereed": "TRUE",
+      "title": "Pengaruh Komposisi Partikel Tempurung Kelapa Sawit Terhadap Sifat Mekanik Komposit Partikel",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sugiyanto",
+            "honourific": null,
+            "given": "Sugiyanto"
+          },
+          "id": "sugiyanto.1957@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 13777,
+      "datestamp": "2019-08-12 02:45:05",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26790",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13777,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "filename": "15. Scan Review Pengaruh Komposisi.. 57-60.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/120094",
+                  "objectid": 26790,
+                  "filesize": 949998,
+                  "mtime": "2019-08-08 18:21:26",
+                  "hash_type": "MD5",
+                  "hash": "4ca34786a2e271b8eb1bb0acdfc4eace",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 120094
+                }
+            ],
+            "main": "15. Scan Review Pengaruh Komposisi.. 57-60.pdf",
+            "docid": 26790,
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/repository.unila.ac.id:8180\/dspace\/handle\/123456789\/6644\/browse-title",
+      "lastmod": "2019-08-12 02:45:05",
+      "userid": 1133
+    },
+    {
+      "place_of_pub": "Cilegon, Banten",
+      "contact_email": "sugiyanto.1957@eng.unila.ac.id",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "given": "Sugiyanto",
+            "family": "Sugiyanto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sugiyanto.1957@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Tarkono",
+            "family": "Tarkono",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "tarkono_irfan@yahoo.com"
+        }
+      ],
+      "isbn": "978-979-19280-0-7",
+      "refereed": "TRUE",
+      "title": "PENGARUH KOMPOSISI PARTIKEL TEMPURUNG KELAPA SAWIT TERHADAP SIFAT MEKANIK KOMPOSIT PARTLKEL",
+      "userid": 1133,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 3693,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3552",
+            "security": "public",
+            "main": "@6. Proceeding Semnas Untirta 2009.pdf",
+            "files": [
+                {
+                  "filesize": 2229154,
+                  "objectid": 3552,
+                  "filename": "@6. Proceeding Semnas Untirta 2009.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25749",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-18 04:28:26",
+                  "fileid": 25749,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "ea8b47fcc833b7373e4085e03c2e0a75"
+                }
+            ],
+            "docid": 3552,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "rev_number": 2
+          }
+      ],
+      "pages": 0,
+      "lastmod": "2017-07-20 09:45:16",
+      "eprintid": 3693,
+      "eprint_status": "archive",
+      "datestamp": "2017-07-20 09:09:34",
+      "metadata_visibility": "show",
+      "status_changed": "2017-07-20 09:09:34",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "keywords": "tempurung kelapa sawit, resin polyester, komposisi, komposit partikel.",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/36\/93",
+      "publisher": "Universitas Sultan Ageng Tirtayasa",
+      "divisions": [
+        "FT7"
+      ],
+      "corp_creators": [
+        "Prodi Teknik Mesin, Fak. Teknik, Unila",
+        "Prodi Teknik Mesin, Fak. Teknik, Unila"
+      ],
+      "abstract": "Sebagian besar industri memiliki masalah limbah. Pengolahan kelapa sawit menghasilkan limbah yang berupa tandan kosong, serabut dan tempurung kelapa sawit yang volumenya cukup banyak sebanding dengan kapasitas produksinya. Meskipun selama ini limbah tersebut tidak menjadi suatu permasalahan yang serius sebab limbah tersebut sudah dapat dimanfaatkan. Namun pemanfaatannya belum begitu maksimal. Pemanfaatan yang memiliki nilai tambah cukup signifikan adalah sebagai bahan komposit. Seiring dengan teknologi bahan maka tidak menutup kemungkinan tempurung kelapa sawit dapat dimanfaatkan secara optimal sebagai bahan teknik.\r\nTempurung kelapa sawit dicampur dengan resin polyester yang akan menghasilkan komposit. Tempurung kelapa sawit dari pabrik kelapa sawit dihancurkan menjadi butiran yang berukuran 0,1 mm sampai 0,5 mm. Kemudian dicampur dengan resin polyester dengan perbandingan volume 1 : 1, 1 : 2 dan 1 : 3. Setelah menjadi komposit maka kemudian diuji kekuatanya dengan uji tarik, uji kekerasannya, dan foto struktur mikro.\r\n\tHasil yang didapat ternyata diperoleh kekerasan maksimal 69,05 HRL pada komposisi volume 1 : 2 (resin : partikel). Untuk kekuatan maksimal juga juga diperoleh dari komposisi yang sama yaitu sebesar 23,95 N\/mm2. Dari hasil tersebut maka disimpulkan komposisi terbaik komposit resin polyester – partikel tempurung kelapa sawit adalah 1 : 2 (resin polyester : partikel tempurung kelapa sawit). Sehingga pada akhirnya komposit tersebut dapat dimanfaatkan menjadi bahan teknik.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3693",
+      "date": "2009-04",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published"
+    },
+    {
+      "full_text_status": "public",
+      "status_changed": "2017-07-20 09:07:17",
+      "ispublished": "pub",
+      "keywords": "tool auxiliary cutting edge angle, surface roughness, tool age",
+      "rev_number": 10,
+      "publisher": "LPPM Unila",
+      "dir": "disk0\/00\/00\/36\/73",
+      "divisions": [
+        "FT7"
+      ],
+      "abstract": "In manufacturing industries not quit off from quality that planned by consumer. Almost all manufacturing industries not quit off from machining process that be nub of the manufacturing process. Product geometry and variation accuracy need human resources to  be more developed. Surface roughness is one of factor that determines product quality from a turning process.\r\nA research that analyzing effect of tool auxiliary cutting edge angle (kr’), cutting speed (v) and feeding movement (f) can be use to predicts tool age. Turning process on AISI 1020 low steel carbon type which have been made with tool auxiliary cutting edge angle (kr’) variation, i.e : kr’1 = 20, kr’2 = 40, kr’3 = 60, kr’4 = 80, kr’5 = 100, kr’6 = 120, kr’7 = 140, and cutting speed (v), i.e: v1 =\r\n13.79 m\/min, v2 = 25.35 m\/min, v2 = 31.69 m\/min.\r\nAnalysis of surface roughness data obtained that tool auxiliary cutting edge angle (kr’) has the longest tool age is 60 with cutting speed (v) is 25.35 m\/min, i.e 2.21 µm, whereas the highest surface roughness value achieved 3.73 µm with tool auxiliary cutting edge angle (kr’) is 140 and cutting speed (v) 13.79 m\/min. Then, the highest tool age obtained in kr’ = 60  with v = 13.79 m\/min,i.e: 793.02 seconds, whereas the lowest tool age obtained in kr’ = 160  with v = 31.69 m\/min,i.e: 81.12 seconds. The data give a conclusion that the tool auxiliary cutting edge angle (kr’) affecting the value of surface roughness.",
+      "corp_creators": [
+        "Prodi Teknik Mesin, Fak. Teknik, Unila",
+        "Prodi Teknik Mesin, Fak. Teknik, Unila"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3673",
+      "date": "2009-10",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "series": "C",
+      "contact_email": "sugiyanto.1957@eng.unila.ac.id",
+      "place_of_pub": "Bandar Lampung",
+      "isbn": "978-979-8510-07-6",
+      "creators": [
+        {
+          "id": "sugiyanto.1957@eng.unila.ac.id",
+          "name": {
+            "given": "Sugiyanto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sugiyanto"
+          }
+        },
+        {
+          "name": {
+            "given": "Tarkono",
+            "family": "Tarkono",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "tarkono_irfan@yahoo.com"
+        }
+      ],
+      "type": "book",
+      "title": "SURFACE QUALITY OF AISI 1020 STEEL TURNING PROCESS WITH TOOL AUXILIARY CUTTING EDGE ANGLE (Kr’) VARIATION",
+      "refereed": "TRUE",
+      "userid": 1133,
+      "official_url": "http:\/\/lemlit.unila.ac.id",
+      "lastmod": "2017-07-20 09:07:17",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-17 22:38:46",
+                  "filesize": 753346,
+                  "objectid": 3535,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25645",
+                  "filename": "@5. Prosiding Unila  2009.pdf",
+                  "datasetid": "document",
+                  "fileid": 25645,
+                  "mime_type": "application\/pdf",
+                  "hash": "f3f350ef861449475c983ff2666df230"
+                }
+            ],
+            "main": "@5. Prosiding Unila  2009.pdf",
+            "docid": 3535,
+            "language": "id",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "eprintid": 3673,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3535",
+            "pos": 1
+          }
+      ],
+      "pages": 0,
+      "datestamp": "2017-07-20 09:07:17",
+      "eprint_status": "archive",
+      "eprintid": 3673,
+      "metadata_visibility": "show"
+    }
+]
+

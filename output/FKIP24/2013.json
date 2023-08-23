@@ -1,0 +1,70 @@
+[
+    {
+      "monograph_type": "project_report",
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23805",
+      "date": 2013,
+      "divisions": [
+        "FKIP24"
+      ],
+      "publisher": "BE PRESS",
+      "dir": "disk0\/00\/02\/38\/05",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-08-31 01:56:43",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 23805,
+      "datestamp": "2020-08-31 01:56:43",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217224",
+                  "filename": "Kompetensi Guru Profesional bidang pendidikan IPS di Provinsi Lampung.pdf",
+                  "filesize": 8849079,
+                  "objectid": 37438,
+                  "mtime": "2020-08-30 06:07:04",
+                  "hash_type": "MD5",
+                  "hash": "05437b9956e7f3df87b866b4702ba9e9",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 217224
+                }
+            ],
+            "main": "Kompetensi Guru Profesional bidang pendidikan IPS di Provinsi Lampung.pdf",
+            "docid": 37438,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37438",
+            "pos": 1,
+            "eprintid": 23805,
+            "placement": 1
+          }
+      ],
+      "pages": 23,
+      "lastmod": "2020-08-31 01:56:43",
+      "userid": 250,
+      "title": "Kompetensi Guru Sejarah SMA Negeri Tulang Bawang Barat",
+      "type": "monograph",
+      "creators": [
+        {
+          "id": "suparman.arif@fkip.unila.ac.id",
+          "name": {
+            "family": "ARIF",
+            "lineage": null,
+            "honourific": null,
+            "given": "SUPARMAN"
+          }
+        }
+      ]
+    }
+]
+

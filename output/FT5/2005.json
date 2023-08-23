@@ -1,0 +1,144 @@
+[
+    {
+      "event_location": "Bandar Lampung",
+      "creators": [
+        {
+          "name": {
+            "given": "Ahmad Saudi",
+            "honourific": null,
+            "family": "Samosir",
+            "lineage": null
+          },
+          "id": "ahmad.saudi@eng.unila.ac.id"
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "event_dates": "12-13 September 2005",
+      "refereed": "TRUE",
+      "title": "Impelementasi Teknik Feed Forward untuk Mengurangi Riak Keluaran Konverter DC ke DC",
+      "userid": 504,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/268",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 273,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2016-08-02 03:43:16",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1526",
+                  "filename": "Paper_Seminar_ASET_2005.pdf",
+                  "filesize": 12246233,
+                  "objectid": 268,
+                  "mime_type": "application\/pdf",
+                  "hash": "5ed7d25f36de4ac70dfbf7ed16872e08",
+                  "fileid": 1526,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Paper_Seminar_ASET_2005.pdf",
+            "docid": 268,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2016-08-02 04:19:01",
+      "eprintid": 273,
+      "eprint_status": "archive",
+      "datestamp": "2016-08-02 04:19:01",
+      "metadata_visibility": "show",
+      "status_changed": "2016-08-02 04:19:01",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/02\/73",
+      "event_type": "conference",
+      "abstract": "Catu data DC yang dapat menghasilkan tegangan keluaran dengan riak yang sangat kecil sangat diperlukan dalam berbagai aplikasi industri dan peralatan Telekomunikasi. Makalah ini mengusulkan sebuah metoda untuk meminimisasi riak tegangan keluaran konverter DC ke DC. Untuk menghasilkan riak tegangan keluaran yang rendah tanpa menggunakan filter LC yang besar diusulkan sebuah konverter DC ke DC yang menggunakan teknik feed forward. Pada Makalah ini dilakukan studi penggunaan Teknik Feed Forward untuk mengurangi riak keluaran konverter DC ke DC. Pada teknik Feed Forward tegangan masukan di sensor dan digunakan untuk menghasilkan sinyal kontrol dari konverter DC ke DC. Penelitian dilakukan melalui simulasi komputer menggunakan Matlab Simulink.",
+      "date": "2005-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/273",
+      "event_title": "National Seminar on ASET '05",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published"
+    },
+    {
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "date": "2005-09-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/653",
+      "volume": 2,
+      "abstract": "Karya Ilmiah ini mepresentasikan tentang Implementasi Teknik Feed Forward Untuk Mengurangi Riak Keluaran Konverter DC ke DC. \r\nPembahasan dimulai dengan analisa teoritis persamaan tegangan keluaran converter DC ke DC, dan dilanjutkan dengan perancangan teknik control Feed Forward. Rancangan Teknik Kontrol Feed Forward yang diusulkan dimodelkan dan disimulasikan menggunakan perangkat lunak Simulink. Kemudian dilakukan pembangunan Hardware untuk memvalidasi unjuk kerja rangkaian.",
+      "publication": "Proceeding National Seminar on ASET 2005",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/00\/06\/53",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2016-09-23 07:34:08",
+      "issn": "979-8287-80-0",
+      "full_text_status": "public",
+      "pagerange": "138-147",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 653,
+      "datestamp": "2016-09-23 07:34:08",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "19_Proceeding Nasional ASET 2005.pdf",
+            "docid": 558,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-23 06:20:52",
+                  "filesize": 3218112,
+                  "objectid": 558,
+                  "filename": "19_Proceeding Nasional ASET 2005.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3622",
+                  "fileid": 3622,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "e8a064d8ea89ba09e615c0c7b7020031"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/558",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 653
+          }
+      ],
+      "lastmod": "2016-09-23 07:34:08",
+      "userid": 504,
+      "refereed": "TRUE",
+      "title": "Implementasi Teknik Feed Forward Untuk Mengurangi Riak Keluaran Konverter DC ke DC",
+      "creators": [
+        {
+          "id": "ahmad.saudi@eng.unila.ac.id",
+          "name": {
+            "given": "Ahmad Saudi",
+            "honourific": null,
+            "family": "Samosir",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article"
+    }
+]
+

@@ -1,0 +1,855 @@
+[
+    {
+      "status_changed": "2016-09-19 06:11:23",
+      "issn": "2087-2577",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publication": "The 4th Indonesia Japan Joint Scientific Symposium 2010",
+      "publisher": "Chiba University & Universitas Indonesia",
+      "dir": "disk0\/00\/00\/05\/86",
+      "divisions": [
+        "FT7"
+      ],
+      "volume": 1,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Abstract—Adhesive bonded joint tubular shape are \r\nwidely used in the aerospace and automotive industries.\r\nHowever, the literature study showed that the stress\r\ndistribution at the joint, when loaded, is not evenly\r\ndistributed and creates stress concentration at the edges.\r\nThe strength and lifetime of adhesive bonded joints can be\r\nsignificantly improved by reducing the stress concentration\r\nat the edges. Attempts have been made by researchers to\r\nimprove the joint design so that the stress would be more\r\nevenly distributed and minimize stress concentration,\r\nhowever, the improvement has been very limited. In this\r\nwork, a parameter study has been performed to observe the\r\nproperties of adhesive joint of torque loaded tube. Based on\r\nthe observation, a new type called mixed-adhesive technique\r\nis proposed which successfully reduces the stress\r\nconcentration at the edge during torque loading. This\r\nmethod successfully increase safety factor to be 18.75 % and\r\n83.88%, respectively compared to the use of brittle alone\r\nand ductile adhesives alone.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/586",
+      "date": "2010-09-29",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "jamiatulakmal@gmail.com",
+          "name": {
+            "family": "Akmal",
+            "lineage": null,
+            "honourific": null,
+            "given": "Jamiatul"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "Mixed-Adhesive Technique on Joint Strength of Torque Loaded Tube Optimization",
+      "number": 1,
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Akmal",
+            "given": "Jamiatul"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "jamiatulakmal@gmail.com"
+        }
+      ],
+      "userid": 24,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 586,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/499",
+            "security": "public",
+            "docid": 499,
+            "main": "Mixed adhesive technique_IJJS 2010.pdf",
+            "files": [
+                {
+                  "mtime": "2016-09-15 04:45:51",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3204",
+                  "filename": "Mixed adhesive technique_IJJS 2010.pdf",
+                  "objectid": 499,
+                  "filesize": 6684335,
+                  "mime_type": "application\/pdf",
+                  "hash": "051fdc96ef18dffdb58c0946df4af5ed",
+                  "fileid": 3204,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2016-09-19 06:11:23",
+      "eprintid": 586,
+      "eprint_status": "archive",
+      "datestamp": "2016-09-19 06:11:23",
+      "pagerange": "01C12-01C12",
+      "metadata_visibility": "show"
+    },
+    {
+      "datestamp": "2016-09-19 06:11:09",
+      "eprint_status": "archive",
+      "eprintid": 584,
+      "metadata_visibility": "show",
+      "pagerange": "387-397",
+      "userid": 24,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": "-",
+      "lastmod": "2016-11-04 02:59:16",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 584,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/497",
+            "pos": 1,
+            "security": "public",
+            "docid": 497,
+            "main": "Studi parameter dan kondisi anomali_SNTTM IX UNSRI (2010).pdf",
+            "files": [
+                {
+                  "mtime": "2016-09-15 04:19:06",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3189",
+                  "filename": "Studi parameter dan kondisi anomali_SNTTM IX UNSRI (2010).pdf",
+                  "filesize": 987615,
+                  "objectid": 497,
+                  "mime_type": "application\/pdf",
+                  "hash": "94e37151a86e8ca6327ffbee7356d972",
+                  "datasetid": "document",
+                  "fileid": 3189
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "creators": [
+        {
+          "id": "jamiatulakmal@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Akmal",
+            "honourific": null,
+            "given": "Jamiatul"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Studi Parameter dan Kondisi Anomali dalam Analisis Resiko\r\nPipa Penyalur Bawah Laut",
+      "refereed": "FALSE",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Secara umum pipeline memiliki peranan penting dalam sistem transmisi dan distribusi\r\nuntuk minyak dan gas, oleh karena itu faktor keamanan menjadi bagian penting yang\r\nharus dievaluasi. Studi lebih lanjut dilakukan terhadap analisis resiko berdasarkan\r\nmetode indeks demi meningkatkan sistem keamanan offshore pipeline. Pertama\r\ndilakukan studi terhadap pengaruh nilai resiko berdasarkan perubahan parameter wall\r\nthickness ratio, pressure test ratio, preventive maintenance, CIS polarization, coating\r\neffectiveness, dan type of fluid. Kedua dilakukan studi terhadap pengaruh nilai resiko\r\nberdasarkan kondisi anomali yang terjadi, meliputi freespan dan anodes. Hasil\r\nmenunjukkan setiap peningkatan lima parameter tersebut akan meningkatkan nilai PoF.\r\nPeningkatan nilai PoF terbesar dipengaruhi oleh perubahan parameter coating\r\neffectiveness, yaitu sebesar 6.87% dari nilai total PoF. Sedangkan untuk perubahan\r\nparameter fluida produk, hasil menunjukkan bahwa propana memiliki rata-rata nilai\r\nCoF sebesar 49.88% dari nilai CoF benzena, serta fasa gas memiliki nilai CoF yang\r\npaling tinggi. Anomali pada freespan akan meningkatkan nilai resiko, sedangkan\r\nanomali anodes tidak berpengaruh terhadap perhitungan nilai resiko menggunakan\r\nmetode indeks.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": "-",
+      "date": "2010-10-15",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/584",
+      "publisher": "Jurusan Teknik Mesin UNSRI",
+      "publication": "Prosiding Seminar Nasional Tahunan Teknik Mesin ke-9 UNSRI",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/00\/05\/84",
+      "full_text_status": "public",
+      "issn": "978-602-97742-0-7",
+      "status_changed": "2016-09-19 06:11:09",
+      "rev_number": 10,
+      "ispublished": "pub"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "event_title": "Seminar Nasional Sains & Teknologi – III",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51920",
+      "date": "2010-10-19",
+      "abstract": "Industri merupakan salah satu sektor pengguna energi terbesar. Konsumsi energi final sektor industri berdasarkan data tahun 2006 adalah 317.106.778 sbm atau sekitar 36% dari total konsumsi energi final Indonesia pada tahun tersebut.\r\nKomponen biaya energi suatu industri berkisar antara 10% - 30% dari total biaya produksi. Fluktuatifnya harga energi di pasar global menambah ketidakpastian dalam hal perencanaan biaya produksi dan ini menambah pentingnya untuk melakukan kegiatan efisiensi energi. Hal tersebut dapat dicapai dengan beberapa cara seperti, perilaku pemakaian yang efisien, perawatan yang baik, penggunaan peralatan yang hemat energi, dan pemanfaatan kembali energi yang terbuang.\r\nBesarnya penghematan yang dapat dilakukan sangat tergantung pada bentuk usaha yang dapat dilakukan. Tujuan dari penelitian ini adalah penghematan dalam hal biaya energi, efisiensi energi untuk meningkatkan daya saing produk suatu industri. Langkah pertama yang dilakukan adalah audit energi. Usaha ini dilakukan untuk menentukan ketidakefisienan yang ada, untuk penyusunan target penghematan, dan penentuan potensi penghematan yang akan dapat dicapai. Setelah audit dilakukan, target yang rasional ditentukan, baru kemudian dilanjutkan dengan penyusunan rencana aksi dan pengimplementasiaannya.\r\nPada industri furniture ini, langkah yang diusulkan adalah penggunaan sistem pembangkit listrik sendiri dengan menggunakan sistem pembangkit kogenerasi. Dimana sistem pembangkit ini nantinya, selain akan menghasilkan energi listrik juga akan menghasilkan uap air\/steam yang akan digunakan sebagai pengering kayu. Dari hasil audit juga ditemukan suatu kesalahan yang fatal akibat terbaliknya pemasangan alat pengukur pemakainan listrik pada waktu beban\r\npucak dan pemakaian waktu beban normal. Besar kerugian akibat hal ini diprediksikan sebesar Rp 403,917,239,- selama dua tahun pemakaian.",
+      "corp_creators": [
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung"
+      ],
+      "event_type": "conference",
+      "dir": "disk0_bak\/00\/05\/19\/20",
+      "divisions": [
+        "FT7"
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "status_changed": "2023-05-22 01:06:39",
+      "metadata_visibility": "show",
+      "pagerange": "67-80",
+      "datestamp": "2023-05-22 01:06:39",
+      "eprintid": 51920,
+      "eprint_status": "archive",
+      "lastmod": "2023-05-22 01:06:39",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251141",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51920,
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "main": "Analisis Efisiensi Energi di Industri Studi kasus Industri Furniture di Semarang, Jawa Tengah.pdf",
+            "files": [
+                {
+                  "objectid": 251141,
+                  "filesize": 1740728,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/615177",
+                  "filename": "Analisis Efisiensi Energi di Industri Studi kasus Industri Furniture di Semarang, Jawa Tengah.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-21 06:07:38",
+                  "fileid": 615177,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "59c99299cb856b6f18fe461190c210b7"
+                }
+            ],
+            "docid": 251141,
+            "format": "text"
+          }
+      ],
+      "userid": 569,
+      "title": "Analisis Efisiensi Energi di Industri Studi kasus: Industri Furniture di Semarang, Jawa Tengah",
+      "event_dates": "18-19 Oktober 2010",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "harmen.1969@eng.unila.ac.id",
+          "name": {
+            "given": "Harmen",
+            "family": "Burhanuddin",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "event_location": "Lembaga Penelitian – Universitas Lampung Bandar Lampung"
+    },
+    {
+      "corp_creators": [
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung"
+      ],
+      "abstract": "Saat ini sampah telah menjadi permasalahan kesehatan dan lingkungan sehingga pengelolaannya perlu dilakukan secara komprehensif dan terpadu dari hulu ke hilir agar dapat memberikan manfaat secara ekonomi, peningkatan kesehatan masyarakat, aman bagi lingkungan, serta dapat mengubah perilaku masyarakat. Lebih lanjut juga disebutkan bahwa dalam pengelolaan sampah diperlukan kepastian hukum, kejelasan tanggung jawab dan kewenangan pemerintah pusat, pemerintahan daerah, serta peran masyarakat dan dunia usaha sehingga pengelolaan sampah dapat berjalan secara proporsional, efektif, dan efisien. Tujuan dari penelitian ini adalah untuk mengoptimalkan sistem manajemen pengelolaan sampah padat di Koda Bandar Lampung dengan menggunakan metode R4P (Reuse, Recycle, Reduce, Replace dan Participation) dan memprediksi jumlah sarana dan prasarana yang dibutuhakan untuk pengelolan sampah saat ini. Penelitian dilakukan dengan metode survey. Dari hasil penelitian diketahui bahwa jika sistem pengelolaan sampah terpadu dengan menggunakan model R4P ini dapat dilakukan di semua kelurahan yang ada di Kota Bandar Lampung maka akan dapat direduksi sekitar 73,55% (1.595 m3) sampah. Dengan laju pertumbuhan penduduk sebesar 1,68%, maka diperkirakan jumlah penduduk Kota Bandar Lampung tahun 2010 berjumlah sebanyak 867.686 jiwa, jumlah produksi sampah kota diperkirakan sebesar 2.169 m3\/hari. Dengan demikian tanpa menggunakan metoda R4P maka masih dibutuhkan 217 unit truk sampah, 111 unit TPS, 124 kontainer dan 897 unit gerobak sokli. Terlihat bahwa fasilitas sangat tidak memadai untuk mengelola sampah kota Bandar Lampung. Kebutuhan yang sesuai dengan produksi pada tahun 2010 yaitu seperti truk masih dibutuhkan sekitar 133 unit, TPS (TPS permanen dan kontainer) dibutuhkan 161 unit lagi, dan gerobak SOKLI berserta petugasnya masih dibutuhkan 487 unit lagi.",
+      "date": "2010-10-19",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51929",
+      "event_title": "Seminar Nasional Sains & Teknologi  – III",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "status_changed": "2023-05-22 01:06:49",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "dir": "disk0_bak\/00\/05\/19\/29",
+      "divisions": [
+        "FT7"
+      ],
+      "event_type": "conference",
+      "userid": 569,
+      "documents": [
+          {
+            "eprintid": 51929,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251194",
+            "pos": 1,
+            "format": "text",
+            "main": "Pengelolaan Sampah Terpadu Kota Bandarlampung dengan Model R4P.pdf",
+            "docid": 251194,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-21 10:02:46",
+                  "filesize": 1651334,
+                  "objectid": 251194,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/615284",
+                  "filename": "Pengelolaan Sampah Terpadu Kota Bandarlampung dengan Model R4P.pdf",
+                  "fileid": 615284,
+                  "datasetid": "document",
+                  "hash": "8981bbb8562a327903ca4fd3d6d42081",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2023-05-22 01:06:49",
+      "eprint_status": "archive",
+      "eprintid": 51929,
+      "datestamp": "2023-05-22 01:06:49",
+      "pagerange": "67-80",
+      "metadata_visibility": "show",
+      "event_location": "Lembaga Penelitian  – Universitas Lampung, Bandarlampung",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "arinal.hamni@yahoo.com",
+          "name": {
+            "given": "Arinal",
+            "lineage": null,
+            "family": "Hamni",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Gandidi",
+            "honourific": null,
+            "given": "Indra Mamad"
+          },
+          "id": "indra.mamad@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Burhanuddin",
+            "honourific": null,
+            "given": "Harmen"
+          },
+          "id": "harmen.1969@eng.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "event_dates": "18-19 Oktober 2010",
+      "title": "Pengelolaan sampah terpadu Kota Bandarlampung dengan model R4P (reuse, recycle, reduce, replace, and participation)"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "TJ",
+        "TS"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7013",
+      "date": "2010-02",
+      "volume": 3,
+      "publisher": "IEEE Press",
+      "publication": "The 2nd International Conference on Computer and Automation Engineering 2010",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/00\/70\/13",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "978-1-4244-5586-7",
+      "status_changed": "2018-06-21 01:38:15",
+      "metadata_visibility": "show",
+      "pagerange": "378-383",
+      "datestamp": "2018-06-21 01:38:15",
+      "eprintid": 7013,
+      "eprint_status": "archive",
+      "lastmod": "2018-06-21 01:38:15",
+      "documents": [
+          {
+            "docid": 19987,
+            "main": "Development of Closed Bounded Volume (CBV) Grouping Method of Complex Faceted Model through CBV Boundaries Identification.pdf",
+            "files": [
+                {
+                  "mtime": "2018-06-04 08:21:52",
+                  "hash_type": "MD5",
+                  "filename": "Development of Closed Bounded Volume (CBV) Grouping Method of Complex Faceted Model through CBV Boundaries Identification.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/64200",
+                  "filesize": 2541935,
+                  "objectid": 19987,
+                  "hash": "9e2d1c99cdb6b13d13c512da74b65c16",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 64200
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 7013,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19987",
+            "security": "public"
+          }
+      ],
+      "userid": 59,
+      "title": "Development of Closed Bounded Volume (CBV) Grouping Method of Complex Faceted Model Through CBV Boundaries Identification",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Gandjar",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kiswanto"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Panuju",
+            "lineage": null,
+            "given": "Yahya"
+          },
+          "id": "achmad.yahya@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "contact_email": "ahmad.suudi@eng.unila.ac.id",
+      "refereed": "TRUE",
+      "title": "A study of limit pressure of LPG 3kg tanks using finite element method",
+      "creators": [
+        {
+          "id": "asnawi.lubis@eng.unila.ac.id",
+          "name": {
+            "given": "Asnawi",
+            "family": "Lubis",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Saragih",
+            "lineage": null,
+            "given": "Rudolf S"
+          }
+        },
+        {
+          "id": "ahmad.suudi@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Suudi",
+            "lineage": null,
+            "given": "Ahmad"
+          }
+        }
+      ],
+      "type": "article",
+      "documents": [
+          {
+            "main": "SNTTM9UNSRI2010LPG3KG.pdf",
+            "docid": 21951,
+            "files": [
+                {
+                  "fileid": 86057,
+                  "datasetid": "document",
+                  "hash": "5d6d4fa931adb95130ddb1dd4399b76a",
+                  "mime_type": "application\/pdf",
+                  "filesize": 12806750,
+                  "objectid": 21951,
+                  "filename": "SNTTM9UNSRI2010LPG3KG.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/86057",
+                  "hash_type": "MD5",
+                  "mtime": "2018-10-11 06:31:55"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 8869,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21951",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/bkstm9.unsri.ac.id",
+      "lastmod": "2018-10-26 10:10:45",
+      "number": "-",
+      "userid": 520,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CLB"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/CLB"
+        }
+      ],
+      "pagerange": "149-154",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 8869,
+      "datestamp": "2018-10-26 10:10:45",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2018-10-26 10:10:45",
+      "issn": "978-602-97742-0-7",
+      "full_text_status": "public",
+      "publisher": "Universitas Sriwijaya, Palembang",
+      "dir": "disk0\/00\/00\/88\/69",
+      "publication": "Proceeding SNTTM IX",
+      "divisions": [
+        "FT7"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8869",
+      "date": "2010-10-13",
+      "volume": 9,
+      "abstract": "Tulisan ini melaporkan hasil studi numerik dengan metode elemen hingga terhadap limit tekanan intemal sebuah tabung LPG 3 kilogram yang dipakai dalam rumah tangga di Indonesia. Dengan mengabaikan efek sambungan las keliling dan handguard, serta dengan asumsi bahwa prilaku material adalah elastic-perfectly-plastic, limit tekanan telah diperoleh dengan analisis nonlinear menggunakan algoritma Newton-Raphson. Limit tekanan telah diperoleh sebesar 1.25 kali tekanan internal untuk mencapai Iuluh. Tegangan (von Mises) pada saat limit tekanan dicapai diperoleh sebesar 1.75 kali tegangan Iuluh. Hasil studi ini juga menunjukkan bahwa tekanan operasi tabung LPG 3 kilogram sebesar 2.1 11Pa adalah nilai tekanan yang aman denganfaktor keamanan sebasar 2.48. Hasil studi ini dapat digunakan untuk memperkaya materi sosialisasi dan edukasi bagi masyarakat dalam mendukung pemerintah mempetvepat konversi energy dari minyak tanah ke gas.\r\n\r\nKata Kunci: tabung LPG, limit tekanan, metode elemen higga, nonlinear, algoritma Newton-Raphson",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "completed"
+    },
+    {
+      "abstract": "Debonding tensile test of single fiber bundle is carried out for static and intermediate loading rates. Based on the Young Modulus test, the viscoelastic property of interface layer and polyester matrix are identified. Then using those viscoelastic parameters, the criterion for the initiation of debonding which is independent with the loading rate is identified. One single fiber bundle model will be extended to the three-point bend model to calculate the fracture toughness of randomly oriented fiber.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40052",
+      "date": 2010,
+      "subjects": [
+        "TA",
+        "TJ"
+      ],
+      "date_type": "published",
+      "status_changed": "2022-03-10 04:22:32",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Institute Technology Bandung",
+      "divisions": [
+        "FT7"
+      ],
+      "publication": "Conference Proceeding dari Regional conference on mechanical and aerospace technology (RCMEAE) 2010",
+      "dir": "disk0\/00\/04\/00\/52",
+      "userid": 326,
+      "documents": [
+          {
+            "eprintid": 40052,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161343",
+            "pos": 1,
+            "format": "text",
+            "main": "2010_RCMEAE_Debonding_2010_1.pdf",
+            "docid": 161343,
+            "files": [
+                {
+                  "fileid": 448000,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "6e0def0af6897c649af92d505f1e628e",
+                  "objectid": 161343,
+                  "filesize": 2765152,
+                  "filename": "2010_RCMEAE_Debonding_2010_1.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/448000",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-09 09:25:05"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2022-03-10 04:22:32",
+      "eprintid": 40052,
+      "eprint_status": "archive",
+      "datestamp": "2022-03-10 04:22:32",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "id": "shirley.savetlana@eng.unila.ac.id",
+          "name": {
+            "given": "Shirley",
+            "honourific": null,
+            "family": "Savetlana",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Homma",
+            "given": "Hirommi"
+          }
+        },
+        {
+          "name": {
+            "given": "Fergyanto",
+            "family": "Gunawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Approach to Dynamic Fracture Toughness of GFRP from aspect of Viscoelastic and Debonding Behaviours"
+    },
+    {
+      "eprint_status": "archive",
+      "eprintid": 24353,
+      "datestamp": "2020-10-25 06:31:36",
+      "pagerange": "30-35",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 520,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Reduksi Bising Jurnal Mechanical 2010.pdf",
+            "docid": 38081,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221562",
+                  "filename": "Reduksi Bising Jurnal Mechanical 2010.pdf",
+                  "objectid": 38081,
+                  "filesize": 394855,
+                  "mtime": "2020-10-23 06:32:44",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "ed055ff5332c591d6b9c816b57d2f133",
+                  "datasetid": "document",
+                  "fileid": 221562
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38081",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 24353
+          }
+      ],
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/",
+      "lastmod": "2020-10-25 06:31:36",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suudi",
+            "lineage": null,
+            "given": "Ahmad"
+          },
+          "id": "ahmad.suudi@eng.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Reduksi Bising Motor Diesel Menggunakan Partial Enclosure",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "volume": 1,
+      "abstract": "Noise is one of the environmental problems that we must concern on it, not just it can produce  10 \r\nhealthy problems, but it can reduce working productivity too. This research is  aimed to reduce\r\nnoise produced by diesel engine in the laboratory of motor combustion engine.  \r\nThe experiment was conducted by using partial enclosure to enclose side by side of the engine.\r\nThe enclosure was made by plywood 1.2 cm  and filled by coconut husk. The data was taken by\r\nstarted giving 1000 rpm first to the engine, then  with 500 rpm gradually until 3500 rpm. The probe 15 \r\nused in this research Integrating Sound Level Meter - Type 2239 A. \r\nThe result shown that by using partial enclosure noise was reduce about 15,52 % to the origin \r\nand the distribution of the noise high on air intake channel and discharge channel of the engine.  \r\nKeywords: noise reduction, partial enclosure, sound level meter.",
+      "date": "2010-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24353",
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "Jurusan Teknik Mesin FT– Universitas Lampung.",
+      "publication": "Jurnal Mechanical",
+      "dir": "disk0\/00\/02\/43\/53",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/journal.eng.unila.ac.id\/index.php\/mech\/article\/view\/183"
+        }
+      ],
+      "status_changed": "2020-10-25 06:31:36",
+      "issn": "2087-1880",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6
+    },
+    {
+      "issn": "2087-1880",
+      "full_text_status": "public",
+      "status_changed": "2017-07-20 09:09:44",
+      "keywords": "posisi pengelasan, butt weld joint, baja AISI 1045",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "Jurusan Teknik Mesin Universitas Lampung",
+      "publication": "Mechanical Jurnal Ilmiah Teknik Mesin",
+      "dir": "disk0\/00\/00\/36\/95",
+      "abstract": "Lingkup penggunaan teknik pengelasan dalam konstruksi sangat luas, meliputi perkapalan, jembatan, rangka baja, bejana tekan, pipa pesat, pipa saluran, kendaraan rel dan lain sebagainya. Selain untuk pembuatan, proses pengelasan juga digunakan untuk reparasi atau perbaikan. Posisi atau sikap pengelasan yaitu pengaturan posisi atau letak gerakan elektroda las. Posisi pengelasan yang digunakan biasanya tergantung dari letak kampuh-kampuh atau celah-celah benda kerja yang akan dilas.\r\n\tStudi yang dilakukan ini bertujuan untuk mengetahui perbedaan mutu pada setiap posisi pengelasan (down hand position, horizontal position, vertical position, over head position) pada sambungan las butt weld joint, agar dapat memperbaiki kekuatan dari hasil sambungan lasnya.\r\n\tBaja yang digunakan yaitu baja karbon sedang (AISI 1045) dan empat posisi pengelasan yaitu down hand position, horizontal position, vertical position, over head position. Pengelasan dilakukan dengan las SMAW U dengan menggunakan kampuh single V, single U, dan single J serta lapisan las sebanyak 3 lapis (single V, single U, dan single J) dan lapis 4 lapis (single V dan single U). \r\n\tUkuran spesimen uji tarik sesuai standar ASTM E-8 tahun 2004. Dari data hasil pengujian diperoleh nilai rata-rata kekuatan tarik pada semua kampuh las dengan lapisan las sebanyak tiga lapis yang tertinggi yaitu pada pengelasan down hand position kemudian vertical position dan horizontal position dan rata-rata kekuatan tarik terendah yaitu pada pengelasan over head position. Kekuatan tarik dari pengelasan horizontal position dapat diperbaiki dengan memperbanyak lapisan las agar semua kampuh dapat terisi pebuh. Sedangkan untuk memperbaiki nilai kekuatan tarik pada pegelasan over head position dapat menggunakan kampuh las yang lebih luas serta memperbanyak lapisan las agar semua kampuh las terisi penuh.",
+      "volume": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3695",
+      "date": "2010-09",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "contact_email": "sugiyanto.1957@eng.unila.ac.id",
+      "creators": [
+        {
+          "id": "tarkono_irfan@yahoo.com",
+          "name": {
+            "given": "Tarkono",
+            "family": "Tarkono",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sugiyanto",
+            "lineage": null,
+            "family": "Sugiyanto",
+            "honourific": null
+          },
+          "id": "sugiyanto.1957@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Andriyanto",
+            "given": "Andriyanto"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "title": "Studi Kekuatan Sambungan Las Baja AISI 1045 dengan Berbagai Metode Posisi Pengelasan",
+      "refereed": "TRUE",
+      "userid": 1133,
+      "number": 1,
+      "lastmod": "2017-07-20 09:09:44",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3556",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3695,
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "rev_number": 2,
+            "content": "published",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 25768,
+                  "hash": "8132f6bf1b054f383d210b879784c116",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-18 04:59:17",
+                  "filesize": 925981,
+                  "objectid": 3556,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25768",
+                  "filename": "@7. Jurnal Mechanical 2010.pdf"
+                }
+            ],
+            "main": "@7. Jurnal Mechanical 2010.pdf",
+            "docid": 3556,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2017-07-20 09:09:44",
+      "eprint_status": "archive",
+      "eprintid": 3695,
+      "metadata_visibility": "show",
+      "pagerange": "36-44"
+    },
+    {
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2016-09-19 06:14:00",
+      "issn": "1410-9867",
+      "full_text_status": "public",
+      "publisher": "Jurusan Teknik Mesin – Fakultas Teknologi Industri, Universitas Kristen Petra, Surabaya",
+      "divisions": [
+        "FT7"
+      ],
+      "publication": "Jurnal Teknik Mesin, Jurnal Keilmuaan dan Terapan Teknik Mesin",
+      "dir": "disk0\/00\/00\/06\/14",
+      "date": "2010-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/614",
+      "volume": 12,
+      "abstract": "Tulisan ini membahas pemodelan dan simulasi pengelasan berbasis metode elemen hingga\r\n(MEH) untuk memprediksi distorsi pengelasan bilah roda traktor. Dua pemodelan MEH\r\ndibutuhkan untuk mendapatkan model distorsi pengelasan, yaitu termal dan elasto-plastis.\r\nPengaruh termal pengelasan diasumsikan sebagai gaya tendon dijadikan masukan pada\r\nanalisis elasto-plastik. Hasil simulasi distorsi pengelasan diverifikasi dengan menggunakan\r\ndata eksperimen pengelasan. Hasil verifikasi menunjukkan kemiripan bentuk deformasi\r\npengelasan antara simulasi dan eksperimen. Deviasi nilai distorsi displacement antara simulasi\r\ndan eksperimen adalah kecil. Karenanya, simulasi pemodelan deformasi pengelasan\r\nmenggunakan MEH termal elasto-plastis dapat digunakan untuk memprediksi distorsi\r\npengelasan bilah roda traktor. Berdasarkan hasil simulasi, bentuk distorsi displacement radial dan aksial akibat pengelasan bilah dengan urutan serial adalah lebih besar dibandingkan bentuk distorsi akibat pengelasan bilah dengan urutan seperti direkomendasikan. Setelah simulasi pengelasan sejumlah 16 bilah roda traktor, nilai distorsi displacement akibat urutan pengelasan bilah serial diprediksi sebesar 3,393mm, dimana adalah lebih besar dibandingkan nilai 1,440mm akibat urutan pengelasan bilah yang direkomendasikan.",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "Pemodelan dan Simulasi Urutan Pengelasan Bilah Roda Traktor\r\nBerbasis Metoda Elemen Hingga",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "suryadiwansa",
+            "lineage": null,
+            "family": "harun",
+            "honourific": null
+          }
+        }
+      ],
+      "documents": [
+          {
+            "format": "text",
+            "main": "Jurnal Petra.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-16 07:11:26",
+                  "filesize": 2965700,
+                  "objectid": 522,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3372",
+                  "filename": "Jurnal Petra.pdf",
+                  "datasetid": "document",
+                  "fileid": 3372,
+                  "hash": "6dd7363f6919416c203a4ecb7cfede2b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 522,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 614,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/522"
+          }
+      ],
+      "lastmod": "2016-09-19 06:14:00",
+      "official_url": "http:\/\/jurnalmesin.petra.ac.id\/index.php\/mes\/article\/view\/18167",
+      "number": 2,
+      "userid": 316,
+      "pagerange": "109-118",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 614,
+      "datestamp": "2016-09-19 06:14:00"
+    }
+]
+

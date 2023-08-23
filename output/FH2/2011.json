@@ -1,0 +1,836 @@
+[
+    {
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2022-04-01 01:03:28",
+      "issn": "1978-5186",
+      "full_text_status": "public",
+      "publisher": "Fakultas Hukum",
+      "divisions": [
+        "FH2"
+      ],
+      "publication": "Fiat Justisia",
+      "dir": "disk0\/00\/04\/09\/05",
+      "date": "2011-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40905",
+      "subjects": [
+        "K1"
+      ],
+      "refereed": "FALSE",
+      "title": "Fidusia sebagai Lembaga Jaminan Menurut Undang-undang Nomor 42 tahun 1999",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "APRILIANTI",
+            "honourific": null,
+            "given": "APRILIANTI"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "eprintid": 40905,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162294",
+            "pos": 1,
+            "format": "text",
+            "main": "fiat justisia tahun 2011.pdf",
+            "files": [
+                {
+                  "fileid": 454785,
+                  "datasetid": "document",
+                  "hash": "e29d0471dcdc9811cbc16c41a7afedd8",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-31 06:50:16",
+                  "filesize": 2709602,
+                  "objectid": 162294,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454785",
+                  "filename": "fiat justisia tahun 2011.pdf"
+                }
+            ],
+            "docid": 162294,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2022-04-01 01:03:28",
+      "userid": 707,
+      "metadata_visibility": "show",
+      "eprintid": 40905,
+      "eprint_status": "archive",
+      "datestamp": "2022-04-01 01:03:28"
+    },
+    {
+      "userid": 707,
+      "lastmod": "2022-03-31 06:46:08",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 40901,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162290",
+            "security": "public",
+            "main": "jurnal ilmu hukum tahun 2011.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "0ad13714a9ecc420f93de63deb40facc",
+                  "fileid": 454758,
+                  "datasetid": "document",
+                  "mtime": "2022-03-31 04:21:14",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454758",
+                  "filename": "jurnal ilmu hukum tahun 2011.pdf",
+                  "objectid": 162290,
+                  "filesize": 2691690
+                }
+            ],
+            "docid": 162290,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2022-03-31 06:46:08",
+      "eprint_status": "archive",
+      "eprintid": 40901,
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "APRILIANTI",
+            "honourific": null,
+            "given": "APRILIANTI"
+          }
+        }
+      ],
+      "title": "Perjanjian Sewa guna usaha antara Lessee dan Lessor",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40901",
+      "date": 2011,
+      "subjects": [
+        "K1"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-03-31 06:46:08",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "Fiat Justisia",
+      "publisher": "FH Unila",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/04\/09\/01"
+    },
+    {
+      "number": 2,
+      "userid": 940,
+      "documents": [
+          {
+            "main": "JURNAL PRAEVIA, Vol 5 No. 2, Juli-des 2011_2011-1-1.pdf",
+            "files": [
+                {
+                  "hash": "5cd2f05810bd24d7f776a01930660d25",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 98438,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/98438",
+                  "filename": "JURNAL PRAEVIA, Vol 5 No. 2, Juli-des 2011_2011-1-1.pdf",
+                  "objectid": 23664,
+                  "filesize": 1920803,
+                  "mtime": "2019-01-28 06:29:54",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 23664,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 10650,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23664",
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/repository.lppm.unila.ac.id",
+      "eprint_status": "archive",
+      "eprintid": 10650,
+      "id_number": 940,
+      "datestamp": "2019-01-28 08:22:21",
+      "pagerange": "161-172",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Magister Ilmu Hukum Unila",
+        "Fakultas Hukum Universitas Lampung",
+        "Fakultas Hukum Universitas Lampung"
+      ],
+      "abstract": "The research studies about dismissal arrangement and the investigation of the preparation of judicial procedure at PTUN. The research uses normative and empirical jurisdiction. the result of research indicates that dismissal process is done by accepted accusation file. The file is given to the vice clerk of court the it is given to the PTUN head through the clerk of court. The head of court then investigates the administrative accusation to khow whether the accusation can be accepted or rejected.\r\nKey words: arrangement, dismissal, investigation",
+      "date": "2011-07",
+      "projects": [
+        "---"
+      ],
+      "full_text_status": "public",
+      "issn": "1907-8714",
+      "ispublished": "pub",
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id"
+        }
+      ],
+      "lastmod": "2019-01-28 08:22:21",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Afriza",
+            "lineage": null,
+            "given": "rahmai"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Yuswanto",
+            "lineage": null,
+            "honourific": null,
+            "given": "yuswanto"
+          }
+        },
+        {
+          "id": "fxsmj.unila@gmail.com",
+          "name": {
+            "given": "FX",
+            "lineage": null,
+            "family": "Sumarja",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Penetapan Dismissal dan Pemeriksaan Persiapan dalam Proses Beracara di Pengadilan tata Usaha negara",
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10650",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "status_changed": "2019-01-28 08:22:21",
+      "rev_number": 6,
+      "publication": "Praevia",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/01\/06\/50",
+      "funders": [
+        "---"
+      ]
+    },
+    {
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Diah Gustiniati Maulani",
+            "honourific": null,
+            "given": "Diah Gustiniati Maulani"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "title": "Diversi dan Restorative Justice dalam Persepektif Penyelesaian Perkara Anak yang Berkonflik dengan Hukum",
+      "refereed": "FALSE",
+      "datestamp": "2022-07-22 01:04:35",
+      "eprintid": 43540,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 900,
+      "lastmod": "2022-07-22 01:04:35",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165475",
+            "pos": 1,
+            "eprintid": 43540,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475127",
+                  "filename": "Pembangunan Hukum.pdf",
+                  "objectid": 165475,
+                  "filesize": 6640645,
+                  "mtime": "2022-07-21 01:20:47",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "3fbeadefbc15db52b286c9534cebfca4",
+                  "fileid": 475127,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Pembangunan Hukum.pdf",
+            "docid": 165475
+          }
+      ],
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/04\/35\/40",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2022-07-22 01:04:35",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "K1"
+      ],
+      "event_title": "Prosiding Seminar Nasional",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43540",
+      "date": 2011
+    },
+    {
+      "userid": 900,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-21 00:17:04",
+                  "objectid": 165468,
+                  "filesize": 16206408,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475052",
+                  "filename": "Hukum Penitensia.pdf",
+                  "fileid": 475052,
+                  "datasetid": "document",
+                  "hash": "5109d90d790b0558deaf8da72e3173b3",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Hukum Penitensia.pdf",
+            "docid": 165468,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165468",
+            "eprintid": 43532,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2022-07-21 01:14:50",
+      "eprintid": 43532,
+      "eprint_status": "archive",
+      "datestamp": "2022-07-21 01:14:50",
+      "metadata_visibility": "show",
+      "type": "book_section",
+      "creators": [
+        {
+          "name": {
+            "given": "Diah Gustiniati Maulani",
+            "family": "Diah Gustiniati Maulani",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "Hukum Penintesia dan Sistem Pemasyarakatan di Indonesia",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43532",
+      "date": 2011,
+      "subjects": [
+        "K1"
+      ],
+      "book_title": "Hukum Penintesia dan Sistem Pemasyarakatan di Indonesia",
+      "status_changed": "2022-07-21 01:14:50",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FH2"
+      ],
+      "publisher": "Universitas Lampung",
+      "dir": "disk0\/00\/04\/35\/32"
+    },
+    {
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Diah Gustiniati Maulani",
+            "lineage": null,
+            "given": "Diah Gustiniati Maulani"
+          }
+        }
+      ],
+      "title": "Perspektif Pembinaan Narapidana Tindak Pidana Korupsi di Indonesia",
+      "refereed": "FALSE",
+      "datestamp": "2022-07-21 01:15:03",
+      "eprint_status": "archive",
+      "eprintid": 43538,
+      "metadata_visibility": "show",
+      "userid": 900,
+      "lastmod": "2022-07-21 01:15:03",
+      "documents": [
+          {
+            "eprintid": 43538,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165474",
+            "pos": 1,
+            "format": "text",
+            "main": "Prosiding Seminar.pdf",
+            "files": [
+                {
+                  "fileid": 475093,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "fdbd8d55ba516d73148fc03fbab49562",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-21 01:10:51",
+                  "filesize": 4927400,
+                  "objectid": 165474,
+                  "filename": "Prosiding Seminar.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475093"
+                }
+            ],
+            "docid": 165474,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/04\/35\/38",
+      "event_type": "conference",
+      "full_text_status": "public",
+      "status_changed": "2022-07-21 01:15:03",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "event_title": "Prosiding Seminar",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43538",
+      "date": 2011
+    },
+    {
+      "full_text_status": "public",
+      "issn": "1907-8714",
+      "status_changed": "2022-07-21 01:15:00",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "Praevia",
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/04\/35\/37",
+      "date": 2011,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43537",
+      "subjects": [
+        "K1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Diah Gustiniati Maulani",
+            "lineage": null,
+            "given": "Diah Gustiniati Maulani"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Pidana Penjara Seumur Hidup dalm Sistem Pemasyarakatan",
+      "refereed": "FALSE",
+      "userid": 900,
+      "lastmod": "2022-07-21 01:15:00",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Jurnal Praevia Ilmu Hukum.pdf",
+            "files": [
+                {
+                  "mtime": "2022-07-21 01:01:19",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475086",
+                  "filename": "Jurnal Praevia Ilmu Hukum.pdf",
+                  "filesize": 8050113,
+                  "objectid": 165473,
+                  "hash": "1c6c40f6fcbbfdc8e59c5f7f9ddb1b8e",
+                  "mime_type": "application\/pdf",
+                  "fileid": 475086,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 165473,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165473",
+            "eprintid": 43537,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2022-07-21 01:15:00",
+      "eprintid": 43537,
+      "eprint_status": "archive",
+      "metadata_visibility": "show"
+    },
+    {
+      "documents": [
+          {
+            "eprintid": 45587,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184378",
+            "pos": 1,
+            "format": "text",
+            "main": "2022-10-07-09-34-50-01.pdf",
+            "files": [
+                {
+                  "filename": "2022-10-07-09-34-50-01.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/506009",
+                  "objectid": 184378,
+                  "filesize": 898551,
+                  "mtime": "2022-10-07 02:40:36",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "40453fde8dc330eca458d0f9900e03a6",
+                  "datasetid": "document",
+                  "fileid": 506009
+                }
+            ],
+            "docid": 184378,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2022-10-07 03:47:28",
+      "userid": 970,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 45587,
+      "datestamp": "2022-10-07 03:47:28",
+      "refereed": "FALSE",
+      "title": "Perkembangan Konseptual Unsur-unsur Kejahatan Berat Terhadap Kemanusiaan dalam Hukum Humaniter",
+      "creators": [
+        {
+          "id": "melly.aida@fh.unila.ac.id",
+          "name": {
+            "given": "Melly Aida",
+            "honourific": null,
+            "family": "Melly Aida",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "date": 2011,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45587",
+      "subjects": [
+        "K1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2022-10-07 03:47:28",
+      "issn": "1978-5186",
+      "full_text_status": "public",
+      "publisher": "Fakultas Hukum",
+      "divisions": [
+        "FH2"
+      ],
+      "publication": "Fiat Justisia",
+      "dir": "disk0\/00\/04\/55\/87"
+    },
+    {
+      "metadata_visibility": "show",
+      "lastmod": "2019-01-28 08:21:57",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "FX",
+            "honourific": null,
+            "family": "Sumarja",
+            "lineage": null
+          },
+          "id": "fxsmj.unila@gmail.com"
+        }
+      ],
+      "title": "PENGATURAN PENGUASAAN TANAH HAK  MILIK BAGI ORANG ASING DALAM PENGEMBANGAN WISATA PANTAI DI LAMPUNG BARAT",
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10641",
+      "publication": "Praevia",
+      "dir": "disk0\/00\/01\/06\/41",
+      "divisions": [
+        "FH2"
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "status_changed": "2019-01-28 08:21:57",
+      "rev_number": 6,
+      "datestamp": "2019-01-28 08:21:57",
+      "id_number": 940,
+      "eprintid": 10641,
+      "eprint_status": "archive",
+      "pagerange": "1-16",
+      "userid": 940,
+      "number": 1,
+      "official_url": "http:\/\/repository.lppm.unila.ac.id",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23653",
+            "pos": 1,
+            "eprintid": 10641,
+            "placement": 1,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Praevia_Vol.5 No. 1 Januari-Juni 2011_asli.docx",
+            "docid": 23653,
+            "files": [
+                {
+                  "filesize": 62498,
+                  "objectid": 23653,
+                  "filename": "Praevia_Vol.5 No. 1 Januari-Juni 2011_asli.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/98360",
+                  "hash_type": "MD5",
+                  "mtime": "2019-01-25 09:17:57",
+                  "fileid": 98360,
+                  "datasetid": "document",
+                  "hash": "a08a654071807c4904c89b097629253c",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                }
+            ]
+          }
+      ],
+      "refereed": "TRUE",
+      "abstract": "This research is to indicate the causal factor of prohibitive regulation about the authority of land property ownership by foreigners\/strangers is not effective, and the concept of law policy for the regulation of an authority of land property ownership especially seashore area in developing coast tourism object in west Lampung Regency.The methodology of research is normative and empirical research. The result of research is found that the prohibitive regulation about the authority of land property ownership by foreigners\/strangers is not complete and can not solve the cases of the authority of land property ownership by foreigners . It was caused both law factor and social and economic factors. The exact concept that can be applied toward an authority of land property ownership by foreigner is proprietary rights on the land concession rights.\r\nKey words : land concession rights, stranger\/foreigner, seashore",
+      "corp_creators": [
+        "Fakultas Hukum Universitas Lampung"
+      ],
+      "projects": [
+        "Dipa Unila"
+      ],
+      "date": "2011-01",
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id"
+        }
+      ],
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "full_text_status": "public",
+      "issn": "1907-8714",
+      "ispublished": "pub"
+    },
+    {
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "1907-8714",
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id"
+        }
+      ],
+      "date": "2011-01",
+      "projects": [
+        "Dipa Unila"
+      ],
+      "corp_creators": [
+        "Fakultas Hukum Universitas Lampung"
+      ],
+      "abstract": "This research is to indicate the causal factor of prohibitive regulation about the authority of land property ownership by foreigners\/strangers is not effective, and the concept of law policy for the regulation of an authority of land property ownership especially seashore area in developing coast tourism object in west Lampung Regency.The methodology of research is normative and empirical research. The result of research is found that the prohibitive regulation about the authority of land property ownership by foreigners\/strangers is not complete and can not solve the cases of the authority of land property ownership by foreigners . It was caused both law factor and social and economic factors. The exact concept that can be applied toward an authority of land property ownership by foreigner is proprietary rights on the land concession rights.\r\nKey words : land concession rights, stranger\/foreigner, seashore",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Praevia Vol.5 No. 1 Januari-Juni 2011_Scan.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-01-25 09:23:12",
+                  "objectid": 23654,
+                  "filesize": 1961794,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/98366",
+                  "filename": "Praevia Vol.5 No. 1 Januari-Juni 2011_Scan.pdf",
+                  "fileid": 98366,
+                  "datasetid": "document",
+                  "hash": "1fe62dd326ad3ae2bee4c0e5d07560ab",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 23654,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23654",
+            "eprintid": 10642,
+            "placement": 1
+          }
+      ],
+      "official_url": "http:\/\/repository.lppm.unila.ac.id",
+      "number": 1,
+      "userid": 940,
+      "pagerange": "1-16",
+      "eprint_status": "archive",
+      "id_number": 940,
+      "eprintid": 10642,
+      "datestamp": "2019-01-28 08:22:02",
+      "rev_number": 6,
+      "status_changed": "2019-01-28 08:22:02",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "divisions": [
+        "FH2"
+      ],
+      "publication": "Praevia",
+      "dir": "disk0\/00\/01\/06\/42",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10642",
+      "volume": 5,
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "title": "PENGATURAN PENGUASAAN TANAH HAK  MILIK BAGI ORANG ASING DALAM PENGEMBANGAN WISATA PANTAI DI LAMPUNG BARAT",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "FX",
+            "honourific": null,
+            "family": "Sumarja",
+            "lineage": null
+          },
+          "id": "fxsmj.unila@gmail.com"
+        }
+      ],
+      "lastmod": "2019-01-28 08:22:02",
+      "metadata_visibility": "show"
+    },
+    {
+      "projects": [
+        "Hibah Penelitian Unila"
+      ],
+      "date": "2011-01",
+      "abstract": "This research is to indicate the causal factor of prohibitive regulation about the authority of land property ownership by foreigners\/strangers is not effective, and the concept of law policy for the regulation of an authority of land property ownership especially seashore area in developing coast tourism object in west Lampung Regency.The methodology of research is normative and empirical research. The result of research is found that the prohibitive regulation about the authority of land property ownership by foreigners\/strangers is not complete and can not solve the cases of the authority of land property ownership by foreigners. It was caused both law factor and social and economic factors. The exact concept that can be applied toward an authority of land property ownership by foreigner is proprietary rights on the land concession rights.\r\nKey words : land concession rights, stranger\/foreigner, seashore",
+      "corp_creators": [
+        "Fakultas Hukum Universitas Lampung"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id"
+        }
+      ],
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "1907-8714",
+      "pagerange": "1-16",
+      "datestamp": "2019-01-28 08:21:50",
+      "eprint_status": "archive",
+      "eprintid": 10652,
+      "id_number": 940,
+      "official_url": "http:\/\/repository.lppm.unila.ac.id",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Praevia Vol.5 No. 1 Januari-Juni 2011_Scan.pdf",
+            "docid": 23657,
+            "files": [
+                {
+                  "fileid": 98401,
+                  "datasetid": "document",
+                  "hash": "1fe62dd326ad3ae2bee4c0e5d07560ab",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-01-28 01:46:37",
+                  "objectid": 23657,
+                  "filesize": 1961794,
+                  "filename": "Praevia Vol.5 No. 1 Januari-Juni 2011_Scan.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/98401"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23657",
+            "eprintid": 10652,
+            "placement": 1
+          }
+      ],
+      "userid": 940,
+      "number": 1,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10652",
+      "volume": 5,
+      "funders": [
+        "UNILA"
+      ],
+      "dir": "disk0\/00\/01\/06\/52",
+      "publication": "Praevia",
+      "divisions": [
+        "FH2"
+      ],
+      "rev_number": 6,
+      "status_changed": "2019-01-28 08:21:50",
+      "metadata_visibility": "show",
+      "lastmod": "2019-01-28 08:21:50",
+      "title": "PENGATURAN PENGUASAAN TANAH HAK  MILIK BAGI ORANG ASING DALAM PENGEMBANGAN WISATA PANTAI DI LAMPUNG BARAT",
+      "type": "article",
+      "creators": [
+        {
+          "id": "fxsmj.unila@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Sumarja",
+            "honourific": null,
+            "given": "FX"
+          }
+        }
+      ]
+    }
+]
+

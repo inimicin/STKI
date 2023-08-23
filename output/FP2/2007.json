@@ -1,0 +1,71 @@
+[
+    {
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 163,
+      "datestamp": "2016-07-18 07:48:41",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 177,
+            "main": "Termite Diversity - Indonesia (Susilo 2007).pdf",
+            "files": [
+                {
+                  "fileid": 976,
+                  "datasetid": "document",
+                  "hash": "a3fd06a6271c2b99810ccddcd489b67a",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-15 03:16:43",
+                  "filesize": 2544955,
+                  "objectid": 177,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/976",
+                  "filename": "Termite Diversity - Indonesia (Susilo 2007).pdf"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/177",
+            "pos": 1,
+            "eprintid": 163,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2016-07-18 07:48:41",
+      "userid": 1054,
+      "refereed": "FALSE",
+      "event_dates": "29 January 2007",
+      "title": "Keanekaragaman serangga Indonesia, posisinya di dunia, dan perubahan tataguna lahan: Kasus rayap",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Susilo",
+            "honourific": null,
+            "given": "FX"
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Bogor - Indonesia",
+      "subjects": [
+        "S1"
+      ],
+      "event_title": "Konferensi Nasional Konservasi Serangga",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/163",
+      "date": 2007,
+      "event_type": "conference",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/00\/01\/63",
+      "rev_number": 13,
+      "ispublished": "unpub",
+      "status_changed": "2016-07-18 07:48:41",
+      "full_text_status": "public"
+    }
+]
+

@@ -1,0 +1,97 @@
+[
+    {
+      "divisions": [
+        "FP23"
+      ],
+      "dir": "disk0\/00\/00\/08\/95",
+      "event_type": "conference",
+      "status_changed": "2016-10-25 01:11:39",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "event_title": "The Rising Hope of Our Lands",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "abstract": ".",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/895",
+      "date": "1985-07-16",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Utomo",
+            "given": "Muhajir"
+          },
+          "id": "muhajir.utomo@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "W W",
+            "honourific": null,
+            "family": "Frye",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Blevins",
+            "lineage": null,
+            "honourific": null,
+            "given": "R L"
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "event_dates": "16-17 July 1985",
+      "title": "Functions of Legume Cover Crops in No-Till and Conventional Till Corn Production",
+      "event_location": "University of Georgia",
+      "eprintid": 895,
+      "eprint_status": "archive",
+      "datestamp": "2016-10-25 01:11:39",
+      "pagerange": "63-68",
+      "metadata_visibility": "show",
+      "userid": 1068,
+      "documents": [
+          {
+            "eprintid": 895,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/788",
+            "pos": 1,
+            "format": "text",
+            "main": "Prosiding Mutomo 1985-1.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-24 15:34:55",
+                  "filesize": 2808335,
+                  "objectid": 788,
+                  "filename": "Prosiding Mutomo 1985-1.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5475",
+                  "fileid": 5475,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "f1dedae711125fc78fedb42371052715"
+                }
+            ],
+            "docid": 788,
+            "content": "published",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2016-10-25 01:11:39"
+    }
+]
+

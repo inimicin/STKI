@@ -1,0 +1,69 @@
+[
+    {
+      "userid": 63,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 37038,
+            "main": "Sertifikat HAKI Buku Ajar Manajemen Strategi Sektor Publik.pdf",
+            "files": [
+                {
+                  "filename": "Sertifikat HAKI Buku Ajar Manajemen Strategi Sektor Publik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/214189",
+                  "filesize": 769463,
+                  "objectid": 37038,
+                  "mtime": "2020-07-25 08:21:20",
+                  "hash_type": "MD5",
+                  "hash": "ef97b094d827ced76f9b178e944f1f95",
+                  "mime_type": "application\/pdf",
+                  "fileid": 214189,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37038",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 23417
+          }
+      ],
+      "lastmod": "2020-07-26 07:26:36",
+      "eprint_status": "archive",
+      "id_number": 126916,
+      "eprintid": 23417,
+      "datestamp": "2020-07-26 07:26:36",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Devi",
+            "family": "Yulianti",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "devi.yulianti@fisip.unila.ac.id"
+        }
+      ],
+      "type": "patent",
+      "title": "Sertifikat HAKI Buku Ajar Manajemen Strategi Sektor Publik",
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "date": 20,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23417",
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "completed",
+      "status_changed": "2020-07-26 07:26:36",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FISIP2"
+      ],
+      "dir": "disk0\/00\/02\/34\/17"
+    }
+]
+

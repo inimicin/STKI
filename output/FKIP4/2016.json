@@ -1,0 +1,225 @@
+[
+    {
+      "userid": 435,
+      "number": 1,
+      "official_url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/jpii\/article\/view\/5793",
+      "lastmod": "2019-04-29 07:56:49",
+      "documents": [
+          {
+            "main": "2.  121159-EN-the-effect-of-multimedia-based-teaching.pdf",
+            "docid": 24152,
+            "files": [
+                {
+                  "mtime": "2019-04-15 06:09:24",
+                  "hash_type": "MD5",
+                  "filename": "2.  121159-EN-the-effect-of-multimedia-based-teaching.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/101925",
+                  "objectid": 24152,
+                  "filesize": 722247,
+                  "mime_type": "application\/pdf",
+                  "hash": "4fb52257c17c4c95c872e32e0a690c80",
+                  "datasetid": "document",
+                  "fileid": 101925
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 11162,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24152",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2019-04-29 07:56:49",
+      "eprintid": 11162,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "75-82",
+      "creators": [
+        {
+          "name": {
+            "given": "Khoiriah",
+            "lineage": null,
+            "family": "Khoiriah",
+            "honourific": null
+          },
+          "id": "khoiriahspd74@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Jalmo",
+            "lineage": null,
+            "given": "Tri"
+          },
+          "id": "jalmotri@yahoo.com"
+        },
+        {
+          "id": "abdurrahman.1968@fkip.unila.ac.id",
+          "name": {
+            "given": "Abdurrahman",
+            "lineage": null,
+            "family": "Abdurrahman",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "The Effect of Multimedia-Based Teaching Materials in Science Toward Students' Cognitive Improvement",
+      "refereed": "TRUE",
+      "abstract": "This study is a meta-analysis study that aimed to determine the effect of multimedia-based teaching materials in science learning to students’ cognitive enhancement. This study integrated primary study results of several studies that had been published in national and international journals. The method used in this research was the analysis of the results of seven international journals and three national journals involving multimedia teaching materials based on science learning as the main study. Searches were done through the search engine Google, using Eric Journal and Google scholar with keyword multimedia-based teaching materials. Analysis of data was the description of the results of the average effect size of each study sampled then categorized based on Cohen’s interpretation. The results showed that multimedia-based teaching materials in science learning had a significant influence on students’ cognitive learning outcomes indicated by the average effect size of 0.78. Differences in cognitive enhancement were based on a group of countries, fields of study, education level and the variety of multimedia teaching materials. It was concluded that the multimedia-based teaching materials in science learning showed a significant effect on students’ cognitive enhancement.",
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11162",
+      "date": "2016-04",
+      "date_type": "published",
+      "subjects": [
+        "LB"
+      ],
+      "full_text_status": "public",
+      "issn": "2089-4392",
+      "status_changed": "2019-04-29 07:56:49",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publisher": "FMIPA Unnes",
+      "publication": "Jurnal Pendidikan IPA Indonesia",
+      "divisions": [
+        "FKIP4"
+      ],
+      "dir": "disk0\/00\/01\/11\/62"
+    },
+    {
+      "title": "A Learning Exercise using Simple and Real-Time Visualization TOOL to Counter Misconceptions about Orbitals andQuantum Numbers.",
+      "creators": [
+        {
+          "name": {
+            "family": "Sunyono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sunyono"
+          },
+          "id": "sunyono.1965@fkip.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "datestamp": "2021-03-25 07:29:58",
+      "eprint_status": "archive",
+      "eprintid": 28555,
+      "lastmod": "2021-03-25 07:29:58",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42613",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28555,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "A Learning Exercise Using Simpke.... Numbers.pdf",
+            "docid": 42613,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-25 03:48:51",
+                  "filesize": 1106027,
+                  "objectid": 42613,
+                  "filename": "A Learning Exercise Using Simpke.... Numbers.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/253487",
+                  "fileid": 253487,
+                  "datasetid": "document",
+                  "hash": "ae70606dc379d565be135e12b649cbef",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 1028,
+      "publisher": "Journal Article",
+      "divisions": [
+        "FKIP4"
+      ],
+      "dir": "disk0\/00\/02\/85\/55",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2021-03-25 07:29:58",
+      "subjects": [
+        "L1",
+        "LC5201"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28555",
+      "date": "2016-08-01"
+    },
+    {
+      "dir": "disk0\/00\/02\/85\/84",
+      "publisher": "Journal Article",
+      "divisions": [
+        "FKIP4"
+      ],
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2021-03-26 06:53:29",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28584",
+      "date": "2016-08-01",
+      "title": "A Learning Exercise using Simple and RealTime Visualization TOOL to Counter Misconceptions about Orbitals and Quantum Numbers",
+      "creators": [
+        {
+          "id": "sunyono.1965@fkip.unila.ac.id",
+          "name": {
+            "given": "Sunyono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sunyono"
+          }
+        }
+      ],
+      "type": "other",
+      "metadata_visibility": "show",
+      "datestamp": "2021-03-26 06:53:29",
+      "eprintid": 28584,
+      "eprint_status": "archive",
+      "lastmod": "2021-03-26 06:53:29",
+      "documents": [
+          {
+            "format": "text",
+            "main": "A Learning Exercise Using Simpke.... Numbers.pdf",
+            "files": [
+                {
+                  "mtime": "2021-03-26 03:33:13",
+                  "hash_type": "MD5",
+                  "filename": "A Learning Exercise Using Simpke.... Numbers.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/253690",
+                  "objectid": 42643,
+                  "filesize": 3612848,
+                  "hash": "4eb2047c42b4a4a8924edd13e5453576",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 253690
+                }
+            ],
+            "docid": 42643,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 28584,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42643"
+          }
+      ],
+      "userid": 1028
+    }
+]
+

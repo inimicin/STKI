@@ -1,0 +1,121 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Masayoshi",
+            "lineage": null,
+            "family": "Arai",
+            "honourific": null
+          },
+          "id": "araim@phs.osaka-u.ac.jp"
+        },
+        {
+          "name": {
+            "given": "Yoshi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Yamano"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "mayumi",
+            "honourific": null,
+            "family": "fujita",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Andi",
+            "honourific": null,
+            "family": "Setiawan",
+            "lineage": null
+          },
+          "id": "andi.setiawan@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kobayashi",
+            "honourific": null,
+            "given": "Motomasa"
+          },
+          "id": "kobayasi@phs.osaka-u.ac.jp"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Stylissamide X, a new proline-rich cyclic octapeptide as an inhibitor of cell\r\nmigration, from an Indonesian marine sponge of Stylissa sp.",
+      "eprint_status": "archive",
+      "eprintid": 32118,
+      "datestamp": "2021-06-06 14:33:49",
+      "pagerange": "1818-1821",
+      "metadata_visibility": "show",
+      "userid": 945,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 32118,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145594",
+            "security": "public",
+            "main": "Jurnal 2012-1.pdf",
+            "docid": 145594,
+            "files": [
+                {
+                  "hash": "bbf8bd13f4546ea29b4c6870ec437ef6",
+                  "mime_type": "application\/pdf",
+                  "fileid": 380109,
+                  "datasetid": "document",
+                  "mtime": "2021-06-06 05:14:52",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal 2012-1.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/380109",
+                  "filesize": 584546,
+                  "objectid": 145594
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2021-06-06 14:33:49",
+      "official_url": "https:\/\/doi:10.1016\/j.bmcl.2011.10.023",
+      "publisher": "Elsevier Ltd",
+      "publication": "Bioorganic & Medicinal Chemistry Letters",
+      "divisions": [
+        "FMIPA7"
+      ],
+      "dir": "disk0\/00\/03\/21\/18",
+      "funders": [
+        "the Hoh-ansha Founda�tion, the Uehara Memorial Foundation, and Grant-in-Aid for scientific re�search from the Ministry of Education, Culture, Sports, Science and Tech�nology of Japa"
+      ],
+      "status_changed": "2021-06-06 14:33:49",
+      "issn": "0960894X, 14643405",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "Q1"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Lampung University",
+        "Osaka University"
+      ],
+      "volume": 22,
+      "abstract": "A new proline-rich cyclic octapeptide named stylissamide X (1) was isolated from an Indonesian marine\r\nsponge of Stylissa sp. as an inhibitor of cell migration from the guidance of wound-healing assay. The\r\nchemical structure of stylissamide X (1) was determined on the basis of spectroscopic analysis, and\r\nstereostructure of the amino acids were deduced by Marfey’s method. Compound 1 showed inhibitory\r\nactivity against migration of HeLa cells in the ranges of 0.1–10 lM concentration through both\r\nwound-healing assay and chemotaxicell chamber assay, while the cell viability was maintained more\r\nthan 75% up to 10 lM concentration of 1.",
+      "date": "2011-10-13",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32118",
+      "projects": [
+        "research collaboration"
+      ]
+    }
+]
+

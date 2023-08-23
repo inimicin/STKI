@@ -1,0 +1,218 @@
+[
+    {
+      "userid": 384,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 18558,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31716",
+            "security": "public",
+            "docid": 31716,
+            "main": "Prosiding ayi ahadiyat2.pdf",
+            "files": [
+                {
+                  "fileid": 155909,
+                  "datasetid": "document",
+                  "hash": "91bc32d74c13d55e32e222b829d3a514",
+                  "mime_type": "application\/pdf",
+                  "filesize": 14064829,
+                  "objectid": 31716,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155909",
+                  "filename": "Prosiding ayi ahadiyat2.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-03-10 08:10:13"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2020-03-10 08:36:23",
+      "eprint_status": "archive",
+      "eprintid": 18558,
+      "datestamp": "2020-03-10 08:36:23",
+      "metadata_visibility": "show",
+      "event_location": "Crowne Plaza Hotel",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ahadiat",
+            "lineage": null,
+            "given": "Ayi"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "event_dates": "7 Agustus 2008",
+      "title": "Integrative View of Strategic Change: A Theoretical Assesment of Antecedents and Consequences",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18558",
+      "date": 2008,
+      "subjects": [
+        "AC"
+      ],
+      "event_title": "The 1st MCR Master Journey in Management",
+      "date_type": "published",
+      "status_changed": "2020-03-10 08:36:23",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FEB6"
+      ],
+      "dir": "disk0\/00\/01\/85\/58",
+      "event_type": "conference"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18514",
+      "date": 2008,
+      "volume": 4,
+      "abstract": "Alignment and co-alignment are aimed to achieve the position of strategic fit by\r\nmatching the internal potential or organizational resources with external business\r\nopportunities. This field of study is frequently done the testing of propositions regarding\r\nthe effort in making sure strategic implementation successfully. However when the\r\nalignment is related to strategic control, model of dinamyc strategic fit can be better in\r\nachieving the performance, as it is explained by following propositions:1) firm strategies\r\ncontribute better result when it can anticipate the changing environment, such as\r\nconsumer preferences, government policy, competitor movement, technological change\r\nand other shift, this alignment is called beneficial strategic change (dynamic fit); 2) firm\r\nstrategies that cannot anticipate the environmental change, called insufficient strategic\r\nchange misfit, cannot contribute good performance; 3) the existing chosen strategies,\r\nthat fit with the changing environment, called beneficial inertia dynamic fit, can\r\ncontribute the performance; and finally, 4) firms, with existing chosen strategies that fit\r\nwith the changing environment, to some extent has introduced a strategic change that\r\nactually does not fit with the environment, lead to poor performance. The alignment is\r\ncalled excessive change dynamic misfit, because cannot contribute any good the\r\nperformance.           \r\n\r\nKeywords: strategic, environmental, performance",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2020-03-10 08:35:36",
+      "issn": "1411-9366",
+      "full_text_status": "public",
+      "divisions": [
+        "FEB6"
+      ],
+      "publisher": "Jurusan Manajemen Fakultas Ekonomi dan Bisnis Universitas Lampung",
+      "publication": "Jurnal Bisnis dan Manajemen",
+      "dir": "disk0\/00\/01\/85\/14",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 18514,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31673",
+            "pos": 1,
+            "security": "public",
+            "main": "ayi ahadiat 3.pdf",
+            "docid": 31673,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "4119b65004f14af18004c01a9b18ae68",
+                  "datasetid": "document",
+                  "fileid": 155620,
+                  "filename": "ayi ahadiat 3.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/155620",
+                  "objectid": 31673,
+                  "filesize": 242379,
+                  "mtime": "2020-03-10 04:27:21",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2020-03-10 08:35:36",
+      "number": 3,
+      "userid": 384,
+      "pagerange": "315-338",
+      "metadata_visibility": "show",
+      "eprintid": 18514,
+      "eprint_status": "archive",
+      "datestamp": "2020-03-10 08:35:36",
+      "refereed": "TRUE",
+      "title": "MODEL DINAMIK STRATEGIC FIT DALAM PERSPEKTIF KONTIJENSI KAITANNYA DENGAN STRATEGIK CONTROL: SUATU ULASAN TEORITIS",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ahadiat",
+            "lineage": null,
+            "given": "Ayi"
+          }
+        }
+      ]
+    },
+    {
+      "status_changed": "2017-06-02 03:59:03",
+      "issn": "1029-3132",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "divisions": [
+        "FEB6"
+      ],
+      "publication": "Asia Pacific Management Review",
+      "dir": "disk0\/00\/00\/29\/25",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 13,
+      "abstract": "Research in psychology suggests that less informed individuals may suffer from\r\noverconfidence. Empirical research shows that overconfident investors tend to overvalue the\r\nprice of the securities so that they unconsciously buy the security at a higher price or sell the\r\nsecurity at a lower price than its fundamental value leading to transaction losses. As an\r\nexperimental research project, this paper addresses these issues. According to the research\r\ndesign, all investors are classified into three groups based on their scores of overconfidence, \r\nnamely the less informed investors, the rational (average) investors, and the more informed \r\ninvestors. In order to observe the responses of the groups of investors when they receive\r\nvaluable information, the research employs four different types of treatments consisting of\r\nthe condition of no market information, the provision of guidance of security prediction, the\r\ngood news and the bad news. The research findings demonstrate that the less informed\r\ninvestors are inclined to assess the precision of their knowledge and information excessively\r\nso that they produce a higher mean of prediction and price errors than those of the more\r\ninformed investors in all experimental market sessions, except in the market session of good\r\nnews. The phenomenon indicates that less informed investors conduct a self deceptive\r\nbehavior. The result of the research also shows that less informed investors do not always\r\nsuffer from transaction losses although they have a higher mean of prediction or price errors\r\nthan those of the more informed investors. The less informed investors have a chance to\r\ngain profit as long as they are able to deliver the predicted value of the security accurately\r\nwhich is closer to the market price that reflects the expected price of the majority of the\r\nmarket players. \r\n \r\nKeywords: Overconfidence, self-deception, price (prediction) error, transaction losses",
+      "date": 2008,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2925",
+      "subjects": [
+        "H1"
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "mahapaksi@yahoo.com",
+          "name": {
+            "given": "Mahatma",
+            "family": "Kufepaksi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "The Contribution of Self-Deceptive Behavior on Price Discovery: \r\nAn Experimental Approach",
+      "number": 1,
+      "userid": 1084,
+      "documents": [
+          {
+            "format": "text",
+            "main": "DW0803270899.pdf",
+            "files": [
+                {
+                  "filename": "DW0803270899.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20176",
+                  "filesize": 166274,
+                  "objectid": 2811,
+                  "mtime": "2017-06-02 01:59:15",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "6cc82a4fe446b58267a6ae47ed074a95",
+                  "datasetid": "document",
+                  "fileid": 20176
+                }
+            ],
+            "docid": 2811,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 2925,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2811"
+          }
+      ],
+      "lastmod": "2017-06-02 03:59:03",
+      "official_url": "http:\/\/apmr.management.ncku.edu.tw\/",
+      "eprintid": 2925,
+      "eprint_status": "archive",
+      "datestamp": "2017-06-02 03:59:03",
+      "pagerange": "419-434",
+      "metadata_visibility": "show"
+    }
+]
+

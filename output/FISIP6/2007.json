@@ -1,0 +1,72 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "H1"
+      ],
+      "date": "2007-11-30",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51703",
+      "abstract": "Paradigma Good Governance atau praktik tata pemerintahan yang baik. Saat ini sudah menjadi kebutuhan dasar dalam menjalankan roda pemerintahan yang baik. Aakan selalu berorientasi pada pabrik servis yang bermutu, yaitu memberikan layanan yang terbaik pada masyarakat demikian halnya dengan para penyuluh tidak terkecuali penyuluh kehutanan, dituntut untuk memberikan layanan terbaik kepada masyarakat. Secara garis besar sejarah penyuluhan kehutanan di Indonesia dilatarbelakangi oleh tumbuh dan berkembangnya serta tuntutan permasalahan yang muncul di lapangan, hal ini dibentuk untuk membantu mengatasi permasalahan dan meningkatkan kinerja program. Kinerja penyuluh kehutanan mengandalkan pada pendekatan persuasif sedangkan polhut (polisi kehutanan) melalui pendekatan represif.",
+      "divisions": [
+        "FISIP6"
+      ],
+      "publisher": "Sydex Plus",
+      "dir": "disk0_bak\/00\/05\/17\/03",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2023-05-16 12:26:30",
+      "metadata_visibility": "show",
+      "datestamp": "2023-05-16 12:26:30",
+      "eprintid": 51703,
+      "eprint_status": "archive",
+      "lastmod": "2023-05-16 12:26:30",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "16406.pdf",
+            "docid": 249919,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-16 10:40:46",
+                  "filesize": 3997695,
+                  "objectid": 249919,
+                  "filename": "16406.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/612512",
+                  "fileid": 612512,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "a13263554a027a2eed7a0a1553df0287"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/249919",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51703
+          }
+      ],
+      "pages": 146,
+      "userid": 401,
+      "title": "Dilematika Penyuluh dalam Paradigma Good Governance",
+      "refereed": "TRUE",
+      "isbn": "979-3360-96-8",
+      "creators": [
+        {
+          "id": "ptjbudiono@gmail.com",
+          "name": {
+            "given": "Pitojo",
+            "honourific": null,
+            "family": "Budiono",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "book"
+    }
+]
+

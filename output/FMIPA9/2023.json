@@ -1,0 +1,3547 @@
+[
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Aini",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dalfa Habibah Nurul"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Nuryaman",
+            "lineage": null,
+            "honourific": null,
+            "given": "Aang"
+          },
+          "id": "aang.nuryaman@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Usman",
+            "honourific": null,
+            "given": "Mustofa"
+          },
+          "id": "usman_alfha@yahoo.com"
+        }
+      ],
+      "title": "IMPLEMENTATION OF ARTIFICIAL NEURAL NETWORK WITH BACKPROPAGATION ALGORITHM FOR RATING CLASSIFICATION ON SALES OF BLACKMORES IN TOKOPEDIA",
+      "refereed": "TRUE",
+      "datestamp": "2023-04-04 00:56:46",
+      "eprintid": 49603,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "365-372",
+      "userid": 752,
+      "number": 2,
+      "official_url": "http:\/\/jutif.if.unsoed.ac.id\/index.php\/jurnal",
+      "lastmod": "2023-04-04 00:56:46",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Implementation of ANN with BP Algorithm for Rating Classification on Sales of Black mores in Tokopedia.pdf",
+            "docid": 189236,
+            "files": [
+                {
+                  "objectid": 189236,
+                  "filesize": 621579,
+                  "filename": "Implementation of ANN with BP Algorithm for Rating Classification on Sales of Black mores in Tokopedia.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537855",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-03 23:17:55",
+                  "datasetid": "document",
+                  "fileid": 537855,
+                  "mime_type": "application\/pdf",
+                  "hash": "26f1544f00612626a0551504e64dcac5"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 49603,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189236"
+          }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Informatics, Universitas Jenderal Soedirman",
+      "publication": "Jurnal Teknik Informatika (JUTIF)",
+      "dir": "disk0_bak\/00\/04\/96\/03",
+      "issn": "2723-3871",
+      "full_text_status": "public",
+      "status_changed": "2023-04-04 00:56:46",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "QA76"
+      ],
+      "abstract": "The rating assessment classification contains feedback from consumers, which is given in the form of stars which aims to assess a product. However, the amount of data in the classification process often have differences in each class or is called an imbalanced dataset. These problems can affect the classification results. An imbalanced dataset can be overcome by applying random oversampling. To classify the rating assessment, this study proposes the Neural network method, which has a good accuracy level with the backpropagation algorithm and applies random oversampling to overcome the unbalanced amount of data. The results indicate that the neural network method with the backpropagation algorithm can classify the available data with an accuracy level of 85%. The application of resampling data using random oversampling and determining the amount of distribution of training data, testing data, number of epochs and the correct number of batch sizes affect the results obtained.",
+      "volume": 4,
+      "date": "2023-04-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49603"
+    },
+    {
+      "userid": 752,
+      "number": 1,
+      "official_url": "https:\/\/e-journal.unair.ac.id\/index.php\/JISEBI",
+      "lastmod": "2023-05-02 01:38:27",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 50832,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190542",
+            "pos": 1,
+            "security": "public",
+            "main": "[2]+Alifiah+et+al.pdf",
+            "files": [
+                {
+                  "mtime": "2023-04-28 22:32:53",
+                  "hash_type": "MD5",
+                  "filename": "[2]+Alifiah+et+al.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/547428",
+                  "filesize": 1542440,
+                  "objectid": 190542,
+                  "hash": "3951dedbba46d3557b66f4e795090582",
+                  "mime_type": "application\/pdf",
+                  "fileid": 547428,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 190542,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2023-05-02 01:38:27",
+      "eprint_status": "archive",
+      "eprintid": 50832,
+      "metadata_visibility": "show",
+      "pagerange": "16-27",
+      "creators": [
+        {
+          "name": {
+            "given": "Nur",
+            "honourific": null,
+            "lineage": null,
+            "family": "Alifiah"
+          },
+          "id": null
+        },
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "id": "amanto.1973@fmipa.unila.ac.id",
+          "name": {
+            "family": "Amanto",
+            "lineage": null,
+            "honourific": null,
+            "given": "Amanto"
+          }
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Warsono",
+            "given": "Warsono"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Prediction of COVID-19 Using the Artificial Neural Network (ANN) with K-Fold Cross-Validation",
+      "refereed": "TRUE",
+      "abstract": "Background: COVID-19 is a disease that attacks the respiratory system and is highly contagious, so cases of the spread of COVID-19 are increasing every day. The increase in COVID-19 cases cannot be predicted accurately, resulting in a shortage of services, facilities and medical personnel. This number will always increase if the community is not vigilant and actively reduces the rate of adding confirmed cases. Therefore, public awareness and vigilance need to be increased by presenting information on predictions of confirmed cases, recovered cases, and cases of death of COVID-19 so that it can be used as a reference for the government in taking and establishing a policy to overcome the spread of COVID-19.Objective: This research predicts COVID-19 in confirmed cases, recovered cases, and death cases in Lampung ProvinceMethod: This study uses the ANN method to determine the best network architecture for predicting confirmed cases, recovered cases, and deaths from COVID-19 using the k-fold cross-validation method to measure predictive model performance.Results: The method used has a good predictive ability with an accuracy value of 98.22% for confirmed cases, 98.08% for cured cases, and 99.05% for death cases.Conclusion: The ANN method with k-fold cross-validation to predict confirmed cases, recovered cases, and COVID-19 deaths in Lampung Province decreased from October 27,2021,to January 24,2022.",
+      "volume": 9,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50832",
+      "date": "2023-04-28",
+      "date_type": "published",
+      "subjects": [
+        "QA76"
+      ],
+      "issn": "2443-2555",
+      "full_text_status": "public",
+      "status_changed": "2023-05-02 01:38:27",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "Journal ofInformation Systems Engineeringand Business Intelligence",
+      "publisher": "Universitas Airlangga.",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/08\/32"
+    },
+    {
+      "publication": "Mathematics and Statistics",
+      "publisher": "Horizon Research Publishing",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/04\/82\/57",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2023-02-02 01:56:49",
+      "full_text_status": "public",
+      "issn": "2332-2071",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "date": "2023-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48257",
+      "volume": 11,
+      "abstract": "The locating chromatic number introduced by\r\nChartrand et al. in 2002 is the marriage of the partition\r\ndimension and graph coloring. The locating chromatic number\r\ndepends on the minimum number of colors used in the locating\r\ncoloring and the different color codes in vertices on the graph.\r\nThere is no algorithm or theorem to determine the locating\r\nchromatic number of any graph carried out for each graph\r\nclass or the resulting graph operation. This research is the\r\ndevelopment of scientific theory with a focus of the study on\r\ndeveloping new ideas to determine the extent to which the\r\nlocating chromatic number of a graph increases when applied\r\nto other operations. The locating chromatic number of the\r\norigami graph was obtained. The next exciting thing to know\r\nis locating chromatic number for certain operation of origami\r\ngraphs. This paper discusses locating chromatic number for\r\nspecific operation of origami graphs. The method used in\r\nthis study is to determine the upper and lower bound of the\r\nlocating chromatic number for certain operation of origami\r\ngraphs. The result obtained is an increase of one color in the\r\nlocating chromatic number of origami graphs",
+      "refereed": "TRUE",
+      "title": "The Locating Chromatic Number for Certain Operation\r\nof Origami Graphs",
+      "type": "article",
+      "creators": [
+        {
+          "id": "asmiati,1976@fmipa.unila.ac.id",
+          "name": {
+            "given": "Asmiati",
+            "family": "Asmiati",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Irawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "given": "Aang",
+            "lineage": null,
+            "family": "Nuryaman",
+            "honourific": null
+          },
+          "id": "aang.nuryaman@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Muludi",
+            "honourific": null,
+            "given": "Kurnia"
+          },
+          "id": "kurnia.muludi@fmipa.unila.ac.id"
+        }
+      ],
+      "pagerange": "101-106",
+      "metadata_visibility": "show",
+      "eprintid": 48257,
+      "id_number": "10.13189\/ms.2023.110111",
+      "eprint_status": "archive",
+      "datestamp": "2023-02-02 01:56:49",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "The Locating Chromatic Number for Certain Operation Origami Graphs.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 527216,
+                  "hash": "08a6281283ba5486aef19ff80bc860df",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-02 01:13:32",
+                  "objectid": 187517,
+                  "filesize": 323600,
+                  "filename": "The Locating Chromatic Number for Certain Operation Origami Graphs.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/527216"
+                }
+            ],
+            "docid": 187517,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187517",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 48257
+          }
+      ],
+      "lastmod": "2023-02-02 01:56:49",
+      "number": 1,
+      "userid": 821
+    },
+    {
+      "eprint_status": "archive",
+      "eprintid": 49694,
+      "datestamp": "2023-04-06 00:53:15",
+      "metadata_visibility": "show",
+      "userid": 752,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538598",
+                  "filename": "The_Investigation_into_Deep_Learning_Classifiers_Towards_Imbalanced_Text_Data.pdf",
+                  "objectid": 189334,
+                  "filesize": 721309,
+                  "mtime": "2023-04-05 08:11:46",
+                  "hash_type": "MD5",
+                  "hash": "183cb2049e458aa043e87b6458dbffe6",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 538598
+                }
+            ],
+            "main": "The_Investigation_into_Deep_Learning_Classifiers_Towards_Imbalanced_Text_Data.pdf",
+            "docid": 189334,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189334",
+            "eprintid": 49694,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/ieeexplore.ieee.org\/xpl\/conhome\/10084916\/proceeding",
+      "lastmod": "2023-04-06 00:53:15",
+      "type": "article",
+      "creators": [
+        {
+          "id": "luthfiaanurazizah@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Azizah",
+            "lineage": null,
+            "given": "Luthfia Nur"
+          }
+        },
+        {
+          "id": "purn005@brin.go.id",
+          "name": {
+            "given": "Purnomo Husnul",
+            "family": "Khotimah",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Andria",
+            "family": "Arisal",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Rozie",
+            "lineage": null,
+            "honourific": null,
+            "given": "Andri Fachrur"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Munandar",
+            "given": "Devi"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Dianadewi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Riswantini"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ekasari",
+            "lineage": null,
+            "family": "Nugraheni",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suwarningsih",
+            "given": "Wiwin"
+          }
+        },
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "family": "Kurniasari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dian"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "The Investigation into Deep Learning Classifiers\r\nTowards Imbalanced Text Data",
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "abstract": "Class imbalance is an important classification problem where failure to identify events can be hazardous due to failure of solution preparation or opportune handling. Minorities are mostly more consequential in such cases. It is necessary to know a reliable classifier for imbalanced classes. This study examines several conventional machine learning and deep learning methods to compare the performance of each method on dataset with imbalanced classes. We use COVID-19 online news titles to simulate different class imbalance ratios. The results of our study demonstrate the superiority of the CNN with embedding layer method on a news titles dataset of 16,844 data points towards imbalance ratios of 37%, 30%, 20%, 10%, and 1%. However, CNN with embedding layer showed a noticeable performance degradation at an imbalance ratio of 1%. \r\nIndex Terms—deep learning, classifier, online news, performance",
+      "date": "2023-04-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49694",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "IEEE",
+      "publication": "Proceedings of the 5th International Conference on Networking, Information Systems & Security: Envisage Intelligent Systems in 5G\/6G-based Interconnected Digital Worlds NISS 2022",
+      "dir": "disk0_bak\/00\/04\/96\/94",
+      "status_changed": "2023-04-06 00:53:15",
+      "full_text_status": "public",
+      "issn": "978-1-6654-5363-9",
+      "rev_number": 10,
+      "ispublished": "pub"
+    },
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2023-08-21 02:46:49",
+      "full_text_status": "public",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/22",
+      "date": "2023-08-15",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52422",
+      "patent_applicant": "Program Komputer",
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "title": "Peramalan Ekspor Impor Indonesia dengan Metode Hybrid Vector\r\nAutoregressive Exogenous-Convolutional Neural Network (VARX�CNN)",
+      "type": "patent",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Irma",
+            "honourific": null,
+            "lineage": null,
+            "family": "Destiana"
+          }
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsono",
+            "lineage": null,
+            "family": "Warsono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniasari"
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Nusyirwan",
+            "honourific": null,
+            "family": "Nusyirwan",
+            "lineage": null
+          },
+          "id": "nusyirwan.1966@fmipa.unila.ac.id"
+        }
+      ],
+      "pages": 2,
+      "documents": [
+          {
+            "main": "Sertifikat_HaKI Irma.pdf",
+            "files": [
+                {
+                  "fileid": 621339,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "c7cbd9b6a4cc6c6c565ecc4d0e25d4d1",
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-20 22:07:11",
+                  "filesize": 2109639,
+                  "objectid": 253962,
+                  "filename": "Sertifikat_HaKI Irma.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621339"
+                }
+            ],
+            "docid": 253962,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 52422,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253962",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-08-21 02:46:49",
+      "userid": 752,
+      "metadata_visibility": "show",
+      "id_number": "EC00202367285",
+      "eprintid": 52422,
+      "eprint_status": "archive",
+      "datestamp": "2023-08-21 02:46:49"
+    },
+    {
+      "title": "A High-Order Fuzzy Time Series Forecasting Method Based on\r\nan Intersection Operation for Forecasting USD Foreign Exchange\r\nRate",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Netti",
+            "family": "Herawati",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "netti.herawati@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Dharnita",
+            "lineage": null,
+            "family": "Chandra",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Dhea",
+            "lineage": null,
+            "family": "Rizki",
+            "honourific": null
+          }
+        },
+        {
+          "id": "khoirin.nisa@fmipa.unila.ac.id",
+          "name": {
+            "given": "Khoirin",
+            "family": "Nisa",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "46-53",
+      "datestamp": "2023-01-11 08:11:40",
+      "eprintid": 47689,
+      "eprint_status": "archive",
+      "official_url": "http:\/\/www.ijlera.com\/index.html",
+      "lastmod": "2023-01-11 08:11:40",
+      "documents": [
+          {
+            "eprintid": 47689,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186783",
+            "format": "text",
+            "main": "A high order IJLERA Januari 2023.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-10 10:27:21",
+                  "objectid": 186783,
+                  "filesize": 761639,
+                  "filename": "A high order IJLERA Januari 2023.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522369",
+                  "datasetid": "document",
+                  "fileid": 522369,
+                  "hash": "03c5abedc3a211513088640ccc4a03df",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 186783,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "userid": 959,
+      "number": 1,
+      "publisher": "IJLERA",
+      "publication": "International Journal of Latest Engineering Research and Applications (IJLERA)",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/04\/76\/89",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2455-7137",
+      "status_changed": "2023-01-11 08:11:40",
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "date": "2023-01-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47689",
+      "volume": 8
+    },
+    {
+      "status_changed": "2023-05-21 03:43:58",
+      "issn": "P-ISSN : 2776-3749 E-ISSN : 2808-1412",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "publisher": "Badan Pengelola KKN UNila",
+      "publication": "Jurnal Buguh",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/18\/87",
+      "volume": 3,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51887",
+      "date": "2023-03-01",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "type": "article",
+      "creators": [
+        {
+          "id": "netti.herawati@fmipa.unila.ac.id",
+          "name": {
+            "family": "Herawati",
+            "lineage": null,
+            "honourific": null,
+            "given": "Netti"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Eri",
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Nisa",
+            "lineage": null,
+            "honourific": null,
+            "given": "Khoirin"
+          },
+          "id": "khoirin.nisa@fmipa.unila.ac.id"
+        },
+        {
+          "id": "subian.saidi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Subian",
+            "honourific": null,
+            "family": "Saidi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Agus",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutrisno"
+          },
+          "id": "agus.sutrisno@fmipa.unila.ac.id"
+        },
+        {
+          "id": "dorrah.aziz@fmipa.unila.ac.i",
+          "name": {
+            "given": "Dorrah",
+            "lineage": null,
+            "family": "Azis",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "PEMBUATAN PUPUK CAIR ORGANIK BERSAMA KELOMPOK\r\nWANITA TANI PADANG MANIS",
+      "number": 1,
+      "userid": 959,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 51887,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/250959",
+            "security": "public",
+            "docid": 250959,
+            "main": "article Buguh 16 mar 2023.pdf",
+            "files": [
+                {
+                  "mtime": "2023-05-19 22:45:58",
+                  "hash_type": "MD5",
+                  "filename": "article Buguh 16 mar 2023.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/614739",
+                  "filesize": 312560,
+                  "objectid": 250959,
+                  "hash": "5e389422106400da66050b39fb709475",
+                  "mime_type": "application\/pdf",
+                  "fileid": 614739,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-05-21 03:43:58",
+      "official_url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh",
+      "eprintid": 51887,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-21 03:43:58",
+      "pagerange": "63-67",
+      "metadata_visibility": "show"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "family": "Herawati",
+            "lineage": null,
+            "honourific": null,
+            "given": "Netti"
+          },
+          "id": "netti.herawati@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "A",
+            "honourific": null,
+            "lineage": null,
+            "family": "fitriyani"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Saidi",
+            "lineage": null,
+            "given": "Subian"
+          },
+          "id": "subian.saidi@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Eri",
+            "honourific": null,
+            "family": "Setiawan",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "D",
+            "family": "Meliantari",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Overdispersion Data Modeling\r\nCases of Filariasis in East Lampung\r\nProvince, Indonesia",
+      "id_number": "https:\/\/doi.org\/10.5281\/zenodo.8031706",
+      "eprintid": 52161,
+      "eprint_status": "archive",
+      "datestamp": "2023-06-16 02:10:39",
+      "pagerange": "31-39",
+      "metadata_visibility": "show",
+      "number": 6,
+      "userid": 959,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252449",
+            "pos": 1,
+            "eprintid": 52161,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 618057,
+                  "mime_type": "application\/pdf",
+                  "hash": "0c3324e7745aa015226f398960fafb4f",
+                  "hash_type": "MD5",
+                  "mtime": "2023-06-15 08:16:20",
+                  "objectid": 252449,
+                  "filesize": 710142,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618057",
+                  "filename": "Overdispersion data IJISRT 23 JUN1 23.pdf"
+                }
+            ],
+            "main": "Overdispersion data IJISRT 23 JUN1 23.pdf",
+            "docid": 252449
+          }
+      ],
+      "official_url": "https:\/\/www.ijisrt.com\/",
+      "lastmod": "2023-06-16 02:10:39",
+      "publisher": "IJIRST",
+      "publication": "International Journal of Innovative Science and Research Technology",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/21\/61",
+      "related_url": [
+        {
+          "url": "https:\/\/bit.ly\/3TmGbDi"
+        }
+      ],
+      "status_changed": "2023-06-16 02:10:39",
+      "issn": "2456-2165",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "volume": 8,
+      "date": "2023-06-13",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52161"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "QA76"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52424",
+      "date": "2023-07-28",
+      "patent_applicant": "Program Komputer",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/24",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2023-08-21 02:46:52",
+      "metadata_visibility": "show",
+      "datestamp": "2023-08-21 02:46:52",
+      "eprintid": 52424,
+      "id_number": "EC00202360416",
+      "eprint_status": "archive",
+      "lastmod": "2023-08-21 02:46:52",
+      "pages": 2,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253979",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52424,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Sertifikat HAKI_Rekti.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-20 22:37:54",
+                  "filesize": 2109053,
+                  "objectid": 253979,
+                  "filename": "Sertifikat HAKI_Rekti.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621368",
+                  "fileid": 621368,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "3f5265a433666d7b983e5fae3b5459a5"
+                }
+            ],
+            "docid": 253979,
+            "format": "text"
+          }
+      ],
+      "userid": 752,
+      "title": "Klasifikasi Nilai Mahasiswa Universitas Lampung Menggunakan\r\nAlgoritma Naive Bayes Dan Random Forest",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Rekti Nurul",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayah"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Notiragayu",
+            "honourific": null,
+            "family": "Notiragayu",
+            "lineage": null
+          },
+          "id": "notiragayu@fmipa.unila.ac.id"
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsono",
+            "family": "Warsono",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "patent"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "QA76"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52421",
+      "date": "2023-08-09",
+      "patent_applicant": "Program Komputer",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/21",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2023-08-21 02:46:47",
+      "metadata_visibility": "show",
+      "datestamp": "2023-08-21 02:46:47",
+      "eprintid": 52421,
+      "id_number": "EC00202365143",
+      "eprint_status": "archive",
+      "lastmod": "2023-08-21 02:46:47",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 52421,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253956",
+            "pos": 1,
+            "security": "public",
+            "main": "Sertifikat_HAKI Nurul.pdf",
+            "docid": 253956,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-20 22:03:17",
+                  "objectid": 253956,
+                  "filesize": 2109845,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621327",
+                  "filename": "Sertifikat_HAKI Nurul.pdf",
+                  "datasetid": "document",
+                  "fileid": 621327,
+                  "hash": "6f4baf2e8bbb564201c70eb2ff800803",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pages": 2,
+      "userid": 752,
+      "title": "Hybrid Vector Autoregressive Exogenous (VARX) - Long Short Term Memory (LSTM) Untuk Peramalan Suku Bunga Kredit Investasi",
+      "type": "patent",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Nurul",
+            "honourific": null,
+            "family": "Isnaini",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Warsono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Warsono"
+          },
+          "id": "warsono.1963@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nusyirwan",
+            "lineage": null,
+            "given": "Nusyirwan"
+          },
+          "id": "nusyirwan.1966@fmipa.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "given": "Dian",
+            "family": "Kurniasari",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Zaenal",
+            "honourific": null,
+            "lineage": null,
+            "family": "Mukhlisin"
+          },
+          "id": null
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null,
+            "given": "Wamiliana"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Warsono",
+            "lineage": null,
+            "given": "Warsono"
+          },
+          "id": "warsono.1963@fmipa.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "PERFORMANCE OF THE ACCURACY OF FORECASTING THE \r\nCONSUMER PRICE INDEX USING THE GARCH AND ANN METHODS",
+      "eprint_status": "archive",
+      "eprintid": 52413,
+      "datestamp": "2023-08-21 02:46:32",
+      "pagerange": "931-944",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 752,
+      "documents": [
+          {
+            "format": "text",
+            "docid": 253918,
+            "main": "PERFORMANCE OF THE ACCURACY OF FORECASTING THE CONSUMER PRICE INDEX USING THE GARCH AND ANN METHODS.pdf",
+            "files": [
+                {
+                  "objectid": 253918,
+                  "filesize": 472174,
+                  "filename": "PERFORMANCE OF THE ACCURACY OF FORECASTING THE CONSUMER PRICE INDEX USING THE GARCH AND ANN METHODS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621239",
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-20 20:45:21",
+                  "datasetid": "document",
+                  "fileid": 621239,
+                  "mime_type": "application\/pdf",
+                  "hash": "00ed10521cccd6c38f70cd5d61c71864"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 52413,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253918",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2023-08-21 02:46:32",
+      "official_url": "https:\/\/ojs3.unpatti.ac.id\/index.php\/barekeng",
+      "publication": "BAREKENG: Journal of Mathematics and Its Applications",
+      "publisher": "Pattimura University",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/13",
+      "status_changed": "2023-08-21 02:46:32",
+      "full_text_status": "public",
+      "issn": "2615-3017",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "volume": 17,
+      "abstract": "The Consumer Price Index (CPI) is the most widely used indicator of the inflation rate. Then, \r\nthe value of CPI in the future must be known to be the basis of the government's making \r\nappropriate and accurate policies. The CPI data used in this study was taken from the Central \r\nStatistics Agency (BPS) from January 2006 - to December 2021. The CPI data used has a data \r\npattern containing symptoms of heteroskedasticity. To overcome the symptoms of \r\nheteroskedasticity, the author uses the GARCH and ANN methods to determine the value of CPI \r\nin the future. The GARCH method can overcome the symptoms of heteroskedasticity in the time \r\nseries forecasting process, while ANN is an effective method in time series forecasting because \r\nof its high level of accuracy. In this study, MAPE calculation results were obtained with the \r\nARIMA model (4,2,2)~GARCH(1.1) of 3.19% or with an accuracy of 96.81%, and ANN using \r\ntwo hidden layers of 1.24% or with an accuracy of 98.76%. Thus, the results of this study show \r\nthat the ANN method is the best method of forecasting Consumer Price Index (CPI) data",
+      "date": "2023-06-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52413"
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2023-08-21 02:46:34",
+      "issn": "2614-6150",
+      "full_text_status": "public",
+      "publisher": "Puzzle Research Data Technology (Predatech) UIN Sultan Syarif Kasim Riau",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Indonesian Journal of Artificial Intelligence and Data Mining (IJAIDM)",
+      "dir": "disk0_bak\/00\/05\/24\/14",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52414",
+      "date": "2023-06-13",
+      "volume": 6,
+      "abstract": "In Indonesia, various factors play a role in economic development. Oil-non-oil and gas imports are one of the main factors. However, the value of oil-non-oil and gas imports in Indonesia fluctuates monthly. Therefore, an appropriate method is required to monitor changes in the value of oil-non-oil and gas imports in Indonesia so that the government can make the right choices. This study uses the GRU method to estimate the amount of oil-non-oil and gas imports in \r\nIndonesia. The best model for forecasting over the next two years has an optimum structure of 32 GRU units, 16 batch sizes, and 100 epochs, with a dropout of 0.2 and uses 80% training data and 20% test data. The MAPE value obtained is 0.999955%, with an accuracy of 99.000044%. Forecast results suggest an improvement from June 2022 to July 2024.",
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "Forecasting The Value of Indonesian Oil-Non-Oil and Gas \r\nImported Using The Gated Recurrent Unit (GRU)",
+      "type": "article",
+      "creators": [
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniasari"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Oskavina",
+            "lineage": null,
+            "given": "Sulistian"
+          }
+        },
+        {
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "family": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Warsono"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253919",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52414,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Forecasting The Value of Indonesian Oil-Non-Oil and Gas Imported Using The Gated Recurrent Unit (GRU).pdf",
+            "docid": 253919,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 621245,
+                  "hash": "1e3d943f32c6561235f4c300b5558297",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-20 20:54:07",
+                  "objectid": 253919,
+                  "filesize": 634425,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621245",
+                  "filename": "Forecasting The Value of Indonesian Oil-Non-Oil and Gas Imported Using The Gated Recurrent Unit (GRU).pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2023-08-21 02:46:34",
+      "official_url": "https:\/\/ejournal.uin-suska.ac.id\/index.php\/IJAIDM\/index",
+      "number": 1,
+      "userid": 752,
+      "pagerange": "71-83",
+      "metadata_visibility": "show",
+      "eprintid": 52414,
+      "eprint_status": "archive",
+      "datestamp": "2023-08-21 02:46:34"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "APPLICATION OF ARTIFICIAL NEURAL NETWORK METHOD USING \r\nHYPERPARAMETER TUNING FOR PREDICTION OF EURO EXCHANGE \r\nRUPIAH",
+      "type": "article",
+      "creators": [
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Putri",
+            "given": "Amelia Fallizia"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Warsono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Warsono"
+          },
+          "id": "warsono.1963@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Notiragayu",
+            "family": "Notiragayu",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "notiragayu@fmipa.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 253925,
+            "main": "APPLICATION OF ARTIFICIAL NEURAL NETWORK METHOD USING HYPERPARAMETER TUNING FOR PREDICTION OF EURO EXCHANGE RUPIAH.pdf",
+            "files": [
+                {
+                  "objectid": 253925,
+                  "filesize": 1138284,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621258",
+                  "filename": "APPLICATION OF ARTIFICIAL NEURAL NETWORK METHOD USING HYPERPARAMETER TUNING FOR PREDICTION OF EURO EXCHANGE RUPIAH.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-20 21:22:11",
+                  "fileid": 621258,
+                  "datasetid": "document",
+                  "hash": "7432487a7bb443a51cee908740169608",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253925",
+            "pos": 1,
+            "eprintid": 52415,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-08-21 02:46:38",
+      "official_url": "https:\/\/ejournal.unsri.ac.id\/index.php\/jsi\/index",
+      "number": 1,
+      "userid": 752,
+      "pagerange": "2981-2998",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 52415,
+      "datestamp": "2023-08-21 02:46:38",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2023-08-21 02:46:38",
+      "issn": "2355-4614",
+      "full_text_status": "public",
+      "publisher": "Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "JSI : Jurnal Sistem Informasi (E-Journal)",
+      "dir": "disk0_bak\/00\/05\/24\/15",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52415",
+      "date": "2023-06-01",
+      "volume": 15,
+      "abstract": "The Covid-19 pandemic has significantly impacted the economic decline in many countries, such as Italy, \r\nthe United States and the European Union. Indonesia, also affected by Covid-19, was not spared from economic turmoil, especially in the foreign exchange market, where the rupiah exchange rate against the Euro experienced significant fluctuations in early 2020, hampering international trade and investment activities. Therefore, an appropriate method is needed to predict changes in the rupiah exchange rate against the Euro to minimize the obstacles. This study uses the ANN model to predict the Rupiah (Rp) exchange rate against the Euro (€). The best model is obtained through the hyper-tuning process. The optimal parameter values obtained are the input layer with 10 nodes, 2 hidden layers with 19 nodes and 13 nodes, the output layer, dropout of 0.2, 32 batch sizes, 100 epochs, and the Tanh activation function in the distribution scheme of 90% training data and 10 % testing data. Based on the MAPE value of 0.0042% and 0.0041% obtained, the prediction results on the selling and buying rates of the Rupiah against the Euro, it can be concluded that the model has good predictive ability with an accuracy value of 99.996%.",
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published"
+    },
+    {
+      "lastmod": "2023-08-22 01:57:35",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253990",
+            "pos": 1,
+            "eprintid": 52425,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2023-08-21 13:29:15",
+                  "hash_type": "MD5",
+                  "filename": "MODELLING AND SOLVING COURSE SCHEDULING PROBLEMS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621409",
+                  "objectid": 253990,
+                  "filesize": 441921,
+                  "mime_type": "application\/pdf",
+                  "hash": "9d68d069bfee62f7146e7e361bd5e998",
+                  "fileid": 621409,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "MODELLING AND SOLVING COURSE SCHEDULING PROBLEMS.pdf",
+            "docid": 253990
+          }
+      ],
+      "userid": 791,
+      "number": 1,
+      "metadata_visibility": "show",
+      "pagerange": "1-10",
+      "datestamp": "2023-08-22 01:57:35",
+      "eprintid": 52425,
+      "eprint_status": "archive",
+      "title": "MODELLING AND SOLVING COURSE SCHEDULING \r\nPROBLEMS (CASE STUDY: MATHEMATICS STUDY PROGRAM,\r\nINSTITUT TEKNOLOGI SUMATERA)",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "mira.mustika@ma.itera.ac.id",
+          "name": {
+            "given": "Mira",
+            "honourific": null,
+            "family": "Mustika",
+            "lineage": null
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Roni",
+            "family": "Setiawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52425",
+      "date": "2023-07-31",
+      "abstract": "Every educational institution has a standard process for scheduling courses. In scheduling,\r\nthere are a lot of constraints that must be fulfilled, including hard and soft constraints. Hard\r\nconstraints are constraints that must be met and cannot be disregarded; a lecturer, for instance,\r\nis limited to teaching one course in one room at a time. Soft constraints, on the other hand, are\r\na type of restriction that can be broken, but breaks are minimized to the greatest extent possible.\r\nThe aim of this research is to produce an optimal lecture schedule and to provide alternative solutions. The case study taken is the even semester at Institut Teknologi Sumatera (ITERA) Mathematics Study Program. The problem is modelled using Goal Programming and solved using LINGO. The result shows that the scheduling can fulfill every requirement.\r\nKeywords: scheduling, hard constraint, soft constraint, goal programming",
+      "volume": 1,
+      "subjects": [
+        "QA"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2023-08-22 01:57:35",
+      "publisher": "Universitas Riau",
+      "publication": "Journal of  Mathematical Sciences and Optimization",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/25"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49696",
+      "date": "2023-04-03",
+      "abstract": "One of which machine learning data processing problems is imbalanced classes. Imbalanced classes could potentially cause bias towards the majority classes due to the nature of machine learning algorithms that presume that the object cardinality in classes is around similar number. Oversampling or generating new objects in minority class are common approaches for balancing the dataset. In text oversampling method, semantic meaning loses often occur when deep learning algorithms are used. We propose synonym-based text generation for restructuring the imbalanced COVID-19 online-news dataset. Three deep learning models (MLP, CNN, and LSTM) using TF\/IDF and word embedding (WE) feature are tested with the original and balanced dataset. The results indicate that the balance condition of the dataset and the use of text representative features affect the performance of the deep learning model. Using balanced data and deep learning models with WE greatly affect the classification significantly higher performances as high as 4%, 5%, and 6% in accuracy, precision, recall, and f1-score, respectively.",
+      "subjects": [
+        "QA75"
+      ],
+      "date_type": "published",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2023-04-06 00:53:24",
+      "full_text_status": "public",
+      "issn": "978-1-6654-5363-9",
+      "dir": "disk0_bak\/00\/04\/96\/96",
+      "publisher": "IEEE",
+      "publication": "Proceedings of the 5th International Conference on Networking, Information Systems & Security: Envisage Intelligent Systems in 5G\/6G-based Interconnected Digital Worlds NISS 2022",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "documents": [
+          {
+            "format": "text",
+            "main": "Synonym-based_Text_Generation_in_Restructuring_Imbalanced_Dataset_for_Deep_Learning_Models.pdf",
+            "files": [
+                {
+                  "hash": "0e65ec012e4af5e0e59086caeb6528ca",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 538622,
+                  "filename": "Synonym-based_Text_Generation_in_Restructuring_Imbalanced_Dataset_for_Deep_Learning_Models.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538622",
+                  "objectid": 189336,
+                  "filesize": 778608,
+                  "mtime": "2023-04-05 08:31:08",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 189336,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 49696,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189336",
+            "pos": 1
+          }
+      ],
+      "official_url": "https:\/\/ieeexplore.ieee.org\/xpl\/conhome\/1848749\/all-proceedings",
+      "lastmod": "2023-04-06 00:53:24",
+      "userid": 752,
+      "metadata_visibility": "show",
+      "eprintid": 49696,
+      "eprint_status": "archive",
+      "datestamp": "2023-04-06 00:53:24",
+      "refereed": "TRUE",
+      "title": "Synonym-based Text Generation in Restructuring Imbalanced Dataset for Deep Learning Models",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Febi Siti Sutria",
+            "honourific": null,
+            "family": "Ningsih",
+            "lineage": null
+          }
+        },
+        {
+          "id": "purn005@brin.go.id",
+          "name": {
+            "lineage": null,
+            "family": "Khotimah",
+            "honourific": null,
+            "given": "Purnomo Husnul"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Arisal",
+            "lineage": null,
+            "given": "Andria"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Rozie",
+            "lineage": null,
+            "honourific": null,
+            "given": "Andri Fachrur"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Munandar",
+            "honourific": null,
+            "given": "Devi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Riswantini",
+            "given": "Dianadewi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nugraheni",
+            "lineage": null,
+            "given": "Ekasari"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suwarningsih",
+            "given": "Wiwin"
+          }
+        },
+        {
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "datestamp": "2023-04-04 00:56:42",
+      "eprintid": 49602,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "30-41",
+      "userid": 752,
+      "number": 2,
+      "official_url": "https:\/\/journals.usm.ac.id\/index.php\/transformatika\/index",
+      "lastmod": "2023-04-04 00:56:42",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 189235,
+            "main": "Robusta London Coffee Price Forecasting AnalysisUsing Recurrent Neural Network –Long Short Term Memory (RNN –LSTM).pdf",
+            "files": [
+                {
+                  "fileid": 537849,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "8daabe6127859350dd712a409df1fc43",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-03 23:10:34",
+                  "objectid": 189235,
+                  "filesize": 697578,
+                  "filename": "Robusta London Coffee Price Forecasting AnalysisUsing Recurrent Neural Network –Long Short Term Memory (RNN –LSTM).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537849"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 49602,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189235",
+            "pos": 1
+          }
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nosa",
+            "given": "Ferzy Tryanda"
+          }
+        },
+        {
+          "name": {
+            "given": "Dian",
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Amanto",
+            "honourific": null,
+            "family": "Amanto",
+            "lineage": null
+          },
+          "id": "amanto.1973@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Warsono"
+          },
+          "id": "warsono.1963@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "Robusta London Coffee Price Forecasting Analysis Using Recurrent Neural Network – Long Short Term Memory (RNN – LSTM)",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "QA76"
+      ],
+      "abstract": "Coffee price forecasting has a significant role in preventing price fluctuations at a time. Therefore, a method is needed that can be used to forecast the price of coffee. This study discusses the analysis of coffee price forecasting using the Recurrent Neural Network – Long Short-Term Memory (RNN – LSTM) method. This study will be determined the best LSTM model that aims to get the results of forecasting the price of London Robusta coffee with the smallest Root Mean Square Error (RMSE) and Mean Absolute Percentage Error (MAPE) values. Using the LSTM model with units of 128 and dropouts of 0.1, forecasting the price of London Robusta coffee has an RMSE value of 1,303 and MAPE of 3.53%. Therefore, the LSTM model can indicate the cost of London Robusta coffee with an accuracy rate of 96.47%.\r\n\r\nKeywords: Coffee price forecasting, LSTM, Units, Dropout, RMSE, MAP.",
+      "volume": 20,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49602",
+      "date": "2023-01-30",
+      "publisher": "Department of Information Technology, Faculty of Information Technology and Communication, Semarang University",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publication": "Jurnal Transformatika",
+      "dir": "disk0_bak\/00\/04\/96\/02",
+      "issn": "2460-6731",
+      "full_text_status": "public",
+      "status_changed": "2023-04-04 00:56:42",
+      "ispublished": "pub",
+      "rev_number": 6
+    },
+    {
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "date": "2023-05-23",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52030",
+      "patent_applicant": "Program Komputer",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/20\/30",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2023-05-29 01:32:41",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "id_number": "EC00202337407",
+      "eprintid": 52030,
+      "datestamp": "2023-05-29 01:32:41",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "docid": 251722,
+            "main": "17. SERTIFIKAT HAKI_Fiqih.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "ec34e0fdb3972c8337fc4853815958ac",
+                  "datasetid": "document",
+                  "fileid": 616463,
+                  "mtime": "2023-05-26 19:58:28",
+                  "hash_type": "MD5",
+                  "filename": "17. SERTIFIKAT HAKI_Fiqih.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/616463",
+                  "filesize": 2110057,
+                  "objectid": 251722
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251722",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52030
+          }
+      ],
+      "lastmod": "2023-05-29 01:32:41",
+      "userid": 752,
+      "title": "Perbandingan Word Embedding Word2Vec, GloVe, Dan FastText\r\nMenggunakan Deep Learning (LSTM) Pada Data Drugs Review",
+      "type": "patent",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Fiqih Aulia",
+            "honourific": null,
+            "family": "Pradana",
+            "lineage": null
+          }
+        },
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "family": "Kurniasari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Wamiliana",
+            "lineage": null,
+            "given": "Wamiliana"
+          }
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsono",
+            "lineage": null,
+            "family": "Warsono",
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "dir": "disk0_bak\/00\/05\/24\/17",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2023-08-21 02:46:40",
+      "full_text_status": "public",
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52417",
+      "date": "2023-05-23",
+      "patent_applicant": "Program Komputer",
+      "abstract": "-",
+      "title": "Perbandingan Word Embedding Word2Vec, GloVe, Dan FastText\r\nMenggunakan Deep Learning (LSTM) Pada Data Drugs Review",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Pradana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Fiqih Aulia"
+          }
+        },
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniasari",
+            "given": "Dian"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wamiliana",
+            "lineage": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsono",
+            "lineage": null,
+            "family": "Warsono",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "patent",
+      "metadata_visibility": "show",
+      "eprintid": 52417,
+      "id_number": "EC00202337407",
+      "eprint_status": "archive",
+      "datestamp": "2023-08-21 02:46:40",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "SERTIFIKAT_HaKI Fiqih.pdf",
+            "files": [
+                {
+                  "fileid": 621284,
+                  "datasetid": "document",
+                  "hash": "ec34e0fdb3972c8337fc4853815958ac",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-20 21:45:41",
+                  "objectid": 253937,
+                  "filesize": 2110057,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621284",
+                  "filename": "SERTIFIKAT_HaKI Fiqih.pdf"
+                }
+            ],
+            "docid": 253937,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253937",
+            "pos": 1,
+            "eprintid": 52417,
+            "placement": 1
+          }
+      ],
+      "pages": 2,
+      "lastmod": "2023-08-21 02:46:40",
+      "userid": 752
+    },
+    {
+      "userid": 433,
+      "number": 2,
+      "lastmod": "2023-08-09 02:04:10",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 620429,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "db44a8194171872a75d274a79495ea35",
+                  "filesize": 716197,
+                  "objectid": 253513,
+                  "filename": "jurnal JSMS nusyirwan 23.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/620429",
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-08 01:48:14"
+                }
+            ],
+            "main": "jurnal JSMS nusyirwan 23.pdf",
+            "docid": 253513,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253513",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52344
+          }
+      ],
+      "datestamp": "2023-08-09 02:04:10",
+      "eprint_status": "archive",
+      "eprintid": 52344,
+      "metadata_visibility": "show",
+      "pagerange": "1-20",
+      "type": "article",
+      "creators": [
+        {
+          "id": "rachma.adjiramadanti01@gmail,com",
+          "name": {
+            "given": "Ramadanti",
+            "family": "Rachma Adji",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "Nusyirwan@fmipa.unila.ac.id",
+          "name": {
+            "family": "Nusyirwan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nusyirwan"
+          }
+        },
+        {
+          "name": {
+            "given": "Ferdias",
+            "lineage": null,
+            "family": "Pandri",
+            "honourific": null
+          },
+          "id": "pandri.ferdias@fmipa.unila.ac.id"
+        },
+        {
+          "id": "khoirin.nisa@fmipa.unila.ac.id",
+          "name": {
+            "family": "Khoirin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nisa"
+          }
+        }
+      ],
+      "title": "Penerapan Adaptive Neuro Fuzzy Inference System\r\nMenggunakan Fungsi Keanggotaan Generalized Bell\r\nuntuk Prediksi Indeks Harga Konsumen",
+      "refereed": "TRUE",
+      "abstract": "Indeks Harga Konsumen (IHK) merupakan indikator ekonomi penting terhadap\r\npasar keuangan dan menjadi indikator umum tingkat inflasi di Indonesia yang\r\ndihitung dan dipublikasikan setiap bulannya oleh Badan Pusat Statistik (BPS).\r\nPerkembangan IHK dapat memperlihatkan perkembangan tingkat harga suatu\r\nbarang dan jasa yang dibeli masyarakat dari waktu ke waktu. Berdasarkan hal\r\ntersebut, IHK perlu diprediksi agar harga barang dan jasa di masyarakat bisa\r\ndikontrol sehingga bisa menstabilkan inflasi dan jumlah uang yang beredar yang\r\nterjadi di Indonesia, maka oleh karena itu prediksi IHK pada penelitian ini digunakan\r\nvariabel prediktor yaitu inflasi dan uang beredar pada beberapa periode deret waktu.\r\nDalam prediksi pada penelitian ini digunakan metode Adaptive Neuro Fuzzy Inference\r\nSystem (ANFIS). ANFIS merupakan salah satu metode yang dapat digunakan untuk\r\nmelakukan prediksi pada data time series, ANFIS sendiri merupakan salah satu jenis\r\nneural network yang berbasis pada sistem inferensi fuzzy Takagi Sugeno. Tujuan dari\r\npenelitian ini adalah menerapkan ANFIS untuk memprediksi IHK menggunakan\r\nfungsi keanggotaan generalized bell. Selanjutnya menduga model ANFIS dan\r\nmemperoleh tingkat akurasi dari model prediksi Indeks Harga Konsumen (IHK)\r\ndengan metode ANFIS. Variabel prediktor yang digunakan adalah inflasi dan uang\r\nberedar, untuk variabel respon yang digunakan adalah IHK. Model terbaik dipilih\r\nberdasarkan pada nilai RMSE. Hasil analisis menunjukan bahwa penggunaan metode\r\nANFIS sudah baik untuk prediksi data karena hasil prediksi sudah cukup mendekati\r\ndata aktual dan RMSE model ANFIS dengan 2-cluster memberikan tingkat keakuratan\r\nyang baik untuk meramalkan IHK. Dengan kasus data IHK yang nilainya berubah\r\ncukup jauh pada awal tahun 2020 yang diakibatkan oleh perbedaan tahun dasar\r\nperhitungan nilai IHK, hasil ramalan dengan model ANFIS ini sudah cukup\r\nmengikuti dengan data aktualnya, ini sudah cukup menunjukan bahwa metode\r\nANFIS cocok untuk diterapkan untuk menyelesaikan kasus prediksi IHK.",
+      "volume": 9,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52344",
+      "date": "2023-07",
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "issn": "2460-4542",
+      "full_text_status": "public",
+      "status_changed": "2023-08-09 02:04:10",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "related_url": [
+        {
+          "url": "https:\/\/ejournal.uin-suska.ac.id\/index.php\/JSMS\/index"
+        }
+      ],
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Program Studi Matematika, Universitas Islam Negeri Sultan Syarif Kasim Riau",
+      "publication": "Jurnal Sains Matematika dan Statistika",
+      "dir": "disk0_bak\/00\/05\/23\/44"
+    },
+    {
+      "metadata_visibility": "show",
+      "pagerange": "1-10",
+      "datestamp": "2023-05-21 03:44:42",
+      "eprint_status": "archive",
+      "eprintid": 51899,
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/JSM",
+      "lastmod": "2023-05-21 03:44:42",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 51899,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251024",
+            "pos": 1,
+            "security": "public",
+            "main": "Aplikasi Metode Sillhoute Coefficint_Hilda, Widiarti, dkk_Jurnal Siger.pdf",
+            "docid": 251024,
+            "files": [
+                {
+                  "hash": "9c718f95f9082e0c6574b604209bf25f",
+                  "mime_type": "application\/pdf",
+                  "fileid": 614875,
+                  "datasetid": "document",
+                  "mtime": "2023-05-20 13:01:44",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/614875",
+                  "filename": "Aplikasi Metode Sillhoute Coefficint_Hilda, Widiarti, dkk_Jurnal Siger.pdf",
+                  "filesize": 741337,
+                  "objectid": 251024
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 33,
+      "number": 1,
+      "title": "Aplikasi Metode Sillhouette Coefficient, Metode Elbow dan Metode Gap Staticstic dalam Menentukan K Optimal pada Analisis K-Medoids",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Hilda L",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ramadhania"
+          }
+        },
+        {
+          "name": {
+            "given": "Widiarti",
+            "family": "Widiarti",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "widiarti08@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Zakaria",
+            "lineage": null,
+            "honourific": null,
+            "given": "L"
+          },
+          "id": "lazakaria.1969@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nusyirwan",
+            "lineage": null,
+            "given": "Nusyirwan"
+          },
+          "id": "Nusyirwan@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51899",
+      "date": "2023-05-18",
+      "abstract": "The K-Medoids method is a non-hierarchical cluster analysis method where information on the exact number of clusters is required. The data used in this study uses simulation data from reference data on the percentage of households according to drinking water sources. The simulation data used uses a multivariate normal distribution, so that the simulation data allows for negative data. In this study, two options were carried out on negative data results, namely being zero and absolute. The method in determining the optimal number of clusters used the Sillhouette Coefficient method, the Elbow method and the Gap Statistics method. The average Dunn Index value from the data on the zeroed option produces the largest Dunn Index value in determining the optimal number of clusters using the Gap Statistic method, which is 0,125734, while in the second option data, the Dunn Index average is greatest in determining the number of clusters optimally using the Sillhouette Coefficient method, which is 0,113315.",
+      "volume": 4,
+      "publisher": "Jurusan Matematika, Universitas Lampung",
+      "publication": "Jurnal Siger Matematika",
+      "dir": "disk0_bak\/00\/05\/18\/99",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "issn": "2721-5849 (p), 2721-6853(e)",
+      "full_text_status": "public",
+      "status_changed": "2023-05-21 03:44:42"
+    },
+    {
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "patent_applicant": "Program Komputer",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52029",
+      "date": "2023-05-23",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/20\/29",
+      "status_changed": "2023-05-29 01:32:36",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "eprintid": 52029,
+      "id_number": "EC00202337386",
+      "eprint_status": "archive",
+      "datestamp": "2023-05-29 01:32:36",
+      "metadata_visibility": "show",
+      "userid": 752,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 251721,
+            "main": "16. Sertifikat Haki Azzahra.pdf",
+            "files": [
+                {
+                  "fileid": 616454,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "fd5f857266dede0a1bbeb4114834e437",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-26 19:52:11",
+                  "filesize": 2109765,
+                  "objectid": 251721,
+                  "filename": "16. Sertifikat Haki Azzahra.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/616454"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251721",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52029
+          }
+      ],
+      "pages": 2,
+      "lastmod": "2023-05-29 01:32:36",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Azzahra Zulfa",
+            "family": "Riswinda",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null,
+            "given": "Dian"
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null
+          }
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "given": "Warsono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Warsono"
+          }
+        }
+      ],
+      "type": "patent",
+      "title": "Hybrid Convolutional Neural Network (CNN)-Long Short Term\r\nMemory (LSTM) Untuk Klasifikasi Data Text Penilaian Produk\r\nNutrimax Food Supplement"
+    },
+    {
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52416",
+      "date": "2023-05-23",
+      "patent_applicant": "Program Komputer",
+      "abstract": "-",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/16",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2023-08-21 02:46:35",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprintid": 52416,
+      "id_number": "EC00202337386",
+      "eprint_status": "archive",
+      "datestamp": "2023-08-21 02:46:35",
+      "pages": 2,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253936",
+            "pos": 1,
+            "eprintid": 52416,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621275",
+                  "filename": "Sertifikat_HaKI Azzahra.pdf",
+                  "filesize": 2109765,
+                  "objectid": 253936,
+                  "mtime": "2023-08-20 21:37:59",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "fd5f857266dede0a1bbeb4114834e437",
+                  "fileid": 621275,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Sertifikat_HaKI Azzahra.pdf",
+            "docid": 253936
+          }
+      ],
+      "lastmod": "2023-08-21 02:46:35",
+      "userid": 752,
+      "title": "Hybrid Convolutional Neural Network (CNN)-Long Short Term\r\nMemory (LSTM) Untuk Klasifikasi Data Text Penilaian Produk\r\nNutrimax Food Supplement",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Riswinda",
+            "lineage": null,
+            "honourific": null,
+            "given": "Azzahra Zulfa"
+          }
+        },
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Wamiliana",
+            "honourific": null,
+            "given": "Wamiliana"
+          }
+        },
+        {
+          "name": {
+            "family": "Warsono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Warsono"
+          },
+          "id": "warsono.1963@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "patent"
+    },
+    {
+      "full_text_status": "public",
+      "issn": "e -ISSN:2580-4391 p -ISSN:2580-4405",
+      "status_changed": "2023-03-17 08:30:24",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "ARTS Publishing",
+      "publication": "Science and Technology Indonesia",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/04\/89\/79",
+      "abstract": "Many analytical methods can be utilized for multivariate time series modeling. One of the analytical models for modeling time seriesdata with multiple variables is the State Space Model. The data to be analyzed in this study is inflation data from expenditure groupssuch as processed foods, beverages, cigarettes, and tobacco; and housing inflation for water, electricity, gas, and fuel from January2001 to December 2021. The aim is to determine the best State Space Model that fits the data for forecasting. In this study, theState Space method will be utilized further with multivariate time series data and represent State Space in Vector Autoregressive(VAR) to determine the relationship between groups of observed variables",
+      "volume": 8,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48979",
+      "date": "2023-01-15",
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Russel",
+            "honourific": null,
+            "given": "Edwin"
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "given": "Wamiliana",
+            "family": "Wamiliana",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Warsono",
+            "lineage": null,
+            "given": "Warsono"
+          },
+          "id": "klppm@kpa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nairobi",
+            "lineage": null,
+            "given": "Nairobi"
+          },
+          "id": "nairobi@feb.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Usman",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mustofa"
+          },
+          "id": "usman_alfha@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Faiz A. M.",
+            "family": "Elfaki",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "title": "Analysis Multivariate Time Series Using State Space Model for Forecasting Inflation inSome Sectors of Economy in Indonesia",
+      "refereed": "TRUE",
+      "userid": 791,
+      "number": 1,
+      "official_url": "https:\/\/sciencetechindonesia.com\/index.php\/jsti\/article\/view\/640\/297",
+      "lastmod": "2023-03-17 08:30:24",
+      "documents": [
+          {
+            "main": "Analysis Multivariate Time Series Using State Space Model for Forecasting Inflation inSome Sectors of Economy in Indonesia (2).pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-16 04:50:17",
+                  "filesize": 772449,
+                  "objectid": 188425,
+                  "filename": "Analysis Multivariate Time Series Using State Space Model for Forecasting Inflation inSome Sectors of Economy in Indonesia (2).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/532855",
+                  "fileid": 532855,
+                  "datasetid": "document",
+                  "hash": "6acbdd4430e45e5be7ba62b3b2370101",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 188425,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 48979,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188425",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2023-03-17 08:30:24",
+      "id_number": "https:\/\/doi.org\/10.26554\/sti.2023.8.1.144-150",
+      "eprint_status": "archive",
+      "eprintid": 48979,
+      "metadata_visibility": "show",
+      "pagerange": "144-150"
+    },
+    {
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52419",
+      "date": "2023-08-09",
+      "patent_applicant": "Program Komputer",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/19",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2023-08-21 02:46:44",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "id_number": "EC00202365077",
+      "eprintid": 52419,
+      "datestamp": "2023-08-21 02:46:44",
+      "pages": 2,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 52419,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253945",
+            "pos": 1,
+            "security": "public",
+            "main": "Sertifikat_HAKI Dea.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "191f7b6aaf7202e240e8e524dab3ef1f",
+                  "fileid": 621304,
+                  "datasetid": "document",
+                  "mtime": "2023-08-20 21:55:20",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621304",
+                  "filename": "Sertifikat_HAKI Dea.pdf",
+                  "filesize": 2109114,
+                  "objectid": 253945
+                }
+            ],
+            "docid": 253945,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-08-21 02:46:44",
+      "userid": 752,
+      "title": "Peramalan Harga Saham Apple Dengan Metode Hybrid Vector\r\nAutoregressive Integrate Moving Average (VARIMA) - Long Short\r\nTerm Memory (LSTM)",
+      "type": "patent",
+      "creators": [
+        {
+          "name": {
+            "family": "Safitri",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dea"
+          },
+          "id": null
+        },
+        {
+          "id": "dian.kurniasari@fmipa.unila.ac.id",
+          "name": {
+            "family": "Kurniasari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Dian"
+          }
+        },
+        {
+          "name": {
+            "given": "Mustofa",
+            "honourific": null,
+            "lineage": null,
+            "family": "Usman"
+          },
+          "id": "usman_alfha@yahoo.com"
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Warsono",
+            "lineage": null,
+            "given": "Warsono"
+          }
+        }
+      ]
+    },
+    {
+      "official_url": "http:\/\/www.ijirss.com\/index.php\/ijirss\/index",
+      "lastmod": "2023-01-30 01:47:54",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Environmental-based diseases IJIRSS SCoupus.pdf",
+            "docid": 187392,
+            "files": [
+                {
+                  "objectid": 187392,
+                  "filesize": 569986,
+                  "filename": "Environmental-based diseases IJIRSS SCoupus.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/526380",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-30 00:29:10",
+                  "datasetid": "document",
+                  "fileid": 526380,
+                  "mime_type": "application\/pdf",
+                  "hash": "90046a0d45e99c9b7612d5aa1d07d07a"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187392",
+            "pos": 1,
+            "eprintid": 48160,
+            "placement": 1
+          }
+      ],
+      "userid": 959,
+      "number": 2,
+      "metadata_visibility": "show",
+      "pagerange": "242-249",
+      "datestamp": "2023-01-30 01:47:54",
+      "eprint_status": "archive",
+      "id_number": "10.53894\/ijirss.v6i2.1249",
+      "eprintid": 48160,
+      "title": "Environmental-based diseases of students in urban and rural areas, Lampung province,\r\nIndonesia",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "subian.saidi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Subian",
+            "honourific": null,
+            "family": "Saidi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Herawati",
+            "lineage": null,
+            "given": "Netti"
+          },
+          "id": "netti.herawati@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nisa",
+            "honourific": null,
+            "given": "Khoirin"
+          },
+          "id": "khoirin.nisa@fmipa.unila.ac.id"
+        }
+      ],
+      "date": "2023-01-24",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48160",
+      "volume": 6,
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "issn": "2617-6548",
+      "full_text_status": "public",
+      "status_changed": "2023-01-30 01:47:54",
+      "related_url": [
+        {
+          "url": "http:\/\/www.ijirss.com\/"
+        }
+      ],
+      "publisher": "Innovative Research Publishing",
+      "publication": "International Journal of Innovative Research and Scientific Studies",
+      "dir": "disk0_bak\/00\/04\/81\/60",
+      "divisions": [
+        "FMIPA9"
+      ]
+    },
+    {
+      "title": "Peramalan Suhu Minimum Mingguan Dengan Metode Hybrid\r\nSeasonal Autoregressive Integrated Moving Average (SARIMA) -\r\nLong Short Term Memory (LSTM)",
+      "creators": [
+        {
+          "name": {
+            "given": "Anindya Dafa",
+            "honourific": null,
+            "family": "Salsabila",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Kurniasari",
+            "lineage": null,
+            "given": "Dian"
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Mustofa",
+            "family": "Usman",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "usman_alfha@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Warsito",
+            "lineage": null,
+            "given": "Warsito"
+          },
+          "id": "warsito@fmipa.unila.ac.id"
+        }
+      ],
+      "type": "patent",
+      "lastmod": "2023-08-21 02:46:50",
+      "documents": [
+          {
+            "docid": 253978,
+            "main": "Sertifikat HAKI_Anindya Dafa Salsabila.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "502ff4038daca99c346bf18780f0c6f7",
+                  "datasetid": "document",
+                  "fileid": 621361,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621361",
+                  "filename": "Sertifikat HAKI_Anindya Dafa Salsabila.pdf",
+                  "objectid": 253978,
+                  "filesize": 2109314,
+                  "mtime": "2023-08-20 22:35:28",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 52423,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253978",
+            "security": "public"
+          }
+      ],
+      "pages": 2,
+      "userid": 752,
+      "metadata_visibility": "show",
+      "datestamp": "2023-08-21 02:46:50",
+      "id_number": "EC00202361887",
+      "eprint_status": "archive",
+      "eprintid": 52423,
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2023-08-21 02:46:50",
+      "dir": "disk0_bak\/00\/05\/24\/23",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "date": "2023-08-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52423",
+      "patent_applicant": "Program Komputer",
+      "date_type": "published",
+      "subjects": [
+        "QA76"
+      ]
+    },
+    {
+      "subjects": [
+        "Q1"
+      ],
+      "date_type": "published",
+      "volume": 3,
+      "date": "2023-06-30",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52254",
+      "publisher": "Badan Pengelola KKN UNila",
+      "publication": "Jurnal Buguh",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/22\/54",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh\/article\/view\/2145"
+        }
+      ],
+      "status_changed": "2023-07-14 01:41:19",
+      "issn": "P-ISSN : 2776-3749 E-ISSN : 2808-1412",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "eprintid": 52254,
+      "id_number": "https:\/\/doi.org\/10.23960\/buguh.v3n2.2145",
+      "eprint_status": "archive",
+      "datestamp": "2023-07-14 01:41:19",
+      "pagerange": "118-125",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 959,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 52254,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252997",
+            "security": "public",
+            "files": [
+                {
+                  "hash": "33338d7dba73c04d4fbb05f255d2550e",
+                  "mime_type": "text\/html",
+                  "fileid": 619244,
+                  "datasetid": "document",
+                  "mtime": "2023-07-13 03:30:57",
+                  "hash_type": "MD5",
+                  "filename": 113,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619244",
+                  "filesize": 3523,
+                  "objectid": 252997
+                }
+            ],
+            "main": 113,
+            "docid": 252997,
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "text\/html"
+          }
+      ],
+      "lastmod": "2023-07-14 01:41:19",
+      "official_url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh",
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Eri",
+            "honourific": null,
+            "family": "Setiawan",
+            "lineage": null
+          }
+        },
+        {
+          "id": "netti.herawati@fmipa.unila.ac.id",
+          "name": {
+            "given": "Netti",
+            "lineage": null,
+            "family": "Herawati",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nisa",
+            "honourific": null,
+            "given": "Khoirin"
+          },
+          "id": "khoirin.nisa@fmipa.unila.ac.id"
+        },
+        {
+          "id": "subian.saidi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Subian",
+            "honourific": null,
+            "lineage": null,
+            "family": "Saidi"
+          }
+        },
+        {
+          "id": "tiryono.1962@fmipa.unila.ac.id",
+          "name": {
+            "given": "Ruby",
+            "lineage": null,
+            "family": "Tiryono",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "LUBANG BIOPORI: SOLUSI BERKELANJUTAN DALAM\r\nMENGELOLA SAMPAH ORGANIK DI DESA NEGERI NGARIP"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Eri",
+            "lineage": null,
+            "family": "Setiawan",
+            "honourific": null
+          }
+        },
+        {
+          "id": "aangnuryaman@gmail.com",
+          "name": {
+            "given": "Aang",
+            "family": "Nuryaman",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null,
+            "given": "Mustofa"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "IMPLEMENTASI METODE BACKPROPAGATION NEURAL NETWORK DALAM\r\nMERAMALKAN TINGKAT INFLASI DI INDONESIA",
+      "eprintid": 51824,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-19 06:56:03",
+      "pagerange": "8-16",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 713,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/250610",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 51824,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 613989,
+                  "datasetid": "document",
+                  "hash": "114e451c9a18cde0156b676881310de4",
+                  "mime_type": "application\/pdf",
+                  "objectid": 250610,
+                  "filesize": 1246848,
+                  "filename": "jurnal 2023 siger math.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/613989",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-19 02:39:32"
+                }
+            ],
+            "main": "jurnal 2023 siger math.pdf",
+            "docid": 250610,
+            "format": "text"
+          }
+      ],
+      "official_url": "https:\/\/ejournal.unesa.ac.id\/index.php\/mathunesa",
+      "lastmod": "2023-05-19 06:56:03",
+      "publisher": "Jurusan Matematika, FMIPA Universitas Negeri Surabaya",
+      "publication": "MATHunesa : Jurnal Ilmiah Matematika",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/18\/24",
+      "status_changed": "2023-05-19 06:56:03",
+      "full_text_status": "public",
+      "issn": "2716-506X",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "volume": 1,
+      "abstract": "Peramalan adalah usaha untuk memperkirakan kejadian di masa depan dengan mengacu pada trend dari data atau data historis. Beberapa metode yang umum digunakan dalam peramalan data deret waktu termasuk Autoregressive Integrated Moving Average (ARIMA), Exponential Smoothing, dan Seasonal Autoregressive Integrated Moving Average (SARIMA). Namun, teknik-teknik peramalan tersebut memiliki\r\nkelemahan atau kekurangan, seperti membutuhkan data yang memiliki sifat stasioner dan tingkat akurasi yang terkadang kurang baik. Peneliti banyak yang mengadopsi metode Jaringan Saraf Tiruan untuk mengatasi kelemahan tersebut, seperti Backpropagation Neural Network. Metode Backpropagation Neural Network terbukti sangat efektif dalam melakukan peramalan di bidang ekonomi. Permasalah ekonomi\r\nyang dianggap menjadi permasalahan besar dan belum teratasi sampai saat ini yaitu inflasi. Dalam penelitian ini, data yang digunakan yaitu data inflasi dari periode Januari 2000 hingga Oktober 2022 dengan\r\nmenggunakan metode Backpropagation Neural Network untuk meramalkannya. Hasil penelitian menunjukan\r\nbahwa pembagian data 50% untuk pelatihan (training) dan 50% untuk pengujian (testing) merupakan proporsi pembagian terbaik, dengan menggunakan fungsi aktivasi sigmoid biner serta arsitektur jaringan 12-21-1. Nilai Mean Square Error (MSE) pada tahap pelatihan adalah 0.00067535, sedangkan pada tahap pengujian adalah 0.0767. Berdasarkan peramalan, inflasi tertinggi diperkirakan terjadi inflasi sebesar 0.5579 pada bulan Oktober 2023, sementara inflasi terendah sebesar 0.203 yang diperkirakan terjadi pada bulan\r\nFebruari 2023.\r\n\r\nKata Kunci: Backpropagation Neural Network, Deret Waktu, Jaringan Syaraf Tiruan, Inflasi, dan Peramalan",
+      "date": "2023-05-19",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51824"
+    },
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2023-08-21 02:46:46",
+      "full_text_status": "public",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/20",
+      "date": "2023-08-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52420",
+      "patent_applicant": "Program Komputer",
+      "subjects": [
+        "QA76"
+      ],
+      "date_type": "published",
+      "title": "Hybrid Autoregressive Integrate Moving Average (ARIMA) - Gated\r\nRecurrent Unit (GRU) Dalam Peramalan Harga Sawit Pada PT.\r\nSawit Sumbermas Sarana Di Kalimantan Tengah",
+      "type": "patent",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Shella",
+            "honourific": null,
+            "given": "Tiara Pramay"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Dian",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniasari"
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        },
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "given": "Mustofa",
+            "honourific": null,
+            "family": "Usman",
+            "lineage": null
+          }
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Warsono",
+            "lineage": null,
+            "given": "Warsono"
+          }
+        }
+      ],
+      "pages": 2,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Sertifikat_HaKI Tiara Pramay Shella.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-08-20 21:58:18",
+                  "objectid": 253950,
+                  "filesize": 2109300,
+                  "filename": "Sertifikat_HaKI Tiara Pramay Shella.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621315",
+                  "datasetid": "document",
+                  "fileid": 621315,
+                  "mime_type": "application\/pdf",
+                  "hash": "a8c4c5cdf3be0d44d5def59f69829dcc"
+                }
+            ],
+            "docid": 253950,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253950",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52420
+          }
+      ],
+      "lastmod": "2023-08-21 02:46:46",
+      "userid": 752,
+      "metadata_visibility": "show",
+      "eprintid": 52420,
+      "id_number": "EC00202365120",
+      "eprint_status": "archive",
+      "datestamp": "2023-08-21 02:46:46"
+    },
+    {
+      "datestamp": "2023-08-21 02:46:42",
+      "id_number": "EC00202356460",
+      "eprint_status": "archive",
+      "eprintid": 52418,
+      "metadata_visibility": "show",
+      "userid": 752,
+      "lastmod": "2023-08-21 02:46:42",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253943",
+            "eprintid": 52418,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Sertifikat_HaKI Ziga Bunga.pdf",
+            "docid": 253943,
+            "files": [
+                {
+                  "mtime": "2023-08-20 21:50:05",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/621296",
+                  "filename": "Sertifikat_HaKI Ziga Bunga.pdf",
+                  "filesize": 2109220,
+                  "objectid": 253943,
+                  "mime_type": "application\/pdf",
+                  "hash": "d9316c0ef5c7d3ad2bc2fc035c312ed5",
+                  "datasetid": "document",
+                  "fileid": 621296
+                }
+            ]
+          }
+      ],
+      "pages": 2,
+      "type": "patent",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Sobara",
+            "lineage": null,
+            "given": "Zida Bunga"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null,
+            "given": "Dian"
+          },
+          "id": "dian.kurniasari@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nuryaman",
+            "honourific": null,
+            "given": "Aang"
+          },
+          "id": "aang.nuryaman@fmipa.unila.ac.id"
+        },
+        {
+          "id": "warsono.1963@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Warsono",
+            "lineage": null,
+            "given": "Warsono"
+          }
+        }
+      ],
+      "title": "Klasifikasi Electronic Health Record (EHR) Menggunakan Long\r\nShort-Term Memory (LSTM) Dan Gated Recurrent Unit (GRU)",
+      "date_type": "published",
+      "subjects": [
+        "QA76"
+      ],
+      "patent_applicant": "Program Komputer",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52418",
+      "date": "2023-07-18",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/24\/18",
+      "full_text_status": "public",
+      "status_changed": "2023-08-21 02:46:42",
+      "rev_number": 7,
+      "ispublished": "pub"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Wamiliana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Wamiliana"
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Attiya",
+            "family": "Yuliana",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Fitriani",
+            "honourific": null,
+            "lineage": null,
+            "family": "Fitriani"
+          },
+          "id": "fitriani_mathunila@yahoo.co.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "he Relationship of Multiset, Stirling Number, Bell Number, and Catalan Number",
+      "id_number": "https:\/\/doi.org\/10.26554\/sti.2023.8.2.330-337",
+      "eprintid": 51192,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-08 03:12:57",
+      "pagerange": "330-337",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 791,
+      "documents": [
+          {
+            "eprintid": 51192,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190926",
+            "format": "text",
+            "main": "The Relationship of Multiset, Stirling Number, Bell Number, and Catalan Number.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-08 02:24:38",
+                  "filesize": 606183,
+                  "objectid": 190926,
+                  "filename": "The Relationship of Multiset, Stirling Number, Bell Number, and Catalan Number.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/550154",
+                  "fileid": 550154,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "d052dbcc4a270d879e49491572722fed"
+                }
+            ],
+            "docid": 190926,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-05-08 03:12:57",
+      "official_url": "https:\/\/sciencetechindonesia.com\/index.php\/jsti\/article\/view\/712",
+      "publisher": "ARTS Publishing",
+      "publication": "Science and Technology Indonesia",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/11\/92",
+      "status_changed": "2023-05-08 03:12:57",
+      "full_text_status": "public",
+      "issn": "e -ISSN:2580-4391 p -ISSN:2580-4405",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "volume": 8,
+      "abstract": "Catalan numbers is not as famous as Fibonacci numbers, however this number has own its beauty and arts. Catalan numbers was discovered by Ming Antu in 1730, however, this numbers is credited to Eugene Catalan when he was studying parentheses in 1838. Catalan numbers mostly occurs in counting or enumeration problems. The Catalan numbers can be defined in more than one forms, and the most famous form is Cn = 1\/n+1 (2n, n). In this study we will discuss the multiset construction and the relationship of the results of Multiset with Stirling, Bell, and Catalan numbers.\r\n\r\nKeywords\r\nCounting, Enumeration, Multiset, Catalan Numbers, Stirling Numbers",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51192",
+      "date": "2023-04-19"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Widiarti",
+            "honourific": null,
+            "given": "Widiarti"
+          },
+          "id": "widiarti08@gmail.com"
+        },
+        {
+          "id": "agus.sutrisno@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sutrisno",
+            "lineage": null,
+            "given": "Agus"
+          }
+        },
+        {
+          "name": {
+            "given": "Mustofa",
+            "lineage": null,
+            "family": "Usman",
+            "honourific": null
+          },
+          "id": "usman_alfha@yahoo.com"
+        }
+      ],
+      "title": "Pemodelan Dinamis Distributed Lag Dengan Menggunakan Metode Koyck Dan Metode Almon",
+      "refereed": "TRUE",
+      "userid": 33,
+      "number": 1,
+      "lastmod": "2023-05-19 01:29:46",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/JSM\/index",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/250551",
+            "eprintid": 51814,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 250551,
+            "main": "Pemodelan Dinamis Distribusi Lag_Dora Panny, Widiarti, dkk_Jurnal Siger.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/613829",
+                  "filename": "Pemodelan Dinamis Distribusi Lag_Dora Panny, Widiarti, dkk_Jurnal Siger.pdf",
+                  "filesize": 439264,
+                  "objectid": 250551,
+                  "mtime": "2023-05-18 21:19:11",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "fa000de31bb4001fdfe8aef7b196ec2e",
+                  "datasetid": "document",
+                  "fileid": 613829
+                }
+            ]
+          }
+      ],
+      "datestamp": "2023-05-19 01:29:46",
+      "eprintid": 51814,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "17-22",
+      "full_text_status": "public",
+      "issn": "2721-5849 (p), 2721-6853(e)",
+      "status_changed": "2023-05-19 01:29:46",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "Jurusan Matematika, Universitas Lampung",
+      "publication": "Jurnal Siger Matematika",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "dir": "disk0_bak\/00\/05\/18\/14",
+      "abstract": "Distributed lag model atau model lag terdistribusi termasuk model dinamis sebab pengaruh perubahan satu unit dalam nilai variabel bebas (X) terdistribusi selama periode waktu. Model lag terdistribusi ada 2 jenis, yaitu: model infinite lag dan model finite lag. Pemodelan infinite lag memakai metode Koyck dan pemodelan finite lag menggunakan metode Almon. Model lag terdistribusi digunakan untuk memvisualkan dampak\r\nyang dilakukan oleh variabel bebas terhadap variabel tak bebas. Penelitian ini bertujuan mengaplikasikan model dinamis distributed lag melalui pemakaian metode transformasi Koyck dan metode transformasi Almon untuk mengkaji pengaruh kurs rupiah Indonesia terhadap nilai ekspor garmen PT. Shinwon ke mancanegara dan menentukan model terbaik dalam pemodelan dinamis distributed lag dengan memakai metode transformasi Koyck dan metode transformasi Almon. Hasil penelitian menunjukkan bahwa pemodelan dinamis distributed lag dengan memakai metode transformasi Almon lebih baik dibanding transformasi Koyck.\r\n\r\nKata kunci : Model lag terdistribusi, Metode Koyck, Metode Almon, Kurs Indonesia, Ekspor.",
+      "volume": 4,
+      "date": "2023-05-18",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51814",
+      "date_type": "published",
+      "subjects": [
+        "QA"
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Konservasi Anggrek Dan Peningkatan Peringkat Greenmetric\r\nMelalui Kegiatan Penanaman Anggrek Di Kampus",
+      "type": "article",
+      "creators": [
+        {
+          "id": "widiarti08@gmail.com",
+          "name": {
+            "given": "Widiarti",
+            "family": "Widiarti",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "usman_alfha@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Usman",
+            "given": "Mustofa"
+          }
+        },
+        {
+          "id": "wamiliana@gmail.com",
+          "name": {
+            "family": "Wamiliana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Wamiliana"
+          }
+        },
+        {
+          "name": {
+            "given": "Nuning",
+            "lineage": null,
+            "family": "Nurcahyani",
+            "honourific": null
+          },
+          "id": "uya.jujun@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Jani",
+            "honourific": null,
+            "lineage": null,
+            "family": "Master"
+          },
+          "id": "j.janter@gmail.com"
+        }
+      ],
+      "documents": [
+          {
+            "main": "Jurnal PKM Widiarti dkk.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 550182,
+                  "hash": "9a363b96b365c74784eeb56cab317995",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-08 02:55:51",
+                  "filesize": 712471,
+                  "objectid": 190929,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/550182",
+                  "filename": "Jurnal PKM Widiarti dkk.pdf"
+                }
+            ],
+            "docid": 190929,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 51195,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190929",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-05-08 03:13:02",
+      "official_url": "https:\/\/tapisberseri.ubl.ac.id\/index.php\/jpmtapisberseri",
+      "number": 1,
+      "userid": 33,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "id_number": "10.36448\/jpmtb.v2i1.39",
+      "eprintid": 51195,
+      "datestamp": "2023-05-08 03:13:02",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2023-05-08 03:13:02",
+      "full_text_status": "public",
+      "issn": "2830-6945",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Pusat Studi Teknologi Informasi Fakultas Ilmu Komputer Universitas Bandar",
+      "publication": "Jurnal Pengabdian Masyarakat Tapis Berseri",
+      "dir": "disk0_bak\/00\/05\/11\/95",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51195",
+      "date": "2023-05-04",
+      "volume": 2,
+      "abstract": "Upaya pelestarian anggrek, khususnya anggrek spesies merupakan salah satu kegiatan konservasi lingkungan hidup. Dalam rangka pelestarian lingkungan, lingkungan kampus sudah dipenuhi berbagai pohon-pohon rindang dan tinggi, yang sangat sesuai untuk habitat anggrek hutan. Adanya tanaman-tanaman ini merupakan salah satu upaya konservasi lingkungan, keindahan, dan pengurangan gas CO2. Untuk menambah keindahannya, pohon-pohon besar yang ada di\r\nlingkungan taman kampus dapat ditempel berbagai jenis anggrek yang sesuai dengan habitatnya seperti amabilis, retusa, bulbophyllum, aphyllum, dan dendrobium. Anggrek, selain indah dan cantik, juga akan mengurangi kadar CO2 di udara sehingga penanaman anggrek di lingkungan\r\nkampus akan berdampak baik terhadap peringkat greenmetric. Tujuan kegiatan pengabdian ini adalah untuk: (1) melestarikan anggrek spesies khususnya amabilis yang merupakan spesies asli Lampung, (2) mengurangi CO2 dan meningkatkan peringkat greenmetric. Kegiatan ini melibatkan\r\ntim dosen, mahasiswa, dan staff untuk membantu merawat tanaman anggrek. Tingkat keberhasilan hidup anggrek untuk beradaptasi di lingkungan kampus sangat baik (lebih dari 95%). Partisipasi dan antusiasme masyarakat dan civitas akademika di lingkungan kampus juga sangat baik. Hal ini ditandai dengan pertumbuhan anggrek yang baik dan masih utuhnya plant anggrek yang ditanam.",
+      "subjects": [
+        "Q1"
+      ],
+      "date_type": "published"
+    },
+    {
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "Jurusan Matematika, Universitas Lampung",
+      "publication": "Jurnal Siger Matematika",
+      "dir": "disk0_bak\/00\/05\/18\/12",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2023-05-19 01:29:42",
+      "full_text_status": "public",
+      "issn": "2721-5849 (p), 2721-6853(e)",
+      "subjects": [
+        "QA"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51812",
+      "date": "2023-05-18",
+      "volume": 4,
+      "abstract": "Metode K-Medoids merupakan analisis klaster metode non hierarki dimana diperlukan informasi jumlah klaster yang tepat. Data yang digunakan dalam penelitian ini menggunakan data simulasi dari referensi data persentase rumah tangga menurut sumber air minum. Data simulasi yang digunakan menggunakan distribusi normal multivariat, sehingga data simulasi memungkinkan adanya data yang negatif. Dalam\r\npenelitian ini dilakukan dua opsi pada hasil data yang negatif yaitu dijadikan nol dan dimutlakkan. Metode\r\ndalam penentuan jumlah klaster yang optimal menggunakan metode Sillhouette Coefficient, metode Elbow dan metode Gap Statistic. Rata-rata nilai Dunn Index dari data pada opsi yang di nolkan menghasilkan nilai Dunn index paling besar pada penentuan jumlah klaster menggunakan metode Gap Statistic yaitu sebesar 0,125734, sedangkan pada data opsi kedua rata-rata Dunn Index paling besar pada penentuan jumlah klaster optimal menggunakan metode Sillhouette Coefficient yaitu sebesar 0,113315.\r\n\r\nKata Kunci: K-Medoids; Sillhouette Coefficient, Elbow, Gap Statistic, Dunn index",
+      "refereed": "TRUE",
+      "title": "Aplikasi Metode Sillhouette Coefficient, Metode Elbow dan Metode Gap Staticstic dalam Menentukan K Optimal pada Analisis K-Medoids",
+      "type": "article",
+      "creators": [
+        {
+          "id": "widiarti08@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Widiarti",
+            "lineage": null,
+            "given": "Widiarti"
+          }
+        },
+        {
+          "name": {
+            "given": "L",
+            "family": "Zakaria",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "lazakaria.1969@fmipa.unila.ac.id"
+        },
+        {
+          "id": "Nusyirwan@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Nusyirwan",
+            "lineage": null,
+            "given": "Nusyirwan"
+          }
+        }
+      ],
+      "pagerange": "1-10",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 51812,
+      "datestamp": "2023-05-19 01:29:42",
+      "documents": [
+          {
+            "main": "Aplikasi Metode Sillhoute Coefficint_Hilda, Widiarti, dkk_Jurnal Siger.pdf",
+            "files": [
+                {
+                  "filename": "Aplikasi Metode Sillhoute Coefficint_Hilda, Widiarti, dkk_Jurnal Siger.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/613814",
+                  "objectid": 250544,
+                  "filesize": 741337,
+                  "mtime": "2023-05-18 21:00:39",
+                  "hash_type": "MD5",
+                  "hash": "9c718f95f9082e0c6574b604209bf25f",
+                  "mime_type": "application\/pdf",
+                  "fileid": 613814,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 250544,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 51812,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/250544",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-05-19 01:29:42",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/JSM",
+      "number": 1,
+      "userid": 33
+    },
+    {
+      "subjects": [
+        "QA"
+      ],
+      "date": 2023,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50923",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "publisher": "IJMEMS",
+      "dir": "disk0_bak\/00\/05\/09\/23",
+      "rev_number": 12,
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "status_changed": "2023-05-02 07:35:10",
+      "metadata_visibility": "show",
+      "datestamp": "2023-05-02 07:35:10",
+      "eprint_status": "archive",
+      "eprintid": 50923,
+      "lastmod": "2023-05-02 07:35:10",
+      "documents": [
+          {
+            "eprintid": 50923,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190637",
+            "pos": 1,
+            "format": "text",
+            "docid": 190637,
+            "main": "Computational Mathematics Solving Dual Fully Fuzzy Nonlinear Matrix Equations Numerically using Broy.pdf",
+            "files": [
+                {
+                  "hash": "5f0e1a4e97411fff21056620662a6317",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 548109,
+                  "mtime": "2023-05-02 03:39:22",
+                  "hash_type": "MD5",
+                  "filename": "Computational Mathematics Solving Dual Fully Fuzzy Nonlinear Matrix Equations Numerically using Broy.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/548109",
+                  "objectid": 190637,
+                  "filesize": 674637
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 300,
+      "title": "Hasil Cek Similarity Artikel \"Computational Mathematics: Solving Dual Fully Fuzzy Nonlinear Matrix Equations Numerically using Broyden’s Method\"",
+      "type": "other",
+      "creators": [
+        {
+          "id": "lazakaria.1969@fmipa.unila.ac.id",
+          "name": {
+            "given": "L",
+            "honourific": null,
+            "lineage": null,
+            "family": "Zakaria"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Megarani",
+            "lineage": null,
+            "given": "Wahyu"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Faisol",
+            "lineage": null,
+            "given": "Ahmad"
+          },
+          "id": "ahmadfaisol@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nuryaman",
+            "given": "Aang"
+          },
+          "id": "aangnuryaman@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Ulfah",
+            "lineage": null,
+            "family": "Muharramah",
+            "honourific": null
+          },
+          "id": null
+        }
+      ]
+    }
+]
+

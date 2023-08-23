@@ -1,0 +1,228 @@
+[
+    {
+      "metadata_visibility": "show",
+      "pagerange": "155-160",
+      "datestamp": "2017-08-14 04:00:48",
+      "eprint_status": "archive",
+      "eprintid": 3760,
+      "lastmod": "2017-08-14 04:00:48",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "3. 012007_NAS.pdf",
+            "docid": 3617,
+            "files": [
+                {
+                  "filesize": 1134049,
+                  "objectid": 3617,
+                  "filename": "3. 012007_NAS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26374",
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-03 06:16:44",
+                  "fileid": 26374,
+                  "datasetid": "document",
+                  "hash": "7c97b55d618997c68751b82ea272f21d",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3617",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3760
+          }
+      ],
+      "userid": 464,
+      "number": 2,
+      "title": "Friction Stir Welding as New Emerging Trend in Joining Technology for Aluminum Alloys.",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "family": "Sukmana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Irza"
+          },
+          "id": "irza.sukmana@gmail.com"
+        }
+      ],
+      "type": "article",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3760",
+      "date": "2007-12",
+      "abstract": "today, aluminium alloys are used in a diverse range of markets and exploiring the unique physical and mechanical properties.",
+      "volume": 10,
+      "publisher": "Pusat Penelitian Dan Pengabdian Masyarakat Sekolah Tinggi Teknologi Indonesia",
+      "publication": "Journal Teknologi",
+      "dir": "disk0\/00\/00\/37\/60",
+      "divisions": [
+        "FT14"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "issn": "1410 - 8577",
+      "full_text_status": "public",
+      "status_changed": "2017-08-14 04:00:48"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sukmana",
+            "honourific": null,
+            "given": "Irza"
+          },
+          "id": "irza.sukmana@gmail.com"
+        }
+      ],
+      "type": "article",
+      "title": "Penelitian Koefisien Gaya Dan Energi Spesifik Proses Penggerindaan Rata Selubung Pada Baja Perkakas Vcn 150",
+      "refereed": "TRUE",
+      "userid": 464,
+      "number": 1,
+      "lastmod": "2017-08-14 04:01:09",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "hash": "730d6537aaf0a54658231d59f76c10a9",
+                  "mime_type": "application\/pdf",
+                  "fileid": 26380,
+                  "datasetid": "document",
+                  "mtime": "2017-08-03 06:32:43",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26380",
+                  "filename": "5. 032007_NAS.pdf",
+                  "objectid": 3618,
+                  "filesize": 1834855
+                }
+            ],
+            "main": "5. 032007_NAS.pdf",
+            "docid": 3618,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 3761,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3618",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2017-08-14 04:01:09",
+      "eprint_status": "archive",
+      "eprintid": 3761,
+      "metadata_visibility": "show",
+      "pagerange": "41-50",
+      "issn": "1410 - 6841",
+      "full_text_status": "public",
+      "status_changed": "2017-08-14 04:01:09",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "Jurusan Teknik Mesin Fakultas Teknik Universitas Tarumanegara",
+      "publication": "poros",
+      "divisions": [
+        "FT14"
+      ],
+      "dir": "disk0\/00\/00\/37\/61",
+      "abstract": "VCN 150 is a special heat treatable materials.",
+      "volume": 10,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3761",
+      "date": "2007-01",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ]
+    },
+    {
+      "title": "THE EFFECT OF SENSITIZATION TEMPERATURE ON STRESS\r\nCORROSION CRACKING OF STAINLESS STEEL AISI 304 IN SULPHATE\r\nACID ENVIRONMENT",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sukmana"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Burhanuddin",
+            "honourific": null,
+            "given": "Yanuar"
+          },
+          "id": null
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "115-122",
+      "datestamp": "2017-08-14 01:33:03",
+      "eprintid": 3758,
+      "eprint_status": "archive",
+      "lastmod": "2017-08-14 01:33:03",
+      "documents": [
+          {
+            "eprintid": 3758,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3615",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-03 05:56:35",
+                  "filesize": 396958,
+                  "objectid": 3615,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26362",
+                  "filename": "4. 022007_NAS.pdf",
+                  "datasetid": "document",
+                  "fileid": 26362,
+                  "mime_type": "application\/pdf",
+                  "hash": "6c8992d3da9f66b38c5933049276fd28"
+                }
+            ],
+            "main": "4. 022007_NAS.pdf",
+            "docid": 3615,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 464,
+      "number": 2,
+      "publisher": "Fakultas Teknik Universitas Brawijaya",
+      "divisions": [
+        "FT14"
+      ],
+      "publication": "JURNAL TEKNIK",
+      "dir": "disk0\/00\/00\/37\/58",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "issn": "0854-2139",
+      "status_changed": "2017-08-14 01:33:03",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3758",
+      "date": "2007-08",
+      "abstract": "Austenitic stainless steel 304 (AISI 304) has a good corrosion resistant, but a heat treatment process can cause a sensitization phenomenon and the corrosion resistant will decrease. One of the most serious corrosion problems that\r\ncan occur is stress corrosion cracking (SCC). This study is to determine the effect of sensitization temperatures (i.e. 500 oC, 670 oC, and 840 oC) on the SCC phenomenon of AISI 304 in sulphate acid environment with total immersion\r\nmethod. It was observed for the specimen with sensitization temperatures of 500 oC and 670 oC, the dominant corrosion\r\nform is pitting corrosion, where the highest corrosion rate was occur on the specimen with sensitization temperature of\r\n500 oC after 336 hours of exposure. Average of Corrosion Rate of specimen with sensitization temperatures of 500 oC,\r\n670 oC, and 840 oC after 480 hours of exposure are 2.76 mm\/y, 1.58 mm\/y, and 0.9 mm\/y. Stress corrosion cracking\r\noccurs on the specimen with sensitization temperature of 840 oC after 480 hours of exposure.",
+      "volume": 14
+    }
+]
+

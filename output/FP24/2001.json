@@ -1,0 +1,81 @@
+[
+    {
+      "userid": 840,
+      "number": 1,
+      "official_url": "http:\/\/jhpttropika.fp.unila.ac.id\/index.php\/jhpttropika",
+      "lastmod": "2020-07-29 09:19:13",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 23459,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37081",
+            "security": "public",
+            "main": "Vol. 1 No. 1.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "2e38d91b0ce081478a292bb76b23d195",
+                  "fileid": 214542,
+                  "datasetid": "document",
+                  "mtime": "2020-07-29 03:29:42",
+                  "hash_type": "MD5",
+                  "filename": "Vol. 1 No. 1.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/214542",
+                  "filesize": 130077,
+                  "objectid": 37081
+                }
+            ],
+            "docid": 37081,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2020-07-29 09:19:13",
+      "eprintid": 23459,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "29-32",
+      "creators": [
+        {
+          "name": {
+            "given": "Sudi",
+            "lineage": null,
+            "family": "Pramono",
+            "honourific": null
+          },
+          "id": "sudi.pramono@fp.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "EFEK PENYIMPANAN TERHADAP VIRULENSI NUCLEAR\r\nPOLYHEDROSIS VIRUS YANG DIAPLIKASIKAN PADA TANAMAN\r\nKEDELAI TERSERANG ULAT GRAYAK (Spodoptera litura Fabr. )",
+      "refereed": "FALSE",
+      "abstract": "One of the problem increased soybean production was Spodoptera litura (army worm), because army worm has been\r\nknown to be resistant to many insecticides. Alternatif control techniques should be explored to reduce population of the\r\npest. Nuclear Polyhedrosis Virus (NPV) could storage one or more year, but must used technique cold storage so that not\r\nvirulence decreased. This experiment was conducted to study (1) NPV pathogenicity to army worm in the field, and (2) the\r\neffect of storage on the pathogenicity of NPV to S. litura. The research consisted of two experiments i.e. laboratory and\r\nfield experiments. Each experiment had seven treatments arranged in a randomized completely block design. Each\r\ntreatment was replicated four times. The results show the highest mortality of S. litura occurred in plot treated with 1,0 x\r\n107\r\nPIBs \/ml, the mortality was 48 to 49,33 spec\/plot after ten days aplicated . If comparative patogenicity the new and the\r\nold NPV was not significant. Population of army worm decreased significantly by NPV and control. So that patogenecity\r\nNPV storage one year as well as new NPV against army worm.",
+      "volume": 1,
+      "date": "2001-03-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23459",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "full_text_status": "public",
+      "issn": "1411-7525",
+      "status_changed": "2020-07-29 09:19:13",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "related_url": [
+        {
+          "url": "http:\/\/jhpttropika.fp.unila.ac.id\/index.php\/jhpttropika"
+        }
+      ],
+      "publication": "KARAKTERISASI RIZOBAKTERI YANG BERPOTENSI MENGENDALIKAN BAKTERI XANTHOMONAS ORYZAE PV. ORYZAE DAN MENINGKATKAN PERTUMBUHAN TANAMAN PADI",
+      "publisher": "Jurusan HPT Unila",
+      "divisions": [
+        "FP24"
+      ],
+      "dir": "disk0\/00\/02\/34\/59"
+    }
+]
+

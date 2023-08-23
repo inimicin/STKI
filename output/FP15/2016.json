@@ -1,0 +1,550 @@
+[
+    {
+      "status_changed": "2017-05-31 01:39:01",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "dir": "disk0\/00\/00\/20\/46",
+      "divisions": [
+        "FP15"
+      ],
+      "event_type": "conference",
+      "abstract": "Indonesia is a developing country which economy relies heavily on agriculture production. From such activities a large amount of crop residues are produced each year which could be potential for energy purposes. Unfortunately, there is an increasing concern over the open burning of biomass resources in the country and notably crop residues that are left unused in the field. Such practices lead to air pollution, human health, and economic impacts. This study aimed at investigating farming practices in Indonesia for major crops and estimating the proportion of crop residues unused and subject to open burning that could potentially be available as energy feedstock. One specific location in Indonesia was selected as representative case-study and a field survey using questionnaires conducted. It was found that 21% of Indonesia's crop residues are subject to open burning. On an annual basis, this corresponds to about 45 million tones of residues, including, 19.3 million tones of rice straw, 18.5 million tones of cassava, residues, 6.7 million tones of corn residues, and 0.4 million tones of sugarcane residues. The total energy potential such biomass could represent on a daily basis was estimated to amount to 1706 TJ.",
+      "date": "2016-11-28",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2046",
+      "event_title": "SEE 2016 in conjuction with ICGSI 2016 and CTI 2016",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "event_location": "Bangkok",
+      "contact_email": "udinha65@gmail.com",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Andini",
+            "honourific": null,
+            "given": "Ade"
+          }
+        },
+        {
+          "name": {
+            "given": "Patrick",
+            "family": "Rousset",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Udin",
+            "lineage": null,
+            "family": "Hasanudin",
+            "honourific": null
+          },
+          "id": "udinha65@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Bonnet",
+            "lineage": null,
+            "given": "Sebastian"
+          }
+        }
+      ],
+      "pres_type": "speech",
+      "type": "conference_item",
+      "event_dates": "28-30 November 2016",
+      "refereed": "FALSE",
+      "title": "Assessment of the proportion of crop residues subject to open burning available as energy feedstock in Indonesia",
+      "userid": 1048,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 1917,
+            "main": "Full Paper_ICGSI_2016_2A-013.pdf",
+            "files": [
+                {
+                  "filesize": 615084,
+                  "objectid": 1917,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14219",
+                  "filename": "Full Paper_ICGSI_2016_2A-013.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-30 05:45:58",
+                  "datasetid": "document",
+                  "fileid": 14219,
+                  "hash": "b0cc5c8081ad792882acd7e504af7d6b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1917",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 2046
+          }
+      ],
+      "official_url": "http:\/\/www.see2016conference.com\/files\/Detailed_programme_website.pdf",
+      "lastmod": "2017-05-31 01:39:01",
+      "eprint_status": "archive",
+      "eprintid": 2046,
+      "datestamp": "2017-05-31 01:39:01",
+      "metadata_visibility": "show"
+    },
+    {
+      "pres_type": "speech",
+      "refereed": "FALSE",
+      "event_dates": "27-28 October 2016",
+      "event_location": "Bandung Indonesia",
+      "eprint_status": "archive",
+      "eprintid": 2704,
+      "datestamp": "2017-06-02 11:54:29",
+      "pagerange": "153-158",
+      "contributors": [
+        {
+          "id": "udinha@fp.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Udin",
+            "lineage": null,
+            "family": "Hasanudin",
+            "honourific": null
+          }
+        },
+        {
+          "id": "fujie-koichi-zk@ynu.ac.jp",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Fujie",
+            "family": "Koichi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "userid": 1048,
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "9a3f76976dd7f8981c430073d4fae559",
+                  "fileid": 18591,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/18591",
+                  "filename": "ICChE-STKSR 2016.pdf",
+                  "filesize": 1027832,
+                  "objectid": 2571,
+                  "mtime": "2017-06-01 03:18:04",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "ICChE-STKSR 2016.pdf",
+            "docid": 2571,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 2704,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2571",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/www.academia.edu\/33150320\/Proceeding_of_International_Seminar_on_Chemical_Engineering_in_Conjunction_with_Seminar_Teknik_Kimia_Soehadi_Reksowardojo_STKSR_2016_",
+      "related_url": [
+        {
+          "url": "http:\/\/stksr.che.itb.ac.id\/wp-content\/uploads\/2016\/10\/STKSR-2016-General-Program_24102016.pdf"
+        }
+      ],
+      "full_text_status": "public",
+      "ispublished": "inpress",
+      "abstract": "Analysis of material and elemental flow was performed in the farm land and crop processing mill of plantation. Elemental flow in the biomass residue and wastewater recycle process such as composting, methane fermentation and cattle fattening was analyzed as well. Procedure to design and to evaluate the biomass residue recycle system for carbon sequestration and for soil fertility improvement toward sustainable crop cultivation was proposed based on the experimental approach in the plantations of sugarcane, oil palm and cassava.",
+      "date": "2016-10-27",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hasanudin",
+            "given": "Udin"
+          },
+          "id": "udinha65@gmail.com"
+        }
+      ],
+      "type": "conference_item",
+      "title": "Design and Evaluation of Biomass Residue Recycle System for Sustainable Crop Cultivation based on Material Flow Analysis",
+      "contact_email": "udinha@fp.unila.ac.id",
+      "metadata_visibility": "show",
+      "lastmod": "2017-06-02 11:54:29",
+      "divisions": [
+        "FP15"
+      ],
+      "dir": "disk0\/00\/00\/27\/04",
+      "event_type": "conference",
+      "status_changed": "2017-06-02 11:54:29",
+      "rev_number": 9,
+      "event_title": "International conference of chemical enginering 2016",
+      "subjects": [
+        "TD"
+      ],
+      "date_type": "completed",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2704"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Udin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hasanudin"
+          },
+          "id": "udinha65@gmail.com"
+        }
+      ],
+      "type": "article",
+      "title": "PENCERNAAN ANAEROBIK MAKROALGA Gracilaria sp. PADA SISTEM\r\nBATCH UNTUK MEMPRODUKSI BIO-METANA",
+      "refereed": "FALSE",
+      "userid": 1048,
+      "contributors": [
+        {
+          "name": {
+            "given": "Kawaroe",
+            "family": "Mujizat",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "mujizat@ipb.ac.id"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Hasanudin",
+            "lineage": null,
+            "given": "Udin"
+          },
+          "id": "udinha@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Krisye",
+            "lineage": null,
+            "honourific": null,
+            "given": "Krisye"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "number": 2,
+      "lastmod": "2017-06-12 02:40:12",
+      "official_url": "http:\/\/itk.fpik.ipb.ac.id\/ej_itkt82",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 3224,
+            "main": "Biomethane mikroalga-2016.pdf",
+            "files": [
+                {
+                  "filename": "Biomethane mikroalga-2016.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23124",
+                  "objectid": 3224,
+                  "filesize": 418952,
+                  "mtime": "2017-06-04 14:58:14",
+                  "hash_type": "MD5",
+                  "hash": "a7c0b9430c3ae9e613ddde8ca1ac772c",
+                  "mime_type": "application\/pdf",
+                  "fileid": 23124,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 3329,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3224",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2017-06-12 02:40:12",
+      "eprint_status": "archive",
+      "eprintid": 3329,
+      "metadata_visibility": "show",
+      "pagerange": "595-603",
+      "full_text_status": "public",
+      "status_changed": "2017-06-12 02:40:12",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/33\/29",
+      "publication": "Jurnal Ilmu dan Teknologi Kelautan Tropis",
+      "divisions": [
+        "FP15"
+      ],
+      "abstract": "Penelitian ini bertujuan menentukan potensi bio-metana yang dihasilkan Gracilaria sp. pada system batch. Penelitian ini dilakukan di sistem batch mulai dari proses aklimatisasi (12 hari) dan proses produksi metana (30 hari). Hasil penelitian menunjukkan bahwa karakteristik biokimia dari Gracilaria sp. adalah karbohidrat 65,46 ± 0,58%, lignin 13,20 ± 2,23 %, TOC (Total Organic Carbon) 33,39 ±0,23 %, Nitrogen 1,12 ± 0,01 %, dan rasio C\/N 29,82. Proses aklimatisasi bekerja dengan baik yaitu dari 4,025 L substrat Gracilaria sp. menghasilkan biogas 62,7 L dengan kisaran pH 6,2 - 7,1. Hasil biodegradasi anaerob menggunakan metode batch ditemukan bahwa dari 4 kg dari Gracilaria sp.dapat menghasilkan 131,1 L biogas dengan kandungan metana sebesar 46,7 L atau 11,6 L CH4\/kg.\r\nKata kunci: anaerobik, bio-metana, makroalga, Gracilaria sp.",
+      "volume": 8,
+      "date": "2016-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3329",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ]
+    },
+    {
+      "official_url": "http:\/\/ijtech.eng.ui.ac.id\/article\/view\/284",
+      "lastmod": "2017-05-30 06:23:46",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1861",
+            "formatdesc": "International Journal of Technology",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1998,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "main": "IJTech-2016.pdf",
+            "files": [
+                {
+                  "objectid": 1861,
+                  "filesize": 610938,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13912",
+                  "filename": "IJTech-2016.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-30 04:18:18",
+                  "fileid": 13912,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "033c715a4494ebfdabdd05bf3cefa355"
+                }
+            ],
+            "docid": 1861,
+            "format": "text"
+          }
+      ],
+      "contributors": [
+        {
+          "id": "udinha65@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hasanudin",
+            "given": "Udin"
+          }
+        }
+      ],
+      "userid": 1048,
+      "number": 8,
+      "metadata_visibility": "show",
+      "pagerange": "1413-1421",
+      "datestamp": "2017-05-30 06:23:46",
+      "eprint_status": "archive",
+      "eprintid": 1998,
+      "contact_email": "udinha65@gmail.com",
+      "title": "The Performance of Biogas Production from POME at Different Temperatures",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "name": {
+            "given": "Udin",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hasanudin"
+          },
+          "id": "udinha65@gmail.com"
+        }
+      ],
+      "type": "article",
+      "date": "2016-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1998",
+      "abstract": "Indonesia, as the largest palm oil producer in the world, also produces palm oil mill effluent (POME. While the latter is a liquid waste that is hazardous for the environment, with proper processing, it can be a potential energy source. The objective of this study was to study the performance of biogas production from POME at various temperatures. The POME and sludge mixture was fermented, according to the treatment,at 27-28oC, 45oC, and 55oC, with the results showing that methane could thereby be produced by as much as 0.19m3, 0.25 m3, and 0.28 m3, respectively.  For each kilogram of Chemical Oxygen Demand (COD) removal, with POME fermentation at room temperature, 45oC, and 55oC, biogas could be produced with methane content of 65.44%, 62.57%, and 59.15%, respectively.",
+      "volume": 7,
+      "date_type": "published",
+      "subjects": [
+        "TD"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2086-9614",
+      "status_changed": "2017-05-30 06:23:46",
+      "publication": "Interntional Journal of Technology",
+      "publisher": "University of Indonesia",
+      "dir": "disk0\/00\/00\/19\/98",
+      "divisions": [
+        "FP15"
+      ]
+    },
+    {
+      "divisions": [
+        "FP15"
+      ],
+      "publisher": "Departemen teknik Kimia Undip",
+      "publication": "Reaktor",
+      "dir": "disk0\/00\/00\/16\/21",
+      "issn": "p-ISSN 0852 – 0798 e-ISSN 2407 – 5973",
+      "full_text_status": "none",
+      "status_changed": "2017-05-24 06:43:11",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "abstract": "Tandan kosong kelapa sawit (TKKS) mengandung kadar selulosa yang cukup tinggi sehingga dapat\r\ndijadikan sebagai bahan baku alternatif produksi pulp. Salah satu proses produksi pulp ramah\r\nlingkungan yaitu dengan menggunakan campuran pelarut asam asetat dan asam formiat sebagai bahan\r\npemasak yang disebut proses formacell. Penelitian ini bertujuan untuk mendapatkan model optimasi\r\ndari konsentrasi asam formiat, konsentrasi HCl dan lama pemasakan untuk produksi pulp TKKS.\r\nKonsentrasi pemasakan optimum terjadi pada konsentrasi asam formiat 32,74%, konsentrasi HCl\r\n0,079%, dan lama pemasakan selama 1,71 jam dengan hasil optimum untuk produksi pulp TKKS yaitu\r\n78,37% selulosa, 7,59% hemiselulosa, 10,71% lignin, dan 67,31% rendemen.",
+      "volume": 16,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1621",
+      "date": "2016-12",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayati"
+          },
+          "id": "srihidayati.unila@gmail.com"
+        },
+        {
+          "id": "sapta@yahoo.com",
+          "name": {
+            "family": "Zuidar",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ahmad sapta"
+          }
+        },
+        {
+          "name": {
+            "family": "Fahreza",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ahmad"
+          },
+          "id": null
+        }
+      ],
+      "title": "Optimasi Produksi Pulp Formacell dari Tandan Kosong Kelapa\r\nSawit (TKKS) dengan Metode Permukaan Respon",
+      "refereed": "TRUE",
+      "datestamp": "2017-05-24 06:43:05",
+      "eprint_status": "archive",
+      "id_number": "Terakreditasi: SK No.: 60\/E\/KPT\/2016",
+      "eprintid": 1621,
+      "metadata_visibility": "show",
+      "pagerange": "161-171",
+      "userid": 1027,
+      "number": 4,
+      "official_url": "http:\/\/ejournal.undip.ac.id\/index.php\/reaktor\/",
+      "lastmod": "2017-05-24 06:43:11"
+    },
+    {
+      "abstract": "ABSTRACT\r\nThe objective of this study was to characterize the durian lay juices supplemented by Lactic Acid Bacteria (LAB)\r\nculture during cold storage. The LAB cultures consisted of Lactobacillus plantarum FNCC-0265, Lactobacillus\r\nacidophillus FNCC-0051 and combination of these LABs. After being inoculated with a 24 h – old culture starters,\r\ndurian lay juice was incubated at 37 °C for 2 hours and kept at 4 °C for 0, 1, 2, 3 and 4 weeks. Changes in pH, total\r\nlactic acid, and sugar content, viable cell counts of LAB, total soluble solid, viability of LAB, and sensory characteristic\r\nduring fermentation were measured. The results revealed that pH decreased from 4.79 to 4.20; sugar content reduced\r\nfrom 4.52 to 0.75 %; total soluble solid reduced from 8.93 to 7.97 °Bx, and sensory score reduced from 3.71 (like) to\r\n3.40 (moderate like); while the total lactic acid increased from 0.33 to 0.69 %; viable cell counts of LAB increased\r\nfrom 8.86 to 9.14 log CFU\/ml; and % viability of LAB decreased from 100 to 95.90, during storage. Combination of\r\nLactobacillus plantarum FNCC-0265 and Lactobacillus acidophillus FNCC-0051 cultures at two weeks cold storage\r\nperiod was the best treatment, based on the sensory and viable cell counts of LAB. The characteristics of this durian lay\r\njuice probiotic were pH 4.46, total lactic acid 0.59 %, sugar content 2.13 %, viable cell counts of LAB 9.33 log CFU\/\r\nmL, total soluble solid 9.60 °Bx, and carbohydrate 45,05 %. This durian lay juice contained oxalate (107.56 mg\/L),\r\nmalic (527.895 mg\/L), lactic (4381.49 mg\/L) and citric (351.245 mg\/L) acid.\r\nKeywords: Durian lay; lactic acid bacteria; lactic beverage",
+      "volume": 36,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1805",
+      "date": "2016-11",
+      "date_type": "published",
+      "subjects": [
+        "S1"
+      ],
+      "issn": 2160455,
+      "full_text_status": "public",
+      "status_changed": "2017-05-29 06:32:37",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "divisions": [
+        "FP15"
+      ],
+      "publisher": "Universitas Gadjah Mada",
+      "publication": "Agritech",
+      "dir": "disk0\/00\/00\/18\/05",
+      "userid": 1082,
+      "number": 4,
+      "official_url": "https:\/\/jurnal.ugm.ac.id\/agritech\/",
+      "lastmod": "2017-05-29 06:32:37",
+      "documents": [
+          {
+            "eprintid": 1805,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1666",
+            "pos": 1,
+            "format": "text",
+            "main": "index.html",
+            "docid": 1666,
+            "files": [
+                {
+                  "mime_type": "text\/html",
+                  "hash": "58b7995d4c6e03a73b8da2e9a7a3d334",
+                  "fileid": 12519,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12519",
+                  "filename": "index.html",
+                  "objectid": 1666,
+                  "filesize": 47027,
+                  "mtime": "2017-05-29 04:42:46",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "text\/html",
+            "language": "en",
+            "rev_number": 2
+          }
+      ],
+      "datestamp": "2017-05-29 06:32:37",
+      "eprintid": 1805,
+      "id_number": "dx.doi.org\/10.22146\/agritech.16766",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "424-432",
+      "type": "article",
+      "creators": [
+        {
+          "id": "neti.yuliana@fp.unila.ac.id",
+          "name": {
+            "given": "Neti",
+            "lineage": null,
+            "family": "Yuliana",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Noviyeziana",
+            "given": "Tintan"
+          }
+        },
+        {
+          "name": {
+            "given": "Sutikno",
+            "honourific": null,
+            "family": "Sutikno",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "title": "Karakteristik Minuman Laktat Sari Buah Durian Lay (Durio kutejensis) yang\r\nDisuplementasi dengan Kultur Lactobacillus selama Penyimpanan\r\npada Suhu Rendah (Characteristic of Durian Lay (Durio kutejensis) Lactic Beverage Supplemented with Lactobacillus\r\nCulture during Cold Storage)",
+      "refereed": "TRUE"
+    }
+]
+

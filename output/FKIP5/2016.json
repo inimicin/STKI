@@ -1,0 +1,489 @@
+[
+    {
+      "eprint_status": "archive",
+      "eprintid": 4815,
+      "datestamp": "2017-11-16 02:22:40",
+      "metadata_visibility": "show",
+      "userid": 214,
+      "pages": 278,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17742",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 4815,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Buku Manajemen Pendidikan_cover.pdf",
+            "docid": 17742,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "cc764a19f8d79bb13e1826f2200d94ea",
+                  "fileid": 46905,
+                  "datasetid": "document",
+                  "filename": "Buku Manajemen Pendidikan_cover.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46905",
+                  "filesize": 270254,
+                  "objectid": 17742,
+                  "mtime": "2017-11-07 09:12:27",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2017-11-16 02:22:40",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "family": "Hariri",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hasan"
+          },
+          "id": "hasan.hariri@staff.unila.ac.id"
+        },
+        {
+          "id": "dhkarwan@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "family": "Karwan",
+            "honourific": null,
+            "given": "Dedy H."
+          }
+        },
+        {
+          "name": {
+            "given": "Ridwan",
+            "family": "Ridwan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "isbn": "978-602-6435-29-3",
+      "refereed": "TRUE",
+      "title": "Manajemen Pendidikan",
+      "place_of_pub": "Yogyakarta",
+      "subjects": [
+        "L1",
+        "LA"
+      ],
+      "date_type": "published",
+      "abstract": "Sinopsis\r\n\r\nMenjadi kepala sekolah berfungsi sebagai manajer dan sekaligus pemimpin. Dengan kedua fungsi ini, kepala sekolah harus menguasai ilmu tentang manajemen dan kepemimpinan. Keterampilan melakukan manajemen adalah ilmu teknis atau operasional yang harus dimiliki sebagai bekal menjalankan tugas sehari-harinya. Manakala kepala sekolah tidak menguasai ketrampilan teknis maka fungsi pemimpin kurang dirasakan oleh anggotanya. Hal ini karena manager dan leader bagaikan dua sisi mata uang. Keduanya tidak dapat dipisahkan tetapi keduanya nyata dapat dilihat perbedaannya. Menjadi manajer harus memiliki pengetahuan tentang leadership. Leadership tanpa manajemen adalah buta dan manajemen tanpa leadership tertatih-tatih.\r\nBuku ini memberikan penjelasan praktis tentang management dan leadership baik secara teori maupun secara praktik dengan menggunakan bahasa sederhana dan mudah dipahami. Buku ini diharapkan sangat bermanfaat baik bagi (calon) pengelola pendidikan atau mahasiswa keguruan\/pendidikan maupun bagi praktisi yang sedang menjalankan tugas pengelolaan pendidikan terutama guru dan terlebih kepala sekolah.",
+      "date": 2016,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4815",
+      "publisher": "Media Akademi",
+      "divisions": [
+        "FKIP5"
+      ],
+      "dir": "disk0\/00\/00\/48\/15",
+      "funders": [
+        "FKIP Unila"
+      ],
+      "status_changed": "2017-11-16 02:22:40",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 10
+    },
+    {
+      "abstract": "School leadership is seen as important for both schools and for government and private policy-makers. The relationships between teacher-perceived principal leadership styles, teacher-perceived principal decision-making styles and teacher-perceived job\r\nsatisfaction in schools in Lampung Province, Indonesia were examined. Data were collected by questionnaires from 475 teachers. This paper uses Indonesian data, but the relationships studied will be of wider interest to school stakeholders in Indonesia and to a wider global readership. Considerable effort was placed on the collection of robust data to address existing\r\ngaps in the literature about these relationships. The data are available to be shared with other interested parties. Findings suggest that five variables (of the nine variables that were studied) can significantly ( p < .001) predict teacher job satisfaction. Transformational leadership style and rational decision-making\r\nstyle are the best predictors and are likely to contribute to increased teacher job satisfaction. In contrast, laissez-faire leadership style, intuitive decision-making style and avoidant decision-making style are likely to contribute to decreased teacher job satisfaction. This paper is the third paper of five papers about\r\nschool leadership in Indonesia.",
+      "volume": 36,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22985",
+      "date": "2016-04-11",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "full_text_status": "public",
+      "issn": "1363-2434 (Print) 1364-2626 (Online)",
+      "status_changed": "2020-07-02 08:13:31",
+      "succeeds": 525,
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "Routledge",
+      "publication": "School Leadership & Management",
+      "divisions": [
+        "FKIP5"
+      ],
+      "dir": "disk0\/00\/02\/29\/85",
+      "userid": 214,
+      "number": 1,
+      "lastmod": "2020-07-02 08:13:31",
+      "official_url": "http:\/\/dx.doi.org\/10.1080\/13632434.2016.1160210",
+      "documents": [
+          {
+            "main": "0 teacher-percived leadership styles_pic_scanned.pdf",
+            "files": [
+                {
+                  "fileid": 210760,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "e8b358341863d04fb2b5c53eb0b3389c",
+                  "filesize": 1745809,
+                  "objectid": 36547,
+                  "filename": "0 teacher-percived leadership styles_pic_scanned.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/210760",
+                  "hash_type": "MD5",
+                  "mtime": "2020-07-02 07:27:25"
+                }
+            ],
+            "docid": 36547,
+            "format": "text",
+            "language": "en",
+            "rev_number": 3,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "placement": 1,
+            "eprintid": 22985,
+            "pos": 7,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36547",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2020-07-02 08:13:31",
+      "id_number": "10.1080\/13632434.2016.1160210",
+      "eprint_status": "archive",
+      "eprintid": 22985,
+      "metadata_visibility": "show",
+      "pagerange": "41-62",
+      "type": "article",
+      "creators": [
+        {
+          "id": "hasan.hariri@staff.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hariri",
+            "given": "Hasan"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Richard",
+            "lineage": null,
+            "family": "Monypenny",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Murray",
+            "honourific": null,
+            "lineage": null,
+            "family": "Prideaux"
+          }
+        }
+      ],
+      "title": "Teacher-perceived principal leadership styles,\r\ndecision-making styles and job satisfaction: how\r\ncongruent are data from Indonesia with the\r\nAnglophile and Western literature?",
+      "refereed": "TRUE"
+    },
+    {
+      "full_text_status": "public",
+      "status_changed": "2021-04-05 04:48:48",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "publisher": "School Leadership & Management: Formerly School Organisation",
+      "divisions": [
+        "FKIP5"
+      ],
+      "dir": "disk0\/00\/02\/88\/20",
+      "date": "2016-04-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28820",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hariri",
+            "honourific": null,
+            "given": "Hasan"
+          },
+          "id": "hasan.hariri@staff.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "richard",
+            "given": "monypenny"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Prideaux",
+            "lineage": null,
+            "family": "Murray",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Teacher-perceived principal leadership styles, decision-making styles and job satisfaction: how congruent are data from Indonesia with the Anglophile and Western literature?",
+      "userid": 214,
+      "lastmod": "2021-04-05 04:48:48",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42913",
+            "eprintid": 28820,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "Teacher perceived principal leadership styles, decision making styles and job satisfaction.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 255759,
+                  "hash": "539c963d2413bd7728502bc96df17875",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-01 05:25:07",
+                  "objectid": 42913,
+                  "filesize": 5791043,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255759",
+                  "filename": "Teacher perceived principal leadership styles, decision making styles and job satisfaction.pdf"
+                }
+            ],
+            "docid": 42913
+          }
+      ],
+      "datestamp": "2021-04-05 04:48:48",
+      "eprintid": 28820,
+      "eprint_status": "archive",
+      "metadata_visibility": "show"
+    },
+    {
+      "refereed": "TRUE",
+      "pagerange": "26-38",
+      "eprint_status": "archive",
+      "eprintid": 22861,
+      "datestamp": "2020-06-30 03:29:19",
+      "documents": [
+          {
+            "eprintid": 22861,
+            "placement": 8,
+            "security": "public",
+            "formatdesc": "Untuk memastikan mutu dan relevansi tamatan SMK melalui PSG SMK dapat terwujud, SMK di Bandar Lampung memerlukan kerjasama secara efektif antara stakeholders.",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36406",
+            "pos": 7,
+            "format": "other",
+            "files": [
+                {
+                  "mtime": "2020-06-30 02:40:33",
+                  "hash_type": "MD5",
+                  "filename": 12232,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/209840",
+                  "objectid": 36406,
+                  "filesize": 34200,
+                  "hash": "6f32aaa7b0ebb070f21e3ae22be70c8f",
+                  "mime_type": "application\/xml",
+                  "fileid": 209840,
+                  "datasetid": "document"
+                }
+            ],
+            "main": 12232,
+            "docid": 36406,
+            "content": "published",
+            "rev_number": 4,
+            "language": "id",
+            "mime_type": "application\/xml"
+          },
+          {
+            "rev_number": 3,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "docid": 36407,
+            "main": "6 Hariri  2016 Implementasi Pend Sistem Ganda.pdf",
+            "files": [
+                {
+                  "filesize": 607181,
+                  "objectid": 36407,
+                  "filename": "6 Hariri  2016 Implementasi Pend Sistem Ganda.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/209843",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-30 02:41:20",
+                  "fileid": 209843,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "f91f0bfcfdbededce5da6245c69021a4"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36407",
+            "pos": 8,
+            "formatdesc": "Untuk memastikan mutu dan relevansi tamatan SMK melalui PSG SMK dapat terwujud, SMK di Bandar Lampung memerlukan kerjasama secara efektif antara stakeholders.",
+            "security": "public",
+            "placement": 7,
+            "eprintid": 22861
+          }
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp",
+      "number": 1,
+      "userid": 214,
+      "publisher": "FKIP Unila",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/index",
+          "type": "org"
+        }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2087-9849",
+      "date": "2016-04",
+      "abstract": "Implementation of Dual System Education in Public Vocational High Schools in Bandar Lampung City. In entering the Asean Economic Community competition era, workforce competitiveness becomes one factor that will determine the success of a nation. An increase in Human Development Index (HDI) should be well prepared through high quality education, particularly vocational high schools to result in expected workforce. One of the real programs for this is the implementation of link and match program in the form of dual system education in vocational high schools. This study aims to analyze the issues of dual system education in public vocational high schools (SMKN 1 and SMKN 4) Bandar Lampung focusing on the quality of dual system education management implementation through qualitative research approach. Research results show that both schools have already performed management functions including planning, implementation, and evaluation. However, the implementation phase in business and industry experienced several problems to be solved by coordination during industry work practices. Therefore, in order for quality and relevance of the public vocational high school graduates through dual system education can be achieved, the vocational high schools in Bandar Lampung need to build intensive cooperation among the stakeholders as partners in implementing dual system education.\r\n\r\nKeywords : management, dual system education, quality of graduates\r\n\r\nImplementasi Pendidikan Sistem Ganda (Dual System) di Sekolah Menengah Kejuruan Negeri Kota Bandar Lampung. Dalam memasuki era persaingan Masyarakat Ekonomi Asean, daya saing tenaga kerja menjadi salah satu faktor yang akan menentukan keberhasilan suatu bangsa. Peningkatan Indeks Pembangunan Manusia (Human Development Index) perlu dipersiapkan dengan sebaik-baiknya melalui suatu pendidikan yang bermutu khususnya pada jenjang pendidikan menengah untuk menghasilkan tenaga kerja melaui Sekolah Menengah Kejuruan (SMK). Salah satu bentuk nyata implementasi program keterkaiatan dan kesepadanan (link and match) adalah pelaksanaan Pendidikan Sistem Ganda (PSG) pada SMK. Penelitian ini bertujuan menganalisis masalah PSG di SMKN 1 dan SMKN 4 Bandar Lampung dengan berfokus pada kualitas implementasi manajemen PSG dengan pendekatan penelitian kualitatif. Hasil penelitian menunjukkan bahwa kedua sekolah tersebut sudah melakukan fungsi-fungsi manajemen yang meliputi: perencanaan, pelaksanaan, dan evaluasi. Akan tetapi, pada tahap pelaksanaan di dunia usaha dan industri, masih terdapat beberapa hambatan yang perlu dikoordinasikan pada saat praktek kerja industri.  Oleh karena itu, agar mutu dan relevansi tamatan SMK melalui PSG SMK dapat terwujud, SMK di Bandar Lampung masih memerlukan kerjasama secara intensif bersama pemangku kepentingan (stakeholders) sebagai mitra dalam implementasi PSG. \r\n\r\nKata Kunci: manajemen, pendidikan sistem ganda, kualitas lulusan",
+      "title": "Implementasi Pendidikan Sistem Ganda (Dual System) di Sekolah Menengah Kejuruan  Negeri Kota Bandar Lampung",
+      "type": "article",
+      "creators": [
+        {
+          "id": "dhkarwan@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Karwan",
+            "given": "Dedy H."
+          }
+        },
+        {
+          "id": "hasan.hariri@staff.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Hariri",
+            "honourific": null,
+            "given": "Hasan"
+          }
+        },
+        {
+          "id": "riswanti.rini@gmail.com",
+          "name": {
+            "given": "Riswanti",
+            "family": "Rini",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "lastmod": "2020-06-30 03:29:19",
+      "funders": [
+        "DIPA FKIP Unila"
+      ],
+      "publication": "Journal Pendidikan Progresif",
+      "dir": "disk0\/00\/02\/28\/61",
+      "divisions": [
+        "FKIP5"
+      ],
+      "rev_number": 9,
+      "status_changed": "2020-06-30 03:29:19",
+      "succeeds": 1281,
+      "subjects": [
+        "L1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22861",
+      "volume": 6
+    },
+    {
+      "creators": [
+        {
+          "id": "dhkarwan@yahoo.co.id",
+          "name": {
+            "given": "Dedy H.",
+            "lineage": null,
+            "family": "Karwan",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Hariri",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hasan"
+          },
+          "id": "hasan.hariri@staff.unila.ac.id"
+        },
+        {
+          "id": "riswanti.rini@gmail.com",
+          "name": {
+            "given": "Riswanti",
+            "honourific": null,
+            "family": "Rini",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Implementasi Pendidikan Sistem Ganda di Sekolah Menengah Kejuruan Negeri Kota Bandar Lampung",
+      "userid": 214,
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2021-04-01 08:54:19",
+                  "hash_type": "MD5",
+                  "filename": "Implementasi Pendidikan Sistem Ganda di Sekolah Menengah Kejuruan Negeri Kota Bandar Lampung.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255874",
+                  "objectid": 42930,
+                  "filesize": 4028550,
+                  "hash": "89ee56f627030cfc1feab6acf6bd4ae2",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 255874
+                }
+            ],
+            "main": "Implementasi Pendidikan Sistem Ganda di Sekolah Menengah Kejuruan Negeri Kota Bandar Lampung.pdf",
+            "docid": 42930,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 28836,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42930",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2021-04-05 04:49:54",
+      "eprint_status": "archive",
+      "eprintid": 28836,
+      "datestamp": "2021-04-05 04:49:54",
+      "metadata_visibility": "show",
+      "status_changed": "2021-04-05 04:49:54",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "publisher": "PP FKIP Universitas Lampung",
+      "divisions": [
+        "FKIP5"
+      ],
+      "dir": "disk0\/00\/02\/88\/36",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28836",
+      "date": "2016-04-01",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC5201"
+      ]
+    }
+]
+

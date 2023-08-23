@@ -1,0 +1,198 @@
+[
+    {
+      "userid": 707,
+      "lastmod": "2022-04-01 01:03:36",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 162298,
+            "main": "negara hukum kesejahteraan.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-31 07:13:21",
+                  "filesize": 2956841,
+                  "objectid": 162298,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/454815",
+                  "filename": "negara hukum kesejahteraan.pdf",
+                  "datasetid": "document",
+                  "fileid": 454815,
+                  "mime_type": "application\/pdf",
+                  "hash": "02a827c1c13e97a3cb7ed5ef9202550d"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162298",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 40909
+          }
+      ],
+      "datestamp": "2022-04-01 01:03:36",
+      "eprint_status": "archive",
+      "eprintid": 40909,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "APRILIANTI",
+            "family": "APRILIANTI",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "book_section",
+      "title": "Pelaksanaan Perjanjian Perjanjian Kredit Angsuran Sistem Gadai Mensejahterakan Masyarakat",
+      "refereed": "FALSE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40909",
+      "date": 2013,
+      "subjects": [
+        "K1"
+      ],
+      "book_title": "Negara Hukum Kesejahteraan",
+      "full_text_status": "public",
+      "status_changed": "2022-04-01 01:03:36",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FH2"
+      ],
+      "publisher": "Fakultas Hukum Unila",
+      "dir": "disk0\/00\/04\/09\/09"
+    },
+    {
+      "book_title": "Studi Penegakan dan Pembangunan Hukum",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43534",
+      "date": 2013,
+      "publisher": "Universitas Lampung",
+      "dir": "disk0\/00\/04\/35\/34",
+      "divisions": [
+        "FH2"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2022-07-21 01:14:55",
+      "metadata_visibility": "show",
+      "datestamp": "2022-07-21 01:14:55",
+      "eprint_status": "archive",
+      "eprintid": 43534,
+      "lastmod": "2022-07-21 01:14:55",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Studi Penegakan dan Pengembangan Hukum.pdf",
+            "docid": 165470,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-21 00:36:27",
+                  "filesize": 6349225,
+                  "objectid": 165470,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475062",
+                  "filename": "Studi Penegakan dan Pengembangan Hukum.pdf",
+                  "datasetid": "document",
+                  "fileid": 475062,
+                  "mime_type": "application\/pdf",
+                  "hash": "2bd3116786bfc723c6fd22a81e56f223"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165470",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 43534
+          }
+      ],
+      "userid": 900,
+      "title": "Perlindungan Hukum Korban Tindak Pidana Perkosaan dalam Perspektif Hukum Pidana di Indonesia",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Diah Gustiniati Maulani",
+            "lineage": null,
+            "given": "Diah Gustiniati Maulani"
+          }
+        }
+      ],
+      "type": "book_section"
+    },
+    {
+      "datestamp": "2022-07-06 07:41:50",
+      "eprintid": 43019,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 188,
+      "lastmod": "2022-07-06 07:41:50",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164873",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 43019,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "KOnflik Kewenangan 2013.pdf",
+            "docid": 164873,
+            "files": [
+                {
+                  "filesize": 278260,
+                  "objectid": 164873,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/470843",
+                  "filename": "KOnflik Kewenangan 2013.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-06 07:22:47",
+                  "fileid": 470843,
+                  "datasetid": "document",
+                  "hash": "70022b36404cd93a3022670a846280a8",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Rinaldy Amrullah",
+            "honourific": null,
+            "family": "Rinaldy Amrullah",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Konflik Kewenangan Antara Penyidik Polri Dan Polhut Dalam Rangka Penanggulangan Tindak Pidana Pencurian Kayu",
+      "refereed": "FALSE",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43019",
+      "date": 2013,
+      "publisher": "Fakultas Hukum Universitas Syiah Kuala",
+      "publication": "Kanun Jurnal Ilmu Hukum",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/04\/30\/19",
+      "full_text_status": "public",
+      "status_changed": "2022-07-06 07:41:50",
+      "ispublished": "pub",
+      "rev_number": 6
+    }
+]
+

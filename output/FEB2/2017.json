@@ -1,0 +1,116 @@
+[
+    {
+      "dir": "disk0\/00\/00\/53\/54",
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "divisions": [
+        "FEB2"
+      ],
+      "rev_number": 7,
+      "status_changed": "2017-11-16 04:44:29",
+      "subjects": [
+        "HB"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5354",
+      "volume": 6,
+      "title": "Pengaruh Pengeluaran Pemerintah Dan Tenaga Kerja Terhadap Pertumbuhan Ekonomi Di Kabupaten Lampung Tengah",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Devi Novita Sari",
+            "lineage": null,
+            "given": "Devi Novita Sari"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Toto Gunarto",
+            "family": "Toto Gunarto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "toto.gunarto@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Muhammad Husaini",
+            "lineage": null,
+            "family": "Muhammad Husaini",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "metadata_visibility": "show",
+      "lastmod": "2017-11-16 04:44:29",
+      "publisher": "Ekonomi Pembangunan",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/feb.unila.ac.id\/jurnal-2\/jurnal-ekonomi-pembangunan-jep\/"
+        }
+      ],
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2302-9595",
+      "date": "2017-07-01",
+      "corp_creators": [
+        "Student",
+        "lecturer",
+        "lecturer"
+      ],
+      "abstract": "ABSTRAK\r\nPenelitian ini bertujuan untuk menganalisis pengaruh pengeluaran pemerintah dan tenaga kerja terhadap pertumbuhan ekonomi Kabupaten Lampung Tengah. Penelitian ini menggunakan ,metode analisis kuantitatif dengan model regresi berganda. Data yang digunakan adalah data sekunder yang di dapatkan dari Badan Pusat Statistik Lampung Tengah Tahun 2001 - 2014, yaitu berupa pengeluaran pemerintah dan tenaga kerja terhadap pertumbuhan ekonomi Kabupaten\/Kota di Lampung Tengah.\r\nHasil peneletian menunjukkan  pengeluaran pemerintah pada belanja langsung berpengaruh positif namun tidak signifikan terhadap pertumbuhan ekonomi dan pada belanja tidak langsung  berpengaruh positifdan signifikan  terhadap pertumbuhan ekonomi. Tenaga kerja  berpengaruh positif  dan signifikan terhadap pertumbuhan ekonomi. \r\nSaran dalam penelitian ini adalah  di harapkan pemerintah daerah Lampung Tengah meninjau kembali alokasi pengeluaran daerah dan di harapkan pemerintah daerah Lampung Tengah meningkatan kualitas tenaga kerja, misalnya dengan memperbanyak pendidikan kewirausahaan melalui jalur non formal.\r\n\r\nKata-kata kunci : Pengeluaran Pemerintah, Tenaga Kerja, Pertumbuhan Ekonomi.",
+      "refereed": "TRUE",
+      "pagerange": "169-202",
+      "eprintid": 5354,
+      "eprint_status": "archive",
+      "datestamp": "2017-11-16 04:44:29",
+      "documents": [
+          {
+            "docid": 18304,
+            "main": "Pengaruh Pengeluaran Pemerintah Dan Tenaga Kerja Terhadap Pertumbuhan Ekonomi Di Kabupaten Lampung Tengah.doc",
+            "files": [
+                {
+                  "hash": "d27d96b9fe0bc365a65eb94532d4d722",
+                  "mime_type": "application\/msword",
+                  "fileid": 50653,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/50653",
+                  "filename": "Pengaruh Pengeluaran Pemerintah Dan Tenaga Kerja Terhadap Pertumbuhan Ekonomi Di Kabupaten Lampung Tengah.doc",
+                  "objectid": 18304,
+                  "filesize": 505856,
+                  "mtime": "2017-11-13 03:55:54",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/msword",
+            "placement": 1,
+            "eprintid": 5354,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18304",
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/feb.unila.ac.id\/jurnal-2\/jurnal-ekonomi-pembangunan-jep\/",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ACT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ACT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ACT"
+        }
+      ],
+      "userid": 963
+    }
+]
+

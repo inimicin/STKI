@@ -1,0 +1,200 @@
+[
+    {
+      "event_location": "Universitas Lampung",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nur Imam Subagio",
+            "lineage": null,
+            "given": "Imam"
+          },
+          "id": "Nurimam.subagyo@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Zulhanif",
+            "given": "Hanif"
+          },
+          "id": "zulhanif1973@gmail.com"
+        },
+        {
+          "id": "harnowo1969@gmail.com",
+          "name": {
+            "given": "Nowo",
+            "lineage": null,
+            "family": "Harnowo Supriadi",
+            "honourific": null
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item",
+      "title": "Analisis Pengaruh Artificial Aging\r\nTerhadap Sifat Mekanis Pada Aluminium Seri 6061",
+      "refereed": "TRUE",
+      "event_dates": "7-8 November 2017",
+      "userid": 329,
+      "lastmod": "2018-06-29 04:13:36",
+      "documents": [
+          {
+            "format": "text",
+            "docid": 21236,
+            "main": "Prosiding SIGER 2017(ZULHANIF).pdf",
+            "files": [
+                {
+                  "fileid": 81587,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "3fba33bca46cbec68cfa7268bfa4323b",
+                  "filesize": 1038291,
+                  "objectid": 21236,
+                  "filename": "Prosiding SIGER 2017(ZULHANIF).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/81587",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-28 11:52:53"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 8206,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21236"
+          }
+      ],
+      "datestamp": "2018-06-29 04:13:36",
+      "eprintid": 8206,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "10-15",
+      "full_text_status": "public",
+      "status_changed": "2018-06-29 04:13:36",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "dir": "disk0\/00\/00\/82\/06",
+      "divisions": [
+        "FT14"
+      ],
+      "event_type": "conference",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "abstract": "ABSTRAK\r\nPenelitian proses artificial aging terhadap aluminium seri 6061 bertujuan untuk memperbaiki sifat mekanisnya.\r\nAluminium seri 6061 diberi perlakuan panas dengan suhu 450\r\n0\r\nC selama 15 menit, kemudian diquenching\r\ndengan media pendingin berupa oli. Selanjutnya diberi perlakuan panas kembali pada suhu 190\r\nC dengan variasi\r\nholding time 1 jam, 5 jam, dan 11 jam, kemudian didinginkan secara lambat dengan suhu ruangan. Hasil uji\r\nkomposisi kimia menggunakan Spectromax menunjukan persentase Mg sebesar 1,41%, Si sebesar 0,911%, dan\r\nAl sebesar 96,7%. Hasil uji kekerasan menggunakan Rockwell Hardness Tester didapatkan nilai kekerasan bahan\r\ntanpa perlakuan panas sebesar 49,4 \r\nKata kunci : Aluminium Seri 6061, Artificial aging, Kekerasan, SEM EDX\r\n0",
+      "corp_creators": [
+        "Teknik Mesin Universitas Lampung",
+        "Teknik Mesin Universitas Lampung",
+        "Teknik Mesin Universitas Lampung"
+      ],
+      "projects": [
+        "Fakultas Teknik Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8206",
+      "date": "2018-06-28",
+      "date_type": "published",
+      "event_title": "Seminar Nasional Energi dan Industri Manufaktur SIGER 2017",
+      "subjects": [
+        "TJ"
+      ]
+    },
+    {
+      "userid": 984,
+      "number": 2,
+      "official_url": "http:\/\/publikasi.mercubuana.ac.id\/index..",
+      "lastmod": "2019-11-19 05:16:37",
+      "documents": [
+          {
+            "main": "publikasi_Penggunaan_Saluran_untuk_Menin.pdf",
+            "docid": 30163,
+            "files": [
+                {
+                  "mtime": "2019-11-18 12:40:42",
+                  "hash_type": "MD5",
+                  "filename": "publikasi_Penggunaan_Saluran_untuk_Menin.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/144879",
+                  "objectid": 30163,
+                  "filesize": 793320,
+                  "hash": "5d635d8f1546e24753be32cfbe07a111",
+                  "mime_type": "application\/pdf",
+                  "fileid": 144879,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 17074,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30163",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "datestamp": "2019-11-19 05:16:37",
+      "eprintid": 17074,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "131-137",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sinaga",
+            "honourific": null,
+            "given": "Jorfri Boike"
+          },
+          "id": "jorfri6@yahoo.com"
+        },
+        {
+          "id": "suudi@eng.unila.ac.id",
+          "name": {
+            "family": "Suudi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Ahmad"
+          }
+        },
+        {
+          "name": {
+            "given": "Okta Syahputra",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sembiring"
+          },
+          "id": "oktabirong@gmail.com"
+        }
+      ],
+      "type": "article",
+      "title": "PENGGUNAAN SALURAN UNTUK MENINGKATKAN UNJUK KERJA MODEL SISTEM PEMBANGKIT LISTRIK ULTRA LOW HEAD",
+      "refereed": "TRUE",
+      "abstract": "Pada makalah ini diberikan peningkatan unjuk kerja model sistem pembangkit listrik untuk memanfaatkan energi aliran irigasi Way Tebu yang ada di Desa Banjar Agung Udik, Kecamatan Pugung, Kabupaten Tanggamus dengan menggunakan turbin helik. Model sistem pembangkit listrik ini menggunakan turbin helik dengan bentuk sudu yang simetri yaitu NACA 0030, panjang chord 41,8 cm, jumlah sudu 3 buah,  dan kemiringan sudu turbin 62 o.. Peningkatan unjuk kerja model sistem pembangkit listrik dengan menggunakan saluran pengarah, dimana hasil pengujian menunjukkan saluran pengarah ini dapat meningkatkan kecepatan aliran air dari 31,1 % sampai 38 %. Hasil pengujian menunjukkan unjuk kerja turbin helik dengan menggunakan sudu turbin tiga buah, dihasilkan daya poros maksimum turbin dengan saluran 240,7 W,  dimana tanpa saluran 98,74 W. Daya listrik maksimum yang dibangkitkan dengan menggunakan model sistem pembangkit listrik dengan saluran ini juga meningkat menjadi 127,68 W dengan efisiensi sistem 39,17% terhadap daya hidro (energi kinetik air) dimana sebelumnya 26,01 W dengan efisiensi 26,34 %",
+      "volume": 7,
+      "date": 2018,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17074",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "issn": "ISSN: 25492888",
+      "full_text_status": "public",
+      "status_changed": "2019-11-19 05:16:37",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "related_url": [
+        {
+          "url": "http:\/\/publikasi.mercubuana.ac.id\/index.php\/jtm\/index"
+        }
+      ],
+      "publication": "Jurnal Teknik Mesin",
+      "publisher": "Jurusan Teknik Mesin Fakultas Teknik Universitas Mercu Buana",
+      "divisions": [
+        "FT14"
+      ],
+      "dir": "disk0\/00\/01\/70\/74"
+    }
+]
+

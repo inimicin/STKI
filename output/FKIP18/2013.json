@@ -1,0 +1,93 @@
+[
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "issn": "2087-9849",
+      "status_changed": "2017-09-15 01:17:42",
+      "publication": "Jurnal Pendidikan Progresif",
+      "publisher": "Unit Database dan Publikasi Ilmiah",
+      "dir": "disk0\/00\/00\/39\/21",
+      "divisions": [
+        "FKIP18"
+      ],
+      "date": "2013-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3921",
+      "abstract": "Rendahnya hasil belajar yang diperoleh siswa sangat dipengaruhi oleh metode yang digunakan guru dalam proses belajar mengajar. Oleh karena itu, maka diperlukan metode atau model pembelajaran yang tepat guna meningkatkan hasil belajar siswa. Penelitian ini bertujuan untuk mengetahui penggunaan model pembelajaran kooperatif tipe take and give untuk meningkatkan hasil belajar siswa siswa kelas XI IPS2 SMA Negeri 1 Way Tenong. Metode yang digunakan dalam penelitian adalah tindakan kelas yang dilakukan dalam 2 siklus. Berdasarkan hasil penelitian dapat disimpulkan bahwa dengan menggunakan model pembelajaran kooperatif tipe take and give, hasil belajar siswa mengalami peningkatan yaitu 55,88% menjadi 82,35%.",
+      "volume": 3,
+      "subjects": [
+        "G1",
+        "L1"
+      ],
+      "title": "PENINGKATAN HASIL BELAJAR SISWA MENGGUNAKAN \r\nMODEL PEMBELAJARAN KOOPERATIF\r\nTIPE TAKE AND GIVE",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Dedy",
+            "honourific": null,
+            "given": "Miswar"
+          },
+          "id": "de_miswar@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Suwarni",
+            "family": "Nani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nani.suwarni@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Septiana",
+            "honourific": null,
+            "given": "Septiana"
+          },
+          "id": null
+        }
+      ],
+      "lastmod": "2017-09-15 01:17:42",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 3921,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3776",
+            "pos": 1,
+            "security": "public",
+            "main": "07. Jurnal_JPP_Nov-2013_Peningkatan Hasil Belajar Siswa.docx",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 27417,
+                  "hash": "23e21c3d097e222b4f0248111cd063a7",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-13 05:41:36",
+                  "filesize": 63045,
+                  "objectid": 3776,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27417",
+                  "filename": "07. Jurnal_JPP_Nov-2013_Peningkatan Hasil Belajar Siswa.docx"
+                }
+            ],
+            "docid": 3776,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "rev_number": 1
+          }
+      ],
+      "userid": 409,
+      "number": 2,
+      "metadata_visibility": "show",
+      "pagerange": "86-188",
+      "datestamp": "2017-09-15 01:17:42",
+      "eprint_status": "archive",
+      "eprintid": 3921
+    }
+]
+

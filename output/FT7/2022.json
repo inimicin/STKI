@@ -1,0 +1,3068 @@
+[
+    {
+      "datestamp": "2022-09-15 01:11:07",
+      "eprintid": 44947,
+      "id_number": "https:\/\/doi.org\/10.30630\/jtm.15.1.800",
+      "eprint_status": "archive",
+      "pagerange": "7-12",
+      "userid": 24,
+      "number": 1,
+      "official_url": "https:\/\/ejournal2.pnp.ac.id\/index.php\/jtm\/article\/view\/800\/359",
+      "documents": [
+          {
+            "eprintid": 44947,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166866",
+            "pos": 1,
+            "format": "text",
+            "main": "Set_SINTA5_JTM-PNP_Rancang Bangun Mesin Centrifugal Casting.pdf",
+            "docid": 166866,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-09-14 13:21:01",
+                  "filesize": 1320645,
+                  "objectid": 166866,
+                  "filename": "Set_SINTA5_JTM-PNP_Rancang Bangun Mesin Centrifugal Casting.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/484818",
+                  "datasetid": "document",
+                  "fileid": 484818,
+                  "mime_type": "application\/pdf",
+                  "hash": "7f4a8571a9a0e2d1c68d20b37097b8fb"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "refereed": "FALSE",
+      "abstract": "Dalam bidang rekayasa material telah ditemukan berbagai jenis material maju. Hal ini mestilah diiringi dengan kemajuan proses produksi yang sesuai. Centrifugal casting adalah metode yang sesuai untuk mencetak benda-benda silindris seperti pipa dan bejana tekan. Pada penelitian ini dirancang dan dibuat sebuah mesin cetak centrifugal casting. Proses perancangan dilakukan dengan mengikuti tahapan-tahapan sebagaimana yang diusulkan oleh Pahl and Beitz, yang berawal dari identifikasi kebutuhan, rancangan konsep, layout dan analisis sampai dengan metode fabrikasi. Selanjutnya mesin ini diujicoba untuk mencetak pipa komposit geopolimer. Dari uji coba yang dilakukan dapat dinyatakan bahwa mesin ini berfungsi baik dan dapat mencetak sampel pipa pada variasi kecepatan putar. Selanjutnya sampel pipa dipotong untuk dijadikan spesimen  uji bending three point. Setelah dilakukan pengujian, diperoleh kekuatan bending sampai 50 MPa (putaran tabung 1500 rpm) dan 36 MPa (putaran tabung 1200 rpm). Dengan demikian disimpulkan semakin tinggi putaran tabung, maka pipa yang dihasilkan semakin padat dan semakin kuat.",
+      "corp_creators": [
+        "Department of Mechanical Engineering, Universitas Lampung, Indonesia"
+      ],
+      "date": "2022-07-13",
+      "related_url": [
+        {
+          "url": "https:\/\/doi.org\/10.30630\/jtm.15.1.800"
+        }
+      ],
+      "publisher": "Politeknik Negeri Padang",
+      "issn": "2655-5670",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "metadata_visibility": "show",
+      "lastmod": "2022-09-15 01:11:07",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Akmal",
+            "lineage": null,
+            "given": "Jamiatul"
+          },
+          "id": "jamiatul.akmal@eng.unila.ac.id"
+        },
+        {
+          "id": "sandiari336@gmail.com",
+          "name": {
+            "given": "Arisandi",
+            "honourific": null,
+            "family": "Arisandi",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suudi",
+            "lineage": null,
+            "given": "Ahmad"
+          },
+          "id": "ahmad.suudi@eng.unila.ac.id"
+        },
+        {
+          "id": "asnawi.lubis@eng.unila.ac.id",
+          "name": {
+            "given": "Asnawi",
+            "lineage": null,
+            "family": "Lubis",
+            "honourific": null
+          }
+        },
+        {
+          "id": "novri.tanti@eng.unila.ac.id",
+          "name": {
+            "given": "Novri",
+            "lineage": null,
+            "family": "Tanti",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Rancang Bangun Mesin Cetak Centrifugal Casting untuk Pembuatan Pipa Komposit Geopolimer",
+      "date_type": "published",
+      "subjects": [
+        "TS"
+      ],
+      "volume": 15,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44947",
+      "publication": "Rancang Bangun Mesin Cetak Centrifugal Casting untuk Pembuatan Pipa Komposit Geopolimer",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/04\/49\/47",
+      "status_changed": "2022-09-15 01:11:07",
+      "rev_number": 7
+    },
+    {
+      "ispublished": "pub",
+      "issn": "2301-9069",
+      "full_text_status": "public",
+      "related_url": [
+        {
+          "url": "https:\/\/doi.org\/10.14710\/kapal.v19i1.44019"
+        }
+      ],
+      "publisher": "Universitas Diponegoro",
+      "date": "2022-02",
+      "abstract": "SFTB; wave; curvature radius; depthlevel; hydrodynamic forces\r\nThe discussion of hydrodynamic forces becomes an important issue in determining the dynamic behavioroftheSubmerged FloatingTunnelBridge(SFTB)structure.Asstatedin theMorisonEquation, thehydrodynamicforcesareaffectedbythekinematicsofwater particles,butuptothisdate,thereare onlya fewdiscussionsforcurved tubeapplications.This paper discusses theeffectof curvature radius and depth level on hydrodynamic forces to get the correction factor for a straight tube.Tubes with variationsin radius curvature(R\/L) and diameter(D)were installed in a wave pool with a depth level (z\/d).Thehydrodynamicforcesweredetected bya load cellsensor placedona pedestal at theend of thespecimen.Thedata from theload cellwas processed by thedata acquisitionsystem and displayed onthemonitorscreen,showingthatthez\/dratioandtheR\/Lratiobothaffectthehydrodynamicforces. A larger z\/d ratio (deeper) results in smaller hydrodynamic forces, while a smaller R\/L ratio (more curved) results in smaller hydrodynamic forces. A correction factor (C) has been determined to calculate thehydrodynamicforceona curved tubebased ontheMorison equation",
+      "corp_creators": [
+        "Department of Mechanical Engineering, Universitas Lampung, Indonesia"
+      ],
+      "refereed": "FALSE",
+      "official_url": "https:\/\/ejournal.undip.ac.id\/index.php\/kapal\/article\/view\/44019",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Set_SINTA2_KAPAL_Hydrodynamic Forces.pdf",
+            "files": [
+                {
+                  "filesize": 3756433,
+                  "objectid": 166865,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/484808",
+                  "filename": "Set_SINTA2_KAPAL_Hydrodynamic Forces.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-09-14 08:14:33",
+                  "datasetid": "document",
+                  "fileid": 484808,
+                  "mime_type": "application\/pdf",
+                  "hash": "aa817e6df75b5dc493271ce33786ac32"
+                }
+            ],
+            "docid": 166865,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166865",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 44946
+          }
+      ],
+      "userid": 24,
+      "number": 1,
+      "pagerange": "1-8",
+      "datestamp": "2022-09-14 09:43:03",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.14710\/kapal.v19i1.44019",
+      "eprintid": 44946,
+      "rev_number": 8,
+      "status_changed": "2022-09-14 09:43:03",
+      "publication": "Kapal: Jurnal Ilmu Pengetahuan dan Teknologi Kelautan",
+      "dir": "disk0\/00\/04\/49\/46",
+      "divisions": [
+        "FT7"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44946",
+      "volume": 19,
+      "date_type": "published",
+      "subjects": [
+        "TC"
+      ],
+      "title": "Hydrodynamic forces on submerged floating tube: The effect of curvature radius and depth level",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Akmal",
+            "honourific": null,
+            "given": "Jamiatul"
+          },
+          "id": "jamiatul.akmal@eng.unila.ac.id"
+        },
+        {
+          "id": "asnawi.lubis@eng.unila.ac.id",
+          "name": {
+            "given": "Asnawi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Lubis"
+          }
+        },
+        {
+          "id": "ahmad.suudi@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Suudi",
+            "lineage": null,
+            "given": "Ahmad"
+          }
+        },
+        {
+          "id": "novri.tanti@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Tanti",
+            "honourific": null,
+            "given": "Novri"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nugraha",
+            "honourific": null,
+            "given": "Nurcahya"
+          },
+          "id": "nurcahyanugraha11@gmail.com"
+        },
+        {
+          "id": "zakyabyanf@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Fahrain",
+            "honourific": null,
+            "given": "Zaky Abyan"
+          }
+        },
+        {
+          "id": "panjibkc@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Firmanul Hakim",
+            "honourific": null,
+            "given": "Panji"
+          }
+        }
+      ],
+      "lastmod": "2022-09-14 09:43:03",
+      "metadata_visibility": "show"
+    },
+    {
+      "title": "RESPON DINAMIS TENSION LEG PLATFORM (TLP): STUDI KOMPARASI ANTARA PENGGUNAAN PONTON TELAPAK LINGKARAN DENGAN PONTON TELAPAK BUJUR SANGKAR",
+      "creators": [
+        {
+          "name": {
+            "given": "Jamiatul",
+            "lineage": null,
+            "family": "Akmal",
+            "honourific": null
+          },
+          "id": "jamiatul.akmal@eng.unila.ac.id"
+        },
+        {
+          "id": "novri.tanti@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Tanti",
+            "lineage": null,
+            "given": "Novri"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Lubis",
+            "given": "Asnawi"
+          },
+          "id": "asnawi.lubis@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Dwi",
+            "lineage": null,
+            "family": "Fajri Kemala Intan",
+            "honourific": null
+          },
+          "id": "dwifajri51@gmail.com"
+        }
+      ],
+      "type": "article",
+      "lastmod": "2022-09-15 01:11:11",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "status_changed": "2022-09-15 01:11:11",
+      "divisions": [
+        "FT7"
+      ],
+      "publication": "Machine; Jurnal Teknik Mesin Vol. 5 No. 1, Agustus 2019",
+      "dir": "disk0\/00\/04\/49\/50",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44950",
+      "volume": 8,
+      "subjects": [
+        "TC"
+      ],
+      "date_type": "published",
+      "refereed": "FALSE",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2022-09-14 13:40:44",
+                  "hash_type": "MD5",
+                  "filename": "Set_SINTA4_UBB_Respon Dinamis TLP.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/484840",
+                  "filesize": 759517,
+                  "objectid": 166869,
+                  "hash": "4cc3d256cd55e2a7f0a2032948fc35c6",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 484840
+                }
+            ],
+            "main": "Set_SINTA4_UBB_Respon Dinamis TLP.pdf",
+            "docid": 166869,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 44950,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166869",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/journal.ubb.ac.id\/index.php\/machine\/article\/view\/2928",
+      "number": 1,
+      "userid": 24,
+      "pagerange": "45-50",
+      "eprintid": 44950,
+      "id_number": "https:\/\/doi.org\/10.33019\/jm.v8i1.2928",
+      "eprint_status": "archive",
+      "datestamp": "2022-09-15 01:11:11",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2581-0138",
+      "publisher": "Universitas Bangka Belitung",
+      "related_url": [
+        {
+          "url": "https:\/\/doi.org\/10.33019\/jm.v8i1.2928"
+        }
+      ],
+      "date": "2022-04-01",
+      "corp_creators": [
+        "Department of Mechanical Engineering, Universitas Lampung, Indonesia"
+      ],
+      "abstract": "Tension Leg Platform (TLP) adalah anjungan lepas pantai yang biasanya digunakan untuk kegiatan eksplorasi migas di laut dalam. Salah satu permasalahan yang sering terjadi adalah goncangan TLP sebagai respon terhadap gelombang laut. Pada kondisi tertentu, terutama di laut dalam samudra, goncangan ini dapat mengakibatkan berbagai gangguan, bahkan berpotensi merusak struktur. Pada artikel ini diusulkan penggunaan ponton bertelapak silinder untuk mendapatkan respon dinamis yang lebih stabil, yang selanjutnya dilakukan kaji perbandingan dengan ponton bertelapak bujur sangkar yang biasa dipakai selama ini. Respon dinamik kedua model direkam dengan sensor ultrasonic dan video tracker. Hasil pengukuran ditampilkan dalam bentuk non dimensional, yang biasa dikenal sebagai Response Amplitude Operator (RAO), yaitu rasio antara displacement TLP terhadap panjang gelombang. Dari penelitian ini didapatkan bahwa TLP dengan menggunakan ponton bertelapak silinder memiliki respon dinamik yang relative stabil jika dibandingkan dengan TLP berponton telapak bujur sangkar."
+    },
+    {
+      "contact_email": "irza.sukmana@gmail.com",
+      "place_of_pub": "Journal of Engineering and Scientific Research (JESR)",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Amelia",
+            "lineage": null,
+            "given": "Oktavia"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Irza",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sukmana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Arif",
+            "honourific": null,
+            "lineage": null,
+            "family": "Yanuar Zulardiansyah"
+          }
+        },
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nama"
+          }
+        }
+      ],
+      "title": "The Effect of Filler Adding Palm Kernel Shell Ash on Durability and the Marshall Values Properties of Asphalt Concrete Mix",
+      "userid": 464,
+      "lastmod": "2022-12-06 22:34:24",
+      "official_url": "http:\/\/jesr.eng.unila.ac.id\/index.php\/ojs\/article\/view\/100",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184777",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45960,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "JESR_June2022a_Amelia_Irza_Similarity.pdf",
+            "docid": 184777,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "93f30f1516fc0c651db2166884f21dde",
+                  "datasetid": "document",
+                  "fileid": 508884,
+                  "mtime": "2022-10-25 06:55:42",
+                  "hash_type": "MD5",
+                  "filename": "JESR_June2022a_Amelia_Irza_Similarity.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508884",
+                  "objectid": 184777,
+                  "filesize": 1067055
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "datestamp": "2022-10-26 01:59:14",
+      "id_number": "https:\/\/doi.org\/10.23960\/jesr.v4i1.100",
+      "eprintid": 45960,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "status_changed": "2022-10-26 01:59:14",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Faculty of Engineering, Universitas Lampung",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/04\/59\/60",
+      "abstract": "Lampung Province is one of the palm oil producers, especially in Way Kanan Regency. Way Kanan Regency has two palm oil-producing mills, namely PT. Sawit Indo Mas which is located in Kampung Tanjung Raja Sakti Blambangan Umpu and PT PLP which is located in Kampung Bumi  Agung, Bahuga District. The two factories duce thousands of tons of Crude Palm Oil (CPO) vegetable oil daily produced from palm fruit plants (Elaeis Guineensis Jacq, Arecaceae). From oil management, it is undeniable that it can create a lot of solid waste from the palm shell. Meanwhile, the government has not made much effort to use the waste from the waste. When managing palm fruit, palm shells cannot be processed into oil because they have a hard texture, so the shells are discarded and become waste. Then we use the shell for research material as a filler. Palm shell ash has a silicon dioxide (SiO2) content which is also contained in Portland cement, so this content can allow the acquisition of a good asphalt mixture on the AC-BC layer. This study aims to see the effect of the effectiveness of adding shell ash fillers from palm shell waste in Marshall test tests and value the resulting durability. The addition of fillers with percentages of 20%, 30%, 40%, 50%and 60%. From the results obtained from the test results in the laboratory that the addition of shell ash fillers of 40% gets better performance compared to shell ash with percentages of 20%, 30%, and 60%, with a higher state value of 1225 kg shown. In Marshall testing, using palm shell ash fillers can increase the value of KAO. So that from the Marshall test, the durability value of the sample immersion at the IRS value of 0% was 98.4% greater than the 40%, which was 91.13%. Overall, using palm shell ash fillers meets the minimum requirements of Indonesia Bureau for Construction Bina Marga as an asphalt mixture. The degree of weather change in immersion durability affects the strength level of the Marshall test.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45960",
+      "date": "2022-06",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ]
+    },
+    {
+      "datestamp": "2022-06-14 01:16:27",
+      "eprint_status": "archive",
+      "eprintid": 42427,
+      "metadata_visibility": "show",
+      "pagerange": "1-8",
+      "userid": 528,
+      "number": 1,
+      "lastmod": "2022-06-14 01:16:27",
+      "official_url": "https:\/\/ejournal.polman-babel.ac.id\/index.php\/manutech\/issue\/view\/18",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 164138,
+            "main": "160-Article Text-912-1-10-20220602_terbit.pdf",
+            "files": [
+                {
+                  "hash": "aeac46645340441b6485b2eceaafbee2",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 466395,
+                  "mtime": "2022-06-13 23:18:58",
+                  "hash_type": "MD5",
+                  "filename": "160-Article Text-912-1-10-20220602_terbit.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/466395",
+                  "objectid": 164138,
+                  "filesize": 528041
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164138",
+            "pos": 1,
+            "eprintid": 42427,
+            "placement": 1
+          }
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Arinal",
+            "lineage": null,
+            "given": "Hamni"
+          },
+          "id": "arinal.hamni@yahoo.com"
+        },
+        {
+          "id": "gusri.akhyar@eng.unila.ac.id",
+          "name": {
+            "given": "Akhyar",
+            "family": "Gusri",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Implementasi Minimum Quantity Lubrication (MQL) Pada\r\nPembuatan Ulir Luar Material Magnesium",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "TS"
+      ],
+      "abstract": "Perkembangan teknologi menuntut berbagai macam kamajuan di bidang industri manufaktur, \r\ntermasuk dalam pengembangan teknik pemesinan. Proses pemesinan material super ringan magnesium \r\nmempunyai sifat dan perilaku pemotongan yang sangat baik dan menguntungkan namun proses ini\r\nmemiliki beberapa kekurangan, antarnya adalah sangat mudah terbakar karena mempunyai titik nyala \r\nyang rendah. Suhu pemotongan yang tinggi memberikan dampak terhadap keausan pahat dan \r\nberkontribusi lansung pada kepresisian ulir. Kesalahan geometri dan dimensi ulir magnesium pada \r\npemesinan bubut ulir dipengaruhi oleh beberapa faktor antaranya adalah diameter benda uji, kedalaman \r\npotong, dan kecepatan putar benda kerja. Penelitian ini bertujuan untuk menganalisa kesalahan pitch, \r\nkesalahan tinggi, dan kesalahan sudut ulir pada pada pembuatannya dengan bentuk ulir luar metrik M1,5. \r\nProses pemesinan dilakukan menggunakan teknik Minimum Quantity Lubrication (MQL) dengan minyak \r\nkelapa sebagai pelumas. Diameter ulir yang digunakan adalah sebesar10 dan 14 mm, kedalaman potong \r\n0.46, 0.23 dan 0.3067 mm, dan kecepatan putar 424, 212, 424 rpm. Hasil kajian menunjukan bahwa \r\nkeadaan optimal didapatkan menggunakan teknik Minimum Quantity Lubrication (MQL), pada faktor \r\ndiameter 10 mm, kedalaman 0.46 mm dan kecepatan spindel 424 rpm, dimana besarnya kesalahan\r\npuncak 0.012 mm, kesalahan tinggi 0.011533 mm. Sementara itu, hasil terbaik kesalahan sudut \r\nmenggunakan teknik Minimum Quantity Lubrication (MQL) diperoleh pada diameter 10 mm, kecepatan \r\nspindel 212 rpm, dan kedalaman potong 0.23, yang mana diperoleh hasil 0.38660°. Pelumasan \r\n2\r\nImplementasi Minimum Quantity Lubrication (MQL) Pada Pembuatan Ulir Luar Material Magnesium\r\n(Arinal Hamni)\r\nmenggunakan teknik MQL pada pembuatan ulir menggunakan jenis pelumas minyak kelapa, memberikan \r\nmempengaruhi yang signifikan terhadap kepresisian ulir dan tekstur permukaan yang dimesin, dimana \r\npermukaan yang dihasilkan lebih halus dibandingkan bila pemotongan dilakukan secara pemesinan \r\nkering",
+      "volume": 14,
+      "date": "2022-06-09",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42427",
+      "publisher": "Politeknik manufaktur Bangka Belitung",
+      "divisions": [
+        "FT7"
+      ],
+      "publication": "Manutech : Jurnal Teknologi Manufaktur",
+      "dir": "disk0\/00\/04\/24\/27",
+      "issn": "2621-3397",
+      "full_text_status": "public",
+      "status_changed": "2022-06-14 01:16:27",
+      "rev_number": 6,
+      "ispublished": "pub"
+    },
+    {
+      "datestamp": "2023-05-23 01:13:19",
+      "eprint_status": "archive",
+      "eprintid": 51959,
+      "metadata_visibility": "show",
+      "userid": 569,
+      "lastmod": "2023-05-23 01:13:19",
+      "documents": [
+          {
+            "main": "Laporan Akhir Penelitian Dipa FT 2022.pdf",
+            "docid": 251369,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 615691,
+                  "mime_type": "application\/pdf",
+                  "hash": "d30210bbbcf43098eb4d49e816013efe",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-22 07:20:17",
+                  "filesize": 1615107,
+                  "objectid": 251369,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/615691",
+                  "filename": "Laporan Akhir Penelitian Dipa FT 2022.pdf"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 51959,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251369",
+            "security": "public"
+          }
+      ],
+      "creators": [
+        {
+          "id": "harmen.1969@eng.unila.ac.id",
+          "name": {
+            "given": "Harmen",
+            "family": "Harmen",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "amrizal@eng.unila.ac.id",
+          "name": {
+            "given": "Amrizal",
+            "honourific": null,
+            "family": "Amrizal",
+            "lineage": null
+          }
+        },
+        {
+          "id": "ahmad.yonanda@yahoo.com",
+          "name": {
+            "given": "Ahmad",
+            "honourific": null,
+            "lineage": null,
+            "family": "Yonanda"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Simulasi CFD Aliran Dua Fase Campuran Air-Uap Panas Bumi pada Kondisi Pipa Menurun dan Mendaki pada Berbagai Sudut Kemiringan",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Banyak lapangan panas bumi di dunia termasuk juga di Indonesia merupakan lapangan panas bumi yang menghasilkan fluida hasil pengeboran berupa fluida 2-fase yang terdiri dari air, uap air, dan berbagai gas lainnya. Aliran 2-fase ini juga sering disebut dengan fluida multi-fase. Pada lapangan panas bumi fluida multi�fase dialirkan dari sumur produksi menuju separator untuk memisahkan antara air \r\ndan uap\/gas sebelum digunakan untuk memutar turbin pada sistem pembangkit listrik tenaga panas bumi. Jarak antara sumur-sumur produksi dengan separator cukup berjauhan dan dengan topografi yang mendaki dan menurun. Kondisi ini \r\nsangat mempengaruhi performansi dalam pengoperasiannya. Beberapa permasalahan aliran timbul selama pengoperasi dan setelah jangka waktu pengoperasian. \r\nKendala yang sering ditemukan selama operasi antara lain, water hammer, pembentukkan scalling, pengikisan\/erosi pipa, peningkatan\/penurunan tekanan, dan penurunan laju aliran akibat adanya penyempitan dalam pipa. Hal ini akan dapat mengakibatkan kegagalan dalam sistem perpipaan fluida panas bumi diatas tanah (SAGS\/steam Above Groud System) dan perubahan kualitas uap yang dihasilkan serta sekaligus akan mempengaruhi produksi listrik dari PLTP. Kajian simulasi ini dilakukan dengan tujuan untuk mengetahui performansi SAGS dan karakteristik aliran multi-fase dari fluida panas bumi yang sangat sulit dilakukan secara eksperimen atau pengukuran langsung dilapangan. Hasil dari simulasi ini \r\nakan dapat digunakan untuk memprediksi kondisi SAGS dan perencanaan pemeliharaannya. \r\nData-data yang digunakan dalam simulasi berasal dari data primer dan sekunder dari lapangan panas bumi Ulubelu kabupaten Tanggamus provinsi Lampung yang dioperasikan oleh PT. Pertamina Geothermal Energy (PGE). Data berupa dimensi \r\ndan spesifikasi pipa yang digunakan, data kondisi aliran (temperatur, tekanan, laju aliran, dan lain-lain), dan data kondisi sistem perpipaan. Simulasi dilakukan menggunakan perangkat lunak komersil berbasis CFD. Simulasi aliran multi-fase diterapkan untuk aliran fluida dalam pipa pada kondisi menerun dan mendaki untuk berbagai sudut kemiringan yang disesuaikan dengan kondisi lapangan yang ada. \r\nParameter aliran yang diamati meliputi kecepatan aliran, temperatur fluida, tekanan fluida, tipe aliran multi-fase yang terjadi. Parameter ini akan mempengaruhi produksi steam dan brine yang dihasilkan oleh lapangan panas bumi. \r\nDari tiga cluster yang diamati didapatkan total produksi fluida 2 fase adalah sebesar 859,4 kg\/s dan produksi steam dan brine masing-masing adalah sebesar 155,9 kg\/s dan 717,1 kg\/s. Dalam penelitian ini juga dilakukan pemanfaatan 80% brine sebagai sumber panas dari sistem pembangkit ORC yang mampu menghasilkan 15,12 MW energi listrik sebagai tambahan daya PLTP unit 1 & 2 atau tambahan daya sebesar 16,19% dari daya listrik yang dihasilkan PLTP.",
+      "projects": [
+        "Penelitian DIPA FT 2022"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51959",
+      "date": 2022,
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "LPPM Universitas Lampung",
+      "dir": "disk0_bak\/00\/05\/19\/59",
+      "funders": [
+        "DIPA FT 2022"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2023-05-23 01:13:19",
+      "rev_number": 9,
+      "ispublished": "unpub"
+    },
+    {
+      "issn": "2774-373X",
+      "full_text_status": "public",
+      "status_changed": "2022-12-02 03:47:56",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "Asosiasi Peneliti Sriwijaya",
+      "publication": "Indonesian Journal of Engineering and Science",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/04\/71\/19",
+      "abstract": "Processing chocolate from dried cocoa beans to become a ready-to-eat\r\nchocolate paste involves a long process, including separating the cocoa oil from the flour. The\r\nseparation process is mechanized using a press machine with high pressure at a certain\r\ntemperature level. However, a press machine deals with obstacles prone to failure and\r\ndamage. This study aims to analyze the causes of the chocolate pressing machine's failure\r\nusing hydraulic pressure and find alternative repair solutions. The cylinder of the machine\r\npress is made of stainless steel material and has a cylindrical geometry with a diameter of 23\r\nmm and a tube length of 30 cm. Failure analysis is carried out by observing the machine's\r\noperating conditions, the procedure for its use, and the load imposed on the machine,\r\nincluding, in this case, the service life to date. Observations were also made on the form of\r\nfailure, the type of damage, and each component's function. Thus, based on the data obtained\r\nand relates to the theoretical theory, the conditions that should occur are obtained. The study\r\nresults showed that the damages occurred, such as press tube damage, deformed fins, clogged gaps between fins, worn support rods, corroded threads, worn and stiff seals, and bearing damage to rupture. More damage was caused by the tilted position of the machine so that it didn't move the flashlight anymore. The part of the machine must be repaired flat based on standard procedures operation and carry out periodic checks on machine components.",
+      "volume": 3,
+      "date": "2022-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47119",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "creators": [
+        {
+          "id": "gusri.akhyar@eng.unila.ac.id",
+          "name": {
+            "given": "Gusri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Ibrahim"
+          }
+        },
+        {
+          "name": {
+            "given": "Arinal",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hamni"
+          },
+          "id": "arinal.hamni@yahoo.com"
+        },
+        {
+          "id": "yanuar.burhanuddin@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Burhanuddin",
+            "given": "Yanuar"
+          }
+        },
+        {
+          "name": {
+            "given": "Yahya",
+            "honourific": null,
+            "lineage": null,
+            "family": "Panuju"
+          },
+          "id": "achmad.yahya@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ar Rafi",
+            "given": "Sahid"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Ramadhan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Rizki"
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "title": "Failure Analysis of The Flour Press Machine and Alternative Solutions at PT Aneka Usaha Laba Jaya Utama Pesawaran",
+      "refereed": "TRUE",
+      "userid": 59,
+      "number": 3,
+      "official_url": "https:\/\/www.aps.or.id\/journal\/index.php\/ijes\/index",
+      "lastmod": "2022-12-02 03:47:56",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "filename": "75-Article Text-410-1-10-20221125.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/517621",
+                  "filesize": 383541,
+                  "objectid": 186061,
+                  "mtime": "2022-12-02 02:43:26",
+                  "hash_type": "MD5",
+                  "hash": "7deb3196dfa479e930435700dbf9bb75",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 517621
+                }
+            ],
+            "main": "75-Article Text-410-1-10-20221125.pdf",
+            "docid": 186061,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186061",
+            "pos": 1,
+            "eprintid": 47119,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2022-12-02 03:47:56",
+      "eprintid": 47119,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "39-47"
+    },
+    {
+      "abstract": "Bukti Korespondensi artikel jurnal internasional bereputasi",
+      "date": "2022-10-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50592",
+      "subjects": [
+        "TJ"
+      ],
+      "succeeds": 48099,
+      "status_changed": "2023-04-17 00:46:49",
+      "full_text_status": "public",
+      "rev_number": 4,
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/05\/92",
+      "publisher": "University of Belgrade",
+      "divisions": [
+        "FT7"
+      ],
+      "userid": 464,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 50592,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190295",
+            "security": "public",
+            "main": "FME_Corr1_merged.pdf",
+            "docid": 190295,
+            "files": [
+                {
+                  "hash": "47e46d54d667bb2a3958655856eec9e7",
+                  "mime_type": "application\/pdf",
+                  "fileid": 545482,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545482",
+                  "filename": "FME_Corr1_merged.pdf",
+                  "objectid": 190295,
+                  "filesize": 788288,
+                  "mtime": "2023-01-27 08:16:38",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2
+          },
+          {
+            "main": "FME Transaction corresponding author lengkap.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-16 15:55:49",
+                  "filesize": 3602581,
+                  "objectid": 190296,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545483",
+                  "filename": "FME Transaction corresponding author lengkap.pdf",
+                  "datasetid": "document",
+                  "fileid": 545483,
+                  "mime_type": "application\/pdf",
+                  "hash": "f07b9c76be2965eb4c59af1b817a46dc"
+                }
+            ],
+            "docid": 190296,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 2,
+            "eprintid": 50592,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190296",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-04-17 00:46:49",
+      "eprint_status": "archive",
+      "eprintid": 50592,
+      "datestamp": "2023-04-17 00:46:49",
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Irza",
+            "lineage": null,
+            "given": "Sukmana"
+          },
+          "id": "irza.sukmana@eng.unila.ac.id"
+        }
+      ],
+      "title": "FME Transactions Corresponding Author"
+    },
+    {
+      "publisher": "FT Universitas Indonesia",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0_bak\/00\/04\/80\/98",
+      "status_changed": "2023-01-27 08:23:14",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Data bukti korespondensi artikel sebagai penulis korespondensi karya ilmiah",
+      "date": "2022-10-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48098",
+      "type": "other",
+      "creators": [
+        {
+          "id": "irza.sukmana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Irza",
+            "honourific": null,
+            "given": "Sukmana"
+          }
+        }
+      ],
+      "title": "IJTech Corresponding Author",
+      "eprintid": 48098,
+      "eprint_status": "archive",
+      "datestamp": "2023-01-27 08:23:14",
+      "metadata_visibility": "show",
+      "userid": 464,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 187295,
+            "main": "IJTech1_merged.pdf",
+            "files": [
+                {
+                  "hash": "a33c870a882e111bd759ed5cbe6dc6cc",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 525850,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525850",
+                  "filename": "IJTech1_merged.pdf",
+                  "filesize": 2513939,
+                  "objectid": 187295,
+                  "mtime": "2023-01-27 08:09:16",
+                  "hash_type": "MD5"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187295",
+            "pos": 1,
+            "eprintid": 48098,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-01-27 08:23:14"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Irza",
+            "lineage": null,
+            "given": "Sukmana"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Arifo Gunawan",
+            "honourific": null,
+            "given": "Chyanegoro"
+          }
+        },
+        {
+          "name": {
+            "given": "Sugiri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Agus"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Biomedical Material for Stent Application: Current Status and Future Challenges",
+      "place_of_pub": "Journal of Applied Science, Engineering and Technology",
+      "contact_email": "irza.sukmana@gmail.com",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.47355\/aset.v1i2.18",
+      "eprintid": 45955,
+      "datestamp": "2022-10-25 06:52:31",
+      "metadata_visibility": "show",
+      "userid": 464,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 45955,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184772",
+            "pos": 1,
+            "security": "public",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-25 05:05:38",
+                  "filesize": 625849,
+                  "objectid": 184772,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508837",
+                  "filename": "JASET_Dec2021_Similarity_Irza.pdf",
+                  "datasetid": "document",
+                  "fileid": 508837,
+                  "mime_type": "application\/pdf",
+                  "hash": "e54045ce316f1b3550cc390f8da06d79"
+                }
+            ],
+            "main": "JASET_Dec2021_Similarity_Irza.pdf",
+            "docid": 184772,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "https:\/\/journal.ic-star.org\/index.php\/jaset\/article\/view\/18",
+      "lastmod": "2022-10-25 06:52:31",
+      "publisher": "INSTEP Network Publishing",
+      "dir": "disk0\/00\/04\/59\/55",
+      "divisions": [
+        "FT7"
+      ],
+      "status_changed": "2022-10-25 06:52:31",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "abstract": "Cardiovascular disease is the leading cause of death worldwide. Arterial stenting as a transluminal angioplasty procedure allows re-opening of narrowed vessels and restoring normal blood flow with stent placement. The development of stents ed at the end of 19 century with bare-metal stents (BMS). Now, it has been based on the application of biodegradable or natural decomposed and coated stents. The coated stent has been found to improve BMS properties in terms of biocompatibility, cytotoxicity, and better mechanical and biophysical properties. Also, a biodegradable stent may support the blood micro-vessel during the estimated period of time before downgraded constituents. The biodegradable stent also allows a reinsertion for several months to improve the vessel wall's quality. This paper describes the possible materials for stents and their properties such as design criteria, degradation behavior, disadvantages, and advantages with clinical and preclinical trials to date. Stent degradation allows reinsertion of the stent after several months and improves the vessel wall quality. This paper focuses on developing materials for stents, which describe the possible materials for stents and their properties. Furthermore, the current clinical trial of the new proposed stent will also be highlighted",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45955",
+      "date": "2022-12"
+    },
+    {
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.37373\/jttm.v3i2.312",
+      "eprintid": 45965,
+      "datestamp": "2022-10-26 01:59:33",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 184782,
+            "main": "JTTM_Oct2022_Similarity_Irza.pdf",
+            "files": [
+                {
+                  "filesize": 367190,
+                  "objectid": 184782,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508920",
+                  "filename": "JTTM_Oct2022_Similarity_Irza.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-25 07:28:16",
+                  "fileid": 508920,
+                  "datasetid": "document",
+                  "hash": "31873b6dd0acfc785f7dcaa7ab1b1a82",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184782",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45965
+          }
+      ],
+      "official_url": "https:\/\/www.jurnal.sttmcileungsi.ac.id\/index.php\/jttm\/article\/view\/312",
+      "lastmod": "2022-10-26 01:59:33",
+      "userid": 464,
+      "title": "The effect of pre-heating distance of shielded metal arc welding on the mechanical properties of AISI 1045 steel",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Sukmana",
+            "honourific": null,
+            "family": "Irza",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Egi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Andika"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Joy Rizki Pangestu",
+            "lineage": null,
+            "given": "Djuansjah"
+          }
+        },
+        {
+          "name": {
+            "given": "Tarkono",
+            "lineage": null,
+            "family": "Tarkono",
+            "honourific": null
+          }
+        }
+      ],
+      "place_of_pub": "JTTM: Jurnal Terapan Teknik Mesin",
+      "contact_email": "irza.sukmana@gmail.com",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45965",
+      "date": "2022-10",
+      "abstract": "Welding is a method of joining metals by utilizing local heat to form a metallurgical bond between the metals. The most common welding is electric welding, including the Shielded Metal Arch Welding (SMAW). This type of welding uses a filler wire or electrode. To reduce weld cracks and cooling rates in the weld metal and heat affected zone (HAZ) area, it is necessary to carry out a pre-heating process. Pre-heating is the application of heat to the material to be welded using oxyacetylene welding or a gas torch. This study aims to determine the appropriate pre-heating distance for the welding process of AISI 1045 steel, classified as a type of medium carbon steel widely used in shafts, gears, and piston connecting rods in motor vehicles. The parameters used in this study were the pre-heating distances of 1.5cm, 3cm, and 4.5cm that were preheated at a temperature of 150°C, using LB-52U type electrodes with a diameter of 2mm",
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "LPPMPK - Sekolah Tinggi Teknologi Muhammadiyah Cileungsi",
+      "dir": "disk0\/00\/04\/59\/65",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2022-10-26 01:59:33",
+      "full_text_status": "public"
+    },
+    {
+      "dir": "disk0\/00\/04\/59\/49",
+      "publisher": "Faculty of Mechanical Engineering, Univ. of Belgrade",
+      "divisions": [
+        "FT7"
+      ],
+      "status_changed": "2022-10-25 06:52:02",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "abstract": "The low cycle fatigue behavior of magnesium (Mg) AZ31B was observed at room temperature, in which its extrusion process led to differences in tensile and compressive stresses, with an increase in the grain structure and mechanical properties. The extrusion process results showed changes in the microstructure due to cyclic load-deformation at the longitudinal section with grain direction and shape. Furthermore, Mg AZ31B also showed transitional behavior from cyclic softening to hardening when the strain amplitude was increased. At a strain amplitude of 0.006 – 0.01 mm\/mm, the Bauschinger phenomenon was observed. The effect factor was calculated by the yield stress and strain at compression stress. Furthermore, precipitation or local failure of the second phase was the main factor that caused the Bauschinger phenomenon. The fatigue fracture characteristics based on deformation due to cyclic loading include precipitation, fatigue striation, dimples, micro-cracks, and beach mark fatigue. Therefore, the correlation of the total failure cycle with plastic and the elastic strain was obtained as an equation to predict the lifespan of Mg AZ31B.",
+      "date": "2022-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45949",
+      "creators": [
+        {
+          "name": {
+            "given": "Sukmana",
+            "honourific": null,
+            "family": "Irza",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fauzi",
+            "given": "Ibrahim"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Mohammad",
+            "given": "Badaruddin"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null,
+            "given": "Nur"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "Low Cycle Fatigue Properties of Extruded Magnesium AZ31B",
+      "place_of_pub": "FME Transactions",
+      "contact_email": "irza.sukmana@gmail.com",
+      "id_number": "doi:105937\/fme2203422S",
+      "eprint_status": "archive",
+      "eprintid": 45949,
+      "datestamp": "2022-10-25 06:52:02",
+      "metadata_visibility": "show",
+      "userid": 464,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 184766,
+            "main": "FME_Transactions_SJR_Q2_Sept2022_Similarity_Irza.pdf",
+            "files": [
+                {
+                  "fileid": 508788,
+                  "datasetid": "document",
+                  "hash": "99e1d832ee96c3210d733cafc78cc0ab",
+                  "mime_type": "application\/pdf",
+                  "filesize": 2518924,
+                  "objectid": 184766,
+                  "filename": "FME_Transactions_SJR_Q2_Sept2022_Similarity_Irza.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508788",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-25 04:11:05"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184766",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45949
+          }
+      ],
+      "official_url": "https:\/\/www.mas.bg.ac.rs\/_media\/istrazivanje\/fme\/vol50\/3\/4_i_sukmana_et_al.pdf",
+      "lastmod": "2022-10-25 06:52:02"
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Aluminum is a material that is soft, lightweight, resistant to corrosion, and has good electrical and thermal conductivity. Aluminum has a specific gravity of about 2.65-2.8 kg\/dm³, a melting point of 658ºC, and tensile strength of 90 MPa. Aluminum 1100 series is an aluminum alloy mixed with other materials, such as copper, iron, chrome, manganese, and zinc, with an aluminum content of 99,0%. Welding is the joining of two metals in a liquid state with or without filler. FSW (friction stir welding) is friction welding; the process does not require filler material. The heat used to melt the metal is obtained from the friction between the indenter and the workpiece. In the research, the shape of the indenter pin used is, oval shape, cone shape, and changing spiral form with a tool rotation of 2000 rpm and a welding rate of 16 mm\/minute. The tests carried out are Rockwell hardness testing and tensile tests. From the results of research conducted, it was found that the shape of the indenter pin greatly affects the quality of the weld. The indenter pin changing spiral form results in better weld quality compared to the other two pin shapes.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45961",
+      "date": "2022-06",
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "Faculty of Engineering, Universitas Lampung",
+      "dir": "disk0\/00\/04\/59\/61",
+      "full_text_status": "public",
+      "status_changed": "2022-10-26 01:59:19",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "datestamp": "2022-10-26 01:59:19",
+      "id_number": "http:\/\/doi.org\/10.23960\/jesr.v4i1.109",
+      "eprint_status": "archive",
+      "eprintid": 45961,
+      "metadata_visibility": "show",
+      "userid": 464,
+      "official_url": "https:\/\/jesr.eng.unila.ac.id\/index.php\/ojs\/article\/download\/109\/79",
+      "lastmod": "2022-10-26 01:59:19",
+      "documents": [
+          {
+            "format": "text",
+            "main": "JESR_June2022b_Irza_dkk_Similarity.pdf",
+            "docid": 184778,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 508891,
+                  "hash": "5e521aa1db8733257ee4708d4fb953a7",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-25 07:01:46",
+                  "objectid": 184778,
+                  "filesize": 1338831,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508891",
+                  "filename": "JESR_June2022b_Irza_dkk_Similarity.pdf"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 45961,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184778"
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Irza",
+            "given": "Sukmana"
+          }
+        },
+        {
+          "name": {
+            "given": "Nur",
+            "honourific": null,
+            "lineage": null,
+            "family": "Mad"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Agus",
+            "honourific": null,
+            "given": "Sugiri"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sugiyanto",
+            "lineage": null,
+            "given": "Sugiyanto"
+          }
+        },
+        {
+          "name": {
+            "family": "Irfan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hilmy"
+          }
+        }
+      ],
+      "type": "other",
+      "title": "he Effect of Pin Shape on the Friction Stir Welding Quality of Aluminum AA1100 Series",
+      "contact_email": "irza.sukmana@gmail.com",
+      "place_of_pub": "Journal of Engineering and Scientific Research (JESR)"
+    },
+    {
+      "status_changed": "2022-10-25 06:52:24",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "Faculty Engineering, University of Indonesia",
+      "dir": "disk0\/00\/04\/59\/52",
+      "abstract": "Glass-ceramics were fine-grained polycrystalline materials produced by controlled crystallization in the glass phase to have outstanding characteristics. The establishment of basalt from Sukadana - Lampung Province into glass-ceramic begins with the process of reduced size and milled under 200 mesh using an ASTM sieve. The initiated glass-ceramics formation was created by melting the basalt powder at a temperature of 1,250 o C for 2hrs to obtain the glass phase. Glass parent crystallization begins with the stage of nucleation growth. The nucleation process occurs at a temperature 600 o C for 1hr. The crystallization temperature at variations of 850, 950, or 1,050 o C for 3 and 8hrs. The mechanical hardness test result was 637.28 HV1N of the sample with 1,050 o C heating for 3hrs. The highest hardness value is at 837.33 HV1N for a sample of 1,050 o C heating for 8hrs. The hardness value was decreased at samples for 3hrs heating, while it increased for 8hrs of a heating process. All of the heating treatments formed olivine and Anorthite phase but a pyroxene phase was initiated from 950 o C heating process for 3hrs. The use of glass ceramic as an engineering material and biomaterials are promising. It is necessary to continue the development studies on the production process of local basalt resources.",
+      "date": "2022-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45952",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "place_of_pub": "International Journal of Technology",
+      "contact_email": "irza.sukmana@gmail.com",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "family": "Irza",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sukmana"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yusuf",
+            "lineage": null,
+            "given": "Hendronursito"
+          }
+        },
+        {
+          "name": {
+            "given": "Savetlana",
+            "honourific": null,
+            "lineage": null,
+            "family": "Shirley"
+          }
+        },
+        {
+          "name": {
+            "family": "K.",
+            "lineage": null,
+            "honourific": null,
+            "given": "Isnugroho"
+          }
+        },
+        {
+          "name": {
+            "given": "Amin",
+            "family": "M",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "David C.",
+            "lineage": null,
+            "given": "Birawidha"
+          }
+        }
+      ],
+      "title": "Characterization and Potential Production of Glass-Ceramics Biomaterial from Basalt Rock of Local Lampung Province",
+      "userid": 464,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184769",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45952,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "IJTech_SJR_Q2_Oct2022_Similarity_Irza.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 508815,
+                  "mime_type": "application\/pdf",
+                  "hash": "64970b798c3719b89aaefd021f58fd15",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-25 04:36:15",
+                  "objectid": 184769,
+                  "filesize": 539923,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508815",
+                  "filename": "IJTech_SJR_Q2_Oct2022_Similarity_Irza.pdf"
+                }
+            ],
+            "docid": 184769,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2022-10-25 06:52:24",
+      "official_url": "https:\/\/ijtech.eng.ui.ac.id\/article\/view\/4958#article",
+      "id_number": "https:\/\/doi.org\/10.14716\/ijtech.v13i4.4958",
+      "eprint_status": "archive",
+      "eprintid": 45952,
+      "datestamp": "2022-10-25 06:52:24",
+      "metadata_visibility": "show"
+    },
+    {
+      "creators": [
+        {
+          "id": "asnawi.lubis@eng.unila.ac.id",
+          "name": {
+            "given": "Asnawi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Lubis"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rahardian Putra",
+            "given": "Muhammad"
+          }
+        },
+        {
+          "id": "jamiatul.akmal@eng.unila.ac.id",
+          "name": {
+            "given": "Jamiatul",
+            "family": "Akmal",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "novri.tanti@eng.unila.ac.id",
+          "name": {
+            "given": "Novri",
+            "family": "Tanti",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Ahmad",
+            "family": "Suudi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ahmad.suudi@eng.unila.ac.id"
+        }
+      ],
+      "type": "other",
+      "title": "Stress assessment pada bonding tube dengan beban tekanan eksternal",
+      "contact_email": "asnawi.lubis@eng.unila.ac.id",
+      "place_of_pub": "Jurnal Teknik Mesin Indonesia",
+      "datestamp": "2023-04-03 00:56:54",
+      "eprint_status": "archive",
+      "referencetext": "[1] E. Budiman, 2017, Construction challenge of \r\nsubmerged floating tunnel in Indonesiae. Jurnal\r\nTeknik Sipil Vol 1(2), (pp.1-7). \r\n[2] H. Østlid, 2010, When is SFT competitive?\r\nProcedia Engineering, 4, 3–11. \r\n[3] B. Faggiano, R. Landolfo, F. Mazzolani, 2005,\r\nThe SFT: an innovative solution for waterway\r\nstrait crossing. IABSE Symposium Report,\r\n90(10), 36-42. \r\n[4] J. Saveur, 1997, Structural Design of\r\nImmersed Tunnels, Tunneling and Underground. Space Technology, vol.12,\r\n93–109.  \r\n[5] F.M. Mazzolani, R. Landolfo, B. Faggiano, M.\r\nEsposto, F. Perotti, & G. Barbella, 2008,\r\nStructural analysis of submerged floating tunnel\r\nprototype in Qiandau Lake (PR of Chine).\r\nAdvances in Structural Engineering, 11(4),\r\n(pp.439-454). \r\n[6] S.P. Timoshenko, and S. Woinowsky-Krieger,\r\n1959, Theory of Plates and Shells. Singapore:\r\nMcGraw-Hill Book Co.",
+      "eprintid": 49553,
+      "metadata_visibility": "show",
+      "userid": 457,
+      "lastmod": "2023-04-03 00:56:54",
+      "official_url": "http:\/\/ojs3.bkstm.org\/index.php\/jtmi\/article\/view\/295\/143",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537404",
+                  "filename": "Bukti_Korespondensi_JTMI_April-2022.pdf",
+                  "objectid": 189186,
+                  "filesize": 405639,
+                  "mtime": "2023-04-01 23:06:51",
+                  "hash_type": "MD5",
+                  "hash": "df869ce56817cb4dd949371e6c7c2132",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 537404
+                }
+            ],
+            "main": "Bukti_Korespondensi_JTMI_April-2022.pdf",
+            "docid": 189186,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189186",
+            "pos": 1,
+            "eprintid": 49553,
+            "placement": 1
+          }
+      ],
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "BKSTM",
+      "dir": "disk0_bak\/00\/04\/95\/53",
+      "full_text_status": "public",
+      "status_changed": "2023-04-03 00:56:54",
+      "keywords": "struktur silindris, SFT, hoop stress, gaya radial, gaya geser.",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "abstract": "Struktur silinder (tabung) dapat digunakan untuk sistem transportasi antar pulau, dibangun sebagai\r\nterowongan terapung terendam (SFT). Struktur utama SFT adalah tabung berlapis yang digabung dan tali\r\ntambat untuk menahan gaya apung. Kajian ini menyajikan hasil stress assessment pada tabung silinder berlapis\r\ndengan beban tekanan eksternal dari air laut. Pemodelan dan analisis dilakukan dengan metode elemen hingga\r\nmenggunakan ANSYS. Tabung terdiri dari tiga lapisan: lapisan terdalam adalah baja setebal 30 mm, lapisan\r\ntengah adalah beton setebal 450 mm dan lapisan terluar adalah aluminium setebal 150 mm. Diameter dalam\r\ndan luar tabung masing-masing adalah 5 m dan 6,26 m. Beban yang diberikan adalah tekanan internal sebesar\r\n101 kPa (1 atm) dan tekanan eksternal hidrostatis pada kedalaman 500 m sebesar 5,35 MPa. Hasil kajian\r\nmenunjukkan bahwa hoop stress terbesar terjadi pada lapisan baja, diikuti oleh lapisan aluminium dan lapisan\r\nbeton. Untuk radial stress yang merupakan tegangan tekan, nilai terbesar terdapat pada lapisan aluminium dan\r\nnilai yang lebih kecil terdapat pada lapisan terdalam (baja). Untuk tegangan geser, tegangan pada lapisan baja\r\ndan beton jauh lebih kecil dibandingkan dengan tegangan pada lapisan aluminium.",
+      "date": "2022-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49553"
+    },
+    {
+      "lastmod": "2022-10-26 01:59:55",
+      "official_url": "http:\/\/e-jurnal.pnl.ac.id\/polimesin\/article\/view\/2961",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 45969,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184786",
+            "pos": 1,
+            "security": "public",
+            "docid": 184786,
+            "main": "Polimesin_Aug2022_Arif_Irza_Similarity.pdf",
+            "files": [
+                {
+                  "hash": "076449ae33a7203bd54422ba9c1ea1e1",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 508948,
+                  "filename": "Polimesin_Aug2022_Arif_Irza_Similarity.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508948",
+                  "objectid": 184786,
+                  "filesize": 1110433,
+                  "mtime": "2022-10-25 07:48:57",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 464,
+      "metadata_visibility": "show",
+      "datestamp": "2022-10-26 01:59:55",
+      "id_number": "http:\/\/dx.doi.org\/10.30811\/jpl.v20i2.2961",
+      "eprint_status": "archive",
+      "eprintid": 45969,
+      "contact_email": "irza.sukmana@gmail.com",
+      "place_of_pub": "Jurnal Polimesin",
+      "title": "Finite Element Analysis of Magnesium AZ31B Materials for Biodegradable Bone Screw Application",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "family": "Mahruri Arif",
+            "lineage": null,
+            "honourific": null,
+            "given": "Wicaksono"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Irza",
+            "honourific": null,
+            "given": "Sukmana"
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45969",
+      "date": "2022-08",
+      "abstract": "The bone implant functions for the load bearing and aims to support the integration of fractured bone. It may increase the strength of the broken bones and also at the same time support bone regeneration and integration. Bone screws are usually attached to the implant plate and bonded to the surface of the fractured bone by screwing the bone screws through the bone structure. In its implementation, a non-degradable implant needs a second operation for the patient to take out the implant. Currently, biomedical researchers are trying to produce bone implants that are degradable or bioresorbable materials. Magnesium (Mg) alloy is a potential biomaterial for bone implants, as Mg is a degradable material. Mg is one of the elements needed and harmless to the human body. This study focuses on finite element analysis (FEA) for the bone screw design of Magnesium alloy that has been well known as a potential candidate for biodegradable bone screw and plate application. The three dimensions (3D) design was done by using Solidworks software, and finite element analysis was performed using ANSYS by calculating the moment, pullout, and force bending received by bone screws. The validatation results of the design carried out with several analytical tests before the production of bone screws is proposed. Th e FEA simulation of bone screws pullout has a total deformation of 0.028 mm and a von Mises stress of 134.25 MPa for a pullout load of 1100 N. The bone screws torsion with a torque of 883 N.mm, the total deformation is 0.988 mm and for bone screws bending with a total deformation of 5,4352 mm has a von Mises stress of 25.706 MPa. AZ31B bone screws, based on the design, are safe and capable of handling the maximum load and deformation during the implantation. In vitro biocompatibility and in vivo studies is needed for further assessment of the design.",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2022-10-26 01:59:55",
+      "publisher": "Department Of Mechanical Engineering, Lhokseumawe State Polytecnic",
+      "dir": "disk0\/00\/04\/59\/69",
+      "divisions": [
+        "FT7"
+      ]
+    },
+    {
+      "contact_email": "irza.sukmana@gmail.com",
+      "place_of_pub": "Infotekmesin",
+      "title": "Study Analisis Elemen Tetrahedron dan Hexahedron Plat Tulang Material Magnesium AZ31B dengan Finite Element Method (FEM)",
+      "creators": [
+        {
+          "name": {
+            "given": "Wicaksono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Mahruri Arif"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Irza",
+            "honourific": null,
+            "given": "Sukmana"
+          }
+        }
+      ],
+      "type": "other",
+      "official_url": "https:\/\/ejournal.pnc.ac.id\/index.php\/infotekmesin\/article\/view\/1039",
+      "lastmod": "2022-10-25 06:52:26",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 184770,
+            "main": "Infotekmesin_Jan2022_Similarity_Irza.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 508823,
+                  "mime_type": "application\/pdf",
+                  "hash": "27b89b710900df95b0eed3c0ac9125ad",
+                  "objectid": 184770,
+                  "filesize": 822431,
+                  "filename": "Infotekmesin_Jan2022_Similarity_Irza.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508823",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-25 04:43:54"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184770",
+            "pos": 1,
+            "eprintid": 45953,
+            "placement": 1
+          }
+      ],
+      "userid": 464,
+      "metadata_visibility": "show",
+      "datestamp": "2022-10-25 06:52:26",
+      "eprintid": 45953,
+      "id_number": "10.35970\/infotekmesin.v13i1.1039, pp.131-137",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2022-10-25 06:52:26",
+      "publisher": "Pusat Penelitian dan Pengabdian Masyarakat (P3M) Politeknik Negeri Cilacap",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/04\/59\/53",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45953",
+      "date": "2022-01",
+      "abstract": "Plat tulang berbahan logam merupakan implan ortopedi yang sangat sering digunakan karena sifat mekaniknya yang kuat. Penelitian ini bertujuan untuk melakukan analisis elemen hingga (FEM) berbasis data uji tekuk tiga titik sesuai standar ASTM F382-99. Dimensi plat yang digunakan adalah 120 mm x 14 mm x 5 mm (panjang x lebar x tebal) dan memiliki 6 dan 10 lubang baut. Beban yang diberikan pada analisis plat sebesar 986,89 N serta ukuran elemen 0,55 mm. Elemen hexahedron memiliki jumlah total elemen 62.179 untuk 6 lubang dan 62.960 elemen untuk 10 lubang. Selanjutnya, jumlah total elemen tetrahedron adalah 63.609 elemen untuk 6 lubang dan 64.822 elemen untuk 10 lubang. Perhitungan FEM untuk plat dengan 6 lubang dan 10 lubang menggunakan elemen hexahedron masing-masing menghasilan total deformasi 6,1963 mm dan 6,7852 mm. Selanjutnya, elemen tetrahedron untuk plat dengan 6 lubang dan 10 lubang menghasilkan total deformasi masing-masing sebesar 6,1762 mm dan 6,7651 mm. Berdasarkan data di atas, dapat disimpulkan bahwa perhitungan FEM untuk sampel plat tulang menggunakan elemen hexahedron lebih akurat dibanding tetrahedron.",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44203",
+      "date": 2022,
+      "abstract": "Produk perkebunan merupakan salah satu komoditas yang sangat penting Indonesia. Duku adalah salas satu produk perkebunan musiman yang menjadi salah satu sumber pendapatan ketika panen. Namun, umur simpan duku sangat pendek, batas \r\npenyimpanan buah duku tidak lebih dari satu minggu. Buah duku akan mengalami perubahan pada warna buah, buah segar akan mengalami kecoklatan pada umur 3 sampai 5 hari pasca panen. Berubahnya warna buah duku menjadi kecoklatan tersebut tentunya dapat menurunkan kualitas dan harga dari buah duku tersebut. Pendeknya umur penyimpanan buah duku tersebut merupakan salah satu sulitnya penjualan duku. \r\nPenelitian ini melakukan pengklasifikasian duku sesuai warna dengan mengembangkan konveyor sabuk sebagai alat untuk melakukan sortasi duku berdasar warna dengan mikrokontroler. Sistem sortasi menjadi penting dalam mengelompokkan duku dalam umur yang sama sehingga dapat dipilih duku untuk pasar lokal yang sudah matang, duku untuk pasar luar yang belum matang dan akan matang dalam perjalanan serta duku yang \r\ncacat. Adapun tujuan dari riset ini adalah membuat sistem sortasi warna buah duku berbasis mikrokontroler dan mengembangkan sistem yang dapat memisahkan tiga kelompok kelas duku, duku kelas super, duku kelas a dan duku kelas b berdasar warna dengan sensor AS7262.",
+      "volume": 10,
+      "subjects": [
+        "T1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 11,
+      "full_text_status": "public",
+      "status_changed": "2022-08-24 01:57:45",
+      "publication": "Jurnal Informatika dan Teknik Elektro Terapan",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/04\/42\/03",
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jitet\/article\/view\/2446",
+      "lastmod": "2022-08-24 01:57:45",
+      "documents": [
+          {
+            "eprintid": 44203,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166281",
+            "format": "text",
+            "main": "Pengembangan Sistem Sortasi Buah Duku (Lansium Domesticum) Berdasar Warna Menggunakan Mikrokontroler Arduino dan Sensor Warna AS7262.pdf",
+            "docid": 166281,
+            "files": [
+                {
+                  "filename": "Pengembangan Sistem Sortasi Buah Duku (Lansium Domesticum) Berdasar Warna Menggunakan Mikrokontroler Arduino dan Sensor Warna AS7262.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/480474",
+                  "filesize": 712756,
+                  "objectid": 166281,
+                  "mtime": "2022-08-23 21:49:30",
+                  "hash_type": "MD5",
+                  "hash": "baaaf8c6a7d7179df50a8831845cff56",
+                  "mime_type": "application\/pdf",
+                  "fileid": 480474,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 1179,
+      "number": 2,
+      "metadata_visibility": "show",
+      "pagerange": "113-121",
+      "datestamp": "2022-08-24 01:57:45",
+      "eprintid": 44203,
+      "eprint_status": "archive",
+      "title": "Pengembangan Sistem Sortasi Buah Duku (Lansium Domesticum) Berdasar Warna Menggunakan Mikrokontroler Arduino dan Sensor Warna AS7262",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "given": "Martinus",
+            "lineage": null,
+            "family": "Martinus",
+            "honourific": null
+          }
+        },
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "given": "Irza",
+            "honourific": null,
+            "family": "Sukmana",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Herry",
+            "lineage": null,
+            "family": "Wardono",
+            "honourific": null
+          },
+          "id": "herryw22@gmail.com"
+        },
+        {
+          "id": "riszal.eng@gmail.com",
+          "name": {
+            "given": "Akhmad",
+            "honourific": null,
+            "lineage": null,
+            "family": "Riszal"
+          }
+        },
+        {
+          "id": "mareli.telaumbanua@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Telaumbanua",
+            "lineage": null,
+            "given": "Mareli"
+          }
+        },
+        {
+          "name": {
+            "given": "Ahmad",
+            "honourific": null,
+            "lineage": null,
+            "family": "Suudi"
+          },
+          "id": "ahmad.suudi@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Muhammad",
+            "lineage": null,
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Putra",
+            "given": "Eko Yuliansyah"
+          },
+          "id": null
+        },
+        {
+          "id": "zulmiftah.huda@eng.unila.ac.id",
+          "name": {
+            "given": "Zulmiftah",
+            "lineage": null,
+            "family": "Huda",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Septiana",
+            "honourific": null,
+            "given": "Trisya"
+          },
+          "id": "trisya.septiana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "PANJI",
+            "lineage": null,
+            "family": "KURNIAWAN",
+            "honourific": null
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "userid": 24,
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "56f8f8175ed656491a70d5aa1b9b445b",
+                  "datasetid": "document",
+                  "fileid": 484801,
+                  "mtime": "2022-09-14 07:50:32",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/484801",
+                  "filename": "Set-Submerged Floating Tunnel Bridge.pdf",
+                  "filesize": 991522,
+                  "objectid": 166864
+                }
+            ],
+            "main": "Set-Submerged Floating Tunnel Bridge.pdf",
+            "docid": 166864,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 44944,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166864"
+          }
+      ],
+      "official_url": "https:\/\/asasijournal.id\/index.php\/jiae\/article\/view\/35",
+      "id_number": "https:\/\/doi.org\/10.51662\/jiae.v2i1.35",
+      "eprintid": 44944,
+      "eprint_status": "archive",
+      "datestamp": "2022-09-14 09:43:00",
+      "pagerange": "19-32",
+      "refereed": "FALSE",
+      "corp_creators": [
+        "Department of Mechanical Engineering, Universitas Lampung, Indonesia",
+        "Department of Mechanical Engineering, Universitas Lampung, Indonesia",
+        "Department of Mechanical Engineering, Universitas Lampung, Indonesia"
+      ],
+      "abstract": "One of the problems in archipelagic countries is the land transportation system that has not been integrated between islands. In a relatively wide strait and with a high level of depth, it is impossible to build a bridge. In this case, a submerged floating tunnel bridge\/SFTB would be an effective choice. SFTB is an underwater tunnel transport route submerged between the seabed and the surface. Known as the \"Archimedes Bridge\", the basic principle is balancing buoyancy and tension in the mooring cables. Previous studies on SFTB are still in the form of theoretical concepts and ideas. Further research is needed in all relevant sub-topics to actualize the SFTB. This article reviews previous studies, which are grouped into three subtopics : (1) materials and construction, (2) dynamic analysis, and (3) feasibility\/sustainability studies. At the end of this article, a list of research topics that need further study is presented",
+      "date": "2022-03",
+      "issn": "2774-6038",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Asosiasi Staf Akademik Perguruan Tinggi Seluruh Indonesia (ASASI)",
+      "related_url": [
+        {
+          "url": "https:\/\/doi.org\/10.51662\/jiae.v2i1.35"
+        }
+      ],
+      "lastmod": "2022-09-14 09:43:00",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nugraha",
+            "given": "Nurcahya"
+          },
+          "id": "nurcahyanugraha11@gmail.com"
+        },
+        {
+          "id": "jamiatul.akmal@eng.unila.ac.id",
+          "name": {
+            "given": "Jamiatul",
+            "honourific": null,
+            "lineage": null,
+            "family": "Akmal"
+          }
+        },
+        {
+          "id": "asnawi.lubis@eng.unila.ac.id",
+          "name": {
+            "given": "Asnawi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Lubis"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Submerged Floating Tunnel Bridge (SFTB): A Status Report and Evaluation of Technology Readiness Level (TRL)",
+      "volume": 2,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44944",
+      "subjects": [
+        "TG"
+      ],
+      "date_type": "published",
+      "status_changed": "2022-09-14 09:43:00",
+      "rev_number": 9,
+      "dir": "disk0\/00\/04\/49\/44",
+      "publication": "Submerged Floating Tunnel Bridge (SFTB): A Status Report and Evaluation of Technology Readiness Level (TRL)",
+      "divisions": [
+        "FT7"
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Sustainable Design Implementation – Measuring Environmental Impact and User Responsibility",
+      "creators": [
+        {
+          "id": "achmad.yahya@eng.unila.ac.id",
+          "name": {
+            "given": "Yahya",
+            "honourific": null,
+            "lineage": null,
+            "family": "Panuju"
+          }
+        },
+        {
+          "name": {
+            "given": "Martinus",
+            "lineage": null,
+            "family": ".",
+            "honourific": null
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "id": "riszal.eng@gmail.com",
+          "name": {
+            "given": "Akhmad",
+            "lineage": null,
+            "family": "Riszal",
+            "honourific": null
+          }
+        },
+        {
+          "id": "kobayashi@mech.eng.osaka-u.ac.jp",
+          "name": {
+            "given": "Hideki",
+            "family": "Kobayashi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "main": "martinus-jurnal-2022-Sustainable_Design_Implementation.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 536582,
+                  "mime_type": "application\/pdf",
+                  "hash": "3060596ecd99c9e1eebe9d4923d0c187",
+                  "filesize": 944761,
+                  "objectid": 189020,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536582",
+                  "filename": "martinus-jurnal-2022-Sustainable_Design_Implementation.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 16:30:55"
+                }
+            ],
+            "docid": 189020,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189020",
+            "security": "public",
+            "formatdesc": "artikel",
+            "placement": 1,
+            "eprintid": 49459
+          },
+          {
+            "docid": 189021,
+            "main": "martinus-similiarity-Sustainable Design Implementation.png",
+            "files": [
+                {
+                  "mime_type": "image\/png",
+                  "hash": "d062af7f2ea2292e8f9134babe3a2648",
+                  "datasetid": "document",
+                  "fileid": 536584,
+                  "mtime": "2023-03-30 16:31:00",
+                  "hash_type": "MD5",
+                  "filename": "martinus-similiarity-Sustainable Design Implementation.png",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536584",
+                  "objectid": 189021,
+                  "filesize": 116184
+                }
+            ],
+            "format": "text",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "image\/png",
+            "placement": 2,
+            "eprintid": 49459,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189021",
+            "pos": 2,
+            "security": "public",
+            "formatdesc": "similiarity"
+          },
+          {
+            "security": "public",
+            "formatdesc": "Korespondensi",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189022",
+            "pos": 3,
+            "eprintid": 49459,
+            "placement": 3,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "format": "text",
+            "main": "martinus-korespondensi-Sustainable Design Implementation.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 16:31:09",
+                  "objectid": 189022,
+                  "filesize": 87957,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536586",
+                  "filename": "martinus-korespondensi-Sustainable Design Implementation.pdf",
+                  "fileid": 536586,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "629db876fe38c614441a9c3696ae0050"
+                }
+            ],
+            "docid": 189022
+          }
+      ],
+      "official_url": "https:\/\/www.fujipress.jp\/ijat\/au\/",
+      "lastmod": "2023-03-31 00:48:56",
+      "number": 6,
+      "userid": 217,
+      "pagerange": "814-823",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.20965\/ijat.2022.p0814",
+      "eprintid": 49459,
+      "eprint_status": "archive",
+      "datestamp": "2023-03-31 00:48:56",
+      "rev_number": 15,
+      "ispublished": "pub",
+      "status_changed": "2023-03-31 00:48:56",
+      "issn": "1883-8022",
+      "full_text_status": "public",
+      "publisher": "Fuji Technology Press Ltd",
+      "publication": "International Journal of Automation Technology",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0_bak\/00\/04\/94\/59",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49459",
+      "date": "2022-11-05",
+      "volume": 16,
+      "abstract": "Sustainable design in product development has multiple roles in addressing an increased level of sustainability. This includes reducing resource consumption and modifying user behaviors to become more eco-friendly. However, these functions are typically assessed separately, despite a proposed mutual correlation. This paper proposes a framework for defining this correlation. By using the correlated functions in parallel, one can enhance the product development process, and this will strengthen the use of sustainable design as a powerful design tool for future products. A practical approach for implementation is needed, which should show the benefit of the design both from the environmental aspect and a change in the responsibility of users. The primary goal of this manuscript is to propose an approach to fill this gap, using experiments to explore the effect of a washing machine modification project in Indonesia. Resource consumption while doing the laundry is measured as a representation of the environmental impact, while the users’ predisposition for environmental responsibility inclination is analyzed by scaling the responsibility. The results show that the sustainable design strategy is effective in reducing the environmental impact while simultaneously increasing the environmental responsibility of users. Further study is required to define the correlation between the measured factors to formulate a well-developed theory related to this correlation.",
+      "subjects": [
+        "T1",
+        "TA",
+        "TD",
+        "TJ"
+      ],
+      "date_type": "published"
+    },
+    {
+      "metadata_visibility": "show",
+      "lastmod": "2022-11-07 01:38:13",
+      "creators": [
+        {
+          "id": "achmad.yahya@eng.unila.ac.id",
+          "name": {
+            "given": "Yahya",
+            "lineage": null,
+            "family": "Panuju",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Martinus",
+            "honourific": null,
+            "given": "Martinus"
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Riszal",
+            "lineage": null,
+            "family": "Akhmad Riszal",
+            "honourific": null
+          },
+          "id": "riszal.eng@gmail.com"
+        }
+      ],
+      "type": "article",
+      "title": "Sustainable Design Implementation – Measuring Environmental Impact and User Responsibility",
+      "subjects": [
+        "T1",
+        "TA",
+        "TD",
+        "TJ"
+      ],
+      "date_type": "published",
+      "volume": 16,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46294",
+      "divisions": [
+        "FT7"
+      ],
+      "publication": "International Journal of Automation Technology",
+      "dir": "disk0\/00\/04\/62\/94",
+      "funders": [
+        "BLU Unila"
+      ],
+      "status_changed": "2022-11-07 01:38:13",
+      "rev_number": 9,
+      "eprint_status": "archive",
+      "eprintid": 46294,
+      "id_number": "doi: 10.20965\/ijat.2022.p0814",
+      "datestamp": "2022-11-07 01:38:13",
+      "pagerange": "814-823",
+      "number": 6,
+      "userid": 59,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185178",
+            "pos": 1,
+            "eprintid": 46294,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 185178,
+            "main": "Fujipress_IJAT-16-6-14.pdf",
+            "files": [
+                {
+                  "objectid": 185178,
+                  "filesize": 944761,
+                  "filename": "Fujipress_IJAT-16-6-14.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/511384",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-05 01:48:43",
+                  "fileid": 511384,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "3060596ecd99c9e1eebe9d4923d0c187"
+                }
+            ]
+          }
+      ],
+      "official_url": "https:\/\/www.fujipress.jp\/ijat\/au\/",
+      "refereed": "TRUE",
+      "abstract": "Sustainable design in product development has multiple roles in addressing an increased level of sustainability. This includes reducing resource consumption and modifying user behaviors to become more eco-friendly. However, these functions are typically assessed separately, despite a proposed mutual correlation. This paper proposes a framework for defining this correlation. By using the correlated functions in parallel, one can enhance the product development process, and this will strengthen the use of sustainable design as a powerful design tool for future products. A practical approach for implementation is needed, which should show the benefit of the design both from the environmental aspect and a change in the responsibility of users. The primary goal of this manuscript is to propose an approach to fill this gap, using experiments to explore the effect of a washing machine modification project in Indonesia. Resource consumption while doing the laundry is measured as a representation of the environmental impact, while the users’ predisposition for environmental responsibility inclination is analyzed by scaling the responsibility. The results show that the sustainable design strategy is effective in reducing the environmental impact, while simultaneously increasing the environmental responsibility of users. Further study is required to define the correlation between the measured factors to formulate a well-developed theory related to this correlation.",
+      "date": "2022-11-05",
+      "publisher": "Fuji Technology Press Ltd",
+      "related_url": [
+        {
+          "url": "https:\/\/www.fujipress.jp\/ijat\/au\/ijate001600060814\/"
+        }
+      ],
+      "issn": "1883-8022",
+      "full_text_status": "public",
+      "ispublished": "pub"
+    },
+    {
+      "refereed": "TRUE",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 59,
+      "number": 2,
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/mech\/article\/view\/3040",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 52036,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251757",
+            "pos": 1,
+            "security": "public",
+            "main": "Mech_Aplikasi_Panuju2023.pdf",
+            "docid": 251757,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 616522,
+                  "mime_type": "application\/pdf",
+                  "hash": "f605a33a044ca45ca161c0ca69271ae2",
+                  "objectid": 251757,
+                  "filesize": 254025,
+                  "filename": "Mech_Aplikasi_Panuju2023.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/616522",
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-27 23:55:58"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2023-07-10 01:55:34",
+      "eprint_status": "archive",
+      "eprintid": 52036,
+      "pagerange": "1-7",
+      "issn": "2087-1880",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/mech\/article\/view\/3040"
+        }
+      ],
+      "publisher": "Jurusan Teknik Mesin Universitas Lampung",
+      "abstract": "Kegiatan konsumsi rumah tangga di perkotaan menjadi salah satu aspek yang berkontribusi tinggi pada permasalahan lingkungan, yang meliputi pemakaian sumber daya, produksi emisi dan limbah rumah tangga baik berupa gas, padat maupun cair. Salah satu alternatif cara untuk menekan kerusakan yang disebabkan oleh aktivitas konsumsi rumah tangga ini adalah melalui penggunaan produk-produk yang bersifat lebih ramah lingkungan, walaupun efektivitas dari strategi ini masih banyak diperdebatkan. Artikel ini memaparkan strategi desain ramah lingkungan pada produk rumah tangga, melalui penelusuran penelitian-penelitian yang telah dilakukan sebelumnya. Dari sekian strategi yang dipaparkan maka dipilih salah satu strategi untuk diterapkan yaitu ‘eco-information’ ke dalam produk mesin cuci 2 tabung, yang saat ini banyak digunakan oleh masyarakat Indonesia. Aplikasi strategi dilakukan dengan memberikan modifikasi desain kepada mesin cuci, di mana pengguna dapat melihat penggunaan air dan listrik secara langsung pada saat proses pencucian sehingga dapat meningkatkan kesadaran \/ awareness pengguna akan sumber daya yang dipakai. Efektivitas strategi ini diuji melalui eksperimen yang melibatkan responden, di mana konsumsi air sebelum dan sesudah penerapan strategi dicatat dan dianalisis lebih lanjut, dan didapatkan bahwa penerapan strategi memberikan efek yang signifikan pada perilaku pengguna mesin cuci terkait konsumsi air.",
+      "date": "2022-09",
+      "creators": [
+        {
+          "id": "achmad.yahya@eng.unila.ac.id",
+          "name": {
+            "given": "Yahya",
+            "honourific": null,
+            "family": "Panuju",
+            "lineage": null
+          }
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "family": "Martinus",
+            "lineage": null,
+            "honourific": null,
+            "given": "Martinus"
+          }
+        },
+        {
+          "id": "arinal.hamni@yahoo.com",
+          "name": {
+            "given": "Arinal",
+            "honourific": null,
+            "family": "Hamni",
+            "lineage": null
+          }
+        },
+        {
+          "id": "tarkono_irfan@yahoo.com",
+          "name": {
+            "given": "Tarkono",
+            "honourific": null,
+            "lineage": null,
+            "family": "Tarkono"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Aplikasi Strategi Desain Ramah Lingkungan pada Produk Rumah Tangga: Modifikasi Produk Mesin Cuci 2 Tabung",
+      "lastmod": "2023-07-10 01:55:34",
+      "metadata_visibility": "show",
+      "status_changed": "2023-07-10 01:55:34",
+      "rev_number": 8,
+      "dir": "disk0_bak\/00\/05\/20\/36",
+      "publication": "Mechanical Jurnal Ilmiah Teknik Mesin",
+      "divisions": [
+        "FT7"
+      ],
+      "funders": [
+        "DIPA FT Unila"
+      ],
+      "volume": 13,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52036",
+      "date_type": "published",
+      "subjects": [
+        "T1",
+        "TA",
+        "TJ"
+      ]
+    },
+    {
+      "event_location": "Bandar Lampung, Indonesia",
+      "title": "Electric Car Design and Aerodynamics Analysis for Green Campus Unila E-Car",
+      "event_dates": "27–28 August 2021",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "family": "Riszal",
+            "lineage": null,
+            "honourific": null,
+            "given": "Akhmad"
+          },
+          "id": "riszal.eng@gmail.com"
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Martinus"
+          }
+        },
+        {
+          "id": "ahmad.yonanda@yahoo.com",
+          "name": {
+            "given": "Ahmad",
+            "family": "Yonanda",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "https:\/\/doi.org\/10.1063\/5.0111077",
+      "lastmod": "2023-03-31 00:48:51",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 49458,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189017",
+            "pos": 1,
+            "formatdesc": "Artikel",
+            "security": "public",
+            "docid": 189017,
+            "main": "martinus-prosiding-2022-Electric car design and aerodynamics.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 536566,
+                  "mime_type": "application\/pdf",
+                  "hash": "4b814afb74e39c58aab7cbae9131827d",
+                  "objectid": 189017,
+                  "filesize": 1048657,
+                  "filename": "martinus-prosiding-2022-Electric car design and aerodynamics.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536566",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-30 16:13:16"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 3,
+            "content": "published"
+          },
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "16fabd9ac0fbf8e31d16f95eacce2fde",
+                  "fileid": 536568,
+                  "datasetid": "document",
+                  "mtime": "2023-03-30 16:13:34",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536568",
+                  "filename": "martinus-prosiding-2022-Electric car design and aerodynamics.pdf.pdf",
+                  "objectid": 189018,
+                  "filesize": 1080431
+                }
+            ],
+            "main": "martinus-prosiding-2022-Electric car design and aerodynamics.pdf.pdf",
+            "docid": 189018,
+            "format": "text",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "other",
+            "placement": 2,
+            "eprintid": 49458,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189018",
+            "formatdesc": "Cek Similiarity",
+            "security": "public"
+          }
+      ],
+      "userid": 217,
+      "metadata_visibility": "show",
+      "datestamp": "2023-03-31 00:48:51",
+      "eprintid": 49458,
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "rev_number": 13,
+      "full_text_status": "public",
+      "status_changed": "2023-03-31 00:48:51",
+      "event_type": "conference",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0_bak\/00\/04\/94\/58",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49458",
+      "date": "2022-10-31",
+      "abstract": "The use of fossil energy is very influential on environmental sustainability. The impact we have felt is global warming with an uncertain season. So we must have a commitment to reduce the consumption of fossil fuels in order to maintain a sustainable environment. This is in line with the commitment of the University of Lampung (UNILA) in making the Unila campus a Green Campus. One of the technologies that can encourage the realization of a green campus is electric vehicles around campus. The purpose of this analysis is to determine the design of the shape or geometry of the vehicle and the aerodynamic analysis of the vehicle with speed variations of 10 and 20 m\/s. This research uses the Research and Development (R&D) type of research and is carried out to make an optimal vehicle design with aerodynamic studies. This study uses the Software Ansys Workbench with CFD solver and using m etode k-epsilon turbulence realizable standard wall function.",
+      "date_type": "published",
+      "subjects": [
+        "T1",
+        "TJ",
+        "TL"
+      ],
+      "event_title": "THE 2ND UNIVERSITAS LAMPUNG INTERNATIONAL CONFERENCE ON SCIENCE, TECHNOLOGY, AND ENVIRONMENT (ULICoSTE) 2021"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "shirley.savetlana@eng.unila.ac.id",
+          "name": {
+            "given": "Shirley",
+            "lineage": null,
+            "family": "Savetlana",
+            "honourific": null
+          }
+        },
+        {
+          "id": "zulhanif1973@gmail.cim",
+          "name": {
+            "given": "zulhanif",
+            "honourific": null,
+            "family": "Zulhanif",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Harnowo",
+            "honourific": null,
+            "family": "Supriadi",
+            "lineage": null
+          },
+          "id": "harnowo1969@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "The effect of barite addition and graphite particle size on the specific abrasion of fly-ash\/phenolic composite for brake lining application",
+      "eprintid": 46379,
+      "eprint_status": "archive",
+      "datestamp": "2022-11-09 04:30:48",
+      "pagerange": "8-13",
+      "metadata_visibility": "show",
+      "number": 6,
+      "userid": 418,
+      "documents": [
+          {
+            "main": "ARTIKEL KOMPOSIT.pdf",
+            "files": [
+                {
+                  "fileid": 512015,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "b10d28fc4395be00bd197f133411e1b2",
+                  "objectid": 185260,
+                  "filesize": 1453505,
+                  "filename": "ARTIKEL KOMPOSIT.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512015",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-09 02:25:35"
+                }
+            ],
+            "docid": 185260,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 46379,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185260",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/doi.org\/10.23960\/jesr.v4i1.102",
+      "lastmod": "2022-11-09 04:30:48",
+      "publisher": "Faculty of Enginerring University of Lampung",
+      "publication": "Journal of Engineering and Scientific Research (JESR)",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/04\/63\/79",
+      "status_changed": "2022-11-09 04:30:48",
+      "issn": "pISSN268-0338 ; eISSN 268-1695",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "volume": 4,
+      "abstract": "Annually,  million  tons  of  fly-ash  and  bottom  fly-ash  is  a  waste  of  coal  power plant. Fly ash contains Iron-oxide, alumina and silica. Those hard particle makes fly-ash can be used as a reinforcement in polymer composite. This composite is a wear  resistance  material  and  can  be  used  as  material  for  brake  lining application. Fly ash reinforced phenolic composite has a low specific abrasion. The composite  for brake lining material  consisted of the reinforcement, friction modifier,  solid  lubricant  and  filler.  Graphite  is  used  as  solid  lubricant  while barite is used as filler. Many research were carried out research on the particle size  effect  on  the  composite  mechanical  properties.  However  the  size  different between the constituent in composite has not investigated. Also the optimal barite weight fraction has not being observed. The composite was made by mixing all of the  constituent,  pressing  in  the  mold  and  curing.  The  result  show  that  the graphite particle size ≤ 150 m has the lowest specific abrasion. The observation using  scanning  electron  microscope  shows  that  the  composite  contained  small particle  of  ≤ 56  m  tends  to  agglomerate  than  the  composite  contained  larger particle of ≤ 150 m. the composite contained 15% barite has the lowest specific abrasion.  The  micrograph  of  scanning  electron  microscope  shows  the  mixed  of phenolic and barite evenly covered the graphite and fly-ash particles.  Keywords: barite, graphite, fly-ash, composite polymer, brake lining.",
+      "date": "2022-06",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46379"
+    },
+    {
+      "publication": "Nemui Nyimah: Jurnal Pengabdian kepada Masyarakat",
+      "publisher": "FT Universitas Lampung",
+      "divisions": [
+        "FT7"
+      ],
+      "dir": "disk0\/00\/04\/23\/26",
+      "related_url": [
+        {
+          "url": "http:\/\/nemuinyimah.eng.unila.ac.id\/index.php\/nemuinyimah\/article\/view\/38"
+        }
+      ],
+      "status_changed": "2022-06-12 11:41:30",
+      "issn": "2808-0904",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "volume": 2,
+      "abstract": "Pada makalah ini diberikan kegiatan sosialisasi teknologi pompa tanpa motor (hydraulic ram pump) kepada siswa-siswa SMK N 1 Gading Rejo. Materi kegitan yang diberikan secara teori tentang prinsip kerja pompa tanpa motor, pemilihan bahan dan pembuatan komponen-komponen pompa tanpa motor dan praktik yaitu tentang pemasangan dan pengoperasian pompa di lapangan, dan perawatan pompa ini. Berdasarkan kegiatan pelatihan yang dilakukan, dapat dlihat bahwa antusias siswa-siswa dan guru-guru SMK N 1 Gading Rejo mengikuti kegiatan ini sangat baik untuk memperoleh pemahaman pembuatan pompa tanpa motor (hydraulic ram pump). Hal ini terbukti dengan sikap peserta yang serius dan banyak mengajukan pertanyaan saat pelaksanaan pemberian materi teori dan praktek saat kegiatan ini dilaksanakan. Hasil kegiatan ini juga meningkatkan keinginan antusias siswa-siswa dan guru-guru SMK N 1 Gading Rejo untuk mengaplikasikan penggunaan pompa ini untuk membantu irigasi pertanian mereka dengan tetap meminta bantuan bimbingan dari tim pelaksana dari Jurusan Teknik Mesin, Fakultas Teknik, Universitas Lampung. dan juga akan menyebar luaskan informasi teknologi penggunaan pompa tanpa motor ini bagi masyarakat di sekitar tempat tinggal mereka",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42326",
+      "date": "2022-04-28",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sinaga",
+            "honourific": null,
+            "given": "Jorfri Boike"
+          },
+          "id": "jorfri6@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "muhammad",
+            "honourific": null,
+            "lineage": null,
+            "family": "irsyad"
+          },
+          "id": "muhammad.irsyad@eng.unila.ac.id"
+        },
+        {
+          "id": "mdyan.susila@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Susila",
+            "lineage": null,
+            "given": "M Dyan"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Sugiman",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sugiman"
+          }
+        },
+        {
+          "id": "randaadmiral@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Admiral",
+            "lineage": null,
+            "given": "Randa"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "SOSIALISASI TEKNOLOGI POMPA TANPA MOTOR (HYDRAULIC RAM PUMP) UNTUK IRIGASI PERTANIAN BAGI SISWA-SISWA SMK NEGERI 1 GADING REJO",
+      "eprintid": 42326,
+      "eprint_status": "archive",
+      "datestamp": "2022-06-12 11:41:30",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 984,
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164032",
+            "pos": 1,
+            "eprintid": 42326,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Sosialisasi Teknologi Hydram Pump di SMK N 1 Gading Rejo.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 465668,
+                  "hash": "2858cbf4cbcafc48336df44f752be591",
+                  "mime_type": "application\/pdf",
+                  "filesize": 856029,
+                  "objectid": 164032,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/465668",
+                  "filename": "Sosialisasi Teknologi Hydram Pump di SMK N 1 Gading Rejo.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-11 04:00:51"
+                }
+            ],
+            "docid": 164032
+          }
+      ],
+      "official_url": "http:\/\/nemuinyimah.eng.unila.ac.id\/index.php\/nemuinyimah\/article\/view\/38",
+      "lastmod": "2022-06-12 11:41:30"
+    },
+    {
+      "contact_email": "irza.sukmana@gmail.com",
+      "place_of_pub": "Science and Technology Indonesia",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Yuwono",
+            "lineage": null,
+            "family": "Suripto Dwi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Nahrowi",
+            "family": "Ridho",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Andi",
+            "given": "Setiawan"
+          }
+        },
+        {
+          "name": {
+            "given": "Juliasih",
+            "honourific": null,
+            "family": "Ni Luh Gede Ratna",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Irza",
+            "honourific": null,
+            "given": "Sukmana"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wasinton",
+            "given": "Simajuntak"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sutopo",
+            "honourific": null,
+            "given": "Hadi"
+          }
+        }
+      ],
+      "title": "Synthesis of Cellulose–Polylactic Acid Microcapsule as a Delivery Agent of Rifampicin of Local Lampung Province",
+      "userid": 464,
+      "lastmod": "2022-10-26 02:00:06",
+      "official_url": "https:\/\/sciencetechindonesia.com\/index.php\/jsti\/article\/view\/494\/245",
+      "documents": [
+          {
+            "eprintid": 45971,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184788",
+            "format": "text",
+            "docid": 184788,
+            "main": "STI_Juli2022_Similarity_Irza.pdf",
+            "files": [
+                {
+                  "fileid": 508962,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "961184b3e4b81b3eee089f7f83ace265",
+                  "objectid": 184788,
+                  "filesize": 1117794,
+                  "filename": "STI_Juli2022_Similarity_Irza.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508962",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-25 07:59:09"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "datestamp": "2022-10-26 02:00:06",
+      "id_number": "10.26554\/sti.2022.7.3.263-268",
+      "eprintid": 45971,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "status_changed": "2022-10-26 02:00:06",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "FMIPA Universitas Sriwijaya",
+      "dir": "disk0\/00\/04\/59\/71",
+      "abstract": "In medicinal field, delivery agent is a very important substance to improve the efficiency of drug used by improving the stability and preventing the degradation of drug during the medical treatment. Due to these important roles of the drug delivery agent, the search of effective agent is continuously in progress. In this respect, this current research was carried out to synthesize cellulose–polylactic acid (cellulose-PLA), as a potential delivery agent of rifampicin for the curing of tuberculosis. Cellulose was isolated from cassava bagasse, while PLA was obtained from commercial supplier. The two raw materials were used to synthesize cellulose–PLA in 3.5% HCl as solvent under magnetic stirring. The product obtained was then characterized by Fourier-Transform Infrared spectroscopy (FTIR), Particle-Size Analysis (PSA), and Scanning Electron Microscopy (SEM). The FT-IR result showed the presence of hydroxy (3446 to 3429 cm 1 1 7 1 ) and carbonyl (1757 to 1759 cm 1 ), confirming the formation new bond between cellulose and PLA. The PSA characterization displays a particle-sizes of PLA are in the range of 960–92780 nm, while cellulose–PLA are in the range of 100–17730 nm demonstrating that cellulose-PLA combined to form more compact structures. The results of SEM analysis indicate the distinct feature of cellulose-PLA, and combination of the features in the cellulose and PLA image. The results of the dissolution test carried out two different concentrations of rifampicin revealed that the optimum dissolution (8.42%) was achieved with cellulose–PLA of 0.3%, dissolution time of 12 h, and pH of 7.4",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45971",
+      "date": "2022-07",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ]
+    },
+    {
+      "title": "Buku Manufaktur Bahan Non Logam",
+      "type": "patent",
+      "creators": [
+        {
+          "id": "tarkono.1970@eng.unila.ac.id",
+          "name": {
+            "given": "Tarkono",
+            "lineage": null,
+            "family": "Tarkono",
+            "honourific": null
+          }
+        },
+        {
+          "id": "nandang.1957@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nandang",
+            "given": "Nandang"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2023-04-10 00:56:55",
+      "eprint_status": "archive",
+      "id_number": "EC00202 201389",
+      "eprintid": 49951,
+      "lastmod": "2023-04-10 00:56:55",
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/detail\/EC00202201389?type=copyright&keyword",
+      "pages": 94,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 49951,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189646",
+            "security": "public",
+            "main": "Buku dan sertifikat hak ciptanya.pdf",
+            "docid": 189646,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 540719,
+                  "hash": "f2c39ddbef297936e29bcca876e8e524",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-09 06:07:37",
+                  "filesize": 7419198,
+                  "objectid": 189646,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540719",
+                  "filename": "Buku dan sertifikat hak ciptanya.pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 869,
+      "dir": "disk0_bak\/00\/04\/99\/51",
+      "divisions": [
+        "FT7"
+      ],
+      "ispublished": "pub",
+      "rev_number": 23,
+      "full_text_status": "public",
+      "status_changed": "2023-04-10 00:56:55",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49951",
+      "date": "2022-01-06",
+      "abstract": "Materi yang disajikan dalam buku ini secara umum berkaitan dengan proses produksi. Proses produksi yang diuraikan terkait dengan proses produksi bahan bahan selain logam. Namun sebalumnya disampaikan materi tentang keselamatan dan kesehatan kerja dalam bidang manufaktur. Materi tentang manufaktur bahan non logam mencakup materi materi tentang manufaktur keramik, manufaktur tentang polimer dan komposit. Mengingat komposit menrupakan senyawa antara matrik dan penguat maka pada buku ini akan lebih banyak dibahas masalah penguat yang berhubungan dengan kearifan lokal. Penguat yang sangat melimpah di negara Indonesia adalah serat tandan kosong kelapa sawit (TKKS).",
+      "patent_applicant": "Tarkono ; Nandang",
+      "corp_creators": [
+        "Jurusan Teknik Mesin Fakultas Teknik Universitas Lampung",
+        "Jurusan Teknik Sipil Fakultas Teknik Universits Lampung"
+      ]
+    },
+    {
+      "subjects": [
+        "TS"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "FT Unila"
+      ],
+      "patent_applicant": "Tarkono; Irza Sukmana; dan Nandang",
+      "abstract": "Cetakan manual genteng beton berserat tandan kosong kelapa sawit (TKKS) terdiri dari dua bagian, yaitu cetakan bagian atas  dan cetakan bagian bawah.  Kedua bagian cetakan tersebut    terbuat dari besi cor dengan ukuran 30 cm x 42cm, dengan rongga 1,2 cm, sehingga dapat menghasilkan genteng beton berserat TKKS setebal 1,2 cm. Cetakan dirakit  diatas kerangka yang terbuat dari baja profil U8, dengan ketinggian dari atas lantai 60 cm. Kerangka disambung menggunakan las dan perakitan cetakan dengan rangka menggunakan baut. Mekanisme gerakan cetakan bagian atas untuk  membuka ke atas dan menutup ke bawah menggunakan engsel, sementara cetakan bagian bawah relative tetap (diam berada ditempatnya).   Demikian juga untuk mengeluarkan genteng dari cetakan bagian bawah menggunakan mekanisme engsel dengan bukaan ke kiri dan mengembalikan cetakan bagian bawah untuk siap digunakan lagi. Keunikan cetakan tersebut ada tulisan nama pembuat cetakan genteng yang dimaksud.   Cetakan hanya dapat dioperasikan secara manual.",
+      "date": "2022-01-14",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45912",
+      "dir": "disk0\/00\/04\/59\/12",
+      "divisions": [
+        "FT7"
+      ],
+      "status_changed": "2022-10-25 02:42:56",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "eprintid": 45912,
+      "id_number": "EC00202203335",
+      "eprint_status": "archive",
+      "datestamp": "2022-10-25 02:42:56",
+      "metadata_visibility": "show",
+      "userid": 464,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184723",
+            "eprintid": 45912,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Haki_Cetakan_Manual_Genteng_Beton_TKKS_Rarkono_Irza.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-24 07:10:33",
+                  "objectid": 184723,
+                  "filesize": 798974,
+                  "filename": "Haki_Cetakan_Manual_Genteng_Beton_TKKS_Rarkono_Irza.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/508486",
+                  "fileid": 508486,
+                  "datasetid": "document",
+                  "hash": "f2f39a488ec5b79d63425b036aa8a7a4",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 184723
+          }
+      ],
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/detail\/EC00202203335?type=copyright&keyword=Cetakan+Manual+Genteng+Beton+Berserat+Tandan+Kosong+Kelapa+Sawit+%28TKKS%29",
+      "lastmod": "2022-10-25 02:42:56",
+      "creators": [
+        {
+          "name": {
+            "family": "Tarkono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Tarkono"
+          },
+          "id": "tarkono_irfan@yahoo.com"
+        },
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "family": "Sukmana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Irza"
+          }
+        }
+      ],
+      "type": "patent",
+      "title": "Cetakan Manual Genteng Beton Berserat Tandan Kosong Kelapa Sawit (TKKS)"
+    },
+    {
+      "abstract": "Kelompok UMKM Swakarya yang berlokasi di Desa Rulung Sari, Lampung Selatan merupakan suatu industri rumah tangga yang memproduksi berbagai olahan keripik. Kelompok Swakarya ini adalah salah satu UMKM yang dirintis mulai tahun 2020. Saat itu, awal terjadinya kelesuan perekonomian, dikarenakan terjadinya pandemi Covid 19, sehingga timbul ide untuk berjualan produk olahan yaitu keripik pisang dan keripik singkong. Permasalahan yang ada di mitra UMKM Swakarya ini adalah produk keripik berubah menjadi tidak keras seperti keripik pada umumnya karena produk tidak ditiriskan minyaknya secara sempurna dengan alat peniris, sehingga produk tidak tahan disimpan lebih lama. Tim Unila memberikan solusi dengan menerapkan alat teknologi tepat guna alat peniris minyak. Dalam pembuatan produk keripik ini, setelah digoreng, maka untuk meniriskan minyak digunakan alat spinner agar produk keripik memiliki kandungan minyak sedikit dan siap untuk dikemas serta dipasarkan. Dengan pemberian bantuan alat spinner, alat untuk peniris minyak, diharapkan meningkatkan kapasitas produksi keripik dan kualitas keripik yang dihasilkan oleh mitra menjadi lebih baik.\r\n         \r\nKata kunci: teknologi tepat guna; alat peniris minyak; keripik",
+      "volume": 6,
+      "corp_creators": [
+        "Jurusan Teknik Mesin, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung",
+        "Jurusan Teknik Kimia, Fakultas Teknik, Universitas Lampung"
+      ],
+      "date": "2022-11-30",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48026",
+      "date_type": "published",
+      "subjects": [
+        "TJ"
+      ],
+      "issn": "2550-1089",
+      "full_text_status": "public",
+      "status_changed": "2023-01-26 01:38:36",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "divisions": [
+        "FT7"
+      ],
+      "publisher": "LPPM UNILA",
+      "publication": "Jurnal Sakai Sambayan",
+      "dir": "disk0_bak\/00\/04\/80\/26",
+      "userid": 423,
+      "number": 3,
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/article\/view\/378\/251",
+      "lastmod": "2023-01-26 01:38:36",
+      "documents": [
+          {
+            "eprintid": 48026,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187189",
+            "pos": 1,
+            "format": "text",
+            "main": "378-1-904-1-10-20221208.pdf",
+            "files": [
+                {
+                  "hash": "5d539c6009cacf5d538bb475babb0c28",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 525181,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525181",
+                  "filename": "378-1-904-1-10-20221208.pdf",
+                  "objectid": 187189,
+                  "filesize": 171799,
+                  "mtime": "2023-01-26 00:01:01",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 187189,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2023-01-26 01:38:36",
+      "eprintid": 48026,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "152-155",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Wardono",
+            "honourific": null,
+            "given": "Herry"
+          },
+          "id": "herryw22@gmail.com"
+        },
+        {
+          "id": "simparmin@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Ginting",
+            "honourific": null,
+            "given": "Simparmin"
+          }
+        },
+        {
+          "id": "herti.utami@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Utami",
+            "given": "Herti"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Penerapan Teknologi Alat Spinner pada Produk Olahan Keripik UMKM Swakarya di Desa Rulung Sari, Lampung Selatan",
+      "refereed": "FALSE"
+    },
+    {
+      "userid": 121,
+      "lastmod": "2022-09-05 01:26:22",
+      "eprintid": 44677,
+      "eprint_status": "archive",
+      "datestamp": "2022-09-05 01:26:22",
+      "metadata_visibility": "show",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "dewi",
+            "honourific": null,
+            "given": "citra"
+          }
+        },
+        {
+          "name": {
+            "given": "rahma",
+            "honourific": null,
+            "lineage": null,
+            "family": "anisa"
+          }
+        },
+        {
+          "name": {
+            "given": "romi",
+            "family": "fadly",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "artini",
+            "lineage": null,
+            "honourific": null,
+            "given": "sri rezki"
+          }
+        }
+      ],
+      "title": "KAJIAN AKURASI GEOMETRI ORTHOPHOTO DARI AKUISISI DATA PESAWAT TANPA AWAK.",
+      "abstract": "Jalan merupakan infrastruktur yang penting dalam menunjang kemajuan suatu wilayah. Survey kondisi jalan merupakan salah satu aspek kegiatan dalampemeliharaan jalan tujuannya agar jalan dapat terpelihara dan terawasi. Kegiatan survey kondisi jalan dapat memanfaatkan teknologi fotogrametri menggunakan wahana tanpa awak dengan kamera non metrik karena dapat menyediakan data detail\/situasi jalan dan cukup efektif dalam menunjang pekerjaan survey kondisi jalan. Detail\/situasi jalan dapat diidentifikasi berdasarkan orthophoto yang dihasilkan melalui pengolahan data foto dari kegiatan pemotretan udara. Penelitian ini bertujuan untuk mengetahui ketelitian geometri orthophoto. Data yang digunakan dalam pengujian menggunakan hasil pengolahan foto udara berupa orthophoto. Metode yang digunakan dalam menguji akurasi geometrik orthophoto merujuk pada Peraturan Kepala Badan Informasi Geospasial No 8 tahun 2018. Hasil uji akurasi geometri horizontal (CE90) sebesar 0,018 (RMSE 0,012) dan vertikal (LE90) sebesar 0,026m (RMSE 0,016). Sehingga dinyatakan orthophoto ini memiliki ketelitian horizontal sebesar 0,018meter dan ketelitian vertikal sebesar 0,026m. Kelas ketelitian horizontal orthophoto adalah kelas 1 dan kelas ketelitian vertikal orthophoto ini adalah kelas 1",
+      "date": "2022-03-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44677",
+      "subjects": [
+        "T1",
+        "TE"
+      ],
+      "date_type": "published",
+      "status_changed": "2022-09-05 01:26:22",
+      "full_text_status": "none",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publisher": "Syintax Literate Jurnal Ilmiah Indonesia",
+      "dir": "disk0\/00\/04\/46\/77",
+      "divisions": [
+        "FT7"
+      ]
+    }
+]
+

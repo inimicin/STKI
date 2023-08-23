@@ -1,0 +1,145 @@
+[
+    {
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2017-08-14 01:36:06",
+      "full_text_status": "public",
+      "issn": "1434-7229",
+      "dir": "disk0\/00\/00\/37\/69",
+      "publisher": "The Japanese Society for Artificial Organs",
+      "publication": "Journal of Artificial Organs",
+      "divisions": [
+        "FT14"
+      ],
+      "date": "2012-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3769",
+      "volume": 15,
+      "abstract": "Tissue engineering seeks strategies to design\r\npolymeric scaffolds that allow high-cell-density cultures\r\nwith signaling molecules and suitable vascular supply. One\r\nmajor obstacle in tissue engineering is the inability to\r\ncreate thick engineered-tissue constructs. A pre-vascularized tissue scaffold appears to be the most favorable approach to avoid nutrient and oxygen supply limitations as well as to allow waste removal, factors that are often hurdles in developing thick engineered tissues. Vascularization can be achieved using strategies in which cells are cultured in bioactive polymer scaffolds that can mimic extracellular matrix environments. This review addresses recent advances and future challenges in developing and using bioactive polymer scaffolds to promote tissue construct\r\nvascularization.",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "Bioactive Polymer Scaffold For Fabrication of Vascularized Engineering Tissue",
+      "creators": [
+        {
+          "name": {
+            "given": "Irza",
+            "lineage": null,
+            "family": "Sukmana",
+            "honourific": null
+          },
+          "id": "irza.sukmana@gmail.com"
+        }
+      ],
+      "type": "article",
+      "documents": [
+          {
+            "main": "7. 012012_INT.pdf",
+            "files": [
+                {
+                  "filesize": 231466,
+                  "objectid": 3624,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26411",
+                  "filename": "7. 012012_INT.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-04 02:49:32",
+                  "fileid": 26411,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "692d0202ba71d46c2fae3867f138ebc8"
+                }
+            ],
+            "docid": 3624,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 3769,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3624",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2017-08-14 01:36:06",
+      "userid": 464,
+      "pagerange": "215-224",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 3769,
+      "datestamp": "2017-08-14 01:36:06"
+    },
+    {
+      "creators": [
+        {
+          "id": "irza.sukmana@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Sukmana",
+            "honourific": null,
+            "given": "Irza"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Microvascular Guidance: A Challenge to Support the Development of Vascularised Tissue Engineering Construct",
+      "userid": 464,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "8. 022012_INT.pdf",
+            "files": [
+                {
+                  "hash": "25124cd3f8d4abcd99974ca511de4fee",
+                  "mime_type": "application\/pdf",
+                  "fileid": 26417,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26417",
+                  "filename": "8. 022012_INT.pdf",
+                  "filesize": 2350648,
+                  "objectid": 3625,
+                  "mtime": "2017-08-04 02:58:19",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 3625,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3625",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3770
+          }
+      ],
+      "lastmod": "2017-08-14 01:36:59",
+      "eprint_status": "archive",
+      "eprintid": 3770,
+      "datestamp": "2017-08-14 01:36:59",
+      "pagerange": "1-10",
+      "metadata_visibility": "show",
+      "status_changed": "2017-08-14 01:36:59",
+      "issn": "2356-6140 (Print) 1537-744X (Online)",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "The Scientific World Journal",
+      "publication": "The Scientific World Journal",
+      "divisions": [
+        "FT14"
+      ],
+      "dir": "disk0\/00\/00\/37\/70",
+      "volume": 2012,
+      "abstract": "The guidance of endothelial cell organization into a capillary network has been a long-standing challenge in tissue engineering. Some research efforts have been made to develop methods to promote capillary networks inside engineered tissue constructs. Capillary and vascular networks that would mimic blood microvessel function can be used to subsequently facilitate oxygen and nutrient transfer as well as waste removal. Vascularization of engineering tissue construct is one of the most favorable strategies\r\nto overpass nutrient and oxygen supply limitation, which is often the major hurdle in developing thick and complex tissue and artificial organ. This paper addresses recent advances and future challenges in developing three-dimensional culture systems to promote tissue construct vascularization allowing mimicking blood microvessel development and function encountered in vivo.\r\nBioreactors systems that have been used to create fully vascularized functional tissue constructs will also be outlined.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3770",
+      "date": "2012-05",
+      "subjects": [
+        "TJ"
+      ],
+      "date_type": "published"
+    }
+]
+

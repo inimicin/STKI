@@ -1,0 +1,72 @@
+[
+    {
+      "publisher": "Jurusan Biologi, FMIPA, Universitas Negeri Malang",
+      "divisions": [
+        "FKIP15"
+      ],
+      "dir": "disk0_bak\/00\/05\/07\/11",
+      "rev_number": 7,
+      "ispublished": "unpub",
+      "full_text_status": "public",
+      "status_changed": "2023-04-25 11:23:02",
+      "subjects": [
+        "L1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50711",
+      "date": 2013,
+      "title": "Check Similarity: PEMBELAJARAN BIOLOGI DENGAN STRATEGI ARGUMENT-DRIVEN INQUIRY DAN KETERAMPILAN ARGUMENTASI PESERTA DIDIK",
+      "type": "other",
+      "creators": [
+        {
+          "id": "nenihasnunidah@gmail.com",
+          "name": {
+            "given": "Neni",
+            "honourific": null,
+            "family": "Hasnunidah",
+            "lineage": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "datestamp": "2023-04-25 11:23:02",
+      "eprintid": 50711,
+      "eprint_status": "archive",
+      "lastmod": "2023-04-25 11:23:02",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "PEMBELAJARAN_BIOLOGI_DENGAN_STRATEGI_ARG.pdf.pdf",
+            "docid": 190417,
+            "files": [
+                {
+                  "fileid": 546444,
+                  "datasetid": "document",
+                  "hash": "876a9766b77d091b2264e03b74747009",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-23 16:59:37",
+                  "filesize": 474589,
+                  "objectid": 190417,
+                  "filename": "PEMBELAJARAN_BIOLOGI_DENGAN_STRATEGI_ARG.pdf.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546444"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190417",
+            "eprintid": 50711,
+            "placement": 1
+          }
+      ],
+      "userid": 986,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ]
+    }
+]
+

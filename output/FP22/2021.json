@@ -1,0 +1,265 @@
+[
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Maria Erna",
+            "lineage": null,
+            "family": "Kustyawati",
+            "honourific": null
+          },
+          "id": "maria.erna@fp.unila.ac.id"
+        }
+      ],
+      "title": "Estimation of energy and organic fertilizer generation from small scale tapioca industrial waste.",
+      "userid": 1017,
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "4f1c9cf85e8c399bfb96185cce380cd4",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 244357,
+                  "mtime": "2021-01-12 10:33:23",
+                  "hash_type": "MD5",
+                  "filename": "Penilaian 3 Reviewer Estimation of energy and orgaanic fertilizer from small scale tapioca industrial waste.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/244357",
+                  "filesize": 1061261,
+                  "objectid": 41308
+                }
+            ],
+            "main": "Penilaian 3 Reviewer Estimation of energy and orgaanic fertilizer from small scale tapioca industrial waste.pdf",
+            "docid": 41308,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 27298,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41308",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2021-01-13 00:55:04",
+      "eprintid": 27298,
+      "eprint_status": "archive",
+      "datestamp": "2021-01-13 00:55:04",
+      "metadata_visibility": "show",
+      "status_changed": "2021-01-13 00:55:04",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "unpub",
+      "divisions": [
+        "FP22"
+      ],
+      "publisher": "non",
+      "dir": "disk0\/00\/02\/72\/98",
+      "date": "2021-01-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27298",
+      "subjects": [
+        "S1"
+      ]
+    },
+    {
+      "full_text_status": "public",
+      "status_changed": "2022-03-08 07:21:02",
+      "succeeds": 32759,
+      "ispublished": "pub",
+      "rev_number": 11,
+      "divisions": [
+        "FP22"
+      ],
+      "publisher": "Plantaxia",
+      "dir": "disk0\/00\/03\/99\/23",
+      "abstract": "Pada era kini pengolahan tanpa panas menjadi pusat perhatian bagi pelaku industri pangan, ilmuwan maupun konsumen yang mengutamakan sifat alami produk meliputi kesegaran, nilai gizi, dan sifat fungsionalnya. Teknologi pengolahan menggunakan karbondioksida superkritis merupakan teknologi tanpa panas, karena pada tekanan 1099 psi (7,4 MPa) dan suhu 31,1oC karbon dioksida berada dalam kondisi superkritis yang dicirikan dengan memiliki tegangan permukaan nol, kerapatan rendah seperti gas dan memiliki kelarutan tinggi sehingga mudah berdifusi dan terlarut dalam padatan dan mengakibatkan perubahan struktur senyawa penyusun suatu produk. Semula, teknologi karbon dioksida superkritis digunakan sebagai metode ekstraksi untuk memisahkan komponen-komponen dalam suatu cairan atau padatan menggunakan CO2 sebagai pelarut. Namun, baru baru ini telah ditemukan bahwa teknologi CO2 superkritis maupun subkritis CO2 dapat diterapkan sebagai metode pengolahan tanpa panas untuk produk pangan maupun minuman. Udang mempunyai nilai keutamaan bagi kesehatan manusia terutama adanya asam lemak tidak jenuh, tinggi protein dan karotenoid (astaxantin) sebagai antioksidan, sehingga sangat rentan terhadap proses pengolahan terutama penggunaan panas. Aplikasi teknologi superkritis dan subkritis CO2 sebagai pengolahan tanpa panas pada udang dikaji di dalam buku ini meliputi perubahan terhadap sifat kimia, fisik, dan fungsional agar dapat diupayakan teknologi yang tepat untuk memperpanjang masa simpannya.",
+      "date": 2021,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39923",
+      "date_type": "published",
+      "monograph_type": "project_report",
+      "subjects": [
+        "S1"
+      ],
+      "isbn": "978-602-5876-77-6",
+      "type": "book",
+      "creators": [
+        {
+          "id": "maria.erna@fp.unila.ac.id",
+          "name": {
+            "given": "Maria Erna",
+            "lineage": null,
+            "family": "Kustyawati",
+            "honourific": null
+          }
+        },
+        {
+          "id": "esa.ghanim@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Fadhallah",
+            "honourific": null,
+            "given": "Esa Ghanim"
+          }
+        }
+      ],
+      "title": "Signifikansi CO2 Superkritis pada Pengolahan Udang",
+      "refereed": "TRUE",
+      "userid": 5609,
+      "lastmod": "2022-03-08 07:21:02",
+      "pages": 95,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "id",
+            "rev_number": 4,
+            "content": "published",
+            "files": [
+                {
+                  "filesize": 620654,
+                  "objectid": 161211,
+                  "filename": "cover buku.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/446992",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-08 03:09:52",
+                  "fileid": 446992,
+                  "datasetid": "document",
+                  "hash": "665d8f44150f3790707548bc41c59bbc",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "cover buku.pdf",
+            "docid": 161211,
+            "format": "other",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161211",
+            "pos": 1,
+            "formatdesc": "Cover Buku",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 39923
+          }
+      ],
+      "datestamp": "2022-03-08 07:21:02",
+      "eprint_status": "archive",
+      "eprintid": 39923,
+      "metadata_visibility": "show"
+    },
+    {
+      "status_changed": "2021-09-16 09:08:09",
+      "issn": "01469428, 17454557",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FP22"
+      ],
+      "publisher": "Hindawi Limited. WILEY",
+      "publication": "Journal of Food Quality",
+      "dir": "disk0\/00\/03\/39\/31",
+      "related_url": [
+        {
+          "url": "https:\/\/www.scimagojr.com\/journalsearch.php?q=20611&tip=sid&clean=0",
+          "type": "org"
+        }
+      ],
+      "volume": 2021,
+      "abstract": "Phase changes of carbon dioxide (supercritical or subcritical) depend on its proximity to a pressure of 7.35 MPa and temperature of 31.1°C. Carbon dioxide becomes supercritical and subcritical when it is above and slightly below its critical point, respectively.\r\n(is study aims to determine the effect of high-pressure CO2 treatments at a pressure of 900 psi, 950 psi (subcritical), and 1100 psi\r\n(supercritical) and at holding times of 5, 10, and 15 min on the quality parameters of white shrimp (Litopenaeus vannamei) and to determine the shelf life of white shrimp processed with the best treatment. (e results showed that the interaction between pressure and holding time had a significant (p < 0.05) effect on cholesterol, protein, moisture content, and b ∗ value, but pressure\r\nhad a significant effect on carotene content. (e best treatment was a supercritical CO2 treatment at 1100 psi for 10 min, which was determined based on a significant reduction in the number of microorganisms and no significant changes in color, texture, and fat\r\ncontent were observed compared with control. (e best treatment was applied to process shrimps, which were then stored at 4°C to evaluate the effectiveness of scCO2 treatment on the shelf life. No significant changes were found in PV and lipid in treated and scCO2-treated shrimps during storage, but the treatment significantly affected pH, TVBN, and microbial counts. Among the samples, there was no hedonic difference in all sensory attributes. Supercritical CO2 treatment at 1100 psi for 10 min can be an alternative method for preservation of shrimps",
+      "date": "2021-06-30",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33931",
+      "subjects": [
+        "S1"
+      ],
+      "date_type": "published",
+      "type": "article",
+      "creators": [
+        {
+          "id": "maria.erna@fp.unila.ac.id",
+          "name": {
+            "given": "Maria Erna",
+            "family": "Kustyawati",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Pratama",
+            "lineage": null,
+            "given": "Filli"
+          }
+        },
+        {
+          "id": "samsul.rizal@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rizal",
+            "lineage": null,
+            "given": "Samsul"
+          }
+        },
+        {
+          "name": {
+            "given": "Esa Ghanim",
+            "honourific": null,
+            "lineage": null,
+            "family": "Fadhallah"
+          },
+          "id": "esa.ghanim@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Abdullah Aman",
+            "lineage": null,
+            "family": "Damai",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Quality and Shelf Life of White Shrimp (Litopenaeus vannamei)\r\nProcessed with High-Pressure Carbon Dioxide (HPCD) at\r\nSubcritical and Supercritical States",
+      "number": 664958,
+      "userid": 1017,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154170",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 33931,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "objectid": 154170,
+                  "filesize": 1937877,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/401075",
+                  "filename": "J.of Food Quality_HPCD_shrimp.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-16 07:54:04",
+                  "datasetid": "document",
+                  "fileid": 401075,
+                  "hash": "c9bc098cb078daa5e73d62285ed86b3b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "J.of Food Quality_HPCD_shrimp.pdf",
+            "docid": 154170,
+            "format": "text"
+          }
+      ],
+      "official_url": "https:\/\/www.hindawi.com\/journals\/jfq\/about\/",
+      "lastmod": "2021-09-16 09:08:09",
+      "eprintid": 33931,
+      "id_number": "https:\/\/doi.org\/10.1155\/2021\/6649583",
+      "eprint_status": "archive",
+      "datestamp": "2021-09-16 09:08:09",
+      "pagerange": "1-13",
+      "metadata_visibility": "show"
+    }
+]
+

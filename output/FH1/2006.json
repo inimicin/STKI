@@ -1,0 +1,135 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Kajian Hukum tentang Tindak Pidana Kesusilaan di Media Massa",
+      "eprint_status": "archive",
+      "eprintid": 28262,
+      "datestamp": "2021-03-08 05:30:09",
+      "metadata_visibility": "show",
+      "userid": 836,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 28262,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42309",
+            "pos": 1,
+            "security": "public",
+            "files": [
+                {
+                  "fileid": 251409,
+                  "datasetid": "document",
+                  "hash": "75c00da17eb9c05c1ab6ad4038c395ed",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-08 04:31:05",
+                  "objectid": 42309,
+                  "filesize": 4430933,
+                  "filename": "Justisia Eddy Rifai.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251409"
+                }
+            ],
+            "main": "Justisia Eddy Rifai.pdf",
+            "docid": 42309,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2021-03-08 05:30:09",
+      "publisher": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">fakultas hukum universitas sang bumi rua jurai<\/font><\/font>",
+      "divisions": [
+        "FH1"
+      ],
+      "publication": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Justicia Sains Jurnal Ilmu Hukum<\/font><\/font>",
+      "dir": "disk0\/00\/02\/82\/62",
+      "status_changed": "2021-03-08 05:30:09",
+      "full_text_status": "public",
+      "issn": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">2527-4201<\/font><\/font>",
+      "rev_number": 6,
+      "ispublished": "unpub",
+      "subjects": [
+        "K1"
+      ],
+      "date": 2006,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28262"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28814",
+      "date": "2006-06",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review",
+      "subjects": [
+        "K1"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2021-04-01 02:00:32",
+      "divisions": [
+        "FH1"
+      ],
+      "publisher": "FH UNILA",
+      "publication": "Justisia",
+      "dir": "disk0\/00\/02\/88\/14",
+      "lastmod": "2021-04-01 02:00:32",
+      "documents": [
+          {
+            "eprintid": 28814,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42907",
+            "pos": 1,
+            "format": "text",
+            "docid": 42907,
+            "main": "Kajian Hukum.pdf",
+            "files": [
+                {
+                  "objectid": 42907,
+                  "filesize": 597234,
+                  "filename": "Kajian Hukum.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/255624",
+                  "hash_type": "MD5",
+                  "mtime": "2021-04-01 01:43:31",
+                  "datasetid": "document",
+                  "fileid": 255624,
+                  "hash": "94d8efa7f5a684deddba812a8e5a5920",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 836,
+      "metadata_visibility": "show",
+      "datestamp": "2021-04-01 02:00:32",
+      "eprint_status": "archive",
+      "eprintid": 28814,
+      "title": "Kajian Hukum tentang Tindak Pidana Kesusilaan di Media Massa",
+      "refereed": "FALSE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null,
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          }
+        }
+      ]
+    }
+]
+

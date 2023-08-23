@@ -1,0 +1,475 @@
+[
+    {
+      "dir": "disk0\/00\/02\/68\/36",
+      "divisions": [
+        "FISIP4"
+      ],
+      "rev_number": 7,
+      "status_changed": "2020-12-01 01:05:40",
+      "date_type": "published",
+      "subjects": [
+        "HN"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26836",
+      "volume": 1,
+      "title": "Meniti Partisipasi Publik",
+      "creators": [
+        {
+          "name": {
+            "given": "Nanang Trenggono",
+            "honourific": null,
+            "family": "Nanang Trenggono",
+            "lineage": null
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ],
+      "type": "book_section",
+      "metadata_visibility": "show",
+      "editors": [
+        {
+          "name": {
+            "given": "Hermawan Sulistyo",
+            "family": "Hermawan Sulistyo",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Erwin Sugiarto",
+            "lineage": null,
+            "family": "Erwin Sugiarto",
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2020-12-01 01:05:40",
+      "publisher": "Pensil-324, Jakarta",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "book_title": "Meniti Partisipasi Publik",
+      "date": "2003-11",
+      "abstract": "Partisipasi publik dalam suatu bangsa adalah hal yang pentingdalam menuju dan atau mewujudkan suatu tatanan negara demokratis. Masyarakat sebagai ruang publik secara normatif penting dalam hal-hal yang vital. Pengakuan masyarakat sipil sebagai tempat untuk mengekspresikan politik adalah untuk mengakui kemampuan politiknya. Pengakuan kemampuan politik publikmerupakan fenomena yang akhir-akhir ini dalam era modernisasi politik. Jadi jelas, bahwa politik modern memengaruhi transformasi politik yang signifikan dalam huungan individu-individu, kelompok-kelompok dan negara.Banyak hal yang bisa dikaji tentang proses kebangkitan ruang publik. Pers yang bebas memiliki kesempatan luas untuk menjadikan dirinya \"corong\" kepentingan publikdemi penegakan supremasi sipil. Partai politik yang tumbuh, menjadi faktor strategis bagi kaum sipil untuk melakukan transformasi politik dari dominasi birokrasi kepada politisi melalui partai politik dan organisasi massa. Hal ini menyimpan potensi besar bagi pembentukan masyarakat politik (political society) dalam mewujudkan tatanan politik demokratis.",
+      "corp_creators": [
+        "Kantor Bantuan Hukum (KBH) Lampung, Pensil 324 dan the Ford Foundation"
+      ],
+      "refereed": "FALSE",
+      "isbn": "797-3622-03-2",
+      "place_of_pub": "Jakarta",
+      "pagerange": "1-178",
+      "datestamp": "2020-12-01 01:05:40",
+      "eprint_status": "archive",
+      "eprintid": 26836,
+      "pages": 178,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 26836,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40842",
+            "pos": 1,
+            "security": "public",
+            "main": "BUKU MENITI PARTISIPASI PUBLIK.pdf",
+            "docid": 40842,
+            "files": [
+                {
+                  "mtime": "2020-11-28 22:13:16",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/241056",
+                  "filename": "BUKU MENITI PARTISIPASI PUBLIK.pdf",
+                  "objectid": 40842,
+                  "filesize": 2254623,
+                  "hash": "4ed40298ea207468debd3de09a8ca952",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 241056
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "contributors": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "given": "Nanang Trenggono",
+            "honourific": null,
+            "family": "Nanang Trenggono",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 357
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Meniti Partisipasi Publik: Keterbukaan dan Dinamika Internal Gerakan Partisipatif Masyarakat Sipil di Lampung",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "family": "Nanang Trenggono",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nanang Trenggono"
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161829",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 40502,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-24 04:48:23",
+                  "objectid": 161829,
+                  "filesize": 8919955,
+                  "filename": "MENITI PARTISIPASI PUBLIK.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/451461",
+                  "datasetid": "document",
+                  "fileid": 451461,
+                  "mime_type": "application\/pdf",
+                  "hash": "e8756dccf6e34b8c79bc84d83a4f3f16"
+                }
+            ],
+            "main": "MENITI PARTISIPASI PUBLIK.pdf",
+            "docid": 161829,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2022-03-24 07:07:59",
+      "userid": 357,
+      "metadata_visibility": "show",
+      "eprintid": 40502,
+      "eprint_status": "archive",
+      "datestamp": "2022-03-24 07:07:59",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2022-03-24 07:07:59",
+      "full_text_status": "public",
+      "publisher": "Kantor Bantuan Hukum (KBH) Lampung",
+      "divisions": [
+        "FISIP4"
+      ],
+      "dir": "disk0\/00\/04\/05\/02",
+      "date": 2003,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40502",
+      "subjects": [
+        "H1"
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39946",
+      "date": 2003,
+      "subjects": [
+        "JA"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2022-03-08 07:21:46",
+      "full_text_status": "public",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FISIP4"
+      ],
+      "dir": "disk0\/00\/03\/99\/46",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Pola Money Politics Kontroversi Pemilihan Gubernur Lampung 2003-2008.pdf",
+            "docid": 161235,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "9657923aeb5b4686099d7ec1dd81054a",
+                  "fileid": 447149,
+                  "datasetid": "document",
+                  "mtime": "2022-03-08 06:08:29",
+                  "hash_type": "MD5",
+                  "filename": "Pola Money Politics Kontroversi Pemilihan Gubernur Lampung 2003-2008.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447149",
+                  "filesize": 617166,
+                  "objectid": 161235
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 39946,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161235",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2022-03-08 07:21:46",
+      "userid": 357,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 39946,
+      "datestamp": "2022-03-08 07:21:46",
+      "title": "Penilaian Rekan Sejawat : Realitas Money Politics dalam Retorika Transisi Politik Demokrasi",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nanang Trenggono",
+            "lineage": null,
+            "given": "Nanang Trenggono"
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "given": "Nanang Trenggono"
+          }
+        }
+      ],
+      "title": "Penilaian Rekan Sejawat :Keterbukaan dan Dinamika Internal Gerakan Partisipatif Masyarakat Sipil di Lampung",
+      "userid": 357,
+      "lastmod": "2022-03-08 07:21:42",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "hash": "58207df20d6e2d7a6d9c48673a459422",
+                  "mime_type": "application\/pdf",
+                  "fileid": 447135,
+                  "datasetid": "document",
+                  "mtime": "2022-03-08 06:01:32",
+                  "hash_type": "MD5",
+                  "filename": "Meniti Partisipasi Publik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447135",
+                  "objectid": 161233,
+                  "filesize": 518503
+                }
+            ],
+            "main": "Meniti Partisipasi Publik.pdf",
+            "docid": 161233,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 39944,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161233",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2022-03-08 07:21:42",
+      "eprint_status": "archive",
+      "eprintid": 39944,
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "status_changed": "2022-03-08 07:21:42",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "Kantor Bantuan Hukum (KBH) Lampung",
+      "divisions": [
+        "FISIP4"
+      ],
+      "dir": "disk0\/00\/03\/99\/44",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39944",
+      "date": 2003,
+      "subjects": [
+        "H1"
+      ]
+    },
+    {
+      "subjects": [
+        "JS"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26834",
+      "volume": 1,
+      "divisions": [
+        "FISIP4"
+      ],
+      "dir": "disk0\/00\/02\/68\/34",
+      "rev_number": 9,
+      "status_changed": "2020-12-01 01:05:31",
+      "metadata_visibility": "show",
+      "editors": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "given": "Nanang Trenggono",
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Syarief Makhya",
+            "honourific": null,
+            "family": "Syarief Makhya",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "lastmod": "2020-12-01 01:05:31",
+      "title": "Pola Money Politics: Kontroversi Pemilihan Gubernur Lampung",
+      "creators": [
+        {
+          "name": {
+            "given": "Nanang Trenggono",
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "honourific": null
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ],
+      "type": "book_section",
+      "book_title": "Pola Money Politics: Kontroversi Pemilihan Gubernur Lampung",
+      "date": "2003-02",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Buku ini menggambarkan pola money politics yang terjadi dalam pemilihan Gubernur Lampung periode 2003-2008. Suatu peristiwa politik penting untuk memilih pemegang kekuasaan pemerintahan Lampung yang pertama setelah gerakan reformasi menjatuhkan rezim Orde Baru, Secara khusus buku ini diarahkan untuk mengungkapkan berbagai pola permainan politik uang yang melibatkan aktor-aktor politik antara lain kandidat gubernur, anggota DPRD, pengurus partai politik, dan berbagai pihak yang berperan aktif dalam pemilihan kepala daerah. Ditunjukkan juga pemikiran, cara, forum dan instrumen yang digunakan untuk melakukan politik uang.",
+      "publisher": "Universitas Lampung",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "pagerange": "1-205",
+      "eprint_status": "archive",
+      "eprintid": 26834,
+      "datestamp": "2020-12-01 01:05:31",
+      "pages": 205,
+      "documents": [
+          {
+            "main": "BUKU KONTROVERSI PILGUB 2003-2008.pdf",
+            "docid": 40840,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 241043,
+                  "hash": "d4088a2b0e226fe039cc59a724d7428e",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-28 21:55:27",
+                  "filesize": 2116339,
+                  "objectid": 40840,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/241043",
+                  "filename": "BUKU KONTROVERSI PILGUB 2003-2008.pdf"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 26834,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40840",
+            "security": "public"
+          }
+      ],
+      "contributors": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "given": "Nanang Trenggono"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 357,
+      "refereed": "FALSE",
+      "isbn": "979-8287-48-7",
+      "place_of_pub": "Bandar Lampung"
+    },
+    {
+      "userid": 357,
+      "lastmod": "2022-03-24 07:08:02",
+      "documents": [
+          {
+            "format": "text",
+            "main": "POLA MONEY POLITICS.pdf",
+            "files": [
+                {
+                  "hash": "b469831b900508cd40ebaf881bd23b8f",
+                  "mime_type": "application\/pdf",
+                  "fileid": 451468,
+                  "datasetid": "document",
+                  "mtime": "2022-03-24 04:50:58",
+                  "hash_type": "MD5",
+                  "filename": "POLA MONEY POLITICS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/451468",
+                  "objectid": 161830,
+                  "filesize": 3976993
+                }
+            ],
+            "docid": 161830,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 40503,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161830",
+            "pos": 1
+          }
+      ],
+      "datestamp": "2022-03-24 07:08:02",
+      "eprint_status": "archive",
+      "eprintid": 40503,
+      "metadata_visibility": "show",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "given": "Nanang Trenggono",
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "honourific": null
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ],
+      "title": "Pola Money Politics: Kontroversi Pemilihan Gubernur Lampung 2003-2008",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40503",
+      "date": 2003,
+      "subjects": [
+        "JA"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2022-03-24 07:08:02",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "dir": "disk0\/00\/04\/05\/03",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FISIP4"
+      ]
+    }
+]
+

@@ -1,0 +1,354 @@
+[
+    {
+      "subjects": [
+        "L1",
+        "P1"
+      ],
+      "date_type": "published",
+      "volume": 16,
+      "abstract": "The implementation of online learning at the beginning of the covid-19 outbreak brought up some interference for most teachers and students. Technological Pedagogical Content Knowledge (TPACK) is thought to be the answer for teachers in dealing with current online learning problems. This study aims to explore the TPACK skills of Lampung language teachers and the advantages and problems of online Lampung language classes. A survey method was employed to conduct this study in which a questionnaire consisting of 33 statements and 5 open-ended questions was administrated to 138 Lampung language teachers in Lampung, Indonesia. The data were analyzed quantitatively and qualitatively by using factor analysis and the descriptions of teacher explanations. The results showed that Lampung language teachers, in general, have mastered TPACK in their online classes such as the use of various learning media and educational platforms. Giving assignments in creative forms such as making videos of folk songs during the learning process amid the pandemic using local languages can be used by Lampung language teachers to create non-boring learning. This study provides an overview of Lampung language teachers’ TPACK skills and some information related to the problems and advantages faced in online Lampung language learning during the covid-19 pandemic. As a consequence, it can be the reference for policymakers to make the best Lampung language learning system.",
+      "date": "2023-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48754",
+      "publication": "International Journal of Instruction (IJI)",
+      "publisher": "Gate Association for Teaching and Education",
+      "divisions": [
+        "FKIP7"
+      ],
+      "dir": "disk0_bak\/00\/04\/87\/54",
+      "status_changed": "2023-03-06 08:36:36",
+      "full_text_status": "public",
+      "issn": "e-ISSN: 1308-1470, p-ISSN: 1694-609X,",
+      "ispublished": "pub",
+      "rev_number": 12,
+      "eprint_status": "archive",
+      "id_number": "https:\/\/doi.org\/10.29333\/iji.2023.16118a",
+      "eprintid": 48754,
+      "datestamp": "2023-03-06 08:36:36",
+      "pagerange": "311-332",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 500,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "content": "published",
+            "main": "iji_2023_1_18.pdf",
+            "files": [
+                {
+                  "mtime": "2023-03-05 06:20:57",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531109",
+                  "filename": "iji_2023_1_18.pdf",
+                  "objectid": 188131,
+                  "filesize": 767760,
+                  "mime_type": "application\/pdf",
+                  "hash": "394ce4dca12bf6f18404951908e0f9d1",
+                  "datasetid": "document",
+                  "fileid": 531109
+                }
+            ],
+            "docid": 188131,
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188131",
+            "security": "public",
+            "formatdesc": "Article",
+            "placement": 1,
+            "eprintid": 48754
+          },
+          {
+            "main": "Lampung Language Online Learning during the Covid-19 Outbreak_ How are the Teacher’s TPACK Skills_.pdf",
+            "docid": 188166,
+            "files": [
+                {
+                  "filesize": 4262632,
+                  "objectid": 188166,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531288",
+                  "filename": "Lampung Language Online Learning during the Covid-19 Outbreak_ How are the Teacher’s TPACK Skills_.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-05 16:15:20",
+                  "datasetid": "document",
+                  "fileid": 531288,
+                  "mime_type": "application\/pdf",
+                  "hash": "4f7326560552870a60d33f909c0c373b"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "placement": 2,
+            "eprintid": 48754,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188166",
+            "formatdesc": "Similarity Report",
+            "security": "public"
+          },
+          {
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 531378,
+                  "datasetid": "document",
+                  "hash": "bb4bacc30cfcaca7cdab1f675774bc0e",
+                  "mime_type": "application\/pdf",
+                  "objectid": 188173,
+                  "filesize": 1145550,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531378",
+                  "filename": "Korepondensi_IJI_Farida_Ariyani.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-06 02:25:43"
+                }
+            ],
+            "main": "Korepondensi_IJI_Farida_Ariyani.pdf",
+            "docid": 188173,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188173",
+            "pos": 3,
+            "security": "public",
+            "formatdesc": "Bukti Korespondensi",
+            "placement": 3,
+            "eprintid": 48754
+          }
+      ],
+      "lastmod": "2023-03-06 08:36:36",
+      "official_url": "https:\/\/www.e-iji.net\/dosyalar\/iji_2023_1_18.pdf",
+      "creators": [
+        {
+          "name": {
+            "given": "Farida",
+            "lineage": null,
+            "family": "Ariyani",
+            "honourific": null
+          },
+          "id": "farida.ariyani@fkip.unila.ac.id"
+        },
+        {
+          "id": "abuazisah59@yahoo.co.id",
+          "name": {
+            "given": "Muhammad",
+            "lineage": null,
+            "family": "Fuad",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suyanto",
+            "given": "Edi"
+          },
+          "id": "edisuyanto1963@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Ulul Azmi",
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null
+          },
+          "id": "spartauam.20@gmail.com"
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "Lampung Language Online Learning during the Covid-19 Outbreak: How are the Teacher’s TPACK Skills?"
+    },
+    {
+      "refereed": "FALSE",
+      "title": "Citizen’s Disaster Communications in Social Media: A Study of Ethnolinguistics Application of “Piil Pesenggiri” in Tanggamus",
+      "type": "book_section",
+      "creators": [
+        {
+          "id": "Traveler14@gmail.com",
+          "name": {
+            "given": "Sutiadi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rahmansyah"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Dicky Rezady",
+            "honourific": null,
+            "family": "Munaf",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sansan",
+            "honourific": null,
+            "family": "Ziaulhaq",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Siregar",
+            "lineage": null,
+            "honourific": null,
+            "given": "Chairil Nur"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ayi",
+            "honourific": null,
+            "family": "Rohayati",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Tesa",
+            "family": "Ardiansyah",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "farida.ariyani@fkip.unila.ac.id",
+          "name": {
+            "given": "Farida",
+            "honourific": null,
+            "family": "Ariyani",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Deris",
+            "lineage": null,
+            "family": "Astriawan",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Andriansyah",
+            "lineage": null,
+            "honourific": null,
+            "given": "Andriansyah"
+          },
+          "id": null
+        }
+      ],
+      "isbn": "978-2-494069-69-5",
+      "pagerange": "238-244",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.2991\/978-2-494069-69-5_20",
+      "eprint_status": "archive",
+      "eprintid": 48767,
+      "datestamp": "2023-03-06 01:57:12",
+      "documents": [
+          {
+            "docid": 188150,
+            "main": "125984199 (1).pdf",
+            "files": [
+                {
+                  "fileid": 531213,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "f26d0a7d6ec1bfc4b685ea6c954abc42",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-05 13:14:10",
+                  "filesize": 371294,
+                  "objectid": 188150,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531213",
+                  "filename": "125984199 (1).pdf"
+                }
+            ],
+            "format": "text",
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "placement": 1,
+            "eprintid": 48767,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188150",
+            "pos": 1,
+            "security": "public",
+            "formatdesc": "Article"
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188151",
+            "pos": 2,
+            "security": "public",
+            "formatdesc": "Similarity Report",
+            "placement": 2,
+            "eprintid": 48767,
+            "rev_number": 2,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Citizen’s Disaster Communications in Social Media_ A Study of Ethnolinguistics Application of “Piil Pesenggiri” in Tanggamus.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "622413479b34068d36172b63a9cf0062",
+                  "datasetid": "document",
+                  "fileid": 531215,
+                  "mtime": "2023-03-05 13:16:42",
+                  "hash_type": "MD5",
+                  "filename": "Citizen’s Disaster Communications in Social Media_ A Study of Ethnolinguistics Application of “Piil Pesenggiri” in Tanggamus.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531215",
+                  "objectid": 188151,
+                  "filesize": 1296731
+                }
+            ],
+            "docid": 188151,
+            "format": "text"
+          }
+      ],
+      "lastmod": "2023-03-06 01:57:12",
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/codh-22\/125984199",
+      "userid": 500,
+      "publisher": "Atlantis Press",
+      "divisions": [
+        "FKIP7"
+      ],
+      "dir": "disk0_bak\/00\/04\/87\/67",
+      "ispublished": "pub",
+      "rev_number": 13,
+      "status_changed": "2023-03-06 01:57:12",
+      "full_text_status": "public",
+      "series": "Advances in Social Science, Education and Humanities Research",
+      "book_title": "Proceedings of the Conference on Digital Humanities 2022 (CODH 2022)",
+      "subjects": [
+        "P1",
+        "PN"
+      ],
+      "date_type": "published",
+      "date": "2023-02-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48767",
+      "volume": 712,
+      "abstract": "Tanggamus are prone to natural disasters such as earthquakes. This happens due to the geographical location of the island of Sumatra, which is at the confluence of two earth plates, namely the Indo-Australian plate which continues to actively subduct under the Eurasian plate. This paper aims to research Piil Pesenggiri as a real form application of ethnolinguistics through citizen commentaries in social media (Instagram) during the earthquake in 2021. Themethod used in this research was a descriptive qualitative method. The data were taken from Instagram citizen comments @Bmkglampung and @lampuung. The result found that there are three Piil Pesenggiri sayings that have been applied and appeared in social media especially in citizen commentaries. Those are Pessinggiri, Nengah Nyappur and Sakai Sambayan. In conclusion, Piil Pesenggiri is not only seen as local thoughts or concepts, but when disaster happened in Tanggamus it became a valuable system used and internalized by the community to manage the disaster."
+    }
+]
+

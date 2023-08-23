@@ -1,0 +1,74 @@
+[
+    {
+      "divisions": [
+        "FKIP1"
+      ],
+      "publication": "Jurnal Pendidikan dan Pembelajaran",
+      "dir": "disk0\/00\/02\/86\/83",
+      "issn": "1963-2463",
+      "full_text_status": "public",
+      "status_changed": "2021-03-30 04:12:21",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "date_type": "completed",
+      "subjects": [
+        "L1"
+      ],
+      "volume": 5,
+      "date": "2007-03-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28683",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Ujang",
+            "family": "Suparman",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ujang.suparman@fkip.unila.ac.id"
+        }
+      ],
+      "title": "Analisa Kemampuan Membaca Mahasiswa",
+      "refereed": "TRUE",
+      "contact_email": "ujang.suparman@fkip.unila.ac.id",
+      "datestamp": "2021-03-30 04:12:21",
+      "eprint_status": "archive",
+      "eprintid": 28683,
+      "metadata_visibility": "show",
+      "pagerange": "59-68",
+      "userid": 783,
+      "number": 1,
+      "lastmod": "2021-03-30 04:12:21",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Analisa Kemampuan Membaca Mahasiswa.pdf",
+            "docid": 42738,
+            "files": [
+                {
+                  "fileid": 254499,
+                  "datasetid": "document",
+                  "hash": "1bac4ebbcbafd18edf20a6654725d149",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-29 08:20:27",
+                  "filesize": 3696903,
+                  "objectid": 42738,
+                  "filename": "Analisa Kemampuan Membaca Mahasiswa.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/254499"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42738",
+            "eprintid": 28683,
+            "placement": 1
+          }
+      ]
+    }
+]
+

@@ -1,0 +1,174 @@
+[
+    {
+      "date_type": "published",
+      "subjects": [
+        "QC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8638",
+      "date": "2007-08",
+      "abstract": "The malor causes of gravity change are mass change in reservoir (subsurface) and vertical ground movement\r\n(subsidence). While the observed gravity change, called as ttme-lapse microgravity anomaly, is as superposiilon of all\r\nthe causes, hence how to identify each source is very important because some of causes could have similar response. As example is increase of subsurface density (mass) and subsidence. In order to minimize this uncertainty, time-lapse vertical gradient microgravity associated with its time-lapse microgravity is analyzed. Microgravity and vertical-gradient measurement has been conducted at 87 stations which distributed in geothermal field of Kamojang and analyzed to identify subsurface source. The time-lapse microgravity anomaly of June-November 2006 period showed the anomaly value in the range of -240 to 120 microgal and vertical-gradient in the range of -200 to 240 microgal. The time-lapse\r\nmicrogravity anomaly of June-November 2006 period showed the anomaly value in range of -240 lo 120 microGal that\r\nrelate with the existence of density change in the range of -0,25 to 0.3 g\/cc . This density contrast could be used as a representation of not only for fluid and pressure increase for positive density contras but also fluid and pressure decreasefor negative density contrast",
+      "corp_creators": [
+        "Geophysical Engineering, University of Lampung",
+        "Geophysical Engineering, ITB",
+        "Geophysical Engineering, ITB",
+        "Pertamina Geothermal Energy"
+      ],
+      "volume": 13,
+      "publication": "Jurnal Sains MIPA",
+      "publisher": "FMIPA Universitas Lampung",
+      "dir": "disk0\/00\/00\/86\/38",
+      "divisions": [
+        "FT2"
+      ],
+      "ispublished": "pub",
+      "rev_number": 9,
+      "issn": "1978-1873",
+      "full_text_status": "public",
+      "status_changed": "2018-08-03 07:38:32",
+      "metadata_visibility": "show",
+      "pagerange": "106-112",
+      "datestamp": "2018-08-03 07:38:32",
+      "eprintid": 8638,
+      "eprint_status": "archive",
+      "lastmod": "2018-08-03 07:38:32",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2018-07-17 04:20:32",
+                  "hash_type": "MD5",
+                  "filename": "JURNAL SAINS MIPA VOL.13 (2007).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/84410",
+                  "filesize": 8835579,
+                  "objectid": 21707,
+                  "mime_type": "application\/pdf",
+                  "hash": "bed6caf46e8cad7dd5be923f84d664de",
+                  "fileid": 84410,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "JURNAL SAINS MIPA VOL.13 (2007).pdf",
+            "docid": 21707,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21707",
+            "eprintid": 8638,
+            "placement": 1
+          }
+      ],
+      "userid": 662,
+      "number": 2,
+      "title": "IDENTIFIKASI ZONA PERUBAHAN MASSA BAWAH PERMUKAAN DAN\r\nSUBSIDENCE DENGAN METODE GAYABERATMIKRO 4D, GRADIEN VERTIKAL GAYABERATMIKRO DAN INVERSI LINIER\r\nSTUDI KASUS: LAPANGAN PANASBUMI KAMOJANG",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "zaenudin7209@gmail.com",
+          "name": {
+            "given": "Zaenudin",
+            "honourific": null,
+            "family": "Ahmad",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Wawan G.A. Kadir",
+            "lineage": null,
+            "given": "WGA Kadir"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Djoko Santoso",
+            "lineage": null,
+            "given": "DjS"
+          }
+        },
+        {
+          "name": {
+            "given": "Imam",
+            "honourific": null,
+            "family": "Imam B. Raharjo",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Gatot Eko",
+            "honourific": null,
+            "family": "Susilo",
+            "lineage": null
+          },
+          "id": "gatot89@yahoo.ca"
+        }
+      ],
+      "title": "SK PENGUMUMAN PEMENANG HIBAH PENELITIAN UNILA 2017 (SK REKTOR)",
+      "userid": 874,
+      "lastmod": "2020-07-24 00:53:14",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36931",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 23337,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 36931,
+                  "filesize": 60599,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/213496",
+                  "filename": "HIBAH PASCA 2017 (Tabel 3 No. 19).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-07-23 07:25:43",
+                  "fileid": 213496,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "ec0b949f78411966452b56f4fb460bf0"
+                }
+            ],
+            "main": "HIBAH PASCA 2017 (Tabel 3 No. 19).pdf",
+            "docid": 36931,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2020-07-24 00:53:14",
+      "eprint_status": "archive",
+      "id_number": "844\/UN26.21\/PP\/2017",
+      "eprintid": 23337,
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "status_changed": "2020-07-24 00:53:14",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "divisions": [
+        "FT2"
+      ],
+      "publisher": "UNIVERSITY OF LAMPUNG",
+      "dir": "disk0\/00\/02\/33\/37",
+      "abstract": "SK PENGUMUMAN PEMENANG HIBAH PENELITIAN UNILA 2017 (SK REKTOR)",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23337",
+      "date": "2007-07-13",
+      "subjects": [
+        "T1"
+      ]
+    }
+]
+

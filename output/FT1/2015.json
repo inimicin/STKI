@@ -1,0 +1,709 @@
+[
+    {
+      "official_url": "http:\/\/www.ttp.net.",
+      "lastmod": "2017-02-06 01:09:51",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1299",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 1425,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "fileid": 9636,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "be8b926de820634cbb573feaefe7bfc4",
+                  "objectid": 1299,
+                  "filesize": 400890,
+                  "filename": "Nandi_AMM.771.165_Scopus.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9636",
+                  "hash_type": "MD5",
+                  "mtime": "2017-02-02 05:38:48"
+                }
+            ],
+            "main": "Nandi_AMM.771.165_Scopus.pdf",
+            "docid": 1299,
+            "format": "text"
+          }
+      ],
+      "userid": 827,
+      "number": "-",
+      "metadata_visibility": "show",
+      "pagerange": "165-169",
+      "datestamp": "2017-02-06 01:09:51",
+      "eprint_status": "archive",
+      "eprintid": 1425,
+      "title": "Application of Radon Isotopes to Determine Permeable Zones in Rajabasa Geothermal Field, Indonesia",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "nandi.haerudin@eng.unila.ac.id",
+          "name": {
+            "given": "NH",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nandi Haerudin"
+          }
+        },
+        {
+          "id": "pwahyudi2002@yahoo.com",
+          "name": {
+            "given": "WY",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wahyudi"
+          }
+        },
+        {
+          "id": "dikrisdi@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Dikdik Risdianto",
+            "honourific": null,
+            "given": "DR"
+          }
+        },
+        {
+          "id": "ws@ugm.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wiwit Suryanto",
+            "given": "WS"
+          }
+        }
+      ],
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1425",
+      "abstract": "This study aims to determine permeable zones (i.e. fault or fracture zones) in the\r\nRajabasa geothermal field using radon isotopes. Radon concentration of soil gas was measured by\r\nScintrex Radon detector RDA 200 consisting of 123 measurement station. The measurement site\r\nspacing was between 200 m and 350 m. The radon concentration was classified based on a\r\nstatistical approach, i.e. low, high and very high. Very high value of radon concentration, called\r\nradon anomaly, associated with permeable zones. From the radon anomaly contour map, a 2D\r\nRadon migration from the source to the surface was modelled by means of numerical simulation.\r\nFinally, the radon contour map was overlaid with the surface geological map and the resistivity\r\ncontour map in the area of study. It suggests that the radon anomaly correlates with the location of\r\npermeable zone in the centre part of the study area i.e. mud pool manifestation at the Kunjir and the\r\nCugung (Bulakan) fumarole. Based on numerical simulation, the width of the fault is 2,800 m;\r\nvelocity of fluid is 0.08 m\/s and the Radon concentration is 860,000 Beq\/m3. The resistivity contour\r\nmap results in low resistivity of 0 to 100 Ωm indicating the conductive zone coincide with\r\npermeable zones based on radon measurements. Furthermore, the peak of the profile curve of\r\nRadon concentration could be an indication of fault systems in this area.",
+      "corp_creators": [
+        "Universitas Lampung, Universitas Gadjah Mada",
+        "Universitas Gadjah Mada",
+        "Badan Geologi Indonesia",
+        "Universitas Gadjah Mada"
+      ],
+      "volume": 771,
+      "date_type": "published",
+      "subjects": [
+        "QC",
+        "QE",
+        "TA"
+      ],
+      "rev_number": 10,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": 16609336,
+      "status_changed": "2017-02-06 01:09:51",
+      "related_url": [
+        {
+          "url": "http:\/\/www.scientific.net"
+        }
+      ],
+      "divisions": [
+        "FT1"
+      ],
+      "publisher": "Trans Tech Publications Ltd",
+      "publication": "Applied Mechanics and Materials",
+      "dir": "disk0\/00\/00\/14\/25"
+    },
+    {
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "dir": "disk0\/00\/04\/40\/29",
+      "status_changed": "2022-08-15 01:35:52",
+      "issn": "2303-016X",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "QE"
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 3,
+      "abstract": "Pinang Jaya area victorious be in the eastern Betung mountain and is considered two\r\nfunction, as a recharge area and barrier to reduction flooding on Bandar Lampung. We have\r\nalternative solution for this problem, will be built the technology artificial pore. By this technique, we\r\ncould acceleration water flow on the surface to underground. To design the technology artificial pore,\r\nwe was mapping feature underground using fifty vertical electrical soundings. The main goal of such\r\nsurveys was to delineate subsurface structural elements, especially aquifer zone. Subsurface structural\r\nand aquifer zone were interpreted by correlation apparent resistivity from fifty VES for different\r\ndepth. The interpretation results showed the subsurface structure dominant with high apparent\r\nresponse, and aquifer detected as a lens with northwest – southeast orientation",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44029",
+      "date": "2015-07",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Rustadi",
+            "honourific": null,
+            "family": "Rustadi",
+            "lineage": null
+          },
+          "id": "rustadi_2007@yahoo.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "23. Plagiarism Checker  JTAF (Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling)",
+      "eprintid": 44029,
+      "eprint_status": "archive",
+      "datestamp": "2022-08-15 01:35:52",
+      "pagerange": "227-231",
+      "metadata_visibility": "show",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 760,
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "23. Plagiarism Checker  JTAF (Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling).pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-08-14 02:35:02",
+                  "filesize": 319963,
+                  "objectid": 166030,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/478932",
+                  "filename": "23. Plagiarism Checker  JTAF (Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling).pdf",
+                  "fileid": 478932,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "1ca117ee6c332d84d202b36207c7edd8"
+                }
+            ],
+            "docid": 166030,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166030",
+            "eprintid": 44029,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2022-08-15 01:35:52",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1309"
+    },
+    {
+      "refereed": "TRUE",
+      "eprintid": 44273,
+      "eprint_status": "archive",
+      "id_number": "dx.doi.org\/10.23960%2Fjtaf.v3i2",
+      "datestamp": "2022-08-29 01:39:39",
+      "pagerange": "227-231",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 760,
+      "documents": [
+          {
+            "format": "text",
+            "docid": 166360,
+            "main": "Plagiarism Checker Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling (JTAF).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 481107,
+                  "mime_type": "application\/pdf",
+                  "hash": "1ca117ee6c332d84d202b36207c7edd8",
+                  "filesize": 319963,
+                  "objectid": 166360,
+                  "filename": "Plagiarism Checker Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling (JTAF).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/481107",
+                  "hash_type": "MD5",
+                  "mtime": "2022-08-26 13:07:27"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 44273,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166360",
+            "pos": 1
+          }
+      ],
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/issue\/current",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1309"
+        }
+      ],
+      "full_text_status": "public",
+      "issn": "2303-016X",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Pinang Jaya area victorious be in the eastern Betung mountain and is considered two\r\nfunction, as a recharge area and barrier to reduction flooding on Bandar Lampung. We have\r\nalternative solution for this problem, will be built the technology artificial pore. By this technique, we\r\ncould acceleration water flow on the surface to underground. To design the technology artificial pore,\r\nwe was mapping feature underground using fifty vertical electrical soundings. The main goal of such\r\nsurveys was to delineate subsurface structural elements, especially aquifer zone. Subsurface structural\r\nand aquifer zone were interpreted by correlation apparent resistivity from fifty VES for different\r\ndepth. The interpretation results showed the subsurface structure dominant with high apparent\r\nresponse, and aquifer detected as a lens with northwest – southeast orientation",
+      "date": "2015-07",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rustadi",
+            "given": "Rustadi"
+          },
+          "id": "rustadi_2007@yahoo.com"
+        }
+      ],
+      "type": "article",
+      "title": "Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling\r\nSebagai Acuan Desain Sumur Biopori",
+      "metadata_visibility": "show",
+      "lastmod": "2022-08-29 01:39:39",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/04\/42\/73",
+      "status_changed": "2022-08-29 01:39:39",
+      "rev_number": 6,
+      "subjects": [
+        "QE"
+      ],
+      "volume": 3,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44273"
+    },
+    {
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 44287,
+      "datestamp": "2022-08-29 01:40:38",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-08-27 02:12:47",
+                  "objectid": 166374,
+                  "filesize": 1098542,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/481200",
+                  "filename": "Peer review Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling (JTAF 2015).pdf",
+                  "fileid": 481200,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "59e97591320fa7211ef09605be94fc46"
+                }
+            ],
+            "main": "Peer review Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling (JTAF 2015).pdf",
+            "docid": 166374,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 44287,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166374",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf",
+      "lastmod": "2022-08-29 01:40:38",
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 760,
+      "refereed": "TRUE",
+      "title": "Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling\r\nSebagai Acuan Desain Sumur Biopori",
+      "creators": [
+        {
+          "id": "rustadi_2007@yahoo.com",
+          "name": {
+            "given": "Rustadi",
+            "family": "Rustadi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "QE"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44287",
+      "date": "2015-07",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 3,
+      "abstract": "Wilayah Pinang Jaya, Kemiling yang berada di lereng bagian timur Gunung Betung, dapat\r\ndifungsikan untuk dua tujuan krusial, yaitu daerah resapan serta tanggul untuk memperkecil aliran air\r\npermukaan pemicu banjir di Bandar Lampung. Untuk perencanaan desain sumur resapan di Pinang\r\nJaya, telah dilakukan pemetaan potensi akuifer melalui pemetaan geolistrik. Pemetaan dilakukan\r\nmelalui teknik VES sebanyak lima puluh titik ukur. Tujuan pemetaan mendapatkan informasi litologi\r\nkhususnya analisis keberadaan akuifer. Tafsiran dilakukan melalui pendekatan korelasi data\r\nresistivity semu, pada kedalaman berbeda. Berdasar teknik korelasi ini, keberadaan akuifer bersifat\r\nlensa, ditemukan di beberapa posisi dengan kecenderungan membentuk diagonal berarah barat laut –\r\ntenggara",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/04\/42\/87",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf"
+        }
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2022-08-29 01:40:38",
+      "full_text_status": "public",
+      "issn": "2303-016X"
+    },
+    {
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "family": "Rustadi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Rustadi"
+          },
+          "id": "rustadi_2007@yahoo.com"
+        }
+      ],
+      "title": "Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling\r\nSebagai Acuan Desain Sumur Biopori",
+      "datestamp": "2022-09-02 01:20:24",
+      "id_number": "10.23960%2Fjtaf.v3i2.1309",
+      "eprintid": 44624,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 760,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "lastmod": "2022-09-02 01:20:24",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1309",
+      "documents": [
+          {
+            "main": "Plagiarism Checker Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling (JTAF).pdf",
+            "docid": 166507,
+            "files": [
+                {
+                  "hash": "1ca117ee6c332d84d202b36207c7edd8",
+                  "mime_type": "application\/pdf",
+                  "fileid": 482290,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/482290",
+                  "filename": "Plagiarism Checker Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling (JTAF).pdf",
+                  "objectid": 166507,
+                  "filesize": 319963,
+                  "mtime": "2022-09-01 10:26:20",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 44624,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166507",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/04\/46\/24",
+      "full_text_status": "public",
+      "status_changed": "2022-09-02 01:20:24",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "QE"
+      ],
+      "abstract": "Pinang Jaya area victorious be in the eastern Betung mountain and is considered two\r\nfunction, as a recharge area and barrier to reduction flooding on Bandar Lampung. We have\r\nalternative solution for this problem, will be built the technology artificial pore. By this technique, we\r\ncould acceleration water flow on the surface to underground. To design the technology artificial pore,\r\nwe was mapping feature underground using fifty vertical electrical soundings. The main goal of such\r\nsurveys was to delineate subsurface structural elements, especially aquifer zone. Subsurface structural\r\nand aquifer zone were interpreted by correlation apparent resistivity from fifty VES for different\r\ndepth. The interpretation results showed the subsurface structure dominant with high apparent\r\nresponse, and aquifer detected as a lens with northwest – southeast orientation",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44624",
+      "date": "2015-07"
+    },
+    {
+      "title": "Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling\r\nSebagai Acuan Desain Sumur Biopori",
+      "type": "other",
+      "creators": [
+        {
+          "id": "rustadi_2007@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Rustadi",
+            "honourific": null,
+            "given": "Rustadi"
+          }
+        }
+      ],
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1309",
+      "lastmod": "2022-09-02 01:22:09",
+      "documents": [
+          {
+            "main": "Peer review Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling (JTAF 2015).pdf",
+            "docid": 166533,
+            "files": [
+                {
+                  "objectid": 166533,
+                  "filesize": 1098542,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/482477",
+                  "filename": "Peer review Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling (JTAF 2015).pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-09-01 13:34:59",
+                  "datasetid": "document",
+                  "fileid": 482477,
+                  "mime_type": "application\/pdf",
+                  "hash": "59e97591320fa7211ef09605be94fc46"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 44650,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166533",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 760,
+      "metadata_visibility": "show",
+      "datestamp": "2022-09-02 01:22:09",
+      "eprint_status": "archive",
+      "id_number": "10.23960%2Fjtaf.v3i2.1309",
+      "eprintid": 44650,
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2022-09-02 01:22:09",
+      "dir": "disk0\/00\/04\/46\/50",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44650",
+      "date": "2015-07",
+      "abstract": "Pinang Jaya area victorious be in the eastern Betung mountain and is considered two\r\nfunction, as a recharge area and barrier to reduction flooding on Bandar Lampung. We have\r\nalternative solution for this problem, will be built the technology artificial pore. By this technique, we\r\ncould acceleration water flow on the surface to underground. To design the technology artificial pore,\r\nwe was mapping feature underground using fifty vertical electrical soundings. The main goal of such\r\nsurveys was to delineate subsurface structural elements, especially aquifer zone. Subsurface structural\r\nand aquifer zone were interpreted by correlation apparent resistivity from fifty VES for different\r\ndepth. The interpretation results showed the subsurface structure dominant with high apparent\r\nresponse, and aquifer detected as a lens with northwest – southeast orientation",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "subjects": [
+        "QE"
+      ]
+    },
+    {
+      "number": 2,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 760,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185308",
+            "eprintid": 46430,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling (JTAF Sinta 3).pdf",
+            "files": [
+                {
+                  "mtime": "2022-11-09 13:06:02",
+                  "hash_type": "MD5",
+                  "filename": "Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling (JTAF Sinta 3).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512374",
+                  "filesize": 700744,
+                  "objectid": 185308,
+                  "hash": "e370a18ea8d9ae6d34910ebbf31d9681",
+                  "mime_type": "application\/pdf",
+                  "fileid": 512374,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 185308
+          }
+      ],
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/jtaf\/article\/view\/1309",
+      "lastmod": "2022-11-10 01:08:44",
+      "eprintid": 46430,
+      "eprint_status": "archive",
+      "datestamp": "2022-11-10 01:08:44",
+      "pagerange": "227-231",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Rustadi",
+            "family": "Rustadi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rustadi_2007@yahoo.com"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Analisis Geologi Bawah Permukaan Di Kecamatan Kemiling\r\nSebagai Acuan Desain Sumur Biopori",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 3,
+      "abstract": "Pinang Jaya area victorious be in the eastern Betung mountain and is considered two\r\nfunction, as a recharge area and barrier to reduction flooding on Bandar Lampung. We have\r\nalternative solution for this problem, will be built the technology artificial pore. By this technique, we\r\ncould acceleration water flow on the surface to underground. To design the technology artificial pore,\r\nwe was mapping feature underground using fifty vertical electrical soundings. The main goal of such\r\nsurveys was to delineate subsurface structural elements, especially aquifer zone. Subsurface structural\r\nand aquifer zone were interpreted by correlation apparent resistivity from fifty VES for different\r\ndepth. The interpretation results showed the subsurface structure dominant with high apparent\r\nresponse, and aquifer detected as a lens with northwest – southeast orientation",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46430",
+      "date": "2015-07",
+      "subjects": [
+        "QE"
+      ],
+      "date_type": "published",
+      "status_changed": "2022-11-10 01:08:44",
+      "full_text_status": "public",
+      "issn": "2549-1156",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "dir": "disk0\/00\/04\/64\/30",
+      "publication": "Jurusan Fisika Fakultas MIPA, Universitas Lampung",
+      "divisions": [
+        "FT1"
+      ]
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "id": "suharno@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Suharno",
+            "lineage": null,
+            "given": "Suharno"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Analysis of Thermal Manifestation in Suoh West Lampung Indonesia",
+      "userid": 1070,
+      "lastmod": "2021-03-05 08:47:04",
+      "eprint_status": "archive",
+      "eprintid": 28199,
+      "datestamp": "2021-03-05 08:47:04",
+      "metadata_visibility": "show",
+      "status_changed": "2021-03-05 08:47:04",
+      "full_text_status": "none",
+      "rev_number": 5,
+      "ispublished": "pub",
+      "divisions": [
+        "FT1"
+      ],
+      "publication": "Proceedings World Geothermal Congress 2015 Melbourne, Australia, 19-25 Ap",
+      "dir": "disk0\/00\/02\/81\/99",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Suoh Geothermal Field is located in a pull-apart basin resulting from a step in the Great Sumatra Fault (GSF) which strikes NW.\r\nThis Field is found within a valley which widens into a broad depression (the Suoh depression) and near the southern end of the\r\nSumatra fault zone. Significant thermal features are located near the western and eastern margins of the depression. The Suoh\r\ndepression is interpreted to have formed as a result of a fault jog, where the Great Sumatran Fault zone is offset dextrally by a pair\r\nof north-south faults. The dominant units are young alluvium (Qal) and Asam eruption deposits (Qae). South-west of the Souh\r\ndepression the primary rock type is Tertiary Andesite (Tat). North-east of the depression are the Tekorberak Volcanics (Qsdt). The\r\nyoungest volcanics in the area are the Loreng Volcanics (Qlr) located immediately west of the Kalibata thermal area. Thermal areas\r\nin Suoh consist of the Kalibata, Way Haru and Srirejo areas. Geochemistry interpretation was based on the Na-K-Mg and Cl-SO4-\r\nHCO3 ternary plots. Liquid geothermometry strongly suggest the Kalibata thermal features are connected to a benign geothermal system with temperatures of 250°C to 260°C. Estimated temperatures at Way Haru and Srirejo are lower, at 210 °C and 175 °C, respectively. The hottest fluids in the system upflow along the deep-seated Great Sumatra Fault and the western graben transform fault, heated by magmas associated with the Loreng Volcanics. These fluids flow out into the basin-filling volcanics and sediments and likely the underlying Tertiary volcanics to form the geothermal reservoir.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28199",
+      "date": 2015,
+      "subjects": [
+        "TN"
+      ]
+    },
+    {
+      "date": 2015,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28131",
+      "abstract": "Some samples of data from the world's geothermal system\r\nconsisting of: (1) geothermal systems Padang Cermin (a.\r\nPadang Cermin 1, b. Padang Cermin 2, c. Margodadi, d.\r\nWadok, (2) Kawah Ijen (East Java), (3) Wairakey (New\r\nZealand), (4) Sea water, (5) Salton Sea (USA), and (6)\r\nMeraviles Cero Prito (Mexico). Analysis of ion balance is\r\nperformed on the fifth geothermal system data stretcher.\r\nAnalysis triangle ternary diagrams (Cl-HCO3-SO4) and (NaK-Mg) performed on all the data from the six samples.\r\nIon balance analysis results showed that: (1) The Padang\r\nCermin geothermal system showed good hydrothermal\r\nsystem (ion balance value between 0.1 up to 2.19%), (2) the Kawah Ijen geothermal system shows that the hydrothermal system is not good (the value of the ion balance 47%), (3) The Wairakey (New Zealand) showed good hydrothermal system (ion balance value of 1.2%), (4) The sea water is not hydrothermal system. (5) The Salton Sea (USA), indicate that the hydrothermal system is good (the value of the ion balance is 3.6%). (Cl-HCO3-SO4) triangle ternary diagram analysis results showed that: (1) produce a type of chloride water reservoir, (2) produces chloride water reservoir types, (3) produces chloride water reservoir types, (4) produce a type of chloride water reservoir, and (5) to produce the type of carbonate reservoir water.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "subjects": [
+        "QD"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2021-03-04 03:23:43",
+      "publication": "Proceedings Indonesia International Geothermal Convention & Exhibition 2015 Jakarta Convention Center, Indonesia – August 19th – 21st, 2015",
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/02\/81\/31",
+      "lastmod": "2021-03-04 03:23:43",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 28131,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42184",
+            "security": "public",
+            "main": "Suharno dkk. (2015) GEOTHERMAL SYSTEM IDENTIFICATION BASED ON ANALYSIS OF ION BALANCE.pdf",
+            "docid": 42184,
+            "files": [
+                {
+                  "mtime": "2021-02-28 09:33:01",
+                  "hash_type": "MD5",
+                  "filename": "Suharno dkk. (2015) GEOTHERMAL SYSTEM IDENTIFICATION BASED ON ANALYSIS OF ION BALANCE.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/250323",
+                  "objectid": 42184,
+                  "filesize": 1047690,
+                  "mime_type": "application\/pdf",
+                  "hash": "648ed7419b30c819c5ab32495344de53",
+                  "datasetid": "document",
+                  "fileid": 250323
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 1070,
+      "metadata_visibility": "show",
+      "datestamp": "2021-03-04 03:23:43",
+      "eprint_status": "archive",
+      "eprintid": 28131,
+      "title": "GEOTHERMAL SYSTEM IDENTIFICATION BASED ON ANALYSIS OF ION BALANCE Cl-SO4-HCO3 AND NA-K-Mg CHART ANALYSIS",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "suharno@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Suharno",
+            "lineage": null,
+            "given": "Suharno"
+          }
+        }
+      ]
+    }
+]
+

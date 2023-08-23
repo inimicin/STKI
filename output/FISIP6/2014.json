@@ -1,0 +1,70 @@
+[
+    {
+      "divisions": [
+        "FISIP6"
+      ],
+      "publication": "Lampung Post",
+      "dir": "disk0\/00\/00\/06\/27",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "status_changed": "2016-09-23 07:22:16",
+      "date_type": "published",
+      "subjects": [
+        "JF"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/627",
+      "date": "2014-01-09",
+      "title": "Strategi dan Muslihat dalam Pemilu\/kada",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Hertanto",
+            "family": "Srisoetanto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "hertanto.1960@fisip.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "pagerange": "12-12",
+      "datestamp": "2016-09-23 07:22:16",
+      "eprint_status": "archive",
+      "eprintid": 627,
+      "lastmod": "2016-09-23 07:22:16",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/531",
+            "eprintid": 627,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "STRATEGI DAN MUSLIHAT DALAM PEMILU (KADA).pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 3464,
+                  "hash": "0ee6f52cf6adc81fb95aee116ee269e0",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-21 04:19:39",
+                  "objectid": 531,
+                  "filesize": 548852,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/3464",
+                  "filename": "STRATEGI DAN MUSLIHAT DALAM PEMILU (KADA).pdf"
+                }
+            ],
+            "docid": 531
+          }
+      ],
+      "userid": 813
+    }
+]
+

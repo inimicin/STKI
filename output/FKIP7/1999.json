@@ -1,0 +1,111 @@
+[
+    {
+      "series": "Katalog Dalam Terbitan",
+      "date_type": "published",
+      "subjects": [
+        "L1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/820",
+      "date": 1999,
+      "abstract": "Kamus Bahasa Indonesia-Lampung Dialek A (L-Z) ini akhirnya dapa diselesaikan tepat pada waktunya. Walaupun sudah mempunyai sedikit pengalaman dalam penyusunan terdahulu-penyusunan lema A--K), dalam penyusunan ini tim masih menemukan semacam kendala.kendala itu, antara lain, ialah dalam hal penerapan kaidah ejaan, yaitu dalam penulisan kata bahasa Lampung dari ucapan subdialek yang beragam.",
+      "publisher": "Pusat Pembinaan dan Pengembangan Bahasa",
+      "dir": "disk0\/00\/00\/08\/20",
+      "divisions": [
+        "FKIP7"
+      ],
+      "ispublished": "pub",
+      "rev_number": 17,
+      "full_text_status": "restricted",
+      "status_changed": "2016-10-17 14:30:37",
+      "metadata_visibility": "show",
+      "datestamp": "2016-10-17 14:30:37",
+      "eprintid": 820,
+      "eprint_status": "archive",
+      "lastmod": "2016-10-17 14:30:37",
+      "pages": 581,
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "fileid": 4897,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "058fac21c93838a132568213c058fb7b",
+                  "objectid": 716,
+                  "filesize": 44282267,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/4897",
+                  "filename": "Kamus Bahasa Indonesia-Lampung Dialek A.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-15 17:08:00"
+                }
+            ],
+            "main": "Kamus Bahasa Indonesia-Lampung Dialek A.pdf",
+            "docid": 716,
+            "content": "published",
+            "rev_number": 5,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 820,
+            "placement": 1,
+            "security": "validuser",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/716",
+            "pos": 1
+          }
+      ],
+      "userid": 500,
+      "title": "Kamus Bahasa Indonesia-Lampung Dialek A (A-Z)",
+      "refereed": "TRUE",
+      "isbn": "979 459 971 9",
+      "type": "book",
+      "creators": [
+        {
+          "id": "dulifarida@gmail.com",
+          "name": {
+            "given": "Farida",
+            "lineage": null,
+            "family": "Ariyani",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Udin",
+            "lineage": null,
+            "given": "Nazzaruddin"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ni Nyoman",
+            "family": "Wetty",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Hilal",
+            "lineage": null,
+            "honourific": null,
+            "given": "Iqbal"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "H.M",
+            "lineage": null,
+            "honourific": null,
+            "given": "Junaiyah"
+          }
+        }
+      ],
+      "contact_email": "dulifarida@gmail.com"
+    }
+]
+

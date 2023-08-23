@@ -1,0 +1,976 @@
+[
+    {
+      "title": "Hypoxia-Selective Growth Inhibition of Cancer Cells by\r\nFurospinosulin-1, a Furanosesterterpene Isolated from an\r\nIndonesian Marine Sponge",
+      "creators": [
+        {
+          "id": "araim@phs.osaka-u.ac.jp",
+          "name": {
+            "given": "Masayoshi",
+            "lineage": null,
+            "family": "Arai",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Takashi",
+            "honourific": null,
+            "lineage": null,
+            "family": "Kawachi"
+          }
+        },
+        {
+          "id": "andi.setiawan@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setiawan",
+            "given": "Andi"
+          }
+        },
+        {
+          "id": "kobayasi@phs.osaka-u.ac.jp",
+          "name": {
+            "given": "Motomasa",
+            "family": "Kobayashi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "lastmod": "2021-06-08 16:20:01",
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "status_changed": "2021-06-08 16:20:01",
+      "funders": [
+        "the Hoh-ansha Foundation, the Uehara Memorial Foundation, and Grant-in-Aid for scientific research from the Ministry of Education, Culture, Sports, Science, and Technology of Japan"
+      ],
+      "dir": "disk0\/00\/03\/23\/55",
+      "publication": "ChemMedChem",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32355",
+      "volume": 5,
+      "subjects": [
+        "Q1"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "jurnal 2010-1.pdf",
+            "docid": 146749,
+            "files": [
+                {
+                  "fileid": 382841,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "44f6fbd93cff095153cfbb9eecf9773a",
+                  "filesize": 414643,
+                  "objectid": 146749,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/382841",
+                  "filename": "jurnal 2010-1.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-08 14:09:39"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/146749",
+            "pos": 1,
+            "eprintid": 32355,
+            "placement": 1
+          }
+      ],
+      "official_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/20839272\/",
+      "number": 11,
+      "userid": 945,
+      "pagerange": "1919-1926",
+      "eprintid": 32355,
+      "eprint_status": "archive",
+      "datestamp": "2021-06-08 16:20:01",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "18607179, 18607187",
+      "publisher": "Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim",
+      "date": "2010-11-08",
+      "projects": [
+        "research collaboration"
+      ],
+      "corp_creators": [
+        "Lampung University",
+        "Osaka University"
+      ],
+      "abstract": "It is generally accepted that cancer cells, which have adapted\r\nto the hypoxic environments in tumor tissues, aggravate\r\ncancer pathology by promoting tumor growth, angiogenesis,\r\nmetastasis, and drug resistance. Therefore, compounds that se�lectively inhibit the growth of tumor cells in hypoxic environ�ments are expected to provide new leads for promising anti�cancer drugs. Furospinosulin-1, a marine-sponge-derived fura�nosesterterpene, exhibited selective antiproliferative activity\r\nagainst DU145 human prostate cancer cells under hypoxic con�ditions in concentrations ranging from 1 to 100 mm. Furospino�sulin-1 also demonstrated antitumor activity at 10–50 mg kg�1 oral administration in a mouse model inoculated with sarcoma S180 cells. Mechanistic analysis revealed that furospinosulin-1 suppresses transcription of the insulin-like growth factor-2 gene (IGF-2), which is selectively induced under hypoxic condi�tions through prevention of the binding of nuclear proteins to the Sp1 consensus sequence in the I"
+    },
+    {
+      "abstract": "We have prepared a series of dibutyl-, diphenyl- and triphenyltin(IV) benzoate compounds by\r\nthe reaction of the dibutyltin(IV) dichloride, diphenyltin(IV) dichloride and triphenyltin(IV) chloride\r\nrespectively via the dibutyltin(IV) oxide, diphenyltin(IV) dihydroxide and triphenyltin(IV) hydroxide with\r\nbenzoic acid. The compounds synthesized were characterized by 1H and 13C NMR, IR and UV-Vis\r\nspectroscopies, and are based on the microanalytical data. The in vitro activity showed that\r\ntriphenyltin(IV) benzoate synthesized exhibit higher antitumor than those of dibutyltin(IV) and\r\ndiphenyltin(IV) analogous.",
+      "corp_creators": [
+        "Department of Chemistry, University of Lampung"
+      ],
+      "projects": [
+        "Hibah Kompetensi"
+      ],
+      "date": "2010-09-01",
+      "publisher": "Oriental Scientific Publishing Company",
+      "full_text_status": "public",
+      "issn": "0970-020X",
+      "ispublished": "pub",
+      "datestamp": "2016-11-10 09:20:43",
+      "eprintid": 1123,
+      "eprint_status": "archive",
+      "pagerange": "775-779",
+      "contributors": [
+        {
+          "id": "sutopo.hadi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Sutopo",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hadi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Mita",
+            "honourific": null,
+            "family": "Rilyanti",
+            "lineage": null
+          }
+        }
+      ],
+      "userid": 1093,
+      "number": 3,
+      "official_url": "http:\/\/www.orientjchem.org",
+      "documents": [
+          {
+            "eprintid": 1123,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1005",
+            "format": "text",
+            "main": "OJCV026I03P775-779.pdf",
+            "files": [
+                {
+                  "objectid": 1005,
+                  "filesize": 51163,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/7436",
+                  "filename": "OJCV026I03P775-779.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-10 07:34:39",
+                  "fileid": 7436,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "e88067c98278cd8d95136aeb84db4afb"
+                }
+            ],
+            "docid": 1005,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "refereed": "TRUE",
+      "date_type": "published",
+      "subjects": [
+        "QD"
+      ],
+      "volume": 26,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1123",
+      "publication": "Oriental Journal of Chemistry",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "dir": "disk0\/00\/00\/11\/23",
+      "funders": [
+        "DP2M DIKTI"
+      ],
+      "status_changed": "2016-11-10 09:20:43",
+      "rev_number": 7,
+      "metadata_visibility": "show",
+      "lastmod": "2016-11-10 09:20:43",
+      "creators": [
+        {
+          "name": {
+            "family": "Hadi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sutopo"
+          },
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Rilyanti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Mita"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Synthesis and in vitro anticancer activity\r\nof some organotin(IV) benzoate compounds"
+    },
+    {
+      "refereed": "TRUE",
+      "title": "Chemical Constituents from the Root of Sesbania grandiflora\r\n(L.) Pers",
+      "type": "article",
+      "creators": [
+        {
+          "id": "noviany@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Noviany",
+            "lineage": null,
+            "given": "Noviany"
+          }
+        },
+        {
+          "name": {
+            "given": "Osman",
+            "honourific": null,
+            "family": "Hasnah",
+            "lineage": null
+          },
+          "id": "bqsalfatih20@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Keng Chong",
+            "family": "Wong",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "bqsalfatih20@yahoo.com"
+        }
+      ],
+      "pagerange": "170-176",
+      "metadata_visibility": "show",
+      "eprintid": 1257,
+      "eprint_status": "archive",
+      "datestamp": "2016-11-24 06:32:05",
+      "documents": [
+          {
+            "main": "NOVIANY-KINS_Proceedings.pdf",
+            "files": [
+                {
+                  "mtime": "2016-11-24 04:14:01",
+                  "hash_type": "MD5",
+                  "filename": "NOVIANY-KINS_Proceedings.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8431",
+                  "objectid": 1136,
+                  "filesize": 1396327,
+                  "mime_type": "application\/pdf",
+                  "hash": "2cb4fc9d9b847f809b135ef5b9ad5019",
+                  "datasetid": "document",
+                  "fileid": 8431
+                }
+            ],
+            "docid": 1136,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 1257,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1136",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "official_url": "http:\/\/www.natural-products.in.th",
+      "lastmod": "2016-11-24 06:32:05",
+      "userid": 564,
+      "dir": "disk0\/00\/00\/12\/57",
+      "publisher": "Kasetsart University",
+      "publication": "The 1st Kamphaengsaen International Natural Product Symposium",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2016-11-24 06:32:05",
+      "full_text_status": "public",
+      "subjects": [
+        "QD",
+        "R1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1257",
+      "date": "2010-10-23",
+      "corp_creators": [
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "School of Chemical Sciences, Universiti Sains Malaysia (USM), Minden 11800, Penang, Malaysia",
+        "School of Chemical Sciences, Universiti Sains Malaysia (USM), Minden 11800, Penang, Malaysia"
+      ],
+      "abstract": "Sesbania grandiflora (L.) Pers (Leguminosae) is a small erect and sparsely branched tree. It is a member of the subfamily Faboideae and tribe Robinieae. The Malay names of this plant are turi and geti. This plant is native to tropical Asia and is widespread in Malaysia, Indonesia, Philippines, and India. The root, bark, leaves, flowers, and fruits of the plant are used to treat various diseases in folkloric medicines.  A variety of compounds such as sterols, saponins and tannins exhibits many interesting\r\neffects such as hypotensive, oedema, and diuretic. Due to the above mentioned biological activities, root of the Sesbania grandiflora was selected for phytochemical investigation. Three isoflavonoids, 3-hydroxy-9-methoxypterocarpan, 7,4’-dihydroxy-2’methoxyisoflavan , and 7-hydroxy-2’,4’-dimethoxyisoflavan, were isolated from the root of S.grandiflora. This is the first report on the occurrence of isoflavonoids in this plant. Their structures were elucidated on the basis of spectroscopic data and by\r\ncomparison with the known compounds."
+    },
+    {
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 882,
+      "documents": [
+          {
+            "eprintid": 6457,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19398",
+            "format": "text",
+            "main": "Katalis LaCr1FeO3.pdf",
+            "files": [
+                {
+                  "objectid": 19398,
+                  "filesize": 2129862,
+                  "filename": "Katalis LaCr1FeO3.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59802",
+                  "hash_type": "MD5",
+                  "mtime": "2018-02-09 07:19:29",
+                  "datasetid": "document",
+                  "fileid": 59802,
+                  "mime_type": "application\/pdf",
+                  "hash": "004e8782112b0605a4ebab65319704b8"
+                }
+            ],
+            "docid": 19398,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2018-02-28 08:24:07",
+      "eprint_status": "archive",
+      "eprintid": 6457,
+      "datestamp": "2018-02-28 08:24:07",
+      "pagerange": "377-383",
+      "metadata_visibility": "show",
+      "event_location": "Universitas Lampung",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Rudy T.M",
+            "lineage": null,
+            "family": "Situmeang",
+            "honourific": null
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Indriani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Bekti Rahayu"
+          }
+        },
+        {
+          "name": {
+            "given": "Sukmawibowo",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sukmawibowo"
+          },
+          "id": null
+        }
+      ],
+      "type": "conference_item",
+      "refereed": "TRUE",
+      "event_dates": "Bandar Lampung, 18 - 19 Oktober 2010",
+      "title": "KATALIS LaCr1-xFexO3-δ: PREPARASI, KARAKTERISASI DAN KONVERSI GLUKOSA",
+      "corp_creators": [
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung"
+      ],
+      "abstract": "Glucose conversion have been studied using LaCr1-xFexO38 catalyst which was prepared by citric acid method. X-ray diffraction analysis showed that all catalysts had a perovskite structure of LaCr1-xFexO3 (x = 0.06, 0.5, and 0.94) crystalline phase. FTIR analysis indicated that catalysts had two sites of Bronsted – Lowry and Lewis acids which had a wave numbers of 1350 – 1500 cm-1 and\r\n1550 – 1650 cm-1, respectively . Furthermore,To examine its activity, the catalyst was immersed in a 0.5 M glucose solution and hydrogen gas was also flown as a feed at temperature of 70oC. The experimental results indicated the catalyst is active on glucose conversion and the conversion is 99%.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6457",
+      "date": "2010-10-18",
+      "subjects": [
+        "QD"
+      ],
+      "event_title": "Seminar Nasional Sains dan Teknologi - III",
+      "date_type": "published",
+      "status_changed": "2018-02-28 08:24:07",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "dir": "disk0\/00\/00\/64\/57",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "event_type": "conference"
+    },
+    {
+      "event_location": "Serpong, Indonesia",
+      "refereed": "TRUE",
+      "event_dates": "19 September 2010",
+      "title": "Fe1-xNixO3±δ CATALYST FOR CONVERTING CO2\/H2 TO ALCOHOL COMPOUNDS",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Situmeang",
+            "lineage": null,
+            "given": "Rudy T.M"
+          },
+          "id": "rudy.tahan@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Sukmawibowo",
+            "family": "Sukmawibowo",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Fitri",
+            "honourific": null,
+            "family": "Julianti",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Aliana",
+            "lineage": null,
+            "given": "Sarah"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "format": "text",
+            "main": "ARTIKEL ICMST 2010 low.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 59724,
+                  "hash": "b5b9fd99c9c7d5944ee5a1176c6f6048",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-02-09 00:59:45",
+                  "objectid": 19387,
+                  "filesize": 3515386,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59724",
+                  "filename": "ARTIKEL ICMST 2010 low.pdf"
+                }
+            ],
+            "docid": 19387,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 6447,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19387",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2018-02-28 08:23:40",
+      "userid": 882,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pagerange": "173-179",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 6447,
+      "datestamp": "2018-02-28 08:23:40",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2018-02-28 08:23:40",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "funders": [
+        "Indonesia Nasioinal Nuclear Enerbgy Agency"
+      ],
+      "divisions": [
+        "FMIPA4"
+      ],
+      "dir": "disk0\/00\/00\/64\/47",
+      "date": "2010-09-19",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6447",
+      "corp_creators": [
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung",
+        "Jurusan Kimia Fakultas MIPA Universitas Lampung"
+      ],
+      "abstract": "Fe1-xNixO3±δ catalyst was prepared using citric acid method fiom its' precursor of nitrates.  The preparation of Fe1-xNixO3±δ is carried out for a various ratios of Ni\/Fe (b\/b). To examine its activity, the catalyst was used in a CO2\/H2 conversion experiment at different temperatures (100 to 400 oC). The experimental results indicated the dependency of CO2\/H2 cnversion on temperature and the highest value for alcohol formation (291.24 ppm) was achieved at 400oC under Ar\/CO2\/H2 (34\/4\/12, 50 mL min-1) as a feed. X-ray diffraction examination proved  that the erystalline phase is NiFe:O+ spinel structure, whieh is also the major phase and appear stronger as the Ni content in the structure increases. FTIR analysis indicated that both the Lewis acid sites which is located at wave numbers of ±1490 and ±1450 cm-l respectively and Bronsted-Lowry acid sites which is located at wave nurnbers of ±1645 and ± 1622 cm-l  respectively, were involved in the catalytic conversion of CO2\/H2. As Ni content increased, both acid sites' adsorption shifted to a relative higher wavelength. Furnhermore, NiFe2O4 analysis implied that particles dishibution of NiFe2O4 spine! structure relatively spreads out as Ni content increased. The particle's size of the catalyst is close to ≤50 μm",
+      "event_title": "The International Confrence on Materials Science and Technology",
+      "subjects": [
+        "QD"
+      ],
+      "date_type": "published"
+    },
+    {
+      "metadata_visibility": "show",
+      "lastmod": "2021-03-09 07:10:45",
+      "title": "In vitro and in vivo antiplasmodial activity of oxyresveratrol\r\nand artonine isolated from two Artocarpus plants in Indonesia",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suhartati",
+            "lineage": null,
+            "given": "Tati"
+          },
+          "id": "tati.suhartati@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yandri",
+            "honourific": null,
+            "family": "Yandri",
+            "lineage": null
+          },
+          "id": "yandri.as@fmipa.unila.ac.id"
+        },
+        {
+          "id": "yadisuwandi04@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suwandi",
+            "given": "Jhons Fatriyadi"
+          }
+        },
+        {
+          "id": "sutopo.hadi@fmipa.unila.ac.id",
+          "name": {
+            "given": "Sutopo",
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "QD"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28304",
+      "volume": 26,
+      "funders": [
+        "Dikti"
+      ],
+      "publication": "Oriental Journal of Chemistry",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "dir": "disk0\/00\/02\/83\/04",
+      "rev_number": 8,
+      "status_changed": "2021-03-09 07:10:45",
+      "pagerange": "825-830",
+      "eprint_status": "archive",
+      "eprintid": 28304,
+      "id_number": "DOI : http:\/\/dx.doi.org\/10.13005\/ojc\/370101",
+      "datestamp": "2021-03-09 07:10:45",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 42348,
+            "main": "010 Tati Suhartati and sutopo hadi_ OJC 26 3_2010.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-09 06:22:22",
+                  "filesize": 139876,
+                  "objectid": 42348,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251695",
+                  "filename": "010 Tati Suhartati and sutopo hadi_ OJC 26 3_2010.pdf",
+                  "fileid": 251695,
+                  "datasetid": "document",
+                  "hash": "67a44a19c43830089513402018504691",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42348",
+            "eprintid": 28304,
+            "placement": 1
+          }
+      ],
+      "official_url": "http:\/\/www.orientjchem.org\/",
+      "number": 3,
+      "userid": 1047,
+      "contributors": [
+        {
+          "id": "tati.suhartati@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suhartati",
+            "given": "T"
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "family": "Yandri",
+            "honourific": null,
+            "given": "Y"
+          },
+          "id": "yandri.as@fmipa.unila.ac.id"
+        },
+        {
+          "id": "yadisuwandi04@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Suwandi",
+            "honourific": null,
+            "given": "J"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "given": "S",
+            "family": "Hadi",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "date": "2010-07-15",
+      "projects": [
+        "Strategis Nasional"
+      ],
+      "corp_creators": [
+        "Jurusan Kimia FMIPA UNILA",
+        "Jurusan Kimia FMIPA UNILA",
+        "Fakultas Kedokteran UNILA",
+        "Jurusan Kimia FMIPA UNILA"
+      ],
+      "abstract": "ABSTRACT\r\nAntiplasmodial activity of two compounds, oxyresveratrol and artonin E isolated from A. dadah and A. rigida, respectively, were evaluated.  The in vitro antiplasmodial activity was done on the chloroquine-resistant strain of P. falciparum 3D7, while the in vivo antiplasmodial assay was done on Swiss mice breed which were infected by P. berghei. The two compounds tested showed very high in vitro activity with IC value of 0.05 and 0.2 µg\/mL for oxyresveratrol and artonin E, respectively. However, by contrast in the in vivo activity assay, oxyresveratrol has an ED 50  of 10.26 mg\/kg, while the artonin E was not able to be determined.",
+      "publisher": "Oriental Scientific Publishing Company",
+      "ispublished": "pub",
+      "issn": "0970 - 020X, ONLINE ISSN : 2231-5039",
+      "full_text_status": "public"
+    },
+    {
+      "number": 3,
+      "contributors": [
+        {
+          "id": "tati.suhartati@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "family": "Suhartati",
+            "honourific": null,
+            "given": "T"
+          }
+        },
+        {
+          "id": "yandri.as@fmipa.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Yandri",
+            "lineage": null,
+            "given": "Y"
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Suwandi",
+            "lineage": null,
+            "given": "J"
+          },
+          "id": "yadisuwandi04@gmail.com"
+        },
+        {
+          "name": {
+            "given": "S",
+            "honourific": null,
+            "family": "Hadi",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "sutopo.hadi@fmipa.unila.ac.id"
+        }
+      ],
+      "userid": 1047,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 28311,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42355",
+            "pos": 1,
+            "security": "public",
+            "main": "010 Tati Suhartati and sutopo hadi_ OJC 26 3_2010.pdf",
+            "docid": 42355,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 251751,
+                  "hash": "67a44a19c43830089513402018504691",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-09 07:58:52",
+                  "filesize": 139876,
+                  "objectid": 42355,
+                  "filename": "010 Tati Suhartati and sutopo hadi_ OJC 26 3_2010.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/251751"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "official_url": "http:\/\/www.orientjchem.org\/",
+      "eprint_status": "archive",
+      "id_number": "http:\/\/www.orientjchem.org\/",
+      "eprintid": 28311,
+      "datestamp": "2021-03-09 08:16:22",
+      "pagerange": "825-830",
+      "refereed": "TRUE",
+      "corp_creators": [
+        "Jurusan Kimia FMIPA UNILA",
+        "Jurusan Kimia FMIPA UNILA",
+        "Fakultas Kedokteran UNILA",
+        "Jurusan Kimia FMIPA UNILA"
+      ],
+      "abstract": "Antiplasmodial activity of two compounds, oxyresveratrol and artonin E isolated from A. dadah and A. rigida, respectively, were evaluated.  The in vitro antiplasmodial activity was done on the chloroquine-resistant strain of P. falciparum 3D7, while the in vivo antiplasmodial assay was done on Swiss mice breed which were infected by P. berghei. The two compounds tested showed very high invitro activity with IC50 value of 0.05 and 0.2 µg\/mL for oxyresveratrol and artonin E, respectively. However,by contrast in the in vivo activity assay, oxyresveratrol has an ED 50  of 10.26 mg\/kg, while the artonin E was not able to be determined.",
+      "date": "2010-09-10",
+      "projects": [
+        "Strategis Nasional"
+      ],
+      "issn": "0970 - 020X, ONLINE ISSN : 2231-5039",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Oriental Scientific Publishing Company",
+      "lastmod": "2021-03-09 08:16:22",
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "id": "tati.suhartati@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suhartati",
+            "given": "Tati"
+          }
+        },
+        {
+          "name": {
+            "family": "Yandri",
+            "lineage": null,
+            "honourific": null,
+            "given": "Yandri"
+          },
+          "id": "yandri.as@fmipa.unila.ac.id"
+        },
+        {
+          "id": "yadisuwandi04@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Suwandi",
+            "lineage": null,
+            "given": "Jhons Fatriyadi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hadi",
+            "given": "Sutopo"
+          },
+          "id": "sutopohadi@fmipa.unila.ac.id"
+        }
+      ],
+      "title": "In vitro and in vivo antiplasmodial activity of oxyresveratrol\r\nand artonine isolated from two Artocarpus plants in Indonesia",
+      "volume": 26,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28311",
+      "subjects": [
+        "QD"
+      ],
+      "date_type": "published",
+      "status_changed": "2021-03-09 08:16:22",
+      "rev_number": 7,
+      "publication": "Oriental Journal of Chemistry",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "dir": "disk0\/00\/02\/83\/11",
+      "funders": [
+        "Dikti"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 32190,
+      "datestamp": "2021-06-07 08:52:16",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filename": "10. In_vitro_and_in_vivo_antiplasmodial_activity_of_ox (1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/380867",
+                  "filesize": 1321671,
+                  "objectid": 145910,
+                  "mtime": "2021-06-07 08:43:13",
+                  "hash_type": "MD5",
+                  "hash": "6fcbfd8cafdc5222680bd8141f772015",
+                  "mime_type": "application\/pdf",
+                  "fileid": 380867,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "10. In_vitro_and_in_vivo_antiplasmodial_activity_of_ox (1).pdf",
+            "docid": 145910,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 32190,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145910",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2021-06-07 08:52:16",
+      "userid": 1059,
+      "title": "Indekx Similarity of In Vitro and in vivo antiplasmodial activity of oxyresveratrol and artonine isolated from two Artocarpus plant in Indonesia",
+      "creators": [
+        {
+          "name": {
+            "given": "Suhartati",
+            "lineage": null,
+            "family": "Tati",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32190",
+      "date": 2010,
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Reviewer Karya Ilmiah : Jurnal Ilmiah Internasional",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "publisher": "Oriental Journal of Chemistry",
+      "dir": "disk0\/00\/03\/21\/90",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2021-06-07 08:52:16",
+      "full_text_status": "public"
+    },
+    {
+      "title": "Peer Reviewer of In Vitro and in vivo antiplasmodial activity of oxyresveratrol and artonine isolated from two Artocarpus plant in Indonesia",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "given": "Suhartati",
+            "lineage": null,
+            "family": "Tati",
+            "honourific": null
+          }
+        }
+      ],
+      "documents": [
+          {
+            "eprintid": 32173,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/145820",
+            "pos": 1,
+            "format": "text",
+            "main": "11. In Vitro and in vivo antiplasmodial activity of oxyresveratrol and artonine isolated from two Ar.pdf",
+            "files": [
+                {
+                  "fileid": 380675,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "118bdda0df8d818dee772f4e1a2beee8",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-07 07:56:48",
+                  "filesize": 1201123,
+                  "objectid": 145820,
+                  "filename": "11. In Vitro and in vivo antiplasmodial activity of oxyresveratrol and artonine isolated from two Ar.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/380675"
+                }
+            ],
+            "docid": 145820,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2021-06-07 08:51:15",
+      "userid": 1059,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 32173,
+      "datestamp": "2021-06-07 08:51:15",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2021-06-07 08:51:15",
+      "full_text_status": "public",
+      "publisher": "Oriental Journal of Chemistry",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "dir": "disk0\/00\/03\/21\/73",
+      "date": 2010,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32173",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Reviewer Karya Ilmiah : Jurnal Ilmiah Internasional",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published"
+    }
+]
+

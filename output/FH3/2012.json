@@ -1,0 +1,2798 @@
+[
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 50090,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189790",
+            "pos": 1,
+            "security": "public",
+            "docid": 189790,
+            "main": "MERAJUT JURNALISME DAMAI DI LAMPUNG-HS TISNANTA.pdf",
+            "files": [
+                {
+                  "filesize": 7644154,
+                  "objectid": 189790,
+                  "filename": "MERAJUT JURNALISME DAMAI DI LAMPUNG-HS TISNANTA.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/541761",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-10 07:36:04",
+                  "fileid": 541761,
+                  "datasetid": "document",
+                  "hash": "10f020c672cf06a2242860c21188503b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2023-04-10 09:19:27",
+      "userid": 1026,
+      "metadata_visibility": "show",
+      "eprintid": 50090,
+      "editors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Budi",
+            "given": "Santosa Budiman"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Oyos",
+            "honourific": null,
+            "given": "Saroso HN"
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "datestamp": "2023-04-10 09:19:27",
+      "refereed": "TRUE",
+      "title": "Merajut Jurnalisme Damai Di Lampung",
+      "type": "book_section",
+      "isbn": "978-602-17314-0-6",
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50090",
+      "book_title": "Merajut Jurnalisme Damai Di Lampung",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2023-04-10 09:19:27",
+      "full_text_status": "public",
+      "divisions": [
+        "FH3"
+      ],
+      "publisher": "Aji Bandar Lampung",
+      "dir": "disk0_bak\/00\/05\/00\/90"
+    },
+    {
+      "title": "Kebijaksanaan Pertanahan Terhadap Penguasaan Tanah Hak Milik Oleh Pihak asing Di Indonesia",
+      "type": "monograph",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "FX",
+            "lineage": null,
+            "given": "Sumarja"
+          }
+        }
+      ],
+      "place_of_pub": "Bandar Lampung",
+      "metadata_visibility": "show",
+      "datestamp": "2017-07-12 04:31:05",
+      "eprintid": 3622,
+      "eprint_status": "archive",
+      "lastmod": "2017-07-12 04:31:05",
+      "pages": 555,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3480",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3622,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 3480,
+            "main": "4. buku_monograf-kebijakan tanah pihak asing_2012.pdf",
+            "files": [
+                {
+                  "hash": "303e0fb56dffd5e550d0d596d7fc9f42",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 25324,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25324",
+                  "filename": "4. buku_monograf-kebijakan tanah pihak asing_2012.pdf",
+                  "objectid": 3480,
+                  "filesize": 1012195,
+                  "mtime": "2017-07-03 03:25:48",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 940,
+      "funders": [
+        "Prof. Dr. I Gede AB Wiranata S.H., M.H"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id"
+        }
+      ],
+      "department": "Fakultas Hukum",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/00\/36\/22",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2017-07-12 04:31:05",
+      "date_type": "published",
+      "institution": "Universitas Lampung",
+      "subjects": [
+        "K1"
+      ],
+      "monograph_type": "working_paper",
+      "projects": [
+        "Buku 70 Tahun Prof. Dr. Sri Redjeki Hartono, S.H."
+      ],
+      "date": "2012-05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3622"
+    },
+    {
+      "date_type": "published",
+      "monograph_type": "working_paper",
+      "institution": "Universitas Lampung",
+      "subjects": [
+        "K1"
+      ],
+      "projects": [
+        "buku, 50 tahun Prof Dr. I Gede AB Wiranata, S.H., M.H"
+      ],
+      "date": "2012-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3621",
+      "funders": [
+        "I Gede AB Wiranata"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id"
+        }
+      ],
+      "publisher": "Universitas Lampung",
+      "department": "Fakultas Hukum",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/00\/36\/21",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2017-07-12 04:30:55",
+      "metadata_visibility": "show",
+      "datestamp": "2017-07-12 04:30:55",
+      "id_number": "satu",
+      "eprint_status": "archive",
+      "eprintid": 3621,
+      "lastmod": "2017-07-12 04:30:55",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3479",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 3621,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "5. buku_monograf-Tanah Sempadan Pantai-2012.pdf",
+            "files": [
+                {
+                  "hash": "5e0b8f4a0d09ec6990e9da5977f272c5",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 25317,
+                  "mtime": "2017-07-03 03:15:45",
+                  "hash_type": "MD5",
+                  "filename": "5. buku_monograf-Tanah Sempadan Pantai-2012.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25317",
+                  "filesize": 1002168,
+                  "objectid": 3479
+                }
+            ],
+            "docid": 3479,
+            "format": "text"
+          }
+      ],
+      "pages": 319,
+      "userid": 940,
+      "title": "Penatagunaan Tanah Sempadan Pantai untuk Kesejahteraan Rakyat",
+      "type": "monograph",
+      "creators": [
+        {
+          "name": {
+            "given": "Sumarja",
+            "honourific": null,
+            "family": "FX",
+            "lineage": null
+          }
+        }
+      ],
+      "place_of_pub": "Bandar Lampung"
+    },
+    {
+      "place_of_pub": "Bandar Lampung",
+      "refereed": "TRUE",
+      "title": "Problematika Kepemilikan Tanah Bagi Orang Asing, Sebuah Tinjauan Yuridis Filosofis",
+      "type": "book",
+      "creators": [
+        {
+          "id": "franciscus.sumarja@fh.unila.ac.id",
+          "name": {
+            "given": "Sumarja",
+            "lineage": null,
+            "family": "FX",
+            "honourific": null
+          }
+        }
+      ],
+      "isbn": 9786021847961,
+      "documents": [
+          {
+            "format": "text",
+            "main": "1. Buku Problematika_2012.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 25302,
+                  "hash": "56d437339e25e0ed5d4353d5602d06e3",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-03 02:53:06",
+                  "filesize": 1120683,
+                  "objectid": 3477,
+                  "filename": "1. Buku Problematika_2012.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25302"
+                }
+            ],
+            "docid": 3477,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 3619,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3477"
+          }
+      ],
+      "pages": 83,
+      "lastmod": "2017-07-12 04:31:29",
+      "number": "satu",
+      "userid": 940,
+      "metadata_visibility": "show",
+      "editors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ridwan",
+            "given": "Hardiansyah"
+          }
+        }
+      ],
+      "eprintid": 3619,
+      "eprint_status": "archive",
+      "datestamp": "2017-07-12 04:31:29",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "status_changed": "2017-07-12 04:31:29",
+      "full_text_status": "public",
+      "publisher": "Indepth Publishing",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/00\/36\/19",
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id"
+        }
+      ],
+      "date": "2012-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3619",
+      "volume": "satu",
+      "series": "Buku referensi",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3618",
+      "date": "2012-11",
+      "volume": "satu",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "status_changed": "2017-07-12 04:31:20",
+      "full_text_status": "public",
+      "publisher": "Indepth Publishing, Bandar Lampung",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/00\/36\/18",
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "1. Buku Problematika_2012.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 25291,
+                  "mime_type": "application\/pdf",
+                  "hash": "56d437339e25e0ed5d4353d5602d06e3",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-03 02:31:00",
+                  "objectid": 3475,
+                  "filesize": 1120683,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25291",
+                  "filename": "1. Buku Problematika_2012.pdf"
+                }
+            ],
+            "docid": 3475,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3475",
+            "eprintid": 3618,
+            "placement": 1
+          }
+      ],
+      "pages": 83,
+      "lastmod": "2017-07-12 04:31:20",
+      "number": "satu",
+      "userid": 940,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 3618,
+      "datestamp": "2017-07-12 04:31:20",
+      "refereed": "TRUE",
+      "title": "Problematika Kepemilikan Tanah Bagi Orang Asing, sebuah Tinjauan Yuridis Filosofis",
+      "creators": [
+        {
+          "name": {
+            "given": "Sumarja",
+            "honourific": null,
+            "lineage": null,
+            "family": "FX"
+          },
+          "id": "franciscus.sumarja@fh.unila.ac.id"
+        }
+      ],
+      "type": "book",
+      "isbn": 9786021847961
+    },
+    {
+      "status_changed": "2019-08-07 04:19:39",
+      "issn": "1978-5186",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "dir": "disk0\/00\/01\/37\/38",
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "publication": "Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH3"
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "volume": 6,
+      "abstract": "hasil penilaian sejawat sebidang atau peer review",
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13738",
+      "subjects": [
+        "K1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Upik",
+            "lineage": null,
+            "family": "Hamidah",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Pembaharuan standar prosedure operasi pengaturan (SOP) pelayanan pendaftaran peralihan hak milik atas tanah karena hibah wasiat berdasarkan alat bukti peralihan hak",
+      "number": 2,
+      "userid": 769,
+      "documents": [
+          {
+            "main": "peerreview upik pembaharuan sop.pdf",
+            "docid": 26750,
+            "files": [
+                {
+                  "mtime": "2019-08-07 02:18:44",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119818",
+                  "filename": "peerreview upik pembaharuan sop.pdf",
+                  "objectid": 26750,
+                  "filesize": 326049,
+                  "mime_type": "application\/pdf",
+                  "hash": "1741d141540a4006c95689b4d2ede6ef",
+                  "datasetid": "document",
+                  "fileid": 119818
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 13738,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26750",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2019-08-07 04:19:39",
+      "eprint_status": "archive",
+      "eprintid": 13738,
+      "datestamp": "2019-08-07 04:19:39",
+      "metadata_visibility": "show"
+    },
+    {
+      "userid": 769,
+      "number": 1,
+      "lastmod": "2019-08-08 02:38:37",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "peerreview upik polotik hukum.pdf",
+            "files": [
+                {
+                  "filesize": 313141,
+                  "objectid": 26766,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119935",
+                  "filename": "peerreview upik polotik hukum.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-08 02:18:57",
+                  "datasetid": "document",
+                  "fileid": 119935,
+                  "mime_type": "application\/pdf",
+                  "hash": "eeab5a63b74f07220c12a2aed44d9f1b"
+                }
+            ],
+            "docid": 26766,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26766",
+            "eprintid": 13755,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2019-08-08 02:38:37",
+      "eprint_status": "archive",
+      "eprintid": 13755,
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hamidah",
+            "given": "Upik"
+          }
+        }
+      ],
+      "title": "Politik Hukum Pengaturan Pengadaan Tanah Untuk Pembangunan Bagi Kepentingan Umum",
+      "refereed": "TRUE",
+      "abstract": "Hasil Penilaian sejawat sebidang atau peer review",
+      "volume": 6,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13755",
+      "date": "2012-01",
+      "subjects": [
+        "K1"
+      ],
+      "full_text_status": "public",
+      "issn": "1907-8714",
+      "status_changed": "2019-08-08 02:38:37",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "publication": "Praevia",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/37\/55"
+    },
+    {
+      "userid": 769,
+      "lastmod": "2019-08-07 04:20:01",
+      "documents": [
+          {
+            "eprintid": 13739,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26751",
+            "format": "text",
+            "main": "peerreview upik pengadaan tanah.pdf",
+            "docid": 26751,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "d4452bc088cda31c5e46bd74399fc594",
+                  "fileid": 119825,
+                  "datasetid": "document",
+                  "mtime": "2019-08-07 02:24:22",
+                  "hash_type": "MD5",
+                  "filename": "peerreview upik pengadaan tanah.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119825",
+                  "filesize": 301251,
+                  "objectid": 26751
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2019-08-07 04:20:01",
+      "eprint_status": "archive",
+      "eprintid": 13739,
+      "metadata_visibility": "show",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Upik",
+            "lineage": null,
+            "family": "Hamidah",
+            "honourific": null
+          }
+        }
+      ],
+      "title": "pengadaan tanah untuk kepentingan pembangunan infrastruktur dalam rangka pengembangan wilayah",
+      "refereed": "TRUE",
+      "abstract": "hasil penilaian sejawat sebidang atau peer review",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": "2012-05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13739",
+      "subjects": [
+        "K1"
+      ],
+      "event_title": "prosiding nasional",
+      "full_text_status": "public",
+      "status_changed": "2019-08-07 04:20:01",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "dir": "disk0\/00\/01\/37\/39",
+      "divisions": [
+        "FH3"
+      ],
+      "event_type": "conference"
+    },
+    {
+      "userid": 807,
+      "number": 501,
+      "documents": [
+          {
+            "eprintid": 8743,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21828",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 85239,
+                  "mime_type": "application\/pdf",
+                  "hash": "d39ec7ea926c72b5ca1f15e0c645ea1b",
+                  "filesize": 4832634,
+                  "objectid": 21828,
+                  "filename": "Analisis-Kebijakan-Kriminal_Maroni.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85239",
+                  "hash_type": "MD5",
+                  "mtime": "2018-08-27 02:43:11"
+                }
+            ],
+            "main": "Analisis-Kebijakan-Kriminal_Maroni.pdf",
+            "docid": 21828,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pages": 27,
+      "datestamp": "2018-10-29 04:25:02",
+      "eprintid": 8743,
+      "eprint_status": "archive",
+      "place_of_pub": "Bandar Lampung",
+      "isbn": "978-602-7509-16-0",
+      "refereed": "FALSE",
+      "abstract": "ANALISIS KEBIJAKAN KRIMINAL\r\nABSTRAK\r\nPenanggulangan kejahatan di bidang informasi dan traksaksi elektronik dengan sarana penal merupakan suatu proses kebijkan yang sengaja direncanakan melalui beberapa tahap yaitu : 1. Tahap penetapan pidana oleh pembuat undang-undang ; 2 tahap pemberian pidana oleh badan yang berwenang  dan 3; tahap pelaksana pidana oleh instransi pelaksana yang berwenang. Tahap pertama sering disebut tahap “ Tahap pemberian pidana, in abstracto”, sedangkan tahap kedua dan tahap ketiga disebut tahap “ pemberi pidana in concreto”.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": "2012-05",
+      "series": "Hukum Dalam Berbagai Dimensi",
+      "issn": "978-602-7509-16-0",
+      "full_text_status": "public",
+      "ispublished": "unpub",
+      "publisher": "Universitas Lampung",
+      "lastmod": "2018-10-29 04:25:02",
+      "editors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "I GEDE AB WIRANATA, S.H., M.H",
+            "given": "Prof. Dr"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "type": "book",
+      "creators": [
+        {
+          "id": "maroniunila@gmail.com",
+          "name": {
+            "given": "Maroni",
+            "honourific": null,
+            "lineage": null,
+            "family": "Maroni"
+          }
+        }
+      ],
+      "title": "ANALISIS KEBIJAKAN KRIMINAL",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8743",
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "status_changed": "2018-10-29 04:25:02",
+      "rev_number": 11,
+      "publication": "Hukum Dalam Berbagai Dimensi",
+      "dir": "disk0\/00\/00\/87\/43",
+      "divisions": [
+        "FH3"
+      ]
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8728",
+      "volume": 12,
+      "publication": "Dinamika Hukum",
+      "dir": "disk0\/00\/00\/87\/28",
+      "divisions": [
+        "FH3"
+      ],
+      "rev_number": 9,
+      "status_changed": "2018-10-26 10:03:21",
+      "metadata_visibility": "show",
+      "lastmod": "2018-10-26 10:03:21",
+      "title": "PROBLEMA PENGGANTIAN HUKUM-HUKUM KOLONIAL DENGAN HUKUM –HUKUM NASIONAL SEBAGAI POLTIK HUKUM",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Maroni",
+            "honourific": null,
+            "family": "Maroni",
+            "lineage": null
+          },
+          "id": "maroniunila@gmail.com"
+        }
+      ],
+      "date": "2012-01",
+      "abstract": "Penggantian hukum colonial sudah lama dilakukan oleh bangsa Indonesia , namun kenyataannya saat ini masih banyak hukum colonial berstatus sebagai hukum positif. Permasalahnya apakah factor penyebab problematic tersebut. Hasil kajian , factor penyebabnya (a) Heterogenitas bangsa Indonesia ; (b) dianutnya prinsip unifikasi dan kodifikasi ; (c) perbedaan pandangan terhadap HAM. Sedangkan politik hukumnya berbentuk pembinann bagi hukum colonial yang sukar diganti seperti bidang hukum yang berkaitan kehidupan masyarakat, budaya dan spiritual. Sedangkan bidangt hukum “netral” seperti hukum perikatan dan hukum dalam bidang perdagangan dilakukan pergantian melalui dimensi pembaharuan atas penciptaan hukum.\r\n\r\nKata kunci : Prolema, colonial , nasional , politik hukum",
+      "corp_creators": [
+        "Fakultas Hukum Universitas Jendral Soedirman"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/fh.unsoed.ac.id"
+        }
+      ],
+      "publisher": "Universitas Jendral Soedirman",
+      "keywords": "Prolema, colonial , nasional , politik hukum",
+      "ispublished": "pub",
+      "issn": "1410-0797",
+      "full_text_status": "public",
+      "pagerange": "85-96",
+      "datestamp": "2018-10-26 10:03:21",
+      "eprint_status": "archive",
+      "eprintid": 8728,
+      "official_url": "http:\/\/jurnaldinamikahukum.wordpress.com",
+      "documents": [
+          {
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21808",
+            "security": "public",
+            "placement": 2,
+            "eprintid": 8728,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Problema-Penggantian-Hukum-Kolonial_jurnal_maroni.pdf",
+            "docid": 21808,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "9e2ccfab6e4780b11fda3e9862ebafc0",
+                  "datasetid": "document",
+                  "fileid": 85127,
+                  "mtime": "2018-08-17 03:21:04",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85127",
+                  "filename": "Problema-Penggantian-Hukum-Kolonial_jurnal_maroni.pdf",
+                  "objectid": 21808,
+                  "filesize": 5213427
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 807,
+      "number": 85,
+      "refereed": "TRUE"
+    },
+    {
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8767",
+      "subjects": [
+        "K1"
+      ],
+      "status_changed": "2018-10-26 10:09:01",
+      "full_text_status": "public",
+      "issn": "978-602-7509-30-6",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Wajah Hukum Dalam Realitas",
+      "publisher": "Fakultas Hukum, Universitas Lampung",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/00\/87\/67",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fh.unila.ac.id\/index.php\/monograf\/article\/view\/616"
+        }
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 807,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21849",
+            "eprintid": 8767,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85377",
+                  "filename": "616-1939-1-PB.pdf",
+                  "objectid": 21849,
+                  "filesize": 2041709,
+                  "mtime": "2018-08-29 09:48:37",
+                  "hash_type": "MD5",
+                  "hash": "02063fad7e9daad7629ae8681322303b",
+                  "mime_type": "application\/pdf",
+                  "fileid": 85377,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "616-1939-1-PB.pdf",
+            "docid": 21849
+          }
+      ],
+      "lastmod": "2018-10-26 10:09:01",
+      "eprintid": 8767,
+      "eprint_status": "archive",
+      "datestamp": "2018-10-26 10:09:01",
+      "metadata_visibility": "show",
+      "contact_email": "maroniunila@gmail.com",
+      "type": "article",
+      "creators": [
+        {
+          "id": "maroniunila@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Maroni",
+            "honourific": null,
+            "given": "Maroni"
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "Sistem Hukum Pidana Progresif Sebagai Model Penegakan Hukum Di Negara Kesejahtraan Republik Indonesia"
+    },
+    {
+      "isbn": "978-602-7509-30-6",
+      "creators": [
+        {
+          "name": {
+            "given": "Nunung",
+            "honourific": null,
+            "family": "Nunung Rodliyah",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "book_section",
+      "title": "Pencarian Pasangan Muslim Berpendidikan Tinggi : Studi Kasus di Kota Bandar Lampung",
+      "refereed": "FALSE",
+      "userid": 786,
+      "lastmod": "2017-09-04 01:56:27",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "3af7c9deb4d8db13984b4e3190e803df",
+                  "fileid": 26992,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/26992",
+                  "filename": "Nunung (Monograf) Wajah Hukum Dalam Realitas.pdf",
+                  "filesize": 1975827,
+                  "objectid": 3712,
+                  "mtime": "2017-08-21 02:45:09",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "Nunung (Monograf) Wajah Hukum Dalam Realitas.pdf",
+            "docid": 3712,
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 3850,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3712",
+            "security": "public"
+          }
+      ],
+      "datestamp": "2017-09-04 01:56:27",
+      "eprint_status": "archive",
+      "eprintid": 3850,
+      "metadata_visibility": "show",
+      "pagerange": "335-355",
+      "full_text_status": "public",
+      "status_changed": "2017-09-04 01:56:27",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/00\/38\/50",
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3850",
+      "subjects": [
+        "K1"
+      ],
+      "book_title": "Wajah Hukum Dalam Realitas"
+    },
+    {
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nurmayani",
+            "honourific": null,
+            "given": "Nurmayani"
+          }
+        }
+      ],
+      "title": "Kebijakan Pemerintah Daerah Propinsi Lampung Dalam Pemungutan Pajak Kendaraan Bermotor Sebagai Upaya Perbaikan Infrastruktur di Propinsi Lampung",
+      "refereed": "FALSE",
+      "userid": 921,
+      "lastmod": "2019-07-04 07:05:53",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Nurmayani ( Prosiding = Kebijakan Pemerintah Daerah Propinsi Lampung ).pdf",
+            "docid": 26455,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 117666,
+                  "hash": "e148a3b1028b2565bbb3c1f9c2e38e14",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-07-03 07:18:21",
+                  "objectid": 26455,
+                  "filesize": 1000198,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117666",
+                  "filename": "Nurmayani ( Prosiding = Kebijakan Pemerintah Daerah Propinsi Lampung ).pdf"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26455",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13446
+          }
+      ],
+      "datestamp": "2019-07-04 07:05:53",
+      "eprintid": 13446,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "87-93",
+      "full_text_status": "public",
+      "status_changed": "2019-07-04 07:05:53",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/34\/46",
+      "event_type": "conference",
+      "date": "2012-05-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13446",
+      "event_title": "Prosiding Seminar Nasional Magister Teknik Sipil Universitas Lampung",
+      "subjects": [
+        "K1"
+      ]
+    },
+    {
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13708",
+      "date": 2012,
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "full_text_status": "public",
+      "issn": "1907-8714",
+      "status_changed": "2019-08-05 04:31:32",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "divisions": [
+        "FH3"
+      ],
+      "publication": "Praevia",
+      "dir": "disk0\/00\/01\/37\/08",
+      "userid": 921,
+      "lastmod": "2019-08-05 04:31:32",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "ebca23294c93748ef412c438ffbaf884",
+                  "fileid": 119609,
+                  "datasetid": "document",
+                  "mtime": "2019-08-05 04:08:33",
+                  "hash_type": "MD5",
+                  "filename": "peerreview implikasi hukum.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119609",
+                  "objectid": 26719,
+                  "filesize": 257927
+                }
+            ],
+            "main": "peerreview implikasi hukum.pdf",
+            "docid": 26719,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26719",
+            "eprintid": 13708,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2019-08-05 04:31:32",
+      "eprint_status": "archive",
+      "eprintid": 13708,
+      "metadata_visibility": "show",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurmayani",
+            "given": "Nurmayani"
+          }
+        }
+      ],
+      "title": "implikasi hukum peralihan kewenangan pemungutan pajak bumi dan bangunan sektor perdesaan dan perkotaan dari pemerintah pusat kepada pemerintah kabupaten\/kota",
+      "refereed": "TRUE"
+    },
+    {
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13709",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "event_title": "Prosiding seminar nasional",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2019-08-05 04:33:11",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "dir": "disk0\/00\/01\/37\/09",
+      "divisions": [
+        "FH3"
+      ],
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26720",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13709,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 26720,
+            "main": "peerreview kebijakan pemerintah.pdf",
+            "files": [
+                {
+                  "mtime": "2019-08-05 04:11:39",
+                  "hash_type": "MD5",
+                  "filename": "peerreview kebijakan pemerintah.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119615",
+                  "objectid": 26720,
+                  "filesize": 268248,
+                  "mime_type": "application\/pdf",
+                  "hash": "c430e10df89befc4025203769a9f5665",
+                  "datasetid": "document",
+                  "fileid": 119615
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2019-08-05 04:33:11",
+      "userid": 921,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 13709,
+      "datestamp": "2019-08-05 04:33:11",
+      "event_dates": "mei 2012",
+      "refereed": "TRUE",
+      "title": "kebijakan pemeritah daerah provinsi lampung dalam pemungutan pajak kendaraan bermotor sebagai upada perbaikan infrastruktur di provinsi lampung",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurmayani",
+            "given": "Nurmayani"
+          }
+        }
+      ],
+      "pres_type": "paper",
+      "type": "conference_item"
+    },
+    {
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13707",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "issn": "1978-5186",
+      "full_text_status": "public",
+      "status_changed": "2019-08-05 04:30:44",
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH3"
+      ],
+      "publication": "Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung",
+      "dir": "disk0\/00\/01\/37\/07",
+      "lastmod": "2019-08-05 04:30:44",
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 26718,
+            "main": "peerreview dana bantuan sekolah.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119603",
+                  "filename": "peerreview dana bantuan sekolah.pdf",
+                  "filesize": 259777,
+                  "objectid": 26718,
+                  "mtime": "2019-08-05 04:05:36",
+                  "hash_type": "MD5",
+                  "hash": "5616951a68363481fd47a0ec11f395ca",
+                  "mime_type": "application\/pdf",
+                  "fileid": 119603,
+                  "datasetid": "document"
+                }
+            ],
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26718",
+            "pos": 1,
+            "eprintid": 13707,
+            "placement": 1
+          }
+      ],
+      "userid": 921,
+      "metadata_visibility": "show",
+      "datestamp": "2019-08-05 04:30:44",
+      "eprint_status": "archive",
+      "eprintid": 13707,
+      "title": "pengawasan penyelenggaraan dana bantuan sekolah di madrasah ibtidaiyah negeri sukarame",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Nurmayani",
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurmayani"
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "status_changed": "2019-08-05 04:32:22",
+      "full_text_status": "public",
+      "issn": "1907-8714",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "divisions": [
+        "FH3"
+      ],
+      "publication": "Praevia",
+      "dir": "disk0\/00\/01\/37\/13",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13713",
+      "date": 2012,
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Nurmayani",
+            "family": "Nurmayani",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "penyelenggaraan pelayanan prima pada bidang informasi melalui mekanisme pelayanan pengaduan oleh BPMP di bandar lampung",
+      "userid": 921,
+      "documents": [
+          {
+            "format": "text",
+            "main": "peerreview penyelenggaraan.pdf",
+            "docid": 26724,
+            "files": [
+                {
+                  "hash": "5a7c829330a9eca3f9e06f2d23a1ccf0",
+                  "mime_type": "application\/pdf",
+                  "fileid": 119643,
+                  "datasetid": "document",
+                  "mtime": "2019-08-05 04:27:47",
+                  "hash_type": "MD5",
+                  "filename": "peerreview penyelenggaraan.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119643",
+                  "filesize": 270332,
+                  "objectid": 26724
+                }
+            ],
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 13713,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26724"
+          }
+      ],
+      "lastmod": "2019-08-05 04:32:22",
+      "eprintid": 13713,
+      "eprint_status": "archive",
+      "datestamp": "2019-08-05 04:32:22",
+      "metadata_visibility": "show"
+    },
+    {
+      "divisions": [
+        "FH3"
+      ],
+      "publisher": "Laporan Penelitian DIPA Fakultas Hukum 2012",
+      "dir": "disk0\/00\/01\/37\/24",
+      "full_text_status": "public",
+      "status_changed": "2019-08-05 05:28:54",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13724",
+      "creators": [
+        {
+          "name": {
+            "given": "Nurmayani",
+            "family": "Nurmayani",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Upik",
+            "honourific": null,
+            "lineage": null,
+            "family": "Hamidah"
+          }
+        },
+        {
+          "name": {
+            "given": "nurul fajri",
+            "honourific": null,
+            "lineage": null,
+            "family": "oesman"
+          }
+        },
+        {
+          "name": {
+            "given": "eka",
+            "family": "deviani",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "other",
+      "title": "implikasi hukum peralihan kewenangan pemungutan pajak bumi dan bangunan sektor pedesaan dan perkotaan dari pemerintah pusat kepada pemerintah kabupaten\/kota",
+      "place_of_pub": "Bandar Lampung",
+      "datestamp": "2019-08-05 05:28:54",
+      "eprintid": 13724,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 769,
+      "lastmod": "2019-08-05 05:28:54",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26734",
+            "eprintid": 13724,
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "main": "UPIK penelitian Implikasi Hukum Peralihan Kewenangan.pdf",
+            "files": [
+                {
+                  "hash": "5314ddd0d218d5dd52645df52e4189f1",
+                  "mime_type": "application\/pdf",
+                  "fileid": 119725,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119725",
+                  "filename": "UPIK penelitian Implikasi Hukum Peralihan Kewenangan.pdf",
+                  "filesize": 2368720,
+                  "objectid": 26734,
+                  "mtime": "2019-08-05 05:21:21",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 26734
+          }
+      ]
+    },
+    {
+      "event_type": "other",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/00\/69\/22",
+      "ispublished": "unpub",
+      "rev_number": 7,
+      "status_changed": "2018-05-28 03:58:03",
+      "full_text_status": "public",
+      "event_title": "The Current Movement of ASIAN Law: From Japan, Taiwan and Indonesia",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "date": "2012-12-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6922",
+      "corp_creators": [
+        "Kanazawa University"
+      ],
+      "abstract": "Indonesia has the wide-ranged potential of traditional knowledge however it has not a special law to protect its traditional knowledge. This article tries to suggest three model of protection for traditional in Indonesia through establishing a new IPR law govern a traditional knowledge, amending existed IPR law and documenting of traditional asset",
+      "refereed": "FALSE",
+      "event_dates": "8 Desember 2012",
+      "title": "Traditional Knowledge Model in Indonesia",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "ria.wierma@fh.unila.ac.id",
+          "name": {
+            "given": "Ria Wierma",
+            "honourific": null,
+            "family": "Putri",
+            "lineage": null
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Kanazawa Ishikawa, Japan",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 6922,
+      "datestamp": "2018-05-28 03:58:03",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19895",
+            "pos": 1,
+            "eprintid": 6922,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 19895,
+            "main": "Traditional Knowledge.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-05-22 04:15:32",
+                  "filesize": 6875570,
+                  "objectid": 19895,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63472",
+                  "filename": "Traditional Knowledge.pdf",
+                  "datasetid": "document",
+                  "fileid": 63472,
+                  "mime_type": "application\/pdf",
+                  "hash": "fc6f5fc8b725af622049571efca03d56"
+                }
+            ]
+          }
+      ],
+      "lastmod": "2018-05-28 03:58:03",
+      "userid": 282
+    },
+    {
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13929",
+      "date": "2012-09",
+      "volume": 6,
+      "abstract": "Tujuan  penulisan  ini  adalah  untuk  mendeskripsikan  pentingnya  ketersediaan \r\nmekanisme konsultasi publik dalam perumusan kebijakan dan peraturan ditingkat \r\ndaerah.  Berdasarkan  tinjauan  teoritis,  filosofis,  sosiologis,  dan  yuridis\r\ndisimpulkan  bahwa  tersedianya  mekanisme  konsultasi  publik  di  daerah  sejalan \r\ndengan  prinsip  tata  pemerintahan  yang  baik  (good  governance)  oleh  karena  itu \r\nbagi daerah perlu mengadopsi pengaturannya di tingkat daerah.",
+      "publication": "Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung",
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/39\/29",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2019-08-25 17:08:07",
+      "issn": "1978-5186",
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 13929,
+      "datestamp": "2019-08-25 17:08:07",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26963",
+            "eprintid": 13929,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "2012 09 Mekanisme Konsultasi Publik; Instrumen Pembangun Good Governance di Daerah.pdf",
+            "docid": 26963,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/121438",
+                  "filename": "2012 09 Mekanisme Konsultasi Publik; Instrumen Pembangun Good Governance di Daerah.pdf",
+                  "objectid": 26963,
+                  "filesize": 422540,
+                  "mtime": "2019-08-23 03:06:39",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "3cc3d0ea976829caf396a5ea3a2d9b62",
+                  "datasetid": "document",
+                  "fileid": 121438
+                }
+            ]
+          }
+      ],
+      "lastmod": "2019-08-25 17:08:07",
+      "number": 3,
+      "userid": 235,
+      "refereed": "TRUE",
+      "title": "Mekanisme Konsultasi Publik; Instrumen Pembangun Good Governance di Daerah",
+      "creators": [
+        {
+          "id": "zulkarnain.ridlwan@fh.unila.ac.id",
+          "name": {
+            "given": "Zulkarnain",
+            "lineage": null,
+            "family": "Ridlwan",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "publication": "Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung",
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/39\/27",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2019-08-25 17:08:02",
+      "full_text_status": "public",
+      "issn": "1978-5186",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13927",
+      "date": "2012-05",
+      "volume": 5,
+      "abstract": "Tujuan  penulisan  ini  adalah  untuk  mendeskripsikan  konsep  negara  hukum \r\nIndonesia  berdasarkan  konstitusi  yang  pernah  dan  sedang  berlaku  di  Indonesia. \r\nBerdasarkan  tinjauan  normatif  dan  perkembangan  ketatanegaraan  Indonesia\r\ndisimpulkan bahwa sejak  awal Republik Indonesia  berdiri  pilihan konsep negara \r\nhukum  yang  dicitakan  adalah  negara  hukum  demokratis  yang  secara  aktif \r\nbertujuan  untuk  mewujudkan  perlindungan  terhadap  segenap  bangsa  Indonesia \r\ndan  seluruh  tumpah  darah  Indonesia;  memajukan  kesejahteraan  umum; \r\nmencerdaskan kehidupan bangsa; dan ikut serta memelihara ketertiban dunia yang \r\nberdasarkan kemerdekaan, perdamaian abadi dan keadilan sosial. Disamping itu, \r\nnegara hukum Indonesia dipengaruhi Pancasila sebagai kumpulan nilai-nilai dasar \r\nyang  disepakatu  dan  menjadi  landasan  praktek  kedaulatan  rakyat,  yakni \r\nKetuhanan  Yang  Maha  Esa;  Kemanusiaan  Yang  Adil  dan  Beradab;  Persatuan \r\nIndonesia  dan  Kerakyatan  yang  dipimpin  oleh  hikmat  kebijaksanaan  dalam \r\nPermusyawaratan\/Perwakilan;  serta  menciptakan  keadilan  sosial  bagi  seluruh \r\nrakyat  Indonesia.  Dengan  demikian,  Negara  Hukum  Indonesia  yang  dijalankan \r\nharuslah  senantiasa  memperhatikan  aspek  ketuhanan,  kemanusiaan,  persatuan, \r\npermusyawaratan dan keadilan. Meski pernah berganti konstitusi dan melakukan \r\nperubahan  atas  konstitusi  yang  berlaku,  namun  pilihan  konsep  negara  hukum \r\nmasih  tetap  sama  yaitu  negara  hukum  aktif  atau  dinamis  dalam  mewujudkan \r\nkesejahteraan  rakyat.  Konsep  negara  hukum  demikian  dipresentasikan  sebagai \r\nwelvaarstaat, yang adalah kebalikan negara penjaga malam (nachtwachterstaat).",
+      "refereed": "TRUE",
+      "title": "Negara Hukum Indonesia, Kebalikan dari Konsep Nachtwachterstaat",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Ridlwan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Zulkarnain"
+          },
+          "id": "zulkarnain.ridlwan@fh.unila.ac.id"
+        }
+      ],
+      "pagerange": "141-152",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 13927,
+      "datestamp": "2019-08-25 17:08:02",
+      "documents": [
+          {
+            "format": "text",
+            "main": "2012 05 Negara Hukum Indonesia, Kebalikan dari Konsep Nachtwachterstaat.pdf",
+            "files": [
+                {
+                  "objectid": 26961,
+                  "filesize": 457900,
+                  "filename": "2012 05 Negara Hukum Indonesia, Kebalikan dari Konsep Nachtwachterstaat.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/121425",
+                  "hash_type": "MD5",
+                  "mtime": "2019-08-23 02:57:02",
+                  "fileid": 121425,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "ed999accf526ecfcaeddcf2604c5ec59"
+                }
+            ],
+            "docid": 26961,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 13927,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26961",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2019-08-25 17:08:02",
+      "number": 2,
+      "userid": 235
+    },
+    {
+      "documents": [
+          {
+            "main": "2012 11 Perlindungan Saksi-Korban-Pelapor sebagai Hak Dasar Warga Negara, Jurnal Konstitusi UNS.pdf",
+            "docid": 26964,
+            "files": [
+                {
+                  "hash": "32b85041310f144d1b87a29d1dd8fa07",
+                  "mime_type": "application\/pdf",
+                  "fileid": 121444,
+                  "datasetid": "document",
+                  "mtime": "2019-08-23 03:11:02",
+                  "hash_type": "MD5",
+                  "filename": "2012 11 Perlindungan Saksi-Korban-Pelapor sebagai Hak Dasar Warga Negara, Jurnal Konstitusi UNS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/121444",
+                  "filesize": 191353,
+                  "objectid": 26964
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 13930,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26964",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2019-08-25 17:08:09",
+      "number": 1,
+      "userid": 235,
+      "pagerange": "153-167",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 13930,
+      "datestamp": "2019-08-25 17:08:09",
+      "refereed": "TRUE",
+      "title": "Perlindungan Saksi-Korban-Pelapor sebagai Hak Dasar Warga Negara",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Ridlwan",
+            "honourific": null,
+            "given": "Zulkarnain"
+          },
+          "id": "zulkarnain.ridlwan@fh.unila.ac.id"
+        }
+      ],
+      "date": "2012-11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13930",
+      "volume": "I",
+      "abstract": "This  writing  purposed  to  describe the  witness-victims-reporter’s  (SKP’s,-in  bahasa) \r\nprotection concept in Indonesia, especially on environment law maintenance. By the statue \r\napproach known that arrangement of SKP’s protection in 32\/ 2009 act are not suitable with \r\nits formula on 13\/ 2006 act. Those arrangement are susceptible to become foundation of law \r\nenvironment enforcement, whose constitute as basic right of the citizen. So that, integrative \r\narrangement of SKP’s protection being necessity.",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2019-08-25 17:08:09",
+      "full_text_status": "public",
+      "publication": "Jurnal Konstitusi",
+      "publisher": "P3KHAM LPPM Universitas Sebelas Maret",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/39\/30"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2020-01-14 02:48:42",
+      "eprint_status": "archive",
+      "eprintid": 17213,
+      "lastmod": "2020-01-14 02:48:42",
+      "documents": [
+          {
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "hukum pemerintahan daerah perspektif konstitusionalisme(2) (1).pdf",
+            "docid": 30318,
+            "files": [
+                {
+                  "filesize": 2205795,
+                  "objectid": 30318,
+                  "filename": "hukum pemerintahan daerah perspektif konstitusionalisme(2) (1).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/145921",
+                  "hash_type": "MD5",
+                  "mtime": "2019-12-02 17:21:00",
+                  "datasetid": "document",
+                  "fileid": 145921,
+                  "mime_type": "application\/pdf",
+                  "hash": "542cf6e74f8e5ae27eb5f2a4f49b0bab"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30318",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 17213
+          }
+      ],
+      "pages": 154,
+      "userid": 347,
+      "title": "Hukum Pemerintahan Daerah Perspektif Konstitusionalisme Indonesia",
+      "refereed": "TRUE",
+      "isbn": "978-602-17314-1-3",
+      "type": "book",
+      "creators": [
+        {
+          "name": {
+            "given": "Rudy",
+            "honourific": null,
+            "family": "Rudy",
+            "lineage": null
+          },
+          "id": "rudy.1981@fh.unila.ac.id"
+        }
+      ],
+      "place_of_pub": "Jl. Ahmad Yani, Gg. Pioneer No. 41, Gotong Royong, Tanjung Karang Pusat, Bandar Lampung",
+      "date_type": "published",
+      "subjects": [
+        "K1"
+      ],
+      "date": "2012-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17213",
+      "abstract": "Desentralisasi dan otonomi daerah merupakan resep yang selalu diberikan oleh pembentuk hukum dan kebijakan dinegara berkembang termasuk Indonesia. Meskipun masih belumteruji keberhasilannya, desentralisasi dan otonomi daerah telah diimplementtasikan di indonesia sejak era reformasi. Di Indonesia, desentralisasi dan otonomi daerah diinformalisasikan dalam kerangka Hukum Pemerintahan Daerah.",
+      "publisher": "Indepth Publishing",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/72\/13",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2020-01-14 02:48:42"
+    },
+    {
+      "subjects": [
+        "K1"
+      ],
+      "date": "2012-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/543",
+      "abstract": "Abstrak Jenis penelitian ini adalah penelitian hukum normative empiris(applied normative law),dengan tipe penelitian deskriptif analisis, yaitu bersifat pemaparan dan bertujuan untuk memperoleh gambaran dan memaparkan secara sistematis factual dan akurat terhadap suatu hal tertentu. Melalui penelitian ini, akan digambarkan dan dipaparkan secara jelas dan rinci mengenai proses penyelamatan dan penyelesaian kredit macet pada Koperasi kredit Mekar Sai Bandar Lampung. Analisis adata secara kualitatif, artinya dengan cara menyajikan dan menguraikan data dalam bentuk kalimat secara rinci dan sistematis. Untuk menangani persoalan kredit macet ini, Kopdit Mekar Sai menerapkan standar prosedur hukum penanganan pinjaman bermasalah\/macet.Namun sebelum standar prosedur tersebut diterapkan, pihak Kopdit akan melakukan upaya lain berupa pendekatan-pendekatan secara personal kepada anggota (debitur) yang kreditnya mengalami masalah.Upaya ini dilakukan sebagai bentuk kepedulian dan keterikatan Kopdit dengan anggotanya. Apabila upaya ini tidak berhasil dilakukan maka prosedur hukum penanganan kredit \/pinjaman bermasalah(kredit macet) tersebut baru dilakukan. Kata Kunci: Kredit Macet, Koperasi Kredit",
+      "volume": 6,
+      "publisher": "Fakultas Hukum",
+      "publication": "Fiat Justicia",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/00\/05\/43",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "issn": "1978-5186",
+      "full_text_status": "public",
+      "status_changed": "2016-09-08 03:16:23",
+      "metadata_visibility": "show",
+      "datestamp": "2016-09-08 03:16:23",
+      "eprintid": 543,
+      "eprint_status": "archive",
+      "lastmod": "2016-09-08 03:16:23",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Isi Jurnal Fiat Justisia.pdf",
+            "docid": 459,
+            "files": [
+                {
+                  "objectid": 459,
+                  "filesize": 255031,
+                  "filename": "Isi Jurnal Fiat Justisia.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/2937",
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-06 07:08:40",
+                  "datasetid": "document",
+                  "fileid": 2937,
+                  "mime_type": "application\/pdf",
+                  "hash": "ae0d87a873950851dd8826d22fb27a6e"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 543,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/459",
+            "pos": 1
+          }
+      ],
+      "userid": 244,
+      "title": "TINJAUAN YURIDIS PENYELAMATAN DAN PENYELESAIAN KREDIT MACET (Studi Pada Koperasi Kredit Mekar Sai Bandar Lampung)",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Dianne Eka",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rusmawati"
+          },
+          "id": "Dianne_Eka_Rusmawati@yahoo.co.id"
+        }
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "title": "HUKUM AGRARIA NASIONAL SEBAGAI PRODUK POLITIK BERBASISKAN NILAI-NILAI PANCASILA",
+      "creators": [
+        {
+          "id": "fxsmj.unila@gmail.com",
+          "name": {
+            "given": "FX",
+            "family": "Sumarja",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "pagerange": "521-528",
+      "metadata_visibility": "show",
+      "eprintid": 6485,
+      "eprint_status": "archive",
+      "datestamp": "2018-02-20 04:34:01",
+      "documents": [
+          {
+            "eprintid": 6485,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19428",
+            "pos": 1,
+            "format": "text",
+            "main": "1. jurnal HK Agraria Produk Politik (Akr)_2012.pdf",
+            "files": [
+                {
+                  "fileid": 60060,
+                  "datasetid": "document",
+                  "hash": "c64ff36fccba32e17924346892b20e6b",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2018-02-15 05:51:04",
+                  "objectid": 19428,
+                  "filesize": 885111,
+                  "filename": "1. jurnal HK Agraria Produk Politik (Akr)_2012.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/60060"
+                }
+            ],
+            "docid": 19428,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "official_url": "https:\/\/ejournal.undip.ac.id\/index.php\/mmh\/issue\/view\/1022",
+      "lastmod": "2018-02-20 04:34:01",
+      "number": 4,
+      "userid": 940,
+      "dir": "disk0\/00\/00\/64\/85",
+      "publisher": "Fakultas Hukum Universitas Diponegoro",
+      "publication": "Jurnala masalah-masalah Hukum",
+      "divisions": [
+        "FH3"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/ejournal.undip.ac.id\/index.php\/mmh\/issue\/view\/1022"
+        }
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2018-02-20 04:34:01",
+      "issn": "2086-2695",
+      "full_text_status": "public",
+      "subjects": [
+        "KZ"
+      ],
+      "date_type": "published",
+      "date": "2012-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6485",
+      "volume": 41,
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Kajian hukum ini untuk mengetahui perwujudan nilai-nilai Pancasila dalam hukum agraria nasionaldan subtansi hukum agraria nasional sebagai produk politik. hasil kajian disimpulkan bahwa nilai-nilai Pancasila telah mengakar sedemikian kuat dalam UUPA, sehingga potensial sebagai sarana untuk menjelaskan, mengantisipasi dan memberi solusi segala persoalan hukum agraria di Indonesia. UUPA sebagai produk politik bberkarakter responsif dan memenuhi tuntutan rasa keadilan yang didambakan oleh masyarakat Indonesia.\r\n\r\nkata kunci: Pancasila, hukum agraria, produk politik"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4027",
+      "date": "2012-03",
+      "corp_creators": [
+        "Fakultas Hukum Universitas lampung"
+      ],
+      "subjects": [
+        "K1"
+      ],
+      "event_title": "FGD RUU Hak-Hak atas Tanah, di Bandar Lampung kerjasama FH Unila dengan DPD RI,",
+      "rev_number": 3,
+      "ispublished": "unpub",
+      "succeeds": 3626,
+      "status_changed": "2017-10-12 03:44:12",
+      "full_text_status": "public",
+      "event_type": "workshop",
+      "dir": "disk0\/00\/00\/40\/27",
+      "divisions": [
+        "FH3"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id",
+          "type": "org"
+        }
+      ],
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 28167,
+                  "datasetid": "document",
+                  "hash": "10d6debfe9eb3df4d3fc6b8016d213c7",
+                  "mime_type": "application\/pdf",
+                  "objectid": 3885,
+                  "filesize": 171586,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/28167",
+                  "filename": "Makalah RUU Hak Atas tanah_2012.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-03 05:17:07"
+                }
+            ],
+            "main": "Makalah RUU Hak Atas tanah_2012.pdf",
+            "docid": 3885,
+            "format": "text",
+            "language": "id",
+            "rev_number": 3,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 4027,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3885",
+            "pos": 1,
+            "security": "public"
+          }
+      ],
+      "lastmod": "2017-10-12 03:44:12",
+      "userid": 940,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 4027,
+      "datestamp": "2017-10-12 03:44:12",
+      "event_location": "Universitas Lampung, Bandar Lampung",
+      "refereed": "FALSE",
+      "event_dates": "20 Maret 2012",
+      "title": "Undang-Undang Hak-Hak Atas Tanah yang Ideal Tanggapan dan Masukan atas RUU Hak-Hak Atas Tanah",
+      "creators": [
+        {
+          "id": "fxsmj.unila@gmail.com",
+          "name": {
+            "given": "FX",
+            "lineage": null,
+            "family": "Sumarja",
+            "honourific": null
+          }
+        }
+      ],
+      "pres_type": "speech",
+      "type": "conference_item"
+    },
+    {
+      "event_title": "FGD RUU Hak-Hak atas Tanah, di Bandar Lampung kerjasama FH Unila dengan DPD RI,",
+      "subjects": [
+        "K1"
+      ],
+      "date": "2012-03",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4026",
+      "corp_creators": [
+        "Fakultas Hukum Universitas lampung"
+      ],
+      "event_type": "workshop",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/00\/40\/26",
+      "related_url": [
+        {
+          "type": "org",
+          "url": "http:\/\/repository.lppm.unila.ac.id"
+        }
+      ],
+      "rev_number": 3,
+      "ispublished": "unpub",
+      "status_changed": "2017-10-12 03:43:13",
+      "succeeds": 3626,
+      "full_text_status": "public",
+      "metadata_visibility": "show",
+      "eprintid": 4026,
+      "eprint_status": "archive",
+      "datestamp": "2017-10-12 03:43:13",
+      "documents": [
+          {
+            "rev_number": 3,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 3884,
+            "main": "Makalah RUU Hak Atas tanah_2012.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 28159,
+                  "mime_type": "application\/pdf",
+                  "hash": "10d6debfe9eb3df4d3fc6b8016d213c7",
+                  "filesize": 171586,
+                  "objectid": 3884,
+                  "filename": "Makalah RUU Hak Atas tanah_2012.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/28159",
+                  "hash_type": "MD5",
+                  "mtime": "2017-07-03 05:17:07"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3884",
+            "eprintid": 4026,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2017-10-12 03:43:13",
+      "userid": 940,
+      "event_dates": "20 Maret 2012",
+      "refereed": "FALSE",
+      "title": "Undang-Undang Hak-Hak Atas Tanah yang Ideal Tanggapan dan Masukan atas RUU Hak-Hak Atas Tanah",
+      "pres_type": "speech",
+      "type": "conference_item",
+      "creators": [
+        {
+          "id": "fxsmj.unila@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sumarja",
+            "given": "FX"
+          }
+        }
+      ],
+      "event_location": "Universitas Lampung, Bandar Lampung"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Upik",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hamidah"
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "title": "Pembaharuan Standar Prosedure Operasi Pengaturan (SOP) Pelayanan Pendaftaran Peralihan Hak Milik Atas Tanah Karena Hibah Wasiat Berdasarkan Alat Bukti Peralihan Hak",
+      "eprint_status": "archive",
+      "eprintid": 18178,
+      "datestamp": "2020-02-25 04:06:04",
+      "metadata_visibility": "show",
+      "userid": 769,
+      "documents": [
+          {
+            "eprintid": 18178,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31318",
+            "pos": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash": "e6834b6839930e1ff26c6a40e956ceed",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 153078,
+                  "mtime": "2020-02-24 03:43:37",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153078",
+                  "filename": "Review Upik H Pembaharuan Standar Prosedure.pdf",
+                  "filesize": 153728,
+                  "objectid": 31318
+                }
+            ],
+            "main": "Review Upik H Pembaharuan Standar Prosedure.pdf",
+            "docid": 31318,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2020-02-25 04:06:04",
+      "publisher": "Fakultas Hukum",
+      "publication": "Fiat Justisia",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/81\/78",
+      "status_changed": "2020-02-25 04:06:04",
+      "full_text_status": "public",
+      "issn": "1978-5186",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "K1"
+      ],
+      "abstract": "hasil penilaian sejawat sebidang atau peer review",
+      "date": "2012-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18178"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "family": "Upik",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hamidah"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Pembahruan standar prosedure operasional pengaturan (SOP) pelayanan pendaftaran peralihan hak milik atas tanah karena hibah wasiat berdasarkan alat bukti peralihan hak",
+      "refereed": "FALSE",
+      "userid": 769,
+      "lastmod": "2020-02-25 04:05:04",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 153013,
+                  "datasetid": "document",
+                  "hash": "e6834b6839930e1ff26c6a40e956ceed",
+                  "mime_type": "application\/pdf",
+                  "objectid": 31308,
+                  "filesize": 153728,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153013",
+                  "filename": "Review Upik H Pembaharuan Standar Prosedure.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-24 03:07:11"
+                }
+            ],
+            "main": "Review Upik H Pembaharuan Standar Prosedure.pdf",
+            "docid": 31308,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31308",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18168
+          }
+      ],
+      "datestamp": "2020-02-25 04:05:04",
+      "eprint_status": "archive",
+      "eprintid": 18168,
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "issn": "1978-5186",
+      "status_changed": "2020-02-25 04:05:04",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Fiat Justisia",
+      "publisher": "Fakultas Hukum",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/81\/68",
+      "date": "2012-08",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18168",
+      "subjects": [
+        "K1"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2020-02-25 04:08:19",
+      "eprintid": 18174,
+      "eprint_status": "archive",
+      "lastmod": "2020-02-25 04:08:19",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31314",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18174,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "main": "Review Upik H Pengadaan Tanah untuk Kepentingan.pdf",
+            "docid": 31314,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "91bf0767a337115e117e966ede08e831",
+                  "fileid": 153053,
+                  "datasetid": "document",
+                  "filename": "Review Upik H Pengadaan Tanah untuk Kepentingan.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153053",
+                  "filesize": 139936,
+                  "objectid": 31314,
+                  "mtime": "2020-02-24 03:29:48",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "userid": 769,
+      "title": "Pengadaan Tanah Untuk Kepentingan Pembangunan Infrastruktur Dalam Rangka Pengembangan Wilayah",
+      "refereed": "FALSE",
+      "pres_type": "paper",
+      "type": "conference_item",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Upik",
+            "lineage": null,
+            "given": "Hamidah"
+          }
+        }
+      ],
+      "event_title": "Prosiding Seminar Nasional Magister Teknil Sipil Universitas Lampung",
+      "subjects": [
+        "K1"
+      ],
+      "date": "2012-05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18174",
+      "event_type": "conference",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/81\/74",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "status_changed": "2020-02-25 04:08:19"
+    },
+    {
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/34\/37",
+      "event_type": "conference",
+      "status_changed": "2019-07-02 03:00:21",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "event_title": "Prosiding Seminar Nasional Magister Teknik Sipil Universitas Lampung",
+      "subjects": [
+        "K1"
+      ],
+      "date": "2012-05-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13437",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Hamidah",
+            "family": "Upik",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "conference_item",
+      "refereed": "FALSE",
+      "title": "Pengadaan Tanah Untuk Kepentingan Pembangunan Infrastruktur Dalam Rangka Pengembangan Wilayah Terdaftar di Lembaga Penelitian Universitas Lampung",
+      "eprintid": 13437,
+      "eprint_status": "archive",
+      "datestamp": "2019-07-02 03:00:21",
+      "pagerange": "109-121",
+      "metadata_visibility": "show",
+      "userid": 769,
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26446",
+            "eprintid": 13437,
+            "placement": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "format": "text",
+            "main": "upik PENGADAAN TANAH UNTUK KEPENTINGAN PEMBANGUNAN                                                                                          INFRASTRUKTUR DALAM RANGKA PENGEMBANGAN WILAYAH (4).pdf",
+            "files": [
+                {
+                  "fileid": 117603,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "46e86f0de8252061f438b227c0ae599e",
+                  "hash_type": "MD5",
+                  "mtime": "2019-07-01 03:35:12",
+                  "filesize": 135581,
+                  "objectid": 26446,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117603",
+                  "filename": "upik PENGADAAN TANAH UNTUK KEPENTINGAN PEMBANGUNAN                                                                                          INFRASTRUKTUR DALAM RANGKA PENGEMBANGAN WILAYAH (4).pdf"
+                }
+            ],
+            "docid": 26446
+          }
+      ],
+      "lastmod": "2019-07-02 03:00:21"
+    },
+    {
+      "event_type": "conference",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/01\/34\/35",
+      "rev_number": 11,
+      "ispublished": "pub",
+      "status_changed": "2019-07-02 03:00:14",
+      "full_text_status": "public",
+      "subjects": [
+        "K1"
+      ],
+      "event_title": "Prosiding Seminar Nasional Magister Teknik Sipil Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13435",
+      "date": "2012-05-01",
+      "refereed": "FALSE",
+      "title": "Pengadaan Tanah Untuk Kepentingan Pembangunan Infrastruktur Dalam Rangka Pengembangan Wilayah Terdaftar di Lembaga Penelitian Universitas Lampung",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Upik Hamidah",
+            "lineage": null,
+            "given": "Upik"
+          }
+        }
+      ],
+      "pagerange": "109-121",
+      "metadata_visibility": "show",
+      "eprintid": 13435,
+      "eprint_status": "archive",
+      "datestamp": "2019-07-02 03:00:14",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "mtime": "2019-07-01 03:13:53",
+                  "hash_type": "MD5",
+                  "filename": "upik PENGADAAN TANAH UNTUK KEPENTINGAN PEMBANGUNAN                                                                                          INFRASTRUKTUR DALAM RANGKA PENGEMBANGAN WILAYAH.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/117590",
+                  "filesize": 39680,
+                  "objectid": 26445,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "8db53031fb1d47b7f02d8dbb6311b6ac",
+                  "datasetid": "document",
+                  "fileid": 117590
+                }
+            ],
+            "main": "upik PENGADAAN TANAH UNTUK KEPENTINGAN PEMBANGUNAN                                                                                          INFRASTRUKTUR DALAM RANGKA PENGEMBANGAN WILAYAH.docx",
+            "docid": 26445,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 13435,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26445",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2019-07-02 03:00:14",
+      "userid": 769
+    },
+    {
+      "datestamp": "2019-09-04 08:03:41",
+      "eprintid": 14038,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "userid": 888,
+      "lastmod": "2019-09-04 08:03:41",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Review Yulia Neta Eksistensi Konstitusi Independen dalam Melakukan.pdf",
+            "files": [
+                {
+                  "hash": "ec9efa860727bf8ac8992116d5dcbc8c",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 122191,
+                  "mtime": "2019-09-04 07:29:44",
+                  "hash_type": "MD5",
+                  "filename": "Review Yulia Neta Eksistensi Konstitusi Independen dalam Melakukan.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122191",
+                  "filesize": 762263,
+                  "objectid": 27070
+                }
+            ],
+            "docid": 27070,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27070",
+            "pos": 1,
+            "eprintid": 14038,
+            "placement": 1
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulia Neta",
+            "given": "Yulia"
+          },
+          "id": "yulia.neta@fh.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "Eksistensi komisi konstitusi independen dalam melakukan perubahan undang-undang dasar 1945",
+      "refereed": "TRUE",
+      "subjects": [
+        "K1"
+      ],
+      "abstract": "hasil penilaian sejawat sebidang atau peer review",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14038",
+      "dir": "disk0\/00\/01\/40\/38",
+      "publication": 18297706,
+      "divisions": [
+        "FH3"
+      ],
+      "full_text_status": "public",
+      "status_changed": "2019-09-04 08:03:41",
+      "ispublished": "pub",
+      "rev_number": 6
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yulia Neta",
+            "lineage": null,
+            "given": "Yulia"
+          },
+          "id": "yulia.neta@fh.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "eksistensi  komisi konstitusi independen dalam melakukan perubahan undang-undang dasar 1945",
+      "eprintid": 13715,
+      "eprint_status": "archive",
+      "datestamp": "2019-08-05 05:01:32",
+      "metadata_visibility": "show",
+      "userid": 888,
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26726",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13715,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "review5.pdf",
+            "docid": 26726,
+            "files": [
+                {
+                  "hash": "8fd3410c9d2121768ed43402b956f7b8",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 119662,
+                  "mtime": "2019-08-05 04:38:35",
+                  "hash_type": "MD5",
+                  "filename": "review5.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119662",
+                  "objectid": 26726,
+                  "filesize": 102722
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2019-08-05 05:01:32",
+      "dir": "disk0\/00\/01\/37\/15",
+      "publication": "konstitusi",
+      "divisions": [
+        "FH3"
+      ],
+      "status_changed": "2019-08-05 05:01:32",
+      "full_text_status": "public",
+      "issn": 18237706,
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "K1"
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "hasil penilaian sejawat sebidang atau peer review",
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13715"
+    },
+    {
+      "title": "model tata kelola administrasi pemerintahan yang baik di daerah otonomi baru",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Yulia",
+            "family": "Yulia Neta",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "yulia.neta@fh.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "datestamp": "2019-08-05 05:01:38",
+      "eprint_status": "archive",
+      "eprintid": 13716,
+      "lastmod": "2019-08-05 05:01:38",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26727",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 13716,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "filename": "review6.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/119668",
+                  "filesize": 100763,
+                  "objectid": 26727,
+                  "mtime": "2019-08-05 04:42:45",
+                  "hash_type": "MD5",
+                  "hash": "2c462ec90d95a278b9b5acba3b9a0ddc",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 119668
+                }
+            ],
+            "main": "review6.pdf",
+            "docid": 26727,
+            "format": "text"
+          }
+      ],
+      "userid": 888,
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "dir": "disk0\/00\/01\/37\/16",
+      "publication": "Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung",
+      "divisions": [
+        "FH3"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "issn": "1978-5186",
+      "full_text_status": "public",
+      "status_changed": "2019-08-05 05:01:38",
+      "subjects": [
+        "K1"
+      ],
+      "date": 2012,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13716",
+      "abstract": "hasil penilaian sejawat sebidang atau peer review",
+      "corp_creators": [
+        "Universitas Lampung"
+      ]
+    },
+    {
+      "issn": "1978-5186",
+      "full_text_status": "public",
+      "status_changed": "2019-09-04 08:03:54",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "publication": "Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung",
+      "dir": "disk0\/00\/01\/40\/41",
+      "divisions": [
+        "FH3"
+      ],
+      "abstract": "hasil penilaian sejawat sebidang atau review",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14041",
+      "date": 2012,
+      "subjects": [
+        "K1"
+      ],
+      "type": "article",
+      "creators": [
+        {
+          "id": "yulia.neta@fh.unila.ac.id",
+          "name": {
+            "given": "Yulia",
+            "family": "Yulia Neta",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "model tata kelola administrasi pemerintahan yang baik di daerah otonomi baru",
+      "refereed": "TRUE",
+      "userid": 888,
+      "lastmod": "2019-09-04 08:03:54",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27073",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 14041,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Review Yulia Neta Model Tata Kelola Administrasi Pemerintahan yang Baik.pdf",
+            "files": [
+                {
+                  "filename": "Review Yulia Neta Model Tata Kelola Administrasi Pemerintahan yang Baik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/122209",
+                  "filesize": 766720,
+                  "objectid": 27073,
+                  "mtime": "2019-09-04 07:48:38",
+                  "hash_type": "MD5",
+                  "hash": "1d13b7d70ae0a11bfde1497bd553c746",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 122209
+                }
+            ],
+            "docid": 27073,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2019-09-04 08:03:54",
+      "eprintid": 14041,
+      "eprint_status": "archive",
+      "metadata_visibility": "show"
+    },
+    {
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2023-05-15 01:22:39",
+      "issn": "978-979-8510-56-4",
+      "full_text_status": "public",
+      "divisions": [
+        "FH3"
+      ],
+      "publisher": "LP Unila",
+      "publication": "PROSIDING Seminar Hasil Penelitian & Pengabdian Kepada Masyarakat",
+      "dir": "disk0_bak\/00\/05\/16\/04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51604",
+      "date": "2012-09",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "Upaya Penanggulangan Tindak Pidana Pencucian Uang (Money Laundering) Yang Berkaitan Dengan Kejahatan Perbankan",
+      "creators": [
+        {
+          "id": "firganefi.unila@gmail.com",
+          "name": {
+            "family": "firganefi",
+            "lineage": null,
+            "honourific": null,
+            "given": "firganefi"
+          }
+        },
+        {
+          "name": {
+            "given": "Maya Shafira",
+            "lineage": null,
+            "family": "Maya Shafira",
+            "honourific": null
+          },
+          "id": "mayashafira@fh.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "documents": [
+          {
+            "docid": 249405,
+            "main": "20773_3.pdf",
+            "files": [
+                {
+                  "mtime": "2023-05-14 14:50:00",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/611224",
+                  "filename": "20773_3.pdf",
+                  "filesize": 5223373,
+                  "objectid": 249405,
+                  "hash": "af8061d00481eafef61f3fcc82ef6820",
+                  "mime_type": "application\/pdf",
+                  "fileid": 611224,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 51604,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/249405",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-05-15 01:22:39",
+      "userid": 903,
+      "pagerange": "572-583",
+      "metadata_visibility": "show",
+      "eprintid": 51604,
+      "eprint_status": "archive",
+      "datestamp": "2023-05-15 01:22:39"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "nikmah rosidah",
+            "lineage": null,
+            "given": "nikmah"
+          }
+        }
+      ],
+      "title": "Pembaharuan Ide Diversi dalam Implementasi Sistem Peradilan Anak di Indonesia",
+      "refereed": "TRUE",
+      "userid": 762,
+      "lastmod": "2019-10-24 08:52:43",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "Pembaharuan Ide Diversi dalam Implementasi Sistem Peradilan Anak di Indonesia.pdf",
+            "docid": 27714,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-10-24 08:52:34",
+                  "filesize": 1150050,
+                  "objectid": 27714,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/126665",
+                  "filename": "Pembaharuan Ide Diversi dalam Implementasi Sistem Peradilan Anak di Indonesia.pdf",
+                  "datasetid": "document",
+                  "fileid": 126665,
+                  "mime_type": "application\/pdf",
+                  "hash": "9ec607f7d7ef87159473a7efaa4b89b7"
+                }
+            ],
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27714",
+            "eprintid": 14587,
+            "placement": 2
+          }
+      ],
+      "datestamp": "2019-10-22 03:55:19",
+      "eprint_status": "archive",
+      "eprintid": 14587,
+      "metadata_visibility": "show",
+      "pagerange": "179-188",
+      "full_text_status": "public",
+      "issn": "2527-4716",
+      "status_changed": "2019-10-22 03:55:19",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "publication": "Masalah - Masalah Hukum",
+      "publisher": "Universitas Dipenogoro",
+      "dir": "disk0\/00\/01\/45\/87",
+      "divisions": [
+        "FH3"
+      ],
+      "abstract": "Hasil penilaian sejawat sebidang atau peer review",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14587",
+      "date": 2012,
+      "subjects": [
+        "K1"
+      ]
+    }
+]
+

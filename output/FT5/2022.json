@@ -1,0 +1,3028 @@
+[
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2023-04-11 07:51:31",
+      "eprint_status": "archive",
+      "eprintid": 50249,
+      "lastmod": "2023-04-11 07:51:31",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jitet\/index",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "2f154b69a596ea40040d2c27e8f0bdd0",
+                  "datasetid": "document",
+                  "fileid": 542936,
+                  "mtime": "2023-04-11 07:43:28",
+                  "hash_type": "MD5",
+                  "filename": "Analisis Tegangan Tembus Pada Minyak Jarak (Castor Oil) Sebagai Alternatif Isolator Minyak Transformator.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542936",
+                  "filesize": 405368,
+                  "objectid": 189950
+                }
+            ],
+            "main": "Analisis Tegangan Tembus Pada Minyak Jarak (Castor Oil) Sebagai Alternatif Isolator Minyak Transformator.pdf",
+            "docid": 189950,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 50249,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189950",
+            "pos": 1
+          }
+      ],
+      "userid": 689,
+      "title": "ANALISIS TEGANGAN TEMBUS PADA MINYAK JARAK (Castor Oil) SEBAGAI ALTERNATIF ISOLATOR MINYAK TRANSFORMATOR",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Anshori",
+            "given": "Agung"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Nining",
+            "honourific": null,
+            "lineage": null,
+            "family": "Purwasih"
+          },
+          "id": "nining.purwasih@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sinaga",
+            "lineage": null,
+            "given": "Herman Halomoan"
+          },
+          "id": "herman.h.sinaga@eng.unila.ac.id"
+        },
+        {
+          "id": "diah.permata@eng,unila.ac.id",
+          "name": {
+            "given": "Diah",
+            "family": "Permata",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "date": "2022-04",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50249",
+      "abstract": "solasi transformator berbasis minyak mineral memiliki beberapa masalah yaitu tidak ramah lingkungan, tidak dapat terurai, tidak dapat diperbarui, dan jarang. Minyak nabati adalah alternatif isolasi transformator yang salah satunya adalah minyak jarak. Penelitian ini bertujuan untuk mendeskripsikan minyak nabati yaitu minyak jarak sebagai alternatif minyak mineral untuk bahan isolasi pada transformator. Minyak jarak didapatkan dari proses pengepresan biji jarak dan penyaringan minyak jarak. Hasil pengukuran kadar air dan tegangan tembus serta pengaruh proses pemanasan terhadap kadar air dan tegangan tembus dari minyak jarak dianalisis dalam penelitian ini. Penelitian ini menemukan bahwa kadar air dalam minyak jarak murni adalah sebesar 0,33 % dan tegangan tembus dalam minyak jarak murni adalah 13,9 kV, proses pemanasan yang dilakukan terhadap minyak jarak mempengaruhi kadar air di dalam minyak dan meningkatkan nilai tegangan tembus dari minyak jarak.",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jitet\/article\/view\/2440"
+        }
+      ],
+      "dir": "disk0_bak\/00\/05\/02\/49",
+      "publisher": "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung",
+      "publication": "JITET Jurnal Informatika dan Teknik Elektro",
+      "divisions": [
+        "FT5"
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "issn": "2303-0577",
+      "full_text_status": "public",
+      "status_changed": "2023-04-11 07:51:31"
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2022-11-01 01:00:25",
+      "eprint_status": "archive",
+      "eprintid": 46154,
+      "lastmod": "2022-11-01 01:00:25",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 510317,
+                  "datasetid": "document",
+                  "hash": "5bc5fe61a0b43b66baa26116ccf03798",
+                  "mime_type": "application\/pdf",
+                  "objectid": 184981,
+                  "filesize": 1642924,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510317",
+                  "filename": "Proportional and simultaneous control system design for portable ventilators based on internet of things-15%.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-01 00:19:44"
+                }
+            ],
+            "main": "Proportional and simultaneous control system design for portable ventilators based on internet of things-15%.pdf",
+            "docid": 184981,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "content": "supplemental",
+            "placement": 1,
+            "eprintid": 46154,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184981",
+            "pos": 1,
+            "formatdesc": "Plagiarism check",
+            "security": "public"
+          }
+      ],
+      "userid": 534,
+      "title": "Proportional and simultaneous control\r\nsystem design for portable ventilators based\r\non internet of things_15%",
+      "type": "other",
+      "creators": [
+        {
+          "id": "aryanto@eng.unila.ac.id",
+          "name": {
+            "given": "Aryanto",
+            "honourific": null,
+            "family": "Aryanto",
+            "lineage": null
+          }
+        },
+        {
+          "id": "melvi@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Ulvan",
+            "lineage": null,
+            "given": "Melvi"
+          }
+        },
+        {
+          "name": {
+            "given": "Ardian",
+            "honourific": null,
+            "family": "Ulvan",
+            "lineage": null
+          },
+          "id": "ardian.ulvan@eng.unila.ac.id"
+        }
+      ],
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "date": "2022-10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46154",
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "Turnitin",
+      "dir": "disk0\/00\/04\/61\/54",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2022-11-01 01:00:25"
+    },
+    {
+      "abstract": "Pada saat ini hampir semua peralatan rumah tangga menggunakan teknologi elektrik sehingga kesediaan energi listrik sangat dibutuhkan oleh manusia. Oleh karena itu, di setiap tahun konsumsi energi listrik ini terus meningkat seiring dengan peningkatan pertumbuhan ekonomi di masyarakat. Untuk meningkatkan suplai energi listrik maka dibutuhkan pembangkit-pembangkit listrik yang harus dibangun. Pembangkit listrik membutuhkan sumber energi yang nantinya akan dikonversi menjadi energi listrik. Salah satu pilihannya adalah sumber energi terbarukan yaitu cahaya matahari (tenaga surya). Untuk mengkonversi tenaga surya menjadi listrik dibutuhkan sel-sel surya yang dirangkai menjadi panel surya. Panel-panel surya ini tidak dapat mengkonversi secara optimal karena efisiensinya masih rendah. Oleh karena itu, diperlukan adanya inovasi untuk meningkatkan daya keluaran dari sel surya yang berupa energi listrik. Penelitian ini bertujuan untuk meningkatkan daya keluaran sel surya dengan menambahkan lensa fresnel serta melengkapi dengan sistem penjejak arah matahari. Hasil penelitian membuktikan bahwa dengan menambahkan lensa fresnel dan sistem penjejak dapat meningkatkan rata-rata irradiance sebesar 29%, arus listrik sebesar 18,94%, tegangan listrik sebesar 11,57%, dan daya sebesar 44,32%. Hasil ini didasarkan pada pembandingan dengan pembangkit listrik tenaga surya yang tidak menggunakan lensa fresnel serta berpenjejak arah matahari.",
+      "volume": 6,
+      "date": "2022-04-25",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42468",
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "issn": "2528-7400",
+      "full_text_status": "public",
+      "status_changed": "2022-06-15 01:43:53",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "publisher": "Universitas Muhammadiyah Palembang",
+      "publication": "Jurnal surya energy",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/04\/24\/68",
+      "userid": 197,
+      "number": 2,
+      "lastmod": "2022-06-15 01:43:54",
+      "official_url": "https:\/\/jurnal.um-palembang.ac.id\/senergi\/index",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164181",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 42468,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "Jurnal Surya Energy FXAS.pdf",
+            "files": [
+                {
+                  "objectid": 164181,
+                  "filesize": 501359,
+                  "filename": "Jurnal Surya Energy FXAS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/466705",
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-14 15:18:06",
+                  "datasetid": "document",
+                  "fileid": 466705,
+                  "mime_type": "application\/pdf",
+                  "hash": "8d286388357d2122252ee810a06fb84a"
+                }
+            ],
+            "docid": 164181,
+            "format": "text"
+          }
+      ],
+      "datestamp": "2022-06-15 01:43:53",
+      "id_number": "https:\/\/doi.org\/10.32502\/jse.v6i2.3955",
+      "eprintid": 42468,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "47-56",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Despa",
+            "given": "Dikpride"
+          },
+          "id": "despa@eng.unila.ac.id"
+        },
+        {
+          "id": "muhlisinps@gmail.com",
+          "name": {
+            "family": "Muhlisin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhlisin"
+          }
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setyawan",
+            "given": "FX. Arinto"
+          }
+        }
+      ],
+      "title": "Peningkatan Output Daya PLTS Menggunakan Sistem Tracker Dan Reflektor  Cahaya Matahari",
+      "refereed": "TRUE"
+    },
+    {
+      "datestamp": "2023-03-31 00:49:59",
+      "id_number": "http:\/\/dx.doi.org\/10.25126\/jtiik.2022934269",
+      "eprint_status": "archive",
+      "eprintid": 49473,
+      "pagerange": "735-742",
+      "userid": 1199,
+      "number": 4,
+      "official_url": "https:\/\/jtiik.ub.ac.id\/index.php\/jtiik\/article\/view\/4269",
+      "documents": [
+          {
+            "eprintid": 49473,
+            "placement": 2,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189094",
+            "pos": 2,
+            "format": "text",
+            "main": "6101.pdf",
+            "files": [
+                {
+                  "hash": "3a223d2d5f5ce2e614e61c12452df2bf",
+                  "mime_type": "application\/pdf",
+                  "fileid": 536816,
+                  "datasetid": "document",
+                  "filename": "6101.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536816",
+                  "objectid": 189094,
+                  "filesize": 1683018,
+                  "mtime": "2022-11-23 08:20:46",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 189094,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2
+          },
+          {
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189095",
+            "security": "public",
+            "formatdesc": "Korespondensi",
+            "placement": 3,
+            "eprintid": 49473,
+            "language": "en",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "content": "other",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536817",
+                  "filename": "meizano-korespondensi-IoT listrik 3 phasa Publikasi JTIIK Periode Agustus 2022.pdf",
+                  "filesize": 100345,
+                  "objectid": 189095,
+                  "mtime": "2023-03-30 21:22:02",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "1564cb8fbf378fbf712173ac1dc6acd1",
+                  "datasetid": "document",
+                  "fileid": 536817
+                }
+            ],
+            "main": "meizano-korespondensi-IoT listrik 3 phasa Publikasi JTIIK Periode Agustus 2022.pdf",
+            "docid": 189095,
+            "format": "text"
+          },
+          {
+            "placement": 4,
+            "eprintid": 49473,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189096",
+            "pos": 4,
+            "formatdesc": "Similiarity",
+            "security": "public",
+            "docid": 189096,
+            "main": "meizano-jurnal-2022-IoT listrik 3 phasa.pdf.pdf",
+            "files": [
+                {
+                  "filename": "meizano-jurnal-2022-IoT listrik 3 phasa.pdf.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536819",
+                  "objectid": 189096,
+                  "filesize": 1677242,
+                  "mtime": "2023-03-30 21:22:42",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "e5c336f5299ded3bdb786f0ef2e7bb3e",
+                  "fileid": 536819,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 2,
+            "content": "other"
+          },
+          {
+            "placement": 5,
+            "eprintid": 49473,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189097",
+            "pos": 5,
+            "security": "public",
+            "docid": 189097,
+            "main": "meizano-jurnal-2022-IoT listrik 3 phasa.pdf",
+            "files": [
+                {
+                  "hash": "3a223d2d5f5ce2e614e61c12452df2bf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 536821,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/536821",
+                  "filename": "meizano-jurnal-2022-IoT listrik 3 phasa.pdf",
+                  "filesize": 1683018,
+                  "objectid": 189097,
+                  "mtime": "2023-03-30 21:23:12",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "refereed": "TRUE",
+      "abstract": "Listrik menjadi salah satu sumber daya wajib dalam dunia modern. Perkantoran menggunakan sistem listrik 3 phasa karena kebutuhan listriknya yang tinggi. Untuk dapat menggunakan listrik dengan efektif dan efisien, perlu diketahui jumlah konsumsi energi listrik yang digunakan. Teknologi Internet of Things (IoT) Sistem Kelistrikan 3 Phasa dengan Data Real Time Pengukuran Besaran Listrik dikembangkan untuk dapat mengukur perubahan besaran listrik pada sistem listrik 3 phasa. Pengamatan terhadap penggunaan teknologi tersebut dilakukan terhadap perubahan energi listrik pada masa sebelum dan sesudah pandemi COVID-19 untuk menguji kemampuan perangkat dan melihat bagaimana pengaruh pandemi COVID-19 terhadap variabel besaran listrik yang tentu juga akan mempengaruhi sistem kelistrikan secara umum. Pengukuran besaran listrik dilakukan menggunakan perangkat Prototype Smart Monitoring pengukuran listrik tiga phasa yang menyimpan data pada sistem private cloud di UPT TIK Universitas Lampung. Dengan menganalisis data hasil pengukuran besaran listrik pada gedung H Jurusan Teknik Elektro, diketahui bahwa kejadian COVID-19 telah memberikan efek terhadap penurunan grafik hasil pengukuran arus hingga 90% (kondisi work from home) dan 60% (kondisi New Normal) yang memberikan indikasi bahwa penggunaan beban juga menurun. Sementara besaran listrik lainnya tegangan dan frekuensi cenderung stabil. Sistem Kelistrikan 3 Phasa dengan Data Real Time Pengukuran Besaran Listrik terbukti dapat digunakan untuk melakukan analisis terhadap perubahan besaran listrik pada sistem listrik 3 phasa.",
+      "date": 2022,
+      "publisher": "Fakultas Ilmu Komputer (FILKOM), Universitas Brawijaya (UB)",
+      "issn": "p-ISSN: 2355-7699",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "metadata_visibility": "show",
+      "lastmod": "2023-03-31 00:49:59",
+      "creators": [
+        {
+          "id": "despa@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Despa",
+            "given": "Dikpride"
+          }
+        },
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nama",
+            "given": "Gigih Forda"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "id": "trisya.septiana@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Septiana",
+            "given": "Trisya"
+          }
+        }
+      ],
+      "type": "article",
+      "title": "Teknologi Internet of Things (IoT) Sistem Kelistrikan 3 Phasa dengan Data Real Time Pengukuran Besaran Listrik (Studi Kasus: Pengaruh Covid-19 pada Konsumsi Listrik di Fakultas Teknik Universitas Lampung)",
+      "date_type": "published",
+      "subjects": [
+        "T1",
+        "TK"
+      ],
+      "volume": 9,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49473",
+      "publication": "Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK)",
+      "dir": "disk0_bak\/00\/04\/94\/73",
+      "divisions": [
+        "FT5"
+      ],
+      "funders": [
+        "LPPM Universitas Lampung"
+      ],
+      "status_changed": "2023-03-31 00:49:59",
+      "succeeds": 44654,
+      "rev_number": 7
+    },
+    {
+      "date_type": "published",
+      "subjects": [
+        "QA75"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49296",
+      "date": "2022-10",
+      "abstract": "Masih banyak calon mahasiswa Universitas Lampung dari berbagai lulusan SMA dan sederajat yang\r\nbelum mengetahui program studi di Universitas Lampung mana yang baik dan cocok untuk mereka, sehingga\r\nketika diterima dan memulai perkuliahan, sangat tidak jarang siswa merasa salah memilih jurusan yang\r\nmengakibatkan rasa penasaran. terlambat berganti program studi atau bahkan tidak mampu menyelesaikan kuliah.\r\nPenelitian ini bertujuan untuk membangun sistem pendukung keputusan yang menampilkan rekomendasi Program\r\nStudi di Universitas Lampung yang sesuai dengan minat dan kemampuan akademik atau kecerdasan calon\r\nmahasiswa. Sistem ini diharapkan dapat membantu calon mahasiswa dalam memilih program studi yang sesuai\r\ndengan dirinya, sehingga dapat mengurangi resiko berpindah program studi, serta terlambat lulus atau bahkan\r\ntidak dapat lulus. Metode pengembangan sistem yang akan dilakukan dalam penelitian ini adalah Extreme\r\nProgramming (XP) guna membangun sistem secara cepat dan sesuai dengan kebutuhan pengguna yang memiliki\r\nempat tahapan utama yaitu perencanaan, perancangan, pengkodean, dan pengujian sebelum merilis sistem.\r\nSedangkan untuk menentukan rekomendasi berdasarkan minat dan kecerdasan calon mahasiswa akan\r\nmenggunakan landasan teori Holland untuk minat, dan teori Intelligence Structure Test (IST) untuk kecerdasan.",
+      "volume": 10,
+      "publication": "Jurnal Komputasi",
+      "publisher": "Jurusan Ilmu Komputer Universitas Lampung",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0_bak\/00\/04\/92\/96",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "issn": "2541-0350",
+      "full_text_status": "public",
+      "status_changed": "2023-03-27 08:52:44",
+      "metadata_visibility": "show",
+      "pagerange": "86-96",
+      "datestamp": "2023-03-27 08:52:44",
+      "eprintid": 49296,
+      "eprint_status": "archive",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/komputasi\/index",
+      "lastmod": "2023-03-27 08:52:44",
+      "documents": [
+          {
+            "format": "text",
+            "main": "3182-7963-1-PB.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "7347909970098a67766c84d82b599a7a",
+                  "datasetid": "document",
+                  "fileid": 535381,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535381",
+                  "filename": "3182-7963-1-PB.pdf",
+                  "filesize": 976954,
+                  "objectid": 188845,
+                  "mtime": "2023-03-27 06:01:48",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 188845,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "eprintid": 49296,
+            "placement": 2,
+            "security": "public",
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188845"
+          }
+      ],
+      "userid": 827,
+      "number": 2,
+      "title": "Identifikasi Calon Mahasiswa Baru dalam Pemilihan Program Studi Sebagai Model Pengembangan Kerjasama dengan MKKS se Provinsi Lampung",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "family": "Fitriawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "Helmy"
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Bambang",
+            "honourific": null,
+            "family": "Hermanto",
+            "lineage": null
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Septana",
+            "lineage": null,
+            "honourific": null,
+            "given": "Hery Dian"
+          }
+        },
+        {
+          "name": {
+            "family": "Haerudin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nandi"
+          },
+          "id": "nandi.haerudin@eng.unila.ac.id"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "metadata_visibility": "show",
+      "id_number": "EC00202280793",
+      "eprintid": 49309,
+      "eprint_status": "archive",
+      "datestamp": "2023-03-28 00:44:32",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 188863,
+            "main": "sertifikat_EC00202280793.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 535511,
+                  "hash": "c9843cbbad2528cb4617f147c4ad9c7a",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-27 14:50:50",
+                  "filesize": 2094905,
+                  "objectid": 188863,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/535511",
+                  "filename": "sertifikat_EC00202280793.pdf"
+                }
+            ],
+            "format": "text",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188863",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 49309
+          }
+      ],
+      "lastmod": "2023-03-28 00:44:32",
+      "userid": 827,
+      "title": "Identifikasi Calon Mahasiswa Baru Dalam Pemilihan Program Studi Sebagai Model Pengembangan Kerjasama Dengan MKKS Se-Provinsi Lampung.",
+      "type": "patent",
+      "creators": [
+        {
+          "name": {
+            "given": "HF",
+            "honourific": null,
+            "family": "Helmy Fitriawan",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Bambang",
+            "lineage": null,
+            "family": "Bambang Hermanto",
+            "honourific": null
+          },
+          "id": "bambang.hermanto@fmipa.unila.ac.id"
+        },
+        {
+          "id": "hery@eng.unila.ac.id",
+          "name": {
+            "family": "Hery Dian",
+            "lineage": null,
+            "honourific": null,
+            "given": "Septama"
+          }
+        },
+        {
+          "name": {
+            "given": "NH",
+            "lineage": null,
+            "family": "Nandi Haerudin",
+            "honourific": null
+          },
+          "id": "nandi.haerudin@eng.unila.ac.id"
+        }
+      ],
+      "subjects": [
+        "Q1",
+        "QA",
+        "QA76",
+        "QC"
+      ],
+      "date_type": "published",
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49309",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "universitas Lampung"
+      ],
+      "patent_applicant": "Direktorat Jendral Kekayaan Intetektual Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia",
+      "abstract": "Sistem ini diharapkan dapat membantu calon mahasiswa dalam memilih program studi yang sesuai dengan dirinya, sehingga dapat mengurangi resiko berpindah program studi, serta terlambat lulus atau bahkan tidak dapat lulus. Metode pengembangan sistem yang akan dilakukan dalam penelitian ini adalah Extreme Programming (XP) guna membangun sistem secara cepat dan sesuai dengan kebutuhan pengguna yang memiliki\r\nempat tahapan utama yaitu perencanaan, perancangan, pengkodean, dan pengujian sebelum merilis sistem. Sedangkan untuk menentukan rekomendasi berdasarkan minat dan kecerdasan calon mahasiswa akan menggunakan landasan teori Holland untuk minat, dan teori Intelligence Structure Test (IST) untuk kecerdasan.",
+      "funders": [
+        "LPPM UNILA"
+      ],
+      "dir": "disk0_bak\/00\/04\/93\/09",
+      "divisions": [
+        "FT5"
+      ],
+      "rev_number": 11,
+      "ispublished": "pub",
+      "status_changed": "2023-03-28 00:44:32",
+      "full_text_status": "public"
+    },
+    {
+      "event_type": "conference",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/04\/64\/85",
+      "related_url": [
+        {
+          "url": "https:\/\/aip.scitation.org\/doi\/10.1063\/5.0103982"
+        }
+      ],
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2022-11-11 01:07:01",
+      "full_text_status": "public",
+      "event_title": "ULICOSS 2021",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46485",
+      "date": "2022-10-31",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "The rapid development of digital image processing technology can be used to simplify human life. This technology can be used in automotive technology which is also growing rapidly. Automotive technology leading to driverless automation cars is in dire need of image processing technology. This research aims to detect obstacle objects based on the detection of line changes emitted by line lasers. The line laser beam is captured using a camera and then using a Raspberry Pi to determine whether there is an obstacle or not. This research uses the Python programming language with the Hough Transform method. The Hough Transform method is used to detect lines in an image that is processed by looking at the consistency of the line laser. This research uses a box and a ball as obstacle objects. Research data collection was carried out in the afternoon in a closed room with an Illumination intensity of 10 Lux with parameters such as distance, camera angle, and line laser angle. An object can be said to be an obstacle if an image there is a laser line that is broken or not at the same pixel position. However, if in the image there is a consistent line or there is no line position change, then in the image there is no obstacle object. Based on the evaluation results of the calculation of the accuracy of the obstacle distance between the actual distance and the distance calculated by the program, the accuracy is above 90%.",
+      "refereed": "FALSE",
+      "event_dates": "30 AGUSTUS 2021",
+      "title": "Obstacle Detection Using Raspberry Pi for Driving Safety Based on Hough Transform Method",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "herlinawati",
+            "lineage": null,
+            "family": "Herlinawati",
+            "honourific": null
+          },
+          "id": "herlinawati@eng.unila.ac .id"
+        },
+        {
+          "id": "sri.purwiyanti@eng.unila.ac.id",
+          "name": {
+            "given": "Sri",
+            "family": "Purwiyanti",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Muthia",
+            "lineage": null,
+            "honourific": null,
+            "given": "Tiya"
+          },
+          "id": "tiyamuthia7@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Mahmud",
+            "lineage": null,
+            "honourific": null,
+            "given": "Haedar Aziz"
+          },
+          "id": "haedarazizmahmud@gmail.com"
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Bandar Lampung",
+      "pagerange": "050013-1-050013-12",
+      "metadata_visibility": "show",
+      "eprintid": 46485,
+      "eprint_status": "archive",
+      "datestamp": "2022-11-11 01:07:01",
+      "documents": [
+          {
+            "format": "text",
+            "files": [
+                {
+                  "filename": "Ulicoste 2021 Herlinawati.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512765",
+                  "objectid": 185358,
+                  "filesize": 2755527,
+                  "mtime": "2022-11-10 18:39:45",
+                  "hash_type": "MD5",
+                  "hash": "5f4c729e9526a557c1202ec18b1f55b8",
+                  "mime_type": "application\/pdf",
+                  "fileid": 512765,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Ulicoste 2021 Herlinawati.pdf",
+            "docid": 185358,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "eprintid": 46485,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185358"
+          }
+      ],
+      "official_url": "https:\/\/aip.scitation.org\/toc\/apc\/2563\/1?size=all",
+      "lastmod": "2022-11-11 01:07:01",
+      "userid": 197
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Dery",
+            "honourific": null,
+            "family": "Irawan",
+            "lineage": null
+          },
+          "id": "derrawan@gmail.com"
+        },
+        {
+          "id": "yetti.yuniati@eng.unila.ac.id",
+          "name": {
+            "given": "Yetti",
+            "honourific": null,
+            "family": "Yuniati",
+            "lineage": null
+          }
+        },
+        {
+          "id": "sri.purwiyanti@eng.unila.ac.id",
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Purwiyanti"
+          }
+        },
+        {
+          "name": {
+            "given": "Nining",
+            "honourific": null,
+            "family": "Purwasih",
+            "lineage": null
+          },
+          "id": "nining.purwasih@eng.unila.ac.id"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "family": "Muhammad",
+            "lineage": null,
+            "honourific": null,
+            "given": "Meizano Ardhi"
+          }
+        }
+      ],
+      "title": "Perancangan Sistem Keamanan Kain Tradisional Lampung Berbasis Sensor PIR",
+      "refereed": "TRUE",
+      "userid": 700,
+      "number": 3,
+      "lastmod": "2022-11-02 08:22:03",
+      "documents": [
+          {
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185091",
+            "pos": 1,
+            "eprintid": 46201,
+            "placement": 1,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "files": [
+                {
+                  "objectid": 185091,
+                  "filesize": 881616,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/510720",
+                  "filename": "2397-Article Text-1013-2-10-20221101.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-02 06:54:41",
+                  "fileid": 510720,
+                  "datasetid": "document",
+                  "hash": "bba5032a02c90b83bc0bf71619f2197b",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "2397-Article Text-1013-2-10-20221101.pdf",
+            "docid": 185091
+          }
+      ],
+      "datestamp": "2022-11-02 08:22:03",
+      "eprintid": 46201,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "pagerange": "346-354",
+      "issn": "1978-6042",
+      "full_text_status": "public",
+      "status_changed": "2022-11-02 08:22:03",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "related_url": [
+        {
+          "url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs"
+        }
+      ],
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "publisher": "Universitas Lampung",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/04\/62\/01",
+      "abstract": "Museum merupakan suatu tempat penyimpanan peninggalan bersejarah yang sangat penting sebagai\r\nbukti bahwa peninggalan tersebut benar adanya. Museum juga merupakan sebuah sarana bagi suatu negara\r\nuntuk menunjukkan kepada masyarakat tentang peninggalan benda-benda bersejarah yang merupakan harta\r\nkarun dan harus dijaga. Museum Negeri Provinsi Lampung, merupakan salah satu museum yang ada di\r\nIndonesia. Salah satu benda peninggalan yang harus dijaga di museum ini adalah kain tradisional Lampung\r\nyang saat ini masih ada dan menjadi warisan bagi masyarakat Lampung. Museum Lampung memiliki koleksi\r\nberupa kain tradisional Lampung yang kondisi keamanannya masih menjadi suatu masalah bagi pihak\r\npengelola Museum Lampung, dimana kurangnya penjagaan dan mudahnya bagi pengunjung untuk\r\nmenyentuh dan mengubah tata letak dari barang tersebut. Hal ini dapat menyebabkan kerusakan dan\r\nperubahan pada benda koleksi tersebut. Karena itu, Sistem Keamanan berbasis sensor Passive Infra Red (PIR)\r\nmerupakan suatu alat yang dirancang untuk menjaga dan memelihara keamanan objek Museum Negeri\r\nProvinsi Lampung “Ruwai Juwai”. Alat ini dirancang menggunakan sensor PIR yang akan mendeteksi adanya\r\nsinar infra red yang akan dideteksi oleh sensor yang kemudian akan mengaktifkan buzzer dan LED sebagai\r\noutput. Perancangan alat sistem keamanan berbasis sensor PIR dilakukan dengan mengamati tsensor infra red\r\nyang terdeteksi pada sensor PIR dan keluaran pada alat sistem keamanan berupa Buzzer dan LED monitor.\r\nKata kunci — Museum Lampung, Sistem Keamanan, Sensor Passive Infra Red.",
+      "volume": 16,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46201",
+      "date": "2022-09",
+      "subjects": [
+        "TK"
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "eprintid": 42429,
+      "datestamp": "2022-06-14 04:23:13",
+      "pagerange": "678-689",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 689,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 42429,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164139",
+            "pos": 1,
+            "security": "public",
+            "files": [
+                {
+                  "objectid": 164139,
+                  "filesize": 387964,
+                  "filename": "4489-Article Text-15556-3-10-20220605.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/466423",
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-14 02:09:10",
+                  "fileid": 466423,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "1329c74c4f685d5099b98db92d253604"
+                }
+            ],
+            "main": "4489-Article Text-15556-3-10-20220605.pdf",
+            "docid": 164139,
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2022-06-14 04:23:13",
+      "official_url": "https:\/\/journal.universitaspahlawan.ac.id\/index.php\/Innovative\/index",
+      "type": "article",
+      "creators": [
+        {
+          "id": "Wirajerry37@gmail.com",
+          "name": {
+            "family": "Jerry",
+            "lineage": null,
+            "honourific": null,
+            "given": "Wira"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sinaga",
+            "honourific": null,
+            "given": "Herman Halomoan"
+          },
+          "id": "herman.h.sinaga@eng.unila.ac.id"
+        },
+        {
+          "id": "nining.purwasih@eng.unila.ac.id",
+          "name": {
+            "family": "Purwasih",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nining"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Permata",
+            "lineage": null,
+            "given": "Diah"
+          },
+          "id": "diah.permata@eng.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Kinerja Arang Sekam Padi untuk Memperbaiki Nilai Resistansi Pentanahan Dengan Menggunakan Elektroda Baja Galvanis dan Tembaga",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "volume": 2,
+      "abstract": "The grounding system protects the equipment connected to the power supply as well as the environment around\r\nthe equipment from excessive voltage surges. Soil treatment, such as adding chemicals to the media around the\r\ngrounding electrode, is usually done in places with high soil resistance. Because rice husk charcoal has the ability\r\nto absorb and keep moisture in the soil, it is one of the additions that can be used to reduce grounding resistance.\r\nFurthermore, rice husk charcoal contains carbon chemical compounds that are conductive, allowing the soil's\r\ncation exchange capacity to be increased. The addition of 1 m to 2 m to the depth of the grounding hole allows\r\nfor a comparison of the results of various grounding resistance values in order to find the minimum resistance\r\nvalue. Comparison of copper and galvanized steel electrodes to establish the resistance ratio between the two\r\nelectrodes in order to pick the optimum grounding electrode. The best mixture composition in this study\r\nproduced a resistance of 10.2 Ω at a depth of 2 m utilizing copper electrodes with a grounding media of rice husk\r\ncharcoal mixed with soil.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42429",
+      "date": "2022-06-03",
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "Universitas Pahlawan Tuanku Tambusai",
+      "publication": "Innovative: Journal Of Social Science Research",
+      "dir": "disk0\/00\/04\/24\/29",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.universitaspahlawan.ac.id\/index.php\/Innovative\/article\/view\/4489"
+        }
+      ],
+      "status_changed": "2022-06-14 04:23:13",
+      "full_text_status": "public",
+      "issn": "2807-4238",
+      "ispublished": "pub",
+      "rev_number": 6
+    },
+    {
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52244",
+      "abstract": "Abstract— Fertility level is one of the main factors for the\r\nsuccess of eggs in order to hatch properly. Detection of egg fertility is currently still based on visuals, namely by observing the eggs one by one. This takes time and money so that it will affect the results of poultry farming. This study aims to determine the distinguishing characteristics of fertile and fertile eggs using thermal imagery and region of interest methods. Sample images were obtained using a thermal camera. The image processing process is cropping and grayscaling. The main basis in this research is color. The color of the thermal image will be translated into a temperature that will determine the characteristics of the egg. Based on the research that has been observed, the characteristics of egg temperature are divided into two, namely the temperature of fertile eggs increases steadily, while in infertile eggs the temperature value is unstable every day and when approaching hatching, the temperature of fertile eggs will be higher than infertile eggs.\r\nKeywords—identiification, eggs, fertile, infertile, temperature.",
+      "subjects": [
+        "T1"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2023-07-12 06:47:33",
+      "issn": "1978-6042",
+      "full_text_status": "public",
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "Universitas Lampung",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "dir": "disk0_bak\/00\/05\/22\/44",
+      "documents": [
+          {
+            "eprintid": 52244,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252955",
+            "pos": 1,
+            "format": "text",
+            "main": "ELECTRICIAN - EGG CHARACTERISTIC SRS.pdf",
+            "files": [
+                {
+                  "fileid": 619137,
+                  "datasetid": "document",
+                  "hash": "f5a50d2c31cae946bf01c27bdce62c6f",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1288370,
+                  "objectid": 252955,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619137",
+                  "filename": "ELECTRICIAN - EGG CHARACTERISTIC SRS.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-12 05:26:58"
+                }
+            ],
+            "docid": 252955,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-07-12 06:47:33",
+      "userid": 586,
+      "metadata_visibility": "show",
+      "eprintid": 52244,
+      "eprint_status": "archive",
+      "datestamp": "2023-07-12 06:47:33",
+      "refereed": "TRUE",
+      "title": "Egg Characteristic Identification System Using Thermal Imaging Camera Based on Image Processing",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Muthia",
+            "given": "Tiya"
+          },
+          "id": "tiyamuthia7@gmail.com"
+        },
+        {
+          "id": "sr_sulistiyanti@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sulistiyanti",
+            "honourific": null,
+            "given": "Sri Ratna"
+          }
+        },
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "given": "FX. Arinto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Setyawan"
+          }
+        },
+        {
+          "id": "afri.yudamson@eng.unila.ac.id",
+          "name": {
+            "given": "Afri",
+            "lineage": null,
+            "family": "Yudamson",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Purwiyanti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sri"
+          },
+          "id": "sri.purwiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Helmy",
+            "honourific": null,
+            "lineage": null,
+            "family": "Fitriawan"
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52255",
+      "date": "2022-10-11",
+      "abstract": "This system is designed to be able to measure the\r\nweight of an item and record IoT-based measurement results by displaying it through a database on a website automatically. Because the livestock sector in Indonesia is still largely unorganized and there is a need for clear supply chain management and support for supply chain performance, even though supply chain management has been made, stock taking still needs to be done. and can result in an imbalance with the number of items in the warehouse and also inefficiency for the company if it wants to see stock. Therefore, the author developed a digital weighing system using 4 IoT-based load cell sensors by recording measurement results through a database and displaying them in real-time on the LCD (Liquid Crystal Digital) and website. The development method used in this research is the prototype method, namely by realizing the system design that has been made. The conclusion of this study is the realization of a digital scale model using four IOT-based load cell sensors, with an instrument accuracy rate of 99.94373%, and the test object is large with a weight of 2-11 Kg.\r\n\r\nKeywords — Load Cell Sensor, Stock Taking, IOT, Website.",
+      "event_title": "Fortei 2018",
+      "subjects": [
+        "TK"
+      ],
+      "rev_number": 12,
+      "ispublished": "pub",
+      "status_changed": "2023-07-14 01:41:15",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0_bak\/00\/05\/22\/55",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "docid": 253000,
+            "main": "IEEE - MODELING SRS.pdf",
+            "files": [
+                {
+                  "hash": "af6ddc3b129b588bba5ef1bf8c31c5fe",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 619258,
+                  "mtime": "2023-07-13 03:36:38",
+                  "hash_type": "MD5",
+                  "filename": "IEEE - MODELING SRS.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619258",
+                  "filesize": 3847746,
+                  "objectid": 253000
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253000",
+            "eprintid": 52255,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2023-07-14 01:41:15",
+      "userid": 586,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 52255,
+      "datestamp": "2023-07-14 01:41:15",
+      "event_location": "Malang Jawa Timur",
+      "refereed": "TRUE",
+      "event_dates": "11-13 Oktober 2018",
+      "title": "Modeling of Digital Scale Based on IoT (Internet of Things)",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "bangipun14@gmail.com",
+          "name": {
+            "given": "M. Ifan",
+            "honourific": null,
+            "family": "Saputra",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sri Ratna",
+            "family": "Sulistiyanti",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Setyawan",
+            "honourific": null,
+            "given": "FX. Arinto"
+          },
+          "id": "fx.arinto@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Umi",
+            "family": "Murdika",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "umi.murdika@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "handiko",
+            "given": "Yonathan Tri"
+          }
+        }
+      ]
+    },
+    {
+      "dir": "disk0\/00\/04\/64\/83",
+      "divisions": [
+        "FT5"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/aip.scitation.org\/doi\/10.1063\/5.0103980"
+        }
+      ],
+      "event_type": "conference",
+      "status_changed": "2022-11-11 01:06:58",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "subjects": [
+        "TK"
+      ],
+      "event_title": "THE 2ND UNIVERSITAS LAMPUNG INTERNATIONAL CONFERENCE ON SCIENCE, TECHNOLOGY, AND ENVIRONMENT (ULICoSTE) 2021",
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Drowsiness while driving is one of the biggest factors causing traffic accidents. To prevent this, it is necessary to make an automatic system that can detect the drowsiness of vehicle drivers. In this research, the driver's face and eye positions were detected using a camera and processed using a Raspberry Pi. The position of the face and eyes was obtained using the Viola Jones method and then continued with determining the condition of the driver's eyes. The number of frames processed per second is set to 5 frames, so as not to burden the computation. The research was conducted on the object of the driver with glasses and without glasses by placing the camera at a distance of 20 to 80 cm from the driver. The study was conducted indoors and in the car cabin with lighting intensity between 0 to 100 Lux. In this study, eye position detection reached 100% at an illumination intensity of 20 to 100 Lux with a camera distance of 20 to 80 cm for drivers without glasses and an illumination intensity from 20 to 60 for drivers with glasses. Drowsiness condition is determined if three consecutive frames are detected when the eyes are closed.",
+      "date": "2022-10-31",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46483",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "FX Arinto",
+            "family": "Setyawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "fx.arinto@eng.unila.ac.id"
+        },
+        {
+          "id": "sumadi.1973@eng.unila.ac.id",
+          "name": {
+            "family": "Sumadi",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sumadi"
+          }
+        },
+        {
+          "id": "afri.yudamson@eng.unila.ac.id",
+          "name": {
+            "given": "Afri",
+            "family": "Yudamson",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "titin.yulianti@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulianti",
+            "given": "Titin"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Meidianto",
+            "honourific": null,
+            "given": "Rizky"
+          },
+          "id": "rizkymeidianto46@gmail.com"
+        }
+      ],
+      "type": "conference_item",
+      "event_dates": "27–28 August 2021",
+      "refereed": "FALSE",
+      "title": "Drowsiness detection of the cars driver using the Raspberry Pi based on image processing",
+      "event_location": "Bandar Lampung, Indonesia",
+      "eprint_status": "archive",
+      "eprintid": 46483,
+      "datestamp": "2022-11-11 01:06:58",
+      "pagerange": "050022-1-050022-7",
+      "metadata_visibility": "show",
+      "userid": 197,
+      "documents": [
+          {
+            "format": "text",
+            "main": "Ulicoste 2021 FX_Arinto_S.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-11-10 18:24:30",
+                  "objectid": 185356,
+                  "filesize": 2671296,
+                  "filename": "Ulicoste 2021 FX_Arinto_S.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/512753",
+                  "datasetid": "document",
+                  "fileid": 512753,
+                  "mime_type": "application\/pdf",
+                  "hash": "6f1cc2de5a297154840a340c2305d6a2"
+                }
+            ],
+            "docid": 185356,
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "eprintid": 46483,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185356",
+            "pos": 1
+          }
+      ],
+      "lastmod": "2022-11-11 01:06:58",
+      "official_url": "https:\/\/aip.scitation.org\/toc\/apc\/2563\/1?size=all"
+    },
+    {
+      "lastmod": "2023-07-18 06:10:30",
+      "documents": [
+          {
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253068",
+            "eprintid": 52265,
+            "placement": 1,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "main": "JITET - RANCANG BANGUN FX.pdf",
+            "docid": 253068,
+            "files": [
+                {
+                  "hash": "28bfb807d2a6cef2a9a11dd7fe15e5f9",
+                  "mime_type": "application\/pdf",
+                  "fileid": 619436,
+                  "datasetid": "document",
+                  "mtime": "2023-07-18 03:32:27",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619436",
+                  "filename": "JITET - RANCANG BANGUN FX.pdf",
+                  "filesize": 2481103,
+                  "objectid": 253068
+                }
+            ]
+          }
+      ],
+      "userid": 197,
+      "metadata_visibility": "show",
+      "datestamp": "2023-07-18 06:10:30",
+      "eprintid": 52265,
+      "eprint_status": "archive",
+      "title": "RANCANG BANGUN PERALATAN THREE STAGES CHARGING BATERAI MENGGUNAKAN BUCK BOOST CONVERTER DENGAN SEL SURYA BERBASIS MIKROKONTROLER ARDUINO",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "family": "Setyawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "FX. Arinto"
+          },
+          "id": "fx.arinto@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Helmy",
+            "family": "Fitriawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "helmy.fitriawan@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Purwiyanti",
+            "lineage": null,
+            "honourific": null,
+            "given": "Sri"
+          },
+          "id": "sri.purwiyanti@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "eni",
+            "family": "yuliana",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52265",
+      "date": "2022-12-14",
+      "abstract": "Buck boost converter sebuah sistem untuk pengecasan baterai\r\nmenggunakan tenaga surya dengan menggunakan metode three stages charging. Tujuannya agar nilai keluaran tegangan dari sistem tersebut dapat diatur dengan buck boost converter sesuai dengan metode yang digunakan yaitu three stages charging. Metode three stages charging terdiri dari tahapan yaitu Constant Current Charging, Constant Voltage Charging dan Float Charging. Hasil yang diperoleh yaitu Tegangan keluaran buck boost converter sangat dipengaruhi oleh besarnya nilai duty cycle yang diberikan. Dengan stage 1 tegangan diatur sebesar 12,5 V stage 2 tegangan sbesar 14 V, dan stage 3 dengan tegangan 13,5 V. Hasil arus pengecasan penggunaan metode three stages charging pada stage 1 4A dan stage 3 arus mendekati 0A.",
+      "subjects": [
+        "TK"
+      ],
+      "rev_number": 12,
+      "ispublished": "pub",
+      "issn": "2303-0577",
+      "full_text_status": "public",
+      "status_changed": "2023-07-18 06:10:30",
+      "publication": "JITET Jurnal Informatika dan Teknik Elektro",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0_bak\/00\/05\/22\/65"
+    },
+    {
+      "creators": [
+        {
+          "id": "fx.arinto@eng.unila.ac.id",
+          "name": {
+            "family": "Setyawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "FX. Arinto"
+          }
+        },
+        {
+          "id": "rinawati@fmipa.unila.ac.id",
+          "name": {
+            "given": "Rinawati",
+            "honourific": null,
+            "lineage": null,
+            "family": "Rinawati"
+          }
+        },
+        {
+          "id": "despa@eng.unila.ac.id",
+          "name": {
+            "given": "Dikpride",
+            "honourific": null,
+            "family": "Despa",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "romi",
+            "family": "sepsriza",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "romi.sepsrizal@gmail.com,"
+        }
+      ],
+      "type": "article",
+      "title": "ANALYSIS AND MANAGEMENT OF POLYCHLORINATED BIPHENYLS (PCBS)\r\nAT TEMPORARY STORAGE OF HAZARDOUS AND TOXIC WASTE OF PLN UP3\r\nTANJUNG KARANG",
+      "refereed": "TRUE",
+      "datestamp": "2023-07-18 06:11:16",
+      "eprint_status": "archive",
+      "eprintid": 52268,
+      "metadata_visibility": "show",
+      "userid": 197,
+      "lastmod": "2023-07-18 06:11:16",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 52268,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253090",
+            "security": "public",
+            "main": "JHS - ANALYSIS MANAGEMENT FX.pdf",
+            "files": [
+                {
+                  "filesize": 2568798,
+                  "objectid": 253090,
+                  "filename": "JHS - ANALYSIS MANAGEMENT FX.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619482",
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-18 04:04:18",
+                  "fileid": 619482,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "448bf4fe699ea74a85ccbbaee5608e77"
+                }
+            ],
+            "docid": 253090,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "CV Syntax Corporation Indonesia",
+      "publication": "Jurnal Health Sains",
+      "dir": "disk0_bak\/00\/05\/22\/68",
+      "issn": "2722-7782",
+      "full_text_status": "public",
+      "status_changed": "2023-07-18 06:11:16",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Polychlorinated Biphenyls (PCBs) are persistent organic\r\npollutants that harm the environment and human health. One\r\nof its uses is in the transformer at the electricity company. Efforts to prevent PCB contamination are carried out through identification and inventory, management of PCBs, and monitoring of PCBs. The methods used in this study were direct observation, questionnaires, and PCB testing using the Dexsil L2000DX\/Chloride Analyzer as early detection of the presence of PCBs in offline transformer oil and sorting out samples with chloride concentrations > 50 ppm. The data collected is in the form of primary data and secondary data. The purpose of this research is to implement an Environmental Safeguard, especially PCBs at PLN UP3 TPS Tanjung Karang Hazardousand Toxic Material Waste, so there will be no pollution to the surrounding environment",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52268",
+      "date": "2022-12-01"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "family": "Setyawan",
+            "lineage": null,
+            "honourific": null,
+            "given": "FX. Arinto"
+          },
+          "id": "fx.arinto@eng.unila.ac.id"
+        },
+        {
+          "id": "sumadi.1973@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sumadi",
+            "lineage": null,
+            "given": "Sumadi"
+          }
+        },
+        {
+          "name": {
+            "family": "putri",
+            "lineage": null,
+            "honourific": null,
+            "given": "michelin radina"
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "SISTEM KONTROL BEBAN DAN MONITORING DAYA BATERAI PADA PANEL SURYA 50WP UNTUK APLIKASI PENERANGAN BERBASIS INTERNET OF THINGS",
+      "userid": 197,
+      "documents": [
+          {
+            "eprintid": 52270,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253098",
+            "format": "text",
+            "main": "JITET - SISTEM KONTROL FX.pdf",
+            "docid": 253098,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 619500,
+                  "hash": "4e2c1b22b71f33ef9058f4155f05ea58",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-18 04:14:02",
+                  "filesize": 2400336,
+                  "objectid": 253098,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619500",
+                  "filename": "JITET - SISTEM KONTROL FX.pdf"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2023-07-18 06:10:46",
+      "eprint_status": "archive",
+      "eprintid": 52270,
+      "datestamp": "2023-07-18 06:10:46",
+      "metadata_visibility": "show",
+      "status_changed": "2023-07-18 06:10:46",
+      "issn": "2303-0577",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "JITET Jurnal Informatika dan Teknik Elektro",
+      "dir": "disk0_bak\/00\/05\/22\/70",
+      "abstract": "Panel surya adalah perangkat utama sistem pembangkit listrik\r\ntenaga surya yang berfungsi untuk mengkonversikan energi cahaya matahari menjadi energi listrik. Tujuan dari penelitian ini adalah guna mempermudah pengguna dalam memonitoring nilai tegangan dan arus dalam baterai yang dihasilkan oleh panel surya melalui smartphone dengan aplikasi yang su5dah dirancang. untuk mengembangkan alat dan aplikasi guna memonitoring dan mengkontrol panel surya berbasis Internet of Things dengan menggunakan mikrokontroller NodeMCU sehingga dapat terakses melalui internet. Pada alat yang akan dibuat membutuhkan sensor INA219 yang akan menjadi satu dengan NodeMCU. Pada penelitian ini didapatkan bahwa pada panel surya dengan tipe monocrystalline dengan daya 50WP hanya memiliki nilai deefisiensi sebesar 0,138%. Pada data hasil pengukuran sensor INA219 dapat dilihat bahwa data ini memiliki nilai keberhasilan sebesar 99,75% dan nilai error yang terbilang cukup kecil yaitu 0,25%. Pada sensor INA219 nilai arus yang terbaca sebesar 0,014 sampai dengan 0,712 A. Hal ini dapat terlihat pada serial monitor Blynk.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52270",
+      "date": "2022-08-15",
+      "subjects": [
+        "TK"
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "userid": 197,
+      "number": 2,
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs",
+      "documents": [
+          {
+            "eprintid": 42501,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164214",
+            "pos": 1,
+            "format": "text",
+            "docid": 164214,
+            "main": "Artikel Yuvi Electrician.pdf",
+            "files": [
+                {
+                  "fileid": 466939,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "9e6ca0254875088f54b7ef9bf2b39045",
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-15 08:00:13",
+                  "filesize": 662553,
+                  "objectid": 164214,
+                  "filename": "Artikel Yuvi Electrician.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/466939"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2022-06-15 09:28:02",
+      "eprint_status": "archive",
+      "eprintid": 42501,
+      "id_number": "https:\/\/doi.org\/10.23960\/elc.v16n2.2311",
+      "pagerange": "232-237",
+      "full_text_status": "public",
+      "issn": "1978-6042",
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/2311"
+        }
+      ],
+      "publisher": "Universitas Lampung",
+      "abstract": "Overheating adalah salah satu penyebab kerusakaan atau penurunan performa pada kendaraan. Dapat terjadi karena kurangnya air pada radiator atau bocornya radiator. Umumnya overheating terjadi pada kendaraan yang diproduksi sebelum tahun 2000 karena belum memiliki proteksi maupun peringatan jika terjadi temperature berlebih. Kendaraan dengan tahun produksi sebelum tahun 2000 biasanya hanya memiliki indicator suhu berupa jarum penunjuk dengan skala. Selain overheating, tegangan pada aki tidak dapat di pantau dikarenakan tidak adanya pembaca tegangan aki sehingga aki mengalami kurang tegangan ataupun kelebihan tegangan yang diakibatkan oleh rusaknya sistem pengecasan pada aki. Berdasarkan pada masalah tersebut maka dibuat alat untuk mencegah overheating dan mencegah kerusakan pada aki. Pada alat ini, digunakan sensor DS18b20 untuk mengetahui suhu yang terjadi pada mesin kendaraan, sedangkan informasi tegangan Aki didapatkan menggunakan rangkaian pembagi tegangan. Hasil sensor suhu dan tegangan diolah menggunakan Mikrokontroler Arduino Nano untuk mendapatkan informasi mengenai suhu mesin dan tegangan aki. Hasil pengolahan ditampilkan menggunakan LCD OLED dan keluarannya dihubungkan ke dua buah relay, satu relay untuk kipas otomatis dan satu relay untuk pengapian kendaraan. Hasil penelitian memperlihatkan bahwa alat ini dapat menghidupkan dan mematikan kipas secara otomatis dan dapat memutus pengapian kedaraan berdasarkan suhu air radiator. Alat ini memberikan peringatan apabila tegangan aki berada di atas atau di bawah tegangan normal. Dengan adanya alat ini maka overheating pada mesin dan kerusakan pada aki dapat dicegah.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date": "2022-05-01",
+      "creators": [
+        {
+          "name": {
+            "given": "FX. Arinto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Setyawan"
+          },
+          "id": "fx.arinto@eng.unila.ac.id"
+        },
+        {
+          "id": "herlinawati.rusydi@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "herlinawati",
+            "lineage": null,
+            "given": "herlinawati"
+          }
+        },
+        {
+          "name": {
+            "given": "Syaiful",
+            "honourific": null,
+            "lineage": null,
+            "family": "Alam"
+          },
+          "id": "syaiful.alam@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "Rancang Bangun Sistem Proteksi Overheating Mesin dan Pemantau Tegangan Aki pada Mobil",
+      "lastmod": "2022-06-15 09:28:02",
+      "metadata_visibility": "show",
+      "status_changed": "2022-06-15 09:28:02",
+      "rev_number": 6,
+      "dir": "disk0\/00\/04\/25\/01",
+      "publication": "ELECTRICIAN – Jurnal Rekayasa dan Teknologi Elektro",
+      "divisions": [
+        "FT5"
+      ],
+      "volume": 16,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42501",
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ]
+    },
+    {
+      "documents": [
+          {
+            "main": "JITET - PENENTUAN JARAK FX.pdf",
+            "docid": 253065,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "fe29c3f5581c261543e76b4ab397c2a8",
+                  "fileid": 619421,
+                  "datasetid": "document",
+                  "filename": "JITET - PENENTUAN JARAK FX.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619421",
+                  "filesize": 2349233,
+                  "objectid": 253065,
+                  "mtime": "2023-07-18 03:23:38",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 52264,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253065",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2023-07-18 03:31:19",
+      "userid": 197,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 52264,
+      "datestamp": "2023-07-18 03:31:19",
+      "refereed": "TRUE",
+      "title": "PENENTUAN JARAK OBJEK PENGHALANG MENGGUNAKAN METODE PERHITUNGAN JARAKPIKSEL DARI HISTOGRAM PROYEKSI BERPANDUAN LASER GARIS",
+      "creators": [
+        {
+          "name": {
+            "given": "FX. Arinto",
+            "lineage": null,
+            "family": "Setyawan",
+            "honourific": null
+          },
+          "id": "fx.arinto@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "herlinawati",
+            "family": "herlinawati",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "herlinawati.rusydi@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "ageng",
+            "lineage": null,
+            "family": "wicaksono",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52264",
+      "date": "2022-08-15",
+      "abstract": "Kemajuan ilmu teknologi pengolahan citra digital yang semakin pesat diharapkan dapat mempermudah kehidupan manusia dalam berbagai aspek kehidupan. Penelitian ini bertujuan untuk mendeteksi dan mengetahui jarak objek penghalang berdasarkan deteksi garis yang dipancarkan oleh berkas cahaya laser garis menggunakan bahasa pemrograman matlab dengan metode perhitungan jarak piksel. Metode perhitungan jarak piksel digunakan untuk mendeteksi garis pada sebuah citra yang diproses dengan melihat konsistensi dari garis laser. Penelitian ini menggunakan kotak sebagai objek untuk menentukan adanya penghalang dari sebuah citra yang ditangkap melalui kamera. Pada penelitian ini menggunakan parameter jarak, sudut kamera, dan sudut laser garis. Pengambilan data penelitian dilakukan pada sore hari di dalam ruangan tertutup dengan intensitas cahaya sebesar 10 lux. Suatu objek dapat dikatakan suatu penghalang apabila pada suatu citra terdapat garis laser yang terputus atau tidak pada posisi piksel yang sama. Namun, jika pada suatu citra terdapat garis yang konsisten atau tidak adanya perubahan garis maka citra tersebut dapat dikatakan tidak memiliki penghalang. Berdasarkan evaluasi perhitungan ketepatan jarak dengan pengambilan data sebenarnya dapat disimpulkan bahwa ketepatan jarak saat mengambil data adalah diatas 85%.",
+      "subjects": [
+        "TK"
+      ],
+      "ispublished": "pub",
+      "rev_number": 49,
+      "status_changed": "2023-07-18 03:31:19",
+      "full_text_status": "public",
+      "issn": "2303-0577",
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "JITET Jurnal Informatika dan Teknik Elektro",
+      "dir": "disk0_bak\/00\/05\/22\/64"
+    },
+    {
+      "rev_number": 6,
+      "ispublished": "pub",
+      "status_changed": "2023-04-11 00:49:40",
+      "issn": "2807-4238",
+      "full_text_status": "public",
+      "publisher": "Universitas Pahlawan Tuanku Tambusai",
+      "publication": "Innovative: Journal Of Social Science Research",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/04\/23\/85",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.universitaspahlawan.ac.id\/index.php\/Innovative\/article\/view\/4489"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42385",
+      "date": "2022-06-03",
+      "abstract": "Sistem pentanahan memiliki peranan penting untuk melindungi peralatan yang terhubung dengan sumber listrik maupun daerah disekitar peralatan terhadap lonjakan tegangan berlebih. Pada lokasi yang memiliki resistansi tanah yang tinggi umumnya dilakukan perlakuan terhadap tanah seperti penambahan zat aditif pada media disekitar elektroda pentanahan. Arang sekam padi merupakat salah satu zat aditif yang dapat digunakan untuk menurunkan resistansi pentanahan, karena arang sekam padi memiliki sifat menyerap air serta mempertahankan kelembaban di dalam tanah. Selain itu arang sekam padi mengandung senyawa kimia karbon yang bersifat konduktif untuk meningkatkan konduktivitas yang dapat meningkatkan kapasistas pertukaran kation tanah. Penambahan kedalaman lubang pentanahan dari 1m sampai 2 m dapat memberikan perbandingan hasil nilai tahanan pentanahan yang berbeda sehingga mendapatkan nilai resistansi yang terkecil. Perbandingan elektroda tembaga dan baja galvanis guna mengetahui perbandingan resistansi tanah antara kedua elektroda, sehingga didapatkan elektroda pentanahan terbaik. Hasil dari komposisi campuran terbaik pada penelitian ini yaitu pada kedalaman 2 m menggunakan elektroda tembaga dengan media pentanahan arang sekam padi bercampur dengan tanah menghasilkan resistansi 10,2 Ω.",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "refereed": "TRUE",
+      "title": "Kinerja Arang Sekam Padi untuk Memperbaiki Nilai Resistansi Pentanahan Dengan Menggunakan Elektroda Baja Galvanis dan Tembaga",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sinaga",
+            "given": "Herman Halomoan"
+          },
+          "id": "herman.h.sinaga@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 42385,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164097",
+            "pos": 1,
+            "security": "public",
+            "main": "4489-Article Text-15556-3-10-20220605.pdf",
+            "docid": 164097,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-13 04:09:07",
+                  "filesize": 387964,
+                  "objectid": 164097,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/466132",
+                  "filename": "4489-Article Text-15556-3-10-20220605.pdf",
+                  "datasetid": "document",
+                  "fileid": 466132,
+                  "mime_type": "application\/pdf",
+                  "hash": "1329c74c4f685d5099b98db92d253604"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 2,
+            "content": "published"
+          }
+      ],
+      "lastmod": "2023-04-11 00:49:40",
+      "userid": 689,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 42385,
+      "datestamp": "2023-04-11 00:49:40"
+    },
+    {
+      "issn": "ISBN 978-1-6654-0081-7",
+      "full_text_status": "public",
+      "status_changed": "2022-01-21 01:36:49",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "related_url": [
+        {
+          "url": "https:\/\/ieeexplore.ieee.org\/xpl\/conhome\/9650621\/proceeding"
+        }
+      ],
+      "publisher": "IEEE",
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "PROCEEDINGS ICCTEIE 2021",
+      "dir": "disk0\/00\/03\/81\/63",
+      "abstract": "Availability of a healthy consumable water decrease during time. This is mainly due to the presence of pollutants which degrade the ground water quality. Many of the pollutant sources are produced by human activities such as household wastes. Other main pollutant sources are agricultural and industrial wastes. One of the most concerns regard the drinking water quality is the presence of the pathogenic microorganism such as Escherichia coli. If consumed, Escherichia coli can cause diarrhea which could lead to severe stomach ache. Many approaches can be applied to disinfect the drinking water to eliminate the Escherichia coli. In this paper, discussed water treatment by using plasma generated by tesla transformer to disinfect the water thus eliminate the Escherichia coli. A prototype of the water treatment system is built by using a Tesla transformer to produce high voltage thus generate plasma which then used to kill the Escherichia coli bacteria. It is found that the system is able to eliminate the Escherichia coli bacteria when the water is treated for 60 minutes. The water quality is not affected by the treatment process. The water pH is in the range of 6.5-8.5, which is still meet the standard. Water TDS is slightly increase, but also still in the range acceptable i.e. below 500 ppm.",
+      "date": "2022-12-22",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38163",
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Herman Halomoan",
+            "honourific": null,
+            "lineage": null,
+            "family": "Sinaga"
+          },
+          "id": "herman.h.sinaga@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Handika",
+            "lineage": null,
+            "family": "Al Falaq",
+            "honourific": null
+          }
+        },
+        {
+          "id": "nining.purwasih@eng.unila.ac.id",
+          "name": {
+            "given": "Nining",
+            "lineage": null,
+            "family": "Purwasih",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Diah",
+            "honourific": null,
+            "family": "Permata",
+            "lineage": null
+          },
+          "id": "diah.permata@eng,unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "title": "Water Treatment Using Plasma Generated by High Voltage Tesla Transformer to Eliminate Escherichia Coli Bacteria",
+      "refereed": "TRUE",
+      "userid": 689,
+      "lastmod": "2022-01-21 01:36:49",
+      "official_url": "https:\/\/ieeexplore.ieee.org\/xpl\/conhome\/9650621\/proceeding",
+      "documents": [
+          {
+            "eprintid": 38163,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159161",
+            "pos": 1,
+            "format": "text",
+            "docid": 159161,
+            "main": "a3-sinaga final.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-20 15:38:26",
+                  "objectid": 159161,
+                  "filesize": 375733,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/433350",
+                  "filename": "a3-sinaga final.pdf",
+                  "fileid": 433350,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "ee7e6447d9824b4dff2885fd11d49dce"
+                }
+            ],
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "datestamp": "2022-01-21 01:36:49",
+      "eprintid": 38163,
+      "eprint_status": "archive",
+      "metadata_visibility": "show"
+    },
+    {
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Yogi Jentrapolta",
+            "honourific": null,
+            "lineage": null,
+            "family": "Siregar"
+          }
+        },
+        {
+          "id": "plgsekip@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Hakim",
+            "honourific": null,
+            "given": "Lukmanul"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Zebua",
+            "lineage": null,
+            "given": "Osea"
+          },
+          "id": "osea.zebua@eng.unila.ac.id"
+        },
+        {
+          "id": "khairudin@eng.unila.ac.id",
+          "name": {
+            "given": "Khairudin",
+            "family": "Hasan",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Pemodelan Vektor Metode Interior Point Untuk Studi Pembebanan \r\nMaksimum Sistem Tenaga Listrik",
+      "eprint_status": "archive",
+      "eprintid": 41864,
+      "datestamp": "2022-05-27 03:23:09",
+      "pagerange": "8-16",
+      "metadata_visibility": "show",
+      "number": 1,
+      "userid": 412,
+      "documents": [
+          {
+            "eprintid": 41864,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163532",
+            "format": "text",
+            "main": "2255-4894-3-PB.pdf",
+            "docid": 163532,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 462167,
+                  "hash": "8ddde349fa36b4ed0280b43cb0c1e49b",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-05-25 23:07:07",
+                  "objectid": 163532,
+                  "filesize": 479131,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/462167",
+                  "filename": "2255-4894-3-PB.pdf"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2022-05-27 03:23:09",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jitet\/article\/view\/2255\/1163",
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "Teknik Elektro Unila",
+      "publication": "Jurnal informatika dan Teknik Elektro Terapan (JITET)",
+      "dir": "disk0\/00\/04\/18\/64",
+      "status_changed": "2022-05-27 03:23:09",
+      "full_text_status": "public",
+      "issn": "2303-0577",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "volume": 10,
+      "abstract": "Beberapa tahun terakhir, pada sistem tenaga listrik beban yang ada semakin besar seiring peningkatan beban listrik. Permasalahan utama kondisi pembebanan akan menyebabkan ketidakstabilan tegangan di sistem tenaga listrik. Untuk mencegah ketidakstabilan sistem, penting bagi operator sistem tenaga untuk mengidentifikasi seberapa jauh sistem memuat dari kondisi kritisnya. Penelitian ini membahas masalah maksimum pembebanan dengan menggunakan metode non-linear primal-dual interior point method. Caranya dengan memaksimalkan beban sistem yang diwakili oleh pengganda skalar ke beban sistem. Kontribusi utama dari pekerjaan ini adalah dalam pengembangan model vectorized dari masalah dan pengembangan program aplikasi dalam bahasa pemrograman Pyhton. Model yang dikembangkan kemudian diuji untuk memecahkan masalah loadability maksimum untuk sistem pengujian IEEE 14-bus dan 30-bus. Simulasi dari model ini dan program komputer yang dikembangkan memberikan hasil yang memuaskan",
+      "date": "2022-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41864"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Soedjarwanto",
+            "given": "Noer"
+          },
+          "id": "noersoedjarwanto@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Budikarso",
+            "lineage": null,
+            "honourific": null,
+            "given": "Anang"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Kukuh",
+            "honourific": null,
+            "lineage": null,
+            "family": "Setyadjit"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Aripin",
+            "lineage": null,
+            "honourific": null,
+            "given": "Aripin"
+          }
+        },
+        {
+          "name": {
+            "given": "Budi",
+            "lineage": null,
+            "family": "Aswoyo",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Saleh",
+            "honourific": null,
+            "given": "Akuwan"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "M. Milchan",
+            "lineage": null,
+            "family": "M. Milchan",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "RANCANG BANGUN SPREAD SPECTRUM DENGAN METODE SINKRONISASI SERIAL CORRELATOR BERBASIS  FPGA",
+      "eprint_status": "archive",
+      "id_number": 10.33795,
+      "eprintid": 50176,
+      "datestamp": "2023-04-11 04:02:31",
+      "pagerange": "8-11",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 498,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189877",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 50176,
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "main": "RANCANG BANGUN SPREAD SPECTRUM DENGAN METODE SINKRONISASI.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-11 01:48:45",
+                  "objectid": 189877,
+                  "filesize": 919465,
+                  "filename": "RANCANG BANGUN SPREAD SPECTRUM DENGAN METODE SINKRONISASI.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542417",
+                  "datasetid": "document",
+                  "fileid": 542417,
+                  "hash": "f7c0bb3560fe751b18cc8f3837de4fd1",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 189877,
+            "format": "text"
+          }
+      ],
+      "official_url": "http:\/\/jtia.polinema.ac.id\/index.php\/jtia\/article\/view\/92",
+      "lastmod": "2023-04-11 04:02:31",
+      "publisher": "Jurnal Teknik Ilmu dan Aplikasi",
+      "divisions": [
+        "FT5"
+      ],
+      "publication": "Jurnal Teknik Ilmu dan Aplikasi",
+      "dir": "disk0_bak\/00\/05\/01\/76",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/doi.org\/10.33795\/jtia.v1i1.92"
+        }
+      ],
+      "status_changed": "2023-04-11 04:02:31",
+      "full_text_status": "public",
+      "issn": "2460-5549",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "volume": 3,
+      "abstract": "Makalah ini menitik-beratkan pada pembuatan sistem sinkronisasi pada teknik pentransmisian spread spectrum asinkron. Dalam merealisasikan modul digunakan Field Programmable Gate Array ( FPGA ) Spartan II XC2S100-5 tq 144 yang terintegrasi pada Board XSA 100,  implementasinya digunakan board XSA 100 dan software Xilinx ISE 6.1i. Modul terhubung secara wireline dan dirancang seperti terhubung secara wireless dimana pengaruh delay transmisi sangat besar pada proses tersebut. Dalam perancangan dan implementasi  modulini digunakan sistem Direct Sequence Spread Spectrum dan kode acak semu (pseudorandom code) maxlength dengan taping [5,2]. Pada proses transmisi antara pemancar dan penerima ditambahkan delay sebesar 1 periode  chip atau sekitar 0.2 microsecond, sehingga  menjadi sistem yang asinkron. Proses sinkronisasi pada penerima digunakan Serial Korelator yang terintegrasi dengan Digital Control Oscillator ( DCO ). Rangkaian ini bekerja pada proses akuisisi untuk mendapatkan timing sinyal yang benar pada proses despreading. Hasil pengujian dilakukan dan divisualisasi dengan Logic Analyser.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50176",
+      "date": "2022-10-14"
+    },
+    {
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/doi.org\/10.33795\/jtia.v1i1.91"
+        }
+      ],
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "Jurnal Teknik Ilmu dan Aplikasi",
+      "publication": "TUDI KELAYAKAN PEMBANGKIT LISTRIK TENAGA SURYA (PLTS) DENGAN BATERAI DAN TERHUBUNG GRID DI NIAS, SUMATERA UTARA",
+      "dir": "disk0_bak\/00\/05\/01\/69",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "issn": "2460-5549",
+      "status_changed": "2023-04-11 01:55:37",
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "date": "2022-10-14",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50169",
+      "abstract": "Pembangkit Listrik Tenaga Surya (PLTS) menjadi salah satu pembangkit dengan energi terbarukan yang terus dikembangkan di Indonesia guna memenuhi kebutuhan energi listrik. Pemerintah Indonesia mengeluarkan Rencana Usaha Penyediaan Tenaga Listrik (RUPTL) sebagai panduan manajemen energi nasional yang ditetapkan untuk menyelesaikan tantangan dan masalah kebutuhan energi dengan memanfaatkan sumber energi baru terbarukan. Kebutuhan energi listrik Pulau Nias yang terletak di Sumatera Utara masih dipenuhi oleh pembangkit eksisting yang bahan bakarnya tidak ramah lingkungan. Di samping itu, Pulau Nias memiliki potensi energi matahari mencapai 4,45 kWh\/m. Potensi tersebut perlu dimaksimalkan dengan rencana pengembangan dan studi kelayakan PLTS dengan sistem hybrid yang menggabungkan antara pembangkit eksisting, PLTS, dan baterai untuk mengurangi 20% konsumsi energi harian pembangkit eksisting. Pada studi kelayakan ini, PLTS akan menghasilkan energi dan diinjeksi ke grid sebesar 21695 MW yang akan mengalami degradasi sebesar 0,55% setiap tahunnya. Kapasitas sistem PLTS terpasang direncanakan sebesar 22,6 MWp dan baterai 28 MWh dengan konfigurasi sebanyak 1495 string modul pv dengan luas area lahansebesar 29.4 Ha.",
+      "volume": 3,
+      "title": "STUDI KELAYAKAN PEMBANGKIT LISTRIK TENAGA SURYA (PLTS) DENGAN BATERAI DAN TERHUBUNG GRID DI NIAS, SUMATERA UTARA",
+      "refereed": "TRUE",
+      "type": "article",
+      "creators": [
+        {
+          "id": "noersoedjarwanto@gmail.com",
+          "name": {
+            "given": "Noer",
+            "lineage": null,
+            "family": "Soedjarwanto",
+            "honourific": null
+          }
+        },
+        {
+          "id": "endah.komalasari@eng.unila.ac.id",
+          "name": {
+            "family": "Endah Komalasari",
+            "lineage": null,
+            "honourific": null,
+            "given": "Endah"
+          }
+        },
+        {
+          "name": {
+            "given": "Syuja",
+            "honourific": null,
+            "family": "Asyraf Fardhan",
+            "lineage": null
+          },
+          "id": "syujaasyraf66@gmail.com"
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "1-7",
+      "datestamp": "2023-04-11 01:55:37",
+      "eprint_status": "archive",
+      "id_number": 10.33795,
+      "eprintid": 50169,
+      "lastmod": "2023-04-11 01:55:37",
+      "official_url": "http:\/\/jtia.polinema.ac.id\/index.php\/jtia\/article\/view\/91",
+      "documents": [
+          {
+            "docid": 189871,
+            "main": "STUDI KELAYAKAN PEMBANGKIT LISTRIK TENAGA SURYA (PLTS).pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542380",
+                  "filename": "STUDI KELAYAKAN PEMBANGKIT LISTRIK TENAGA SURYA (PLTS).pdf",
+                  "filesize": 1254357,
+                  "objectid": 189871,
+                  "mtime": "2023-04-11 01:25:24",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "f3b05477ebdaf73c957a6a58977e9384",
+                  "fileid": 542380,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 50169,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189871",
+            "security": "public"
+          }
+      ],
+      "userid": 498,
+      "number": 2
+    },
+    {
+      "metadata_visibility": "show",
+      "datestamp": "2022-05-31 05:47:48",
+      "eprint_status": "archive",
+      "eprintid": 41981,
+      "official_url": "http:\/\/nemuinyimah.eng.unila.ac.id",
+      "lastmod": "2022-05-31 05:47:48",
+      "documents": [
+          {
+            "eprintid": 41981,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163684",
+            "pos": 1,
+            "format": "text",
+            "main": "nemui nyimah full.pdf",
+            "docid": 163684,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/463186",
+                  "filename": "nemui nyimah full.pdf",
+                  "filesize": 3575374,
+                  "objectid": 163684,
+                  "mtime": "2022-05-31 02:48:22",
+                  "hash_type": "MD5",
+                  "hash": "13ddb5003a9e9ad8dae4e7f90e28b5ab",
+                  "mime_type": "application\/pdf",
+                  "fileid": 463186,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "userid": 586,
+      "number": 1,
+      "title": "DIGITALISASI KETERSEDIAAN BAHAN BAKU DAN PRODUK\r\nPAKAN TERNAK DI DESA RUKTI ENDAH, SEPUTIH RAMAN, \r\nLAMPUNG TENGAH",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Sri Ratna",
+            "honourific": null,
+            "family": "Sulistiyanti",
+            "lineage": null
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "id": "dikiwinanti@fp.unila.ac.id",
+          "name": {
+            "family": "winanti",
+            "lineage": null,
+            "honourific": null,
+            "given": "diki"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Komalasari",
+            "honourific": null,
+            "given": "Agrianti"
+          },
+          "id": "agriantiksa@gmail.com"
+        },
+        {
+          "name": {
+            "given": "FX. Arinto",
+            "honourific": null,
+            "lineage": null,
+            "family": "Setyawan"
+          },
+          "id": "fx.arinto@eng.unila.ac.id"
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "TK"
+      ],
+      "date": 2022,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41981",
+      "abstract": "Desa Rukti Endah, Kecamatan Seputih Raman berpotensi sebagai sentra pakan ternak di Kabupaten Lampung Tengah. Kelompok peternak desa tersebut telah memanfaatkan produk samping pascapanen dari berbagai jenis tanaman pangan untuk diolah menjadi pakan sehingga dapat mencukupi kebutuhan konsumsi ternaknya secara mandiri. Manajemen rantai pasok (supply chain) pakan yang dilakukan oleh kelompok peternak selama ini masih menggunakan sistem seadanya dan distribusinya hanya mengalir begitu saja tanpa pencatatan yang jelas. Program Pengabdian Kepada Masyarakat Desa Binaan ini bertujuan untuk membantu masyarakat dalam digitalisasi tata kelola rantai pasok pakan ternak di Desa Rukti Endah mulai dari pengadaan bahan baku, pengolahan menjadi pakan, hingga pemasaran produknya ke area lokal kabupaten maupun sekitar Provinsi Lampung. Potensi keberlanjutan dari program ini sangat besar mengingat belum ada aplikasi android buatan lokal Indonesia yang mengulas tentang manajemen rantai pasok khususnya terkait produksi pakan ternak.",
+      "volume": 2,
+      "publication": "Nemui Nyimah: Jurnal Pengabdian kepada Masyarakat",
+      "publisher": "FT Universitas Lampung",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/04\/19\/81",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "issn": "2808-0904",
+      "status_changed": "2022-05-31 05:47:48"
+    },
+    {
+      "subjects": [
+        "TK"
+      ],
+      "volume": 16,
+      "abstract": "Bandar Lampung merupakan ibu kota Provinsi Lampung yang merupakan pintu gerbang Pulau Sumatera. Hal ini tentu akan berpengaruh terhadap kondisi lalu lintas di Bandar Lampung yang akan dilalui oleh ban- yak kendaraan dari berbagai jenis transportasi darat, sehingga akan menyebabkan kemacetan yang cukup signifikan. Oleh karena itu, penulis mengembangkan sebuah sistem monitoring objek dengan sistem pengi- riman data yang menggunakan modul NodeMCU ESP8266 berbasis sensor ultra sonic melalui jaringan 4G ke localhost, dengan parameter yang dianalisis adalah jumlah paket data dan kecepatan objek yang ada di perlintasan Jalan Sultan Agung Bandar Lampung. Skenario pada penelitian ini menggunakan 4 sensor ultrasonic dan sebuah controller yaitu NodeMCU ESP8266 yang digunakan untuk melakukan pengambilan data  saat  kendaraan  melintas  di  jalan  raya,  maupun  saat  kendaraan  dalam  kondisi  berhenti,  lalu  data dikirimkan menuju server dengan menggunakan XAMPP kemudian data yang telah diperoleh diekstrak. Berdasarkan hasil penelitian diperoleh hasil bahwa paket data yang hilang dengan nilai terkecil terjadi saat pengambilan  data pada waktu siang hari tepatnya  tanggal 21 Januari 2021 dengan nilai 28 paket atau persentase 14,66% dari jumlah paket keseluruhan pada sensor 2. Sementara, jumlah paket yang diterima paling banyak terjadi saat waktu siang hari tepatnya tanggal 21 Januari 2021 dengan jumlah 163 paket atau persentase sebesar 85,34% pada sensor 2. \r\n\r\nKata Kunci — Localhost, Microcontroller, NodeMCU ESP 8266, Sensing, Sensor Ultrasonic",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42244",
+      "date": "2022-05-27",
+      "publisher": "Jurusan Teknik Elektro, Fakultas Teknik, Universitas Lampung",
+      "publication": "Electrician",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/04\/22\/44",
+      "status_changed": "2022-06-09 05:42:36",
+      "issn": "2549-3442",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "eprint_status": "archive",
+      "referencetext": "[1] UU No. 32 Tahun 2004 Tentang Pemerintahan Daerah  \r\n[2] UU No. 22 Tahun 2009 Tentang Peningkatan Fungsi Jalan  [3] UU Nomor 38 Tahun 2004 Tentang Jalan Peraturan Walikota No 07 Tahun 2008 Tentang Rincian, Tugas, Fungsi Dan Tata Kerja Dinas Pekerjaan Umum Kota Bandar Lampung. \r\n[4] Zanella, A., N. Bui, A. Castellani, L. Vangelista”Internet of Things for Smart Cities” –IEEE Internet of Things Journal, Vol. 1, No.1, pp. 22-32, February 2017\r\n[5]  R. Hinden & S. Deering (2018) IP Version 6 Addressing Architecture RFC 3513[Online]. AvailableFTP: http:\/\/www.ietf.org\/rfc\/rfc3513.txt, 2018. \r\n[6] Ghosh, K., Bhowmick, M., & Joddar, D.Globally Controlled Multiple Relays Using NODE MCU :RCC INSTITUTE OF INFORMATION TECHNOLOGY, 2018 \r\n[7] Gupta, M. P. “Google Assistant Controlled Home Automation” International Research Journal of Engineering and Technology (IRJET), 5(5), 2074–2077,2018. \r\n[8] Muslihudin, M., Renvillia, W., Taufiq, Andoyo, A., & Susanto, F “Implementasi Aplikasi Rumah Pintar Berbasis Android Dengan Arduino Microcontroller“. Jurnal Keteknikan Dan Sains (JUTEKS), 2018–. LPPM UNHAS, 1(1), 23–31 \r\n[9] Samsugi, S., Ardiansyah, & Kastutara, D.“Arduino Dan Modul Wifi Esp8266 Sebagai Media Kendali Jarak Jauh Dengan \r\nELECTRICIAN – Jurnal Rekayasa dan Teknologi  Elektro \r\nVolume 16, No.2, Mei 2022 Antarmuka Berbasis Android”. Jurnal TEKNOINFO, 2018. 12(1), 23–27. \r\n[10] Wicaksono, M., “Implementasi Modul Wifi Nodemcu Esp8266 Untuk Smart Home” Jurnal Teknik Komputer. Unikom, 6(1), 1–6, 2017\r\n[11] S. Priyanka, G. Hemalatha, and C. Saranya.Sudden unintended acceleration avoidance and drowsiness detector for automobile accidents prevention, in 2017 Third International Conference on Science Technology Engineering Management (ICONSTEM), Mar. 2017, pp. 964–967, doi: 10.1109\/ICONSTEM.2017.8261346. \r\n[12] F. Jabeen, S. R. Rupanagudi, and V. G. Bhat. IoT based Smart Vehicle Ignition and Monitoring System, in 2019 International Conference on Advances in Computing, Communication and Control (ICAC3), pp.1–7, doi: 10.1109\/ICAC347590.2019.9036809, Dec. 2019. \r\n[13] Abraham, J. Analysis of Highway Speed Limits, Bachelor Degree Thesis, Faculty ofApplied Science and Engineering, University Toronto, Canada.2001.",
+      "eprintid": 42244,
+      "datestamp": "2022-06-09 05:42:36",
+      "pagerange": "153-160",
+      "metadata_visibility": "show",
+      "number": 2,
+      "userid": 700,
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 163942,
+            "main": "2259-Article Text-823-1-10-20220527.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash": "b2a3308f7feb73cc6096f468a33f8b27",
+                  "fileid": 465122,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/465122",
+                  "filename": "2259-Article Text-823-1-10-20220527.pdf",
+                  "objectid": 163942,
+                  "filesize": 848565,
+                  "mtime": "2022-06-09 03:40:09",
+                  "hash_type": "MD5"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163942",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 42244
+          }
+      ],
+      "lastmod": "2022-06-09 05:42:36",
+      "official_url": "https:\/\/electrician.unila.ac.id\/index.php\/ojs",
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yuniati",
+            "honourific": null,
+            "given": "Yetti"
+          },
+          "id": "yetti.yuniati@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "M. Gilang",
+            "lineage": null,
+            "family": "Bhagaskoro",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "title": "Analisis Paket Data dan Perhitungan Kecepatan Object dengan Menggunakan Modul NodeMCU ESP8266 dan Sensor Ultrasonic dengan Localhost"
+    },
+    {
+      "status_changed": "2022-05-09 08:55:31",
+      "full_text_status": "public",
+      "issn": "2715-6427 \/ 2715-0410",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "Engineering Faculty of Nurul Jadid University, Probolinggo, East Java, Indonesia",
+      "publication": "Journal of Electrical Engineering And Computer",
+      "dir": "disk0\/00\/04\/15\/48",
+      "volume": 4,
+      "abstract": "Salah satu inovasi pembelajaran virtual adalah dengan memanfaatkan perangkat digital secara maksimal untuk meningkatkan efisiensi pembelajaran online. Pengelola sistem bertanggung jawab atas kegiatan pembelajaran agar acara berjalan dengan sukses. Peran administrator adalah untuk mengatur lingkungan belajar dan sekaligus sebagai fasilitator pembelajaran. Sistem penyelenggaraan acara visitasi laboratorium secara online terkadang kurang efisien di sisi asisten laboratorium. Berdasarkan permasalahan tersebut, maka diusulkan suatu solusi mengenai pelaksanaan visitasi laboratorium online sebagai salah satu rangkaian kegiatan pembelajaran online. Dengan menggunakan rangkaian layanan produk Microsoft Office 365 dan Microsoft Power Platform, akan memudahkan event organizer untuk mengelola aktivitas preevent dan post-event. \r\n\r\nKata kunci : Pembelajaran virtual; Microsoft; Office 365; Power Platform; Metode Belajar.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41548",
+      "date": "2022-04-01",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "yetti.yuniati@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yuniati",
+            "given": "Yetti"
+          }
+        },
+        {
+          "id": "kairaamilanii@gmail.com",
+          "name": {
+            "given": "Kaira",
+            "honourific": null,
+            "lineage": null,
+            "family": "Milani Fitria"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Online Laboratorium Visit System using Microsoft",
+      "number": 1,
+      "userid": 700,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 41548,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163201",
+            "security": "public",
+            "files": [
+                {
+                  "mtime": "2022-05-09 03:29:10",
+                  "hash_type": "MD5",
+                  "filename": "Paper JEECOM.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/459912",
+                  "objectid": 163201,
+                  "filesize": 558193,
+                  "mime_type": "application\/pdf",
+                  "hash": "01b0a99399fd32770ead7a6e0c8dbc48",
+                  "fileid": 459912,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "Paper JEECOM.pdf",
+            "docid": 163201,
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2022-05-09 08:55:31",
+      "official_url": "https:\/\/ejournal.unuja.ac.id\/index.php\/jeecom\/issue\/view\/193\/showToc",
+      "eprint_status": "archive",
+      "eprintid": 41548,
+      "datestamp": "2022-05-09 08:55:31",
+      "pagerange": "24-26",
+      "metadata_visibility": "show"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yuniati",
+            "lineage": null,
+            "given": "Yetti"
+          },
+          "id": "yetti.yuniati@eng.unila.ac.id"
+        },
+        {
+          "id": "sri.purwiyanti@eng.unila.ac.id",
+          "name": {
+            "given": "Sri",
+            "honourific": null,
+            "lineage": null,
+            "family": "Purwiyanti"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nining",
+            "honourific": null,
+            "given": "Purwasih"
+          },
+          "id": "nining.purwasih@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "resty",
+            "family": "annisa",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "PEMBUATAN SISTEM INFORMASI BERBASIS WEBSITE INTERAKTIF\r\nMUSEUM NEGERI PROVINSI LAMPUNG",
+      "userid": 700,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 47677,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186766",
+            "pos": 1,
+            "security": "public",
+            "main": "27.pdf",
+            "files": [
+                {
+                  "hash": "1a64f8a32a8284be1b83926fb88955e1",
+                  "mime_type": "application\/pdf",
+                  "fileid": 522250,
+                  "datasetid": "document",
+                  "mtime": "2023-01-10 07:26:20",
+                  "hash_type": "MD5",
+                  "filename": "27.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522250",
+                  "filesize": 990326,
+                  "objectid": 186766
+                }
+            ],
+            "docid": 186766,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1
+          }
+      ],
+      "official_url": "https:\/\/sites.google.com\/eng.unila.ac.id\/prosiding-senapati-2022\/?pli=1",
+      "lastmod": "2023-01-10 07:53:48",
+      "eprintid": 47677,
+      "eprint_status": "archive",
+      "datestamp": "2023-01-10 07:53:48",
+      "pagerange": "155-159",
+      "metadata_visibility": "show",
+      "status_changed": "2023-01-10 07:53:48",
+      "issn": "2685-0427",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FT5"
+      ],
+      "publisher": "FT Universitas Lampung",
+      "publication": "Senapati Universitas Lampung",
+      "dir": "disk0_bak\/00\/04\/76\/77",
+      "abstract": "Sebuah sistem informasi sangat penting dalam berbagai hal, terlebih pada sebuah tempat kunjungan seperti\r\nmuseum. Sebagai pusat pengembangan kebudayaan, pusat pendidikan sejarah, bahkan pusat riset bidang\r\nsejarah, museum harus memiliki sistem informasi yang baik agar keberadaan museum dan berbagai informasi\r\ndi dalamnya dapat diketahui oleh masyarakat luas. Saat ini Museum Lampung, salah satu museum terpenting\r\ndi provinsi Lampung, belum memiliki sistem informasi yang memadai dan bisa diakses masyarakat. Untuk\r\nmengatasi permasalahan tersebut, pada kegiatan Pengabdian Kepada masyarakat (PKM) ini dibuatlah suatu\r\nsistem informasi Musem Lampung berupa website interaktif. Website ini tidak hanya memberikan informasi\r\nberupa koleksi museum yang database-nya bisa selalu di-update, tetapi juga dilengkapi dengan sarana\r\nkomunikasi interaktif antara pihak pengelola dan pengunjung website. Pada kegiatan ini juga dilakukan\r\npelatihan agar pihak pengelola Museum dapat mengelola website tersebut dengan baik. Saat ini website\r\ntersebut memang belum dioperasikan ke masyarakarat luas, karena masih sampai pada tahap pelatihan dan\r\nmelengkapi informasi di dalammnya. Namun dengan dibuatnya website tersebut, diharapkan terdapat manfaat\r\nyang bisa didapatkan. Dari sisi pengelola museum manfaatnya adalah mudah menyebarkan informasi tentang\r\nkegiatan yang sedang dan akan dilakukan museum, sehingga membuat ketertarikan pengunjung lebih tinggi\r\ndan menambah minat pengunjung untuk mendatangi museum. Sedangkan manfaat bagi masyarakat adalah\r\nmudahnya mengakses informasi yang ada pada museum.\r\n\r\nKata kunci: database, koleksi, museum, sistem informasi, website interaktif",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47677",
+      "date": "2022-08-20",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "submitted"
+    },
+    {
+      "type": "article",
+      "creators": [
+        {
+          "name": {
+            "given": "Osea",
+            "honourific": null,
+            "lineage": null,
+            "family": "Zebua"
+          },
+          "id": "osea.zebua@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Syaiful",
+            "family": "Alam",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "syaiful.alam@eng.unila.ac.id"
+        },
+        {
+          "id": "zulmiftah.huda@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Huda",
+            "honourific": null,
+            "given": "Zulmiftah"
+          }
+        }
+      ],
+      "title": "Pelatihan Pembuatan Alat Penghemat Energi Listrik Bagi Siswa-siswi SMK di Bandar Lampung",
+      "refereed": "TRUE",
+      "datestamp": "2022-04-19 08:42:14",
+      "eprint_status": "archive",
+      "eprintid": 41358,
+      "metadata_visibility": "show",
+      "pagerange": "36-39",
+      "userid": 412,
+      "number": 1,
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs",
+      "lastmod": "2022-04-19 08:42:14",
+      "documents": [
+          {
+            "eprintid": 41358,
+            "placement": 1,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162994",
+            "format": "text",
+            "main": "SakaiSambayan_vol6_no1_Osea-dkk.pdf",
+            "docid": 162994,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-19 02:34:39",
+                  "objectid": 162994,
+                  "filesize": 269683,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/458516",
+                  "filename": "SakaiSambayan_vol6_no1_Osea-dkk.pdf",
+                  "datasetid": "document",
+                  "fileid": 458516,
+                  "hash": "55986efb04aa167e0cba743f154d789c",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publisher": "LPPM UNILA",
+      "publication": "Jurnal Sakai Sambayan",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/04\/13\/58",
+      "issn": "2550-1089",
+      "full_text_status": "public",
+      "status_changed": "2022-04-19 08:42:14",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "date_type": "published",
+      "subjects": [
+        "TK"
+      ],
+      "abstract": "Penggunaan alat penghemat energi listrik dengan kapasitor daya sebagai komponen utamanya dapat memberikan kompensasi daya reaktif sekaligus memperbaiki profil tegangan pada beban. Besar kapasitas kapasitor yang digunakan harus diperhatikan sehingga tidak menimbulkan kenaikan tegangan yang melebihi batas operasi yang diijinkan. Kegiatan pengabdian ini bertujuan untuk membantu siswa-siswi \r\nSekolah Menengah Kejuruan (SMK) dalam memahami dan membuat alat penghemat energi listrik berbasis mikrokontroler. Metode yang digunakan berupa ceramah dan pelatihan. Hasil kegiatan diharapkan dapat meningkatkan pengetahuan dan ketrampilan dari siswa-siswi SMK dalam membuat sendiri alat penghemat energi listrik berbasis mikrokontroler",
+      "volume": 6,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41358",
+      "date": "2022-02"
+    },
+    {
+      "creators": [
+        {
+          "id": "osea.zebua@eng.unila.ac.id",
+          "name": {
+            "given": "Osea",
+            "lineage": null,
+            "family": "Zebua",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Danu",
+            "lineage": null,
+            "family": "Firmansah",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "I Made",
+            "family": "Ginarsa",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "kadekgin@unram.ac.id"
+        }
+      ],
+      "type": "article",
+      "refereed": "TRUE",
+      "title": "Estimasi Parameter Kurva Biaya Bahan Bakar Pembangkit Termal di Sistem Kelistrikan Lampung Menggunakan Metode Equilibrium Optimizer",
+      "number": 1,
+      "userid": 412,
+      "documents": [
+          {
+            "main": "Estimasi Parameter Kurva Biaya.pdf",
+            "docid": 161199,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 446936,
+                  "hash": "b95ffc8dbe2b43b2f1fff9802e872e3f",
+                  "mime_type": "application\/pdf",
+                  "objectid": 161199,
+                  "filesize": 803601,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/446936",
+                  "filename": "Estimasi Parameter Kurva Biaya.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-07 22:56:11"
+                }
+            ],
+            "format": "text",
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "eprintid": 39918,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161199",
+            "security": "public"
+          }
+      ],
+      "official_url": "https:\/\/dielektrika.unram.ac.id\/index.php\/dielektrika\/article\/view\/300",
+      "lastmod": "2022-03-08 01:04:38",
+      "eprint_status": "archive",
+      "eprintid": 39918,
+      "datestamp": "2022-03-08 01:04:38",
+      "pagerange": "33-41",
+      "metadata_visibility": "show",
+      "status_changed": "2022-03-08 01:04:38",
+      "issn": "2086-9487",
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Dielektrika",
+      "publisher": "Jurusan Teknik ELektro, Fakultas Teknik, Universitas Mataram",
+      "dir": "disk0\/00\/03\/99\/18",
+      "divisions": [
+        "FT5"
+      ],
+      "volume": 9,
+      "abstract": "The economical operation of thermal generators requires a fuel cost curve to determine the amount of generating active power to meet load demands. Operating temperature and generator aging can change the fuel cost curve, so the fuel cost curve needs to be estimated periodically. This paper presents the estimation of the fuel cost curve parameters of the thermal power plant in the Lampung electricity \r\nsystem using the Equilibrium Optimizer (EO) method. The fuel cost curve uses a smooth quadratic model with the objective function to be achieved is to minimize the total absolute error (difference) between the actual value and the estimated value. The estimation of the fuel cost curve parameters using the EO method was compared with the parameter estimation using the Grey Wolf Optimizer (GWO) \r\nand Particle Swarm Optimization (PSO) methods. The test results show that the EO method can estimate the parameters of the fuel cost curve for each thermal \r\ngenerator better than the estimation results of GWO and PSO methods by producing the most minimum total absolute error.",
+      "date": "2022-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39918",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39919",
+      "date": "2022-02",
+      "volume": 9,
+      "abstract": "Berbagai karakteristrik operasi dan gangguan yang terjadi pada jaringan distribusi dapat mengurangi umur pelayanan transformator distribusi. Pembebanan yang berlebihan, ketidakseimbangan beban dan gangguan \r\nhubungsingkat dapat mengakibatkan temperatur isolasi transformator naik dan mengakibatkan kerusakan isolasi transformator distribusi. Monitoring kondisi transformator distribusi terkendala dengan letak dan posisi pemasangan \r\ntransformator distribusi serta jumlah tenaga pemantau yang terbatas. Tujuan dari penelitian ini adalah membuat peralatan berbasis mikrokontroler dan internet of things (IoT) untuk memonitoring prediksi loss of life (berkurangnya umur pelayanan) transformator distribusi. Hasil penelitian \r\nmenunjukkan bahwa peralatan yang dibuat mampu menampilkan prediksi loss of life, besaran-besaran listrik dan temperatur transformator distribusi secara online yang dapat dipantau melalui peralatan yang terhubung ke jaringan \r\ninternet.",
+      "subjects": [
+        "TK"
+      ],
+      "date_type": "published",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2022-03-08 01:04:40",
+      "full_text_status": "public",
+      "issn": "2086-9487",
+      "publisher": "Jurusan Teknik ELektro, Fakultas Teknik, Universitas Mataram",
+      "publication": "Dielektrika",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0\/00\/03\/99\/19",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161200",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 39919,
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "Monitoring Loss of Life Transformator Distribusi.pdf",
+            "docid": 161200,
+            "files": [
+                {
+                  "filename": "Monitoring Loss of Life Transformator Distribusi.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/446945",
+                  "objectid": 161200,
+                  "filesize": 986048,
+                  "mtime": "2022-03-07 23:05:50",
+                  "hash_type": "MD5",
+                  "hash": "f0a00e00e02cf165b608052ef477eaf7",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 446945
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2022-03-08 01:04:40",
+      "official_url": "https:\/\/dielektrika.unram.ac.id\/index.php\/dielektrika\/article\/view\/306",
+      "number": 1,
+      "userid": 412,
+      "pagerange": "80-87",
+      "metadata_visibility": "show",
+      "eprintid": 39919,
+      "eprint_status": "archive",
+      "datestamp": "2022-03-08 01:04:40",
+      "refereed": "TRUE",
+      "title": "Monitoring Loss of Life Transformator Distribusi Menggunakan Internet of Things",
+      "type": "article",
+      "creators": [
+        {
+          "id": "osea.zebua@eng.unila.ac.id",
+          "name": {
+            "family": "Zebua",
+            "lineage": null,
+            "honourific": null,
+            "given": "Osea"
+          }
+        },
+        {
+          "id": "endah.komalasari@eng.unila.ac.id",
+          "name": {
+            "given": "Endah",
+            "lineage": null,
+            "family": "Komalasari",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Syaiful",
+            "honourific": null,
+            "family": "Alam",
+            "lineage": null
+          },
+          "id": "syaiful.alam@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "lastmod": "2023-07-12 05:11:37",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "main": "JTAF - HASIL KALIBRASI SRS.pdf",
+            "files": [
+                {
+                  "filesize": 1033593,
+                  "objectid": 252930,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619071",
+                  "filename": "JTAF - HASIL KALIBRASI SRS.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2023-07-12 04:46:59",
+                  "datasetid": "document",
+                  "fileid": 619071,
+                  "hash": "b7a467a334e051bde4331698066a3642",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "docid": 252930,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252930",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 52239
+          }
+      ],
+      "userid": 586,
+      "metadata_visibility": "show",
+      "datestamp": "2023-07-12 05:11:37",
+      "eprintid": 52239,
+      "eprint_status": "archive",
+      "title": "Hasil Pengujian Kalibrasi Sensor Akselerometer ADXL345",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "ferrina",
+            "lineage": null,
+            "given": "Quart"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sulistiyanti",
+            "lineage": null,
+            "given": "Sri Ratna"
+          },
+          "id": "sr_sulistiyanti@eng.unila.ac.id"
+        },
+        {
+          "id": "junaidi.1982@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Junaidi",
+            "given": "Junaidi"
+          }
+        }
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52239",
+      "date": "2022-07-02",
+      "abstract": "MEMS sensors commonly used in various studies for cost efficiency in production and well produced in large quantities. Sensor calibrate was important because of large quantities product and ensure that product can be operate proper and the output based on standard production. The ADXL345 sensor calibration test is carried out by measuring the output acceleration on a combination of 3 axes X, Y, and Z, named X+ (X axis gets a positive gravitational acceleration of 1 g), X (X axis gets a negative gravitational acceleration of 1 g), Y+, Y - , Z+, and Z-. A total of 100 data were collected and 10 data were presented in tables in each condition and presented in graphical form. ZeroG offset testing on the X-axis and Y-axis is carried out in the Z+ condition because in this condition the X-axis and Y-axis get a natural acceleration of Earth's gravity of 0 g. In this condition, the acceleration value on the Z axis is 0.9074g . For the X axis is 0.0048\r\ng\r\nand\r\n-0.0778\r\ng for the Y axis.This value is obtained from the average acceleration value of the X axis and Y axis in the Z+ condition. The zeroG offset test on the Z axis is determined\r\nby taking the middle value of the average measurement results in the Z+ and Z- conditions. This value is not the same as the typical value in the datasheet of 0 g, but the 0g offset value of these three axes is still within the minimum range of the sensor datasheet. The sensitivity value of the sensor in the calibration test results has a tendency to differ on each axis. The X-axis of 4.0012 mg\/LSB maximum range, Y-axis of 3.9900 mg\/LSB close to the values on the data sheet, and Z-axis of 3.7403 mg\/LSB near the range of values. \r\n\r\nKeywords: accelerometer, ADXL345, MEMS, calibration.",
+      "subjects": [
+        "T1",
+        "TA"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "issn": "2303-016X",
+      "full_text_status": "public",
+      "status_changed": "2023-07-12 05:11:37",
+      "publisher": "Jurusan Fisika FMIPA Universitas Lampung",
+      "publication": "Jurnal Teori dan Aplikasi Fisika",
+      "divisions": [
+        "FT5"
+      ],
+      "dir": "disk0_bak\/00\/05\/22\/39"
+    }
+]
+

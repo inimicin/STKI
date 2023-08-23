@@ -1,0 +1,100 @@
+[
+    {
+      "lastmod": "2020-07-14 04:02:44",
+      "documents": [
+          {
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31550",
+            "security": "public",
+            "placement": 1,
+            "eprintid": 18401,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "files": [
+                {
+                  "filename": "20.-Kurnia-Muludi-Penerapan-Sistem-Administrasi-Kependudukan-Desa-Untuk-Aparatur-Negara-Di-Desa-Tanjung-Tirto-Kecamatan-Way-Bungur-Kabupaten-Lampung-Timu.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/154781",
+                  "objectid": 31550,
+                  "filesize": 119715,
+                  "mtime": "2020-03-05 10:23:16",
+                  "hash_type": "MD5",
+                  "hash": "e5a8f4f5dd3ba26428e52b1664d4681d",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "fileid": 154781
+                }
+            ],
+            "main": "20.-Kurnia-Muludi-Penerapan-Sistem-Administrasi-Kependudukan-Desa-Untuk-Aparatur-Negara-Di-Desa-Tanjung-Tirto-Kecamatan-Way-Bungur-Kabupaten-Lampung-Timu.pdf",
+            "docid": 31550,
+            "format": "text"
+          }
+      ],
+      "userid": 2425,
+      "metadata_visibility": "show",
+      "datestamp": "2020-03-06 03:46:35",
+      "eprintid": 18401,
+      "eprint_status": "archive",
+      "event_location": "Lampung",
+      "title": "Penerapan Sistem Administrasi Kependudukan Desa\r\nUntuk Aparatur Negara Di Desa Tanjung Tirto\r\nKecamatan Way Bungur Kabupaten Lampung Timur",
+      "refereed": "FALSE",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "kurnia.muludi@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Muludi",
+            "honourific": null,
+            "given": "Kurnia"
+          }
+        },
+        {
+          "id": "machudor.yusman@fmipa.unila.ac.id",
+          "name": {
+            "family": "Yusman",
+            "lineage": null,
+            "honourific": null,
+            "given": "Machudor"
+          }
+        },
+        {
+          "name": {
+            "given": "Rizky",
+            "honourific": null,
+            "lineage": null,
+            "family": "Prabowo"
+          },
+          "id": "rizky.prabowo@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Pribadi",
+            "given": "Rd. Irwan Adi"
+          },
+          "id": "irwan.adipribadi@fmipa.unila.ac.id"
+        }
+      ],
+      "date": "2009-12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18401",
+      "abstract": "Pelaksanaan administrasi kependudukan desa telah diatur pemerintah dalam bentuk Buku Administrasi Penduduk. Kegiatan pengadian kepada masyarakat ini bertujuan untuk membantu meningkatkan pelayanan administrasi kependudukan di DesaTanjung Tirto. Salah satu upaya untuk meningkatkan pelayanan dengan menggunakan sistem administrasi kependudukan desa yang telah dikembangkandi Jurusan Ilmu Komputer. Sistem ini dapat memudahkan aparatur pemerintah desa dalam mengelola data kependudukan desa. Kegiatan pengabdian ini juga diisi dengan pelatihan penggunaan sistem oleh tim pengabdian kepada aparatur pemerintah desa yang akan menggunakan sistem ini. Dengan adanya kegiatan pengabdian kepada masyarakat ini dapat menambah pengetahuan aparatur pemerintah desa dalam pemanfaatan teknologi informasi dan komunikasi untuk pengelolaan data kependudukan",
+      "date_type": "published",
+      "event_title": "SEMNAS FEB 2019",
+      "subjects": [
+        "QA75"
+      ],
+      "rev_number": 9,
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "status_changed": "2020-03-06 03:46:35",
+      "event_type": "conference",
+      "dir": "disk0\/00\/01\/84\/01",
+      "divisions": [
+        "FMIPA3"
+      ]
+    }
+]
+

@@ -1,0 +1,92 @@
+[
+    {
+      "event_title": "Seminar Nasional Sains MIPA dan Aplikasinya Tahun 2009",
+      "subjects": [
+        "AC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/208",
+      "date": 2009,
+      "abstract": "Sudoku merupakan teka-teki logika yang menggunakan angka sebagai simbol, memiliki bentuk dan model permasalahan yang cukup menarik untuk dikaji. Salah satu teknik yang dapat digunakan dalam penyelesaian Sudoku adalah menggunakan Teknik Eliminasi dan Teknik Penelusuran Terkaan (Tracking Guess). Teknik penelusuran terkaan yang digunakan adalah metode jejak maju (Forward Tracking) yang biasa digunakan dalam penyelesaian komputasi pararel. Salah satu ide atau konsep yang dapat digunakan untuk melakukan forward tracking tersebut adalah menggunakan konsep dari Kage Bunshin Ninjutshu yang ada dalam cerita fiksi animasi Manga Naruto karangan Masashi Kisimoto.\r\nKata kunci: sudoku, forward tracking, kage bunshin",
+      "event_type": "conference",
+      "dir": "disk0\/00\/00\/02\/08",
+      "divisions": [
+        "FMIPA10"
+      ],
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2016-07-20 04:15:20",
+      "full_text_status": "public",
+      "pagerange": "35-44",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 208,
+      "datestamp": "2016-07-20 04:15:20",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/209",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 208,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "docid": 209,
+            "main": "Penyelesaian Permainan Sudoku Berbasis 9x9 Menggunakan  Algoritma Eliminasi dan Tracking Guess Kage Bunshin.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 1233,
+                  "hash": "8511608808a67fff19e4840c10e5c89b",
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2016-07-20 04:08:57",
+                  "objectid": 209,
+                  "filesize": 3723374,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/1233",
+                  "filename": "Penyelesaian Permainan Sudoku Berbasis 9x9 Menggunakan  Algoritma Eliminasi dan Tracking Guess Kage Bunshin.pdf"
+                }
+            ],
+            "format": "text"
+          }
+      ],
+      "lastmod": "2016-07-20 04:15:20",
+      "userid": 7,
+      "event_dates": "16-17 November 2009",
+      "refereed": "TRUE",
+      "title": "PENYELESAIAN PERMAINAN SUDOKU BERBASIS 9X9\r\nMENGGUNAKAN ALGORITMA ELIMINASI DAN TRACKING GUESS\r\nKAGE BUNSHIN",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": ".",
+          "name": {
+            "given": "Bima Harian",
+            "honourific": null,
+            "lineage": null,
+            "family": "Putra"
+          }
+        },
+        {
+          "name": {
+            "given": "Wamiliana",
+            "family": "Wamiliana",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "wamiliana@gmail.com"
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "Dian",
+            "lineage": null,
+            "family": "Kurniasari",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "conference_item",
+      "event_location": "Bandar Lampung"
+    }
+]
+

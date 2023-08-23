@@ -1,0 +1,428 @@
+[
+    {
+      "eprint_status": "archive",
+      "eprintid": 28663,
+      "datestamp": "2021-03-29 07:02:52",
+      "metadata_visibility": "show",
+      "userid": 921,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 28663,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42720",
+            "pos": 1,
+            "security": "public",
+            "docid": 42720,
+            "main": "implikasi-hukum-peralihan-kerenangan-pemu.pdf",
+            "files": [
+                {
+                  "objectid": 42720,
+                  "filesize": 1875273,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/254317",
+                  "filename": "implikasi-hukum-peralihan-kerenangan-pemu.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2021-03-29 06:08:36",
+                  "fileid": 254317,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "721e8b49d0ebc072145e73b818b7b227"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "lastmod": "2021-03-29 07:02:52",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "Implikasi Hukum Peralihan Kewenangan Pemungutan Pajak Bumi dan Bangunan Sektor Perdesaan dan Perkotaan Dari Pemerintah Pusat Kepada Pemerintah Kabupaten\/Kota",
+      "subjects": [
+        "K1"
+      ],
+      "date": "2012-07",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28663",
+      "divisions": [
+        "FH2"
+      ],
+      "publication": "Ilmu Hukum Praevia Program Pasca Sarjana Fakultas Hukum Universitas Lampung",
+      "dir": "disk0\/00\/02\/86\/63",
+      "status_changed": "2021-03-29 07:02:52",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub"
+    },
+    {
+      "status_changed": "2021-03-29 07:58:06",
+      "issn": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">1978-5186<\/font><\/font>",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "publication": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Fiat Justisia<\/font><\/font>",
+      "publisher": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Fakultas Hukum<\/font><\/font>",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/02\/86\/61",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28661",
+      "date": 2012,
+      "subjects": [
+        "K1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "lineage": null,
+            "honourific": null,
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          }
+        }
+      ],
+      "type": "article",
+      "refereed": "FALSE",
+      "title": "Pengawasan Penyelenggaraan Dana Bantuan Operasional Sekolah Di Madrasah Ibtidaiyah Negeri Sukarame",
+      "userid": 921,
+      "documents": [
+          {
+            "rev_number": 1,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "main": "Pengawasan Pajak.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/254307",
+                  "filename": "Pengawasan Pajak.pdf",
+                  "filesize": 406463,
+                  "objectid": 42718,
+                  "mtime": "2021-03-29 06:05:13",
+                  "hash_type": "MD5",
+                  "hash": "a3a78273c904ae384a50704c9c0614a6",
+                  "mime_type": "application\/pdf",
+                  "fileid": 254307,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 42718,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42718",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 28661
+          }
+      ],
+      "lastmod": "2021-03-29 07:58:06",
+      "eprint_status": "archive",
+      "eprintid": 28661,
+      "datestamp": "2021-03-29 07:58:06",
+      "metadata_visibility": "show"
+    },
+    {
+      "event_location": "Bandar Lampung",
+      "refereed": "FALSE",
+      "title": "Kebijakan Pemerintah Daerah Propinsi Lampung Dalam Pemungutan Pajak Kendaraan Bermotor Sebagai Upaya Perbaikan infrastruktur Di Propinsi Lampung",
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "family": "Nurmayani",
+            "lineage": null,
+            "honourific": null,
+            "given": "Nurmayani"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "main": "Review Nurmayani kebijakan daerah propinsi lampung.pdf",
+            "docid": 31326,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153132",
+                  "filename": "Review Nurmayani kebijakan daerah propinsi lampung.pdf",
+                  "objectid": 31326,
+                  "filesize": 119303,
+                  "mtime": "2020-02-24 08:22:44",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "hash": "fa3f012669c96b5f32dd168f23357ca2",
+                  "fileid": 153132,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "placement": 1,
+            "eprintid": 18186,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31326",
+            "security": "public"
+          }
+      ],
+      "lastmod": "2020-02-25 04:08:29",
+      "userid": 921,
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "eprintid": 18186,
+      "datestamp": "2020-02-25 04:08:29",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-02-25 04:08:29",
+      "full_text_status": "public",
+      "event_type": "conference",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/01\/81\/86",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18186",
+      "date": "2012-05",
+      "abstract": "Hasil penilaian sejawat sebidang atau peer review",
+      "subjects": [
+        "K1"
+      ],
+      "event_title": "Prosiding Penerbit Magister Teknil Sipil Universitas Lampung"
+    },
+    {
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "publisher": "Indepth Publishing",
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id"
+        }
+      ],
+      "corp_creators": [
+        "Fakultas Hukum Universitas Lampung"
+      ],
+      "abstract": "Di tengah maraknya sengketa lahan antara petani dengan perusahaan-perusahaan asing, penyelundupan hukum pertanahan dan penjualan pulau-pulau kecil kepada orang asing, buku ini memberikan penguatan terhadap larangan penguasaan tanah hak milik oleh pihak asing. Penguatan inipun menegaskan bahwa kepentingan Warga Negara Indonesia menjadi prioritas utama di atas segala kepentingan ekonomi, sosial dan politik. Diuraikan secara jelas berbagai problematika hukum kepemilikan tanah bagi orang asing, dan juga berisi pemikiran cerdas aktualisasi prinsip hak bangsa atas tanah dalam konteks pembangunan hukum nasional. Selain itu, diuraikan implikasi negatif atas peralihan tanah kepada orang asing yang terjadi dewasa ini, baik hak milik maupun hak penguasaan atas tanah lainnya, yang pada akhirnya menjadikan rakyat sebagai korban kebuasan ekomoni pemilik modal. Sehingga dalam buku ini seolah-olah ingin menggugat pemerintah atas ketidakonsistenan dan ketidaktegasan dalam melaksanakan UUPA, jangan sampai kesejahteraan rakyat jauh panggang daripada api. Selain itu, membaca buku ini dapat menimbulkan gairah nasionalisme para pembacanya, karena mengulas yuridiksi negara dalam bidang pertanahan.",
+      "date": "2012-10",
+      "series": "Hukum Agraria",
+      "place_of_pub": "Bandarlampung",
+      "isbn": "978-602-18479-61",
+      "refereed": "TRUE",
+      "number": 1,
+      "userid": 940,
+      "pages": 83,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 51636,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/249566",
+            "pos": 1,
+            "security": "public",
+            "main": "buku-sumarja-Problematika_2012_-cetak-fix.pdf",
+            "docid": 249566,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-15 04:10:22",
+                  "filesize": 1116314,
+                  "objectid": 249566,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/611658",
+                  "filename": "buku-sumarja-Problematika_2012_-cetak-fix.pdf",
+                  "fileid": 611658,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "dd1973a78053bbebb0f5cb53c587545c"
+                }
+            ],
+            "format": "text",
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1
+          }
+      ],
+      "official_url": "http:\/\/repository.lppm.unila.ac.id",
+      "eprint_status": "archive",
+      "eprintid": 51636,
+      "datestamp": "2023-05-15 06:47:57",
+      "status_changed": "2023-05-15 06:47:57",
+      "succeeds": 7523,
+      "rev_number": 7,
+      "dir": "disk0_bak\/00\/05\/16\/36",
+      "divisions": [
+        "FH2"
+      ],
+      "volume": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51636",
+      "subjects": [
+        "K1"
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "fxsmj.unila@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sumarja",
+            "given": "FX"
+          }
+        }
+      ],
+      "type": "book",
+      "title": "Problematika Kepemilikan Tanah Bagi Orang                                   Asing, Sebuah Tinjauan Yuridis- Filosofis",
+      "lastmod": "2023-05-15 06:47:57",
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hardiansyah",
+            "honourific": null,
+            "given": "Ridwan"
+          }
+        }
+      ],
+      "metadata_visibility": "show"
+    },
+    {
+      "type": "conference_item",
+      "pres_type": "paper",
+      "creators": [
+        {
+          "name": {
+            "given": "Hamidah",
+            "family": "Upik",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Pengadaan Tanah Untuk Kepentingan Pembangunan Infrastruktur Dalam Rangka Pengembangan Wilayah",
+      "refereed": "FALSE",
+      "userid": 769,
+      "lastmod": "2020-02-25 04:08:23",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "format": "text",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-24 04:00:53",
+                  "filesize": 139936,
+                  "objectid": 31324,
+                  "filename": "Review Upik H Pengadaan Tanah untuk Kepentingan.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153118",
+                  "fileid": 153118,
+                  "datasetid": "document",
+                  "hash": "91bf0767a337115e117e966ede08e831",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "Review Upik H Pengadaan Tanah untuk Kepentingan.pdf",
+            "docid": 31324,
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31324",
+            "eprintid": 18184,
+            "placement": 1
+          }
+      ],
+      "datestamp": "2020-02-25 04:08:23",
+      "eprintid": 18184,
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "full_text_status": "public",
+      "status_changed": "2020-02-25 04:08:23",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/01\/81\/84",
+      "event_type": "conference",
+      "abstract": "Hasil penilaian sejawat sebidang atau peer review",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18184",
+      "date": "2012-05",
+      "subjects": [
+        "K1"
+      ],
+      "event_title": "Prosiding Seminar Nasional Magister Teknil Sipil Universitas Lampung"
+    },
+    {
+      "title": "Politik Hukum Pengaturan Pengadaan Tanah Untuk Pembangunan Bagi Kepentingan Umum",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Upik",
+            "honourific": null,
+            "given": "Hamidah"
+          }
+        }
+      ],
+      "type": "article",
+      "metadata_visibility": "show",
+      "datestamp": "2020-02-25 04:05:59",
+      "eprintid": 18177,
+      "eprint_status": "archive",
+      "lastmod": "2020-02-25 04:05:59",
+      "documents": [
+          {
+            "format": "text",
+            "main": "Review Upik H Politik Hukum Pengaturan Pengadaan Tanah.pdf",
+            "files": [
+                {
+                  "fileid": 153072,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "hash": "1128220a2659fc4f73e9373cf9b0fbd8",
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-24 03:40:38",
+                  "objectid": 31317,
+                  "filesize": 148817,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153072",
+                  "filename": "Review Upik H Politik Hukum Pengaturan Pengadaan Tanah.pdf"
+                }
+            ],
+            "docid": 31317,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "eprintid": 18177,
+            "placement": 1,
+            "security": "public",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31317",
+            "pos": 1
+          }
+      ],
+      "userid": 769,
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "publication": "Praevia",
+      "dir": "disk0\/00\/01\/81\/77",
+      "divisions": [
+        "FH2"
+      ],
+      "ispublished": "pub",
+      "rev_number": 6,
+      "issn": "1907-8714",
+      "full_text_status": "public",
+      "status_changed": "2020-02-25 04:05:59",
+      "subjects": [
+        "K1"
+      ],
+      "date": "2012-01",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18177",
+      "abstract": "Hasil penilaian sejawat sebidang atau peer review"
+    }
+]
+

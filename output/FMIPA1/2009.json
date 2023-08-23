@@ -1,0 +1,69 @@
+[
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "status_changed": "2022-10-06 05:22:20",
+      "full_text_status": "public",
+      "publisher": "Jurnal Fisika dan Aplikasinya",
+      "divisions": [
+        "FMIPA1"
+      ],
+      "dir": "disk0\/00\/04\/55\/50",
+      "date": 2009,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45550",
+      "abstract": "Dokumen Abstrak",
+      "subjects": [
+        "AC"
+      ],
+      "date_type": "published",
+      "title": "Pengaruh Suhu Tinggi Terhadap Karakteristik Keramik Cordierite Berbasis Silika Sekam Padi",
+      "type": "other",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Karo Karo",
+            "lineage": null,
+            "given": "Pulung"
+          },
+          "id": "pulung.karokaro@gmail.com"
+        }
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "rev_number": 1,
+            "docid": 184328,
+            "main": "7. PENGARUH SUHU TINGGI TERHADAP KARAKTERISTIK.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "fileid": 505713,
+                  "mime_type": "application\/pdf",
+                  "hash": "52126bc2723ba94b7c5ff28521cfc6fc",
+                  "filesize": 95746,
+                  "objectid": 184328,
+                  "filename": "7. PENGARUH SUHU TINGGI TERHADAP KARAKTERISTIK.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/505713",
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-06 02:24:00"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184328",
+            "pos": 1,
+            "security": "public",
+            "placement": 1,
+            "eprintid": 45550
+          }
+      ],
+      "lastmod": "2022-10-06 05:22:20",
+      "userid": 949,
+      "metadata_visibility": "show",
+      "eprintid": 45550,
+      "eprint_status": "archive",
+      "datestamp": "2022-10-06 05:22:20"
+    }
+]
+

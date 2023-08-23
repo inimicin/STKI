@@ -1,0 +1,72 @@
+[
+    {
+      "pagerange": "53-60",
+      "metadata_visibility": "show",
+      "eprintid": 10725,
+      "eprint_status": "archive",
+      "datestamp": "2019-02-11 12:21:08",
+      "documents": [
+          {
+            "language": "en",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "docid": 23737,
+            "main": "Wahyu Sasongko = Jurnal Praevia Vol.2 No.1 Januari-Desember 2008.pdf",
+            "files": [
+                {
+                  "filesize": 10599470,
+                  "objectid": 23737,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/99005",
+                  "filename": "Wahyu Sasongko = Jurnal Praevia Vol.2 No.1 Januari-Desember 2008.pdf",
+                  "hash_type": "MD5",
+                  "mtime": "2019-02-11 07:26:05",
+                  "datasetid": "document",
+                  "fileid": 99005,
+                  "mime_type": "application\/pdf",
+                  "hash": "e115c61699146f305d3b77463794c0e3"
+                }
+            ],
+            "security": "public",
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23737",
+            "eprintid": 10725,
+            "placement": 1
+          }
+      ],
+      "lastmod": "2019-02-11 12:21:08",
+      "number": 1,
+      "userid": 987,
+      "refereed": "FALSE",
+      "title": "Pengaturan Indikasi Geografis di Indonesia",
+      "creators": [
+        {
+          "name": {
+            "given": "Wahyu",
+            "honourific": null,
+            "lineage": null,
+            "family": "Wahyu Sasongko"
+          }
+        }
+      ],
+      "type": "article",
+      "subjects": [
+        "K1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10725",
+      "date": "2008-01",
+      "volume": 2,
+      "publisher": "Program Pascasarjana Program Magister Hukum FH Unila",
+      "divisions": [
+        "FH1"
+      ],
+      "publication": "Praevia",
+      "dir": "disk0\/00\/01\/07\/25",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2019-02-11 12:21:08",
+      "issn": "1907-8714",
+      "full_text_status": "public"
+    }
+]
+
